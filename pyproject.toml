@@ -1,0 +1,8 @@
+[project]
+name = "stageL3"
+version = "2024.05.30"
+description = "package for detection of inclusive french in text"
+
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
