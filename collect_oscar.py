@@ -24,7 +24,7 @@ def load_new_dataset_from_oscar() :
 		for i in tqdm(range(prog)):
 			next(oscardata)
 
-	modelSUPER = SuperAnnModel(models=[AdvRBModel(proc=['fle', 'coo']) , NaiveRBModel(), InclureModel(), CRFModel()], weights=[0.29, 0.5, 0.5, 0.26], tol=0.6)
+	modelSUPER = SuperAnnModel(models=[AdvRBModel(proc=['fle', 'coo', 'neu', 'epi']) , NaiveRBModel(), InclureModel(), CRFModel()], weights=[0.29, 0.5, 0.26, 0.5], tol=0.75)
 
 	x, y = get_fr_inclusif_data()
 
@@ -35,10 +35,13 @@ def load_new_dataset_from_oscar() :
 	for i, d in enumerate(tqdm(oscardata)):
 		try :
 			if len(d['text']) < 1000000 :
+				doc = modelSUPER.nlp(d['text'])
 				iddoc = d['id']
-				preds = modelSUPER.predict([d['text']])
-				if len(preds[0]) > 0 :
-					df = pd.concat([df, modelSUPER.annotation_layout([d['text']], preds, iddoc=[iddoc]) ], ignore_index=True)
+				texts = [s.text for s in doc.sents]
+				preds = modelSUPER.predict(texts)
+				for j in range(0, len(texts)) :
+					if len(preds[j]) > 0 :
+						df = pd.concat([df, modelSUPER.annotation_layout([texts[j]], [preds[j]], iddoc=[iddoc]) ], ignore_index=True)
 		except KeyboardInterrupt :
 			with open('progress.txt', 'w') as f:
 				df.to_csv("dataset/SUPER_new_dataset.csv", mode='a')

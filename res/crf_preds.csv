@@ -1,21 +1,20 @@
 ,iddoc,context,range,text,category
-0,1, sur les dettes des agriculteurs·trices.,"{'beg': 29, 'end': 48}",agriculteurs·trices,UNKNOWN
-1,4,re utilisés par les patient-e-s avant/après la cons,"{'beg': 34, 'end': 45}",patient-e-s,UNKNOWN
-2,6,réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la ,"{'beg': 130, 'end': 160}",patient-e-x-s adolescent-e-x-s,UNKNOWN
-3,11,permettre à tout(e) étudiant(e) d'aller au bout de,"{'beg': 141, 'end': 151}",étudiant(e,UNKNOWN
-4,13,AD) soutiennent les patient-e-s dans leurs choix mé,"{'beg': 53, 'end': 64}",patient-e-s,UNKNOWN
-5,16, au vu du nombre de patient·e·s atteint·e·s.,"{'beg': 104, 'end': 127}",patient·e·s atteint·e·s,UNKNOWN
+0,1,Moratoire sur les dettes des agriculteurs·trices.,"{'beg': 14, 'end': 48}",les dettes des agriculteurs·trices,UNKNOWN
+1,4,Ils peuvent être utilisés par les patient-e-s avant/après la consultation ou avec le-,"{'beg': 34, 'end': 45}",patient-e-s,UNKNOWN
+2,6,e réflexion afin de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la santé sexuelle inclu,"{'beg': 130, 'end': 160}",patient-e-x-s adolescent-e-x-s,UNKNOWN
+3,11,"s du savoir scientifique et permettre à tout(e) étudiant(e) d'aller au bout de ses possibilités, a","{'beg': 133, 'end': 151}",tout(e) étudiant(e,UNKNOWN
+4,13,aide à la décision (AD) soutiennent les patient-e-s dans leurs choix médicaux en majorant l,"{'beg': 53, 'end': 64}",patient-e-s,UNKNOWN
+5,16,"sion exceptionnelle, au vu du nombre de patient·e·s atteint·e·s.","{'beg': 104, 'end': 127}",patient·e·s atteint·e·s,UNKNOWN
 6,22,"Madame, Monsieur,
 
-L'INSEE procède c","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN
-7,25,ure acceptation des personnes issues de la diversité LGB,"{'beg': 59, 'end': 75}",personnes issues,UNKNOWN
-8,33,rice Braive et pour celles et ceux de la rue Bleue.,"{'beg': 81, 'end': 95}",celles et ceux,UNKNOWN
-9,36,munication avec les patient·e·s allophones et du va,"{'beg': 78, 'end': 89}",patient·e·s,UNKNOWN
-10,41,"Mais, pour des millions de femmes et d'hommes, ce sont de nouvelles privations insuppor","{'beg': 15, 'end': 67}","millions de femmes et d'hommes, ce sont de nouvelles",UNKNOWN
-11,45, que l’engagement d’étudiant·e·s auprès de patient·e·s souffrant de COVID-,"{'beg': 34, 'end': 68}",étudiant·e·s auprès de patient·e·s,UNKNOWN
-12,46,"Quant aux professionnel(le)s de la santé, ils s’","{'beg': 10, 'end': 28}",professionnel(le)s,UNKNOWN
-13,48,"aque année, 100 000 Françaises et Français ont la chance de co","{'beg': 22, 'end': 44}",Françaises et Français,UNKNOWN
-14,50,"Mes chers amis, celles et ceux qui sont à l'intéri","{'beg': 16, 'end': 30}",celles et ceux,UNKNOWN
-15,50,"sont à l'intérieur, celles et ceux qui sont au dehors,","{'beg': 55, 'end': 69}",celles et ceux,UNKNOWN
-16,53,r la façon dont les participant(e)s interprètent les VV,"{'beg': 153, 'end': 168}",participant(e)s,UNKNOWN
-17,54,ecevrez la visite d'un.e agent.e recenseur.euse recruté.e par la ma,"{'beg': 69, 'end': 96}",un.e agent.e recenseur.euse,UNKNOWN
+L'INSEE procède chaque année au recen","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN
+7,33,e garde : « Pour Maurice Braive et pour celles et ceux de la rue Bleue.,"{'beg': 81, 'end': 95}",celles et ceux,UNKNOWN
+8,36,ications pour la communication avec les patient·e·s allophones et du vapotage dans l’arrêt ,"{'beg': 78, 'end': 89}",patient·e·s,UNKNOWN
+9,37,Notre revue annuelle couvre les dernières études épidémiologiques qui montrent qu,"{'beg': 12, 'end': 41}",annuelle couvre les dernières,UNKNOWN
+10,37, l’ignore et finalement qu’un quart des patient·e·s atteignent les cibles recommandées.,"{'beg': 206, 'end': 217}",patient·e·s,UNKNOWN
+11,45,Il est rappelé que l’engagement d’étudiant·e·s auprès de patient·e·s souffrant de COVID-19 devrait se faire sur une ba,"{'beg': 34, 'end': 78}",étudiant·e·s auprès de patient·e·s souffrant,UNKNOWN
+12,48,"Chaque année, 100 000 Françaises et Français ont la chance de connaître cette formid","{'beg': 18, 'end': 44}",000 Françaises et Français,UNKNOWN
+13,50,"Mes chers amis, celles et ceux qui sont à l'intérieur, celles et ceux ","{'beg': 16, 'end': 30}",celles et ceux,UNKNOWN
+14,50," celles et ceux qui sont à l'intérieur, celles et ceux qui sont au dehors, car je m'excuse aup","{'beg': 55, 'end': 69}",celles et ceux,UNKNOWN
+15,53,evues pour documenter la façon dont les participant(e)s interprètent les VVPH et se positionnen,"{'beg': 153, 'end': 168}",participant(e)s,UNKNOWN
+16,54,"février 2023, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrondissement e","{'beg': 69, 'end': 106}",un.e agent.e recenseur.euse recruté.e,UNKNOWN

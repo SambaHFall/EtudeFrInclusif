@@ -100,41 +100,64 @@ wd : a word
 output : a boolean indicating whether wd is an inflexion
 """
 def detect_flex(wd : str):
-	return uniflexrulesregex.match(wd)
+	return uniflexrulesregex.match(wd.lower())
 
 """
 wd : a word
 output : a boolean indicating whether wd is epicene
 """
 def detect_epi(wd : str):
-	return -1 if epirulesregex.exists(wd) else None
+	return -1 if epirulesregex.exists(wd.lower()) else None
 
 """
 wd : a word
 output : a boolean indicating whether wd is a neutral-gender word
 """
 def detect_neut(wd : str):
-	neutregex = r'.*(x|æ.*|ms?|ans?|aires?)$'
+	neutregex = r'.*(x|æ.*)$'
 	if neutrulesregex.exists(wd) :
 		return -1
-	if not re.match(neutregex, wd):
+	if len(wd) < 4 or not re.match(neutregex, wd.lower()):
 		return None
 	else:
-		if dictrules.exists( wd.lower() ) :
+		if not dictrules.exists( wd.lower() ) :
 			return -1
 		else:
 			return None
 
 """
 wd : a word
+output : the list of the possible masculine inflections for this word
+"""
+def masc_inf(wd: str) :
+	if re.match(r'ettes?$', wd) :
+		return [re.sub(r'ettes?$', 'et', wd), re.sub(r'ettes?$', 'e', wd), re.sub(r'ettes?$', '', wd)]
+	if re.match(r'esses?$', wd) :
+		return [re.sub(r'esses?$', 'e', wd), re.sub(r'esses?$', '', wd)]
+	if re.match(r'ères?$', wd) :
+		return [ re.sub(r'ères?$', 'er', wd) ]
+	if re.match(r'(r?ice|eure|euse)s?$', wd) :
+		return [ re.sub(r'(r?ice|eure|euse)s?$', 'eur' ,wd) ]
+	if re.match(r'effes?$', wd) :
+		return [ re.sub(r'effes?$', 'ef', wd) ]
+	if re.match(r'inn?es?$', wd) :
+		return [re.sub(r'inn?es?$', 'in', wd), re.sub(r'inn?es?$', 'ain', wd) ]
+	if re.match(r'es?$', wd) :
+		return [re.sub(r'es?$', '', wd) ]
+	return None
+
+
+
+"""
+wd : a word
 output : a boolean indicating whether wd is a feminisation
 """
 def detect_fem(wd : str):
-	femregex = r'.*(esse|ice|ette|eure|ante|inn?e)s?$'
-	if not re.match(femregex, wd):
+	masc = masc_inf(wd)
+	if len(wd) < 6 or masc is None:
 		return None
 	else:
-		if dictrules.exists( wd.lower() ) :
+		if not dictrules.exists( wd.lower() ) and sum(1 if dictrules.exists( m.lower() ) else 0 for m in masc ) > 0 :
 			return -1
 		else:
 			return None

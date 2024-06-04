@@ -225,7 +225,7 @@ class AnnPredModel(ABC):
 	iddoc : the id of the document
 	output : reshape the data (text and its annotations) in form of a DataFrame with the following columns : "iddoc", "context", "range", "text"
 	"""
-	def _sub_annotation_layout(self, text : str, anns : list[Ann], offset=20, iddoc=None) -> pd.DataFrame :
+	def _sub_annotation_layout(self, text : str, anns : list[Ann], offset=40, iddoc=None) -> pd.DataFrame :
 		dfdict = { "iddoc" : [], "context" : [], "range" : [], "text" : [], "category" : []}
 		for ann in anns :
 			dfdict["iddoc"].append(iddoc)
@@ -244,7 +244,7 @@ class AnnPredModel(ABC):
 	iddoc : a list contaning the id of the documents (must have the same length as texts and lanns)
 	output : reshape the data (texts and their annotations) in form of a DataFrame with the following columns : "iddoc", "context", "range", "text" (annotations are not grouped by document)
 	"""
-	def annotation_layout(self, texts : list[str], lanns : list[list[Ann]], offset=20, iddoc=[]) -> pd.DataFrame :
+	def annotation_layout(self, texts : list[str], lanns : list[list[Ann]], offset=40, iddoc=[]) -> pd.DataFrame :
 		df = pd.DataFrame( [], columns=["iddoc", "context", "range", "text", "category"])
 		for i in range(0, len(texts)) :
 			df = pd.concat([df, self._sub_annotation_layout(texts[i], lanns[i], offset=offset, iddoc = None if len(iddoc) == 0 else iddoc[i])], ignore_index=True)

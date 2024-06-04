@@ -19,7 +19,7 @@ models_list = []
 weights_list = []
 
 
-modelARB = AdvRBModel(proc=['fle', 'coo', 'neu', 'epi'])
+modelARB = AdvRBModel(proc=['fle', 'coo', 'neu', 'fem'])
 models_list.append(modelARB)
 
 preds = modelARB.predict(x)
@@ -66,17 +66,15 @@ weights_list.append(modelINC.metric(x, y, preds)["recall"])
 modelINC.annotation_layout(x, preds, iddoc=range(0,len(x))).to_csv("res/inclure_preds.csv")
 
 
-gran = 0.005
-x_axis = [ item for item in np.arange(0.7, 1+gran, gran) ]
+gran = 0.1
+x_axis = [ item for item in np.arange(0, 1+gran, gran) ]
 y_axes = {"precision" : [], "recall" : [], "f1-score" : []}
 for j in range(0,len(x_axis)) :
 	x_val = x_axis[j]
 	modelSUPER = SuperAnnModel(models = models_list, weights = weights_list, tol= x_val)
 	preds = modelSUPER.predict(x)
-	print("x_val=" + str(x_val) )
 	for key in y_axes :
 		y_axes[key].append(modelSUPER.metric(x,y,preds)[key])
-		print(str(key) + "=" + str(y_axes[key][-1]))
 
 fig, ax = plt.subplots()
 
