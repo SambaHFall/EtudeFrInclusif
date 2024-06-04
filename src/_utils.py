@@ -257,21 +257,23 @@ class AnnPredModel(ABC):
 	"""
 	def _sub_shaping(self, text : str, anns : list[Ann]) -> pd.DataFrame :
 		doc = self.nlp(text)
-		dfdict = {"texts" : [], "tokens" : [], "annotated" : [], "labels" : []}
+		dfdict = {"texts" : [], "tokens" : [], "annotated" : [], "labels" : [], "categories" : []}
 		for tk in doc :
 			dfdict["texts"].append(tk.text)
 			dfdict["tokens"].append(tk)
 			indcpl = (tk.idx, tk.idx + len(tk.text))
-			b = False
-			for ann in anns :
-				b = b or indcpl in ann
+			cpt = 0
+			while cpt < len(anns) and indcpl not in anns[cpt]:
+				cpt += 1
+			b = cpt < len(anns)
 			if not b :
 				dfdict["labels"].append('O')
-			elif self.labelmethod == 'IOB' and len(dfdict["annotated"][-1]) > 0 and dfdict["annotated"][-1][-1] :
-				dfdict["labels"].append('I')
-			else:
+			elif self.labelmethod == 'IOB' and (len(dfdict["annotated"][-1]) == 0 or not dfdict["annotated"][-1][-1]) :
 				dfdict["labels"].append('B')
+			else:
+				dfdict["labels"].append('I')
 			dfdict["annotated"].append(b)
+			dfdict["categories"].append( anns[cpt].metadata["category"] if b and "category" in anns[cpt].metadata else [] )
 		return pd.DataFrame(dfdict)
 
 	"""
@@ -280,7 +282,7 @@ class AnnPredModel(ABC):
 	output : reshape the data (texts) in form of a DataFrame with the following columns : [texts, tokens, annotated, labels] . Each row corresponds to a token from one the text (token are not grouped by document)
 	"""
 	def _shaping(self, texts : list[str], lanns : list[list[Ann]]) -> pd.DataFrame :
-		df = pd.DataFrame({"texts" : [], "tokens" : [], "annotateds" : [], "labels" : []})
+		df = pd.DataFrame({"texts" : [], "tokens" : [], "annotateds" : [], "labels" : [], "categories" : []})
 		for i in range(0, len(texts)) :
 			df = pd.concat([df, self._sub_shaping(texts[i], lanns[i])], ignore_index=True) 
 		return df

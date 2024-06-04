@@ -9,7 +9,7 @@ from src.super_model import SuperAnnModel
 
 import matplotlib.pyplot as plt
 import numpy as np
-
+from tqdm import tqdm
 
 x, y = get_fr_inclusif_data()
 
@@ -19,14 +19,14 @@ models_list = []
 weights_list = []
 
 
-modelARB = AdvRBModel(proc=['fle', 'coo', 'neu', 'fem', 'epi'])
+modelARB = AdvRBModel(proc=['fle', 'coo', 'neu', 'epi'])
 models_list.append(modelARB)
 
 preds = modelARB.predict(x)
 
 print("Métriques pour rule-based adv :")
 print(modelARB.metric(x, y, preds))
-weights_list.append(modelARB.metric(x, y, preds)["precision"])
+weights_list.append(modelARB.metric(x, y, preds)["recall"])
 
 modelARB.annotation_layout(x, preds, iddoc=range(0,len(x))).to_csv("res/arb_preds.csv")
 modelARB.annotation_layout(x,y,iddoc=range(0,len(x))).to_csv("res/obs.csv")
@@ -39,7 +39,7 @@ preds = modelNRB.predict(x)
 
 print("Métriques pour rule-based naïf :")
 print(modelNRB.metric(x, y, preds))
-weights_list.append(modelNRB.metric(x, y, preds)["precision"])
+weights_list.append(modelNRB.metric(x, y, preds)["recall"])
 
 modelNRB.annotation_layout(x, preds, iddoc=range(0,len(x))).to_csv("res/nrb_preds.csv")
 
@@ -61,20 +61,22 @@ preds = modelINC.predict(x)
 
 print("Métriques pour Inclure :")
 print(modelINC.metric(x, y, preds))
-weights_list.append(modelINC.metric(x, y, preds)["precision"])
+weights_list.append(modelINC.metric(x, y, preds)["recall"])
 
 modelINC.annotation_layout(x, preds, iddoc=range(0,len(x))).to_csv("res/inclure_preds.csv")
 
 
-gran = 0.01
-x_axis = [ item * gran for item in np.arange(0, 1, gran) ]
+gran = 0.005
+x_axis = [ item for item in np.arange(0.7, 1+gran, gran) ]
 y_axes = {"precision" : [], "recall" : [], "f1-score" : []}
 for j in range(0,len(x_axis)) :
 	x_val = x_axis[j]
 	modelSUPER = SuperAnnModel(models = models_list, weights = weights_list, tol= x_val)
 	preds = modelSUPER.predict(x)
+	print("x_val=" + str(x_val) )
 	for key in y_axes :
 		y_axes[key].append(modelSUPER.metric(x,y,preds)[key])
+		print(str(key) + "=" + str(y_axes[key][-1]))
 
 fig, ax = plt.subplots()
 
