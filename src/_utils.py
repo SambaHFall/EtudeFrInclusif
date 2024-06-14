@@ -31,9 +31,10 @@ def spacynlp(loadfrom : str) :
 """
 output : training data load from "corpus français inclusif" in form of : list[str], list[list[Ann]]  
 """
-def get_fr_inclusif_data() :
+def get_fr_inclusif_data():
 	df = pd.read_csv("data/fr_inclusif.csv")
 	return [item for item in df["Text"]], [ [Ann(item["beg"], item["end"], text=item["text"], metadata=item["metadata"]) for item in eval(jtem)] for jtem in df["Annotations"]  ]
+
 
 """
 l : list
@@ -229,8 +230,12 @@ class AnnPredModel(ABC):
 		dfdict = { "iddoc" : [], "context" : [], "range" : [], "text" : [], "category" : []}
 		for ann in anns :
 			dfdict["iddoc"].append(iddoc)
-			beg = max(ann.beg - offset, 0)
-			end = min(ann.end + offset, len(text))
+			if offset is None :
+				beg = 0
+				end = len(text)
+			else :
+				beg = max(ann.beg - offset, 0)
+				end = min(ann.end + offset, len(text))
 			dfdict["context"].append(text[beg:end])
 			dfdict["text"].append(text[ann.beg : ann.end])
 			dfdict["range"].append({'beg' : ann.beg, 'end' : ann.end})

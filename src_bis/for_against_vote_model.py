@@ -6,13 +6,14 @@ from src.inclure import InclureModel
 
 extends AnnPredModel
 """
-class SuperAnnModel(AnnPredModel) :
+class FAVoteModel(AnnPredModel) :
 
-	def __init__(self, models=[InclureModel()], weights=None, tol=0.5):
+	def __init__(self, for_models=[InclureModel()], ag_models=[], weights=None, tol=0.5):
 		super().__init__(nlpmodel="fr_core_news_sm")
-		self.models = models
+		self.for_models = for_models
+		self.ag_models = ag_models
 		if weights is None :
-			self.weights = [1] * len(models)
+			self.weights = [[1] * len(for_models), [1] * len(ag_models) ] 
 		else:
 			self.weights = weights
 		self.tol = tol
@@ -31,22 +32,28 @@ class SuperAnnModel(AnnPredModel) :
 
 			res.append([])
 
-			pred_dfs = []
+			pred_for_dfs = []
+			pred_ag_dfs = []
 
-			for mod in self.models :
-				pred_dfs.append( self._sub_shaping(text, mod.predict([text])[0] ) )
+			for mod in self.for_models :
+				pred_for_dfs.append( self._sub_shaping(text, mod.predict([text])[0] ) )
+
+			for mod in self.ag_models :
+				pred_ag_dfs.append( self._sub_shaping(text, mod.predict([text])[0] ) )
 
 			super_dict = {"texts" : [], "tokens" : [], "annotated" : [], "labels" : [], "categories" : []}
 
-			for i in range(0, len(pred_dfs[0]) ) :
-				super_dict["texts"].append(pred_dfs[0]["texts"][i])
-				super_dict["tokens"].append(pred_dfs[0]["tokens"][i])
+			for i in range(0, len(pred_for_dfs[0]) ) :
+				super_dict["texts"].append(pred_for_dfs[0]["texts"][i])
+				super_dict["tokens"].append(pred_for_dfs[0]["tokens"][i])
 				score = 0
 				cat = []
-				for j in range(0, len(pred_dfs)) :
-					score += (1 if pred_dfs[j]["annotated"][i] else 0) * self.weights[j]
+				for j in range(0, len(pred_for_dfs)) :
+					score += (1 if pred_for_dfs[j]["annotated"][i] else 0) * self.weights[0][j]
 					cat = cat + [item + f"_{j}" for item in pred_dfs[j]["categories"][i] ]
-				score = score / sum(w for w in self.weights)
+				for j in range(0, len(pred_ag_dfs)) :
+					score += (-1 if pred_ag_dfs[j]["annotated"][i] else 0) * self.weights[1][j]
+				score = score / ( sum(w for w in self.weights[0]) + sum(w for w in self.weights[1]) )
 				super_dict["annotated"].append( score >= 1 - self.tol )
 				super_dict["labels"].append('I' if super_dict["annotated"] else 'O')
 				super_dict["categories"].append(None if not super_dict["annotated"] else list(set(cat)) )

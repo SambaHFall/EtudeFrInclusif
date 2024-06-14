@@ -114,9 +114,10 @@ wd : a word
 output : a boolean indicating whether wd is a neutral-gender word
 """
 def detect_neut(wd : str):
-	neutregex = r'.*(x|æ.*)$'
 	if neutrulesregex.exists(wd) :
 		return -1
+	"""
+	neutregex = r'.*(x|æ.*)$'
 	if len(wd) < 4 or not re.match(neutregex, wd.lower()):
 		return None
 	else:
@@ -124,25 +125,26 @@ def detect_neut(wd : str):
 			return -1
 		else:
 			return None
+	"""
 
 """
 wd : a word
 output : the list of the possible masculine inflections for this word
 """
 def masc_inf(wd: str) :
-	if re.match(r'ettes?$', wd) :
+	if re.match(r'.*ettes?$', wd) :
 		return [re.sub(r'ettes?$', 'et', wd), re.sub(r'ettes?$', 'e', wd), re.sub(r'ettes?$', '', wd)]
-	if re.match(r'esses?$', wd) :
+	if re.match(r'.*esses?$', wd) :
 		return [re.sub(r'esses?$', 'e', wd), re.sub(r'esses?$', '', wd)]
-	if re.match(r'ères?$', wd) :
+	if re.match(r'.*ères?$', wd) :
 		return [ re.sub(r'ères?$', 'er', wd) ]
-	if re.match(r'(r?ice|eure|euse)s?$', wd) :
+	if re.match(r'.*(r?ice|eure|euse)s?$', wd) :
 		return [ re.sub(r'(r?ice|eure|euse)s?$', 'eur' ,wd) ]
-	if re.match(r'effes?$', wd) :
+	if re.match(r'.*effes?$', wd) :
 		return [ re.sub(r'effes?$', 'ef', wd) ]
-	if re.match(r'inn?es?$', wd) :
+	if re.match(r'.*inn?es?$', wd) :
 		return [re.sub(r'inn?es?$', 'in', wd), re.sub(r'inn?es?$', 'ain', wd) ]
-	if re.match(r'es?$', wd) :
+	if re.match(r'.*es?$', wd) :
 		return [re.sub(r'es?$', '', wd) ]
 	return None
 

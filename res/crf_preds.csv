@@ -1,20 +1,23 @@
 ,iddoc,context,range,text,category
-0,1,Moratoire sur les dettes des agriculteurs·trices.,"{'beg': 14, 'end': 48}",les dettes des agriculteurs·trices,UNKNOWN
-1,4,Ils peuvent être utilisés par les patient-e-s avant/après la consultation ou avec le-,"{'beg': 34, 'end': 45}",patient-e-s,UNKNOWN
-2,6,e réflexion afin de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la santé sexuelle inclu,"{'beg': 130, 'end': 160}",patient-e-x-s adolescent-e-x-s,UNKNOWN
-3,11,"s du savoir scientifique et permettre à tout(e) étudiant(e) d'aller au bout de ses possibilités, a","{'beg': 133, 'end': 151}",tout(e) étudiant(e,UNKNOWN
-4,13,aide à la décision (AD) soutiennent les patient-e-s dans leurs choix médicaux en majorant l,"{'beg': 53, 'end': 64}",patient-e-s,UNKNOWN
-5,16,"sion exceptionnelle, au vu du nombre de patient·e·s atteint·e·s.","{'beg': 104, 'end': 127}",patient·e·s atteint·e·s,UNKNOWN
-6,22,"Madame, Monsieur,
+0,0,"février 2023, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrondissement e","{'beg': 69, 'end': 106}",un.e agent.e recenseur.euse recruté.e,UNKNOWN
+1,0,"ar la mairie de votre arrondissement et muni.e, à cet effet, d'une carte officielle.","{'beg': 148, 'end': 154}",muni.e,UNKNOWN
+2,1,Elle est aussi l'engagement de millions de Françaises et de Français.,"{'beg': 40, 'end': 68}",de Françaises et de Français,UNKNOWN
+3,2,"Madame, Monsieur, Citoyenne, Citoyen, le système est à b","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN
+4,3," données disponibles, pour informer les patient(e)s pris(es) en charge et adapter les pratiques d’A","{'beg': 106, 'end': 125}",patient(e)s pris(es,UNKNOWN
+5,4,"égrative et complémentaire en 2021, les auteur·e·s présentent une sélection de six article","{'beg': 85, 'end': 95}",auteur·e·s,UNKNOWN
+6,5,"Françaises, Français, nous vivons une crise démocratique.","{'beg': 0, 'end': 20}","Françaises, Français",UNKNOWN
+7,6,"Madame, Monsieur, chers compatriotes,
 
-L'INSEE procède chaque année au recen","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN
-7,33,e garde : « Pour Maurice Braive et pour celles et ceux de la rue Bleue.,"{'beg': 81, 'end': 95}",celles et ceux,UNKNOWN
-8,36,ications pour la communication avec les patient·e·s allophones et du vapotage dans l’arrêt ,"{'beg': 78, 'end': 89}",patient·e·s,UNKNOWN
-9,37,Notre revue annuelle couvre les dernières études épidémiologiques qui montrent qu,"{'beg': 12, 'end': 41}",annuelle couvre les dernières,UNKNOWN
-10,37, l’ignore et finalement qu’un quart des patient·e·s atteignent les cibles recommandées.,"{'beg': 206, 'end': 217}",patient·e·s,UNKNOWN
-11,45,Il est rappelé que l’engagement d’étudiant·e·s auprès de patient·e·s souffrant de COVID-19 devrait se faire sur une ba,"{'beg': 34, 'end': 78}",étudiant·e·s auprès de patient·e·s souffrant,UNKNOWN
-12,48,"Chaque année, 100 000 Françaises et Français ont la chance de connaître cette formid","{'beg': 18, 'end': 44}",000 Françaises et Français,UNKNOWN
-13,50,"Mes chers amis, celles et ceux qui sont à l'intérieur, celles et ceux ","{'beg': 16, 'end': 30}",celles et ceux,UNKNOWN
-14,50," celles et ceux qui sont à l'intérieur, celles et ceux qui sont au dehors, car je m'excuse aup","{'beg': 55, 'end': 69}",celles et ceux,UNKNOWN
-15,53,evues pour documenter la façon dont les participant(e)s interprètent les VVPH et se positionnen,"{'beg': 153, 'end': 168}",participant(e)s,UNKNOWN
-16,54,"février 2023, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrondissement e","{'beg': 69, 'end': 106}",un.e agent.e recenseur.euse recruté.e,UNKNOWN
+L'écologie est l'","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN
+8,10,Les transexuel/es doivent pouvoir changer d'état-civil,"{'beg': 4, 'end': 14}",transexuel,UNKNOWN
+9,10,"transexuel/es doivent pouvoir changer d'état-civil et/ou de numéro de Sécu, sans passer par u","{'beg': 44, 'end': 57}",état-civil et,UNKNOWN
+10,11,"dus pour en tirer des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globaux ne re","{'beg': 118, 'end': 142}",un•e lecteur•ice avisé-e,UNKNOWN
+11,13,"mier recours dans la prise en charge de patient·e·s avec une stéatopathie métabolique, et d","{'beg': 82, 'end': 93}",patient·e·s,UNKNOWN
+12,14,L’unité légale Association des ancien-ne-s etudiant-e-s vice-president-e-s d'universite est une Association déclar,"{'beg': 31, 'end': 74}",ancien-ne-s etudiant-e-s vice-president-e-s,UNKNOWN
+13,17,"Mes chers amis, celles et ceux qui sont à l'intérieur, celles et ceux ","{'beg': 16, 'end': 30}",celles et ceux,UNKNOWN
+14,17," celles et ceux qui sont à l'intérieur, celles et ceux qui sont au dehors, car je m'excuse aup","{'beg': 55, 'end': 69}",celles et ceux,UNKNOWN
+15,18," se détériorent, le stresse augmente, c'est-à-dire l'exploitation et l'aliénation.","{'beg': 284, 'end': 294}",est-à-dire,UNKNOWN
+16,22, à l’accueil et l’accompagnement de ces étudiant·e·s.,"{'beg': 95, 'end': 107}",étudiant·e·s,UNKNOWN
+17,24,Une étape (de diplôme) est ce à quoi l'étudiant·e s'inscrit.,"{'beg': 39, 'end': 49}",étudiant·e,UNKNOWN
+18,25,es entrevues ont été réalisées avec des participant(e)s (n = 146) de quatre provinces canadienn,"{'beg': 50, 'end': 65}",participant(e)s,UNKNOWN
+19,27,"Madame, Monsieur, cette élection est d'une extrême impor","{'beg': 0, 'end': 16}","Madame, Monsieur",UNKNOWN

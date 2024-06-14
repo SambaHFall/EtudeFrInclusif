@@ -48,7 +48,7 @@ doc : a spacy Document
 output : a list of Ann (all the annotations corresponding to feminisations found in the document)
 """
 def detect_fem(doc) -> list[Ann] :
-	femregex = re.compile(r'.*(ère|ice|eure|elle|effe|ette|esse|enne|euse)s?')
+	femregex = re.compile(r'.*(ère|ice|eure|elle|effe|ette|esse|enne|euse)s?$')
 	anns = []
 	for tk in doc :
 		wd = tk.text
