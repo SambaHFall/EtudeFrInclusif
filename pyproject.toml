@@ -1,7 +1,13 @@
 [project]
-name = "stageL3"
-version = "2024.05.30"
-description = "package for detection of inclusive french in text"
+name = "EtudeFrInclusif"
+version = "2024.06.14"
+description = "package for detection of inclusive french in french document"
+authors = [ { name="Samba Fall" } ]
+readme = "README.md"
+requires-python = ">=3.10.12"
+
+[project.urls]
+Homepage = "https://github.com/SambaHFall/EtudeFrInclusif"
 
 [build-system]
 requires = ["setuptools >= 61.0"]

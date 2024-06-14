@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: EtudeFrInclusif
+Version: 2024.6.14
+Summary: package for detection of inclusive french in french document
+Author: Samba Fall
+Project-URL: Homepage, https://github.com/SambaHFall/EtudeFrInclusif
+Requires-Python: >=3.10.12
+Description-Content-Type: text/markdown
+
+# EtudeFrInclusif
+
+This project provides methods to detect inclusive french within document in french. It also provides a toolkit aimed to build a inclusive french corpus
