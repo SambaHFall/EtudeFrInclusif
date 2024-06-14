@@ -1,5 +1,5 @@
 fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.6.0/fr_core_news_sm-3.6.0-py3-none-any.whl
-git+https://github.com/PaulLerner/inclure.git
+inclure @ git+https://github.com/PaulLerner/inclure.git
 numpy==1.26.4
 sklearn-crfsuite==0.3.6
 scikit-learn==1.5.0
