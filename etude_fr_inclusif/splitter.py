@@ -1,4 +1,4 @@
-from src._utils import *
+from etude_fr_inclusif._utils import *
 import random
 
 

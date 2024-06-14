@@ -1,6 +1,6 @@
 from ._utils import *
 import pandas as pd
-from src.inclure import InclureModel
+from etude_fr_inclusif.inclure import InclureModel
 
 """
 

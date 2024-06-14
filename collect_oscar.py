@@ -1,10 +1,10 @@
-from src._utils import *
-from src.naive_rule_based import NaiveRBModel
-from src.crf import CRFModel
-from src.inclure import InclureModel
-from src.adv_rule_based import AdvRBModel
-from src.adv_rule_based import *
-from src.super_model import SuperAnnModel
+from etude_fr_inclusif._utils import *
+from etude_fr_inclusif.naive_rule_based import NaiveRBModel
+from etude_fr_inclusif.crf import CRFModel
+from etude_fr_inclusif.inclure import InclureModel
+from etude_fr_inclusif.adv_rule_based import AdvRBModel
+from etude_fr_inclusif.adv_rule_based import *
+from etude_fr_inclusif.super_model import SuperAnnModel
 import pandas as pd
 
 import os

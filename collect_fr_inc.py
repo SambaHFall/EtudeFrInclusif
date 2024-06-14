@@ -1,4 +1,4 @@
-from src._utils import *
+from etude_fr_inclusif._utils import *
 from datasets import load_dataset
 import csv
 import pandas as pd
