@@ -1,0 +1,429 @@
+Dernière révision complète du chapitre (voir le Tableau des mises à jour des chapitres): octobre 2016
+Sur cette page
+Principaux renseignements
+Épidémiologie
+Affections qui augmentent le risque de pneumococcies invasives
+Agents immunisants disponibles au Canada
+Immunogénicité, efficacité potentielle et efficacité réelle
+Indications
+Enfants en bonne santé
+Enfants à haut risque de pneumococcies invasives
+Adultes en santé
+Adultes à haut risque de pneumococcie invasives
+Doses de rappel et revaccination
+Lutte contre les éclosions
+Vaccination de populations particulières
+Personnes dont le dossier de vaccination est incomplet
+Grossesse et allaitement
+Bébés prématurés
+Patients des établissements de soins de santé
+Personnes aux prises avec une maladie chronique
+Sujets immunodéprimés
+Voyageurs
+Nouveaux arrivants au Canada
+Tests sérologiques
+Méthodes d'administration
+Entreposage et manipulation des agents immunisants
+Innocuité et effets secondaires
+Effets secondaires courants et localisés
+Contre-indications et précautions
+Références choisies
+Principaux renseignements (consulter le texte pour plus de précisions)
+Quoi
+Les infections causées par Streptococcus pneumoniae sont une importante cause de pathologies et de décès à l'échelle mondiale.
+Les pneumococcies invasives(PI) s'observent le plus souvent chez les très jeunes enfants, les personnes âgées et les personnes à haut risque en raison de problèmes médicaux sous-jacents ou de facteurs liés au mode de vie.
+Chez les enfants de moins de 5 ans, l'efficacité des vaccins conjugués contre les PI causées par un sérotype inclus dans ce vaccin a une efficacité potentielle de 86 à 97 %.
+L'efficacité du vaccin polysaccharidique 23-valent contre le pneumocoque (Pneu-P-23) contre les PI varie de 50 et 80 % chez les personnes âgées et dans certains groupes à haut risque.
+On observe parfois une rougeur, une enflure et une douleur au point d'injection après l'administration d'un vaccin contre le pneumocoque.
+Qui
+Le vaccin contre le pneumocoque est recommandé :
+pour la vaccination systématique des bébés et des enfants;
+pour la vaccination des enfants qui n'ont pu être vaccinés contre le pneumocoque conformément au calendrier de vaccination systématique;
+pour l'immunisation des personnes à haut risque de PI en raison de problèmes médicaux sous-jacents;
+pour l'immunisation des résidents d'établissements de soins de longue durée;
+pour l'immunisation des adultes à haut risque de PI en raison de facteurs liés au mode de vie : fumeurs, alcooliques, sans-abri;
+pour l'immunisation des adultes âgés de 65 ans et plus.
+Le vaccin contre le pneumocoque doit être envisagé chez les adultes consommant des drogues illicites.
+Comment
+Vaccin conjugué contre le pneumocoque 13-valent (Pneu-C-13)
+Vaccination systématique des nourrissons : Administrer le vaccin Pneu-C-13 à partir de l'âge de 2 mois selon un calendrier de 3 ou 4 doses.
+Enfants de 12 mois à moins de 24 mois : Administrer 2 doses de Pneu-C-13 à intervalle d'au moins 8 semaines aux enfants qui n'ont jamais reçu de vaccin conjugué contre le pneumocoque ou qui n'en ont reçu qu'une seule dose avant l'âge de 12 mois. Les enfants qui ont reçu la série vaccinale complète contre le pneumocoque indiquée selon l'âge, mais pas le Pneu-C-13, devraient recevoir une dose de ce vaccin.
+24 mois à moins de 36 mois : Administrer une dose de Pneu-C-13 aux enfants qui n'ont jamais reçu de vaccin conjugué contre le pneumocoque ou qui n'ont pas reçu toutes les doses recommandées. Les enfants qui ont reçu la série vaccinale complète contre le pneumocoque indiquée selon l'âge, mais pas le Pneu-C-13, devraient recevoir une dose de ce vaccin.
+36 mois à moins de 60 mois (5 ans) ou plus : Administrer une dose du vaccin Pneu­C­13 :
+aux enfants en bonne santé d'origine autochtone ou fréquentant une garderie qui ont reçu toutes les doses de vaccin conjugué contre le pneumocoque indiquées selon l'âge, mais pas le Pneu-C-13. Pour les autres enfants en bonne santé, envisager l'administration d'une dose de Pneu-C-13;
+aux enfants à haut risque de PI en raison de problèmes médicaux sous-jacents qui ont reçu toutes les doses de vaccin conjugué contre le pneumocoque indiquées selon l'âge, mais pas le Pneu-C-13;
+aux enfants qui n'ont jamais reçu de vaccin conjugué contre le pneumocoque ou qui n'ont pas reçu toutes les doses recommandées.
+5 ans à moins de 18 ans : Administrer une dose du vaccin Pneu-C-13 aux enfants et adolescents à haut risque de PI en raison de problèmes médicaux sous-jacents et qui n'ont pas reçu le vaccin Pneu-C-13.
+Adultes atteints d'affections liées à l'immunodépression entraînant un haut risque de PI : Administrer une dose du vaccin Pneu-C-13 au moins 1 an après toute dose antérieure de Pneu-P-23.
+Receveurs de greffe de cellules souches hématopoïétiques (GCSH) : Administrer 3 doses du vaccin Pneu-C-13 à au moins 4 semaines d'intervalle à partir de trois à neuf mois après la GCSH.
+Vaccin polysaccharidique 23-valent contre le pneumocoque (Pneu-P-23)
+Administrer une dose du vaccin Pneu-P-23 à toutes les personnes âgées de 24 mois et plus qui présentent un haut risque de PI en raison de problèmes médicaux sous-jacents ou qui sont des résidents d'établissements de soins de longue durée. Les personnes qui présentent le risque le plus élevé de contracter une PI devraient aussi recevoir une dose de rappel du vaccin Pneu-P-23.
+On recommande une dose du vaccin Pneu-P-23 chez les adultes :
+âgés de 65 ans et plus, sans égard aux facteurs de risque ou aux antécédents de vaccination contre le pneumocoque;
+qui présentent un haut risque de PI en raison de facteurs liés au mode de vie : fumeurs, alcooliques, sans-abri. On devrait envisager d'administrer le vaccin Pneu-P-23 aux personnes qui consomment des drogues illicites.
+Pourquoi
+S. pneumoniae est une cause fréquente de maladies envahissantes telles que la pneumonie, la bactériémie et la méningite.
+Le taux de létalité attribuable à la pneumonie bactériémique à pneumocoques va de 5 à 7 % et est plus élevé chez les personnes âgées.
+Les révisions importantes comprises dans le présent chapitre sont mises en relief dans le Tableau des mises à jour des chapitres du Guide canadien d'immunisation.
+Épidémiologie
+Description de la maladie
+Agent infectieux
+S. pneumoniae est la bactérie responsable de la pneumococcie invasive (PI) et une cause fréquente de la pneumonie d'origine communautaire (POC). Pour obtenir de plus amples renseignements à ce sujet, veuillez consulter le site Web de l'Agence de la santé publique du Canada (ASPC).
+Réservoir
+L'humain héberge S. pneumoniae dans son nasopharynx.
+Transmission
+S. pneumoniae se transmet par contact buccal direct, par des gouttelettes respiratoires ou par contact indirect avec des sécrétions respiratoires de personnes infectées ou colonisées par la bactérie. Une personne peut transmettre l'infection aussi longtemps que ses sécrétions nasales et buccales contiennent un grand nombre de pneumocoques, habituellement jusqu'à 24 heures après le début d'une antibiothérapie adéquate. La période d'incubation n'est pas clairement établie et pourrait n'être que de un à trois jours.
+Facteurs de risque
+Les PI s'observent le plus souvent chez les très jeunes enfants, les personnes âgées et certains groupes à haut risque en raison de problèmes médicaux sous-jacents. La fréquentation d'une garderie augmente aussi le risque de PI et d'otite moyenne aiguë (OMA) par un facteur de deux à trois chez les enfants de moins de cinq ans. La sensibilité à l'infection par S. pneumoniae et aux PI est accrue chez les fumeurs, les alcooliques et les utilisateurs de drogues illicites. Les populations de sans-abri affichent aussi un taux élevé d'infections respiratoires, notamment celles causées par S. pneumoniae.
+Affections qui augmentent le risque de pneumococcies invasives
+Tableau 1 : Affections et états qui augmentent le risque de PI
+Affections sans maladie immunodéficiente
+Fuite chronique de liquide céphalorachidien (LCR)
+Troubles neurologiques chroniques qui peuvent nuire à l'évacuation des sécrétions buccales
+Implants cochléaires (y compris chez les enfants et les adultes qui doivent recevoir des implants)
+Cardiopathie chronique
+Diabète sucré
+Néphropathie chroniqueTableau 1 - Note de bas de page 1
+Hépatopathie chronique (y compris la cirrhose, toutes causes confondues) Tableau 1 - Note de bas de page 1
+Maladie pulmonaire chronique, y compris l'asthme nécessitant des soins médicaux au cours des 12 mois précédents
+Affections avec maladie immunodéficiente
+Drépanocytose, asplénie congénitale ou acquise, ou dysfonction spléniqueTableau 1 - Note de bas de page 1, Tableau 1 - Note de bas de page 2
+Immunodéficience congénitale touchant n'importe quel aspect du système immunitaireTableau 1 - Note de bas de page 1, notamment l'immunité à médiation humorale (lymphocytes B), l'immunité à médiation cellulaire (lymphocytes T), le système du complément (déficits en properdine ou en facteur D) ou la fonction phagocytaire
+Traitement immunosuppresseurTableau 1 - Note de bas de page 1, notamment l'usage prolongé de corticostéroïdes, la chimiothérapie, la radiothérapie et le traitement après une greffe d'organeTableau 1 - Note de bas de page 1
+Infection au VIHTableau 1 - Note de bas de page 1
+Greffe de cellules souches hématopoïétiques (receveur)Tableau 1 - Note de bas de page 1
+Néoplasmes malinsTableau 1 - Note de bas de page 1, y compris la leucémie et le lymphome
+Syndrome néphrotiqueTableau 1 - Note de bas de page 1
+Greffe d'organe plein ou de cellules des îlots de Langerhans (candidat ou receveur)Tableau 1 - Note de bas de page 1
+Notes de bas de page
+Tableau 1- Note de bas de page 1
+Affections et états associés au risque le plus élevé de PI.
+Retour à la référence de la note de bas de page 1
+Tableau1- Note de bas de page 2
+Habituellement, l'asplénie ou l'hyposplénie (fonctionnelle ou anatomique) ne sont pas considérées comme des affections liées à l'immunodépression, mais elles sont comprises dans cette catégorie aux fins de recommandations relatives au vaccin contre le pneumocoque.
+Retour à la référence de la note de bas de page 2
+Abréviations :
+LCR : liquide céphalorachidien
+PI : pneumococcie invasive
+Tendances saisonnières et temporelles
+Historiquement, les PI sont plus courantes à la fin de l'hiver et au printemps dans les régions tempérées.
+Spectre de la maladie clinique
+Bien que la colonisation asymptomatique des voies respiratoires supérieures soit fréquente, l'infection par S. pneumoniae peut provoquer une maladie grave. La PI est une forme grave d'infection qui se manifeste lorsque la bactérie S. pneumoniae envahit des sièges normalement stériles, tels que la circulation sanguine ou le système nerveux central. La bactériémie et la méningite sont les manifestations de la PI les plus fréquentes chez les enfants de deux ans et moins. La pneumonie bactériémique à pneumocoques est la manifestation la plus courante chez les adultes et elle constitue une complication fréquente consécutive à la grippe. Le taux de létalité attribuable à la pneumonie bactériémique à pneumocoques va de 5 à 7 %, et est plus élevé chez les personnes âgées. La propagation des bactéries dans les voies respiratoires peut entraîner une OMA, une sinusite ou une bronchite récurrente.
+Répartition de la maladie
+La pneumococcie est une cause majeure de morbidité et de mortalité partout dans le monde. L'Organisation mondiale de la Santé (OMS) estime à près de 500 000 le nombre d'enfants de moins de cinq ans qui meurent chaque année des suites d'une pneumococcie. Au Canada, la PI s'observe le plus souvent chez les très jeunes enfants et les adultes de plus de 65 ans.
+Pour obtenir de plus amples renseignements au sujet de la PI et de sa répartition au Canada, voir la page Web de l'ASPC sur la pneumococcie invasive. Des mises à jour complètes sur l'épidémiologie de la PI au Canada sont publiées périodiquement dans le Relevé des maladies transmissibles au Canada. Des renseignements sur l'épidémiologie de la PI et de la POC au Canada sont également fournis dans les déclarations et les mises à jour des déclarations, publiées antérieurement par le CCNI.
+Agents immunisants disponibles au Canada
+Vaccins contre le pneumocoque
+Vaccins conjugués contre le pneumocoque
+SYNFLORIXMD (vaccin conjugué 10-valent contre le pneumocoque, polysaccharides conjugués à la protéine D dérivée d'une souche non typable d'Haemophilus influenzae, à l'anatoxine diphtérique et à l'anatoxine tétanique), GlaxoSmithKline Inc. (Pneu-C-10)
+PrevnarMD13 (vaccin conjugué 13-valent contre le pneumocoque, protéine CRM197), Pfizer Canada Inc. (titulaire de licence) (Pneu-C-13)
+Les protéines vectrices (anatoxine tétanique, anatoxine diphtérique et protéine d'Haemophilus influenzae non typable) utilisées dans les vaccins conjugués contre le pneumocoque ne confèrent aucune protection contre la diphtérie, le tétanos ni l'infection à Haemophilus influenzae de type b (Hib).
+Vaccins polysaccharidiques 23-valents contre le pneumocoque
+PNEUMOVAXMD 23 (vaccin polysaccharidique 23-valent contre le pneumocoque), Merck Canada Inc. (Pneu-P-23)
+Tableau 2 : Sérotypes de S. pneumoniae contenus dans les vaccins contre le pneumocoque
+Vaccin
+Sérotypes contenus dans les vaccins contre le pneumocoque
+4
+9V
+6B
+14
+18C
+19F
+23F
+1
+5
+7F
+3
+6A
+19A
+2
+8
+9N
+10A
+11A
+12F
+15B
+17F
+20
+22F
+33F
+Pneu-C-7Tableau 2 - Note de bas de page 1 sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin
+Pneu-C-10 sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin
+Pneu-C-13 sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin
+Pneu-P-23 sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin sérotype contenu dans le vaccin
+Tableau 2 - Notes de bas de page
+Tableau 2 - Note de bas de page 1
+Le vaccin Pneu-C-7 n'est plus offert au Canada.
+Retour à la référence de la note de bas de page 1
+Équivalent textuel – Tableau 2
+Pour obtenir l'information posologique dans son intégralité, veuillez consulter le dépliant du produit ou la monographie de produit accessible à partir de la Base de données sur les produits pharmaceutiques de Santé Canada. Veuillez consulter le chapitre sur les agents immunisants et leurs constituants offerts au Canada dans la Partie 1 pour connaître la liste des vaccins offerts au Canada ainsi que de leurs constituants.
+Immunogénicité, efficacité potentielle et efficacité réelle
+Immunogénicité
+Vaccins conjugués contre le pneumocoque
+Chez les nourrissons qui ont reçu le Pneu-C-7, le titre des anticorps sériques dirigés contre les sérotypes inclus dans le vaccin augmente par un facteur de 3,4 à 20. Une réponse anamnestique est induite par l'administration d'une dose de rappel de l'un ou l'autre des vaccins conjugués ou du vaccin Pneu-P-23. L'immunogénicité du Pneu-C-7 a été démontrée chez les enfants présentant une immunodéficience.
+Les vaccins Pneu-C-10 et Pneu-C-13 ont été homologués par Santé Canada en raison de la réponse immunitaire qu'ils suscitent contre tous les sérotypes qu'ils renferment et de leur non-infériorité démontrée contre chacun des 7 sérotypes qu'ils ont en commun avec les vaccins plus récents et le Pneu-C-7. Les études du vaccin Pneu-C-10 ont démontré une production d'anticorps contre ses 10 sérotypes; et les études du Pneu-C-13, une production d'anticorps contre ses 13 sérotypes. Aucune étude n'a comparé l'immunogénicité du Pneu-C-10 à celle du Pneu-C-13.
+Vaccin polysaccharidique contre le pneumocoque
+Le vaccin polysaccharidique contre le pneumocoque est moins immunogène que le vaccin conjugué chez les enfants. Une baisse des titres d'anticorps s'observe de 5 à 10 ans après la vaccination par le Pneu-P-23. La durée de l'immunité n'est pas connue.
+Efficacité potentielle et efficacité réelle
+Vaccins conjugués contre le pneumocoque
+Chez les enfants de moins de 5 ans, l'efficacité des vaccins conjugués contre le pneumocoque est de 86 à 97 % contre les sérotypes des PI dont les antigènes sont présents dans le vaccin (sérotypes du vaccin). Le Pneu-C-7 réduit de 54 % les OMA et de 20 % la pose de drains de tympanostomie attribuables aux infections par les sérotypes inclus dans le vaccin.
+Vaccin polysaccharidique contre le pneumocoque
+Le Pneu-P-23 a une efficacité potentielle de plus de 80 % contre les PI chez les jeunes adultes en bonne santé et de 50 à 80 % chez les personnes âgées et les groupes à haut risque. L'immunogénicité et l'efficacité potentielle sont réduites dans certains groupes à risque particulièrement élevé d'infection à pneumocoque, telles les personnes souffrant d'une insuffisance rénale, d'une anémie drépanocytaire ou d'un déficit immunitaire, y compris les personnes infectées par le VIH.
+Indications
+Enfants en bonne santé (de 2 mois à moins de 18 ans)
+Calendrier
+Calendrier systématique
+Nourrissons en bonne santé (de 2 à moins de 12 mois)
+Dans le cadre de l'immunisation systématique des nourrissons en santé, le vaccin PNEU-C-13 peut être administré selon un calendrier à 3 doses à 2, 4 et 12 mois, ou un calendrier à 4 doses à 2, 4 et 6 mois suivies d'une dose entre 12 et 15 mois.
+Les nourrissons en bonne santé de 7 à moins de 12 mois qui n'ont jamais été vaccinés contre les PI devraient recevoir 2 doses de vaccin Pneu-C-13 à au moins 8 semaines d'intervalle, puis une troisième dose entre 12 et 15 mois, au moins 8 semaines après la deuxième dose.
+Programmes de rattrapage et calendriers de vaccination accélérés
+Le nombre de doses requises pour compléter la série vaccinale des enfants dont l'immunisation a été interrompue ou est incomplète varie selon l'âge de l'enfant. Les enfants âgés de moins de 12 mois lorsqu'ils se présentent de nouveau devraient recevoir les vaccins manquants comme si aucune interruption n'était survenue. Il convient d'évaluer les enfants plus âgés dont l'immunisation a été interrompue ou est incomplète afin de déterminer le nombre de doses requises pour compléter la série. Le Tableau 3 résume les calendriers recommandés pour le vaccin Pneu-C-13 chez les nourrissons et les enfants en santé selon le statut vaccinal à l'égard du vaccin conjugué contre le pneumocoque.
+Enfants à haut risque de pneumococcie invasive (de 2 mois à moins de 18 ans)
+Les enfants à haut risque de PI en raison d'un état pathologique sous-jacent devraient recevoir le vaccin Pneu-C-13 selon un calendrier de 4 doses à l'âge de 2, 4 et 6 mois, suivies d'une dose à l'âge de 12 à 15 mois. Le Tableau 3 résume les calendriers recommandés pour le vaccin Pneu-C-13 chez les nourrissons et les enfants à haut risque de PI en raison d'un état pathologique sous-jacent selon le statut vaccinal à l'égard du vaccin conjugué contre le pneumocoque.
+En plus du vaccin Pneu-C-13, les enfants à haut risque de PI en raison d'un état pathologique sous-jacent devraient recevoir une dose de Pneu-P-23 à l'âge de 24 mois, au moins 8 semaines après le Pneu-C-13. Chez les enfants ou adolescents plus âgés à haut risque de PI en raison d'un état pathologique sous-jacent qui n'ont jamais reçu le Pneu-P-23, administrer une dose de ce vaccin au moins 8 semaines après le Pneu-C-13. Les enfants et adolescents qui présentent le risque le plus élevé de contracter une PI devraient recevoir une dose de rappel du vaccin Pneu-P-23; veuillez consulter la section Doses de rappel et revaccination. Veuillez consulter le chapitre Sujets immunodéprimés pour obtenir des renseignements concernant l'immunisation des receveurs de GCSH.
+Tableau 3 : Calendriers recommandés pour le vaccin Pneu-C-13 chez les enfants de 2 mois à moins de 18 ans, selon le statut vaccinal à l'égard du vaccin conjugué contre le pneumocoque
+Âge au moment de l'immunisation
+Nombre de doses des vaccins Pneu-C-7, Pneu-C-10 et Pneu-C-13 déjà reçues
+Calendrier recommandé pour le vaccin Pneu-C- 13Tableau 3 - Note de bas de page 1
+De 2 mois à moins de 7 moisTableau 3 - Note de bas de page 2, Tableau 3 - Note de bas de page 3 0 dose
+2 ou 3 dosesTableau 3 - Note de bas de page 2 +
+1 dose entre 12 moisTableau 3 - Note de bas de page 4 et 15 mois
+1 dose
+1 ou 2 dosesTableau 3 - Note de bas de page 2 +
+1 dose entre 12 moisTableau 3 - Note de bas de page 4 et 15 mois
+2 doses
+0 ou 1 doseTableau 3 - Note de bas de page 2 +
+1 dose entre 12 moisTableau 3 - Note de bas de page 4 et 15 mois
+De 7 mois à moins de 12 moisTableau 3 - Note de bas de page 5, Tableau 3 - Note de bas de page 6 0 dose
+2 doses +
+1 dose entre 12 mois et 15 mois
+1 dose
+1 dose entre 7 mois et moins de 12 mois +
+1 dose entre 12 mois à 15 mois
+2 doses 1 dose entre 12 mois et 15 mois
+12 mois à moins de 24 mois, en bonne santé ou à haut risque de PI en raison d'un état pathologique sous-jacentTableau 3 - Note de bas de page 5, Tableau 3 - Note de bas de page 6 0 dose 2 dose
+1 dose à moins de 12 mois
+2 doses ou plus à moins de 12 mois 1 dose
+1 dose à 12 mois ou plus
+Vaccination complète indiquée selon l'âge par le Pneu-C-7 ou le Pneu-C-10 (0 dose de Pneu-C-13)
+24 mois à moins de 36 mois, en bonne santé ou à haut risque de PI en raison d'un état pathologique sous-jacentTableau 3 - Note de bas de page 5, Tableau 3 - Note de bas de page 6 0 dose ou vaccination incomplète par n'importe quel vaccin conjugué contre le pneumocoque 1 dose
+Vaccination complète indiquée selon l'âge par le Pneu-C-7 ou le Pneu-C-10 (0 dose de Pneu-C-13)
+De 36 mois à moins de 60 mois (5 ans), en bonne santé 0 dose ou vaccination incomplète par n'importe quel vaccin conjugué contre le pneumocoque 1 dose
+Vaccination complète indiquée selon l'âge par le Pneu-C-7 ou le Pneu-C-10 (0 dose de Pneu-C-13)
+Si l'enfant est d'origine autochtone ou fréquente une garderie, 1 dose
+Pour tous les autres enfants, envisager 1 dose
+36 mois à moins de 60 mois (5 ans), à haut risque de PI en raison d'un état pathologique sous-jacentTableau 3 - Note de bas de page 5, Tableau 3 - Note de bas de page 6 0 dose ou vaccination incomplète par n'importe quel vaccin conjugué contre le pneumocoque 1 dose
+Vaccination complète indiquée selon l'âge par le Pneu-C-7 ou le Pneu-C-10 (0 dose de Pneu-C-13)
+5 ans à moins de 18 ans, à haut risque de PI en raison d'un état pathologique sous-jacentTableau 3 - Note de bas de page 5, Tableau 3 - Note de bas de page 6 0 dose de Pneu-C-13 1 dose
+Tableau 3 - Notes de bas de page
+Tableau 3 - Note de bas de page 1
+L'intervalle minimal entre 2 doses de vaccin conjugué contre le pneumocoque est de 8 semaines.
+Retour à la référence de la note de bas de page 1
+Tableau 3 - Note de bas de page 2
+Suivre le calendrier provincial ou territorial qui s'applique.
+Retour à la référence de la note de bas de page 2
+Tableau 3 - Note de bas de page 3
+Les enfants à haut risque de PI en raison d'un état pathologique sous-jacent devraient être vaccinés selon le calendrier à 4 doses et devraient également recevoir une dose de Pneu-P-23 à l'âge de 24 mois. On recommande une dose de rappel du vaccin Pneu-P-23 chez les personnes présentant le risque le plus élevé de PI; veuillez consulter le chapitre Doses de rappel et revaccination.
+Retour à la référence de la note de bas de page 3
+Tableau 3 - Note de bas de page 4
+Les programmes qui utilisent un calendrier à 3 doses devraient offrir la troisième dose à 12 mois pour assurer une protection complète.
+Retour à la référence de la note de bas de page 4
+Tableau 3 - Note de bas de page 5
+Les enfants à haut risque de PI en raison d'un état pathologique sous-jacent devraient également recevoir une dose de Pneu-P-23 à l'âge de 24 mois. Lorsqu'il faut administrer le Pneu-C-13 et le Pneu-P-23, ce dernier devrait être donné en premier, suivi du Pneu-P-23 huit semaines plus tard. On recommande une dose de rappel du vaccin Pneu-P-23 chez les personnes présentant le risque le plus élevé de PI; veuillez consulter le chapitre Doses de rappel et revaccination.
+Retour à la référence de la note de bas de page 5
+Tableau 3 - Note de bas de page 6
+Veuillez consulter le chapitre Sujets immunodéprimés pour obtenir des renseignements concernant l'immunisation des receveurs de GCSH.
+Retour à la référence de la note de bas de page 6
+Abréviations :
+PI : pneumococcie invasive
+Pneu-C-7 : vaccin conjugué contre le pneumocoque 7-valent
+Pneu-C-10 : vaccin conjugué contre le pneumocoque 10-valent
+Pneu-C-13 : vaccin conjugué contre le pneumocoque 13-valent
+Pneu-P-23 : vaccin polysaccharidique 23-valent contre le pneumocoque
+Adultes en bonne santé (18 ans et plus)
+Une dose du vaccin Pneu-P-23 devrait être administrée à tous les adultes âgés de 65 ans et plus, sans égard aux facteurs de risque ou aux antécédents de vaccination contre le pneumocoque. Dans le cas des adultes qui ont reçu le vaccin Pneu-P-23 avant l’âge de 65 ans, une deuxième dose de ce vaccin devrait être administrée à l’âge de 65 ans, au moins 5 ans après toute dose antérieure.
+L’immunisation par le vaccin Pneu-C-13 peut être envisagée au cas par cas, pour les adultes âgés de 65 ans et plus n’ayant jamais reçu le vaccin contre le pneumocoque pour la prévention de la POC et de la PI causées par les 13 sérotypes contenus dans le vaccin contre le pneumocoque. Le vaccin Pneu-C-13 devrait être offert en premier, suivi du vaccin Pneu-P-23 au moins 8 semaines plus tard. Les adultes âgés de 65 ans et plus qui ont déjà reçu le vaccin Pneu-P-23 peuvent recevoir le vaccin Pneu-C-13 si au moins un an s’est écoulé depuis l’immunisation par le vaccin Pneu-P-23.
+Adultes présentant un haut risque de pneumococcie invasive (18 ans et plus)
+Les adultes atteints d’affections liées à l’immunodépression entraînant un haut risque de PI, sauf ceux ayant subi une GCSH, devraient recevoir une dose du vaccin Pneu-C-13, suivie d’une dose du vaccin Pneu-P-23 au moins 8 semaines plus tard, s’ils ne l’ont pas déjà reçu. La dose de Pneu-C-13 devrait être administrée au moins une année après toute dose antérieure de Pneu-P-23. Veuillez consulter le chapitre Sujets immunodéprimés pour obtenir des renseignements concernant l’immunisation des receveurs de GCSH.
+Les adultes immunocompétents chez qui des affections ou des facteurs liés au mode de vie (fumeurs, alcooliques et sans-abri) entraînent un haut risque de PI devraient recevoir une dose du vaccin Pneu-P-23, s’ils ne l’ont pas déjà reçu. Une dose de Pneu-P-23 est également recommandée chez tous les adultes résidant dans des établissements de soins de longue durée et devrait être envisagée pour les personnes consommant des drogues illicites.
+Certains experts suggèrent également d’administrer une dose initiale de Pneu-C-13, suivie d’une dose de Pneu-P-23, aux adultes immunocompétents présentant un haut risque de PI parce que cela aurait théoriquement pour effet d’augmenter la production d’anticorps et d’améliorer la mémoire immunitaire. Toutefois, le Pneu-P-23 est le vaccin de choix chez ces sujets et s’il n’est possible d’administrer qu’une seule dose de vaccin, le choix devrait se porter sur le Pneu-P-23 en raison du plus grand nombre de sérotypes qu’il inclut.
+Les adultes qui présentent le risque le plus élevé de contracter une PI devraient également recevoir une dose de rappel du vaccin Pneu-P-23; veuillez consulter la section Doses de rappel et revaccination.
+Le Tableau 4 fournit un calendrier recommandé pour l’immunisation des adultes par le vaccin contre le pneumocoque.
+Tableau 4 : Calendrier recommandé pour l'immunisation des adultes (18 ans et plus) à l'aide du vaccin contre le pneumocoque
+Âge, affection sous-jacente
+Type de vaccin
+Nombre de doses et calendrier recommandé
+Adultes immunocompétents de 18 ans à moins de 65 ans à haut risque de PI en raison d’un état pathologique sous-jacent Pneu-P-23Tableau 4 - Note de bas de page 1
+1 dose +
+1 dose de rappel du vaccin Pneu-P-23 au moins 5 ans plus tard pour les personnes qui présentent le risque le plus élevé de contracter une PI
+Adultes immunocompétents de 18 ans à moins de 65 ans, résidents d’établissements de soins de longue durée, fumeurs, alcooliques ou sans-abriTableau 4 - Note de bas de page 2 Pneu-P-23 1 dose
+Adultes âgés de 65 ans et plus, sans égard aux facteurs de risque ou aux antécédents de vaccination contre le pneumocoque Pneu-P-23Tableau 4 - Note de bas de page 3 1 doseTableau 4 - Note de bas de page 4
+Adultes atteints d’une affection liée à l’immunodépression (autre que les receveurs d’une GCSH)
+Pneu-C-13
+Pneu-P-23
+1 dose du vaccin Pneu-C-13Tableau 4 - Note de bas de page 5 +
+1 dose du vaccin Pneu-P-23 au moins
+8 semaines après le Pneu-C-13 +
+1 dose de rappel du vaccin Pneu-P-23 au moins 5 ans plus tard
+Adultes receveurs d’une GCSH
+Pneu-C-13
+Pneu-P-23
+3 doses du vaccin Pneu-C-13, à partir de 3 à 9 mois après la greffe, administrées à au moins 4 semaines d’intervalle +
+1 dose du vaccin Pneu-P-23, 12 à 18 mois après la greffe (6 à 12 mois après la dernière dose de Pneu-C-13) +
+1 dose de rappel de Pneu-P-23 recommandée au plus tôt 1 an plus tard selon certains experts
+Tableau 4 - Notes de bas de page
+Tableau 4 - Note de bas de page 1
+Certains experts suggèrent d’administrer une dose initiale de vaccin conjugué, suivie d’une dose de Pneu-P-23, aux adultes immunocompétents à haut risque de PI en raison de problèmes médicaux sous-jacents, parce que cela aurait théoriquement pour effet d’augmenter la production d’anticorps et d’améliorer la mémoire immunitaire. Si cette stratégie est adoptée, le vaccin Pneu-C-13 devrait être administré en premier, suivi du vaccin Pneu-P-23 au moins 8 semaines plus tard. Toutefois, le Pneu-P-23 est le vaccin de choix chez ces sujets, et s’il n’est possible d’administrer qu’une seule dose de vaccin, le choix devrait se porter sur le Pneu-P-23.
+Retour à la référence de la note de bas de page 1
+Tableau 4 - Note de bas de page 2
+On devrait envisager d’administrer le vaccin Pneu-P-23 aux adultes qui consomment des drogues illicites.
+Retour à la référence de la note de bas de page 2
+Tableau 4 - Note de bas de page 3
+En plus du Pneu-P-23, l’immunisation par le vaccin Pneu-C-13 peut être envisagée au cas par cas pour les adultes immunocompétents n’ayant jamais reçu le vaccin contre le pneumocoque pour la prévention de la pneumonie d’origine communautaire et de la PI causée par les 13 sérotypes contenus dans le vaccin.
+Retour à la référence de la note de bas de page 3
+Tableau 4 - Note de bas de page 4
+Au moins 8 semaines après la dernière dose du vaccin Pneu-C-13 et au moins 5 ans après toute dose antérieure de Pneu-P-23.
+Retour à la référence de la note de bas de page 4
+Tableau 4 - Note de bas de page 5
+La dose de Pneu-C-13 devrait être administrée au moins un an après toute dose antérieure de Pneu-P-23.
+Retour à la référence de la note de bas de page 5
+Abréviations :
+GCSH : greffe de cellules souches hématopoïétiques
+PI : pneumococcie invasive
+Pneu-C-13 : vaccin conjugué contre le pneumocoque 13-valent
+Pneu-P-23 : vaccin polysaccharidique 23-valent contre le pneumocoque
+Doses de rappel et revaccination
+Vaccin conjugué contre le pneumocoque
+Il n’est pas nécessaire d’administrer une deuxième dose du vaccin Pneu-C-13 puisque qu’il n’y a aucune preuve à l’heure actuelle qu’une dose de rappel de ce vaccin soit bénéfique.
+Vaccin polysaccharidique contre le pneumocoque
+Une deuxième dose de Pneu-P-23 est recommandée pour les personnes de tout âge dont la réponse aux anticorps est réduite en raison d’une hyposplénie ou d’une asplénie fonctionnelle ou anatomique (y compris une drépanocytose), d’une hépatopathie chronique (y compris une cirrhose), d’une insuffisance rénale chronique ou d’un syndrome néphrotique et d’une immunodépression liée à une maladie ou un traitement (c.-à-d. les personnes qui présentent le risque le plus élevé de PI). Si une dose de rappel de Pneu-P-23 est recommandée, elle devrait être administrée au moins 5 ans après toute dose antérieure de Pneu-P-23.
+Les receveurs de GCSH âgés de plus de 2 ans devraient recevoir une dose de rappel de Pneu-P-23 un an après la dose initiale de ce vaccin. Veuillez consulter le chapitre Sujets immunodéprimés pour obtenir des recommandations concernant l’immunisation des receveurs de GCSH.
+Lutte contre les éclosions
+Pendant les éclosions d’infection à pneumocoque attribuable à des sérotypes présents dans le vaccin Pneu-C-13, l’administration de ce vaccin est recommandée pour les enfants qui n’ont pas été vaccinés de façon adéquate par le Pneu-C-13. Le Pneu-P-23 et le Pneu-C-13 peuvent être utilisés chez les adultes pour lutter contre les éclosions attribuables à des sérotypes présents dans le vaccin.
+Vaccination de populations particulières
+Personnes dont le dossier de vaccination est incomplet
+Les enfants et adultes qui ne disposent pas de documents adéquats sur l’immunisation devraient être considérés comme non immunisés et recevoir le vaccin et les doses indiquées selon leur âge et leurs facteurs de risque. Le vaccin contre le pneumocoque peut être administré sans avoir à se préoccuper des antécédents de vaccination, car il a été démontré que l’administration répétée de ces vaccins ne provoque pas d’effets secondaires. Veuillez consulter le chapitre Immunisation des personnes dont le dossier de vaccination est incomplet de la Partie 3 pour obtenir de plus amples renseignements sur la vaccination des personnes dont le dossier de vaccination est incomplet.
+Grossesse et allaitement
+Si cela est indiqué, les femmes enceintes peuvent recevoir le vaccin Pneu-P-23 ou Pneu-C-13, car aucune donnée ne laisse croire à un risque pour le fœtus ou la grossesse découlant de l’immunisation par le vaccin contre le pneumocoque. Les femmes qui allaitent peuvent recevoir des vaccins contre le pneumocoque. Voir le chapitre Immunisation durant la grossesse et l’allaitement de la Partie 3 pour plus de précisions sur la vaccination des femmes enceintes ou qui allaitent.
+Bébés prématurés
+La prématurité est associée à un risque accru de maladies pulmonaires chroniques, ce qui peut accroître le risque de contracter une PI. Les bébés prématurés dans un état clinique stable devraient recevoir un vaccin Pneu-C-13 au même âge chronologique et selon le même calendrier que les enfants nés à terme.
+Les nourrissons prématurés, en particulier ceux qui pèsent moins de 1 500 grammes à la naissance, présentent un risque accru d’apnée et de bradycardie après la vaccination par rapport aux nourrissons nés à terme. Les nourrissons prématurés hospitalisés devraient faire l’objet d’une surveillance cardiaque et respiratoire continue pendant les 48 heures suivant leur première vaccination. Consultez la section Immunisation des nourrissons prématurés de la Partie 3 pour obtenir des renseignements supplémentaires à propos de la vaccination chez les nourrissons prématurés.
+Patients des établissements de soins de santé
+Les résidents d’un établissement de soins de longue durée devraient recevoir le Pneu-P-23. Veuillez consulter la section Indications pour obtenir des renseignements sur la vaccination contre le pneumocoque chez les personnes présentant un risque accru de PI. Pour plus de renseignements sur la vaccination chez les patients des établissements de soins de santé, consultez la section Immunisation des patients/résidents dans les établissements de santé de la Partie 3.
+Personnes atteintes de maladies chroniques
+Veuillez consulter le chapitre Immunisation des personnes atteintes de maladies chroniques de la Partie 3 pour obtenir davantage de renseignements sur la vaccination des personnes atteintes de maladies chroniques.
+Asplénie ou hyposplénie
+Les personnes souffrant d’hyposplénie ou d’asplénie devraient recevoir les vaccins Pneu-C-13 et Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Néphropathie chronique ou dialyse
+Les personnes atteintes d’une néphropathie chronique devraient être vaccinées contre le pneumocoque selon le calendrier recommandé pour leur âge. Les enfants de moins de 18 ans atteints d’insuffisance rénale chronique ou d’un syndrome néphrotique devraient recevoir les vaccins Pneu-C-13 et Pneu-P-23. Les adultes atteints d’insuffisance rénale chronique devraient recevoir le vaccin Pneu-P-23. Les adultes atteints d’un syndrome néphrotique devraient recevoir les vaccins Pneu-C-13 et Pneu-P-23. En raison de la diminution de l’immunogénicité et de l’efficacité du vaccin Pneu-P-23 chez les enfants et les adultes atteints d’insuffisance rénale chronique, on recommande une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Troubles neurologiques
+Les personnes aux prises avec une fuite chronique du liquide céphalorachidien ou une maladie neurologique chronique susceptibles de nuire à l’évacuation des sécrétions buccales devraient être vaccinées à l’aide du vaccin contre le pneumocoque. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Aucune revaccination avec Pneu-P-23 n’est recommandée. Veuillez consulter le Tableau 3 et le Tableau 4 pour obtenir plus de renseignements.
+Maladie pulmonaire chronique, y compris l’asthme
+Les personnes atteintes d’une maladie pulmonaire chronique, y compris les personnes ayant eu recours à des soins médicaux pour l’asthme au cours des 12 derniers mois, devraient recevoir le vaccin contre le pneumocoque. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Aucune revaccination avec Pneu-P-23 n’est recommandée. Le contrôle de l’asthme doit être optimisé avant la réception de tout vaccin contre le pneumocoque. Veuillez consulter le Tableau 3 et le Tableau 4 pour obtenir plus de renseignements.
+Cardiopathie chronique
+Les sujets atteints d’une maladie cardiaque chronique devraient recevoir des vaccins contre le pneumocoque selon le calendrier recommandé pour leur âge. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Aucune revaccination avec Pneu-P-23 n’est recommandée. Veuillez consulter le Tableau 3 et le Tableau 4 pour obtenir plus de renseignements.
+Hépatopathie chronique
+Les sujets atteints d’hépatopathie chronique, y compris la cirrhose, toutes causes confondues, devraient recevoir le vaccin contre le pneumocoque. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Une dose de rappel du vaccin Pneu-P-23 est recommandée pour les sujets atteints d’une hépatopathie chronique, notamment la cirrhose hépatique. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Troubles endocriniens et métaboliques
+Les sujets souffrant de diabète sucré devraient recevoir le vaccin contre le pneumocoque. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Aucune revaccination avec Pneu-P-23 n’est recommandée. Veuillez consulter le Tableau 3 et le Tableau 4 pour obtenir plus de renseignements.
+Troubles hématologiques bénins
+Les personnes atteintes de drépanocytose ou d’un autre type d’hémoglobinopathie entraînant un dysfonctionnement splénique devraient recevoir les vaccins Pneu-C-13 et Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Implants cochléaires
+Les porteurs d’implants cochléaires, y compris les enfants et les adultes qui doivent recevoir des implants, devraient recevoir le vaccin contre le pneumocoque. Les enfants et adolescents de moins de 18 ans devraient recevoir les deux vaccins Pneu-C-13 et Pneu-P-23. Les adultes devraient recevoir le vaccin Pneu-P-23. Aucune revaccination avec Pneu-P-23 n’est recommandée. Veuillez consulter le Tableau 3 et le Tableau 4 pour obtenir plus de renseignements.
+Sujets immunodéprimés
+Les vaccins Pneu-C-13 et Pneu-P-23 sont recommandés pour les sujets atteints d’affections liées à l’immunodépression entraînant un haut risque de PI. Puisque les anomalies immunologiques peuvent diminuer la protection offerte par les vaccins contre le pneumocoque, les personnes immunodéprimées devraient recevoir des conseils concernant le risque de septicémie fulminante à pneumocoque, qui peut survenir en dépit de l’immunisation.
+Lorsqu’on envisage d’administrer un vaccin contre le pneumocoque à une personne immunodéprimée, une consultation auprès du médecin traitant peut être utile. Pour les cas complexes, il est recommandé de consulter un médecin spécialisé en immunisation ou en immunodéficience.
+Immunodéficience congénitale (primaire)
+Les personnes qui présentent une immunodéficience congénitale de toute partie du système immunitaire devraient recevoir les vaccins Pneu-C-13 et le Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Immunodéficience acquise (secondaire)
+Néoplasmes malins, y compris la leucémie et le lymphome
+Les personnes qui présentent un néoplasme malin, notamment une leucémie, un lymphome ou une tumeur solide maligne, devraient recevoir les vaccins Pneu-C-13 et le Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Receveurs d’une greffe de cellules souches hématopoïétiques
+Comme les receveurs de GCSH sont exposés à un risque accru de pneumococcie, les vaccins Pneu-C-13 et Pneu-P-23 sont recommandés. Quel que soit l’âge du sujet, la vaccination contre le pneumocoque devrait débuter trois à neuf mois après la greffe par 3 doses de Pneu-C-13 administrées à au moins 4 semaines d’intervalle, suivies d’une dose de Pneu-P-23 entre 12 et 18 mois après la greffe (de six à douze mois après la dernière dose de Pneu-C-13) ou lorsque le receveur atteint l’âge de deux ans. Comme la production d’anticorps induite par le vaccin est faible chez ces personnes, certains experts recommandent l’administration d’une dose de rappel de Pneu-P-23 un an après la première dose de Pneu-P-23 chez tous les greffés de plus de deux ans.
+Transplantation d’un organe plein ou de cellules des îlots de Langerhans
+Si possible, les personnes qui doivent recevoir une transplantation d’organe plein ou de cellules des îlots de Langerhans devraient faire l’objet d’une vaccination contre le pneumocoque indiquée selon l’âge au moins 2 semaines avant la transplantation. Si la vaccination n’est pas terminée avant la greffe, en règle générale, elle ne devrait pas être réamorcée moins de 3 à 6 mois après la greffe. Les vaccins Pneu-C-13 et Pneu-P-23 sont recommandés, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Traitement immunosuppresseur
+Le statut de vaccination à l’égard du pneumocoque devrait être examiné chez les personnes immunocompétentes susceptibles d’être soumises à un traitement immunosuppresseur ou qui en suivent un, ou dont la maladie pourrait entraîner une immunodéficience. Bien que le vaccin contre le pneumocoque puisse être administré en toute sécurité et à tout moment avant, pendant ou après une immunosuppression, il faut s’efforcer de choisir de façon appropriée le moment de l’administration des vaccins afin d’assurer une immunogénicité optimale. Les sujets qui suivent un traitement immunosuppresseur devraient recevoir les vaccins Pneu-C-13 et le Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Infection à VIH
+Si possible, le vaccin contre le pneumocoque devrait être administré tôt après le début de l’infection au VIH; cependant, il n’existe aucune contre-indication à l’égard de l’administration des vaccins contre le pneumocoque en tout temps. Les sujets infectés par le VIH devraient recevoir les vaccins Pneu-C-13 et le Pneu-P-23, suivis d’une dose de rappel du vaccin Pneu-P-23. Veuillez consulter le Tableau 3, le Tableau 4 et la section Doses de rappel et revaccination pour obtenir de plus amples renseignements.
+Veuillez consulter le chapitre Immunisation des sujets immunodéprimés de la Partie 3 pour obtenir davantage de renseignements sur la vaccination de personnes immunodéprimées.
+Voyageurs
+La série primaire de vaccin conjugué contre le pneumocoque peut être amorcée à l’âge de six semaines chez les nourrissons qui partiront en voyage. Pour plus de renseignements sur la vaccination des voyageurs, consultez la section Immunisation des voyageurs de la Partie 3.
+Nouveaux arrivants au Canada
+Les fournisseurs de soins de santé qui examinent des nouveaux arrivants au Canada devraient évaluer leur état vaccinal et mettre à jour leurs vaccins, au besoin. L’examen du statut vaccinal à l’égard du pneumocoque est particulièrement important pour les personnes originaires d’une région où la drépanocytose est présente, car les personnes atteintes de cette anémie courent un risque d’infection à pneumocoque grave. Dans bien des pays, le vaccin conjugué contre le pneumocoque est peu utilisé. Pour plus de renseignements sur la vaccination des personnes qui viennent d’arriver au Canada, consultez la section Immunisation des personnes nouvellement arrivées au Canada de la Partie 3.
+Tests sérologiques
+Aucun test sérologique n’est recommandé avant ou après l’administration d’un vaccin contre le pneumocoque.
+Méthodes d’administration
+Dose
+Chaque dose du vaccin contre le pneumocoque est de 0,5 mL.
+Voie d’administration
+Le vaccin conjugué contre le pneumocoque devrait être administré par voie intramusculaire (IM). Le vaccin Pneu-P-23 peut être administré par IM ou par voie sous-cutanée (SC).
+Pour plus de renseignements sur le counseling précédant et suivant la vaccination, les techniques de préparation et d’administration de vaccins, ainsi que la prévention et le contrôle des infections, consultez la section Méthodes d’administration des vaccins de la Partie 1.
+Interchangeabilité des vaccins
+Pour l’immunisation systématique des nourrissons, le vaccin Pneu-C-13 est à privilégier. Les nourrissons qui ont commencé leur calendrier de vaccination avec un vaccin contenant moins de sérotypes devraient recevoir le vaccin Pneu-C-13 pour compléter la série.
+Veuillez consulter le chapitre Principes de l’interchangeabilité des vaccins de la Partie 1 pour obtenir de plus amples renseignements sur l’interchangeabilité des vaccins.
+Administration simultanée de vaccins
+Les vaccins contre le pneumocoque peuvent être administrés en même temps que d’autres vaccins, à l’exception d’une autre formulation du vaccin contre le pneumocoque (p. ex., utilisation concomitante des vaccins Pneu-C-13 et Pneu-P-23). Il doit y avoir au moins 8 semaines d’intervalle entre l’administration d’une dose du vaccin conjugué contre le pneumocoque et d’une dose subséquente du vaccin Pneu-P-23; et au moins un an d’intervalle entre l’administration d’une dose du vaccin Pneu-P-23 et d’une dose subséquente du vaccin conjugué contre le pneumocoque. Veuillez vous référer à la section Sujets immunodéprimés pour obtenir des renseignements concernant l’administration des vaccins contre le pneumocoque aux receveurs d’une GCSH. Dans le cas de vaccins administrés par voie parentérale au cours de la même visite, les points d’injection ne doivent pas être les mêmes, et une aiguille et une seringue différentes doivent être utilisées.
+Voir le chapitre Calendrier d’administration des vaccins de la Partie 1 pour plus de précision sur l’administration simultanée de vaccins.
+Entreposage et manipulation des agents immunisants
+Consultez la section Entreposage et manipulation des agents immunisants de la Partie 1 pour lire les recommandations liées à l’entreposage et à la manipulation des vaccins contre le pneumocoque.
+Innocuité et effets secondaires
+Effets secondaires courants et localisés
+Vaccin conjugué contre le pneumocoque
+Dans le cadre d’études du vaccin Pneu-C-13, on a observé des effets secondaires courants tels de l’irritabilité, une perte d’appétit, un allongement ou un raccourcissement du temps de sommeil, de la douleur, une enflure et une rougeur au point d’injection, après la dose chez les bambins et chez les enfants plus vieux. Une faible fièvre survient chez 20 à 30 % ou plus des vaccinés. Chez les adultes de plus de 50 ans, les effets indésirables le plus souvent signalés sont la douleur au point d’injection, la fatigue, les maux de tête et un début de myalgie, accompagnés d’une fièvre de plus de 38 °C chez près de 3 % des personnes vaccinées.
+Vaccin polysaccharidique contre le pneumocoque
+Les réactions au Pneu-P-23 sont généralement bénignes. Une douleur, une rougeur et une enflure au point d’injection s’observent chez 30 à 60 % des vaccinés, et surviennent plus fréquemment après l’administration SC que l’administration IM. Il arrive qu’une faible fièvre soit notée. La revaccination des adultes en bonne santé moins de 2 ans après la première dose est associée à une augmentation des réactions locales au point d’injection et des réactions générales. Des études laissent croire que la revaccination après un intervalle d’au moins 4 ans n’est pas associée à une incidence accrue des effets secondaires. La surveillance post-commercialisation a toutefois permis de répertorier de rares cas de réactions locales graves, notamment une cellulite au point d’injection et un œdème périphérique dans le membre où le vaccin a été injecté, après l’administration du Pneu-P-23, et ce, même après la première dose. Les revaccinations répétées ne sont pas recommandées. Voir la section Doses de rappel et revaccination.
+Effets secondaires moins fréquents et graves
+Les effets secondaires graves sont rares après l’immunisation et, dans la plupart des cas, les données sont insuffisantes pour établir un lien de causalité. Peu d’effets indésirables graves ont été signalés dans les essais cliniques pour ce qui est des vaccins contre le pneumocoque; ils consistaient surtout en des déclarations de convulsions à la fois fébriles et afébriles. Les réactions de type Arthus (causant une vascularite locale par suite du dépôt de complexes immuns) sont très rares et surviennent principalement chez les personnes dont le titre d’anticorps initial contre le pneumocoque était élevé. Des réactions anaphylactiques consécutives à l’administration d’un vaccin contre le pneumocoque peuvent survenir, mais elles sont très rares.
+Conseils pour la déclaration des manifestations cliniques inhabituelles à la suite d’une immunisation
+Les dispensateurs de vaccins sont priés de signaler aux responsables de la santé publique locaux tout effet secondaire grave ou inattendu temporellement associé à la vaccination. Une manifestation clinique inhabituelle (MCI) est un effet secondaire qui ne figure pas dans les renseignements disponibles sur le produit, mais qui peut être dû à l’immunisation, ou encore une modification de la fréquence connue d’effets secondaires suivant l’immunisation. Voir le guide Déclaration de manifestations cliniques inhabituelles (MCI) à la suite d’une immunisation au Canada et le chapitre Effets secondaires suivant l’immunisation de la Partie 2 pour plus de précisions sur la déclaration des MCI.
+Contre-indications et précautions
+Les vaccins contre le pneumocoque sont contre-indiqués chez les personnes ayant déjà eu une réaction anaphylactique au vaccin et chez les personnes ayant une hypersensibilité immédiate ou anaphylactique établie à l’un ou l’autre des composants du vaccin ou de son contenant. Veuillez consulter le chapitre sur les agents immunisants et leurs constituants offerts au Canada dans la Partie 1 pour connaître la liste des vaccins offerts au Canada ainsi que de leurs constituants.
+Dans les cas où l’on soupçonne une hypersensibilité ou une allergie non anaphylactique aux composants vaccinaux, une enquête est recommandée, qui peut comprendre l’immunisation dans un milieu contrôlé. Il est conseillé de consulter un allergologue.
+L’administration du vaccin contre le pneumocoque devrait être retardée chez les personnes atteintes d’une maladie aiguë grave. Cependant, la présence d’une maladie aiguë mineure, accompagnée ou non de fièvre, ne devrait pas entraîner le report de la vaccination.
+Il n’existe actuellement aucune donnée disponible sur l’innocuité du vaccin chez les enfants de moins de six semaines. Il n’existe que peu de données sur l’innocuité et l’immunogénicité du vaccin Pneu-C-13 chez les enfants et les adultes appartenant à un groupe à haut risque de PI en raison de problèmes médicaux sous-jacents.
+Voir le chapitre Contre-indications, précautions à prendre et préoccupations de la Partie 2 pour plus de précisions.
+Références choisies
+American Academy of Pediatrics. In: Pickering L.K., Baker C.J., Kimberlin D.W., et al. (sous la dir. de). Red Book: 2009 Report of the Committee on Infectious Diseases. 28e éd. Elk Grove Village, IL: American Academy of Pediatrics; 2009.
+American Academy of Pediatrics. Technical report: prevention of pneumococcal infections, including the use of pneumococcal conjugate and polysaccharide vaccines and antibiotic prophylaxis. Pediatrics 2000; 106:367-76.
+Black S., Shinefield H., Fireman B., et al. Efficacy, safety and immunogenicity of heptavalent pneumococcal conjugate vaccine in children. Pediatr Infect Dis J. 2000; 19:87-95.
+Butler J.C., Breiman R.F., Campbell J.F., et al. Pneumococcal polysaccharide vaccine efficacy: an evaluation of current recommendations. JAMA; 1993; 270:1826-31.
+Centers for Disease Control and Prevention. Direct and indirect effects of routine vaccination of children with 7-valent pneumococcal conjugate vaccine on incidence of invasive pneumococcal disease – United States, 1998-2003. MMWR Morb Mortal Wkly Rep 2005; 54(36):893-7.
+Centers for Disease Control and Prevention. Licensure of a 13-Valent Pneumococcal Conjugate Vaccine (PCV13) and Recommendations for Use Among Children - Advisory Committee on Immunization Practices (ACIP), 2010. MMWR Morb Mortal Wkly Rep 2010; 59(09):258-61.
+Centers for Disease Control and Prevention. Updated Recommendations for Prevention of Invasive Pneumococcal Disease Among Adults Using the 23-Valent Pneumococcal Polysaccharide Vaccine. MMWR Morb Mortal Wkly Rep 2010; 59(34):1102-6.
+Comité consultatif national de l’immunisation. Une déclaration d’un comité consultatif (DCC). Comité consultatif national de l’immunisation (CCNI) : Déclaration sur l’utilisation du vaccin conjugué contre le pneumocoque 13-valent chez l’adulte (Pneu-C-13). Relevé des maladies transmissibles au Canada, vol. 39 (DCC-5), 2013.
+Comité consultatif national de l'immunisation. Déclaration sur les usages recommandés du vaccin 23-valent contre le pneumocoque chez les sans-abri et les utilisateurs de drogues par injection. Relevé des maladies transmissibles au Canada, vol. 34 (DCC-5), 2008, p. 1-12.
+Comité consultatif national de l'immunisation. Mise à jour sur l’utilisation des vaccins conjugués contre le pneumocoque chez les enfants. Relevé des maladies transmissibles au Canada, vol. 36 (DCC-12), 2010, p. 1-23.
+Comité consultatif national de l'immunisation. Mise à jour sur les pneumococcies invasives chez les enfants et l’utilisation recommandée du vaccin conjugué contre le pneumocoque. Relevé des maladies transmissibles au Canada, vol. 36 (DCC-3), 2010, p. 1-30.
+Comité consultatif national de l'immunisation. Une déclaration d'un comité consultatif (DCC). Comité consultatif national de l'immunisation (CCNI). Mise à jour sur l’utilisation des vaccins antipneumococciques : ajout de l’asthme à titre de condition à haut risque. Agence de la santé publique du Canada. Févr. 2014 (no de catalogue HP40-94/2014F-PDF).
+Deceuninck G., De Serres G., Boulianne N., Lefebvre B., De Wals P. Effectiveness of three pneumococcal conjugate vaccines to prevent invasive pneumococcal disease in Quebec, Canada. Vaccine. 2015 May 28; 33(23):2684-9.
+DeStefano F., Pfeifer D., Nohynek H. Safety profile of pneumococcal conjugate vaccines: systematic review of pre- and post-licensure data. Bull World Health Organ 2008; 86:373-80.
+Eskola J., Anttila M. Pneumococcal conjugate vaccines. Pediatr Infect Dis J. 1999; 18:543-51.
+Eskola J., Kilpi T., Palmu A., et al. Efficacy of a pneumococcal conjugate vaccine against acute otitis media. N Engl J Med. 2001; 334:403-9.
+Esposito S., Tansey S., Thompson A., et al. Safety and Immunogenicity of a 13-Valent Pneumococcal Conjugate Vaccine Compared to Those of a 7-Valent Pneumococcal Conjugate Vaccine Given as a Three-Dose Series with Routine Vaccines in Healthy Infants and Toddlers. Clin Vaccine Immunol 2010; 17(6):1017-26.
+Fine M.J., Smith M.A., Carson C.A., et al. Efficacy of pneumococcal vaccination in adults: a meta-analysis of randomized clinical trials. Arch Intern Med. 1994; 154:2666-77.
+GlaxoSmithKline Inc. Monographie de produit – SYNFLORIXMC. Mai 2009.
+Jackson L., et al. Safety of Revaccination with Pneumococcal Polysaccharide Vaccine. JAMA. 1999; 281:243-48.
+Johnstone J., Eurich D.T., Minhas J.K., et al. Impact of the pneumococcal vaccine on long-term morbidity and mortality of adults at high risk for pneumonia. Clin Infect Dis 2010; 5:15-22.
+Kellner J.D., Church D.L., MacDonald J., et al. Progress in the prevention of pneumococcal infection. Can Med Assoc J. 2005; 173(10):1149-51.
+Merck Frosst Canada Ltée. Monographie de produit – PNEUMOVAXMD 23. Janv. 2011.
+Organisation mondiale de la Santé. Vaccin antipneumococcique conjugué pour la vaccination infantile – note d’information de l’OMS. Relevé épidémiologique hebdomadaire, no 12, 2007, 82e année, p. 93-104.
+Organisation mondiale de la Santé. Vaccin antipneumococcique polyosidique 23-valent – Note de synthèse de l’OMS. Relevé épidémiologique hebdomadaire, no 42, 2008, 83e année, p. 373-384.
+Pfizer Canada Inc. Monographie de produit – PrevnarMD 13. Oct. 2010.
+Rodriguez R. Safety of pneumococcal revaccination. J Gen Intern Med. 1995; 10:511-2.
+Scheifele D., Halperin S., Pelletier L., et al. Invasive pneumococcal infection in Canadian children 1991-1998: implications for new vaccination strategies. Clin Infect Dis. 2000; 31:58-64.
+Shapiro E.D., Berg A.T., Austrain R., et al. The protective effect of polyvalent pneumococcal polysaccharide vaccine. N Engl J Med. 1991; 325:1453-60.
+Shinefield H.R., Black S., Ray P., et al. Safety and immunogenicity of heptavalent pneumococcal CRM197 conjugate vaccine in infants and toddlers. Pediatr Infect Dis J. 1999; 18:757-63.
+Tseng H.F., Smith N., Sy L.S., et al. Evaluation of the incidence of herpes zoster after concomitant administration of zoster vaccine and polysaccharide pneumococcal vaccine. Vaccine 2011; 29:3628-32.
+van Gils E.J., Veenhoven R.H., Hak E., et al. Pneumococcal Conjugate Vaccination and Nasopharyngeal Acquisition of Pneumococcal Serotype 19A Strains. JAMA 2010; 304(10):1099-1106.
+Yeh S.H., Gurtman A., Hurley D.C., et al. Immunogenicity and Safety of 13-Valent Pneumococcal Conjugate Vaccine in Infants and Toddlers. Pediatrics 2010; 126(3):e493-e505.
+Page précédente
+Table des matières
+Page suivante
+Signaler un problème ou une erreur sur cette page
+Veuillez sélectionner toutes les cases qui s'appliquent :
+Un lien, un bouton ou une vidéo ne fonctionne pas
+Il y a une erreur d'orthographe ou de grammaire
+Les renseignements sont incomplets
+L'information n'est plus à jour ou est erronée
+Message d'erreur à l'ouverture de la session lorsque je tente d'accéder à un compte (ex. Mon dossier Service Canada)

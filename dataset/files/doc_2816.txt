@@ -1,0 +1,153 @@
+Au Massachusetts Institute of Technology, un groupe d'étudiants a mis au point un bracelet thermoélectrique capable de produire une sensation de chaud ou de froid à la surface de la peau. L'idée est de pouvoir réguler la température corporelle en fonction des besoins, pour diminuer la consommation d'énergie dédiée au chauffage ou à la climatisation. Cette innovation vient d'être récompensée par un premier prix et une bourse de 10.000 dollars.
+Vous aimez nos Actualités ?
+Inscrivez-vous à la lettre d'information La quotidienne pour recevoir nos toutes dernières Actualités une fois par jour.
+Le prototype du bracelet Wristify est conçu à partir d’un dissipateur thermique fait d’un mélange d’alliage et de cuivre, conçu par les chercheurs du MIT. Ses créateurs assurent qu’ils peuvent rendre le produit beaucoup plus esthétique et ergonomique en obtenant le même effet sur une surface de peau deux fois moins importante. © Wristify, MIT, Department of Materials Science and Engineering
+Cela vous intéressera aussi
+Pourquoi chauffer ou refroidir toute une maison ou un immeuble alors que l'on pourrait agir directement sur la température d'une personne ? Telle est la question que se sont posée les quatre étudiants du Massachusetts Institute of Technology (MIT) qui ont inventé le bracelet Wristify. Il détecte la température ambiante et celle de la peau pour ajuster le ressenti en produisant des ondes chaudes ou froides via un patch thermoélectrique placé sur le poignet. Ce prototype de bracelet a reçu le premier prix du concours Madmec organisé chaque année par le MIT. À la clé, une bourse de 10.000 dollars (environ 7.400 euros) qui servira à poursuivre le développement du produit.
+Loin d'être un gadget farfelu, ce concept pourrait contribuer à réduire la consommation d’énergie utilisée pour le chauffage et le refroidissement des bâtiments. Selon des chiffres communiqués par les concepteurs du Wristify, aux États-Unis, 16,5 % de la consommation totale d'énergie est engendrée par le chauffage et la climatisation des bâtiments et des maisons. S'il n'est bien entendu pas question de remplacer les installations existantes par ce bracelet, l'objectif serait de s'en servir pour mieux réguler la consommation énergétique. L'équipe du MIT a ainsi calculé que si Wristify peut faire en sorte qu'un bâtiment ne fasse pas varier sa température de seulement un degré, cela pourrait faire économiser environ 100 kWh par mois.
+Dans le détail, le bracelet Wristify se compose d’un dissipateur thermoélectrique (thermoelectric + heat sink) et d’un thermomètre qui mesure la température au niveau du poignet (wrist thermometer). Il est relié à un module de contrôle automatique (automated control system) qui intègre un thermostat (ambient thermometer). Des Led rouge et verte indiquent le mode chaud ou froid. © Wristify-MIT, Department of Materials Science and Engineering
+La perception cutanée est plus directe
+Le bracelet ressemble un peu à une grosse montre avec, en guise de cadran, un dissipateur thermique fait d'un mélange de cuivre et d'alliage. Un système de contrôle basé sur un algorithme et des thermomètres gère l'intensité et la durée des actions thermiques. Un interrupteur permet de basculer entre le mode chaud ou froid. Le bracelet est alimenté par une batterie lithium-ion qui lui assure une autonomie de huit heures.
+Au cours de leurs travaux, les jeunes chercheurs ont découvert que le corps humain réagissait plus vite à des changements thermiques directement appliqués sur la peau qu'à des changements de température ambiante dans une pièce. Il en est ainsi, par exemple, lorsque par de fortes chaleurs l'on s'applique une serviette mouillée à l'eau froide sur le front. La sensation de fraîcheur, bien que de courte de durée, se propage effectivement dans tout le corps.
+Pour reproduire un tel effet de chaud ou de froid, le bracelet Wristify devait générer des impulsions à un taux minimum de 0,1 °C par seconde. Après avoir construit une quinzaine de prototypes, l'équipe du MIT s'est arrêtée sur une configuration qui produit des impulsions chaudes ou froides de 0,4 °C par seconde. Pour maintenir l'effet constamment, le cycle dure cinq secondes, suivi d'une pause de dix secondes et ainsi de suite.
+Un usage prolongé de Wristify est-il envisageable ?
+Reste à savoir si un tel procédé conviendrait à un usage prolongé. Qu'en serait-il également d'une dissipation de l'effet sur la durée ? Nos questions, posées à l'un des chercheurs, n'ont pas eu de réponses. Forts de leur bourse, les quatre étudiants ont en tout cas l'intention de poursuivre le développement de Wristify pour parvenir à un produit commercialisable.
+La prochaine étape consiste à perfectionner le système, notamment au niveau de l'algorithme de régulation thermique. Mais le gros du travail porte sur le dessin et l'ergonomie, pour parvenir à un produit qui soit à la fois confortable et esthétique. L'équipe du MIT indique qu'elle a fabriqué son prototype avec des composants qui n'ont pas coûté plus de 50 dollars et qu'elle pourrait générer le même effet à partir d'un appareil occupant moitié moins de surface sur la peau.
+Intéressé par ce que vous venez de lire ?
+Abonnez-vous à la lettre d'information La quotidienne : nos dernières actualités du jour. Toutes nos lettres d’information
+Votre e-mail
+S'abonner
+!
+Merci pour votre inscription.
+Heureux de vous compter parmi nos lecteurs !
+Lien externe
+Wistrifyme : thermal comfort, reimagined
+SUIVEZ-NOUS SUR LES RÉSEAUX SOCIAUX
+DERNIÈREMENT
+TechVoici le Spur, le premier robot-chien armé d’un fusil d'assaut
+TechWindows 11 : la mise à jour plombe encore plus les performances des puces AMD
+TechHP+ : qui a dit qu'une imprimante ne pouvait pas être smart ?
+Comparatifs & Bons Plans
+MaisonBon plan Moulinex : -229 € sur le Robot cuiseur connecté i-Companion
+TechForfait mobile : profitez de 20 à 100 Go à partir de 4,99 €/mois grâce à cette promo
+TechLe PC portable Lenovo IdeaPad Creator 5i est à -220 € sur Amazon
+bracelet connecté Les meilleurs bracelets connectés pour un choix simple
+pâte thermiqueChoisissez la meilleure pâte thermique pour vous
+free mobileSélection des meilleurs forfaits free mobile
+Découvrez tous nos bons plans
+Sur le même sujet
+PlanèteActualité
+Greentech : les thermopiles, ou l’exploitation de la chaleur résiduelle
+TechActualité
+Nymi, un bracelet d’authentification basé sur le rythme cardiaque
+TechActualité
+Des batteries lithium-ion plus puissantes rechargeables en 10 minutes
+MaisonActualité
+La chaleur de l’été nous fait consommer 2.000 MW d’électricité en plus
+MaisonDossier
+La climatisation : fraîcheur à la demande
+SantéQ/R
+Température corporelle : quel thermomètre choisir ?
+TechQ/R
+Batterie : faut-il laisser son smartphone charger toute la nuit ?
+TechQ/R
+Windows 7 : améliorer l'autonomie batterie pour surfer plus longtemps
+TechQ/R
+Explosion de batteries : pourquoi les téléphones Samsung explosent-ils ?
+TechDossier
+Transfert de technologie
+TechDossier
+La technologie de la signalisation ferroviaire
+TechDossier
+Technologie spatiale et textiles
+TechActualité
+John Goodenough, le père de la batterie lithium-ion, invente une technologie encore plus performante
+TechActualité
+Plongez au cœur d’une batterie lithium en vidéo
+TechActualité
+Une batterie lithium-ion qui prévient quand elle va exploser
+TechActualité
+Une batterie au lithium imprimable
+TechActualité
+Une batterie lithium-ion en origami pliable et déformable
+Lire la suite : Zeno R25, le robot qui détecte et imite les émotions
+À voir aussi :
+température corporelle |
+batterie au lithium |
+economie energie classe |
+énergie thermique définition |
+temperature de fermeture |
+fabriquer bracelet |
+bracelet de montre casio |
+test bracelet magnetique |
+bracelet fluorescent recharger |
+bracelet anti ronflement avis
+Information
+Contact
+Qui sommes-nous ?
+Parrains
+Partenaires
+Blogs
+Boutique
+Futura recrute
+Se désabonner
+Mentions légales
+Charte de protection des données personnelles
+Gestion des cookies
+Widget actualité
+Flux RSS
+Devenez annonceur
+Forums
+Chauffage
+Dépannage
+Bricolage
+Electronique
+Informatique
+Mathématiques
+Chimie
+Planète
+Santé
+Sciences
+Orientation
+Archives
+Contenus
+Actualités
+Dossiers
+Définitions
+Question/Réponses
+Personnalités
+Photos
+Vidéos
+Fonds d'écran
+Escapades
+Recettes
+Brèves
+Métiers
+Livres
+Tops
+Quiz
+Chroniques
+Podcasts
+Bons Plans
+20 ans Futura
+Téléchargements
+Forfaits mobiles
+Index
+A-Z
+Plan du site
+Web stories
+Partenaires
+Science
+Wissenschaft
+Devis Maison
+Comparatifs
+Guides Maison
+Guides Tech
+Guides Santé
+Aspirateur sans fil
+Alarme maison
+Poêles à granulés
+Ecouteurs sans fil
+Boîtier PC
+Enceinte bluetooth
+À voir aussi : Caméra de surveillance | Comparateur garage | Financer ses travaux | Traduction automatique | Système d’alarme | Brûleur de graisse | L'alternative au PC portable gamer | La consommation électrique en France | freelance informatique

@@ -1,0 +1,175 @@
+Notre objectif : vous informer sur l'école numérique (Tice), les applications pédagogiques, les outils, le codage, l'algorithmique, les objets connectés et tant d’autres sujets liés à la transformation numérique, la EdTech et la formation. Totalement Gratuit ! École Collège Lycée Université.
+S'inscrire
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Voir maintenant
+Commentaires
+Premier rapport du CSA sur l'éducation aux médias et à l'information (EMI)
+Morydramane 26.11.2021
+Merci pour ce rapport	
+IniRobot : robotique et programmation à l'école primaire
+AlexandraLL 03.11.2021
+Ma fille a commencé son apprentissage avec scratch ...	
+Créer des exercices interactifs pour vos élèves avec Kubbu
+AlexandraLL 03.11.2021
+Malheureusement elle fonctionne plus et c'est bien ...	
+Débuter avec le code à l'école avec : Code.org
+AlexandraLL 03.11.2021
+Ma fille de 11 ans utilise cette plateforme, je ...	
+Légendes
+Ecole - Collège - Lycée - Tout Public - Université
+Qui est en ligne ?
+Nous avons 799 invités et un membre en ligne
+Vous êtes ici :
+Accueil
+Découvrez la diversité des métiers d'ingénieurs avec le forum virtuel des métiers "Ingénieur ? C’ pour moi"	
+Détails	
+Publication : 11 octobre 2021	
+L’association Femmes Ingénieures, entourée de 16 partenaires, organise le forum « Ingénieur ? C’ pour moi ! » un événement virtuel à destination des jeunes, filles et garçons, pour leur faire découvrir la diversité des métiers d'ingénieurs, et susciter des vocations.
+Plus de 4 500 collégiens, lycéens et étudiants sont attendus les 15 et 16 octobre 2021 pour ce forum organisé par l’association Femmes Ingénieures et hébergé sur la plateforme de réalité virtuelle des Arts et Métiers.
+Lire la suite... Ajouter un commentaire
+Document d’accompagnement pour la mise en œuvre du Cadre de Référence des Compétences Numériques (CRCN)	
+Détails	
+Publication : 6 octobre 2021	
+Les compétences numériques constituent un élément essentiel du parcours scolaire, de l’insertion professionnelle et de la vie citoyenne dans une société dont l’environnement technologique évolue constamment. Présentes dans le socle commun de connaissances, de compétences et de culture ainsi que dans les programmes de l’école au lycée, les compétences numériques s’acquièrent au cours de formations formelles et informelles, dans le temps scolaire et hors temps scolaire.
+En ce début d’année scolaire 2021-2022, nous rappelons l’importance du numérique dans l’Education avec la présentation du document relatif au cadre de référence des compétences numériques qui a été mis à jour en août 2020 (104 pages).
+Lire la suite... Ajouter un commentaire
+Nouvelle version d'Emmabuntüs Debian Edition 4 1.00
+Détails	
+Publication : 27 septembre 2021	
+Emmabuntüs est une distribution Linux conçue pour faciliter le reconditionnement des ordinateurs donnés aux associations humanitaires, en particulier les communautés Emmaüs (d'où son nom) et favoriser la découverte de Linux and GNU par les débutants, mais aussi prolonger la durée de vie du matériel pour limiter le gaspillage entraîné par la surconsommation de matières premières. Cette nouvelle distribution Emmabuntüs Debian Édition 4 1.00 (32 et 64 bits) basée sur la Debian 11.0 Bullseye et XFCE/LXQt rajoute de nouvelles fonctionnalités pour améliorer la version précédente et supprimer des logiciels propriétaires au profit d’alternatives libres, tel que DWService à la place de Teamviewer, Jami à la place de Skype, ainsi que la suppression d’Adobe Flash.
+Lire la suite... Ajouter un commentaire
+Comment rechercher un emploi à l’heure du digital ?	
+Détails	
+Publication : 20 septembre 2021	
+A l’heure du digital, la recherche d’un emploi ne se cantonne plus au simple envoi de CV papier. Il existe de nombreuses plateformes qui se sont développées et qui proposent des services d’aide à la recherche et à la candidature. Le CV traditionnel a également été transformé et il s’agit désormais de se démarquer des autres candidats. Petit tour d’horizon des initiatives 2.0.
+Lire la suite... Ajouter un commentaire
+10 Logiciels pour retoucher vos images et photos produits !	
+Détails	
+Publication : 22 septembre 2021	
+Afin d’augmenter les chances de vendre un produit ou encore de créer de beaux visuels sur votre site, il est essentiel de réaliser des photographies de haute qualité. Les photos sont la vitrine de vos produits et de vos services. Elles donnent une identité à votre entreprise afin de donner confiance aux utilisateurs de votre site.
+Lire la suite... Ajouter un commentaire
+Comment l’open data facilite la rénovation énergétique des écoles ?	
+Détails	
+Publication : 14 septembre 2021	
+Les écoles font partie des bâtiments municipaux qui consomment le plus d’énergie. Pour mieux identifier les travaux prioritaires à réaliser, le programme d’open data a rassemblé toutes les données disponibles sur l’état des établissements scolaires.
+Les factures énergétiques des bâtiments urbains sont très élevées. Les écoles, du jardin d’enfants à l’université, représentent une part importante du secteur tertiaire. Elles sont également les principales consommatrices d’énergie des villes face aux bâtiments administratifs et sportifs d'où la nécessité de la rénovation énergétique des écoles. Comment l’open data facilite ce projet ?
+Lire la suite... Ajouter un commentaire
+Ouverture d'un marché public de 25M€ des solutions numériques éducatives pour les professeurs	
+Détails	
+Publication : 13 septembre 2021	
+Le ministère de l’Éducation Nationale vient d'annoncer l'ouverture d’un marché public de 25 M€ pour des solutions numériques éducatives pour les professeurs. Les réponses attendues le 1er octobre au plus tard.
+Ce marché est lancé dans le cadre de la stratégie d’accélération "Enseignement et Numérique" du Programme d’investissements d’avenir (PIA) et de l’action "Territoires Numériques Éducatifs" (TNE).
+Lire la suite... Ajouter un commentaire
+Iconoir : 940 icônes open source pour vos sites et créations	
+Détails	
+Publication : 13 septembre 2021	
+Iconoir est une bibliothèque d’icônes au format SVG entièrement gratuite. Son créateur, Luca Burgio, met à disposition de tous des centaines de graphismes pour pouvoir les intégrer dans des créations, ou sites en ligne. La bibliothèque est en constante évolution et s’enrichit donc régulièrement avec de nouvelles créations.
+Pour rappel, SVG est un langage basé sur XML qui permet de décrire des images vectorielles. Les images vectorielles décrivent des lignes et des formes, cela permet d’obtenir une image qui est toujours nette, quelle que soit la résolution de l'écran ou l'agrandissement effectué sur l'image.
+Lire la suite... Ajouter un commentaire
+Quizlet : Créer des flashcards, quiz et jeux en ligne pour tout apprendre	
+Détails	
+Publication : 6 septembre 2021	
+Quizlet est un outil très complet pour créer des flashcards ou encore pour créer des cartes mémoire en ligne facilement. C’est un des meilleurs outils de sa catégorie pour réaliser des jeux de mémorisation.
+Une dose de gamification, une autre d’intelligence artificielle, ajoutez la possibilité à chacun d’être acteur de son propre apprentissage et vous obtenez une plateforme éducative d’une redoutable efficacité pour tout comprendre, apprendre et mémoriser. Quizlet est un assistant parfaitement adapté aux nouvelles formes d’enseignement en présentiel ou à distance sur toutes les plateformes, ordinateurs, tablettes ou mobiles.
+Lire la suite... Ajouter un commentaire
+Comment repenser l’enseignement ? Rejoignez notre évènement du 21 au 23 septembre pour en savoir plus !	
+Détails	
+Publication : 1 septembre 2021	
+Si toutes les écoles n’étaient pas préparées à la pandémie, la COVID-19 a permis de développer les initiatives pour doter les utilisateurs d'une technologie qu’ils puissent utiliser n'importe où. C'est l'occasion idéale d'évaluer ce qui fonctionne, ce qu’il faut améliorer, et quels processus il faut mettre en place pour permettre la réussite des élèves dans les années à venir. Par où commencer pour établir une stratégie numérique pour l’école de demain ?
+Ci-dessous, vous trouverez quelques meilleures pratiques pour repenser votre stratégie numérique au sein de votre établissement. Vous souhaitez en savoir plus ? Inscrivez-nous à notre évènement virtuel du 21 au 23 septembre pour découvrir, à travers des témoignages clients, des ateliers par des partenaires technologiques et des présentations de nos experts Jamf, comment bâtir une stratégie numérique pour l’école de demain.
+Lire la suite... Ajouter un commentaire
+Découvrez des pratiques pédagogiques innovantes avec eTwinning !	
+Détails	
+Publication : 1 septembre 2021	
+Comme de nombreux enseignants, vous souhaitez sortir des sentiers battus dans votre manière d’enseigner. Vous avez besoin « d’une bouffée d’air frais » dans vos pratiques mais ne savez pas comment faire ? eTwinning est peut-être la solution !
+c'est une plateforme européenne du programme Erasmus+ qui permet de mener des projets collaboratifs à distance, dans différentes langues, avec l’aide d’outils numériques !
+Lire la suite... Ajouter un commentaire
+Education à l’alimentation : des ressources numériques pour titiller les papilles et développer l’esprit critique	
+Détails	
+Publication : 31 août 2021	
+La plupart des enseignants utilisent le numérique pour préparer leur cours1 et cette tendance s’est affirmée avec la crise sanitaire et la continuité pédagogique qu’il a fallu mettre en place à distance de nos élèves. En ce qui concerne l’éducation à la santé et notamment l’éducation à l’alimentation, il est parfois compliqué de s’y retrouver entre tous les outils proposés sur le web. L’alimentation et le goût sont à la fois des sujets sensibles et au cœur du patrimoine français. Ils peuvent soulever des discussions, des débats même, mais il est un fait indéniable : bien manger et bouger sont les clés d’une bonne santé.
+Lire la suite... Ajouter un commentaire
+Comment animer une classe virtuelle avec le CNED à la rentrée 2021 ?	
+Détails	
+Publication : 30 août 2021	
+En cette rentrée 2021 et avec la problématique de la crise sanitaire due au « Coronavirus - Covid-19 », le CNED met à disposition des enseignants et de leurs élèves un dispositif de classes virtuelles reconduit et simplifié. En effet, les professeurs et leurs élèves n’ont plus besoin de se créer un compte pour accéder au service en ligne et chaque professeur dispose d’un lien d’accès unique et personnel.
+Lire la suite... Ajouter un commentaire
+Améliorer son orthographe de manière ludique avec les dictées en ligne de Dictaly	
+Détails	
+Publication : 26 août 2021	
+En cette rentrée scolaire, il est toujours bon de réviser son orthographe. Dictaly propose des dictées en ligne gratuites pour s’entraîner quotidiennement afin de progresser dans son expression écrite. Cette application a été créée par des passionnés d’orthographe pour aider les élèves, étudiants, parents et professionnels à progresser en grammaire, conjugaison et syntaxe de notre belle langue française.
+Lire la suite... Ajouter un commentaire
+L’antivirus Trend Micro gratuit pour les enseignants et tous les personnels de l’Éducation Nationale	
+Détails	
+Publication : 23 août 2021	
+Les menaces et attaques informatiques sont de plus en plus nombreuses sur internet, il est donc primordial d’avoir un logiciel antivirus installé et que celui-ci soit à jour pour protéger son poste informatique.
+Il existe de très nombreux logiciels antivirus sur le marché, la plupart fonctionnent très bien. Il est difficile de comparer en raison de tous les critères que vous devez prendre en considération et aucun antivirus n’est infaillible à 100%. Pour les systèmes d’exploitation sous Windows, l’antivirus « Microsoft Defender » installé par défaut donne d’ailleurs de bons résultats.
+Lire la suite... Ajouter un commentaire
+Créez facilement des QR codes personnalisés avec QR.io	
+Détails	
+Publication : 16 août 2021	
+QR.io est une application en ligne de création QR codes (Quick Response) pour augmenter vos interactions. Avec la pandémie les QR codes sont à la une et très utilisés dans de nombreux domaines. Ils permettent de faire connaître une application pour la télécharger, de promouvoir un site web, de partager des informations, de recueillir des réponses de consommateurs etc.
+Lire la suite... Ajouter un commentaire
+Pix s’associe à la coalition mondiale pour l’éducation de l'UNESCO	
+Détails	
+Publication : 6 août 2021	
+Pix s’associe à la coalition mondiale de l’Unesco pour aider les jeunes à acquérir des compétences numériques devenues essentielles à leur entrée sur le marché du travail. Pix participe à la « Global Skills Academy » pour faciliter l’employabilité des jeunes. La pandémie à renforcé la nécessité pour les élèves et les étudiants de développer leurs compétences numériques pour s’insérer dans la vie active et s'adapter à notre environnement numérique.
+Lire la suite... Ajouter un commentaire
+Baromètre du numérique 2021
+La circulaire de rentrée 2021 rappelle la généralisation de la certification Pix en 2021-2022
+Comment améliorer son anglais oral ?
+Comment apprendre aux étudiants à créer leur propre site web à partir de zéro ?
+Un kit pédagogique tout numérique pour sensibiliser à l’énergie solaire
+Comment sauvegarder ses données ?
+Erasmus+ 2021-2027 : un programme innovant, numérique et inclusif
+Initier vos élèves à la cybersécurité avec le kit CyberEnJeux
+Les podcasts de Vie-publique.fr : les élections 2021 pour les 15-24 ans
+Quels sont les résultats des Etats généraux du numérique ?
+Cartographie des compétences par métiers
+Depuis un an, la forte croissance des formations en anglais
+Grand Jeu-Concours CALCUSO : Gagnez le meilleur équipement pour vous et vos élèves !
+Créer un quiz avec l’application gratuite : Quizinière
+Faciliter l’enseignement des mathématiques avec Casio Education
+Page 2 sur 38	
+Début
+Précédent
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Suivant
+Fin
+Tice Education partenaire
+Derniers articles
+Je protège mon enfant : un portail de prévention gouvernemental pour les parents	
+Les 3 points les plus importants pour s'inscrire dans une université américaine
+Cours en ligne : le nouveau visage du soutien scolaire	
+Guide 2021 d’utilisation des réseaux sociaux en classe	
+Premier rapport du CSA sur l'éducation aux médias et à l'information (EMI)	
+Girls Who Code, l'association pour promouvoir l'informatique chez les filles	
+Escape Game à télécharger et vidéos d’animation : enseigner les énergies en cycle 3 avec des outils numériques ludiques	
+Educatec-Educatice 2021 : Quel numérique éducatif pour le monde d’après ?	
+Carnet de ressources pédagogiques sur l’intelligence artificielle (IA) pour les enseignants	
+Le guide des outils Moodle pour enseignants et formateurs	
+CotEditor : L'éditeur de texte brut pour macOS	
+Édition 2021 du salon Educatec-Educatice	
+Articles les plus lus !
+Microsoft Office 2019 à 16,74 Euros pour les enseignants	
+Scratch 2.0 : la programmation facile pour les lycéens, collégiens et écoliers	
+Les TICE, c'est quoi ?	
+LearningApps : Exerciseurs gratuits en ligne
+Draw.io : un outil pour dessiner des diagrammes en ligne	
+Microsoft Office 365 gratuit pour les étudiants et enseignants	
+Coronavirus Covid-19 - « Ma classe à la maison » : la plateforme gratuite du CNED pour assurer la continuité pédagogique	

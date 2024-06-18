@@ -1,8 +1,7 @@
-# InclusifBERT   
-
-from ._utils import *
+from ._utils import AnnPredModel, Trie, Ann
 import os
 import re
+import pandas as pd
 from unidecode import unidecode
 import sklearn_crfsuite
 from sklearn.model_selection import train_test_split
@@ -99,7 +98,7 @@ class CRFModel(AnnPredModel) :
 	output : reshape the data (text) in form of a DataFrame with the following columns : [texts, tokens, annotated, labels] . Each row corresponds to a document (so there is only one row)
 	"""
 	def _sub_crf_shaping(self, text : str, anns : list[Ann]) -> pd.DataFrame :
-		doc = self.nlp(text)
+		doc = self.nlp_model(text)
 		dfdict = {"texts" : [[]], "tokens" : [[]], "feats": [], "annotated" : [[]], "labels" : [[]]}
 		for tk in doc:
 			dfdict["texts"][0].append(tk.text)

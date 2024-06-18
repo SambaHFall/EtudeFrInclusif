@@ -1,3 +1,16 @@
-from EtudeFrInclusif.src.crf import nb_non_alpha
+from etude_fr_inclusif.crf import CRFModel
+import spacy
+import codecs
+from colorama import Fore, Style
 
-print(nb_non_alpha("R2nard!") )
+model = CRFModel()
+
+text = "Ceci (est) un petit test de ce qui pourrait arriv(er) (on teste plusieurs trucs)"
+
+doc = model.nlp_model(text)
+
+for tk in doc:
+	print(tk.text)
+	print(tk.lemma_)
+	print(tk.pos_)
+	print("---")

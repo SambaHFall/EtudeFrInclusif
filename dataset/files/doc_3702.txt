@@ -1,0 +1,296 @@
+Abonnez-vous à notre newsletter et bénéficiez de 10% de réduction sur les commandes d’un montant supérieur à 100 € !
+Profitez-en et ne manquez pas nos offres et nouvelles.
+Client PrivéArchitecteAgence ImmobilièreAgence de publicité
+ABONNEZ-VOUS
+En vous inscrivant, vous acceptez notre politique de confidentialité
+FRANÇAIS
+Austria Belgium Bulgaria Czech republic Denmark Estonia France Germany Hungary Ireland Italy Latvia Lithuania
+Luxembourg Monaco Netherlands Poland Portugal Romania Slovakia Spain Sweden Switzerland United Kingdom
+Produits 100% originaux
+Retours faciles
+Paiement sécurisé
+Connexion
+Lovelist
+Lovelist
+Votre Lovelist est vide : faites un vœu !
+LOVELIST
+Panier
+VOTRE PANIER
+Votre panier est vide : commencer le shopping !
+VOIR LE PANIER
+Lovelist
+Langues
+Langues
+Austria Belgium Bulgaria Czech republic Denmark Estonia France Germany Hungary Ireland Italy Latvia Lithuania
+Luxembourg Monaco Netherlands Poland Portugal Romania Slovakia Spain Sweden Switzerland United Kingdom
+Black Week
+Nouveautés
+Mobilier
+MobilierMeubles de Salle de BainsLavabosBibliothèquesBureauxCanapésChaisesCheminées au bioéthanolCommodes et Tables de chevetEtagères et TablettesFauteuils et Chaises longuesLitsMeubles de rangementMeubles pour la chambre enfantMobilier de jardinPortemanteaux et PatèresPoufsTablesTables bassesTabouretsTapis
+Voir tout >
+FRITZ HANSEN | Beauté danoise
+THESIGN | Le Canapé Modulable Rodolfo
+Du magazine de LOVEThESIGN | Retour au travail : lutter contre l'angoisse du retour des vacances
+Luminaires
+LuminairesAppliquesLampadairesLampes LEDLampes de tableLampes pour la chambre enfantLuminaires d'extérieurLampes décoratives et objets lumineuxSuspensions et Plafonniers
+Voir tout >
+FLOS | La lumière a une âme
+FOSCARINI | Se surprendre tous les jours
+Du magazine de LOVEThESIGN | 3 Façons pour Sublimer un Appart en Location
+Table & Cuisine
+Table & CuisineAccessoires pour vin et cocktailAssiettesBarbecuesBols et RécipientsCafé et ThéCarafes et PichetsCasseroles et PoêlesCentres de table et Plats de présentationCouvertsHuile, Vinaigre et Sel, PoivreLes enfants à tableLinge de tablePlanches à découper, blocs et couteauxPlateauxPoubellesUstensilesVerres
+Voir tout >
+ALESSI | La beauté est essentielle
+PORDAMSA | Jouer avec les formes
+BITOSSI HOME | Dépoussiérez l'art de la table !
+Accessoires Maison
+Accessoires MaisonAccessoires de bureauAccessoires murauxAccessoires pour animauxAccessoires salle de bainAffiches et Adhésifs murauxBougies et BougeoirsBoîtes et RangementsDécorationsDécorations d'extérieurEtagères et TablettesHigh-techHorlogesMiroirsObjets pratiquesPaillassonsPoubellesVases et Pots de fleur
+Voir tout >
+IL COCCIO DESIGN | Le bonheur est fait de petites choses
+ALESSI | Élégant et intémporel
+Du magazine de LOVEThESIGN | Les Parfums d'ambiance peuvent faire des merveilles
+Enfants
+EnfantsDécorations pour la chambre enfantJouetsLampes pour la chambre enfantLes enfants à tableLinge pour la chambre enfantMeubles pour la chambre enfant
+Voir tout >
+OLIVER FURNITURE | Le parfum du bois dans la chambre enfants
+LITS SUPERPOSES | Solutions créatives
+Du magazine de LOVEThESIGN | Sains et saufs, meubles écolo pour les tout petits
+Idées Cadeaux
+Idées CadeauxCartes cadeauxCartes de vœux et papiers cadeauxHigh-techIcônes du designMoins de 50€Pour ellePour les enfantsPour luiPour nos amis les animaux
+Voir tout >
+CARTE CADEAU | Un cadeau qui vaut tout le catalogue de LOVEThESIGN
+KREAFUNK | Hi-Tech pour personnes dynamiques
+LIVRAISON RAPIDE | Pour ceux qui ne veulent pas attendre
+Jardin
+JardinBarbecuesDécorations d'extérieurJardinageLuminaires d'extérieurMobilier de jardinVases et Pots de fleur
+Voir tout >
+TALENTI | Elégance intemporelle
+LUMINAIRES D'EXTERIEUR | Allumez vos soirées
+Du magazine de LOVEThESIGN | 3 styles pour valoriser votre jardin
+Brand
+BrandAlessiArperArtemideCasamaniaFatboyFerm LivingFlosFoscariniKartellNormann CopenhagenOpinion CiattiSelettiThESIGN
+Voir tout >
+Découvrez les grands noms et les nouveaux talents du design
+SELETTI | Insolite, domestique
+Le magazine de LOVETHESIGN | Explorez, découvrez, laissez vous inspirer
+AliasArtemideBitossi HomeDiesel with FoscariniFlosFoscariniGubiMagisMiniformsNormann CopenhagenSelettiVarierThESIGN
+Designers
+Piano Primo
+Promo
+LOVELIST
+Votre Lovelist est vide : faites un vœu !
+LOVELIST
+VOTRE PANIER
+Votre panier est vide : commencer le shopping !
+VOIR LE PANIER
+{{name}}
+{{brand.name}}
+{{#price}}
+{{ priceString }}
+{{ sellPriceString }}
+{{/price}}
+{{ sellPriceString }}
+.
+{{ 'teamnovatek.sylius.frontend.search_modal.clear'|trans }}
+VOIR TOUT
+RECHERCHE AVANCÉE
+Home
+Mobilier
+Fauteuils et Chaises longues
+Fauteuils
+Corolla 272 Bergère rembourrée en tissu Boemian
+{{#if existBrand}}
+by {{ brand }}
+{{/if}}
+{{ price_formatted }}{{ final_price_formatted }} {{ final_price_formatted }} {{#if t.isVatIncluded}}{{ t.vat }}{{/if}}
+{{ t.saving }} {{ discount_formatted }} (-{{ price_percentage }}%)
+{{#if existVariant}} {{/if}} {{#if existsColorOrLegacyOptions}}
+{{#each colorLegacyOptions}} {{ value }} {{/each}} {{#each colorOptions}} {{ value }} {{/each}}
+{{/if}} {{#if existMaterialOptions}}
+{{#each materialOptionsFirstColor}} {{ material-value }} {{/each}}
+{{/if}}
+{{ t.available }}{{ stock }}
+{{#each stockElms}} {{ index }} {{/each}}
+{{#if isNew}}
+{{ t.new }}
+{{/if}}
+{{ t.none }}
+{{#if isLovePromo}}
+{{ t.lovepromo}}
+{{/if}}
+{{ t.shipping_is_free }}
+{{#if isPlanDelivery}} {{/if}}
+{{ t.cta }}
+{{ t.ctaLovelist }}
+{{^if isGiftCard}}
+{{ t.shipped_in_24_48 }}
+{{t.deliveryCOVID19_1}}
+{{t.deliveryCOVID19_2}}
+{{t.deliveryCOVID19_3}}
+{{t.brexit}}
+{{ t.deliveryFrom }} {{ deliveryDateMin }} {{ t.deliveryTo }} {{ deliveryDateMax }}
+{{t.deliveryCOVID19_1}}
+{{t.deliveryCOVID19_2}}
+{{t.deliveryCOVID19_3}}
+{{t.brexit}}
+{{ t.holiday }}
+{{ t.holiday_2 }}
+{{/if}} {{#if isGiftCard}}
+{{ t.shipped_by_mail }}
+{{ t.shipped_by_mail_2 }}
+{{/if}}
+{{#unless isLovePromo}}
+{{ t.get_quote }}
+{{ t.get_quote_button }}
+{{/unless}}
+{{{ name }}}
+{{#if hasDiscount}} {{ price_formatted }}{{ final_price_formatted }} {{#if t.isVatIncluded}} {{ t.vat }} {{/if}} {{else}} {{ currency }} {{ price }} {{/if}}
+{{#if hasDiscount}} {{ final_price_formatted }} {{else}} {{ currency }} {{ price }} {{/if}}
+{{#each stockElms}} {{ index }} {{/each}}
+{{ t.cta }}
+{{ t.cta }}
+{{#if isLovePromo}}
+{{ t.lovepromo }} - {{ t.promoName }} {{ t.promoDiscount }}
+{{ t.endsIn }}
+{{ t.days }}
+{{ t.hours }}
+{{ t.minutes }}
+{{ t.seconds }}
+{{/if}}
+{{{ name }}}
+{{#if existBrand}}
+by {{ brand }}
+{{/if}}
+{{ price_formatted }} {{ final_price_formatted }} {{ final_price_formatted }} {{#if t.isVatIncluded}}{{ t.vat }}{{/if}}
+{{ t.saving }} {{ currency }} {{ discount_diff }} (-{{ price_percentage }}%)
+{{ t.control }}
+{{ t.control }}
+{{ t.control }}
+Quantità< 5567891011121314151617181920> 20
+{{ t.control }}
+{{ t.label_1 }}* {{ t.control }}
+*{{ t.label_2 }}
+{{ t.total_errors }}{{ t.error_message }}{{ t.success_message }}
+{{ t.cta }}
+{{ t.close }}
+Voir la vidéo
+product
+49842Corolla 272 Bergère rembourrée en tissu Boemianhttps://cdn.lovethesign.com/v2/images/COROLLA272FG00782400_1.jpg2458.32458.3EURInStock10Billiani/mobilier/fauteuils-et-chaises-longues/fauteuils/mobilier/fauteuils-et-chaises-longues/mobilierEURBois massif de hêtre - Tissucorolla-272-bergere-rembourree-en-tissu-boemianCorolla 272 Bergère rembourrée en tissu Boemian by BillianiCristina Celestino a conçu une collection de fauteuils en style scandinave, aux formes douces et harmonieuses. Les volumes bombés de cettes chaises de design sont allégés par la base en bois transformé, qui est la signature stylistique de la marque Billiani. La ligne ondulée fait référence à l'univers de la mode, dont le charme est bien présent même dans la qualité du revêtement, qui trouve sa meilleure expression dans le mariage de différentes couleurs et textures pour la structure et les coussins. Ne pas soumettre le produit à des chocs violents, éviter les chutes de hauteur. Ne pas exposer le produit aux intempéries, aux agents atmosphériques, ni à sources de chaleur supérieures à 40° C. Un entretien et un nettoyage corrects et fréquents augmentent la résistance du produit. Lorsqu'il est exposé à la lumière du soleil, le produit peut être sujet à des variations de couleur. Toute intervention d'entretien doit être exécutée par un personnel expérimenté. Les instructions suivantes pour l'entretien sont de simples suggestions. Il est recommandé de nettoyer toutes les surfaces avec un chiffon humide et des produits de nettoyage écologiques, tout en réalisant un entretien régulier. Avant d'utiliser un détergent, le tester sur une zone peu visible. Suivre les instructions du fabricant et s'adresser à une entreprise de nettoyage spécialisée en cas de salissures tenaces. Spécifications du tissu : 5% Coton ; 25% Viscose ; 13% Lin ; 15% Laine ; 25% Polyester ; 15% Acrylique ; 2% Polyamide. Billianihttps://www.lovethesign.com/fr/billiani/corolla-272-bergere-rembourree-en-tissu-boemian
+Corolla 272 Bergère rembourrée en tissu Boemian by Billiani
+Spécifications techniques
+Dimensions H 94 cm / L 58-84,5 cm / P 40-78 cm / H 58 cm / H assise : 44 cm
+H 94 cm / L 58-84,5 cm / P 40-78 cm / H 58 cm / H assise : 44 cm
+Matériaux Bois massif de hêtre - Tissu
+Bois massif de hêtre - Tissu
+Caractéristiques du produit
+Cristina Celestino a conçu une collection de fauteuils en style scandinave, aux formes douces et harmonieuses. Les volumes bombés de cettes chaises de design sont allégés par la base en bois transformé, qui est la signature stylistique de la marque Billiani. La ligne ondulée fait référence à l'univers de la mode, dont le charme est bien présent même dans la qualité du revêtement, qui trouve sa meilleure expression dans le mariage de différentes couleurs et textures pour la structure et les coussins. Ne pas soumettre le produit à des chocs violents, éviter les chutes de hauteur. Ne pas exposer le produit aux intempéries, aux agents atmosphériques, ni à sources de chaleur supérieures à 40° C. Un entretien et un nettoyage corrects et fréquents augmentent la résistance du produit. Lorsqu'il est exposé à la lumière du soleil, le produit peut être sujet à des variations de couleur. Toute intervention d'entretien doit être exécutée par un personnel expérimenté. Les instructions suivantes pour l'entretien sont de simples suggestions. Il est recommandé de nettoyer toutes les surfaces avec un chiffon humide et des produits de nettoyage écologiques, tout en réalisant un entretien régulier. Avant d'utiliser un détergent, le tester sur une zone peu visible. Suivre les instructions du fabricant et s'adresser à une entreprise de nettoyage spécialisée en cas de salissures tenaces. Spécifications du tissu : 5% Coton ; 25% Viscose ; 13% Lin ; 15% Laine ; 25% Polyester ; 15% Acrylique ; 2% Polyamide.
+Informations livraison et retours
+Si le montant de votre commande est supérieur à 250 € la livraison est gratuite. Si le montant de votre commande n’atteint pas 250 € les frais d'expédition vont s’élever à 9 €. Si vous commandez un produit volumineux un coût supplémentaire est prévu et il sera quantifié en fonction de votre panier d'achat et de la destination de votre choix. Vous pourrez voir ce montant avant d’effectuer le paiement. Si vous avez des questions ou des requêtes spéciales merci de contacter le Service Clients en écrivant un email à customercare@lovethesign.com.
+LOVEThESIGN garantit un shopping facile et agréable. Votre commande sera livrée par les meilleurs transporteurs spécialisés de façon rapide, sûre et pratique. Les délais de livraison estimés pour votre commande seront affichés avant la réalisation du paiement et LOVEThESIGN vous avertira au moment de l’expédition.
+Vous pouvez restituer l'article acheté en communicant votre intention dans les 14 jours à compter de la date de livraison de la commande. Pour toute informations supplémentaires vous pouvez consulter notre page FAQ.
+DIMENSIONS
+Dimensions H 94 cm / L 58-84,5 cm / P 40-78 cm / H 58 cm / H assise : 44 cm
+Matériaux Bois massif de hêtre - Tissu
+Caractéristiques du produit
+Informations livraison et retours
+Si le montant de votre commande est supérieur à 250 € la livraison est gratuite. Si le montant de votre commande n’atteint pas 250 € les frais d'expédition vont s’élever à 9 €. Si vous commandez un produit volumineux un coût supplémentaire est prévu et il sera quantifié en fonction de votre panier d'achat et de la destination de votre choix. Vous pourrez voir ce montant avant d’effectuer le paiement. Si vous avez des questions ou des requêtes spéciales merci de contacter le Service Clients en écrivant un email à customercare@lovethesign.com.
+LOVEThESIGN garantit un shopping facile et agréable. Votre commande sera livrée par les meilleurs transporteurs spécialisés de façon rapide, sûre et pratique. Les délais de livraison estimés pour votre commande seront affichés avant la réalisation du paiement et LOVEThESIGN vous avertira au moment de l’expédition.
+Vous pouvez restituer l'article acheté en communicant votre intention dans les 14 jours à compter de la date de livraison de la commande. Pour toute informations supplémentaires vous pouvez consulter notre page FAQ.
+Designers
+Cristina Celestino
+Cristina Celestino est née en 1980 à Pordenone. En 2005, elle est diplômée en architecture à l'Université IUAV de Venise. Après avoir collaboré avec plusieurs entreprises d'architecture, y compris l'architecte Carmassi à Florence, elle met l'accent sur l'architecture de l'intérieur et le partenariat de conception, entre autres, avec Sawaya & Moroni. Depuis 2009, elle développe sa propre production de meubles et de lampes sous le nom de "ATTICO", basé à Milan. Représenté dans les salons les plus importants et les galeries internationales, elle a fondé ses travaux sur l'observation et la recherche, à la fois de l'ancienne production et de tout ce qui concerne les nouveaux champs créatifs transversaux tels que la mode-art-design. Les processus communs à tous les projets sont la géométrie définie et la rigueur en combinaison avec une interaction subtile sur l'attitude des formes traditionnelles d'utilisation qui, par de petites variations, modifient la direction de l'objet et le chargent de différentes significations.
+Découvrir tous les produits du Designer
+Marques
+Billiani
+Le bois rencontre une variété de nuances raffinées dans les collections de meubles par Billiani. Fondée en 1911, l'entreprise italienne produit des éléments de design qui représentent un véritable hommage à l'artisanat et à l'excellence exécutive. Les chaises, les tables et les compléments se distinguent par leurs noms évocateurs et leurs lignes épurées, mises en valeur par un goût chromatique harmonieux issu de l'union de la compétence et de l'imagination.
+Découvrir tous les produits de la marque
+DESIGNERS
+Cristina Celestino
+Cristina Celestino est née en 1980 à Pordenone. En 2005, elle est diplômée en architecture à l'Université IUAV de Venise. Après avoir collaboré avec plusieurs entreprises d'architecture, y compris l'architecte Carmassi à Florence, elle met l'accent sur l'architecture de l'intérieur et le partenariat de conception, entre autres, avec Sawaya & Moroni....
+Découvrir tous les produits du Designer
+MARQUES
+Billiani
+Le bois rencontre une variété de nuances raffinées dans les collections de meubles par Billiani. Fondée en 1911, l'entreprise italienne produit des éléments de design qui représentent un véritable hommage à l'artisanat et à l'excellence exécutive. Les chaises, les tables et les compléments se distinguent par leurs noms évocateurs et leurs lignes épurées,...
+Découvrir tous les produits de la marque
+Vous aimerez aussi
+D'autres articles de marque Billiani
+Tags:
+Fauteuils et Chaises longues
+Fauteuils
+Service Clients dédié
+Vous avez des doutes ou des questions ? Contactez-nous !
+Lun-Ven 09h-13h | 14h-18h
+customercare@lovethesign.com
+Produits 100% originaux
+Nous sélectionnons les meilleures marques de design et nous travaillons avec eux. Pourquoi ? Pour garantir des produits 100% originaux et une qualité certifiée deux fois, par les marques et par nous.
+Satisfaits ou Remboursés
+Nous offrons un service fiable, avec des transporteurs spécialisés, et nous offrons les frais de port pour chaque commande supérieure à 250€*. Et si vous n'êtes pas satisfait, retourner un produit est vraiment facile. *Commandes volumineuses exclues
+Paiement Sécurisé
+uk
+es
+fr
+it
+Qui sommes-nous ?
+Rodolfo
+Besoin d'aide ?
+Contactez-nous
+Retours et remboursements
+FAQ
+Confidentialité et cookies
+Termes et Conditions
+Services
+Architectes
+Aménagement d'espaces commerciaux
+Devis personnalisés
+Newsletter
+Gift Card
+Suivez-nous
+LOVEThESIGN S.r.l. à un seul associé - Droits d'auteur 2020 Tous droits réservés - Viale Zileri 4/16 , 36050 Monteviale (VI), Italie – N° TVA intracommunautaire : 07873610963 n. Inscription - N° d'enregistrement de la société : 1987381
+Qui sommes-nous ?
+Rodolfo
+Besoin d'aide ?
+Contactez-nous
+Retours et remboursements
+FAQ
+Confidentialité et cookies
+Termes et Conditions
+Services
+Architectes
+Aménagement d'espaces commerciaux
+Devis personnalisés
+Newsletter
+Gift Card
+Suivez-nous
+LOVEThESIGN S.r.l. à un seul associé - Droits d'auteur 2020 Tous droits réservés - Viale Zileri 4/16 , 36050 Monteviale (VI), Italie – N° TVA intracommunautaire : 07873610963 n. Inscription - N° d'enregistrement de la société : 1987381
+C’est bon de vous revoir
+Mot de passe oublié ?
+Connexion
+Connexion avec facebook
+Connexion avec google
+Vous n'avez pas encore un compte ?
+Créer mon compte
+Enchantés de faire votre connaissance
+CONDITIONS GÉNÉRALES, NEWSLETTER ET CONFIDENTIALITÉ
+Je déclare avoir lu et compris les termes et conditions de vente, je déclare avoir lu et accepté la politique de confidentialité conformément à l'art. 13 de la loi 196/2003 sur la protection des données personnelles et je désire m’inscrire à la newsletter de Lovethesign.
+Créer mon compte
+Connexion avec facebook
+Connexion avec google
+Vous avez déjà un compte ?
+Connexion
+Améliorer votre profil
+Homme
+Femme
+Insérez votre date de naissance pour recevoir un petit cadeau lors de votre anniversaire
+Date de naissance
+12345678910111213141516171819202122232425262728293031
+123456789101112
+190719081909191019111912191319141915191619171918191919201921192219231924192519261927192819291930193119321933193419351936193719381939194019411942194319441945194619471948194919501951195219531954195519561957195819591960196119621963196419651966196719681969197019711972197319741975197619771978197919801981198219831984198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920102011201220132014201520162017201820192020
+CONDITIONS GÉNÉRALES, NEWSLETTER ET CONFIDENTIALITÉ
+Je déclare avoir lu et compris les termes et conditions de vente, je déclare avoir lu et accepté la politique de confidentialité conformément à l'art. 13 de la loi 196/2003 sur la protection des données personnelles et je désire m’inscrire à la newsletter de Lovethesign.
+ENREGISTRER
+{{ name }}
+by {{ brand }}
+{{ price }}
+Ajouter au panier
+Récupération du mot de passe
+Votre mot de passe doit contenir au moins 6 caractères minimum, une lettre majuscule, un caractère spécial et un chiffre.

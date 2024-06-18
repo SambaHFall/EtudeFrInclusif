@@ -1,21 +1,36 @@
 ,iddoc,context,range,text,category
-0,0,"er 2023, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie ","{'beg': 74, 'end': 81}",agent.e,['fle']
-1,0, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrond,"{'beg': 82, 'end': 96}",recenseur.euse,['fle']
-2,0,la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrondissement e,"{'beg': 97, 'end': 106}",recruté.e,['fle']
-3,0,"ar la mairie de votre arrondissement et muni.e, à cet effet, d'une carte officielle.","{'beg': 148, 'end': 154}",muni.e,['fle']
-4,3," données disponibles, pour informer les patient(e)s pris(es) en charge et adapter les prati","{'beg': 106, 'end': 117}",patient(e)s,['fle']
-5,3,"ponibles, pour informer les patient(e)s pris(es) en charge et adapter les pratiques d’A","{'beg': 118, 'end': 125}",pris(es,['fle']
-6,4,"égrative et complémentaire en 2021, les auteur·e·s présentent une sélection de six article","{'beg': 85, 'end': 95}",auteur·e·s,['fle']
-7,9, porte aussi son attention sur le ou la clinicien·ne facilite et enrichit la rencontre clini,"{'beg': 100, 'end': 112}",clinicien·ne,['fle']
-8,11,"our en tirer des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globa","{'beg': 123, 'end': 134}",lecteur•ice,['fle']
-9,11," des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globaux ne re","{'beg': 135, 'end': 142}",avisé-e,['fle']
-10,12,"Un total de 83,95% (n= 476) des patient(e)s a été très satisfait de la qualité de l","{'beg': 32, 'end': 43}",patient(e)s,['fle']
-11,13,"mier recours dans la prise en charge de patient·e·s avec une stéatopathie métabolique, et d","{'beg': 82, 'end': 93}",patient·e·s,['fle']
-12,14,L’unité légale Association des ancien-ne-s etudiant-e-s vice-president-e-s d'unive,"{'beg': 31, 'end': 42}",ancien-ne-s,['fle']
-13,15,"impact sur les filles, les parents, les infirmiers/infirmières et les médecins canadiens.","{'beg': 153, 'end': 175}",infirmiers/infirmières,['coo']
-14,16,"isite, fixée d'un commun accord, cet.te agent.e viendra les reprendre.","{'beg': 60, 'end': 67}",agent.e,['fle']
-15,19,a) aux liens entre la santé mentale des étudiant·es en médecine et leurs compétences interp,"{'beg': 129, 'end': 140}",étudiant·es,['fle']
-16,22, à l’accueil et l’accompagnement de ces étudiant·e·s.,"{'beg': 95, 'end': 107}",étudiant·e·s,['fle']
-17,24,Une étape (de diplôme) est ce à quoi l'étudiant·e s'inscrit.,"{'beg': 39, 'end': 49}",étudiant·e,['fle']
-18,25,es entrevues ont été réalisées avec des participant(e)s (n = 146) de quatre provinces canadienn,"{'beg': 50, 'end': 65}",participant(e)s,['fle']
-19,28,"Demain, al fera beau sur toute la France avec des températures de saison","{'beg': 34, 'end': 40}",France,['fem']
+0,2,es entrevues ont été réalisées avec des participant(e)s (n = 146) de quatre provinces canadienn,"{'beg': 50, 'end': 65}",participant(e)s,['fle']
+1,5," l'hôpital public : embauche de 100 000 infirmiers et infirmières et revalorisation des salaires
+
+Dans le","{'beg': 59, 'end': 84}",infirmiers et infirmières,"['coo', 'coo']"
+2,5,"ler au Burkina Fasso, pour soutenir les paysannes et paysans victimes des programmes du FMI, puis au","{'beg': 194, 'end': 214}",paysannes et paysans,"['coo', 'coo']"
+3,6,e réflexion afin de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la san,"{'beg': 130, 'end': 143}",patient-e-x-s,['fle']
+4,6,in de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la santé sexuelle inclu,"{'beg': 144, 'end': 160}",adolescent-e-x-s,['fle']
+5,7,evues pour documenter la façon dont les participant(e)s interprètent les VVPH et se positionnen,"{'beg': 153, 'end': 168}",participant(e)s,['fle']
+6,8,"s frontière, qui accueille tou·te·s les migrant·e·s
+
+Droit de vote pour les étranger·e·s ré","{'beg': 81, 'end': 92}",migrant·e·s,['fle']
+7,8,"les migrant·e·s
+
+Droit de vote pour les étranger·e·s résidant en France","{'beg': 117, 'end': 129}",étranger·e·s,['fle']
+8,9,Les infirmier(e)s travaillant habituellement en réanimati,"{'beg': 4, 'end': 17}",infirmier(e)s,['fle']
+9,10,"sion exceptionnelle, au vu du nombre de patient·e·s atteint·e·s.","{'beg': 104, 'end': 115}",patient·e·s,['fle']
+10,11,"umaines médico-soignantes limitées, les étudiant·e·s en médecine avancé·e·s dans leur cursus","{'beg': 72, 'end': 84}",étudiant·e·s,['fle']
+11,11," limitées, les étudiant·e·s en médecine avancé·e·s dans leur cursus représentent un renfor","{'beg': 97, 'end': 107}",avancé·e·s,['fle']
+12,11,"ieux, rapidement mobilisable auprès des patient·e·s.","{'beg': 198, 'end': 209}",patient·e·s,['fle']
+13,12,sement si vous ne pouvez pas recevoir l'agent.e recenseur.euse.,"{'beg': 102, 'end': 109}",agent.e,['fle']
+14,12,i vous ne pouvez pas recevoir l'agent.e recenseur.euse.,"{'beg': 110, 'end': 124}",recenseur.euse,['fle']
+15,15,"Un total de 83,95% (n= 476) des patient(e)s a été très satisfait de la qualité de l","{'beg': 32, 'end': 43}",patient(e)s,['fle']
+16,18,L’unité légale Association des ancien-ne-s etudiant-e-s vice-president-e-s d'unive,"{'beg': 31, 'end': 42}",ancien-ne-s,['fle']
+17,20,"our en tirer des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globa","{'beg': 123, 'end': 134}",lecteur•ice,['fle']
+18,20," des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globaux ne re","{'beg': 135, 'end': 142}",avisé-e,['fle']
+19,21,Ils peuvent être utilisés par les patient-e-s avant/après la consultation ou avec le-,"{'beg': 34, 'end': 45}",patient-e-s,['fle']
+20,21,ant/après la consultation ou avec le-la professionnel-le de santé durant la consultation.,"{'beg': 88, 'end': 104}",professionnel-le,['fle']
+21,22,t la succession des inscriptions d'un·e étudiant·e à l'université en partant de son Bac ju,"{'beg': 52, 'end': 62}",étudiant·e,['fle']
+22,23,"égrative et complémentaire en 2021, les auteur·e·s présentent une sélection de six article","{'beg': 85, 'end': 95}",auteur·e·s,['fle']
+23,25,"Giorgia Marras, jeune autrice italienne
+
+Giorgia Marras, illustratric","{'beg': 22, 'end': 29}",autrice,['fem']
+24,25,"ienne
+
+Giorgia Marras, illustratrice et auteure de bande dessinée, est née à Gênes en I","{'beg': 74, 'end': 81}",auteure,['fem']

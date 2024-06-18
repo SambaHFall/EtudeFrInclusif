@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 import pandas as pd
 import spacy
 from spacy.tokenizer import Tokenizer
-from spacy.util import compile_infix_regex
+from spacy.util import compile_infix_regex, compile_suffix_regex
 
 
 """
@@ -27,6 +27,22 @@ def spacynlp(loadfrom : str) :
 	nlp = spacy.load(loadfrom)
 	nlp.tokenizer = change_tokenizer(nlp)
 	return nlp
+
+def retokenization(doc) :
+	modif = False
+	prec = None
+	for tk in doc :
+		if tk.text == ')' and prec is not None and '(' in prec.text:
+			with doc.retokenize() as retokenizer :
+				retokenizer.merge(doc[(tk.i - 1) : (tk.i + 1)] )
+			modif = True
+			break
+		prec = tk
+
+	if modif :
+		return retokenization(doc)
+	else :
+		return doc
 
 """
 output : training data load from "corpus français inclusif" in form of : list[str], list[list[Ann]]  
@@ -219,6 +235,10 @@ class AnnPredModel(ABC):
 		pass
 
 
+	def nlp_model(self, text : str) :
+		doc = self.nlp(text)
+		return retokenization(doc)
+
 	""" 
 	text : a document
 	anns : a list of annotations in this document
@@ -261,7 +281,7 @@ class AnnPredModel(ABC):
 	output : reshape the data (text) in form of a DataFrame with the following columns : [texts, tokens, annotated, labels] . Each row corresponds to a token of the text
 	"""
 	def _sub_shaping(self, text : str, anns : list[Ann]) -> pd.DataFrame :
-		doc = self.nlp(text)
+		doc = self.nlp_model(text)
 		dfdict = {"texts" : [], "tokens" : [], "annotated" : [], "labels" : [], "categories" : []}
 		for tk in doc :
 			dfdict["texts"].append(tk.text)

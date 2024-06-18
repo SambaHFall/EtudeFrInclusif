@@ -1,10 +1,9 @@
-from etude_fr_inclusif._utils import *
+from etude_fr_inclusif._utils import AnnPredModel, get_fr_inclusif_data
 from etude_fr_inclusif.splitter import train_test_splitter
 from etude_fr_inclusif.naive_rule_based import NaiveRBModel
 from etude_fr_inclusif.crf import CRFModel
 from etude_fr_inclusif.inclure import InclureModel
 from etude_fr_inclusif.adv_rule_based import AdvRBModel
-from etude_fr_inclusif.adv_rule_based import *
 from etude_fr_inclusif.super_model import SuperAnnModel
 
 import matplotlib.pyplot as plt

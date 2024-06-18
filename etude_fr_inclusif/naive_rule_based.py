@@ -1,4 +1,4 @@
-from ._utils import *
+from ._utils import AnnPredModel, Trie, Ann, group, merge_sort
 import os
 import Levenshtein
 from unidecode import unidecode
@@ -122,4 +122,4 @@ class NaiveRBModel(AnnPredModel) :
 		print("This model doesn't need any kind of training : the 'fit' function is not doing anything")
 
 	def predict(self, x : list[str]) -> list[list[Ann]] :
-		return [ detect_inc(self.nlp(item)) for item in x ]
+		return [ detect_inc(self.nlp_model(item)) for item in x ]

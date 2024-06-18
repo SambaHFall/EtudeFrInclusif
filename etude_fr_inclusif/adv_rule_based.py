@@ -1,4 +1,4 @@
-from ._utils import *
+from ._utils import AnnPredModel, Ann, Trie, group, merge_sort
 import os
 import Levenshtein
 from unidecode import unidecode
@@ -73,7 +73,7 @@ idcpt = 0
 for line in lines:
 	idcpt += 1
 	parts = line.split('\t')
-	uniflexrulesregex.add(parts[2][:-2], idcpt)
+	uniflexrulesregex.add(parts[2][:-1], idcpt)
 	unicoordrulesregex.add( r'' + parts[0] + 's?' + parts[1] + 's?', idcpt)
 rules.close()
 
@@ -155,8 +155,9 @@ wd : a word
 output : a boolean indicating whether wd is a feminisation
 """
 def detect_fem(wd : str):
+	exc = ["France", "france"]
 	masc = masc_inf(wd)
-	if len(wd) < 6 or masc is None:
+	if len(wd) < 6 or masc is None or wd in exc :
 		return None
 	else:
 		if not dictrules.exists( wd.lower() ) and sum(1 if dictrules.exists( m.lower() ) else 0 for m in masc ) > 0 :
@@ -234,4 +235,4 @@ class AdvRBModel(AnnPredModel) :
 		print("This model doesn't need any kind of training : the 'fit' function is not doing anything")
 
 	def predict(self, x : list[str]) -> list[list[Ann]] :
-		return [ detect_inc(self.nlp(item), proc=self.proc) for item in x ]
+		return [ detect_inc(self.nlp_model(item), proc=self.proc) for item in x ]

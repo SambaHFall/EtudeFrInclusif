@@ -1,0 +1,211 @@
+En tant que citoyenne confrontée comme tout un chacun à la pandémie, le dispositif de traçage des contacts SwissCovid m’interpelle. En tant que professionnelle de la cybersécurité, j’ai le devoir d’attirer l’attention des parlementaires sur vingt questions essentielles que pose l’élaboration d’une loi concernant l’introduction de Swiss-covid . Ces questions, brièvement motivées, sont les suivantes:
+(Pour une meilleure lisibilité de l’article, quelques termes techniques suivis d’* sont proposés à la fin de celui-ci).
+Selon le document « Utilisation de l’application SwissCovid durant l’essai pilote : déclaration de confidentialité de l’Office fédéral de la santé publique[1] », le dispositif SwissCovid est composé de l’App* qui appelle la réalisation de services réalisés par l’API* d’Apple/Google et d’un serveur VA backend et d’un serveur pour gérer des codes entre l’App et le serveur VA backend (frontend / backend).
+Dans ce document, émis conjointement par le Département fédéral de l’intérieur (DFI) et l’Office fédéral de la santé publique on lit « Si l’OFSP mandate des tiers, suisses ou de l’étranger, ces opérateurs s’engagent à respecter les prescriptions de l’ordonnance COVID-19 sur l’essai pilote du traçage de proximité. » (point 4, page 2).
+Question 1
+Quelles sont ces tierces parties engagées qui peuvent être suisses ou étrangères ?
+Le préfixe « Swiss » laisse penser que le dispositif SwissCovid est développé en Suisse et est basé sur des infrastructures suisses. Toutefois, dans la mesure où « SwissCovid » est basée sur l’API – Exposure notification de Apple-Google et dans la mesure où celle-ci réalise quasiment tous les traitements nécessaires au fonctionnement de l’application de traçage des contacts (stockage, Bluetooth, comparaisons, calcul de risque), cela laisse très peu d’initiative aux développeurs et initiateurs suisses du projet.
+Question 2
+Qui développe quoi ?
+Question 3
+Comment bâtir la confiance dans un code informatique développé, mis en œuvre et géré par Apple/Google alors qu’il est impossible de le faire tester ou auditer par des entités indépendantes ?
+Ces premières questions en soulèvent d’autres, légitimées par le point 6 du document de l’OFS cité plus haut (page 3) « Afin de protéger les données contre des accès non autorisés, des pertes ou des utilisations abusives, l’OFSP, en étroite collaboration avec nos fournisseurs d’hébergement internes et externes et avec d’autres prestataires informatiques, prend des mesures de sécurité adéquates, de nature technique (p. ex., cryptage, pseudonymisation, historique, contrôles d’accès, limitations d’accès, sécurité des données, solutions concernant la sécurité des technologies informatiques et des réseaux, etc.) et de nature organisationnelle ( p. ex., directives aux collaborateurs, contrats de confidentialité, contrôles, etc.) conformément aux prescriptions de l’administration fédérale et de la législation fédérale en matière de protection des données. ».
+Question 4
+De quels fournisseurs et prestataires s’agit-il, quels sont les sous-traitants ?
+Question 5
+Est-ce que les données sont hébergées dans un cloud Amazon ?
+Question 6
+Quels appels d’offre ont été émis concernant les organisations et entreprises privées qui développent SwissCovid?
+Question 7
+Est-ce que le dispositif SwissCovid est complètement Open source ?
+Le message du 20 mai 2020 du Conseil fédéral concernant la modification urgente de la loi sur les épidémies en lien avec le coronavirus (Système de traçage de proximité)[2] stipule en point 4 « Commentaires des dispositions. Art. 60a Système de traçage de proximité pour le coronavirus : … « Dans un souci de transparence et de confiance, le code source sous-jacent et les spécifications techniques utilisées pour tous les composants sont publics » (art. 60a, al. 4, let. e).
+Pour qu’un programme soit qualifié d’« Open source », il faut:
+que le code source soit disponible ;
+que l’on puisse vérifier que l’exécutable correspond au code source* ;
+que l’on puisse modifier le code, le compiler* et l’exécuter.
+Question 8
+Dans la mesure où le dispositif SwissCovid ne satisfait pas à ces trois impératifs, y-aurait-il une contradiction entre la réalité et les déclarations ?
+Le document du 20 mai 2020 de la Confédération « Message concernant la modification urgente de la loi sur les épidémies en lien avec le coronavirus (Système de traçage de proximité) » fait référence à une application d’alerte Corona.
+Question 9
+Est-il prévu que ce dispositif soit utilisé pour d’autres épidémies que celle liée au SARS-CoV-2 à l’origine de la Covid-19 ?
+La technologie Bluetooth comporte des vulnérabilités et des failles de sécurité[3], il est conseillé d’installer des nouvelles versions de sécurité et de toujours désactiver le Bluetooth lorsque l’usager n’en a pas besoin. De plus, il existe des attaques bien connues qui exploitent Bluetooth comme par exemple :
+Captation, interception par un tiers non autorisé des messages transmis sur l’interface Bluetooth.
+Insertion, suppression de messages par un tiers.
+Observation des signaux (écoute, espionnage).
+Interruption de la connectivité (déni de service).
+Prise de contrôle à distance.
+Question 10
+Est-ce que le dispositif SwissCovid pourra être détourné de sa finalité ?
+Question 11
+Est-ce que le dispositif SwissCovid pourra subir des cyberattaques ?
+Question 12
+Est-ce que l’anonymat des personnes est toujours garanti ?
+Le document « Application SwissCovid : conditions d’utilisation »[4], nous informe sous le point 4 « Devoir de diligence de l’utilisateur » que :
+« 4.1 L’accès technique à l’application relève de la responsabilité de l’utilisateur.
+4.2 Les utilisateurs sont tenus de prendre les mesures de sécurité nécessaires pour leur propre appareil et de le protéger contre l’accès non autorisé de tiers et contre les logiciels malveillants.
+L’utilisateur est informé par la présente des risques de sécurité liés à l’utilisation d’Internet et des technologies de l’Internet. ».
+Question 13
+Puisque l’utilisateur engage sa responsabilité, est-ce que les mesures de sécurité nécessaires pour que l’utilisateur puisse se protéger des malveillances et des vulnérabilités inhérentes au dispositif, sont disponibles et à quel prix?
+Question 14
+Est-ce que les seules mesures de sécurité efficaces sont de ne pas installer l’App et de ne pas utiliser le dispositif ?
+Dans le document « Message concernant la modification urgente de la loi sur les épidémies en lien avec le coronavirus (Système de traçage de proximité), du 20 mai 2020[5], le point 5.1 « Conséquences pour la Confédération, conséquences financières » stipule « Les coûts de développement du logiciel de l’application pour téléphone portable, du back-end GR et du système de gestion des codes ainsi que les coûts pour la gestion des accès pour les services des médecins cantonaux sont estimés à un montant unique de 1,65 million de francs. Les frais d’exploitation par tranche de 12 mois s’élèvent à environ 1,2 million de francs d’ici à la fin juin 2022. Les coûts des mesures d’accompagnement communicationnelles sont estimés à 1,95 million de francs, dont environ 80 % seront utilisés pour la diffusion et la publication d’annonces, de spots télévisés et des bannières électroniques. »
+Question 15
+Quels sont les coûts directs et indirects réellement supportés par les finances publiques du dispositif SwissCovid et la population ?
+Question 16
+De quels frais d’exploitation s’agit-il ?
+Question 17
+N’est-il pas étonnant que les coûts des mesures d’accompagnement communicationnelles (1,95 million) soient supérieurs aux coûts de développement du logiciel de l’application pour téléphone portable, du back-end GR et du système de gestion des codes ainsi que les coûts pour la gestion des accès pour les services des médecins cantonaux (1,65 million) ?
+Dans la mesure ou SwissCovid est considéré comme étant un appareil médical puisque destiné à informer une personne d’un risque d’infection), ce dispositif est soumis à la règlementation et au contrôle de Swissmedic. Cela implique selon l’Article 21 de l’ Ordonnance sur les dispositifs médicaux (ODim)[6] entre autre, “1 La publicité pour les dispositifs médicaux destinés à la remise directe au public ou à l’utilisation directe par le public doit se limiter exclusivement à des allégations correspondant à l’information sur le produit en ce qui concerne son utilisation, ses performances et son efficacité. 2 Toute information trompeuse concernant l’efficacité ou les performances d’un dispositif médical est interdite. »
+Question 18
+Qui est en charge de s’assurer que les mesures d’accompagnement communicationnelles seront conformes à l’Ordonnance sur les dispositifs médicaux ?
+Question 19
+Quelles sont les entités indépendantes et sans conflit d’intérêt, en mesure de valider la robustesse, la fiabilité, la sûreté, la sécurité et la conformité réglementaire du dispositif SwissCovid dans son intégralité ?
+Apporter des réponses convaincantes à ces questions, qui ne sont pas traitées dans le document « Application SwissCovid : Questions & Réponses »[7] est impératif et urgent.
+Question 20
+Comment, sans réponses aux questions précédentes, une personne pourrait-elle être un citoyen responsable, un acteur éclairé qui ne répondrait pas uniquement à des injonctions de faire, qui pourrait exprimer son libre arbitre, qui pourrait choisir d’utiliser ou non SwissCovid et qui éventuellement ne se sentirait pas coupable de ne pas consentir à un dispositif dont les principales garanties d’innocuité sont exclusivement déclaratives ?
+La démocratie repose sur la confiance, non sur la crainte, et la confiance exige la transparence.
+Sans réponses aux questions précédentes, comment le Parlement pourrait-il sérieusement élaborer une loi qu’il a lui-même jugée indispensable ?
+Seule une information claire et la plus complète possible, peut contribuer à satisfaire les besoins de transparence et de confiance exprimés par les porteurs du projet SwissCovid.
+Cela permet une prise de décision en toute connaissance de cause, dont dépend le consentement éclairé de chacun et dont dépendent également in fine la santé, la sécurité et la liberté de tous.
+Hic et Nunc, ici et maintenant, des réponses, pour nous, pour la démocratie, avant toute décision, après il sera trop tard.
+***
+Quelques informations techniques
+Une API (Application Programming Interface) est un programme informatique qui permet d’être appellé par un autre programme.
+L’API – Exposure notification utilisée par SwissCovid est un programme développé par Apple et Google qui prend en charge et qui réalise quasiment tous les traitements nécessaires au fonctionnement de l’application de traçage des contacts (stockage, Bluetooth, comparaisons, calcul de risque).
+L’App (l’application) est la partie d’interface d’accès, c-à-d. le programme qui appelle le programme d’Apple/Google API – Exposure notification.
+L’App est installée dans le téléphone de l’
+Compiler un programme est une des étapes (la compilation) de transformation d’un programme informatique écrit avec un langage de programmation (suite d’instructions – code source), vers un code exécutable par un ordinateur.
+Un langage de programmation est nécessaire à l’humain qui ne peut pas s’exprimer directement en binaire qui est le seul langage manipulable par les processeurs informatiques.
+***
+[1]https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international/datenschutzerklaerung-nutzungsbedingungen.html (version du 13 mai 2020, publiée le 22 mai 2020)
+[2] https://www.newsd.admin.ch/newsd/message/attachments/61421.pdf
+[3]Voir par exemples : https://www.zdnet.fr/actualites/android-une-faille-de-securite-sur-le-bluetooth-39898723.htm ou encore « The dangers of Bluetooth implementations: Unveiling zero day vulnerabilities and security flaws in modern Bluetooth stacks »: https://github.com/mailinneberg/BlueBorne « Une nouvelle faille critique touche le Bluetooth sur Android. Si Google a déjà publié un correctif, tous les smartphones n’ont pas encore reçu la mise à jour. Les spécialistes conseillent de désactiver temporairement le Bluetooth ». 10 février 2020 https://www.frandroid.com/android/673314_android-une-faille-de-securite-critique-touche-le-bluetooth
+[4] https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international/datenschutzerklaerung-nutzungsbedingungen.html (document du 13 mai 2020, 22 mai 2020). La validité de ce document pris en vertu de l’Ordonnance COVID-19 essai pilote traçage de proximité est limitée à la date du 30 juin 2020. Il faudra donc rester très vigilant sur les conditions d’utilisation de l’Application de traçage dans sa prochaine phase lorsqu’elle sera proposée au grand public.
+[5] https://www.newsd.admin.ch/newsd/message/attachments/61421.pdf
+[6] https://www.admin.ch/opc/fr/classified-compilation/19995459/index.html#a21
+[7] https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international/datenschutzerklaerung-nutzungsbedingungen.html (Questions fréquentes, Dernière modification 23.05.2020)
+FacebookTwitter
+Cybersécurité Parlement suisse responsabilité politique SwissCovid
+Solange Ghernaouti
+Docteur en informatique, la professeure Solange Ghernaouti dirige le Swiss Cybersecurity Advisory & Research Group (UNIL) est pionnière de l’interdisciplinarité de la sécurité numérique, experte internationale en cybersécurité et cyberdéfense. Auteure de nombreux livres et publications, elle est membre de l’Académie suisse des sciences techniques, de la Commission suisse de l’Unesco, Chevalier de la Légion d'honneur.
+16 réponses à “SwissCovid, consentement éclairé et responsabilité politique”
+On nous prend pour des c... dit :
+1 juin 2020 à 21 h 11 min
+Vous n’allez pas vous faire que des amis avec cet article.
+Heureusement que votre notoriété et votre intégrité, ainsi que le bon dieu, vous protègent.
+En tous cas, pour moi c’est clair. Mes intuitions sont confirmées. Il serait très étonnant que la réponse honnête aux 20 questions soit de nature à garantir qu’il n’y a aucun risque de piratage de nos données intimes par des serveurs en Californie – appartenant à des gens qui ne nous veulent pas du bien. Bien entendu les données seront exploitées à des fins commerciales et seront vendues aux compagnies d’assurances, notamment. Il n’y aura aucun anonymat. Ceux qui sont naïfs au point de croire que ce sera anonyme, désolé, mais leur cas est sans espoir.
+Donc, il y a 99% de chances que cette application soit une arnaque qui nous est proposée par une administration fédérale qui défend, non les droits des Suissesses et des Suisses, mais bien les intérêts de la Silicon Valley.
+C’est révoltant.
+Répondre
+Simon dit :
+6 juin 2020 à 0 h 43 min
+Absolument !
+Le conseil féderal tout comme la BNS qui a injecté des milliards dans les GAFAM (Google, Amazon, Microsoft, etc) en plein crise du COVID au lieu de financer l’emploi en Suisse. Nous comprendrons dans quelque année toute cette supercherie mais je crais qu’il ne soit trop tard. Cherchez et vous trouverez. Il est très facile de vérifier le contenu du portefeuille boursier de la BNS. Vous seriez choqués !
+Cette même BNS qui ne reverse pas l’excédent de ses bénéfices aux Cantons alors que c’est dans notre constitution. Mais financer Microsoft, il n’y a aucun soucis.
+Répondre
+Olivier Wilhem dit :
+1 juin 2020 à 22 h 31 min
+Une vos collégues blogueuses nous racontait que ce logiciel suiveur était made in EPFL.
+Ce ne serait donc pas totalement vrai? ni démocratique?
+Pas facile la vie de pandémie 🙂
+Répondre
+Simon dit :
+6 juin 2020 à 0 h 36 min
+L’EPFL a fait des bases théoriques et testé le protocole mais pas la suite l’application a été mise sur l’AppStore par l’OFSP. Il n’est pas clair du tout qui a dévelopé l’application. En tout cas, pas l’EPFL ni l’ETHZ en aucun cas. On ne sait pas où se trouve les serveurs, non plus. On prétend que le code source (le programme du logiciel) est libre d’accès mais celà n’est indiqué nulle part.
+Peu de transparence et beaucoup de propagande.
+Je pleure notre démocratie qui tombe en lombaux.
+Répondre
+Zigomar dit :
+2 juin 2020 à 9 h 21 min
+Conclusion: Il nous manque un système d’exploitation (OS) réalisé en logiciel libre (Open Source) pour SmartPhone. Où sont les SmartPhones Linux ?
+Répondre
+mopping roll dit :
+2 juin 2020 à 11 h 44 min
+Android est basé sur Linux:
+“Android, the de-facto smartphone operating system used by people worldwide also leverages the Linux ecosystem to achieve its objectives. Android emulators are pieces of computer applications that let you run your favorite Android apps or games directly from your Linux system.” (https://www.ubuntupit.com/top-android-emulators-for-linux-to-enjoy-android-apps-in-linux/).
+Répondre
+HUbert Giot dit :
+2 juin 2020 à 17 h 42 min
+Android repose sur un noyau linux !
+IOS est basé sur un dérivé d’ UNIX , BSD, développé à Berkeley, c’est aussi un logiciel libre
+Répondre
+Simon dit :
+6 juin 2020 à 11 h 14 min
+Il a une nuance très importante à souligner:
+IOS est basé sur BSD (logiciel libre) mais il est devenu entièrement fermé. C’est l’origine qui est Open Source et plus le produit final qui est purement fermé. Personne d’autre qu’Apple ne sait plus comment il a été transformé.
+Pareil pour Android, l’origine est Open Source mais par la suite, il est devenu fermé une fois repris par Google. Personne d’autres que Google ne sait plus comment il a été transformé.
+Si Android avait été Open Source, Huwaei n’aurait eu aucun problème à continuer à en équiper ses smartphones.
+Répondre
+Jean jacques Mutz dit :
+2 juin 2020 à 9 h 36 min
+Je pense que se faire suivre grâce a notre portable n’est pas une bonne résolution car imaginons le vol de notre portable et le parcoure qu’il suivra dans les mains d’une autre personne ?
+Répondre
+Dali dit :
+2 juin 2020 à 17 h 36 min
+Merci Solange pour les trois derniers articles qui pour moi sont des chapitres du livre : Le COVID ou la fin des libertés.
+Ce n’est pas seulement les libertés numériques qui sont en jeu mais toutes formes de libertés individuelles. L’analyse est bien pertinente et nous amène à voir (même pour ceux qui ne le veulent pas) qu’accepter l’application, c’est simplement renoncer à son intimité numérique et réelle. C’est également donner accès, par le biais de l’interprétation des données (big-data) à nos habitudes, à nos envies et nos priorités à des acteurs commerciaux pour en faire ce qu’ils veulent comme les exploiter et/ou les vendre. Pour ceux qui lisent entre les lignes des specs de SwissCovid, verront la possibilité de tracer (même occasionnellement) les personnes qui n’ont pas l’app SwissCovid mais qui auront un contact ayant cette app. Je ne pense pas que cette application a été présenté sous ces aspects là. Pire encore, je n’ai pas vu une émission grand-public critiquer cette approche.
+Notre rôle dans ce contexte, à mon humble avis, est de donner aux lecteurs et aux citoyens d’une manière générale, comment garder techniquement cette indépendance numérique et démocratiquement la manière de faire savoir aux décideurs politiques la gravité de l’orientation qu’ils sont en train de prendre.
+A suivre..
+Répondre
+Vincent Raboud dit :
+3 juin 2020 à 8 h 04 min
+Moi j’ai un 21ème question. Comment se fait-il qu’internet soit dangereux pour que nous votions par ce biais, et tout à coup cela devient totalement sécurisé avec cette application?
+Répondre
+Marie-Pierre dit :
+3 juin 2020 à 13 h 19 min
+Réponse à la question 5:
+L’examen des données est réalisé sur le cloud d’Amazon Allemagne à Francfort.
+Raison invoquée par Paul Rechsteiner, conseiller national Saint-Gall (PS) . ” l’infrastructure de l’OFIT, notre Office fédéral de l’informatique et de la télécommunication, est manifestement sous-dimensionnée pour cela”
+source: https://www.parlament.ch/fr/ratsbetrieb/amtliches-bulletin/amtliches-bulletin-die-verhandlungen?SubjectId=48973
+Répondre
+Simon dit :
+6 juin 2020 à 11 h 33 min
+N’importe quoi ! Ils auraient pu au-moins utiliser des clouds purement Suisse tels que SwissCom, Exoscale ou même Infomaniak mais ce sont des vendus à leurs maîtres de la Silicon Valley.
+Répondre
+on nous prend pour des c... dit :
+3 juin 2020 à 17 h 28 min
+https://www.ladepeche.fr/2020/06/03/le-coronavirus-ne-circule-plus-affirme-le-president-du-syndicat-national-des-biologistes,8915152.php
+Répondre
+USUQUE dit :
+3 juin 2020 à 20 h 49 min
+Vu sur le site de la RTS :
+“L’application CFF fournit des données de ses utilisateurs à Google”
+https://www.rts.ch/info/sciences-tech/11370535-l-application-cff-fournit-des-donnees-de-ses-utilisateurs-a-google.html
+On est typiquement dans le cas où l’utilisateur est quasiment contraint d’utiliser une application (les transports publics ne sont pas une option pour la plupart des voyageurs) sans être réellement informé des risques, et sans avoir pu exercer son consentement éclairé.
+Répondre
+Albert Varidel dit :
+4 juin 2020 à 16 h 36 min
+Vous avez parfaitement raison. Cette application est mettre le doigt dans un engrenage dangereux. Il est évident que Google et Amazon ne sont pas des partenaires fiables pour leur confier de telles données.
+Répondre
+Répondre à Marie-Pierre Annuler la réponse
+Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *
+Commentaire
+Nom *
+E-mail *
+Site web
+Prévenez-moi de tous les nouveaux commentaires par e-mail.
+Prévenez-moi de tous les nouveaux articles par e-mail.
+Δ
+Pagination d'article
+Le monde d’après, la fin du choix
+La Grande Dématérialisation
+A propos de ce blog
+Docteur en informatique, la professeure Solange Ghernaouti dirige le Swiss Cybersecurity Advisory & Research Group (UNIL) est pionnière de l’interdisciplinarité de la sécurité numérique, experte internationale en cybersécurité et cyberdéfense. Auteure de nombreux livres et publications, elle est membre de l’Académie suisse des sciences techniques, de la Commission suisse de l’Unesco, Chevalier de la Légion d'honneur.
+Abonnez-vous à ce blog par e-mail
+Saisissez votre adresse e-mail pour vous abonner à ce blog et recevoir une notification de chaque nouvel article par email.
+Rejoignez les 272 autres abonnés
+Adresse e-mail
+Abonnez-vous
+Commentaires récents
+G. Maurer dans Cloud et souveraineté numérique, quelles conséquences ?
+Berdah dans Cloud et souveraineté numérique, quelles conséquences ?
+Linda Sigal dans J’étais enfant au temps des nanotechnologies et de la surveillance de masse
+dreamone dans J’étais enfant au temps des nanotechnologies et de la surveillance de masse
+Serge dans J’étais enfant au temps des nanotechnologies et de la surveillance de masse
+Articles récents
+J’étais enfant au temps des nanotechnologies et de la surveillance de masse
+Cloud et souveraineté numérique, quelles conséquences ?
+Perte de souveraineté numérique, la faute de trop
+QR Code, de quoi es-tu le nom ?
+L’ère de la Post-Confiance
+Les blogueurs du Temps sont des invités. Leur avis ne représente pas celui de la rédaction. En savoir plus

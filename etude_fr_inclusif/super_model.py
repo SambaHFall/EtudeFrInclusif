@@ -1,4 +1,4 @@
-from ._utils import *
+from ._utils import AnnPredModel, Ann
 import pandas as pd
 from etude_fr_inclusif.inclure import InclureModel
 

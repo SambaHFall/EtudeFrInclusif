@@ -1,0 +1,4 @@
+Types de documents Affiche Aquarelle Carte Carte postale Carte postale bleutée Carte postale colorée Carte postale couleur Carte postale nb coloriée Carte postale noir et blanc Carte postale sépia Carte postale verte Chromo Croquis Dessin Diapositive couleur Diapositive noir et blanc DIPLOME Eau-forte Elévation Elévation et plan Estampe Faire-part Gravure Image numérique Imprimé Lithographie Menu Négatif couleur Négatif noir et blanc Panneau exposition Plan Plan d'alignement Plan de nivellement Polaroid Reproduction Tirage couleur Tirage noir et blanc
+Afficher les imagettes en mosaïque
+Seulement les notices avec des images liées
+NB : Tapez un Espace pour l'opérateur 'ET' et 'OU' pour l'opérateur 'OU'. Les caractères '@' ou '*' peuvent être utilisés comme joker

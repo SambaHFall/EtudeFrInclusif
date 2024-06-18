@@ -1,5 +1,5 @@
-from ._utils import *
-from inclure.x import *
+from ._utils import AnnPredModel, merge_sort, Ann
+from inclure.x import domain_and_exts, different_gender, sub
 import re
 
 """
@@ -42,4 +42,4 @@ class InclureModel(AnnPredModel) :
 		print("This model doesn't need any kind of training : the 'fit' function is not doing anything")
 
 	def predict(self, x : list[str]) -> list[list[Ann]] :
-		return [ detect_inc(self.nlp(item)) for item in x ]
+		return [ detect_inc(self.nlp_model(item)) for item in x ]

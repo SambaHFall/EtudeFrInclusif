@@ -1,0 +1,227 @@
+Un micro-entrepreneur, à l'origine désigné comme auto-entrepreneur, correspond à un régime français de travailleur indépendant créé en 2008 pour simplifier la gestion administrative en remplaçant toutes les cotisations sociales et tous les impôts et taxes par un versement unique et proportionnel au chiffre d’affaires[1].
+À partir de 2011, les taux ont été augmentés et le principe de cotisation unique a été abandonné pour assujettir les auto-entrepreneurs à la cotisation foncière des entreprises (CFE) — très variable d'une commune à l'autre, entre 20 et 2 000 euros —, à la contribution à la formation professionnelle (CFP) et, en 2015, à la taxe pour les frais de chambre de commerce et d'industrie (CCI) ou de chambre de métiers et de l'artisanat (CMA). Il a d'autre part été fusionné avec le statut fiscal de la micro-entreprise.
+Aujourd'hui, les termes « auto-entrepreneur » et « auto-entreprise » sont toujours utilisés, notamment sur le site officiel pour les déclarations en ligne autoentrepreneur.urssaf.fr[2]. La définition donnée est la suivante :
+« L’auto-entreprise est une entreprise individuelle qui relève du régime fiscal de la micro-entreprise et du régime micro-social pour le paiement des cotisations et contributions sociales. »
+Ce régime compte plus d'un million d'inscrits en 2016, pour un revenu mensuel moyen de 410 €[3].
+Selon ses détracteurs, le régime de micro-entrepreneur est conçu principalement en faveur des grandes entreprises. Utiliser des micro-entrepreneurs leur permet d'éviter de gérer des questions d'horaires de travail, de droit aux congés payés, de formation, de conditions préalables au licenciement ou de redistribution de la valeur ajoutée à travers les mécanismes d’intéressement et de participation[3].
+Sommaire
+1 Histoire
+2 Régime du micro-entrepreneur
+2.1 Cadre social
+2.2 Fiscalité
+2.3 Activités ne pouvant pas être exercées en micro-entrepreneur
+2.4 Activités réglementées
+2.5 Cas particulier des professions libérales dépendant de la CIPAV
+2.6 Accompagnement des micro-entrepreneurs
+2.7 Financement des micro-entrepreneurs
+2.8 Retraite des micro-entrepreneurs
+3 Critiques du régime
+4 Évolutions du régime
+4.1 Propositions de la FEDAE
+4.2 Réforme du régime
+5 Pérennité
+6 Notes et références
+7 Voir aussi
+7.1 Articles connexes
+7.2 Bibliographie
+7.2.1 Ouvrages
+7.2.2 Articles de journaux et revues
+7.2.3 Sur le web
+7.3 Reportage radiophonique
+7.4 Liens externes
+HistoireModifier
+Le régime de la micro-entreprise est issue de la loi du 1er août 2003 pour l’initiative économique. Le régime a pour but de simplifier fortement les formalités de création, d'interruption et de cessation d'une activité professionnelle individuelle à but lucratif, notamment en permettant de s'inscrire directement en ligne pour créer son entreprise, mais aussi en simplifiant le paiement des cotisations sociales, des impôts et des taxes qui sont regroupés dans une cotisation unique et proportionnelle au chiffre d’affaires. Ce régime s'adresse, à compter du 1er janvier 2009 , à tout porteur de projet d'entreprise individuelle qui souhaite créer son activité sans pour autant créer une société. Ce statut ne couvre pas les accidents du travail ou les maladies professionnelles.
+Issu des propositions faites dans le rapport titré « En faveur d'une meilleure reconnaissance du travail indépendant » , rapport écrit par François Hurel[4] demandé par Hervé Novelli[5] (alors secrétaire d'État chargé des entreprises et du commerce extérieur), le dispositif est intégré dans la loi de modernisation de l’économie (LME) promulguée le 4 août 2008 , et il est créé dans ce cadre. Il rencontre assez vite un net succès avec plus d'un million d'inscrits. Les résultats économiques du régime d'auto-entrepreneur sont toutefois limités[3].
+Sur le plan idéologique, ce statut permet, selon ses concepteurs, d'« exalter l'esprit d'entreprise ». Pour Hervé Novelli :
+« Cela abolit, d'une certaine manière, la lutte des classes. Il n'y a plus d'exploiteurs et d'exploités. Seulement des entrepreneurs : Marx doit s'en retourner dans sa tombe[3]. »
+Le 11 décembre 2008 , Hervé Novelli signe sous l’égide de la Fevad un protocole d’accord avec des places de marché entre internautes (2xmoinscher, Alapage, Amazon, eBay et PriceMinister) au terme duquel elles s’engagent à promouvoir le régime de l'auto-entrepreneur auprès de leurs membres[6],[7].
+La loi pour l’accélération des programmes de construction et d’investissements publics et privés[8] élargit à l'ensemble des professions libérales non réglementées, jusque-là écartées par l'URSSAF, le statut d'auto-entrepreneur (aujourd'hui micro-entrepreneur) grâce à un amendement rectificatif. Ainsi, depuis 2009, la moitié des créations d'entreprises se font en utilisant ce régime[9].
+En septembre 2012 , quatre ans après sa création, le régime d'auto-entrepreneur (aujourd'hui micro-entrepreneur) fait pourtant l'objet de différentes critiques. Certains lui reprochent de dérégulariser le marché de l'emploi. D'autres — cas notamment de la Confédération européenne des indépendants[10] — lui reprochent de concurrencer le régime des artisans en bénéficiant d'avantages anormaux ; d'où une réflexion gouvernementale sur les inflexions éventuelles à apporter.
+Les bilans statistiques dressés par l'INSEE en 2012, sur les premières années de fonctionnement, semblent montrer que ce régime ne favorise pas le développement économique des micro-entreprises ainsi créées. Seul un quart des premiers auto-entrepreneurs (aujourd'hui micro-entrepreneurs) sont parvenus à se dégager un revenu et, parmi ceux-ci, 90 % ont un revenu inférieur au SMIC. Mais ce régime est en partie utilisé, à la différence des régimes non salariés auxquels on le compare, pour des activités d'appoint, ce qui relativise cette analyse statistique.
+Régime du micro-entrepreneurModifier
+L'activité créée en auto-entrepreneur (aujourd'hui micro-entrepreneur) est une entreprise individuelle. Pour bénéficier du régime, l'auto-entrepreneur doit respecter les plafonds de chiffre d’affaires définis pour la microentreprise :
+170 000 € de chiffre d’affaires annuel maximum pour les activités de vente de marchandises, en 2018[11] ;
+70 000 € de chiffre d’affaires annuel maximum pour les activités de prestations de services, en 2018[11].
+Le régime de micro-entrepreneur étant adossé au statut de la microentreprise, le micro-entrepreneur bénéficie d'une franchise de TVA (article 293 B du Code général des impôts).
+Cependant, au-delà de la moitié du seuil affiché ci-dessus, le micro-entrepreneur doit déclarer la TVA.
+Les limites de chiffre d’affaires sont calculées au prorata temporis, comme c'est le cas classique du régime microsocial. En d'autres termes, un micro-entrepreneur qui crée une activité de vente de marchandises le 1er juillet 2016 doit respecter un plafond de chiffre d’affaires pour l'année 2016 de 41 400 € (c'est-à-dire 6 12 {\displaystyle \textstyle {\frac {6}{12}}}
+de 82 800 €).
+Peuvent créer une activité en micro-entrepreneur les salariés, les demandeurs d'emploi, les étudiants, les retraités ; les fonctionnaires sont également concernés même si, dans les faits, quelques restrictions subsistent.
+Le régime de micro-entrepreneur permet de se servir de son habitation pour y créer son entreprise. Ainsi un organisme HLM pourrait autoriser un locataire à exercer une activité professionnelle, y compris commerciale, dans une partie du logement qui lui est attribué, dès lors que l’activité considérée n’occupe qu’une surface réduite des locaux, qu’elle n’est exercée que par le ou les occupants y ayant leur résidence principale, n’engendre pas de nuisances et qu’elle ne conduit pas à la constitution d’un fonds de commerce.
+Cadre socialModifier
+Le micro-entrepreneur s'acquitte de ses cotisations sociales par un prélèvement libératoire calculé sur la base d'un pourcentage du chiffre d’affaires encaissé. Le pourcentage prélevé dépend du type d'activité exercée[12] :
+13,4 % pour les activités d’achat-revente, fabrication de produits à base de matière première, vente de denrées à consommer sur place ou à emporter, de prestations d’hébergement à l’exception de la location de locaux d’habitation meublés ;
+23,1 % pour les activités de prestation de services commerciales ou artisanales (BIC ou « bénéfice industriel et commercial », et BNC, ou « bénéfice non commercial », couramment appelés « régime micro BIC » et « régime micro BNC » respectivement) ;
+22, 9 % pour les activités libérales (BNC).
+Si le micro-entrepreneur n'a généré aucun chiffre d’affaires pendant la période donnée, il ne verse aucune cotisation sociale (pas de franchise), mais doit quand même déclarer son chiffre d'affaires.
+Les prélèvements sociaux et fiscaux sont réalisés tous les mois, ou tous les trois mois, en fonction du choix du micro-entrepreneur.
+Depuis le 1er janvier 2011 , les auto-entrepreneurs (aujourd'hui micro-entrepreneur) cotisent à la Contribution à la formation professionnelle comme les autres travailleurs indépendants. Cette cotisation est calculée en fonction du chiffre d’affaires annuel, et selon l'activité[13] :
+0,1 % du chiffre d’affaires annuel dans le secteur du commerce ;
+0,2 % du chiffre d’affaires annuel en prestations de services et professions libérales ;
+0,3 % du chiffre d’affaires annuel en activité artisanale (0,17 % en Alsace).
+Le régime de micro-entrepreneur est bien souvent un tremplin pour la création d'une entreprise « traditionnelle ». Il peut aussi se transformer en portage salarial lorsque les plafonds de chiffre d’affaires sont atteints, comme le proposent certains acteurs.
+FiscalitéModifier
+Sous certaines conditions de limite de revenu imposable, le micro-entrepreneur peut opter pour le régime microfiscal et s'acquitter de l'impôt sur le revenu de son activité indépendante par prélèvement libératoire simultanément au paiement de ses cotisations sociales.
+Pour prétendre au régime microfiscal, il faut avoir déclaré l'année précédente un revenu imposable inférieur ou égal au plafond de la troisième tranche d'imposition, soit 26 791 € par part de quotient familial. Une personne célibataire ne devra donc pas avoir déclaré plus de 26 791 €, une personne en couple 53 582 €[12], etc.
+Si le micro-entrepreneur ne peut prétendre au régime micro-fiscal, il doit déclarer annuellement ses revenus, de façon usuelle. Les impôts procèdent à un abattement forfaitaire de 34% (activité libérale) ou de 50 % (prestations de services) ou de 71 % (commerce) du chiffre d’affaires réalisé. On paie ensuite les charges fiscales sur la base des 66%, 50 % ou 29 % du chiffre d'affaires restants, en se référant à la grille des impôts sur le revenu en vigueur.
+Les micro-entrepreneurs sont exonérés de la contribution économique territoriale (CET) pour l'année de création et les deux années suivantes. Cette disposition a été prise à la suite de la polémique générée par les avis d'imposition à la cotisation foncière des entreprises (CFE) reçus en novembre 2010 par 130 000 auto-entrepreneurs (aujourd'hui micro-entrepreneur). La CET est très variable d'une commune à l'autre, généralement comprise dans une large fourchette allant de 20 à 2 000 € annuels (valeurs extrêmes).
+Le 12 novembre 2012 , le ministre de l’Économie et des Finances, Pierre Moscovici, la ministre de l’Artisanat, du Commerce et du Tourisme, Sylvia Pinel, et le ministre délégué chargé du Budget, Jérôme Cahuzac, annoncent dans un communiqué de presse qu'ils ont décidé de prolonger d’une année l’exonération de CFE pour les auto-entrepreneurs[14] (aujourd'hui micro-entrepreneur).
+La prorogation de cette exonération de la CFE a été prolongée à nouveau d'une année supplémentaire. Annoncée le 23 septembre 2013 , cette exonération est la conséquence d'un retard dans la réforme de la CFE. Le manque à gagner des communes, qui s'élevait à 80 millions d'euros en 2012 avait été pallié par l'État[15]. Depuis le 1er janvier 2015 , la CFE est due par les auto-entrepreneurs (aujourd'hui micro-entrepreneur) selon une règle de calcul complexe (paliers de chiffre d’affaires + taux + assiette).
+En juin 2017 , le logiciel certifié voulu par le ministre du Budget dans le cadre de la lutte anti-fraude à la TVA ne sera finalement pas obligatoire pour les micro-entrepreneurs (sauf les commerçants)[16].
+En 2019, le Gouvernement prévoit de diminuer les exonérations de cotisations sociales dont bénéficiaient les autoentrepreneurs. Au lieu de bénéficier de trois années d’exonérations, il n’y en aurait plus qu'une[17].
+Activités ne pouvant pas être exercées en micro-entrepreneurModifier
+La plupart des activités peuvent être créées en micro-entrepreneur. Quelques activités restent cependant exclues :
+les activités relevant de la TVA agricole ;
+certaines activités commerciales, ou non commerciales, comme la location de matériels et de biens de consommation durable ;
+la vente de véhicules neufs dans les autres États membres de l'Union européenne ;
+les activités relevant de la TVA immobilière : opérations des marchands de biens, les lotisseurs, agents immobiliers, les opérations sur les parts de sociétés immobilières. En revanche, la location de fonds de commerce, la location de locaux meublés ou destinés à être meublés peuvent en bénéficier ;
+les locations d'immeubles nus à usage professionnel ;
+les officiers publics et ministériels (par exemple, les notaires) ;
+la production littéraire, scientifique ou artistique ou la pratique de sports lorsque les bénéficiaires ont opté pour une imposition sur la base d’une moyenne des bénéfices des deux ou quatre années précédentes ;
+les opérations sur les marchés à terme, sur les marchés d’options négociables et les opérations sur bons d'option ;
+les activités de sécurité privées telles qu'agent de sécurité, gardiennage, agent cynophile, protection rapprochée et détective privé, ces dernières relevant d'une obligation d'obtention d'un agrément[18].
+Activités réglementéesModifier
+Les micro-entrepreneurs sont soumis aux mêmes obligations que tout entrepreneur et doivent respecter les obligations de leur secteur d'activité.
+Certaines activités, notamment, sont soumises à qualification professionnelle. Il leur est d'ailleurs fortement recommandé d'assurer leur activité professionnelle, comme toute entreprise, au titre de la responsabilité civile professionnelle. Les artisans du bâtiment exerçant sous le régime de l'auto-entrepreneur conservent l'obligation de souscrire à une garantie décennale.
+Cas particulier des professions libérales dépendant de la CIPAVModifier
+Les professionnels relevant de la Caisse interprofessionnelle de prévoyance et d'assurance vieillesse (CIPAV), sont par exemple tous les métiers de conseil, d'aide à la personne, de services aux entreprises, associés aux nouvelles technologies, à l'Internet, etc.
+Quelques jours après le lancement du régime d'auto-entrepreneur (aujourd'hui micro-entrepreneur), ces professionnels ont appris qu'ils en étaient exclus, contrairement aux informations initiales. Ce constat a généré à l'époque surprise et colère chez les personnes concernées. Un collectif des libéraux exclus du régime auto-entrepreneur (aujourd'hui micro-entrepreneur) a été créé[19].
+Depuis le 18 février 2009 , ce point est réglé. Les entrepreneurs relevant de la CIPAV peuvent s'inscrire au régime des auto-entrepreneurs (aujourd'hui micro-entrepreneur) et bénéficier de l'Aide à la création ou à la reprise d'entreprise (ACRE).
+Accompagnement des micro-entrepreneursModifier
+À l'origine du régime, un kit de l'auto-entrepreneur (aujourd'hui micro-entrepreneur) avait été créé, visant à simplifier la prise d'activité et à accompagner l'auto-entrepreneur : première version en janvier 2009 , deuxième version en janvier 2010 , troisième version en avril 2010 [20].
+Dans chaque département, les créateurs intéressés par ce statut peuvent participer aux réunions d'information organisées par les organismes consulaires, Chambres de métiers et de l'artisanat=(CMA), Chambres de commerce et d'industrie (CCI). Ils peuvent également être reçus individuellement par des conseillers, afin de vérifier que le statut de micro-entrepreneur correspond bien à leur projet et à leur situation personnelle. Ces services sont gratuits.
+Des réseaux d'accompagnement à la création tels que l'Association pour le droit à l'initiative économique (ADIE), les Chambre de commerce et d'industrie, les Chambres de métiers et de l'artisanat, l'Agence pour la création d'entreprises et le réseau des Boutiques de gestion (BGE) sont également très actifs auprès des micro-entrepreneurs.
+Des groupements de micro-entrepreneurs ont également été créés dès l'avènement du nouveau régime. Ces groupements peuvent aider les nouveaux micro-entrepreneurs dans leurs démarches ainsi que dans leur développement grâce à l'expérience de certains de leurs créateurs. Il est important de bien se renseigner pour connaître l'expérience des dirigeants, les secteurs d'activités couverts, les conditions pour entrer et sortir de ces groupements ainsi que tous les services proposés. Les deux groupements les plus connus sont la Fédération des auto-entrepreneurs (FEDAE), et l'Union des auto-entrepreneurs (UAE), seules associations de micro-entrepreneurs admises dans le « comité synergie réseaux » animé par l'Agence France Entrepreneur.
+Depuis peu, des sociétés de portage salarial réputées, suivies de plus petites entreprises régionales, se sont lancées dans le créneau du portage des micro-entrepreneurs. Elles se chargent, moyennant un pourcentage et (ou) une commissions sur chiffre d’affaires, d'aider les micro-entrepreneurs dans leurs démarches d'immatriculation et (ou) de gestion de leur micro-entreprise auto-entreprenariale.
+Nées en même temps que ce nouveau statut, des sociétés se sont lancées dans la microfranchise de micro-entrepreneurs. Ces franchises sont généralement d'accès gratuit du fait de la jeunesse du statut « micro-entrepreneur ». Similaires aux franchises normales, celles-ci peuvent néanmoins réserver des surprises et ne sont pas aussi sécurisées que la franchise classique du fait de la jeunesse du statut de micro-entrepreneuriat. Il est donc conseillé de bien se renseigner avant de contracter ce genre de franchise.
+Dans chaque région existent des pépinières d'entreprises, constituées de professionnels reconnus et ayant déjà au moins une expérience reconnue dans leur milieu d'activité. Celles-ci peuvent être d'un grand secours dans bien des cas grâce notamment au tissu relationnel des membres accompagnateurs de la pépinière. Leurs services peuvent être gratuits ou financés par des aides publiques.
+Financement des micro-entrepreneursModifier
+La plupart des banques traditionnelles sont encore fermées à l'idée de prêter ou de financer des micro-entrepreneurs[21]. Cependant, certaines banques et sociétés de crédit, notamment des startups, se sont lancées sur le créneau du prêt et (ou) du financement des micro-entrepreneurs[22],[23].
+De nombreuses activités se lancent grâce au financement privé, celui-ci pouvant prendre la forme d'un prêt par la famille proche ou de business angels[réf. nécessaire].
+Retraite des micro-entrepreneursModifier
+S'agissant d'un travailleur non-salarié, le choix de la caisse de retraite doit avoir été faite le jour de la déclaration de l'activité.
+Il bénéficie alors du régime du versement unique mensuel ou trimestriel des cotisations sociales et de l'impôt, à la CIPAV ou au RSI.
+Critiques du régimeModifier
+Le régime de micro-entrepreneur participerait à la dérégulation du travail, en poussant plus loin le système de la sous-traitance et de la flexibilité, dans un contexte de crise du travail et de licenciements massifs. Ce statut est alors interprété comme une forme particulière de la crise du capitalisme et de la réduction des coûts de production.[réf. nécessaire]
+Loin de l'image véhiculée par l'idée de la « liberté d'entreprendre » ou d'une amélioration du statut du travailleur permettant la fin de la subordination juridique du salarié, le statut de micro-entrepreneur viserait également à imposer directement à soi-même les lois du marché, c'est-à-dire à permettre une auto-aliénation[5], et non une émancipation.
+Certaines entreprises, plutôt que d'embaucher, demanderaient illégalement à leurs salariés de prendre le statut de micro-entrepreneur. Le micro-entrepreneur doit alors facturer ses prestations à l'entreprise. Du point de vue de cette dernière, l'intérêt est d'augmenter la flexibilité et la productivité (par la précarisation) du micro-entrepreneur, et de s'épargner les cotisations salariales[24]. Un employeur qui détourne un contrat de travail, par la création d'une prestation de service réalisée par un travailleur faussement indépendant, peut voir le contrat de prestation requalifié en contrat de travail. L'employeur fautif s'expose aussi au recouvrement de fortes amendes par l'URSSAF. Il risque aussi d'être condamné pour délit de travail dissimulé ou d'abus de faiblesse[25]. Le statut d'autoentrepreneur devient en 2021 un outil croissant de précarisation, y compris dans le cadre du secteur public, de la recherche et de la culture, en contradiction avec le droit du travail[26].
+Le monde des artisans, installés en tant que tels, se plaint de la concurrence de ce statut et des conditions plus favorables faites aux micro-entrepreneurs sur le plan des contributions sociales et de la fiscalité. Ces récriminations ont été notamment relayées par l'Assemblée permanente des chambres de métiers et de l'artisanat et prises en compte par Sylvia Pinel. La ministre déléguée chargée de l’Artisanat, du Commerce et du Tourisme a promis une réflexion gouvernementale et une concertation sur ce sujet[27],[28].
+La remise en cause de ce statut s'appuie sur le bilan statistique des premières années de fonctionnement, dressé par l'INSEE[29]. Selon les études de cet organisme, publiées mi-2012, moins d’un quart des auto-entrepreneurs (aujourd'hui micro-entrepreneurs) ont réussi, en 2011, à se verser un salaire régulier. Et pour 90 % des auto-entrepreneurs ayant réussi à se doter d'un revenu, le salaire versé était inférieur au salaire minimum[30]. L'Insee note cependant que ces auto-entrepreneurs exercent souvent en parallèle une activité salariée ou sont retraités. L'activité gérée dans le cadre micro-entrepreneurial n'est ainsi, bien souvent, qu'une activité complémentaire[29]. Les faibles revenus obtenus sont aussi dans certains cas la conséquence de la facilité d'accès à ce régime : « Certaines personnes créent leur [micro-entreprise] car elles n'ont pas d'autres possibilités de travailler », analysent les spécialistes de l'INSEE. Selon une précédente étude de l'institut, un tiers des auto-entrepreneurs inscrits, au premier semestre 2010, étaient auparavant chômeurs. Sur la même période, les trois quarts des auto-entrepreneurs affirmaient qu'ils n'auraient pas créé d'entreprise sans l'existence de ce régime[31].
+Évolutions du régimeModifier
+Propositions de la FEDAEModifier
+Le 18 janvier 2012 , la Fédération des auto-entrepreneurs (FEDAE) a devancé une partie des critiques sur le développement économique des entreprises adoptant ce régime en publiant un Livre blanc de l'auto-entrepreneur[32] dans lequel elle propose douze mesures pour renforcer le régime et faciliter la croissance des auto-entreprises (aujourd'hui micro-entreprises) :
+augmenter les plafonds de chiffre d’affaires et décorréler ces plafonds du barème de l'impôt, les fixant dès 2012 respectivement à 40 000 et 100 000 € ;
+simplifier le cumul pour les fonctionnaires sans limite à tous ;
+élargir le régime aux militaires de carrière et gendarmes, sans distinction ;
+ouvrir le régime aux professions agricoles ;
+modifier le mode de calcul de la cotisation foncière des entreprises en la fixant à 1,8 % du chiffre d’affaires, sans notion d’option au prélèvement libératoire forfaitaire ;
+créer un fonds de formation spécifique pour les auto-entrepreneurs ;
+mettre en place un parcours croissance avec diagnostic d’activité biennal financé par le fonds de formation ;
+favoriser les regroupements d’auto-entrepreneurs par la création d'un contrat civil ;
+favoriser l’auto-entrepreneuriat dans les quartiers sensibles pour encourager la jeunesse à être audacieuse, à créer son avenir sur des valeurs d’effort, de travail ;
+instaurer le parrainage des auto-entrepreneurs par les PME et les grands groupes cotés, par une charte de parrainage et un code de déontologie ;
+appliquer la simplification fiscale et sociale au régime réel ;
+proposer une application au niveau européen, qui pourrait donner lieu à une harmonisation européenne des normes pour devenir auto-entrepreneur [33].
+Réforme du régimeModifier
+Le 10 avril 2013 , Sylvia Pinel, alors ministre de l'Artisanat et du Commerce, propose une orientation de réforme du régime de l'auto-entrepreneur (aujourd'hui micro-entrepreneur). Ces orientations laissent de côté les préconisations faites par l'Inspection générale des finances (IGF) et l'Inspection générale des affaires sociales (IGAS) dans le cadre d'un rapport commandé par le gouvernement, en octobre 2012 . Elles vont au contraire jusqu'à proposer une limitation du régime dans le temps et une limitation du chiffre d’affaires maximum à 19 000 € contre 32 600 €.
+La Fédération des auto-entrepreneurs (FEDAE) organise alors une série d'actions en direct, et via son réseau de délégués, pour faire connaître les effets de cette réforme (pétitions, rassemblements, actions médiatiques, rencontres parlementaires…), en se faisant connaître sous le vocable #Poussins (en échos aux #Pigeons). Grégoire Leclercq, président de la FEDAE, s'oppose à une réforme non concertée et qui complexifie le régime. Un rapport du député PS Laurent Grandguillaume est rendu public le 16 décembre 2013 , à la suite d'une mission sur la simplification de l'entreprise individuelle qui rassemble artisans, chambres de commerces, associations d'accompagnement et d'auto-entrepreneurs (aujourd'hui micro-entrepreneur).
+En 2020, le régime de la micro-entreprise a été réformé par le président Emmanuel Macron et le statut a connu quelques modifications importantes, notamment sur les plafonds de chiffres d'affaires, le fonctionnement de l'Aide à la création ou à la reprise d'une entreprise (ACRE) et la sécurité sociale des indépendants (SSI). En effet, depuis l'année 2020 les seuils de chiffres d'affaires ont été revus à la hausse et les plafonds ont été augmentés à 176 200€ pour les activités commerciales et d'hébergement et à 72 500€ pour les prestations de services ainsi que pour les professions libérales[34]. Par ailleurs, l'Aide aux chômeurs créateurs ou repreneurs d'une entreprise (ACCRE) a été remplacée par l'Aide à la création ou à la reprise d'une entreprise (ACRE). Ce dispositif permet désormais de bénéficier d’une exonération partielle ou totale des charges lors de la première année depuis le 1er avril 2020[35]. Enfin, la sécurité sociale des indépendants (SSI) en 2020, par conséquent tous les auto-entrepreneurs ont été basculés vers la Caisse primaire d'assurance maladie (CPAM) et bénéficient désormais d'une couverture sociale identiques aux salariés[36].
+PérennitéModifier
+Les statistiques de l'INSEE montrent que les auto-entrepreneurs (aujourd'hui micro-entrepreneur) de 2010 n'ont pas toujours maintenu la pérennité de leur entreprise jusqu'en 2015, mais que Certains auto-entrepreneurs[évasif][Qui ?] ont réussi à faire perdurer leur activité.
+Pérennité sur la période 2010-2015
+Source : Insee, « Les auto-entrepreneurs immatriculés en 2010 - Situation 5 ans après »
+Données nationales enquête SINE auprès des auto-entrepreneurs, Insee[37].
+Notes et référencesModifier
+↑ « Déclaration de micro-entrepreneur (auto-entrepreneur) », sur Service-public.fr, 31 janvier 2018 (consulté le 23 juillet 2018 ).
+↑ Anciennement lautoentrepreneur.fr.
+↑ a b c et d « Microentreprise, une machine à fabriquer des pauvres », Le Monde diplomatique,‎ 1er décembre 2017 (lire en ligne, consulté le 23 décembre 2017 ).
+↑ Doc.française Rapport à Hervé Novelli 2012.
+↑ a et b Le Duigou 2010.
+↑ « Statut de l'auto-entrepreneur : une opportunité pour les vendeurs particuliers sur internet », sur ZDNet France, 11 décembre 2008 (consulté le 28 mars 2019 )
+↑ « Accord de partenariat », sur web.archive.org, 11 décembre 2008 (consulté le 28 mars 2019 )
+↑ Loi no 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés
+↑ Pascual 2009
+↑ Cedi Infos no 40, octobre 2009, voir sur cedifrance.com.
+↑ a et b Voir sur www.lautoentrepreneur.fr
+↑ a et b Source : AFE (www.afecreation.fr).
+↑ Urssaf, « Portail Officiel des Auto-entrepreneurs - FAQ Auto-entrepreneurs », sur lautoentrepreneur.fr (consulté le 6 septembre 2014 ).
+↑ Blog auto-entrepreneur.
+↑ Actualité auto-entrepreneur.
+↑ « TVA : les micro-entrepreneurs, exemptés de l'obligation de logiciel certifié », sur Les Echos, 16 juin 2017
+↑ « Bientôt la fin des exonérations de charges pour les autoentrepreneurs ? », Ouest-France,‎ 23 septembre 2019 (lire en ligne).
+↑ Loi 83-629 du 12 juillet 1983.
+↑ Collectif des libéraux.
+↑ « Documentation auto-entrepreneur à télécharger », sur lautoentrepreneur.net, 2011 (consulté le 6 septembre 2014 ).
+↑ « Crédit immobilier : les auto-entrepreneurs oubliés du système », sur Les Echos, 27 juin 2018 (consulté le 25 novembre 2019 )
+↑ « Crédit FinFrog : un microcrédit urgent sans justificatif », sur eKonomia (consulté le 25 novembre 2019 ).
+↑ « La fintech Mansa veut mettre fin au casse-tête du crédit pour les freelances », La Tribune (consulté le 25 novembre 2019 ).
+↑ Rue89 2009.
+↑ Colombié 2011.
+↑ Nathalie Tissot, « Auto-entreprise : comment le secteur public s’arrange avec le droit du travail », sur Mediapart, 8 juin 2021 (consulté le 9 juin 2021 )
+↑ Rédaction Ouest-France 2012.
+↑ Amar 2012.
+↑ a et b AFP 2012.
+↑ Rédaction de L'Humanité 2012.
+↑ Bartnik 2012.
+↑ FEDAE 2012.
+↑ « Tout savoir pour devenir auto entrepreneur », sur pole-autoentrepreneur.com (consulté le 14 avril 2021 )
+↑ « Tout savoir sur le statut d’auto-entrepreneur », sur espace-autoentrepreneur.com (consulté le 26 janvier 2021 )
+↑ « Acre 2020 : entrée en vigueur de la reforme - Autoentrepreneur.urssaf.fr », sur www.autoentrepreneur.urssaf.fr (consulté le 26 janvier 2021 )
+↑ « Intégration de tous les travailleurs indépendants à l’Assurance Maladie début 2020 : quels impacts ? », sur www.ameli.fr (consulté le 26 janvier 2021 )
+↑ Voir sur insee.fr.
+Voir aussiModifier
+Articles connexesModifier
+Travailleur indépendant
+Entrepreneuriat
+Création d'entreprise
+Microentreprise
+Micro-travail
+Entreprise individuelle
+TPE
+PME
+Business angel
+Capital d'amorçage
+Portage salarial
+BibliographieModifier
+OuvragesModifier
+Sarah Abdelnour, Moi, petite entreprise: les auto-entrepreneurs, de l'utopie à la réalité, 2017, Presses Universitaires de France.
+Béatrice Grandguillot et Francis Grandguillot, Devenez Auto-entrepreneur : Tout savoir sur le nouveau régime d'auto-entrepreneur pour créer sa propre activité en parallèle ou non de son activité principale , avril 2011 , broché.
+Gilles Daïd et Pascal Nguyên, Le Guide pratique du micro-entrepreneur, Eyrolles, janvier 2017 , broché, 265 p. (ISBN 978-2-212-56684-0)
+Pascal Nguyên, L'Auto-entrepreneur , coll. « Petit Memento », mars 2011 , broché
+Delphine Gouaty, Monter son entreprise pour les débutants , mars 2012 , broché + un CD-ROM
+Grégoire Leclercq et Marie Gouilly-Frossard, L'Auto-entrepreneur pour les Nuls , 2014 , 2e éd.
+Christine Lebel, L'Entreprise individuelle : création - gestion - dissolution , juin 2011 , broché
+Laurence Piganeau, Le Guide de la micro-entreprise , Paris, Eyrolles, décembre 2011 , 8e éd., 251 p. (ISBN 978-2-212-54120-5)
+Articles de journaux et revuesModifier
+Guillaume Gesret, « Ces salariés forcés de devenir auto-entrepreneurs », Rue89,‎ 7 décembre 2009 (lire en ligne)
+Ludo Simbille, « Auto-entrepreneur : le mythe du travailleur indépendant », Basta !,‎ 16 février 2012 (lire en ligne)
+Julia Pascual, « Succès flou pour l’auto-entrepreneur », Libération,‎ 21 décembre 2009 (lire en ligne)
+Jean-Christophe Le Duigou, « Auto-entrepreneurs. S’auto-exploiter pour éviter l’exploitation », L'Humanité,‎ 20 mars 2010 (lire en ligne)
+Emmanuel Colombié, « Auto-entrepreneurs : gare au salariat déguisé ! », L'Entreprise,‎ 21 janvier 2011 (lire en ligne)
+Christine Lagoutte, « Les Français ont une âme d'auto-entrepreneurs », Le Figaro,‎ 30 mai 2011 (lire en ligne)
+Rédaction Ouest-France, « Auto-entrepreneurs. Concurrence déloyale pour les artisans ? », Ouest-France,‎ 5 juin 2012 (lire en ligne)
+Louis Amar, « Quel avenir pour les auto-entrepreneurs? », L'Expansion,‎ 7 juin 2012 (lire en ligne)
+Rédaction de L'Humanité, « 90 % des auto-entrepreneurs se versent moins que le SMIC », L'Humanité,‎ 20 septembre 2012 (lire en ligne).
+Marie Bartnik, « Entrepreneurs : neuf auto-entrepreneurs sur dix gagnent moins que le smic », Le Figaro,‎ 20 septembre 2012 (lire en ligne)
+AFP, « La plupart des auto-entrepreneurs ont des revenus inférieurs au Smic », Libération,‎ 20 septembre 2012 (lire en ligne)
+Valérie Talmon, « Les auto-entrepreneurs reçus à Bercy », Les Échos,‎ 1er octobre 2012 (lire en ligne)
+Donald Hebert, « Fleur Pellerin : Oui, l'auto-entrepreneuriat est préservé », Le Nouvel Observateur,‎ 2 octobre 2012 (lire en ligne)
+Sur le webModifier
+Loi no 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés
+« Entreprise, industrie : Rapport à Hervé Novelli, secrétaire d'État chargé des entreprises et du commerce extérieur, en faveur d'une meilleure reconnaissance du travail indépendant », La Documentation française, janvier 2008 (consulté le 12 septembre 2012 )
+« Le point sur le régime d'auto-entrepreneur, document de l'URSSAF, NAT/1829, à jour au 1er janvier 2012 », sur le site de lauto-entrepreneur.fr, URSSAF, janvier 2008 (consulté le 12 septembre 2012 )
+« Livre blanc de l’auto-entrepreneur : 12 mesures à prendre en 2012 », FEDAE, 18 janvier 2012
+Reportage radiophoniqueModifier
+Reportage radiophonique « Culture de l’audace, goût de l’impossible : l’auto-entrepreneur » (France Inter, Là-bas si j'y suis, 2009)
+Liens externesModifier
+Le portail officiel des auto-entrepreneurs opéré par l'URSSAF
+La Fédération des auto-entrepreneurs (FEDAE)
+« Les invisibles, les travailleurs du clic : Roulez jeunesse » [vidéo], sur france.tv (consulté le 31 janvier 2021 ).
+« Les invisibles, les travailleurs du clic : travailler plus pour micro gagner moins » [vidéo], sur france.tv (consulté le 31 janvier 2021 ).
+« Les invisibles, les travailleurs du clic : traumas sans modération » [vidéo], sur france.tv (consulté le 31 janvier 2021 ).
+« Les invisibles, les travailleurs du clic : Au delà du clic » [vidéo], sur france.tv (consulté le 31 janvier 2021 ).
+Portail du droit français
+Portail du management
+Portail des entreprises
+Portail de l’économie
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Micro-entrepreneur&oldid=187787075 ».
