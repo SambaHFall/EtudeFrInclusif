@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     install_requires=reqs,
 
-    package_data = {'etude_fr_inclusif' : ['data/*.txt', 'code_inclure/*.py']  }
+    package_data = {'etude_fr_inclusif' : ['data/*.txt', 'code_inclure/*.py']  },
     include_package_data = True,
 	
     long_description=long_description,
