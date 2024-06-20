@@ -25,16 +25,31 @@ A rule-based method model using the same identification method as in the project
 The SuperAnnModel model is a voting system model which bases its predictions on the predictions of severals simple models : for every token in a text, it computes an average prediction score based on what the simple models predicted (the prediction of each model being balanced by a certain weight, representing the trust put in that model), then it considers the prediction as a YES (or a NO) whether the score is greater than a certain threshold.
 
 
-# TODO
+# Install instruction (pip)
 
-installer fr_core_news_sm spacy
+## Repo installation
+```bash
+pip install git+https://github.com/SambaHFall/EtudeFrInclusif.git
+```
 
-# Exemple de code
+## spaCy models downloading
+```bash
+python3 -m spacy download fr_core_news_sm
+python3 -m spacy download fr_dep_news_trf
+```
+
+
+# Script for testing
 ```python
-import ....
 
-model = supermodel()
+from etude_fr_inclusif.super_model import SuperAnnModel
+from etude_fr_inclusif.adv_rule_based import AdvRBModel
+from etude_fr_inclusif.inclure import InclureModel
 
-print(model.predict( ["Ceci est un(e) test de qualité(s) supérieur(e)s pour les auteurs et autrices de ce texte"] ))
+model = SuperAnnModel([AdvRBModel(), InclureModel()], tol=0.8)
+
+text = "Je vous souhaite à toutes les infirmières et tous les infirmiers, les étudiants sont là, l'écrivaine aussi."
+
+print(model.predict(text))
 
 ```
