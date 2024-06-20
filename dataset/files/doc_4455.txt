@@ -1,0 +1,131 @@
+Comme je le dis souvent : “un système qui ne plante pas, n’est pas intéressant“. En général, je dis ça quand mon ordinateur est en forme. Lorsque je formate, je suis un peu moins catégorique !
+Mais heureusement, il y aura encore des écrans bleus de la mort dans le nouveau système d’exploitation de Microsoft. Cet écran bleu, c’est un peu le summum de la vérole puisqu’en général, son contenu est incompréhensible et ne donne que peu d’indications sur la panne en question. On sait juste que l’on va bientôt formater quoi.
+Ce plantage a été réalisé avec la version bêta de Windows 7. J’espère qu’ils ne vont pas les modifier ou même… changer de couleur ! C’est un peu la marque de fabrique des systèmes Windows.
+Source et image : gizmodo.com.
+Billets sur le même thème :
+Windows 7 bêta 1 disponible
+Non, Vista n’est pas mort
+Le nouveau Windows 7 (pré béta) sur un EEEPC 901
+Windows XP SP3 pour le 29 avril
+Windows XP SP3 retardé à cause d’un bug
+Commentaires (23)
+Trackbacks (0)
+Ecrire un commentaire Trackback
+#1 | Ecrit par boby il y a 13 années. Répondre	
+il faudrait surtout que tu saches lire l’anglais
+et on ne formate pas parce que on a des "écrans bleus" :-)))
+#2 | Ecrit par Bob il y a 13 années. Répondre	
+Pour l’anglais, je me débrouille asse bien merci, c’est gentil de t’en inquiéter…
+Pour cette photo, je ne me suis pas intéressé au texte puisqu’en général, on ne fait pas du copier/coller d’infos sur ce blog mais on essaie d’apporter un peu plus, notamment un peu d’expérience personnelle.
+Et, personnellement, 80% des fois où je tombe sur un écran bleu avec un ordi à réparer, je dois le formater, une fois que j’ai trouvé d’où vient la panne (coup de chauffe, problème avec un périphérique, plantage profond de Windows…).
+Bref, MOI je dis : écran bleu = formatage le plus souvent ! On arrive parfois à réparer, le temps de faire quelques sauvegardes mais c’est rare que l’on ne formate pas par la suite ! ;-)
+#3 | Ecrit par ab41 il y a 13 années. Répondre	
+Bonjour, les nouvelles versions de windows plante encore et bien! ils ne sont vraiment pas chier chez microsoft, je ne suis pas près d’hacheter une version sur un produit q’uil ne marche pas.
+#4 | Ecrit par Tatam il y a 13 années. Répondre	
+L’écran bleu est très certainement le meilleur choix de Microsoft, on y voit le numéro d’erreur, et sa banque de données sur le Web est détaillé.
+Sur Linux, parfois, la machine s’arrête sans numéro d’erreurs, et explications… Personne n’en fait un fromage.
+Un ordinateur, qui ne plante pas, connais pas.
+PS: Si à chaque écran bleu tu formates, tu dois avoir un joli soucis.
+#5 | Ecrit par Bob il y a 13 années. Répondre	
+Pas vraiment : je n’ai jamais d’écrans bleus ! ;-)
+Sur ma machine en tout cas…
+#6 | Ecrit par ab41 il y a 13 années. Répondre	
+Un ordinateur qui ne plante pas moi je connais, le mien.
+#7 | Ecrit par manlover93 il y a 12 années. Répondre	
+que dois je faire moi j’ai le meme ecranc bleu qui apparait sous windows 7 et il me le fait assez souvent alros c’est relativement penible . que doisje faire ????
+#8 | Ecrit par Klotian il y a 12 années. Répondre	
+Un écran bleu c’est 50/50 soit un problème hardware (et là à part changer la pièce…), soit un problème software, et dans ce dernier cas, c’est souvent un logiciel de démarrage ou un driver qui pose problème.
+Je suis technicien dans une cellule d’expertise informatique où on fait de la prise en main à distance sur les machines des clients. Très souvent, avec un écran bleu, on reformate pas. On démarre juste en Mode sans Echec, on vérifie les logiciels de démarrage, les services qui se démarrent avec windows, etc. On fait du trie, on nettoie ce qui est nettoyable… et assez souvent, faut bien avouer, on peut trouver le problème et le mettre au placard.
+À noter que l’écran bleu n’est pas obligatoire sous Windows… Il correspond en fait à un reboot intempestif de la machine… Sauf que si vous avez un écran bleu c’est que la clé de registre PowerShutDown est activé, et c’est très bien, car un reboot intempestif répété sans savoir d’où vient le soucis c’est rageant.
+De plus, pour avoir fait l’essai, un peu de patience, un bon recopiage de l’erreur en question, un Copier/Coller dans Google… et vous aurez la chance de trouver un panel complet de possibilités à tester pour résoudre le soucis… En commençant par le software et en se rabattant ensuite sur le hardware.
+Dernier exemple en date. Un PC tout neuf que je viens d’acheter. Reboot intempestifs dès le premier jour… J’active la PowerShutDown, je me tape un écran bleu. Pas de logiciels ou pilotes néfastes (PC a peine installé), j’ai vérifié les pilotes ACPI (voir si la gestion de l’alim’ était en cause), puis vérifier les pièces une à une en débranchant des périph. de la carte mère. Test des barettes avec un CD de Boot type RamTestBoot, aucun prob.
+Topo, je me suis juste rendu compte que j’avais collé des barrettes DDR2 de 800 MHz sur ma carte mère alors qu’elle ne pouvait prendre que des 667 MHz.
+Dans cet exemple donc… pas eu besoin de reformater, juste de chercher un peu
+À noter pour finir que le Panneau de Configuration Windows propose un journal des erreurs, et que si vous le consulter suite à un plantage, il est très probable que le processus ou l’application en cause (si c’est du software) apparaisse avec un joli rapport vous expliquant quand, pourquoi et comment cette application a planté.
+Bref, Windows c’est pas toujours franchement simple, mais c’est quand même pas de la merde. Microsoft subit juste les effets du monopole, qui rend la critique des consommateurs plus acerbe. Windows XP est très bon, Vista on repassera… SE7EN s’annonce quand à lui comme une belle réussite de Microsoft…
+#9 | Ecrit par louloute il y a 12 années. Répondre	
+mon loulou, insulter les autres os en faisant gober que windows est une belle réussite, dis moi quand, comment et pourquoi windows plante!!!
+PS : pour éviter les écrans bleus, Ouvrez la console OS de Windows et tapez ChuckNorris. Bravo LOL
+#10 | Ecrit par fenixdeamiens il y a 12 années. Répondre	
+a titre personnel vista été trés bien le seul souci c’est que les gent fond trop de cafouillage sur leur pc je dit que quand on ne ses pas on ne touche pas et aussi de toujours veillez a étre a jour avec tous les pilotes généralement ecran bleu egale a probleme de compatibilité ou aussi pc mal éteint ou de mauvaise manipulation voila je repare constament des pc jamais j’ai formater un pc pour l’ecran bleu premiere fois j’entend sa si le probleme vient reellement de windows avec le cd de windows on peut reparer donc c’est toujours reparable
+#11 | Ecrit par Zorro il y a 12 années. Répondre	
+@ fenixdeamiens
+Si ton ordi est si en forme que ça, tu dois donc bien avoir un peu de temps pour bosser ton français parce que là, c’est vraiment pénible de te déchiffrer :-/ .
+#12 | Ecrit par fenixdeamiens il y a 11 années. Répondre	
+eric je suis pas un pros de l’orthographe mais c’est pas parce que on fait des faute d’orthographe que l’on c’est ce qu’on dit j’ai voulu dire meme si personnellement j’ai pas trouvé illisible mon commentaire voila je continu genarelemnt l’ecran bleu survient du a soit : -compatibilité de pilote
+-sois un mauvais phériphérique (endomagé incompatibletrop vieux par rapport au systeme d’exploitation)
+-ou des cafouiallage
+etc
+la meilleur reponse est la personne qui expliquer comme quoi il fallais relever le code et le nom de l’erreur est la meilleur solution.
+quand je repare des ordinateur 8/10 et du a des connerie que les gents on fait lors de mauvaise manipulation
+donc eric au lieu de critiquer mais tout le monde na pas un gros niveau d’étude qui n’empéche pas d’avoir des connaissance
+j’aime pas trop la critique par des personne qui aime rabaisser les gents
+#13 | Ecrit par mostwanted il y a 12 années. Répondre	
+:-C ne dis pas n’importe quoi, la derniere fois que j’ai eu un ecran bleu c’etait sur windows 98
+de plus l’ecran bleu en question est du à un conflit peripherique (barette memoire incompatible par exemple) ou à un conflit logiciel (version incompatible avec la version du systeme d’exploitation)
+#14 | Ecrit par Bob il y a 12 années. Répondre	
+@ mostwanted
+Mais à qui parles-tu ? :-/
+#15 | Ecrit par xhamadax il y a 12 années. Répondre	
+moi aussi j’avais le même probléme de l’écran bleu. et grâce au "F8" au démarrage et l’option "démarrer avec la dernière bonne configuration"
+mon pc fonctionne bien comme avant et sans afficher l’écran bleu :-) ;-)
+#16 | Ecrit par Pierre de Valleiry il y a 12 années. Répondre	
+Bonjour,
+Depuis que j’ai installé seven, j’ai l’écran bleu très souvent, et d’une manière aléatoire. Le problème est que je n’ai jamais le temps de sauvegarder mon travail et c’est très chiant.
+Mon PC plante alors que je travaille sur photoshop, que je joue sur WOW, ou que je suis en train de créer mes pages HTML pour mes sites.
+J’en suis réduit à me rabattre sur une vieille machine qui rame un peu sous XP mais qui ne me cause pas trop de soucis.
+Plutôt que vous invectiver sur les forums, essayez de trouver une solution rationnelle!!
+Bonne continuation à tous…et toutes.
+Pierre :-/
+#17 | Ecrit par Niederhauser il y a 12 années. Répondre	
+Bonjour.
+Depuis l’installation de Seven, les écrans bleus se multiplient aléatoirement: dès le démarrage, en veille, en plein boulot, lorsque mon téléphone par internet sonne…. n’importe quand!!!
+J’ai demandé l’aide des services techniques de Microsoft. Ils ont épluché mon PC et rien trouvé d’anormal. La config est bonne, les pilotes sont à jour, la mémoire ne présente aucun défaut… Tout a été testé, j’ai formaté et réinstallé Seven sans succès!
+Je vais encore essayer autre chose: installer une résistance de 400 KΩ sur le câble de terre de l’alimentation et séparer les câbles de puissance des câbles de transport de donnée (Merci monsieur faraday!).
+Dernier espoir avant un retour sur XP.
+Si vous avez autre chose à suggérer, je suis preneur!
+Bonne chance avec Seven!!! LOL
+#18 | Ecrit par ODS il y a 12 années. Répondre	
+moi, je ne m’y connais pas. mon PC plante depuis 7jours et depuis hier, l’écran bleu. je ne sais quoi faire. J’ai un Toshiba satellite L 300 avec Windows 7. J’ai franchement besoin d’aide car toutes mes données sont vraiment menacées.
+#19 | Ecrit par quentinf33 il y a 11 années. Répondre	
+ODS,
+Donne moi le code d’erreur du BSoD (Écran Bleu) STP. Il est du type 0x00000000.
+Par exemple, moi, j’ai un BSoD qui s’affiche, dont le code d’erreur est 0x000000E2 et qui a pour nom MANUALLY_INITIATED_CRASH.
+Si nous traduisons le nom de ce BSOD, il indique que vous avez fait crasher le système intentionnellement… vous savez donc de quoi cela vient. Ce qui veut dire que je peux en déclencher un moi-même si j’ai envie, sans danger pour le PC puisqu’il s’agit d’une combinaison de touches dans le but de tester si le PC ne s’arrête pas subitement suite à un Crash, mais passe par un BSoD, puis l’éteint ensuite.
+Je n’ai eu qu’un BSoD sous Windows 7, le driver de ma carte vidéo ATI Radeon HD2400 n’étant pas compatible, mais le problème a vite été réglé.
+Donc regarde bien le code d’erreur (0x00000000) et le nom si possible (LE_NOM_DU_CRASH) et je te dirai simplement de quoi il s’agit.
+A+ :-)
+#20 | Ecrit par mickael il y a 10 années. Répondre	
+je vient de me tapper cet ecran bleu en regardant une video sur youtube. jlance la video tout plante en me disant pilote fatal. jrelance youtube pour revoir la video et la bam encran dla mort . bon pour un formatage
+#21 | Ecrit par Bob il y a 10 années. Répondre	
+Hum, j’espère qu’un simple formatage suffira…
+#22 | Ecrit par terence il y a 10 années. Répondre	
+slt moi aussi je viens d’avoir cet écran bleu depuis deux semaine et j’ai vu quelqu’un il me dit de changer le disque dure montrer moi la solution avnt que je fasse des dépenses qui ne servent à rien!svp
+#23 | Ecrit par Bob il y a 10 années. Répondre	
+@ terence
+Il faut beaucoup plus d’infos pour pouvoir te répondre .
+No trackbacks yet.
+Déposer un commentaire
+Annuler la réponse
+Nom * :
+Email * (non publié) :
+Site web :
+S'abonner aux commentaires
+Laisser un commentaire
+Recevoir une notification de réponse à votre commentaire.
+Article précédent	Article suivant
+Billets populaires
+Pirater un réseau Wifi sécurisé par une clé WEP en moins de 5 minutes
+Illusion d’optique
+Deux moyens gratuits pour contourner HADOPI
+Télécharger des milliers de polices d’écriture gratuites
+Réparer une carte graphique en la mettant au four
+Akinator, le génie du Web qui peut lire dans vos pensées
+Commentaires récents
+Patrick dans Télécharger des milliers de polices d’écriture gratuites
+Chloé dans Télécharger des milliers de polices d’écriture gratuites
+Dany dans Cracker la protection d’un classeur ou d’une feuille Excel
+digital dans Et le gagnant de la voiture télécommandée est…
+aménagement paysager dans Télécharger des milliers de polices d’écriture gratuites
+Archives
+Archives Sélectionner un mois juin 2016 (2) août 2014 (1) juillet 2014 (6) juin 2014 (7) mai 2014 (9) avril 2014 (10) mars 2014 (15) février 2014 (11) janvier 2014 (13) décembre 2013 (13) novembre 2013 (12) octobre 2013 (14) septembre 2013 (12) août 2013 (14) juillet 2013 (14) juin 2013 (19) mai 2013 (23) avril 2013 (27) mars 2013 (25) février 2013 (23) janvier 2013 (29) décembre 2012 (26) novembre 2012 (25) octobre 2012 (44) septembre 2012 (38) août 2012 (23) juillet 2012 (26) juin 2012 (27) mai 2012 (40) avril 2012 (42) mars 2012 (38) février 2012 (41) janvier 2012 (46) décembre 2011 (44) novembre 2011 (43) octobre 2011 (44) septembre 2011 (46) août 2011 (41) juillet 2011 (48) juin 2011 (50) mai 2011 (63) avril 2011 (52) mars 2011 (49) février 2011 (44) janvier 2011 (49) décembre 2010 (47) novembre 2010 (45) octobre 2010 (48) septembre 2010 (49) août 2010 (34) juillet 2010 (43) juin 2010 (46) mai 2010 (47) avril 2010 (46) mars 2010 (51) février 2010 (38) janvier 2010 (46) décembre 2009 (42) novembre 2009 (41) octobre 2009 (45) septembre 2009 (41) août 2009 (26) juillet 2009 (34) juin 2009 (48) mai 2009 (56) avril 2009 (47) mars 2009 (58) février 2009 (54) janvier 2009 (59) décembre 2008 (62) novembre 2008 (60) octobre 2008 (63) septembre 2008 (60) août 2008 (39) juillet 2008 (47) juin 2008 (61) mai 2008 (61) avril 2008 (61) mars 2008 (66) février 2008 (60) janvier 2008 (72) décembre 2007 (45) novembre 2007 (44) octobre 2007 (34) septembre 2007 (22)

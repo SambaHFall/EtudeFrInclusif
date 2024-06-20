@@ -1,0 +1,113 @@
+5 conseils pour déplacer votre blog WordPress vers une nouvelle adresse sans impacter le référencement
+Agence : Home / Référencement / 5 conseils pour déplacer votre blog WordPress vers une nouvelle adresse sans impacter le référencement
+On pense à tort qu’il n’est pas envisageable de migrer son site web ou son blog vers un autre hébergeur depuis WordPress. D’aucuns font appel à un professionnel. Mais peu importe votre solution, c’est quelque chose que vous pouvez faire vous-même si vous suivez nos conseils en la matière.
+1- Nettoyer les erreurs 404 ainsi que les images manquantes
+Lors d’une migration de site ou de blog, plusieurs complications peuvent subvenir. Parmi elles, il y a la rupture de lien ou la fameuse Erreur 404 qui dirigent vers des pages inexistantes. Nous allons donc vous donner quelques astuces qui vous permettront de ne pas perdre votre référencement lors de la migration de votre plateforme.
+Il est ici conseillé de faire usage d’un vérificateur de lien brisé. Sur WordPress par exemple vous pourrez user du Plugin Broken Link Checker. Un tel outil vous permettra de procéder à une analyse complète de votre site. Cette solution est payante, par contre si vous cherchez une autre gratuite, alors vous pourrez faire usage de Atomeso.
+Notez que cette procédure vous évitera d’avoir à perdre en référencement. Par ailleurs, vous devez aussi vous demander si vous envisagez de migrer les pages peu performantes ou pas, lors de votre changement d’hébergemennt. A ce propos, le conseil qu’on peut donner, c’est de tenir compte de la taille des articles.
+Si le contenu d’une page n’excède pas 500 mots, il est possible de s’en débarrasser aisément. En effet, aujourd’hui, les contenus les mieux optimisés sur Google sont d’un minimum de 1000 mots. Mais de façon un peu plus précise, vous allez vous rendre sur l’historique de votre compte Google Analytics.
+Vous irez dans « Acquisition », ensuite dans « Canaux », puis dans « Page de destination ». L’historique à prendre en compte doit couvrir une très grande durée, un à deux ans. Les pages qui ne se trouvent pas dans cette option peuvent ne pas être migrées.
+2- Importer les redirections 301
+Si vous ne comprenez pas cette terminologie, cela signifie en fait que les anciens liens nécessitent d’être redirigés vers les nouveaux. Autrement dit, il s’agit de faire en sorte que les chemins qui mènent vers vos contenus, et qui étaient déjà connus de vos internautes ne soient pas modifiés.
+Cette étape nécessite que vous vous connectiez à votre éditeur Htaccess. Pour procéder, vous pouvez vous inspirer de différents tutoriels disponibles sur le web. Cependant, ce n’est pas une opération à faire au pif, il est important de mener des réflexions.
+Par ailleurs, il est conseillé de veiller à ce que les moteurs de recherche n’indexent pas le nouveau site avant de procéder à un déplacement de contenu. La conséquence en procédant inversement, c’est que Google va indexer des liens sans contenu, ce qui va grandement nuire à votre stratégie SEO.
+Pour bloquer les moteurs de recherche, il vous suffit d’inclure une balise Noindex dans les metas HTML de vos pages. Ainsi, Dès que les robots de Google la verront, ils procèderont à une suppression de la page de leur base de données.
+Le processus reste aussi valable pour ce qui est de vos backlinks. Vous pouvez user d’un outil comme WebMeUp pour vérifier si vos liens sont toujours fiables.
+3- Vérifier les balises
+Il est important pour conserver votre niveau de référencement naturel, de migrer vos balises. Il s’agit des balises de méta titres ainsi que vos méta descriptions. Il est aussi important d’avoir un SiteMap. Cela vous permettra de procéder à une exploration des pages de votre nouveau site.
+Il faudra aussi veiller à ce que les balises méta et les titres H1 et H2 ne soient pas doubles. Vous pouvez utiliser Screaming Frog pour procéder à cette vérification. Cette procédure sera entérinée par un audit SEO afin de vérifier que le temps de téléchargement (en dessous de 600 ms) est le bon et qu’il n’y a pas de bloquants sur les pages.
+Pour ainsi dire, il faudra que tous les voyants soient au vert. Par la suite il faudra soumettre cela à Google pour avancer le processus d’indexation par les Googlebots. Mais pour que ce résultat soit vraiment atteint, vous devez garder un œil constant sur votre stratégie SEO.
+Veillez donc à la qualité du contenu que vous mettez en ligne. Afin d’affiner ces résultats, ne manquez pas de faire usage de plugin SEO.
+4- S’assurer que les outils d’analyse sont installés
+Vous changez d’adresse, alors cette étape est très importante pour vous. Par contre, si vous avez juste procédé à une refonte de site, cette étape ne sera pas indispensable. D’un autre côté, vous devez faire attention à ceci : quand vous migrer en changeant HTTP par HTTPS, Google considère cela comme un nouveau nom de domaine.
+En tout état de cause, vous devez comprendre qu’il n’est pas du tout aisé de procéder à une migration de site et réussir à conserver son référencement lorsque le nom de domaine change. Cela dit, si c’est le cas, il reste possible de minimiser les dégâts.
+Vous allez devoir configurer la console de recherche de Google sur l’ancienne version de votre plateforme web. Ensuite, vous allez vous rendre dans l’option « Changement d’adresse ». Cela revient à faire un changement de domaine. Mieux, c’est un transfert de « force de référencement » sur votre nouvelle interface web.
+5- Lancer proprement l’indexation
+La mise en ligne se fera à partir de ce moment. Vous devez donc user de la console de recherche de Google. Vous aurez donc à cliquer sur « Explorer », puis sur « récupérer en tant que Google ». L’opération doit être effectuée par la console de recherche Google, non pas par un smartphone.
+Vous cliquerez ensuite sur « Demande d’Indexation » pour lancer le processus. Mais le point le plus important ici, c’est d’avoir pris le soin de réaliser avec succès tout ce qui a été dit plus haut. Lancer l’indexation au mauvais moment portera négativement atteinte à votre référencement. Ainsi, toutes vos pages seront indexées et enregistrées dans la base de données de Google.
+0.00/5 (0%) avec 0 votes
+Vous pourriez aimer lire ...
+AMP? la version hyper rapide des sites Web
+DMARC, la sécurité de vos messageries
+About Kristof Maret
+Expert SEO, chef de projet de l'agence depuis 2010. Son approche est pédagogique, elle tente d'impliquer le client afin qu'il devienne autonome dans son référencement Web. Partage de l'information, collaboration, ce blogue apporte du concret, participez-y sans modération.
+Derniers articles
+DMARC, la sécurité de vos messageries
+5 conseils pour déplacer votre blog WordPress vers une nouvelle adresse sans impacter le référencement
+AMP? la version hyper rapide des sites Web
+Comment trouver un bon rédacteur SEO ?
+Utiliser l’Intelligence Artificielle en référencement Web
+Les articles par catégories
+Actualité SEO, le référencement Google
+Adwords
+Backlinking
+Bases de référencement Web
+cas-concrets
+Rédacteur web
+Référencement
+WordPress
+Publiez votre promo sur rédaction article ou promotion des metiers et faites-vous 2 backlinks pointants sur les pages que vous voulez sur les ancres de votre choix.
+Témoignages clients
+Tous les témoignages clients référencement-PME
+J’ai suivi la formation en rédaction optimisée pour les moteurs de recherche proposée par Référencement PME afin que les articles de ma plateforme Web ( Isarta) soient mieux référencés. Il s’agissait pour moi d’intégrer des éléments nouveaux, et Kristof a su faire preuve de clarté et de d’une pédagogie suffisante pour me rendre ces notions accessibles et compréhensibles.
+J’ai particulièrement apprécié le fait que la formation ait été réalisée sur la base d’un de mes textes: cette personnalisation m’a permis de comprendre bien plus facilement sur quels points je devais travailler.
+Je suis très satisfaite de cette formation, que je recommande. Aurore Le Bourdon Isarta.com
+Je peux affirmer que Kristof Maret de référencement PME livre des résultats et des positions qui convertissent.
+Notre école en ligne offre des formations sur la bourse. Le site présente plusieurs centaines de pages, mais il avait de la difficulté à se positionner sur les mots clé les plus compétitifs de l’industrie. Nous avons 20 ans d’expérience en programmation et possédons des bases en SEO, mais le expressions-clés principales demeuraient en bas de la 2e page de Google.
+Après seulement 3 mois de suivi, de conseils, de coaching et une formation en référencement le site se positionne en top 4, ce qui est admirable pour un mot clé aussi compétitif.
+Je peux confirmer qu’aucune technique discutable n’est utilisée. J’ai particulièrement apprécié sa vision sur la structure de site et sur le développement des champs lexicaux.
+Mario Lamoureux, bourse 101
+Le formateur de référencement PME m’a donné une formation en rédaction web optimisée SEO. Je suis rédactrice professionnelle et j’avais besoin d’approfondir certaines notions de référencement.
+La formation était dynamique et axée sur mes besoins réels. La grande force de ce formateur réside dans sa capacité à saisir rapidement le niveau de connaissances déjà acquises et d’ajuster l’enseignement en conséquence. Il m’a expliqué les principes de base de la rédaction web et du référencement dans un langage clair, tout en prenant le temps de répondre à mes nombreuses questions.
+Très professionnel et fort sympathique, il déborde de connaissances et les partage avec une passion évidente. J’ai appris beaucoup de trucs essentiels à mon travail, et ce, en peu de temps.
+Je le recommande sans hésitation aucune, pour ses grandes connaissances en référencement et en rédaction web, évidemment, mais aussi pour ses qualités de formateur.
+Avryl Gosselin : Rédactrice
+Référencement PME m’accompagne depuis l’été 2013. Embauché d’abord comme consultant SEO pour le nouveau site web de Accès Services Santé et puis comme formateur. Les formations m’ont permis d’acquérir une grande autonomie dans la rédaction web, l’optimisation onpage et la gestion de campagnes Adwords. Moi qui n’y connaissais à peu près rien, jamais je ne me serais imaginé devenir aussi mordue du référencement. Excellent pédagogue, Kristof m’a partagé sa passion avec générosité et ingéniosité. Son expertise est impressionnante! Ginette St-Onge, Responsable des communications – Accès Services Santé (http://acces-services-sante.ca/)
+Il a été décidé de faire appel à un consultant SEO pour l’optimisation de la nouvelle version du site web de l’entreprise. Le consulatnt assigné à notre dossier connaît très bien son sujet et agit de façon très méthodique dans la réalisation des stratégies d’acquisition de trafic. Je recommande Référencement PME à toute entreprise qui veut profiter au maximum du potentiel du référencement.
+Guillaume Journel, PDG – Accès Services Santé, emploi et placement d’infirmières
+Je nourris une passion pour la technologie et pour la construction de sites web depuis de longues années. Quand j’ai pris conscience de l’importance du SEO. J’ai compris tous les lectures que j’avais appliquées jusqu’alors étaient obsolètes.
+Référencement PME propose des formations qui ne trichent pas, ne retiennent pas l’info, et sont toujours au top de l’évolution de sa discipline. La transmissions des connaissances est claire et sans ambiguïté.
+J’ai suivi les 3 cycles de formations / architecture et configuration SEO, rédaction orientée moteur de recherche et backlinking éthique…
+Je continue désormais à faire mes sites seul… mais selon les préceptes enseignés par ce gentil consultant.
+Réjean Lessard Exterminateur à Montréal
+Quand j’ai décidé de créer mon agence de wedding planner, je savais qu’un site bien référencé était une des clefs du succès. J’ai lu beaucoup de livres mais au final le SEO s’est avéré tellement compliqué et évolutif que je me suis vite sentie incapable d’avancer toute seule.
+Ce que j’ai tout de suite apprécié chez Kristof, c’est son côté pédagogue. Il m’a livré beaucoup d’informations indispensables pour corriger les erreurs que j’avais commises à mon insu. Il a pris en charge ma campagne Google Adwords, l’optimisation de certaines pages de mon site ainsi que les backlinks. Le résultats se sont montrés à peine quelques semaines plus tard. Perfectionniste et très réactif, Kristof a toujours fait le maximum pour moi même si mon budget n’était pas très élevé. C’est pour toutes ces raisons que je le recommanderai à toute personne exigeante. Kristof, merci pour votre professionnalisme et votre patience !!
+Lucie Jacksova, Wedding planner Paris de www.perlesdemotions.com/
+Se lancer dans l’aventure des sites de rencontre n’est pas chose simple tant il existe de sites.
+Et même si notre site montrealcupidon.com se démarque pas sa qualité, son authenticité et sur la recherche amoureuse, il était impératif de se faire connaître.
+En moins d’un mois, Kristof a propulsé notre site en top 3 de Google, en ajoutant en plus des conseils pratiques.
+Langage clair, concis, et très professionnel.
+Merci Kristof d’avoir pris à cœur ce mandat réalisé de main de maître! Cédric Lassergue « rencontrer célibataire » avec montrealcupidon.com/
+Merci Kristof pour ce travail rapide et efficace, tu nous as positionné sur la première page des résultats de recherche Google en quelques jours dans les 5 premières positions! et aujourd hui top 3
+Jean Christophe Doublet spécialiste au Québec de la cle USB pour entreprise. | cleusbmontreal.ca
+Mr Maret a bien compris que je n’y connaissais rien en web! Après avoir fait la refonte de mon site sous wordpress il a, avec patience et des explications claires, assuré la base de SEO que tout administrateur de site devait posséder.
+Champion ! René Gélinas, |Exterminateuramontreal.ca
+De plus en plus d’appels provenant des visites sur notre site web ! Ton apport est incroyable. Ta stratégie de contenu de qualité porte ses fruits plus rapidement que tu ne le laissais entendre. Tes conseils ont fait de notre site une référence professionnelle. Positionné top 1 sur « calfeutrage » et multiprésence sur « calfeutrage Laval » sans compter notre longue tail riche de 4543 expressions clés Merci.
+Christian Barbe Calfeutrage-elite.com
+Je dois vous avouer que dans un premier temps on n’avait pas compris ce que signifiait le fait « qu’avec les textes optimisés vous nous livriez les balises et l’extrait ».
+C’est notre webmaster qui, lorsqu il les a reçus est tombé à la renverse! Woah tous les signaux SEO, liens internes et externes étaient là clairement faits. Nos pages ont franchement changé d’allure. Bravo Gabriel Joly, Credit auto de www.creditapprouve.ca
+Dans le contexte actuel où beaucoup d’usagers font appel aux moteurs de recherche comme Google pour trouver un cabinet comptable avec lequel transiger, SLS Solution comptable trouvait important d’engager un professionnel spécialisé et expérimenté dans l’optimisation SEO de ses textes
+Nous avons été très impressionné par le degré de professionnalisme, d’écoute, la qualité du texte et la variété du vocabulaire utilisé, par Kristof Maret, dans sa rédaction des textes de notre site web qui fait peau neuve.
+Merci Kristof pour ton excellent travail. En espérant développer d’autres projets ensemble dans un avenir proche Solution comptable
+Monsieur Kristof notre équipe de Couture & Boulet Avocats tenait à vous exprimer notre gratitude face au professionnalisme que vous avez démontré au printemps 2011 pour la rédaction de nos textes juridiquesde puis depuis avril 2012 pour le backlinking du site. . Votre capacité SEO et votre style d’écriture nous ont vite fait comprendre que nous étions en présence d’un vrai professionnel du web et votre souci du détail nous a été très profitable. Merci pour votre temps et vos prix accessibles. Grâce à vous, nous avons décuplé notre trafic ( nous sommes passés de 1000 à 12000 visites / mois). Continuez à être aussi positif ! Salutations. Maître Julie Couture | coutureboulet.com
+J’ai fait faire mon 1er site par une firme soit disant compétente et j’ai payé un supplément pour le référencement… après 18 mois il ne sortait toujours pas sur mes requêtes.
+Un ami m’a fortement recommandé Kristof, celui-ci m’a bien expliqué le fonctionnement de Google et a mis en évidence les raisons de l’invisibilité du site.
+Il a repris mon design auquel je tenais, et fait une refonte de techno accompagné d’un travail d’optimisation remarquable. Voila qu’en deux mois le nouveau site est 2em sur ma requête fétiche et top 3 sur les requêtes spécialisées.
+Attention! Kristof est très exigeant avec lui-même et… avec ses clients, mais j’ai adoré travailler avec lui et je n’hésite pas à le recommander.
+Ne lâche pas mon ami. Eugène Goyette : sablage de plancher résidentiel et installation plancher de gymnase.
+Mon site se positionnait bien mais mes textes n’accrochaient pas vraiment les internautes. Je l’avoue sans peine, je n’ai jamais aimé écrire et mes pages étaient… minimalistes. Un ami m’a recommandé les qualités de rédacteur web de Kristof Maret.
+– Il s’est immédiatement adapté à mon secteur d’activité
+– M’a appris ce qu’est l’ergonomie d’un site web
+– A de bonnes recommandations marketing et
+– Il est pro-actif.
+Yanick Beauregard exterminateur à Québec abatextermination.ca/
+Conférence formation à la SADC d’Acton Vale
+Conférence à la chambre du commerce française de Montréal
+;
+À l’origine du blogue
+Du sport de haut niveau, à l’himalayisme en passant par le voyage au long cours, le fondateur de ce blogue a toujours été un homme de défi.
+Tombé dans le web en 97 il a transformé cette chute dans l’apesanteur de l’internet et les mystères algorithmiques googlliens en euphorie permanente au service des ambitieux de la toile.
+Les buts du portail
+Ce portail est dédié au Webmaketing, l’art de faire connaître une entreprise, une activité pour en améliorer significativement sa visibilité et ses ventes.
+Lancé en 2010, le site affiche des positions (et donc un trafic) qui affirment la crédibilité de son contenu et apportent une information de qualité dénuée de buts mercantiles.
+L’équipe qui gère les contenus de ce blogue travaille en symbiose, avec une obsession : la meilleure information possible au bénéfice de la hausse de trafic ciblé et la conversion de vos visiteurs en clients.

@@ -1,0 +1,171 @@
+De nombreux êtres vivants, comme certaines bactéries, certains protozoaires et les spermatozoïdes sont équipés de flagelles qui leur permettent de nager dans des fluides naturels. En déformant les flagelles, ces organismes créent une force qui les propulse. Des chercheurs de l’University of Illinois et de l’Arizona State University aux Etats-Unis, ont réussi à construire dans un matériau synthétique des minuscules pastilles à propulsion flagellaire. Leur caractéristique unique est de pouvoir se propulser dans un fluide biologique indépendamment de toute action extérieure, champ magnétique ou autre. On peut les charger de certaines substances que l’on veut distribuer dans les organismes vivants. On peut donc les dénommer micro-transporteurs ou micro-cargos.
+Fig.1. Schéma d’un micro-cargo auto propulsé réalisé
+en PDMS (polydiméthylsiloxane). La flèche indique la direction du
+déplacement. Dans l’insert en haut, à droite, on voit une micrographie
+de l’objet. Crédit Taher Saif.
+Nous avons choisi la dénomination micro-cargos un peu différente de l’original anglais « bio- bots », association du préfixe bio et d’une abréviation du mot robot.
+Ces petites structures synthétiques ont été réalisées en PDMS (polydiméthylsiloxane), polymère siliconé bien supporté par les organismes vivants.
+Sur la figure 1, on peut voir un schéma d’un de ces dispositifs. La « tête », figurée en vert, mesure 500 micromètres de long, 57 µm de large et 27 µm d’épaisseur. La flagelle a 1500 µm de long, une largeur de 7 µm et une épaisseur de 27 µm. La figure 2 donne une comparaison avec la taille des spermatozoïdes.
+Fig.2. (a) Spermatozoïde nageant grâce à l’ondulation de sa flagelle.
+(b) Micro-cargo avec une tête rigide, une flagelle flexible et un petit amas de cellules contractiles générant une force qui fait osciller la flagelle. Crédit Nature communications.
+Des molécules de fibronectine sont déposées dans la région jonction entre la flagelle et la tête.
+La fibronectine est une glycoprotéine ( molécule constituée de protéines et de glucides) qui joue un rôle dans l’adhésion des cellules à la matrice extracellulaire, qui désigne l’ensemble des macromolécules du tissu conjonctif et des autres tissus.
+Elles ont pour rôle de permettre la fixation de cardiomyocytes, cellules contractiles du muscle cardiaque que l’on cultive facilement à partir d’animaux de laboratoire. Ce sont les contractions (battements) de ces cardiomyocites, qui mettent en mouvement la flagelle, ce qui entraîne un mouvement vers l’avant du dispositif.
+La forme mince du filament limite l’accrochage des cardiomyocytes à ses faces latérales. Leurs contractions créent un couple d’axe perpendiculaire à la page.
+Ces mouvements d’objets de taille très petite ont lieu à des vitesses où les forces d’inertie sont négligeables devant les forces de viscosité.
+L’animation suivante représente le mouvement d’un micro-cargo ainsi que les étapes de sa fabrication conduisant à la fixation des cardiomyocytes dans la zone ad hoc.
+Les filaments sont capables de battre et donc de propulser les micro-cargos durant 3 à 4 jours. Les vitesses atteintes sont très faibles de l’ordre de 10 µm/s alors qu’un spermatozoïde de taureau avance à 97 µm/s. Cependant, les chercheurs ont fabriqué le même système avec deux flagelles. La vitesse est alors dix fois plus élevée.
+La vidéo ci-dessous montre le mouvement d’un micro-cargo dans un fluide biologique.
+L’équipe dirigée par Taher Saif qui a développé ces mini-cargos biologiques envisage d’en fabriquer qui seraient sensibles aux produits chimiques ou à la lumière et qui pourraient naviguer vers une cible médicale ou environnementale. On espère aussi charger ces structures de cellules souches qui pourraient se différencier et seraient capables de délivrer des médicaments. Elles pourraient aussi être associées à une chirurgie peu invasive ou encore cibler des cellules cancéreuses.
+Pour en savoir plus :
+A self-propelled biohybrid swimmer at low Reynolds number
+Brian J. Williams, Sandeep V. Anand, Jagannathan Rajagopalan & M. Taher A. Saif
+Nature communications 17 janvier 2014
+Tiny swimming bio-bots boldly go where no bot has swum before
+News Bureau | University of Illinois 17/01/2014
+Facebook
+Twitter
+email
+Print
+Pour écrire à l’auteur :
+Vous pouvez contacter l'auteur du "blog des sciences", Professeur et chercheur, membre de la F2S, par email : guthmann@lps.ens.fr
+D’un laser sans miroirs à certaines sources stellaires de lumière	Une explosion de supernova de type Ia détectée au début de 2014	
+Un partenariat Onisep-F2S
+Site dédié aux métiers et formations scientifiques et technologiques, « Ma voie scientifique » est né de la volonté commune de la Fédération française de Sociétés Scientifiques et de l’Onisep de montrer aux élèves, aux étudiants et à leurs parents, combien les métiers d’aujourd’hui et de demain relèvent, pour une large part, de la sphère des sciences et à quel point ils sont nombreux et divers.
+Flux RSS
+Pour vous abonner au blog des sciences via son fil RSS, cliquez ici
+Articles récents
+La rupture par torsion de ponts viscoélastiques
+D’où vient le son du champagne ?
+Faire croître du graphène sur du cuivre en fusion
+Des accumulateurs en béton!
+Imagerie 3D par des échos de réflexions multiples
+Archives
+octobre 2021
+septembre 2021
+août 2021
+juin 2021
+mai 2021
+avril 2021
+mars 2021
+février 2021
+janvier 2021
+décembre 2020
+novembre 2020
+octobre 2020
+août 2020
+juillet 2020
+juin 2020
+mai 2020
+avril 2020
+mars 2020
+février 2020
+janvier 2020
+décembre 2019
+novembre 2019
+octobre 2019
+septembre 2019
+août 2019
+juillet 2019
+juin 2019
+mai 2019
+avril 2019
+mars 2019
+février 2019
+janvier 2019
+décembre 2018
+novembre 2018
+octobre 2018
+septembre 2018
+août 2018
+juillet 2018
+juin 2018
+mai 2018
+avril 2018
+mars 2018
+février 2018
+janvier 2018
+décembre 2017
+novembre 2017
+octobre 2017
+septembre 2017
+août 2017
+juillet 2017
+juin 2017
+mai 2017
+avril 2017
+mars 2017
+février 2017
+janvier 2017
+décembre 2016
+novembre 2016
+octobre 2016
+septembre 2016
+août 2016
+juillet 2016
+juin 2016
+mai 2016
+avril 2016
+mars 2016
+février 2016
+janvier 2016
+décembre 2015
+novembre 2015
+octobre 2015
+septembre 2015
+août 2015
+juillet 2015
+juin 2015
+mai 2015
+avril 2015
+mars 2015
+février 2015
+janvier 2015
+décembre 2014
+novembre 2014
+octobre 2014
+septembre 2014
+août 2014
+juillet 2014
+juin 2014
+mai 2014
+avril 2014
+mars 2014
+février 2014
+janvier 2014
+décembre 2013
+novembre 2013
+octobre 2013
+septembre 2013
+août 2013
+juillet 2013
+juin 2013
+mai 2013
+avril 2013
+mars 2013
+février 2013
+janvier 2013
+décembre 2012
+novembre 2012
+octobre 2012
+septembre 2012
+août 2012
+juillet 2012
+juin 2012
+mai 2012
+avril 2012
+mars 2012
+février 2012
+janvier 2012
+décembre 2011
+novembre 2011
+octobre 2011
+septembre 2011
+juillet 2011
+juin 2011
+mai 2011
+avril 2011
+mars 2011
+février 2011
+janvier 2011
+© Onisep 2011/2017- Toute reproduction intégrale ou partielle de la présente publication est strictement interdite

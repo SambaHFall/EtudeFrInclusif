@@ -1,0 +1,117 @@
+CE Ass, 1er avril 2009, Communauté urbaine Bordeaux, Sté Kéolis, n° 323585 - Formation aux marchés publics : répondre /***** inservion GA suite MAJ theme le 120217 *****/ /* inservion GA suite MAJ theme le 120217 */
+Formation aux marchés publics : répondre
+Tel 01 84 16 39 83	
+Entreprises
+Formations PME : répondre aux appels d’offres
+J01 – Marchés publics pour les entreprises (1 jour)
+J02 – Répondre aux marchés publics (1 jour)
+J03 – Répondre aux appels d’offres publics par voie électronique (1 jour)
+J04 – Rédaction du mémoire technique (1 jour)
+Formation au DUME à distance
+Dates des formations pour répondre aux AO
+Assistance PME pour répondre
+Comment répondre a un appel d’offres public ou privé
+Acheteurs
+Formation aux marchés publics pour acheteurs publics
+Formation aux marchés publics d’informatique (acheteurs publics)
+AMO marchés publics d’informatique Assistance à Maîtrise d’Ouvrage
+Formulaires
+Marchés publics et code de la commande publique
+DUME Document unique de marché européen (ESPD) Chorus pro
+Formulaires – Déclaration du candidat : DC1 DC2 DC4
+=> DC1 – Lettre de candidature
+=> DC2 – Déclaration du candidat
+=> DC4 – Déclaration de sous-traitance
+Formulaires – Attribution des marchés (ATTRI )
+ATTRI1 – Acte d’engagement (ex-DC3)
+ATTRI2 – Signature de l’acte spécial
+Formulaires – Notification des marchés (NOTI)
+Formulaires – Ouverture des plis (OUV)
+Formulaires – Exécution des marchés (EXE)
+CCP
+CCAG
+CCAG-Travaux 2021 – Marchés publics de travaux
+CCAG-FCS 2021 – Marchés de fournitures et de services
+CCAG-PI – 2021 Marchés de prestations intellectuelles
+CCAG-TIC 2021 – Marchés de TIC (Informatique)
+CCAG-MI 2021 – Marchés industriels
+CCAG-MOE- 2021 Marchés de maîtrise d’œuvre
+Textes
+Textes relatifs aux marchés publics et à la commande publique
+Code de la commande publique (Sommaire)
+Textes relatifs à la commande publique (Principaux textes)
+Jurisprudence relative à la commande publique
+Code des marchés publics (Abrogé)
+Ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics (Sommaire, abrogée)
+DPGF Décomposition du Prix Global et Forfaitaire BPU DQE DCE CCAP
+BPU bordereau des prix unitaires DQE DPGF montant du marché
+DQE détail quantitatif estimatif ou devis estimatif ou simulation ou scénario
+DCE dossier de consultation des entreprises CCAP CCTP DPGF BPU DQE
+CCAP cahier des clauses administratives particulières
+CCTP cahier des clauses techniques particulières DCE CCAP DPGF BPU DQE
+BOAMP Bulletin officiel des annonces de marchés publics
+A propos
+Contact
+Menu
+CE Ass, 1er avril 2009, Communauté urbaine Bordeaux, Sté Kéolis, n° 323585
+Les dispositions des articles L. 1411-1 et R. 1411-1 du code général des collectivités territoriales, ne peuvent être réputées satisfaites que lorsqu’est mise en oeuvre une procédure de publicité adéquate compte tenu de l’objet, du montant financier et des enjeux économiques de la délégation de service public à passer.
+Conseil d’État
+N° 323585
+Publié au recueil Lebon
+7ème et 2ème sous-sections réunies
+M. Daël, président
+M. Alban de Nervaux, rapporteur
+M. Dacosta Bertrand, rapporteur public
+SCP PEIGNOT, GARREAU ; SCP BOULLOCHE ; SCP CELICE, BLANCPAIN, SOLTNER ; SCP COUTARD, MAYER, MUNIER-APAIRE, avocats
+lecture du mercredi 1 avril 2009
+REPUBLIQUE FRANCAISE AU NOM DU PEUPLE FRANCAIS
+Vu, 1°) sous le n° 323585, le pourvoi sommaire et le mémoire complémentaire, enregistrés les 24 décembre 2008 et 7 janvier 2009 au secrétariat du contentieux du Conseil d’Etat, présentés pour la COMMUNAUTE URBAINE DE BORDEAUX, dont le siège est Esplanade Charles de gaulle à Bordeaux Cedex (33076) ; la COMMUNAUTE URBAINE DE BORDEAUX demande au Conseil d’Etat :
+1°) d’annuler l’ordonnance du 10 décembre 2008 par laquelle le juge des référés du tribunal administratif de Bordeaux, statuant sur le fondement de l’article L. 551-1 du code de justice administrative, a, à la demande de la société DB Mobility Logistics AG, annulé la procédure de délégation du service public des transports urbains de voyageurs lancée par la communauté urbaine de Bordeaux ;
+2°) statuant comme juge des référés, de rejeter la demande présentée par la société DB Mobility Logistics AG devant le juge des référés du tribunal administratif de Bordeaux ;
+3°) de mettre à la charge de la société DB Mobility Logistics AG le versement de la somme de 5 000 euros au titre de l’article L. 761-1 du code de justice administrative ;
+Vu, 2°) sous le n° 323593, le pourvoi, enregistré le 24 décembre 2008 au secrétariat du contentieux du Conseil d’Etat, présenté pour la société KEOLIS, dont le siège est 9 rue Caumartin à Paris (75009) ; la société KEOLIS demande au Conseil d’Etat :
+1°) d’annuler l’ordonnance du 10 décembre 2008 par laquelle le juge des référés du tribunal administratif de Bordeaux, statuant en application de l’article L. 551-1 du code de justice administrative, a, à la demande de la société DB Mobility Logistics AG, annulé la procédure de délégation du service public des transports urbains de voyageurs lancée par la communauté urbaine de Bordeaux en novembre 2007 ;
+2°) statuant comme juge des référés, de rejeter la demande présentée par la société société DB Mobility Logistics AG devant le juge des référés du tribunal administratif de Bordeaux ;
+3°) de mettre à la charge de la société DB Mobility Logistics AG le versement d’une somme de 3 000 euros au titre de l’article L. 761-1 du code de justice administrative ;
+…………………………………………………………………………
+Vu les autres pièces des dossiers ;
+Vu les notes en délibéré, enregistrées les 6 et 16 mars 2009, présentées pour la société DB Mobility Logistics AG ;
+Vu le traité de Rome instituant la Communauté économique européenne devenue la Communauté européenne ;
+Vu le code général des collectivités territoriales ;
+Vu le code de justice administrative ;
+Après avoir entendu en séance publique :
+– le rapport de M. Alban de Nervaux, Auditeur,
+– les observations de la SCP Peignot, Garreau, avocat de la COMMUNAUTE URBAINE DE BORDEAUX, de la SCP Boulloche, avocat de la COMMUNAUTE URBAINE DE BORDEAUX, de la SCP Coutard, Mayer, Munier-Apaire, avocat de la société KEOLIS et de la SCP Célice, Blancpain, Soltner, avocat de la société DB Mobility Logistics AG,
+– les conclusions de M. Bertrand Dacosta, rapporteur public ;
+La parole ayant été à nouveau donnée à la SCP Peignot, Garreau, avocat de la COMMUNAUTE URBAINE DE BORDEAUX, à la SCP Boulloche, avocat de la COMMUNAUTE URBAINE DE BORDEAUX, à la SCP Coutard, Mayer, Munier-Apaire, avocat de la société KEOLIS et à la SCP Célice, Blancpain, Soltner, avocat de la société DB Mobility Logistics AG ;
+Considérant que les pourvois de la COMMUNAUTE URBAINE DE BORDEAUX et de la société KEOLIS sont dirigés contre la même ordonnance ; qu’il y a lieu de les joindre pour statuer par une seule décision ;
+Considérant qu’aux termes de l’article L. 551-1 du code de justice administrative : Le président du tribunal administratif, ou le magistrat qu’il délègue, peut être saisi en cas de manquement aux obligations de publicité et de mise en concurrence auxquelles est soumise la passation (…) des conventions de délégation de service public./Les personnes habilitées à agir sont celles qui ont un intérêt à conclure le contrat et qui sont susceptibles d’être lésées par ce manquement …/ Le président du tribunal administratif peut être saisi avant la conclusion du contrat. Il peut ordonner à l’auteur du manquement de se conformer à ses obligations et suspendre la passation du contrat ou l’exécution de toute décision qui s’y rapporte. Il peut également annuler ces décisions et supprimer les clauses ou prescriptions destinées à figurer dans le contrat et qui méconnaissent lesdites obligations. Dès qu’il est saisi, il peut enjoindre de différer la signature du contrat jusqu’au terme de la procédure et pour une durée maximum de vingt jours… ; qu’aux termes de l’article R. 551-1 du même code : Le président du tribunal administratif ou le magistrat qu’il délègue statue dans un délai de vingt jours sur les demandes qui lui sont présentées en vertu des articles L. 551-1 et L. 551-2 (…) ;
+Considérant que la COMMUNAUTE URBAINE DE BORDEAUX et la société KEOLIS se pourvoient en cassation contre l’ordonnance du 10 décembre 2008 par laquelle le juge des référés du tribunal administratif de Bordeaux, statuant sur le fondement des dispositions précitées l’article L. 551-1 du code de justice administrative, a , à la demande de la société DB Mobility Logistics AG, annulé la procédure de délégation du service public des transports urbains de voyageurs lancée par la COMMUNAUTE URBAINE DE BORDEAUX ;
+Considérant que le délai de vingt jours fixé par les dispositions précitées de l’article R. 551-1 du code de justice administrative n’est pas imparti au président du tribunal administratif ou à son délégué à peine de dessaisissement ; qu’ainsi le magistrat délégué par le président du tribunal administratif de Bordeaux a pu régulièrement statuer, le 10 décembre 2008, sur la demande de la société requérante ;
+Considérant toutefois que l’article L. 1411-1 du code général des collectivités territoriales dispose que : Les délégations de service public des personnes morales de droit public relevant du présent code sont soumises par l’autorité délégante à une procédure de publicité permettant la présentation de plusieurs offres concurrentes, dans des conditions prévues par un décret en Conseil d’Etat : qu’aux termes de l’article R. 1411-1 du même code : L’autorité responsable de la personne publique délégante doit satisfaire à l’exigence de publicité prévue à l’article L. 1411-1 par une insertion dans une publication habilitée à recevoir des annonces légales et dans une publication spécialisée correspondant au secteur économique concerné. (…) ;
+Considérant que les dispositions précitées, qui s’interprètent à la lumière des règles fondamentales du traité instituant la communauté européenne, au nombre desquelles figure le principe de non discrimination en raison de la nationalité, ne peuvent être réputées satisfaites que lorsqu’est mise en oeuvre une procédure de publicité adéquate compte tenu de l’objet, du montant financier et des enjeux économiques de la délégation de service public à passer ; que lorsque la délégation de service public en cause est, compte tenu de ses caractéristiques, susceptible d’intéresser des opérateurs implantés sur le territoire d’autres Etats membres de l’Union européenne, une procédure de publicité adéquate peut être assurée par une insertion dans un support de référence pour les annonces concernant les procédures de délégation de service public lancées en France dans le domaine concerné, à la condition toutefois qu’elle soit insusceptible d’échapper à l’attention des opérateurs raisonnablement vigilants pouvant être intéressés par une telle délégation, y compris ceux implantés sur le territoire d’un autre Etat membre ;
+Considérant que pour annuler la procédure litigieuse en raison d’une méconnaissance des principes de transparence et de non discrimination à l’égard des opérateurs établis hors de France, le juge des référés a estimé que, compte tenu de l’objet, du montant financier et des enjeux économiques de la délégation de service public à passer, susceptible d’intéresser des opérateurs implantés hors de France, une insertion devait nécessairement être assurée dans un support bénéficiant d’une diffusion européenne ; qu’en annulant ainsi la procédure litigieuse sans rechercher si, en dépit de leur diffusion limitée sur le plan international, les publications spécialisées retenues par la COMMUNAUTE URBAINE DE BORDEAUX ne constituaient pas des supports de référence pour les annonces concernant les procédures de délégation de service public lancées en France dans le domaine du transport public urbain de voyageurs, insusceptible d’échapper à l’attention de l’ensemble des opérateurs raisonnablement vigilants pouvant être intéressés par une telle délégation, le juge des référés a commis une erreur de droit ; qu’il en résulte, sans qu’il soit besoin d’examiner les autres moyens des pourvois, que la COMMUNAUTE URBAINE DE BORDEAUX et la société KEOLIS sont fondées à demander l’annulation de l’ordonnance attaquée ;
+Considérant que dans les circonstances de l’espèce, il y a lieu, par application de l’article L. 821-2 du code de justice administrative, de régler l’affaire au titre de la procédure de référé engagée par la société DB Mobility Logistics AG ;
+Sans qu’il soit besoin de statuer sur les fins de non recevoir soulevées par la COMMUNAUTE URBAINE DE BORDEAUX et la société KEOLIS ;
+Considérant que la délégation de service public que la COMMUNAUTE URBAINE DE BORDEAUX entendait passer concernait le service public des transports de personnes sur le territoire d’une agglomération de près de 700 000 habitants, et pour un montant prévisionnel de 750 millions d’euros, au titre de la période couvrant les années 2008 à 2013 ; que la COMMUNAUTE URBAINE DE BORDEAUX a publié un avis d’appel public à la concurrence dans les Echos judiciaires girondins , journal local d’annonces légales, et dans la revue bimensuelle Ville et Transports ; qu’elle a complété cette publicité par une insertion dans le Moniteur du Bâtiment et des Travaux publics et sur le site Internet Marchés on line ;
+Considérant que la revue Ville et Transports est en France l’une des revues de référence dans le domaine des transports publics de voyageurs, recueillant un nombre élevé d’annonces concernant des délégations de service public passées dans ce secteur ; que le site marchés on line constitue par ailleurs un site largement fréquenté, avec plus de 2 millions de pages vues par mois, environ 14500 entreprises inscrites, et une source d’information reconnue pour les avis concernant les marchés de travaux publics, mais aussi les marchés de service et les délégations de service public passés sur le territoire français ; que compte tenu des publications intervenues dans ces deux supports, complétées, au surplus, par une insertion dans la revue Moniteur du Bâtiment et des Travaux publics , la COMMUNAUTE URBAINE DE BORDEAUX, qui, à défaut d’une disposition l’exigeant, n’était pas tenue de procéder systématiquement à une insertion dans un support bénéficiant d’une diffusion européenne, a mis en oeuvre, conformément aux exigences du code général des collectivités territoriales rappelées ci-dessus, une procédure de publicité adéquate, insusceptible en l’espèce d’échapper à l’attention des opérateurs raisonnablement vigilants pouvant être intéressés par la délégation de service public en cause, y compris ceux implantés dans d’autres Etats membres de l’Union européenne, et n’a ainsi ni méconnu ses obligations de publicité et de mise en concurrence ni porté atteinte à l’égalité de traitement entre les opérateurs ;
+Considérant qu’il résulte de ce qui précède que, sans qu’il y ait lieu de saisir la Cour de justice des communautés européennes d’une question préjudicielle, la demande présentée par la société DB Mobility Logistics AG doit être rejetée, ainsi que, par voie de conséquence, ses conclusions présentées au titre de l’article L. 761-1 du code de justice administrative ; qu’il y a lieu, en revanche, de faire application de ces dispositions et de mettre à la charge de la société DB Mobility Logistics AG, au titre de l’ensemble de la procédure, une somme de 4 000 euros à verser à la COMMUNAUTE URBAINE DE BORDEAUX et une somme du même montant à verser à la société KEOLIS ;
+D E C I D E :
+————–
+Article 1er : L’ordonnance du 10 décembre 2008 du juge des référés du tribunal administratif de Bordeaux est annulée.
+Article 2 : La demande présentée par la société DB Mobility Logistics AG devant le juge des référés du tribunal administratif de Bordeaux est rejetée.
+Article 3 : La société DB Mobility Logistics AG versera à la COMMUNAUTE URBAINE DE BORDEAUX une somme de 4 000 euros et une somme du même montant à la société KEOLIS au titre de l’article L. 761-1 du code de justice administrative.
+Article 4 : La présente décision sera notifiée à la COMMUNAUTE URBAINE DE BORDEAUX, à la société KEOLIS et à la société DB Mobility Logistics AG.
+Répondre aux marchés publics
+Formation répondre aux AO (PME) – INTER / Sur site / FOAD
+J01 – Marchés publics pour PME (Fondamentaux)
+J02 – Comment répondre aux marchés publics ? (Administratif, formulaires, DUME, candidature, offre, sous-traitance, …)
+J03 – Répondre aux appels d’offres par voie électronique (Réponse dématérialisée aux AO, théorie et pratique, certificat, …)
+J04 – Comment rédiger un mémoire technique ? (Gérer le plan ? Trouver des informations ? …)
+=> Formation au DUME en 3 heures.
+Assistance : répondre aux AO (PME)
+Constitution :
+- du dossier administratif (DC1, DC2, ...),
+- du mémoire technique (assistance)
+01.84.16.39.83
+Renseignements aux formations (Inter, INTRA sur site ou FOAD e-learning) ou l'assistance - Formations Paris, Lyon, Marseille, Lille, Strasbourg, Bordeaux ou Nantes, … Guyane, Guadeloupe, Martinique, Réunion

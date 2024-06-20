@@ -1,0 +1,146 @@
+Grenoble se prépare à la révolution quantique - Grenoble INP Institut d’ingénierie et de management, Université Grenoble Alpes
+Aller au menu Aller au contenu
+Rechercher dans Nos sitesCe site
+Vous êtes
+Etudiant
+Diplômé
+Chercheur
+Entreprise
+Personnel
+Intranets
+Annuaire Grenoble-Savoie
+... tous les e-Services
+Presse
+Communiqués
+Plaquettes
+Photothèque
+Actualités
+Fournisseur
+Nos sites
+Formation
+La Prépa des INP
+Grenoble INP - Ense3
+Grenoble INP - Ensimag
+Grenoble INP - Esisar
+Grenoble INP - Génie industriel
+Grenoble INP - Pagora
+Grenoble INP - Phelma
+Polytech Grenoble - INP
+Grenoble IAE - INP
+Recherche et valorisation
+Laboratoires
+Filiale Grenoble INP
+Entreprise
+Espace recruteurs
+Formation Pro
+Fondation Grenoble INP
+Grenoble INP - Alumni
+Connexion
+Grenoble INP - UGA
+L'Institut
+Les écoles d'ingénieurs et de management
+Ecosystème
+Dynamique pédagogique
+Responsabilité sociétale et environnementale
+Travailler à Grenoble INP - UGA
+Actualités
+Formation
+Offre de formation
+Insertion professionnelle
+Etudier à Grenoble INP - UGA
+Admission
+Recherche
+Structures de recherche
+Valorisation et transfert
+International
+International
+Politique internationale
+Venir à Grenoble INP - UGA
+Partir en mobilité internationale
+Recherche à l'international
+Entreprises
+Emploi, stage, alternance
+Formation Pro
+Recherche et développement
+Investir avec Grenoble INP - UGA
+IN'Partners
+Vie étudiante
+Les services aux étudiants
+Les espaces étudiants
+Vie associative
+Sport et culture
+Etudiant
+Diplômé
+Chercheur
+Entreprise
+Personnel
+Intranets
+Annuaire Grenoble-Savoie
+... tous les e-Services
+Presse
+Communiqués
+Plaquettes
+Photothèque
+Actualités
+Fournisseur
+Rechercher dans Nos sitesCe site
+Institut d’ingénierie et de management
+L'Institut
+L'Institut
+Les écoles d'ingénieurs et de management
+Ecosystème
+Dynamique pédagogique
+Responsabilité sociétale et environnementale
+Travailler à Grenoble INP - UGA
+Actualités
+Formation
+Formation
+Offre de formation
+Insertion professionnelle
+Etudier à Grenoble INP - UGA
+Admission
+Recherche
+Recherche
+Structures de recherche
+Valorisation et transfert
+International
+International
+International
+Politique internationale
+Venir à Grenoble INP - UGA
+Partir en mobilité internationale
+Recherche à l'international
+Entreprises
+Entreprises
+Emploi, stage, alternance
+Formation Pro
+Recherche et développement
+Investir avec Grenoble INP - UGA
+IN'Partners
+Vie étudiante
+Vie étudiante
+Les services aux étudiants
+Les espaces étudiants
+Vie associative
+Sport et culture
+Donner vie aux connaissances scientifiques
+Grenoble INP Institut d'ingénierie et de management
+Grenoble Institute of Engineering and Management
+> Recherche et valorisation > Du côté des labos
+Recherche
+Grenoble se prépare à la révolution quantique
+Publié le 20 février 2020
+A+Augmenter la taille du texteA-Réduire la taille du texteImprimer le documentEnvoyer cette page par mail Partagez cet article Facebook Twitter Linked In
+Tandis que le récent rapport de Paula Forteza, députée de la 2ème circonscription des français établis hors de France et spécialiste du numérique, propose la création de trois pôles d’excellence en Information Quantique à Paris, Saclay et Grenoble, le CDP* grenoblois Quantum Engineering coordonne depuis trois ans les forces en présence dans cette thématique d’avenir.
+ordinateur quantique
+Alors que dans un ordinateur classique l’information est codée sous forme de 0 et de 1 (les bits), l’information de base dans un ordinateur quantique est codée dans des « bits quantiques », les qBits. Ces derniers peuvent prendre simultanément la valeur 1 et 0, ainsi qu’une infinité d’états entre 1 et 0, qui peuvent se superposer. Et cela révolutionne littéralement l’informatique.
+A Grenoble, la communauté scientifique se tient prête à amorcer le virage, tant sur le plan de la recherche que de la formation. Les compétences dans ce domaine sont coordonnées au sein du CDP Quantum Engineering lancé il y a trois ans et financé par l’Idex (QuEnG). Côté hardware, les fameux qBits sont développés notamment au Leti (CEA), à l’IRIG (CEA/UGA) ou encore à l’Institut Néel (CNRS). « Grenoble a une expertise historique sur différents types de qBits, i.e. différents supports matériels de l’information quantique, indique Alexia Auffèves, directrice de recherche CNRS à l’Institut Néel et coordinatrice du CDP. On distingue des qBits de spin (électrons, moments moléculaires), photoniques (tels que la polarisation d’un photon unique) ou encore supraconducteurs. Grenoble génère aussi beaucoup d’espoirs et d’attentes autour du qBit phare qu’est le spin d’un électron dans du silicium, compatible par construction avec la filière CMOS. »
+Du hardware au software
+Au sein du CDP, Mehdi Mhalla, chercheur CNRS au LIG (CNRS/Grenoble INP/Inria/UGA), fait le lien avec la partie logicielle. Il étudie ce que l’avènement du quantique va changer dans le traitement de l’information. S’il est prouvé que tout ce qu’il est possible de faire avec un ordinateur classique restera possible avec son pendant quantique, le phénomène de superposition* va permettre d’accélérer les calculs. « Il est possible de réaliser des calculs très complexes en un nombre d’étapes bien inférieur à ce que l’on peut faire avec un ordinateur classique, explique Mehdi Mhalla. S’il faut n étapes dans le monde classique pour résoudre un problème de recherche dans une base de données, il en faudra √n pour le résoudre en quantique. » La solution quantique s’avère notamment utile lorsque le problème est extrêmement complexe, ou la masse de données tellement énorme que les supercalculateurs classiques ne suffisent plus. « Ainsi l’algorithme découvert par Shor en 1994 serait capable de factoriser en un temps record un entier en un produit de deux nombres premiers, et donc de casser les clés utilisées pour les transactions bancaires », explique le chercheur qui enseigne la cryptographie quantique dans le master de Cybersécurité, joint entre Grenoble INP - Ensimag et l'UFR IM2AG de UGA.
+Plus étonnantes encore sont les perspectives ouvertes par le phénomène d’intrication* dans le domaine de la communication quantique. « Le fait de pouvoir ‘intriquer’ des qBits, c’est-à-dire n’en faire qu’un seul système quantique, va permettre de partager des informations secrètes à distance et de manière fiable, grâce à des protocoles qui n’existent pas dans le monde classique. »
+L’avènement des technologies quantiques passe également par un changement de paradigme dans le domaine de la formation des futurs « ingénieurs quantiques », comme appelé dans le rapport Forteza. Le CDP s’est positionné à l’avant-garde de cette tendance, en inspirant et soutenant un projet de pédagogie inversée mettant en œuvre des petits groupes pluridisciplinaires d’étudiants, de physiciens et d’informaticiens chargés de coder des algorithmes quantiques sur le processeur auquel IBM, qui parraine la dernière promotion de Grenoble INP - Ensimag, propose un accès privilégié. De telles expériences pédagogiques sont des premiers pas vers la mise en place de véritables formations interdisciplinaires qui tireront pleinement parti de l’écosystème grenoblois. Les partenaires industriels historiques que sont ST Microelectronics, SOITEC et ATOS, gardent un œil attentif sur les avancées scientifiques réalisées dans le domaine quantique.
+*Cross Disciplinary Program
+** Quelques bases de physique quantique pour comprendre
+Les premières théories de l’informatique quantique sont apparues dans les années 80, et utilisent les propriétés étonnantes de la physique quantique. Dans l’infiniment petit, la matière ne répond plus aux mêmes lois que celles que nous connaissons. Selon la mécanique de l’infiniment petit, un objet peut avoir plusieurs états en même temps et se trouver dans un état indéterminé avant toute mesure. Ainsi, un électron peut se trouver à différents endroits et se déplacer à des vitesses différentes au même instant, ou encore un photon avoir simultanément deux types de polarisations. C’est ce que l’on appelle la théorie de la superposition.
+Autre principe à connaître pour comprendre : l’intrication quantique. Cette dernière fait que l’on peut lier deux objets quantiques a priori indépendants en les forçant, par exemple, à être dans des états opposés au moment d’une mesure. Si aucune information n’est échangée entre les deux particules, elles sont en lien en ne formant non pas deux systèmes indépendants, mais un seul. En physique quantique, on peut donc lier plusieurs systèmes qui semblent indépendants et éloignés. Et comme il est possible de prolonger l’état quantique à une échelle microscopique, on peut jouer avec toutes ces possibilités avec des atomes simples, froids, isolés.
+A+Augmenter la taille du texteA-Réduire la taille du texteImprimer le documentEnvoyer cette page par mail Partagez cet article Facebook Twitter Linked In

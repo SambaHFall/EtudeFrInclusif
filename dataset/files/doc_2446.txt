@@ -1,0 +1,80 @@
+Les professeurs qui ne veulent plus perdre de temps avec le contrôle des cahiers de devoirs et qui veulent être sûr que leurs élèves sachent à tout moment, quand et quels devoirs sont dues.
+Les élèves qui ont reçu de leurs professeurs un code d'accès pour rejoindre leurs groupes de devoirs.
+Les parents qui souhaitent avoir des informations fiables sur les devoirs et les tests à venir de leurs enfants.
+
+enregistrer
+fonctionnalités
+
+groupes de devoirs: Créez autant de groupes de devoirs que vous avez besoin, pour chaque sujet que vous ensei­gnez ou pour chacune de vos clas­ses ou groupes.
+
+lier groupes: Associez diffé­rents groupes en un seul clic pour que les mem­bres de votre groupe puissent voir le con­tenu des autres groupes.
+
+tests, épreuves: En plus des devoirs, vous pouvez égale­ment annon­cer des tests avec un symbole spécial et les coor­donner avec les autres profes­seurs.
+
+feuilles de calcul: Avec chaque devoirs, vous pouvez télé­charger les fiches corres­pondantes comme un service aux élèves absents.
+
+serveur de fichiers: Les fichiers peuvent égale­ment être télé­chargés dans un dossier spéci­fique et proposés en télé­charge­ment aux groupes sélec­tionnés ou à toute l'école.
+
+galerie: Donnez plus de poids à vos entrées avec des images symbo­liques d'une galerie d'images intégrée ou avec vos propres illustra­tions.
+
+mode de présentation: Projeter la liste des devoirs en un seul clic sur un écran et affi­cher automa­tique­ment dans une boucle sans fin.
+
+confirmation de lecture: Demandez une confir­mation électro­nique des entrées impor­tantes des mem­bres de votre groupe.
+
+devoirs individuels: Déterminez à qui vous sou­haitez affec­ter vos devoirs, à un groupe entier ou juste à cer­tains mem­bres d'un groupe.
+
+permissions d'écriture: Entrez les devoirs par vous-même ou auto­risez des mem­bres de votre groupe (étu­diants) à le faire en leur attri­buant des privi­lèges spé­ciaux.
+
+exportation: Pour l'archivage ou l'impres­sion, les entrées peuvent être exportées en tant que fichier PDF en uti­lisant divers para­mètres de filtre et de recherche.
+
+modèles de couleur: Avec différents modèles attray­ants de cou­leur moti­vation aug­mente. Person­nalisez vos devoirs avec une touche de cou­leur.
+
+multilingue: Avec une variété de diffé­rentes langues des étudi­ants étran­gers et leurs parents peu­vent commen­cer immédia­tement.
+
+connexion automatique: Pour un accès simple et rapide, le système peut vous connecter auto­matiquement.
+installation facile
+Une fois que vous avez enregistré créez un groupe pour chaque grade que vous enseignez (par exemple, grade B2a). En variante ou en outre, vous pouvez également créer des groupes pour vos sujets (mathématiques, chimie) ou sous-groupes (anglais A1).
+Tous (enseignants, élèves, parents) qui souhaitent accéder les devoirs d'un groupe particulier doivent inscrire et postuler pour appartenance à un groupe.
+Vous attribuez des permissions d'écriture à ceux qui doivent entrer les devoirs (des enseignants ou même des élèves).
+version d'essai
+Vous pouvez tester le Duzzler sans vous inscrire. Pour cela, entrez les informations suivantes à la page de connexion:
+adresse e-mail: test@duzzler.com
+mot de passe: test
+Toutes les données de la version de démonstration sont fictives. Toute ressemblance avec des conditions réelles est purement fortuite.
+Par souci de simplicité, les visiteurs de la version d'essai seront fixés dans le temps à une date dans le passé: lu, 14.03.2016
+
+page de connexion
+Personne ne peut dire qu'il ne savait pas.
+sécurité
+Swiss made: Le duzzler est un produit suisse. Toutes les données sont sur un serveur en Suisse.
+rétention de 90 jours: Toutes les entrées restent stockées dans l'archive jusqu'à 90 jours après leur date d'échéance. Avec des fonctions de recherche complètes, elles peuvent être lues ou exportées selon différents critères.
+protection des données: Vos membres du groupe ne voient que ce qu'ils sont censés voir. En outre, des sauvegardes régulières sont créées à partir de vos données.
+SSL: Vos données sont transférées en utilisant SSL, un protocole de cryptage fiable. SSL est indiqué par le 'https://' dans la barre d'adresse de votre navigateur.
+version gratuite
+Le Duzzler est disponible en tant que plate-forme publique sans licence ou en tant que logiciel sous licence pour un groupe restreint d'utilisateurs.
+La version sans licence est gratuite, mais en plus d'autres restrictions, le nombre de membres du groupe dans un groupe de devoirs est limité à 30.
+licences pour les écoles
+Pour les écoles ou autres groupes fermés d'utilisateurs, le Duzzler peut être exploité sous licence. En plus des fonctionnalités étendues et du droit au support, les données des licenciés sont stockées dans des bases de données sécurisées dédiées.
+logo de l'école: Pour donner à cette plateforme un caractère officiel, vous pouvez afficher le logo de votre école dans la version sous licence.
+pas de limites: Créez autant de groupes de devoirs que vous le souhaitez dans votre compte, sans limite de nombre de membres du groupe.
+lier groupes: Associez diffé­rents groupes en un seul clic pour que les mem­bres de votre groupe puissent voir le con­tenu des autres groupes.
+Un package de licence est basé sur le nombre d'utilisateurs et est valable un an. Pour obtenir une licence du Duzzler pour votre école, veuillez contacter info@duzzler.com.
+utilisateurs (sans parents)
+cotisation annuelle en CHF
+bis 50 utilisateurs 138.-
+bis 100 utilisateurs 270.-
+bis 150 utilisateurs 396.-
+bis 200 utilisateurs 517.-
+bis 250 utilisateurs 633.-
+bis 300 utilisateurs 743.-
+bis 350 utilisateurs 847.-
+bis 400 utilisateurs 946.-
+bis 450 utilisateurs 1040.-
+bis 500 utilisateurs 1128.-
+bis 550 utilisateurs 1210.-
+bis 600 utilisateurs 1287.-
+bis 650 utilisateurs 1359.-
+bis 700 utilisateurs 1425.-
+bis 750 utilisateurs 1485.-
+bis 800 utilisateurs 1540.-
+En accédant à ce site et en l'utilisant, vous acceptez nos Conditions d'Utilisation (télécharger). Copyright 2015-2021, Duzzler.com, Tous droits réservés. info@duzzler.com

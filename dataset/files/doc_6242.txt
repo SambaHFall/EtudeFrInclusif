@@ -1,0 +1,76 @@
+Le nouvel iPhone 12 Pro est livré avec un format de photo RAW appelé ProRAW qui vous offre un meilleur contrôle créatif lors de l’édition d’images. La fonctionnalité a finalement été publiée avec la nouvelle mise à jour iOS 14.3. Voici un guide étape par étape sur la façon dont vous pouvez activer la prise en charge ProRAW sur votre iPhone 12 Pro ou iPhone 12 Pro Max.
+Lisez également: Comment Apple est devenu hypocrite avec le lancement de l’iPhone 12
+Activer Apple ProRAW sur iPhone 12 Pro et iPhone 12 Pro Max
+Pour commencer, le format Apple ProRAW combine les informations du format RAW standard avec le traitement d’image iPhone. En conséquence, vous bénéficiez de plus de flexibilité et de contrôle lors de l’édition de la couleur, de l’exposition, de la balance des blancs, de la réduction du bruit, de la netteté, etc. de votre photo.
+De plus, la prise de vue dans ProRAW vous donnera une image non compressée ayant le maximum d’informations du capteur. Dans l’ensemble, vous bénéficiez des avantages du format RAW aux côtés des avantages du traitement informatique des photos d’Apple.
+Étapes pour activer la prise en charge de ProRAW sur l’iPhone 12 Pro / Pro Max
+Pour capturer des images dans ProRAW, tout ce que vous avez à faire est d’activer la fonction dans les paramètres. Mais avant de commencer, assurez-vous que vous avez mis à jour vers la dernière version d’iOS 14.3. Le format n’est pas disponible sur les anciennes versions d’iOS, y compris iOS 14.2 ou une version antérieure.
+Ouvrez le Réglages app sur votre iPhone.
+Faites défiler jusqu’à Caméra. Clique dessus.
+Ici, cliquez sur Formats.
+Sur l’écran suivant, activez Apple ProRAW sous Photo Capture.
+C’est ça; la prise en charge de ProRAW est maintenant activée sur votre iPhone. Notez que les photos seront capturées au format DNG et pèseront 10 à 12 fois plus gros que les fichiers HEIF ou JPEG. Habituellement, le fichier mesure environ 25 Mo, mais peut parfois atteindre 40 Mo.
+Étapes pour cliquer sur les images ProRAW sur iPhone 12 Pro / Pro Max
+Suivez les étapes ci-dessous pour cliquer sur les images au format ProRAW sur votre iPhone.
+Ouvrez l’application Appareil photo native sur votre iPhone.
+Appuyez sur le BRUT icône dans le coin supérieur droit.
+Capturez l’image en utilisant le déclencheur comme vous le feriez normalement.
+Vous pouvez maintenant ouvrir Adobe Lightroom ou n’importe quel éditeur de photos de votre choix, importer le fichier DNG et apporter les modifications souhaitées. Ces images apparaîtront avec un logo RAW en haut à gauche de l’application Photos.
+On peut utiliser ProRAW avec les modes Smart HDR, Deep Fusion et Night. De plus, les images peuvent être modifiées n’importe où, que ce soit l’application Photos native ou des applications tierces sur votre téléphone ou votre ordinateur.
+Emballer
+Il s’agissait d’un guide rapide sur la façon d’activer la prise en charge de ProRAW sur l’iPhone 12 Pro / Pro Max et de capturer des images au format ProRAW. Notez que la fonctionnalité n’est disponible que sur iPhone 12 Pro et Pro Max pour le moment. Si vous avez des doutes ou des questions, n’hésitez pas à nous contacter via les commentaires ci-dessous.
+Lisez également – Comment obtenir la reconnaissance musicale Shazam dans le centre de contrôle sur iOS 14
+★★★★★
+Navigation de l’article
+Précédent Précédent
+Netflix obtient le mode audio uniquement qui affiche un écran noir au lieu d’une vidéo sur Android: rapport
+SuivantContinuer
+Nous pourrions obtenir une Apple Watch avec Touch ID et une caméra sous-écran
+A lire également
+Apple Silicon iMac, MacBook Pro et plus encore en préparation
+ParL'équipe Neuf TV	 25 novembre 2020
+Les premiers Mac Apple Silicon sont officiellement disponibles pour les consommateurs. Les premières options incluent un MacBook Pro 13 pouces,…
+Le dernier 2-en-1 de Dell vise à surpasser la Surface, mais commence à 1549 $
+ParL'équipe Neuf TV	 28 avril 2021
+Dell a présenté son dernier convertible 2-en-1 avec un clavier magnétique – le Latitude 7320 détachable. Un rapide coup d’œil…
+Jouez à des jeux PC sur Mac, iPhone ou iPad avec GeForce Now
+ParL'équipe Neuf TV	 14 mai 2021
+Les produits Apple ne sont normalement pas connus pour être des consoles de jeu incroyables, mais Nvidia veut changer cela….
+Cet avion eVTOL atteindra les scènes d’urgence plus rapidement que jamais
+ParL'équipe Neuf TV	 10 août 2021 10 août 2021
+Que penseront-ils de NeXt ? NeXt est un incroyable véhicule électrique prêt à accomplir une variété de tâches aériennes. Il…
+Le directeur de l'Université Apple examine en profondeur la structure unique de l'entreprise, les principales qualités de leadership, etc.
+ParL'équipe Neuf TV	 23 octobre 2020
+Doyen et vice-président de l'Université Apple, Joel Podolny a partagé aujourd'hui un regard fascinant sur la façon dont Apple a…
+Caractéristiques, caractéristiques, prix, détails et disponibilité du Vivo X50 Pro en Inde
+ParL'équipe Neuf TV	 16 juillet 2020
+Après avoir lancé les smartphones phares de la série Vivo X50 dans son pays d'origine, la Chine, Vivo a officiellement…
+Rechercher :
+Recherche
+Hébergement web : les impacts négatifs d’une mauvaise infrastructure
+Publié le 5 décembre 2021
+Pour des raisons budgétaires, de nombreuses entreprises hébergent leur site sur des serveurs qui offrent des espaces de stockage (hébergement)...
+Tout savoir sur Energyfi, la plateforme DeFi All-in-One eco-friendly
+Publié le 18 novembre 2021
+Energyfi est une plateforme appartenant à la finance décentralisée (DeFi), un marché de 200 milliards de dollars aujourd’hui. Cette nouvelle...
+Comment utiliser Widgetsmith pour les widgets de l’écran d’accueil iOS 14
+Publié le 1 novembre 2021
+Si une chose est claire après la sortie d’iOS 14 la semaine dernière, c’est qu’il y avait une forte demande...
+Protégez vos données avec Acronis Cyber Backup by IKOULA
+Publié le 31 octobre 2021
+Nous sommes à l’ère du numérique. Autrement dit, nous vivons dans un monde ou pour se rendre visible de nos jours,...
+Quelle est la date de sortie de la 5G en France ? : les villes qui ont déjà la 5G
+Publié le 30 octobre 2021
+Le 21ᵉ siècle a marqué un grand tournant en terme de progrès technologique, avec l’ère de l’internet. En effet, depuis...
+Développement de la 5G : a-t-elle un impact sur l’environnement ?
+Publié le 29 octobre 2021
+Le déploiement de la 5G en France se fera dès cette année ! De nombreuses nouvelles technologies suivront ce changement,...
+Assister à une vente privée de forfait mobile SFR : quelle fréquences pour ces ventes ?
+Publié le 28 octobre 2021
+Une vente privée est une vente qui propose aux consommateurs différents produits et promotions importantes, pour une période limitée qui...
+Quels problèmes les étudiants rencontrent-ils avec leurs forfaits de téléphonie mobile ?
+Publié le 28 octobre 2021
+Quand il s’agit de s’installer tout seul, tout étudiant doit faire face à de nombreuses dépenses. Pour les accompagner dans...
+© 2021 Actualités télécoms et high-tech
+French
+Albanian Arabic Chinese (Simplified) Czech Dutch Estonian French German Greek Hebrew Hungarian Italian Japanese Malagasy Polish Portuguese Romanian Russian Slovak Spanish Swedish Turkish Vietnamese

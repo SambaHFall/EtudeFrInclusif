@@ -1,0 +1,61 @@
+Accusé par Intel de développer sans son accord des chipsets pour ses derniers processeurs, NVIDIA riposte et l'attaque à son tour pour pratiques anticoncurrentielles. Le fondeur de Santa Clara avait effectivement entamé en début d'année une procédure juridique contre le fabricant de puces graphiques, estimant que ce dernier avait mal interprété leurs accords de licences.
+NVIDIA estime pour sa part qu'en lui interdisant publiquement la conception de chipsets pour les processeurs à architecture Nehalem, Intel veut s'assurer le monopole en écartant toute concurrence. Pour le fabricant des célèbres GeForce, principal promoteur de la carte graphique en tant qu'alternative au processeur pour certains calculs, Intel aurait manqué le coche et chercherait à évincer la concurrence indirecte du GPU sur le CPU.
+Le récent succès du chipset NVIDIA GeForce 9400M, intégré à quasiment toute la gamme Apple au détriment de puces Intel, et l'accueil chaleureux réservé à la plateforme basse consommation NVIDIA Ion, semble inquiéter, vraisemblablement à juste titre, le leader du processeur. La firme au caméléon a plus d'une corde à son arc et a d'ores et déjà prévu de décliner sa plateforme Ion pour le prometteur processeur VIA Nano.
+Les ventes de cartes mères pour processeurs Intel à chipset NVIDIA seraient en tout cas déjà impactées en répercussion de cette affaire. NVIDIA pourrait donc interdire à son tour à Intel l'utilisation de certaines de ses licences, utilisées notamment pour la partie graphique des futurs processeurs Larrabee. Intel pourrait également perdre le droit d'associer la technologie multi-GPU SLI à ses chipsets.
+Soyez toujours courtois dans vos commentaires.
+Respectez le réglement de la communauté.
+0
+0
+Actualités du moment
+Verizon serait prêt à vendre des netbooks
+Verizon Wireless, premier opérateur mobile américain, s'apprêterait à vendre des netbooks, rapporte Bloomberg. D'après « des sources proches du dossier » citées par l'agence de presse, l'opérateur détenu par l'américain Verizon et par le britannique Vodafone ferait appel à plusieurs fabricants et lancerait dès le second trimestre 2009 ses PC portables à bas prix.
+27/03/2009
+Colin McRae : DiRT 2 , le teaser expliqué
+L'arrivée d'une nouvelle vidéo pour Colin McRae : DiRT 2 est également l'occasion pour Codemasters d'apporter quelques précisions concernant l'un des modes de jeu appelé « World Tour ». Condensé de différentes épreuves, ce dernier vous emmènera un peu partout à travers le monde.
+27/03/2009 Matériel gamer
+Devenez un Don avec Le Parrain 2 en vidéos
+À quelques jours de sa sortie sur Playstation 3, Xbox 360, et PC, Le Parrain 2 fait une fois de plus parler la poudre au travers d'une nouvelle vidéo. Entièrement commentée en français, cette dernière propose différentes phases de jeu insistant notamment sur l'entreprise familiale. Savoir défendre son business et ses intérêts n'est pas forcément de tout repos.
+27/03/2009 Matériel gamer
+Retour Sur L'Ile Mystérieuse 2, les images iPhone
+Comme nous vous le précisions lors de nos précédentes brèves sur Retour Sur L'Île Mystérieuse 2 : La Destinée De Mina, un jeu d'aventure dans le style point & click, il sera possible de résoudre sur son iPhone certaines énigmes du jeu. Microïds vient de communiquer quelques précisions sur le mode de fonctionnement de cette fonctionnalité ainsi que ces premières images illustrant ces puzzles sur iPhone.
+27/03/2009 Matériel gamer
+Physique : AMD fait ses preuves avec Havok et OpenCL
+AMD a profité de la Games Developpers Conference qui se tient en ce moment même à San Francisco pour présenter les fruits de travaux visant à montrer la capacité de ses cartes graphiques à exécuter des calculs physiques via les spécifications de l'environnement de programmation (API) OpenCL (Open Computing Language).
+27/03/2009
+Humeur : Hadopi, pourquoi ça ne peut pas marcher
+Parce qu'il est parfois frustrant de commenter l'actualité tout en s'astreignant à une certaine réserve, la rédac' a récemment pris la décision d'ouvrir une rubrique « Humeur », qui nous permet d'offrir un regard plus personnel sur l'actualité de l'univers high-tech, au travers d'articles parfaitement subjectifs qui ne reflètent finalement que l'avis de leur auteur. Aujourd'hui, profitons du calme avant la tempête que ne manquera pas d'occasionner la reprise des débats sur la loi « Création et Internet » pour tenter de voir en quoi ce projet pourra changer les choses... ou pas.
+27/03/2009
+Apple confirme les dates de la WWDC - iPhone OS 3.0
+Apple vient de fixer les dates de la WWDC, ou Worldwide Developers Conference, événement réservé aux développeurs de l'univers Mac, qui se tiendra du 8 au 12 juin prochain à San Francisco. La firme devrait dépêcher près d'un millier de ses propres ingénieurs sur place, et l'on attend quelque cinq mille développeurs venus de tous les Etats-Unis pour participer aux différentes sessions techniques proposées.
+27/03/2009
+L'homo numericus passe 8h par jour devant ses écrans
+Smartphones, ordinateurs portables, téléviseurs... Les écrans ont envahi le quotidien de l'humain numérique. Un adulte passe en moyenne 8 heures par jour devant ses écrans aux Etats-Unis, selon une étude rendue publique jeudi par le CRE (Council for Research Excellence), groupe de réflexion financé par Nielsen.
+27/03/2009
+iTunes : fin du prix unique de 0,99 euro le 7 avril
+Apple l'avait annoncé dès le mois de janvier, et on connaît désormais la date fatidique : le 7 avril. C'est donc dans dix jours que le iTunes Store mettra fin à sa politique de prix unique pour les titres qu'il propose au téléchargement légal.
+27/03/2009
+Nokia : les N73, N93 et N93i ne seront finalement pas compatibles N-Gage
+Après des mois d'attente, et en dépit d'assertions rassurantes, Nokia a finalement pris la décision de ne pas porter son service de jeux vidéo N-Gage sur les téléphones N73, N93 et N93i. C'est du moins ce qu'a récemment annoncé l'un des administrateurs du forum N-Gage Arena.
+27/03/2009
+Derniers bons plans
+OPPO Find X3 Lite, l'un des smartphones 5G les moins chers pendant le Black Friday
+1
+Moins de 800€ pour une TV OLED, c'est l'offre canon disponible pour le Black Friday Boulanger
+Black Friday AliExpress : 8 offres high-tech immanquables ce vendredi soir
+Black Friday : 4 offres immanquables sur les forfaits Free, B&You, Prixtel et RED by SFR
+Dernières heures pour l'offre Black Friday de pCloud : le meilleur stockage Cloud à -76% !
+Derniers tests
+9
+Critique Masters of the Universe: Revelation : une suite qui prend le Pouvoir
+7
+Test Synology HAT5300-8T : ça donne quoi un disque dur d'entreprise par le roi du NAS ?
+7
+Test Sabrent Rocket 4 Plus PlayStation 5 : le SSD et son dissipateur spécifique à la console de Sony
+2
+Test Google Nest Learning Thermostat 3e Gen : l’IA au service de l'économie d’énergie et du confort
+7
+Test POCO M4 Pro 5G : toujours plus pour toujours moins cher
+Accueil
+Accueil
+Rejoignez-nous !
+Infos légales À Propos Publicité CGU Confidentialité Recrutement Archives Marques Contact Règlement Communauté © Clubic SAS 2021

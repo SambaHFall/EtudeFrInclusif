@@ -1,0 +1,207 @@
+Bonjours, je vous passes le mot, y a une mise à jour silencieuse qui ce fait présentement sur le SEN pour passer en 4.55.
+Le problème avec cette maj c est qu elle bloque nos chers ode(3key,E3 pro, cobra). Lorsque l on essait de lancer un jeu on a le droit a un écran noir et un retour au xmb nous disant de mettre le disque du jeu pour y jouer.
+En espérant que les teams trouvent une parade a tout ça sinon ça sera la fin de la courte vie des ode sur PS3 .
+Passer le mot !!
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+sephirothff
+Posté(e) 6 février 2014
+sephirothff
+Rédacteurs Tutoriaux
+14,3k
+Localisation:quelque part dans l'univers
+: sephirothced
+Share
+Posté(e) 6 février 2014
+y a rien de silencieux si tu désactive bien les majs automatiques
+PS: c'est PSN pas SEN, SEN c'est le reseau global de sony
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+ludo1421
+Posté(e) 6 février 2014
+ludo1421
+Moderateur
+3,6k
+Localisation:de VHS
+Centre d'intérêt:La modification matérielle
+: ludo1421
+Share
+Posté(e) 6 février 2014 (modifié)
+en fait sephi tu te trompe
+Sony y a va de son nouveau firmware 4.10 pour la PS3 avec notamment le passage du PlayStation Network (PSN) au Sony Entertainment Network (SEN).
+Il s’agit pour Sony de rendre plus cohérente sa plate-forme en ligne en intégrant les différents types de contenu (Jeux vidéo, TV, musique et cinéma).
+Le firmware 4.10 apporte aussi des améliorations au navigateur internet qui devient plus véloce. Auparavant, sur certains sites, il pouvait parfois ne pas afficher certaines pages. L’heure est par ailleurs synchronisée automatiquement lorsque vous accédez au SEN.
+ou
+A partir du 8 février, vous devrez faire vos adieux officiels au Playstation Network et aux initiales PSN qui va adopter un presque nouveau nom : le Sony Entertainment Network, alias le SEN qui est en fait le nom que Sony donne déjà à ses services musiques et vidéos en ligne. Un simple changement de nom donc qui vise à rassembler sous une bannière unique les divers loisirs numériques du constructeur. La transition n'affectera pas les utilisateurs qui devront toutefois probablement valider une fois de plus leur accord aux conditions d'utilisation du service. Petite précision, ce changement concerne uniquement la PS3 et la PS Vita et pas la PSP.
+ou direct de sony
+Le 8 février 2012, les comptes PlayStation®Network seront renommés comptes Sony Entertainment Network ou comptes SEN. Cette modification prendra effet en même temps que la mise à jour du logiciel système PlayStation®3 et celle du logiciel système PlayStation®Vita*. Après avoir mis à jour le logiciel système sur votre PS3™ ou votre PS Vita, vous remarquerez que les comptes PlayStation®Network ont été renommés comptes Sony Entertainment Network. Ce changement ne concernera pas les comptes PlayStation®Network sur systèmes PSP® (PlayStation®Portable). *La PlayStation®Vita sortira à partir du 22 février 2012.
+Cette modification concernant les comptes est uniquement un changement de nom. Vous n'avez aucune opération à effectuer et vos identifiant et mot de passe resteront inchangés.
+Cette transition résulte de l'objectif de Sony visant à étoffer sa gamme exceptionnelle de produits numériques. Dans le cadre des activités entamées par Sony en septembre dernier, le PlayStation®Network fusionnera avec Sony Entertainment Network. Nous allons ainsi nous rapprocher de notre objectif : établir une plate-forme réseau globale et complète proposant des services de jeu vidéo, de films, de musique et bien plus encore, accessibles depuis un compte unique.
+Grâce à votre compte Sony Entertainment Network, vous pouvez également accéder aux services non vidéoludiques de Sony, notamment Music Unlimited, la Boutique Vidéo du PlayStation®Store et PlayMemories Online (ex-Personal Space) sur divers appareils connectés au réseau.
+Nous vous remercions de votre fidélité et du soutien que vous continuez de nous témoigner durant cette transition.
+donc c est bien le SEN et plus le psn
+Modifié 6 février 2014 par ludo1421
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+josky57
+Posté(e) 6 février 2014
+josky57
+Administrateurs
+1,4k
+Centre d'intérêt:4,2%
+Share
+Posté(e) 6 février 2014
+et moi qui croyait que Sephi ne se trompait jamais en ce qui concerne sony ... jsuis déçu
+merci pour l'info, meme si elle donne plutot envie de pleurer.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+sephirothff
+Posté(e) 6 février 2014
+sephirothff
+Rédacteurs Tutoriaux
+14,3k
+Localisation:quelque part dans l'univers
+: sephirothced
+Share
+Posté(e) 6 février 2014
+pourtant y a bien écrit PSN sur l’icône réseau de la PS3, idem sur PS4 et vita, et comme écrit plus haut ce sont bien les comptes qui sont unifiés ("Cette modification concernant les comptes est uniquement un changement de nom") sur le SEN, tout ce qui est en rapport avec les consoles playstation utilisent bien le reseau PSN
+Pour en revenir à cette maj, il y a une mise à jour du lecteur bluray dessus , ce qui explique donc d'ou vient le blocage des odde
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+Shakin
+Posté(e) 6 février 2014
+Shakin
+Administrateurs
+21,8k
+Localisation:Region Parisienne
+: shakin94
+: shakkin94
+Share
+Posté(e) 6 février 2014
+Merci pour l'information, nous allons rapidement faire une news pour avertir tout le monde.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+acide0
+Posté(e) 6 février 2014
+acide0
+Membres
+9,4k
+Auteur
+Share
+Posté(e) 6 février 2014
+Sephi qui cherche toujours la petite bibitte quand on parle de sa marque fétiche mdr. De toute façon le sujet principal porte pas sur le SEN ou bien PSN ça je m en tamponne elle pourrais même s appeler shepi que ça me fera pas un plis de plus sur le zobe.
+Effectivement que ça touche le BR et c est clair que c était pour arrêter l émergence des ode sur le marché car la c est tout le parc de console qui est concerné.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+sephirothff
+Posté(e) 6 février 2014
+sephirothff
+Rédacteurs Tutoriaux
+14,3k
+Localisation:quelque part dans l'univers
+: sephirothced
+Share
+Posté(e) 6 février 2014
+le lecteur n'avait pa eu droit a une mise à jour depuis bien longtemps en tout cas . ce qui m'amuse c'est que une fois de plus sony réussi a bloquer ce que les hackers pensaient avoir conquis à 100% et démontre bien que la machine en a encore dans le ventre
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+ludo1421
+Posté(e) 6 février 2014
+ludo1421
+Moderateur
+3,6k
+Localisation:de VHS
+Centre d'intérêt:La modification matérielle
+: ludo1421
+Share
+Posté(e) 6 février 2014
+Oui enfin sur 360 cela a etais aussi le cas et en 48 h la team xkey avait la soluce , maintenant a voir sur ps3 et cobra mais la j ai des doutes sur cette team .
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+madfabe
+Posté(e) 7 février 2014
+madfabe
+Membres
+1
+Localisation:Villefranche de Lauragais
+: djmadfabe
+Share
+Posté(e) 7 février 2014
+Bonsoir,
+Alors moi j'ai fait la mise à jour un peu par hasard.
+Je m'explique... J'ai vu que ma console me demandait une mise à jour, dans le doute je cherche sur google des infos et je vois que pour la mise à jour en 4.53, il fallait mettre le cobra ode en "passthrough". Donc, j'éteins la console, je passe en "passthrough" et lance la mise à jour...
+une fois la mise à jour lancée, horreur... je vois le message mise à jour vers la version 4.55 (et non 4.53)... trop tard que faire, j'ai attendu en croisant les doigts.
+Fin de la mise à jour, je lance le jeu dans la console, ça fonctionne.
+J'éteins la PS3, je repasse en "émulation" et lance mon cobra ode puis choisis un jeu et tout fonctionne.
+Conclusion : j'ai pu faire la mise à jour en 4.55 sans bloquer mon ode.
+P.S. j'ai une ps3 fat CECHL sata (je dis ça car je ne peux rien garantir sur les modèles plus récents)
+Juste une question est-ce que je peux essayer de jouer en ligne sans risques de blocage de l'ode ou de ban du psn (ou sen) liés à cette mise à jour?
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+Ashura75013
+Posté(e) 10 février 2014
+Ashura75013
+Moderateur
+2,8k
+Localisation:PARIS - Banlieue parisienne
+Centre d'intérêt:- Ma chérie - Mes potes - Football (supporter du PSG) - Jeux vidéos <= Logique non?
+: Ashura75013
+Share
+Posté(e) 10 février 2014
+En fait le blocage s'opère sur les consoles slim et super slim madfabe, donc pour toi pas de soucis logiquement.
+Mais merci d'ajouter une pierre à l'édifice.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+JKilvan
+Posté(e) 15 février 2014
+JKilvan
+Administrateurs
+5,9k
+: Johan
+Share
+Posté(e) 15 février 2014
+All I think I can say the next update will also include a lot of new features that most of you will like. =-)
+I can't tell anything more and I probably said too much already. But it's great.
+Info provenant de SDeath, qui est proche de la team cobra.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+JKilvan
+Posté(e) 17 février 2014
+JKilvan
+Administrateurs
+5,9k
+: Johan
+Share
+Posté(e) 17 février 2014
+Voici un récap pour les odes ps3:
+Cobra: aucun soucis apparemment pour les consoles autres que 4k.
+Une mise à jour mcu2.0 est imminente pour corriger le problème avec les consoles n'acceptant plus l'ode en firm4.55. Cette mise à jour apporterait également de nombreuses améliorations.
+3key: aucun soucis pour les consoles autres que 4k. La team est aussi sur un correctif pour cette catégorie de console.
+Lien vers le commentaire
+Partager sur d'autres sites
+More sharing options...
+deaphroat
+Posté(e) 17 février 2014
+deaphroat
+Membres
+6,8k
+Localisation:besancon
+Share
+Posté(e) 17 février 2014
+tu as lu ca ou pour le 3k3y?
+3K3Y :
+Lecteurs 312r, 314r rt 316r touchés (3K,4K et 4K2 ), regardez sur la remote ou dans le menuiso. Certaines personnes disent qu'en mode bdkey ça fonctionne toujours...
+It is advised that you do not accept the latest update (4.55), it has been found to cause problems with certain models of PS3 and 3k3y
+It appears that BD models 312r, 314r and 316r (3K,4K AND 4K2 )are being affected, this info can be found under about on the remote or in the ISOMENU.

@@ -1,0 +1,349 @@
+J'ai pensé mettre deux GZ34 ou deux 5U4G en parallèle , ensuite un chimique de 100µF , ensuite une self de 500mA , ensuite un deuxième chimique de 470µF !!
+A savoir que dans mes docs et apparement dans ces valves GZ34 une chutte de tension se produit et est de l'ordre de 15V !!! Faut il que je cummule 2 x 15v pour les deux valves ???
+J'usqu'à maintenant j'ai toujour redressé mes amplis avec des diodes et filtre en PI avec résistanes capacités , mais quand je vois avec qu'elle afficacité agit la self sur mon 845 pourquoi pas des valves sur mon prochain ampli ??!!
+Mais il va falloir que je fasse faire un transfo d'alim avec une HT à point millieu et un ou deux enroulements 5v pour les valves , mais avec ces chuttes de tensions dans les valves comment être sûr de la tension redressée ?? sinon je peux à la rigueur faire faire des prises supplémentaire sur la HT du transfo !!
+J'avais pensé à 2 x 425 volts environ , mais j'ai un secteur à 239 volts , qu'elle chiotte !!
+Pierre.
+Modifié le 11-05-2005 19:05 par Pierrot
+Ajouter une réponse
+Développer les discussionsSurveillerFermer/(re)ouvrir la discussionListe
+« PrécédentSuivant »
+Auteur Sujet: Deux GZ34
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 10-05-2005 18:45
+Salut Pierrot !
+En configuration parallèle, il faut compter 11V de chute pour un courant total de 360mA (pas d’indication de ta part !).
+Sinon il vaut mieux ne pas dépasser 100µF pour la capa de tête, les valves détestent.
+Tu peux aussi connecter deux transfos en phase pour avoir l’équivalent d’un point milieu ou même quatre transfos d’isolation 220/220 bon marché !
+A+
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 10-05-2005 19:08
+360mA correspondraient au courant de repos des deux push pull !! car je compte sur environ 90 ma par tube , mais ça je ne sais pas encore vu qu'il faut que je fasse des essais !
+Une GZ34 accepte max 75µf , donc deux GZ34 avec 100 à 130µf en tête serait pas mal à mon avis !!
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 11-05-2005 09:26
+Salut Pierre,
+La simulation montre l'importance des résistances parasites cumulées, celle du transfo, celle des valves, celle de la self. N'oublie pas que la durée d'ouverture des diodes est assez courte : 3ms environ par demi période durant laquelle le courant monte à 800mA par diode pour 28V crête aux bornes de celle-ci !
+La tension nécessaire au secondaire monte rapidement avec l'augmentation de la somme des résistances parasites. Avec seulement 30 ohms par demi secondaire et 100 ohms pour la self il te faudra du 2*515Vcrête pour tirer 360 mA sous 400V.
+La moindre variation de valeur des résistances parasites joue énormément sur la tension secondaire nécessaire.
+Attention aussi à la mise sous tension brutale qui provoque une oscillation selfique montant jusqu'à 490V sur les capas.
+Je crains aussi que tu sois à la limite des GZ34.
+Arnaud H.
+Modifié le 11-05-2005 13:55 par iriaax
+Contacter
+Chambrion Pierre
+message(s)
+posté le 11-05-2005 11:49
+Bon je sent que j'vais rester avec mes BY255 habituelle !!!
+De plus la fabriquation du transfo est simplée , je fait rajouter quelques prises et comme ça je peux règler ma HT !!
+De toutes façons qui à entendu une différence d'écoute entre les diodes et les valves ???!!!
+Bonne journée !
+Pierre.
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 11-05-2005 13:52
+Excuse moi, j'ai confondu à la simulation la valeur crête et la valeur efficace; un transfo entre 2*370V et 2*400V sera suffisant. A voir quand même selon les résistances parasites pour l'instant inconnues
+J'ai corrigé mon message précédant en concéquence.
+Arnaud H.
+Modifié le 11-05-2005 13:57 par iriaax
+Contacter
+René Conseil
+Utilisateur
+1952 message(s)
+posté le 11-05-2005 14:17
+Arnaud Haegele a écrit:
+> Attention aussi à la mise sous tension brutale qui provoque une oscillation selfique montant jusqu'à 490V sur les capas.
+Bonjour à tous,
+Que veux tu dire par là, Arnaud ?
+Je peux concevoir qu'une mise sous tension est brutale lorsque l'on utilise des diodes solid state, mais là... avec des tubes, la mise sous tension est toujours progressive (?). Ou alors il faudrait s'amuser à mettre en et hors tension pendant que les tubes sont encore chauds... mais bon, c'est un cas de figure qui n'est jamais préconisé pour d'autres raisons hors sujet.
+Me trompe-je ?
+René
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 11-05-2005 18:11
+Bonsoir René
+Sur le schéma de Pierrot l'interrupteur HT se trouve sur le point milieu du transfo. On aura une pointe de résonance dans la cellule LC quand le courant s'établira 'à fond la caisse' (overshot...comme on dit)
+Ici la résistance parasite (inconnue) de la self est favorable.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 11-05-2005 19:02
+Attention j'ai mis l'inter sur le point millieu c'était juste pour la forme mais je ne les met jamais ici !!!
+Pierre.
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 11-05-2005 19:39
+Une petite ilustration de ce phénomène qui dure environ une seconde.
+Les tensions correspondent à l'entrée et à la sortie de la self.
+Arnaud H.
+Contacter
+René Conseil
+Utilisateur
+1952 message(s)
+posté le 11-05-2005 19:59
+Ha oui.... là cela me parle mieux.
+Pas très grave tout de même, il suffit de prévoir les capas de filtrage adéquates en tension ?
+Et puis, une seconde, les capas sont prévues pour supporter cela.
+Je comprenais mal en fait, je pensais que tu voulais dire que cette résonnance allait durer dans le temps... et je ne voyais pas pourquoi, bien sur.
+De plus, je n'avais pas vu le 2eme inter sur le point millieu du transfo.
+Pierre,
+Pourquoi ce second inter sur la HT ? C'est une tempo le temps d'ammener ta polarisation fixe aux tubes ?
+René
+Contacter
+Chambrion Pierre
+message(s)
+posté le 11-05-2005 20:46
+En effet j'me demande maintenant pourquoi j'ai mis cet inter !!! bouhhh !! non il n'y en a pas !!
+En fait je pense refaire le schéma du Leak TL50 plus qui est un excellent schéma , avec des 6550 , mais en retouchant les polars pour mes TS de 3,4k !! C'est pour celà que je pensais mettre deux GZ34 , puisse qu'eux en ont mis une par bloc mono !! J'ai regardé chez Millerioux mais je ne trouve pas le transfo qui convienne !! il me faut un deux fois j'en sais rien pour la haute tension , 2x 6,3v/5A à point millieu pour les push pull , 1 x 6,3v/4A pour les tube préamp , et 5v/5A pour les valves.
+Pour la haute tension je sais pas encore quoi mettre , il me faut calculer la charge des deux push pull , puis je connais pas les chutes dans les GZ34 !! bref le genre de monatge qui me prend la tête , donc je pencherai plutôt pour des diodes rapides BY255 , un secondaire HT normal et deux ou trois prises pour je puisse règler ma HT !!
+J'ais beaucoup d'exemples et de schémas avec redressement par valves mais pour des blocs mono !!
+A cogiter tout ça !!!
+Pierre.
+Modifié le 11-05-2005 20:48 par Pierrot
+Contacter
+René Conseil
+Utilisateur
+1952 message(s)
+posté le 11-05-2005 23:09
+Si tu fais un bloc stéréo, rien ne t'empeche de le construire comme deux blocs monos. Un transfo d'alim avec 2 secondaires HT, une diode par coté avec le filtrage en pi. Cela sera meilleur que 2 diodes en // qui alimentent les deux cotés en même temps.
+Et en plus, moins de prise de tête puisque tu peux suivre tes schémas pour blocs monos.
+René
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 12-05-2005 14:21
+En fait le phénomène de surtension à la mise sous tension n'est manifeste que pour des selfs de plus de 50H. Pour les valeurs couramment utilisées (10H à 20H) il est totalement négligeable.
+Pour la petite histoire, une cellule 100µF + 100H + 470µF double la tension sur la capa de tête à la mise sous tension si la consommation en aval est nulle (tubes froids ou circuit ouvert).
+La course au super filtrage peut ainsi s'avérer dangereuse, on pense avoir du 400V et on se retrouve avec 800V pendant une bonne fraction de seconde.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 12-05-2005 18:46
+Arnaud !
+Pourrait tu me faire une simulation sur le taux de résiduelle et tout le bastringue de ce qui suit ??
+Secondaire de transfo 400v , suivis d'un doubleur de tension (Latour) avec deux BY255 suivis de deux capas au papier huilé de 8µ/500v en série , suivis d'une selfs de 10H/250ma , suivis de deux autres capas de 8µ/500v en série. Le débit tiré sur ce filtre serait de 200ma !!
+La haute tension redressée à vide devrait être de l'ordre de 1131 volts
+s'il te faut d'autres infos tu me le dis , mais là sur le coup c'est juste pour savoir si deux capas de 4µf/1000v suffisent pour filtrer du 1000volts !!
+Merci à toi
+Pierre.
+Modifié le 12-05-2005 18:52 par Pierrot
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 12-05-2005 19:30
+Bonsoir Pierre,
+Il manque effectivement certaines données : la résistance parasite du secondaire du transfo ainsi que celle de la self.
+L’objectif est de 1000V sous 200mA, c’est cela qui compte, la tension alternative tombera alors toute seule.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 12-05-2005 21:00
+J'ai pas les données du transfo , on peux pas faire une aprox , en comptant par exemple une R du secondaire entre 300 et 350 ohms et entre 70 et 100 ohms pour la self ??
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 12-05-2005 21:19
+En minimisant les résistances parasites (ce qu’il ne faut surtout pas faire !) on obtient pour 200mA sous 1KV:
+Transfo : 490V efficaces
+Tension crête sur chaque capa de tête : 690V
+Tension inverse sur les diodes 1250V au démarrage, 1150V en service
+Ondulation résiduelle 20V crête à crête.
+Tout cela augmentera en fonction des résistances parasites
+Je reprendrais les simulations demain avec tes estimations de résistance
+Arnaud H.
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 13-05-2005 10:43
+Bonjour Pierrot !
+Voilà la nouvelle donne avec 325 ohms pour le transfo et 85 ohms pour la self , pour 200mA sous 1KV en sortie :
+Transfo : 626V efficaces (et oui !), en charge bien sûr (210W).
+Tension crête sur chaque capa de tête : 690V
+Tension inverse sur les diodes 1200V au démarrage, 1150V en service
+Ondulation résiduelle 16V crête à crête.
+Arnaud H.
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 13-05-2005 12:10
+J'ai oublié de préciser qu'un transfo de 210W est purement théorique; il n'est sollicité que la moitié du temps et doit débiter 1A à chaque crête de 885V, soit des performance d’un transfo de 440W ! Un petit bruit est à craindre.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 13-05-2005 20:09
+Bon 4µf sera trop faible !!! argggg !!!mais je n'arrive pas à mettre la main sur des 10µF/1200volts !!
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 13-05-2005 20:50
+Pas de panique, tu ajoutes une cellule LC identique (10H et 2*8µF en série) et l'ondulation descend à 1V crête à crête. Par contre prévoir 635V efficace au transfo.
+Arnaud H.
+Modifié le 13-05-2005 20:51 par iriaax
+Contacter
+Chambrion Pierre
+message(s)
+posté le 13-05-2005 21:51
+Deux cellules !!!!ouargg!! c'est justement ce que je ne veux pas !
+Demain je vais à Vitrolle (bourse radio amateur ) il faudrait que j'y trouve 4 condos de 20µf/630V au papier huilé , ce serait le top !! 10µf + self + 10µf Arnaud ça donnerait quoi en gros ??
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 13-05-2005 22:06
+En remplaçant les quatre capacités de 8µF par quatre de 20µF l'ondulation est réduite à 2V et le transfo abaissé à 605V efficaces (avec les valeurs hypothétiques de résistances parasites que tu as fournies).
+Les tensions sur les capas de tête ateignent 580V (515V de moyenne). Les tensions inverses sur les diodes sont au max de 1070V.
+A bientôt !
+Arnaud H.
+Modifié le 13-05-2005 22:11 par iriaax
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 14-05-2005 08:32
+Si je trouve le temps ce W-E j'examinerai ce qui se passe lorsque l'alimentation ne débite sur rien, c'est une situation à ne pas négliger car elle montera à 1300V !
+Arnaud H.
+Modifié le 14-05-2005 22:35 par iriaax
+Contacter
+Chambrion Pierre
+message(s)
+posté le 14-05-2005 19:57
+Bon je revient de Vitrolle !!! je n'ai vu que 4 condos au papier neufs de 10µf/750 !! des monstres , que je n'ai pas pris d'ailleur !!
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 15-05-2005 11:22
+Cher Pierrot
+Tu m’excuseras, mais je ne suis plus du tout partisan de ces antiquités qui ne présentent que des défauts à mes yeux (inductance parasite, fuite et dégradation interne).
+Personnellement j’utilise des chimiques modernes, de petits axiaux 50µF 450V que je double en parallèle avec des non polarisés 100nF. Tu pourrais en mettre quatre en série (=12.5µF) équilibrés par des résistances de 1Mo, plus des non polarisés HT de faible valeur. Ce montage te permet même de mettre l’alimentation sous tension sans consommer.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 15-05-2005 11:36
+Oui Arnaud , je cogitais celà ce matin !!!
+de toutes façon il faut obligatoirement que je mette 4 condo en parrallèle pour pouvoir prendre la demi tension sur le doubleur de Latour !
+Je pense qu'un minimum de 25µf+self+25µf ou 50µf+self+50µf serait bon , donc il faut que je trouve 8 condos de 100µf ou 220/350v ce qui me ferait une tenue en tension de 1400 volts !! Si j'en trouve des pas trop gros et de bonne qualité c'est cool , je pourrai les monter sur une platine sous le châssis !
+De plus les filaments des tubes 813 étant alimentés en continu celà limite la ronflette !!
+Sur mon ampli à tube 845 j'ai au total 100µf + self de 500ma + 100µf , alim filaments des 845 en continu , pas le moindre soufle n'y ronflette , même oreilles collées aux HP !!! efficace les selfs quand même !!!
+La discution à déviée mais c'est pas grave !hi!
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 15-05-2005 13:36
+j'utilise des axiaux de 50µF 450V= de la taille d'un pouce (chez Sélectronic ou Conrad, je ne sais plus). La mise en série oblige à les équilibrer en tension par des résistances en parallèle.
+Arnaud H.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 15-05-2005 14:04
+Tu alimente quoi avec tes 50µf ?? 845 , 813 , 211 ??
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 16-05-2005 09:42
+un préampli semi passif pour vinyl (à boucle de courant pour le régistre grave)
+Arnaud H.
+Modifié le 16-05-2005 13:55 par iriaax
+Contacter
+Chambrion Pierre
+message(s)
+posté le 16-05-2005 19:04
+Ok !!
+Bon de toutes façons pas le choix , je mettrai des chimiques , y a du choix chez Radiospares mais faut faire gaffe aux tarifs !!
+Pierre
+Contacter
+Jean F
+message(s)
+posté le 17-05-2005 02:06
+Quelques adresses ou les tarifs sont plus intéressants que chez Slectronic, Radio Spare, Fréquence tubes etc.
+Pour le remplacement des chimiques en faible tension, les Elna Silmic donne de bien meilleur résultat, pour le filtrage HT, voir les différents sites, les Nichicon sont d’une qualité au-dessus de la moyenne mais les prix un peu plus élevés.
+http://www.e44.com
+http://www.tubetown.de/ttstore/index.php/cPath/31_55_76
+http://www.tubetown.de/ttstore/index.php/cPath/31_37 http://tubeampdoctor.shop-in-worms.net/index.php?cPath=35_77&osCsid=d72a43b961f04f0283bfa1203d0bbb39
+http://tubeampdoctor.shop-in-worms.net/index.php?cPath=35_79&osCsid=d72a43b961f04f0283bfa1203d0bbb39
+http://www.audio-cube.nl/ Condensateur Elna Silmic
+http://www.mouser.com/ condensateur Nichicon.
+http://www.donberg-electronique.com/search.html Divers prix intéressant.
+http://www.alscomposants.com/ Composant divers prix abordable.
+Contacter
+Chambrion Pierre
+message(s)
+posté le 17-05-2005 09:07
+Merci à vous !!
+Pierre
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 17-05-2005 19:20
+Bonsoir Pierrot.
+En utilisant tes estimations des futures résistances parasites voilà les résultats en utilisant des capas de 50µF mises en série de quatre :
+Tension de pointe sur chaque capa de tête : 285V. Il faut veiller à ce que les capas en série et leur résistance d'équilibrage aient toute la même valeur sinon des surtensions peuvent apparaître à la mise en marche.
+Tension inverse sur chaque diode : 1060V
+Transfo : 605V efficace, courant de crête : 1050 mA (performance d'un transfo de 400W)
+Ondulation en sortie : 2V crête à crête pour 200mA sous 1KV.
+Résistances d'équilibrage pour chaque capa : 330Kohm 1W
+En cas de mise sous tension à consommation nulle, on obtient :
+Tension de sortie : 1300V
+Tension de pointe sur chaque capa de tête : 335V
+Tension de pointe sur chaque capa de sortie : 325V
+Tension inverse sur chaque diode : 1300V
+Ces résultats varient beaucoup en fonction des résistances parasites.
+Bonne soirée
+Arnaud H.
+Contacter
+Arnaud Haegele
+Utilisateur
+1311 message(s)
+posté le 17-05-2005 19:33
+quelques graphes joints :
+Tensions avant et après la self.
+Tensions aux bornes des diodes.
+Tensions sur les capas de tête.
+Arnaud H.
+Contacter
+alain le toullec
+Utilisateur
+155 message(s)
+posté le 28-08-2005 15:50
+bonjour pierre , en remontant les discussion je suis tombé sur ton thread et j'aimerais bien connaitre la suite du feuilleton 8--)) .
+ou est ce que tu va mettre l'inter sur ton alim ???
+sur ce meme forum on m'avait conseillé de le mettre comme sur ton schéma !!! sur le point milieu .
+plusieurs schéma vu sur le net met aussi l'interrupteur ici !!!!
+il y a un bizz qql part 8--(( .
+si j'ai bien compris tu voulais partir d'un transfo de 2 x 450 v a point milieu pour justement le redresser avec des valves et vu les tensions en jeux tu es obligé de te rabattre sur les diodes by 255 donc tu n'a plus vraiment besoin de transfo a point milieu , un transfo 0--450 v et un doubleur de tension est suffisant .

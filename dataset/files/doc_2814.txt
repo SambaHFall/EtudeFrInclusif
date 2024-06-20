@@ -1,0 +1,68 @@
+Intitulée “Rubans de l’intime”, c'est une expo un brin sexy qui se dévoile jusqu’en novembre à Saint-Étienne, mais pas que. Elle est aussi l’occasion de découvrir comment les usages de ce bout de tissu s’inscrivent dans les évolutions historiques et sociétales.
+Article rédigé par
+Faustine Mazereeuw - franceinfo Culture
+France Télévisions Rédaction Culture
+Publié le 09/06/2021 12:21
+Temps de lecture : 1 min.
+Utilisé pour orner, mais surtout serrer les corsets... L'exposition révèle le ruban dans tous ses usages : esthétiques, mais aussi pratiques et symboliques. (France 3 Rhône-Alpes)
+Porte-jarretelles, corsets, lingerie fine... le ruban est roi dans l’imaginaire du sexy. Et pourtant, ses usages sont loin de se limiter à une fonction d’apparat : ainsi, c’est le ruban élastique des culottes d’hommes, grâce à sa nature pratique, qui a permis de faire tomber les bretelles.
+C’est cette histoire, ce lien entre le ruban et les évolutions de la société que l’exposition “Rubans de l’intime”, qui se dévoile au musée d'art et d’industrie de Saint-Étienne jusqu’en novembre, souhaite mettre en lumière. Une expo qui s’inscrit aussi dans le passé de la région : grâce à l’essor de la soierie lyonnaise, la cité stéphanoise est un haut-lieu de la production du ruban depuis le 16e siècle.
+Une folle histoire du ruban
+À travers des pièces exceptionnelles, le musée d'art et d’industrie retrace les fonctions pratiques, techniques, esthétiques et sociétales du ruban. “Le ruban a participé à l’évolution des formes et des sous-vêtements. Ces rubans avaient des fonctions techniques : pour soutenir, modeler, soulager... Mais c’était aussi des fonctions esthétiques, des fonctions d’ornement et des fonctions symboliques”, explique Sylvain Bois, commissaire général de l’exposition.
+Vous pourrez admirer des guêpières de la créatrice Chantal Thomass – qui est la marraine de l’exposition -, la robe corsetée de Jean-Paul Gaultier, de la lingerie Dior... Vous découvrirez également comment ce bout de tissu était utilisé pour comprimer les corps avec les corsets, popularisés à la Renaissance puis délaissés lors de la Première Guerre mondiale. Le ruban des porte-jarretelles, également, fut boudé à partir de l’invention des collants, bien plus pratiques.
+Différents modèles de rubans issus d'ateliers stéphanois. (France 3 Rhône-Alpes)
+“Il y a une notion sociétale encore plus forte que dans d’autres expositions, à travers notamment la libération de la femme”, souligne Marc Chassaubéné, adjoint à la culture de Saint-Étienne. Pour vous rendre compte par vous-même des contraintes engendrées par certaines pièces, il vous est proposé de les enfiler dans une cabine d’essayage, à l’abri des regards.
+Rubans de l’intime - jusqu’au 14 novembre 2021. Musée de l’art et de l’industrie - 2 place Louis Comte, 42000 Saint-Étienne. De 10h à 18h tous les jours sauf le lundi. Sur réservation au 04 77 49 73 00
+Voir les commentaires
+Partager :
+Partager sur Twitter
+Partager sur Facebook
+Partager par mail
+Partager le lien
+actualités analyses vidéos
+Prolongez votre lecture autour de ce sujet
+tout l'univers Patrimoine
+articles sur le même thème
+Pathé'O, le styliste qui veut changer l'image de la mode en Afrique
+"Dior en roses" : le musée Christian Dior de Granville célèbre la fleur et la couleur, sources d'inspiration pour le couturier
+À Saint-Étienne, des artistes se produisent à travers les hublots d'une galerie
+Vidéo
+"Le camembert de Normandie doit rester au lait cru" : l'artisan fromager Pierre Coulon se bat à Camembert contre la pasteurisation
+Dans le Cantal, à la découverte des fours à pain d’autrefois grâce à la réalité virtuelle
+les sujets associés
+Culture
+Mode
+Patrimoine
+Vu d'Europe
+Franceinfo sélectionne chaque jour des contenus issus de médias audiovisuels publics européens, membres de l’Eurovision. Ces contenus sont publiés en anglais ou en français.
+contenus sponsorisés
+Commentaires :
+Connectez-vous à votre compte franceinfo pour participer à la conversation.
+Voir les commentaires
+Culture
+Patrimoine
+Newsletter
+toute l’actu dès 7h30
+Chaque matin à 7h30, recevez l'actu du jour dans votre boîte mail.
+renseignez votre adresse email
+s'abonner
+France Télévisions utilise votre adresse email afin de vous adresser des newsletters.
+Pour exercer vos droits, contactez-nous.
+Notre politique de confidentialité Contactez-nous
+Twitter (nouvel onglet) Facebook (nouvel onglet) Instagram (nouvel onglet) Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+App store
+Play store
+Télécharger l'application
+Politique de confidentialité
+CGU et mentions légales
+Gérer mes traceurs
+Nous contacter
+Qui sommes-nous?
+Charte déontologique
+Devenir annonceur
+Recrutement
+<",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); // ftvi script usabilla.ts is in charge of usabilla loading with correct ID // window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/[USABILLA_ID].js"); /*]]>{/literal}*/

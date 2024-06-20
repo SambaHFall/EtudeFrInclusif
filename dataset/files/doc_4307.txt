@@ -1,0 +1,77 @@
+Expérience éducative impactante en Blended Learning ` } }) } else { tags.forEach(tag => { if (!excludeTags.includes(tag.slug) && loopCounter === 0) { loopCounter++; tagHtml = `${tag.name}` } }) } return tagHtml } function renderReadingTime(postBody) { const body = postBody ? postBody : ""; const cleanPostBody = body.replace(/(<([^>]+)>)/gi, ""); const initialPostWords = cleanPostBody.split(' ').length; const calculatedPostWords = (initialPostWords/100) * 100; const finishedPostWords = Math.round(calculatedPostWords / 300); if (finishedPostWords < 1) { return "1 min"; } else { return `${finishedPostWords} min`; } } function truncateString(str, num) { if (str.length <= num) { return str } return str.slice(0, num) + ' (...)' } function renderChapo(chapo) { return truncateString(chapo.replace(/(<([^>]+)>)/gi, ""), 100); } const blog_post_formatter = function(blogposts) { let formatted = ""; for (var i = 0; i < blogposts.length; i++) { const blogpost = blogposts[i]; formatted += '
+'; if (blogpost.widgets.case_study_icon && blogpost.widgets.case_study_icon.body.src != "") { formatted += ` `; } else { formatted += ` `; } formatted += '
+'; if (blogpost.tagList.length > 0) { formatted += renderTag(blogpost.tagList, false); } formatted += '
+'; formatted += `
+${blogpost.name}
+`; formatted += `
+${renderReadingTime(blogpost.postBody)}${renderTag(blogpost.tagList, true)}
+`; formatted += `
+${renderChapo(blogpost.widgets.blog_post_chapo.body.html)}
+`; formatted += ``; formatted += '
+'; } return formatted; }
+Skip to content
+Tous les thèmes
+Doper l'engagement des collaborateurs
+Renforcer l'employabilité des plus jeunes
+Lutter contre la pénurie de compétences
+Maintenir le lien entre tout un chacun
+Parlons Impact
+Études de cas
+Découvrir nos produits
+Études de cas Employabilité
+Expérience éducative impactante en Blended Learning
+2 min
+Le groupe MediaSchool souhaite proposer des dispositifs pédagogiques innovants et impactants, en cohérence avec l’excellence de ses parcours sur les métiers d’aujourd’hui et de demain.
+0 temps fort de cet article
+Partager
+Le secteur de l’enseignement supérieur connaît depuis plusieurs années des enjeux liés à la transition digitale des métiers : le défi est d’aborder des métiers en perpétuelle évolution à travers des offres innovantes adaptées aux attentes d’une génération ultra-connectée.
+C’est le pari relevé par MediaSchool, leader français de l’enseignement supérieur privé et de la formation continue, qui souhaite développer une expérience éducative en blended learning, en adéquation avec ses valeurs.
+MediaSchool regroupe 38 écoles, dans plusieurs filières : Communication, Journalisme, Digital, Audiovisuel, Commerce, RH, Création de contenus, Luxe, Tourisme, Sport, Informatique, Management, Transition écologique.
+DÉFINITION
+Que signifie Blended Learning ? Le Blended Learning est une formule pédagogique qui combine des séquences de formation en ligne et de formation en présentiel.
+C’est dans ce contexte que certaines écoles du groupe, dont Iris Strasbourg, ECS Angoulême, ECS NICE, ECS Paris, ECS Barcelone et School of Luxury Paris, ont souhaité digitaliser 25 à 30% de leurs cursus.
+Un puissant levier de différenciation
+Être en mesure de proposer des dispositifs innovants et adaptés aux besoins d’apprentissages modernes, est devenu un puissant levier de différenciation et de pérennisation des offres éducatives.
+Et la crise sanitaire mondiale renforce encore cette conviction, puisque l’enseignement supérieur s’est vu contraint d’adapter ses dispositifs du jour au lendemain pour répondre à la nécessité du distanciel.
+Pour en apprendre davantage sur les challenges rencontrés par l'éducation initiale et l'éducation continue, visionnez le replay de notre webinar, avec Rosa Luna Palma, Directrice générale adjointe chez MediaSchool Group.
+Dispositif pratique, intégré et abordant les compétences de demain
+Dans ses cursus, le groupe privilégie la pédagogie inversée (aussi appelée la classe inversée). Il s’agit d’acquérir les savoirs « théoriques » en s'exerçant chez soi, à travers la lecture de documents, le visionnage de vidéos et la participation à des quizzs de type QCM tandis que le développement des compétences à travers des activités est favorisé lors des moments d’interactions entre enseignant et élèves.
+C’est dans cette optique que depuis septembre, le groupe donne accès, en partenariat avec Openclassrooms, à des licences de cours pour compléter et enrichir ses ressources pédagogiques à destination des étudiants.
+« Notre choix de partenariat avec Openclassrooms s’est appuyé essentiellement sur trois garanties :
+Garantie de compétence : Openclassrooms a acquis en peu d’année une position de leader reconnu du e-learning en France.
+Garantie de convergence : les compétences-métiers et les relations humaines sont posées au cœur de la mission de MediaSchool et de la mission d’OpenClassrooms.
+Garantie d’éthique : l’ambition plus large d’entreprise à impact correspond, au plus haut degré, à la vision de la formation pour manager-dirigeant des médias de l’IMM, dont le programme vise explicitement l’impact positif et à celle de la Green Management School pour l’accompagnement des entreprises sur la transition écologique. »
+Rosa Luna-Palma
+Directrice générale adjointe chez MediaSchool Group
+Notre choix de partenariat avec Openclassrooms s’est appuyé essentiellement sur trois garanties:
+Et l’objectif est de généraliser cette pratique sur la durée, en mettant à disposition sur la plateforme d’apprentissage interne (aussi appelée LMS, pour Learning Management System), 300 licences la première année, 3000 licences la deuxième, et 5000 la troisième.
+Chaque licence offre :
+Un accès illimité aux 500 cours certifiants sur 12 thématiques
+Un accès aux cours en mode hors ligne
+Un accès multi-écrans (desktop, mobile, tablette)
+Des certificats de réussite de cours
+Un environnements d'apprentissage online dédiés
+Un dashboard pour suivre l'activité et la progression des étudiants
+Un webinaire de lancement du dispositif à l’attention des étudiants
+Un support et accompagnement au déploiement et au pilotage du dispositif (CSM)
+Une Hotline e-mail et téléphonique pour les étudiants
+Voici un échantillon des cours sélectionnés par MediaSchool et mis à la disposition de ses étudiants dans le cadre de ce partenariat :
+Découvrez les fondamentaux de l’UX design
+Développez votre activité avec le marketing de contenu
+Débutez sur Adobe Photoshop
+Construisez votre plateforme de marque
+Initiez vous au design
+Compétences digitales et évolution des enseignements pour se rapprocher de la demande des entreprises : voici les clés d’une stratégie gagnante pour préparer au mieux les étudiants à leur entrée sur le marché du travail.
+Rédigé par
+Astrid Bertout
+Passionnée par l'éducation, Astrid écrit sur de nombreux sujets pour guider les entreprises à faire face aux enjeux de la transformation digitale. Du recrutement à la formation, son objectif est de vous aider à développer les compétences de vos talents.
+Avec
+Rosa Luna-Palma
+DGA MediaSchool Group
+Partager
+Sur la même thématique
+Voir tous nos articles
+Rejoignez notre communauté de RH responsables
+Pour en savoir plus sur tout le positif de la formation, nos événements dédiés, et nos derniers contenus, inscrivez-vous à notre newsletter !
+Envoi mensuel et désabonnement facile à tout moment.
+Avec plus de 1500 clients dans tous secteurs d'activité, OpenClassrooms est convaincu que la formation est un levier d’impact positif pour les entreprises, les collaborateurs et la société.

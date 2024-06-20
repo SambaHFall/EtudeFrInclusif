@@ -1,0 +1,173 @@
+Oui, mediteo m+ est disponible comme dispositif médical seulement en Allemagne. La version basique de mediteo peut être utilisée dans d’autres langues ou pays. Malheureusement, ce n’est encore pas le cas pour le dispositif médical mediteo m+.
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Veuillez noter que votre abonnement est lié à votre Apple ID ou à votre compte Google. Vous payez une seule fois pour Android ou iOS, quel que soit le nombre d’appareils que vous utilisez. Si vous voulez utiliser mediteo m+ sur les deux systèmes d’exploitation, vous aurez besoin de mediteo m+ deux fois (sur iOS et sur Android).
+Attention : simplement désinstaller mediteo m+ n’annule donc pas votre abonnement sur Apple ou Google. Vous devrez l’annuler séparément (cf. annuler l’abonnement mediteo m+).
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+mediteo m+ peut être testé gratuitement pour 2 semaines. Après cela, vous pouvez choisir entre deux options :
+Paiement mensuel de 8,99€ par mois
+Paiement tous les trois mois de 23,49€ pour les trois mois
+Les prix exacts peuvent varier légèrement en fonction de votre pays ou en raison de Apple ou Google.
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+mediteo m+ est un achat in-app que vous pouvez effectuer directement sur mediteo. Il s’agit dans ce cas d’un abonnement géré par Apple ou Google. L’abonnement sera renouvelé automatiquement, sauf s’il est annulé.
+Acheter :
+Icône du profil (en haut à gauche) → mediteo m+ → En savoir plus → Soutenir maintenant (ou voir tous les abonnements)
+Gérer :
+iOS : icône du profil (en haute à gauche) → mediteo m+ → Changer de plan
+Android : icône du profil (en haute à gauche) → mediteo m+ → Voir les détails → Gérer l’abonnement
+Annuler :
+iOS : icône du profil (en haute à gauche) → mediteo m+ → Changer de plan
+Android : icône du profil (en haute à gauche) → mediteo m+ → Voir les détails → Gérer l’abonnement
+Plus d’informations sur l’annulation :
+L’annulation doit être effectuée au moins 24 heures avant la fin de la période d’abonnement en cours.
+L’annulation par déclaration écrite n’est pas possible pour des raisons techniques ; elle doit être effectuée dans l’App Store ou dans Google Play.
+Simplement désinstaller l’application ne signifie pas annuler l’abonnement. Ce dernier doit encore être annulé dans l’App Store ou Google Play.
+Vous trouverez plus d’informations sur Apple (https://support.apple.com/fr-fr/HT202023) ou Google (https://support.google.com/googleplay/answer/1061913?hl=fr).
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Avec l’achat de mediteo m+ vous ne soutenez pas seulement votre santé, vous contribuez également au développement de mediteo m+. Si vous souhaitez être encore plus engagé, vous pouvez écrire vos suggestions d’améliorations à l’adresse [email protected] ou vous inscrire comme testeur de produit à l’adresse [email protected]
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Grâce à l’icône « export » en haut à droite sur le Journal, vous pouvez exporter vos prises et mesures sous forme de diagramme ou tableau. Pour cela, suivez simplement les questions dans l’application. L’export regroupe vos données et prises selon la période sélectionnée, de façon à ce que vous ou votre médecin puissiez obtenir les informations suivantes en un clin d’œil :
+évolution et tendance de vos mesures
+écart par rapport à la zone cible (cf. zone cible pour la tension artérielle)
+nombre de prises de vos médicaments regroupées par jours
+adhésion thérapeutique regroupée par médicament
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Vous pouvez passer au mode sombre en tapant sur Plus → Paramètres → Mode « sombre » ou « automatique ». Avec le mode automatique, mediteo m+ s’adapte à votre smartphone. Veuillez noter que le mode sombre est disponible seulement à partir de iOS 12 et Android 9.
+Initialement seulement disponible sur appareils iOS.
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Sur le Journal, vous pouvez entrer des zones cibles qui seront affichées dans le diagramme et dans l’export PDF.
+Créer/modifier/supprimer :
+(sur iOS à partir de la version 4.6.0) Mon Journal → Sélectionner la mesure → Zone cible
+Pour la mesure de la pression artérielle, nous vous offrons aussi des zones d’orientation basées sur l’âge que vous avez entré dans le profil et sur les directives médicales européennes. Elles seront affichées automatiquement (sur iOS avant la version 4.6.0) ou peuvent être activées (sur iOS après la version 4.6.0). Étant donné que, dans ce cas, il y a de nombreux facteurs qui peuvent être importants, ces zones peuvent être différentes de la zone cible qui s’applique réellement à vous. Le réglage de la pression artérielle devrait toujours être effectué en collaboration avec votre médecin. Vous trouverez plus d’informations sur mediteo m+ en tapant sur la bannière au-dessus du diagramme.
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+THERAFOX est un dispositif médical séparé et disponible seulement en Allemagne. Vous pouvez y accéder avec le bouton en bas de la liste de vos médicaments (sur la page « Traitements »). Avec un contrôle THERAFOX vous recevrez les informations suivantes sur les médicaments de votre plan d’action :
+duplications (par ex. deux médicaments avec le même principe actif)
+interactions entre médicaments (par ex. deux médicaments qui se renforcent ou s’affaiblissent mutuellement)
+intervalle QT (par ex. l’allongement du rythme cardiaque dû à plusieurs médicaments)
+PRISCUS (restrictions potentielles du traitement liées à l’âge)
+De plus, il peut y avoir des indications sur ces sujets :
+prises (par ex. heures ou prises liées aux repas)
+aliments (par ex. restrictions en cas de prise avec certains aliments)
+fototoxicité (par ex. sensibilité à la lumière du soleil)
+Attention : le contrôle THERAFOX peut seulement être effectué avec une connexion internet active, et seulement les médicaments dans la base de données sont vérifiés (donc pas les médicaments ajoutés manuellement).
+Actuellement, le dispositif médical mediteo m+ est disponible seulement en Allemagne et en allemand.
+Bien sûr. Toutes les fonctionnalités de base restent disponibles. Par conséquent, toutes les FAQ (foire aux questions) concernant la version basique de mediteo sont également valables pour mediteo m+.
+Download mediteo today
+Follow us
+Mediteo GmbH
+About us
+Disclaimer
+Privacy Policy
+Contact us
+About the mediteo app
+mediteo
+How it works
+FAQs
+Terms & Conditions
+Copyright 2021 © Mediteo GmbH
+Scroll Up
+Privacy settings
+We use cookies on our website. Some of them are essential, while others help us improve this website and your experience.
+Essential
+Statistics
+Marketing
+External Media
+Accept all
+Save
+Individual privacy settings
+Cookie details Privacy policy Imprint
+Privacy settings
+Here you will find an overview of all cookies used. You can give your consent to whole categories or have further information displayed and thus select only certain cookies.
+Accept all Save
+Back
+Essential (3)
+Essential cookies enable basic functions and are necessary for the proper functioning of the website.
+Display cookie information Hide cookie Information
+Name
+Borlabs Cookie
+Provider
+Owner of this website
+Usage
+Saves the settings of visitors selected in the cookie box of Borlabs Cookie
+Cookie name
+borlabs-cookie
+Cookie duration
+1 year
+Name
+pll_language
+Provider
+WP SYNTEX
+Usage
+Manage multilingual websites
+Privacy policy
+https://polylang.pro/privacy-policy/
+Host(s)
+www.mediteo.com
+Cookie name
+pll_language
+Cookie duration
+1 year
+Name
+Cloudflare
+Provider
+cloudflare.com
+Usage
+Used by the content network Cloudflare to identify trusted web traffic.
+Privacy policy
+https://www.cloudflare.com/de-de/privacypolicy/
+Host(s)
+.mediteo.com
+Cookie name
+__cfduid
+Cookie duration
+30 days
+Statistics (1)
+Statistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.
+Display cookie information Hide cookie Information
+Accept
+Name
+Google Analytics
+Provider
+Google LLC
+Usage
+Cookies from Google for website analysis. Generate statistical data about how visitors use the website.
+Privacy policy
+https://policies.google.com/privacy?hl=de
+Cookie name
+_ga,_gat,_gid,__utma,__utmb,__utmc,__utmt,__utmz
+Cookie duration
+2 years
+Marketing (2)
+Marketing cookies are used by third parties or publishers to display personalized advertising. They do this by tracking visitors across websites.
+Display cookie information Hide cookie Information
+Accept
+Name
+Google AdSense
+Provider
+Google LLC
+Usage
+Cookies from Google that are used for ad targeting and ad measurement.
+Privacy policy
+https://policies.google.com/privacy?hl=de
+Host(s)
+doubleclick.net
+Cookie name
+DSID, IDE, test_cookie
+Cookie duration
+1 year
+Accept
+Name
+Bing
+Provider
+bing.com
+Usage
+Widely used by Microsoft as a unique user ID. The cookies enable user tracking by synchronizing the ID in many Microsoft domains. In addition, _uetvid and _uetsid are used to determine which ads to display that may be relevant to the end user browsing the site.
+Privacy policy
+https://privacy.microsoft.com/de-de/
+Host(s)
+bat.bing.com
+Cookie name
+MUID, MUIDB, _uetvid, _uetsid
+Cookie duration
+1 year & _uet 3 weeks
+External Media (1)
+Content from video platforms and social media platforms is blocked by default. If cookies from external media are accepted, access to this content no longer requires manual consent.

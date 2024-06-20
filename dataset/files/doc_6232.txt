@@ -1,0 +1,99 @@
+Ralenti à 1400tr/min - 500 SL W107 1981 / 07.3- Injection mécanique Ess - K, KA, Kʎ, KE / MERCEDES-BENZ Anciennes
+MERCEDES-BENZ Anciennes
+Echanges autour des Mercedes-Benz de la seconde moitié du XXe siècle - Entretien et Maintenance
+Accueil
+Règles
+Documentation Technique
+Brochures et Presse
+Liens Utiles
+Inscription
+Identification
+Vous n'êtes pas identifié(e).
+Accueil
+» 07.3- Injection mécanique Ess - K, KA, Kʎ, KE
+» Ralenti à 1400tr/min - 500 SL W107 1981
+Pages : 1
+#1 03-11-2021 12:12:13
+Fabrice1911
+Membre
+Inscription : 15-09-2021
+Messages : 4
+E-mail
+Ralenti à 1400tr/min - 500 SL W107 1981
+Bonjour à tous !
+Je viens vous solliciter car j'ai à l'atelier une 500 SL de 1981 (source CG), avec un problème de ralenti. J'ai déjà regardé les différents posts qui relatent de problèmes similaires, j'ai également consulté la documentation disponible via MBA qui est vraiment fournie !!
+Seulement plusieurs problèmes persistent ! Je n'ai pas la même chose sous le capot que ce qui est décrit dans les photos... Peut-être parce que l'auto est un import du Canada ?
+Sinon j'ai procédé par élimination jusque là :
+- Commande d'accélérateur = des jeux de partout tout du long de la chaine de gaz, sur les axes et/ou les rotules.
+7mm de jeux sur la photo 1. Normalement pas la peine d'aller plus loin, mais... de 3 à 5mm partout... et là le jeux sur l'axe fait que la commande se décale de 3mm...
+- Le relais de surtension qui devrait se trouver contre le tablier n'y ai pas... Je précise qu'en plus du ralentit très haut le voyant ABS est allumé.
+- Je n'ai pas le régleur/actuateur de ralentit comme ce que j'ai pu voir sur les photos et documents...
+- Les piquages de dépressions sont morts et ont été rafistolés par le passé à grand coup de silicone (colle à pare-brise ??)... la durite de retour de vapeurs d'huile est également lâche, sans collier (mais aussi dure comme une pierre). La vis d'air est complètement fermée sinon le régime est encore plus haut...
+- Le contacteur à dépression est introuvable du côté gauche de l'auto (tout comme à droite)...
+Je suis donc preneur de conseils pour le plan d'action suivant !
+Refaire la tringlerie de gaz complète pour être sûr de partir sur de bonnes bases de ce côté là. Puis un remplacement des durites diverses et leurs piquages qui sont fatiguées (sans parler de celles de carburant qui sont craquelées). Et enfin poursuivre par le système de régulation de ralenti (trouver qui fait quoi - comment - quand). Le tout en sachant qu'avant de démonter quoi que ça soit je vais devoir le chiffrer approximativement et avoir l'aval du client pour la réalisation des travaux.
+Merci d'avance !! Fabrice
+Hors ligne
+#2 03-11-2021 12:33:23
+Guillaume C
+Modérateur
+Inscription : 04-03-2010
+Messages : 2 760
+E-mail
+Re : Ralenti à 1400tr/min - 500 SL W107 1981
+En toute rigueur, il faudra commencer par indiquer le VIN complet de la voiture. L'identification du matériel est extrêmement importante.
+Ce que je vois sur tes photos me laisse penser qu'il s'agit d'une auto en version standard ( = non USA ou Canada), antérieure à septembre 1981.
+Elle est donc équipée d'une régulation mécanique du ralenti (vis d'air en plastique blanc/beige) et non d'une régulation électronique.
+Pour continuer et finir sur le ralenti, une valeur anormalement élevée est généralement due à :
+- une ouverture excessive du papillon (rare sur ce modèle au vu de la difficulté d'accès à la vis de réglage de butée de papillon )
+- une prise d'air importante dont l'effet premier est de faire caler ou boîter le moteur mais qui, après réglage de richesse pour compenser, peut aboutir à un ralenti élevé
+- un excès d'avance à l'allumage ; c'est le cas le plus fréquent, et c'est ce que je vérifierais en premier. Il faut bien tenir compte du fait que cet allumeur comporte encore une capsule de dépression à double effet, qui retarde le point d'allumage au ralenti, et l'avance en charge partielle. Tes photos montrent que les tuyaux de dépression d'origine ( de couleurs différentes pour les repérer) ont été remplacés par des tuyaux noirs "anonymes".
+Il faudra commencer par suivre ces tuyaux et nous indiquer leur parcours, puis s'assurer de la formation d'une dépression dans l'un au ralenti, et dans l'autre en charge partielle. Enfin, il faudra s'assurer que les branchements sur la capsule n'ont pas été inversés (ça s'est déjà vu...), et que la capsule est étanche.
+Enfin, il sera temps de sortir la lampe stroboscopique et vérifier convenablement le calage de l'allumeur.
+En ce qui concerne le relais de surtension, sur une W107 tu ne le trouveras jamais sur le tablier (c'est la disposition des W126) ; il se trouve dans le compartiment à relais, situé dans l'habitacle au-dessus de la boîte à fusibles (il faut démonter l'habillage pour y accéder).
+Hors ligne
+#3 03-11-2021 13:01:34
+Corail
+Administrateur
+Lieu : Hérault
+Inscription : 06-02-2008
+Messages : 12 220
+E-mail Site Web
+Re : Ralenti à 1400tr/min - 500 SL W107 1981
+Idéalement, ce serait d'isoler les photos du texte (par exemple après) , mais les inclure donne le tournis.
+Le VIN est nécessaire.
+Achat d'occasion: 220SEb/C (1991) 230TE (2005) 280CE (2005), 320CE (2012),
+Achetés neufs: 300D (aout 1980) & 300TD (novembre 84)
+Hors ligne
+#4 03-11-2021 14:57:56
+Fabrice1911
+Membre
+Inscription : 15-09-2021
+Messages : 4
+E-mail
+Re : Ralenti à 1400tr/min - 500 SL W107 1981
+Merci pour ces premiers retours !
+Pour ce qui est du VIN : 10704612000932
+Bon finalement si le modèle n'est en rien électronique pas la peine de se compliquer la vie, je vais procéder comme nous le faisons pour les moteurs à carbus (à savoir jeux aux soupapes, allumage statique, contrôle et ajustement en dynamique)... Je vais de ce pas chercher les infos des jeux adm. et éch. ainsi que le calage statique et j'aviserai à partir de là ! Le problème risque de pouvoir identifier le numéro moteur (j'ai vu que celui-ci est peu accessible pour l'avance statique)
+Pour ce qui est des durites de dépression, celle qui est sur l'extérieur de la capsule (avance via la dépression) est connectée en partie basse du plateau sonde. Celle sur l'intérieur (retard est piquée sur le circuit de la vis jaune/beige).
+Hors ligne
+#5 05-11-2021 16:01:27
+Fabrice1911
+Membre
+Inscription : 15-09-2021
+Messages : 4
+E-mail
+Re : Ralenti à 1400tr/min - 500 SL W107 1981
+Bonjour,
+Bon bah problème résolu avec en effet un problème d'avance à l'allumage. Une fois réglée comme indiquée sur le cache culbuteur j'ai juste ouvert un peu la vis d'air pour obtenir le régime souhaité et hop !!
+Cela n'enlève ne rien les autres soucis au niveau de la tringlerie de gaz, l'état des durites, du faisceau électrique etc...
+Merci pour tout !
+Au plaisir !!!
+Hors ligne
+Pages : 1
+Accueil
+» 07.3- Injection mécanique Ess - K, KA, Kʎ, KE
+» Ralenti à 1400tr/min - 500 SL W107 1981
+Pied de page des forums
+Atteindre
+Les Femmes & les Hommes qui comptèrent Le constructeur & les préparateurs Les compétitions Modèles Forum général Proto, Rockrawling & Réalisations sur base Mercedes Que demander à une MERCEDES ? / Projet d'achat Identification: véhicule, moteur, fiches, codes, ... 01- Questions DIESEL 01- Questions Essence 03- Equipage mobile 05a- Culasse, Admission, Air 05c- Distribution: Arbre à came, Pignon, Chaine, Tendeur, Calage 05b- Soupapes, Poussoirs, Culbuteur, Réglage 07.1- Injection POMPE en LIGNE Ess. / Diesel 07.1b- Ralenti Diesel: bruyant ou instable 07.2- Carburateur 07.3- Injection mécanique Ess - K, KA, Kʎ, KE 07.4- Injection électronique Essence 13- Courroies, Poulies & Tendeur 14- Echappement, KAT, EGR, Pollution & Fumées 15a- Essence: Allumage, Démarrage, Bougie 15b- Diesel: PréChauffage, Démarrage, Bougiesl 18- HUILE, GRAISSE, Circuit, Lubrification & Consommation 20- Refroidissement, thermostat 24- Suspension du moteur & extraction moteur 26- BVM & Embrayage 27- BVA 30- Tempomat & Tringleries d'accélération ou de ralenti 32- Suspension & Correcteur d'assiette 33- Essieu Av 35a- Essieu Ar ASD 35b- 4Matic: Boite de transfert & Pont 40- Roue Géométrie 41- Arbre de Transmission, Flector 42- Frein ABS ASR 46- Direction, volant 47- Carburant: conso, circuit, réservoir, filtre, pompe 54a- Batterie, Alternateur ou Dynamo, Démarreur 54b- Electricité, câblage, .. 54c- Bloc-instruments, Commandes, Montre, Voyant 64 - Rétroviseurs, Baguettes & Enjoliveurs, .. 68- Intérieur: Tableau de bord, Console centrale & Vide poche 69- Equipements intérieurs: SRS, Téléphone, .. 70- Glaces, Vitres 72 - Portes Av & Ar 75 - Capot Av, Malle Ar, Coffre, Hayon 78 - Toit, Toit ouvrant, Hard Top, Capote 80- Neiman, Serrures, Circuit-Dépression & Verrouillage Centralisé 82- Phare, Optique, Ampoule 83- Chauffage et ventilation 88- Parechoc pièces extérieures 91- Sièges, Accoudoirs, Banquettes & Ceintures 98- Peinture Questions 'autres': Outillage, Levage, ... Signaux spécifiques Généralités sur les OBDs Moteur: Lecture & interprétation du code défaut Trains roulants: : Lecture & interprétation du code défaut Superstructure: : Lecture & interprétation du code défaut Climatisation: : Lecture & interprétation du code défaut Articles techniques Un MATERIAU, du MATERIEL & des TOURS de MAIN TOLE & HUILE DE COUDE , TRAVAUX DANS LA PRATIQUE Donne ou vend Cherche ou achète Bonnes & moins bonnes adresses Articles Clim-Pb & Clim-Net Rallyes, Bourses, Rencontres, Visites, Promenades Nos radios, leurs antennes, leurs HPs Les autres accessoires: galerie, attelage, .. Livres & autres supports de communications Miniatures PILORI
