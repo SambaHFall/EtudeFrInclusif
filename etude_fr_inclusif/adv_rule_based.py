@@ -116,16 +116,6 @@ output : a boolean indicating whether wd is a neutral-gender word
 def detect_neut(wd : str):
 	if neutrulesregex.exists(wd) :
 		return -1
-	"""
-	neutregex = r'.*(x|æ.*)$'
-	if len(wd) < 4 or not re.match(neutregex, wd.lower()):
-		return None
-	else:
-		if not dictrules.exists( wd.lower() ) :
-			return -1
-		else:
-			return None
-	"""
 
 """
 wd : a word

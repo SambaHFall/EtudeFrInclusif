@@ -1,0 +1,43 @@
+Retour sur Kidal! Inspiré des missions des Long Range Desert Groups, vous incarnez des SAS dans un périple à travers l’hostile désert malien. Parcourez des kilomètres en convoi, de village en village, en territoire hostile tenu par des groupes armés terroristes. Retour dans les années 90!
+[tabs tab1= »SITUATION » tab2= »MISSION » tab3= »MOYENS TECHNIQUES » tab4= »RENSEIGNEMENTS »]
+[tab id=1]
+La ville de Kidal subie une menace aiguë des groupes armés terroristes (GAT). Ces derniers ambitionnent de renverser les autorités locales et d’instaurer une sorte de califat islamique à tendance Wahhabite. Le sous-sol malien regorge de terres rares que la Grande Bretagne souhaite pouvoir continuer à exploiter. Les retombés économiques sont altérées par le climat d’insécurité qui règne sur le territoire.
+[/tab]
+[tab id=2]
+[toggle title= »CARTE DE L’OPERATION »] [/toggle]
+L’Opération Mars consiste à mener une action en profondeur en territoire hostile. Un convoi préparé pour parcourir de longues distances, s’enfoncera en territoire inconnu dans le but de renseigner la chancellerie sur les GAT qui tiennent la zone. Les habitants locaux sont une mine d’or en information, c’est pourquoi vous apporterez ce dont ils manquent le plus pour gagner leur confiance, de l’eau. Au total vous aurez à parcourir une quinzaine de kilomètres. Mais le tracé est de tous, le plus dangereux.
+[/tab]
+[tab id=3]
+[checklist]
+Une dizaines de camions tous armés de M2.[/checklist]
+[badlist]
+Aucunes forces amies dans les environs.[/badlist]
+[/tab]
+[tab id=4]
+Les GAT disposent de campement le long de votre itinéraire. Plus vous vous enfoncerez en territoire hostile, plus ces derniers seront solidement implantés. Leurs infrastructures seront de plus en plus lourdes. Ils sont équipés relativement lourdement. Il est à craindre qu’ils disposent de quelques vieux BTR et ZSU à vous opposer comme moyens les plus dangereux.
+[/tab][/tabs]
+[toggle title= »CARACTERISTIQUES / MODS »]
+Action en profondeur, distance relativement importante à parcourir en convoi
+Ambiance SAS années 90
+Choix de classe dynamique
+Mission échouable : si les deux camions qui transportent de l’eau sont détruits..
+Le désert le plus pur
+Mods :
+CBA
+TFAR
+ACE
+SMA
+CARMA Uniformes
+KIDAL
+CUP CORE
+PROJECT OPFOR
+RHS AFRF
+RHS USAF
+ACE COMPAT AFRF
+ACE COMPAT USAF
+[/toggle]
+Categories: MISSIONS, Operations, Opérations UniquesPar Forxtop 2 mai 2018
+Author: Forxtop
+Jeune canaille
+Post navigation
+Onglet précédentPrevious post:Le TTA Commandement et Encadrement enfin disponible!NextNext post:Du nouveau au CARMA! Edit: Abandon FAW -> IFA

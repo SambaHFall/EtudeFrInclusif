@@ -43,7 +43,7 @@ def validate_model(button, app_data, user_data) :
 		case 1 :
 			tmp = "AdvRBModel(proc=" + str(user_data["proc"]) + ")"
 		case 2 :
-			tmp = "InclureModel()"
+			tmp = "InclureModel(proc=" + str(user_data["proc"]) + ")"
 		case 3 :
 			tmp = "CRFModel()"
 		case 4 :
@@ -68,9 +68,12 @@ def validate_model(button, app_data, user_data) :
 
 def explore():
 	global selected
-	dpg.delete_item("opts")
+	if dpg.does_alias_exist("opts") :
+		dpg.delete_item("opts")
 	with dpg.window(label="Traitement") :
 		dpg.add_text("model selected : " + selected)
+		with open(os.path.dirname(os.path.abspath(__file__)) + "/mem.txt", "a") as f :
+			f.write(selected + '\n')
 		subprocess.run(["python3", script_dir+"/collect_oscar.py", selected])
 
 def add_tol_callback(input, app_data, user_data) :
@@ -131,7 +134,10 @@ def add_options() :
 					dpg.add_checkbox(label="epi", callback=add_to_list, user_data=data["proc"], parent=tag)
 					dpg.add_checkbox(label="neu", callback=add_to_list, user_data=data["proc"], parent=tag)
 			case 2:
-				pass
+				data["proc"] = []
+				with dpg.group(horizontal=True, parent=tag) :
+					dpg.add_checkbox(label="fle", callback=add_to_list, user_data=data["proc"], parent=tag)
+					dpg.add_checkbox(label="coo", callback=add_to_list, user_data=data["proc"], parent=tag)
 			case 3:
 				pass
 			case 4:
@@ -151,12 +157,27 @@ def model_listing(with_vote=True) :
 		cbbox_sub = dpg.add_combo(items=models[:-1], parent="opts_child", tag="cb_sub")
 		dpg.add_button(label="Selectionner", callback=select_model, user_data=cbbox_sub, tag="sel_but_sub", parent="opts_child")
 
+def launch_previous_selec(button, app_data, user_data) :
+	global selected
+	selected = dpg.get_value(user_data)
+	dpg.delete_item("prev_sel")
+	explore()
+
+def choose_previous_selec() :
+	dpg.add_window(label="Ancienne(s) selection(s)", tag="prev_sel")
+	with  open(os.path.dirname(os.path.abspath(__file__)) + "/mem.txt", 'r') as f :
+		dpg.add_combo(items=f.read().split('\n'), parent="prev_sel", tag="prev_sel_combo")
+	dpg.add_button(label="Selectionner", parent="prev_sel", callback=launch_previous_selec, user_data="prev_sel_combo")
+
 
 
 dpg.create_context()
 dpg.create_viewport(title='Mon application', width=1020, height=800)
 
 with dpg.window(label="Choose a model", tag="Primary_Window") as window:
+	if os.path.exists(os.path.dirname(os.path.abspath(__file__)) + "/mem.txt") :
+		dpg.add_button(label="Ancienne(s) selection(s)", callback=choose_previous_selec)
+
 	model_listing()
 
 

@@ -6,3 +6,7 @@ doc_295.txt == doc_294.txt
 doc_1866.txt == doc_1865.txt
 doc_3520.txt == doc_3521.txt
 doc_1532.txt == doc_1530.txt
+doc_4938.txt == doc_4940.txt
+doc_4938.txt == doc_4939.txt
+doc_4710.txt == doc_4711.txt
+doc_4940.txt == doc_4939.txt

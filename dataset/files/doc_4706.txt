@@ -1,0 +1,60 @@
+Vous pouvez faire des recherches avec un joker sur un ou plusieurs caractères au sein des termes simples. Pour faire une recherche avec joker sur un seul caractère, utilisez le symbole "?". Pour effectuez une recherche avec joker sur plusieurs caractères, utilisez le symbole "*". La recherche avec un joker sur un seul caractère va faire correspondre le terme avec le "?" remplacé par n'importe quel autre caractère unique.
+Par exemple : histo* trouve des notices avec les termes "histoire" ; "historien" ; "historique"... etc.
+Une phrase est un groupe de mots inclus dans des double guillemets, tel que "textes vernaculaires"
+Opérateurs booléens : AND ; OR ; NOT
+L'opérateur par défaut est AND
+AND
+L'opérateur AND signifie que tous les termes doivent correspondre à une partie du/des champs cherché(s).
+OR
+L'opérateur OR divise la requête en plusieurs termes optionnels.
+NOT
+L'opérateur NOT exclut les documents qui contiennent le terme situé après NOT.
+Vous pouvez chercher dans des champs spécifiques en tapant le nom du champ suivi de ":", suivi du terme que vous cherchez.
+Syntaxe de recherche : champ:Terme
+N.B. : Les noms des champs sont en minuscules
+Exemples :
+titre:histoire AND annee:2010
+titre:"Esprit des lois"
+titre:"Esprit des lois" OR titre:"Lois des esprits"
+titre:médiévis*
+terme:féodal
+Champs disponibles pour la recherche :
+Nom du champ à utiliser
+Exemple
+Correspondance
+titre titre:médiévi* Pour rechercher par titre de publication
+auteur auteur:lorcin Pour rechercher par auteurs
+annee annee:1997 Pour rechercher par année de publication
+lieu lieu:Lyon Pour rechercher par lieu publication
+editeur editeur:EFR Pour rechercher par éditeur
+aut_anc aut_anc:rigord Pour rechercher par Auteur ancien ou médiéval
+collection collection:"Archéologie et histoire de l'art" Pour rechercher par titre de collection
+revue revue:"Revue d'Histoire et d'Archéologie Méditerranéennes" Pour rechercher par Titre de revue
+revue_sigle revue_sigle:HAM Pour rechercher par Sigle de la revue
+issn issn:1234-5678 Pour rechercher par ISSN
+terme terme:économie Pour rechercher par Terme d'indexation
+Fermer
+Présentation des résultats :
+Champ Liste
+Nombre de résultats par page :
+10 20 30 40 50
+Tri des résultats
+Pertinence Titre (A-Z) Titre (Z-A) Auteurs (A-Z) Auteurs (Z-A) Date croissante Date décroissante
+Fermer
+14 résultats pour terme:(Démons) | tri par Pertinence
+Julien Véronèse. «L'historien et ses démons. Autour de quelques travaux récents sur la démonologie médiévale», dans Médiévales, 73, 2017, p. 213-240 [Pratiques religieuses, rites, rituels ; Clergé ; Vie religieuse, dévotion, laïcs ; Magie ; Mystique ; Rituels ; Sainteté ; Sorcellerie ; Superstition ; Visionnaire ; Inquisition ; Dominicains ; Anges ; Démons ; Diable ; Hérésie ; Moyen Âge central ; Moyen Âge tardif ; Princes ; Laïcs]
+Florence Chave-Mahir, Julien Véronèse. Rituel d'exorcisme ou manuel de magie ? Le manuscrit Clm 10085 de la Bayerische Staatsbibliothek de Munich (début du XVe siècle), Florence : Sismel-Edizioni del Galluzzo, 2015, 231 p. (Micrologus'Library, 73) [Religions, croyances, sacré ; Pratiques religieuses, rites, rituels ; Christianisme ; Clergé ; Disciplines, autorités, arts libéraux, science ; Liturgie ; Magie ; Rituels ; Superstition ; Démons ; Diable ; évangiles ; Messe ; Magie]
+Julien Véronèse. «Solomonic Magic», dans Sophie Page et Catherine Rider, The Routledge History of Medieval Magic, Londres-New York : Routledge, 2019, p. 187-200 [Pratiques religieuses, rites, rituels ; Christianisme ; islam ; judaïsme ; Disciplines, autorités, arts libéraux, science ; Manuscrit ; Magie ; Rituels ; Superstition ; Anges ; Démons ; Astrologie ; Astronomie ; Magie ; Traduction]
+John Haines, Julien Véronèse. «De quelques usages du chant liturgique dans les textes latins de magie rituelle à la fin du Moyen Âge», dans Cahiers de recherches médiévales et humanistes, 39, Paris : Classiques Garnier, 2020, p. 293-320 [Religions, croyances, sacré ; Pratiques religieuses, rites, rituels ; Christianisme ; Clergé ; Disciplines, autorités, arts libéraux, science ; Liturgie ; Magie ; Rituels ; Anges ; Démons ; Messe ; Magie ; Musicologie ; Musique]
+Julien Véronèse. «La parole efficace dans la magie rituelle médiévale (XIIe-XVe siècle)», dans Nicole Bériou, Jean-Patrice Boudet et Irène Rosier-Catach, Le pouvoir des mots au Moyen Âge, Turnhout : Brepols, 2014, p. 409-433 (Bibliothèque d'histoire culturelle du moyen âge, 13) [Pratiques religieuses, rites, rituels ; Arabe ; Grec ; Hébreu ; Latin ; Liturgie ; Magie ; Rituels ; Anges ; Démons ; Sacrement ; Magie ; Histoire culturelle ; Histoire religieuse]
+Julien Véronèse. «Faire société avec les démons ? Le magicien et la question du pacte aux derniers siècles du Moyen Âge», dans Gianluca Briguglia, Sonia Gentili, Irène Rosier-Catach, L'homme comme animal politique et parlant, dans Philosophical Readings, XII/1, 2020, p. 277-293
+http://virgo.unive.it/ojs2/index.php/phr/article/view/166 [Religions, croyances, sacré ; Pratiques religieuses, rites, rituels ; Christianisme ; Liturgie ; Magie ; Rituels ; Inquisition ; Démons ; Diable ; Hérésie ; Magie ; Moyen Âge tardif]
+Julien Véronèse. L'Almandal et l'Almadel latins au Moyen Âge. Introduction et éditions critiques , Florence : Sismel-Edizioni del Galluzzo, 2012, 242 p. (Micrologus'Library, 46) [Occident ; Magie ; Mythe ; Prière ; Rituels ; Superstition ; Anges ; Démons ; Sacrement ; Salut ; mémoire ; Arts libéraux ; Université ; Magie]
+Amélie de las Heras. «Le « fantasme » chez Martin de León († 1203)», dans Hypothèses, 1, 2009, p. 277-284 [Bible ; Démons ; Diable ; Péché ; Salut ; Sermon ; Péninsule ibérique ; Moyen Âge central]
+Julien Véronèse (collab), Jean-Patrice Boudet (collab). «La Somme de la magie sacrée de Bérenger Ganell», dans Nicole Bériou, Jean-Patrice Boudet et Irène Rosier-Catach, Le pouvoir des mots au Moyen Âge, Turnhout : Brepols, 2014, p. 17-19 (Bibliothèque d'histoire culturelle du moyen âge, 13) [Religions, croyances, sacré ; Pratiques religieuses, rites, rituels ; Magie ; Rituels ; Anges ; Christ ; Démons ; Grammaire ; Magie ; Rhétorique]
+Jean-Patrice Boudet, Julien Véronèse. «Lier et délier : de Dieu à la sorcière», dans Jean-Philippe Genet, La légitimité implicite. Actes des conférences organisées à Rome en 2010 et en 2011 par SAS en collaboration avec l’École française de Rome vol. I, Paris-Rome : Publications de la Sorbonne-École française de Rome, 2015, p. 87-119 [Pratiques religieuses, rites, rituels ; Clergé ; Liturgie ; Magie ; Prière ; Rituels ; Sorcellerie ; Prêtre ; Démons ; Hérésie]
+Martine Ostorero (dir), Julien Véronèse (dir). Penser avec les démons. Démonologues et démonologies (XIIIe-XVIIe siècles), Florence : Sismel - Edizioni del Galluzzo, 2015, 358 p. (Micrologus'Library, 71) [Religions, croyances, sacré ; Magie ; Rituels ; Sorcellerie ; Superstition ; Inquisition ; Dominicains ; Ordres mendiants ; Pape ; Démons ; Diable ; Hérésie]
+Julien Véronèse. «Sauts de langues et parole performative dans les textes de magie rituelle médiévale (XIIe-XVe siècle)», dans Benoît Grévin et Aude Mairey, Le Moyen Âge dans le texte. Cinq ans d'histoire textuelle au Laboratoire de médiévistique occidentale de Paris, Paris : Publications de la Sorbonne, 2016, p. 77-92 (Histoire ancienne et médiévale, 141) [Langues ; Pratiques religieuses, rites, rituels ; Arabe ; Grec ; Hébreu ; Latin ; Magie ; Prière ; Rituels ; Anges ; Démons ; Magie ; Communication]
+Julien Véronèse. «Virgilius Hispanus philosophe et magicien», dans Jean-Louis Haquette et Karin Ueltschi, Les métamorphoses de Virgile. Réception de la figure de l’Auctor (Antiquité, Moyen Âge, Temps modernes), Paris : Honoré Champion, 2018, p. 287-307 [Magie ; Démons ; imaginaire ; Université ; Autorités ; Magie ; Philosophie ; Péninsule ibérique ; Moyen Âge tardif]
+Jean-Patrice Boudet, Julien Véronèse. «Si volueris per demones habere scientiam : l'Experimentum nigromantie attribué à Michel Scot», dans M. Coumert, M.-C. Isaïa, K. Krönert et S. Shimahara (éd.), Rerum gestarum scriptor. Histoire et historiographie au Moyen Âge. Mélanges Michel Sot, Paris : Presses de l'Université Paris-Sorbonne, 2012, p. 691-702 (Cultures et civilisations médiévales, 58) [ ; ; Magie ; Rituels ; Démons ; Arts libéraux ; Université]
+Bibliographie gérée grâce à BibliOpera version 0.8 - Pour toute remarque, contacter Dominique Stutzmann

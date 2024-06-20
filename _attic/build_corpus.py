@@ -22,9 +22,9 @@ def compute_info_corpus(input_filename="new_corpus.csv", refs_filename="docs_ref
 		f.write( f"Nombre d'entrées : { len(df) }\n" )
 
 		f.write("----------\n")
-		docs_ids = list(set([ item.split('_')[0] for item in df["sample_id"] ]))
+		docs_ids = list(set([ int(item.split('_')[0]) for item in df["sample_id"] ]))
 		f.write(f"Nombre de documents : {len(docs_ids)}\n") 
-		f.write(f"Proportion par rapport au nombre de documents visités : { round(len(docs_ids) * 100 / int(max(docs_ids)),2) } %\n")
+		f.write(f"Proportion par rapport au nombre de documents visités : { round(len(docs_ids) * 100 / max(docs_ids),2) } %\n")
 
 		ext_dict = {}
 		for ind, content in refs.iterrows() :

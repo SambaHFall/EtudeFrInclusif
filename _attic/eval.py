@@ -33,8 +33,8 @@ print("Métriques pour rule-based adv :")
 print(modelARB.metric(test_x, test_y, preds))
 weights_list.append(modelARB.metric(test_x, test_y, preds)["precision"])
 
-modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/arb_preds.csv")
-modelARB.annotation_layout(test_x, test_y ,iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/obs.csv")
+modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/arb_preds.csv")
+modelARB.annotation_layout(test_x, test_y ,iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/obs.csv")
 
 
 modelNRB = NaiveRBModel()
@@ -46,7 +46,7 @@ print("Métriques pour rule-based naïf :")
 print(modelNRB.metric(test_x, test_y, preds))
 weights_list.append(modelNRB.metric(test_x, test_y, preds)["precision"])
 
-modelNRB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/nrb_preds.csv")
+modelNRB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/nrb_preds.csv")
 
 modelCRF = CRFModel()
 
@@ -57,7 +57,7 @@ preds = modelCRF.predict(test_x)
 print("Métriques pour CRF :")
 print(modelCRF.metric(test_x, test_y, preds))
 
-modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/crf_preds.csv")
+modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/crf_preds.csv")
 
 modelINC = InclureModel()
 models_list.append(modelINC)
@@ -68,7 +68,7 @@ print("Métriques pour Inclure :")
 print(modelINC.metric(test_x, test_y, preds))
 weights_list.append(modelINC.metric(test_x, test_y, preds)["precision"])
 
-modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/inclure_preds.csv")
+modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/inclure_preds.csv")
 
 
 gran = 0.05
@@ -99,4 +99,4 @@ ax.text(best_x, 0.95,
 
 ax.legend(labels=y_axes.keys())
 
-plt.savefig(sur_script_dir + '/res/super_model_perf.png')
+plt.savefig(script_dir + '/res/super_model_perf.png')

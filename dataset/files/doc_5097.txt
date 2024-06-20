@@ -1,0 +1,81 @@
+OnePlus vient de lever le voile sur l’un de ses deux nouveaux smartphones de cet automne, le OnePlus 7T. Il vient succéder au OnePlus 7, dévoilé en mai 2019, dont il reprend un certain nombre de caractéristiques techniques tout en apportant certains aspects jusque-là réservés à la version Pro. Triple module photo avec capteur principal de 48 millions de pixels, écran AMOLED à 90 Hz, etc. Voici un retour sur ses principales caractéristiques techniques après avoir pu découvrir le smartphone en avant première.
+OnePlus 7T : le premier des deux smartphones de cette fin d’année 2019
+Au printemps dernier, OnePlus avait créé la surprise en dévoilant non pas un mais deux nouveaux smartphones, les Oneplus 7 et OnePlus 7 Pro. Ce dernier incarnait une véritable prise de risque pour la marque chinoise, ainsi qu’une réelle montée en gamme destinée à proposer une alternative – moins onéreuse – aux modèles de Samsung ou de Huawei.
+Lors d’une conférence de presse organisée au sein des nouveaux locaux parisiens de OnePlus, l’entreprise a présenté en grande pompe le OnePlus 7T – ainsi que sa toute nouvelle OnePlus TV – dans le cadre d’un événement organisé en Inde. Si la date de sortie et les prix européens de ce nouveau smartphone restent pour le moment inconnus, nous devrions en savoir plus lors d’un événement organisé à Londres le 10 octobre prochain.
+OnePlus 7T, une version remise au goût du jour
+Extérieurement, le OnePlus 7T se place dans la lignée de son prédécesseur… tout en se montrant plus haut de quelques millimètres. La face avant est occupée à 86,5% par un très grand écran de 6,55 pouces au format 20:9. La partie supérieure intègre une mini-encoche en forme de goutte d’eau. L’appareil s’avère particulièrement fin (8,1 mm) et pèse 190 grammes : lors de notre prise en main, le OnePlus 7T nous a donc paru particulièrement équilibré au vu de ses dimensions.
+L’afficheur est constitué d’une dalle AMOLED (fournie par Samsung). Mais contrairement à son prédécesseur, l’écran du OnePlus 7T Pro offre une fréquence de rafraîchissement très élevée de 90 Hz (jusque-là réservée à la version « Pro »), offrant un défilement des écrans et des effets de transition beaucoup plus fluides que sur les écrans de la concurrence.
+Certifié HDR 10+, cet écran offre une résolution de 1080 x 2400 pixels et bénéficie d’une luminosité maximale de 1000 nits : il pourra donc être utilisé sans problème au soleil. Enfin, il est protégé par une couche de verre Gorilla Glass 5 pour une résistance accrue aux chocs et aux rayures.
+Comme son prédécesseur, il dispose d’un capteur d’empreinte digitale intégré à l’écran… même si ce dernier est de type optique – et non à ultrasons, alors que cette dernière technologie permet un déverrouillage plus rapide.
+A l’arrière, le terminal se dote d’une finition matte aux reflets gris ou bleutés (nommés Frosted Silver et Glacier Blue), qui se montrent moins sensibles aux traces de doigts que les finitions brillantes très populaires il y encore quelques mois.
+Triple module photo et capteur principal Sony de 48 Mpx
+Côté photo, le OnePlus 7T hérite enfin de la polyvalence offerte par un triple capteur photo… qui n’est pas totalement sans analogie avec celui de la version « Pro » du printemps de cette année. Ce dernier vient prendre place au sein d’un cercle noir abritant les trois optiques et le flash.
+Au menu, on retrouve donc un capteur principal Sony IMX 586… qui est loin de nous être inconnu : dévoilé en juillet 2018, il compte 48 millions de pixels et mesure 1/2 pouce (8 mm de large), largement plus que les capteurs dont sont habituellement équipés nos smartphones – à l’exception des modèles les plus récents de Huawei ou de Samsung.
+Basé sur la technologie CMOS empilé (stacked CMOS), ce capteur est de type « quad bayer » et repose sur un procédé de regroupement matriciel : les pixels contigus sont ainsi regroupés en un seul. La hauteur réelle des pixels atteint 1,6 micromètre, ce qui permet à ce capteur d’atteindre (sur le papier) une plage dynamique quatre fois supérieure à celle des autres capteurs pour smartphone. Sony met aussi en avant la combinaison des pixels adjacents pour obtenir une meilleure sensibilité et réduire l’apparition du bruit numérique.
+Sony IMX586 : un capteur photo 48 Mpx et « quad bayer » bientôt dans nos smartphones
+Ce capteur principal de 48 Mpx dispose d’un autofocus à détection de phase assisté par une mesure laser. Il est couplé à une optique stabilisée ouvrant à f/1,6 équivalente à 26 mm.
+Pour la première fois, il est secondé par un deuxième capteur de 16 millions de pixels, surmonté par une optique ultra grand-angle offrant un angle de vue de 117 degrés (équivalent 17 mm) avec ouverture à f/2,2.
+Enfin, on notera la présence d’un télézoom x2 (équivalent 51 mm) avec ouverture à f/2,2 mais sans mécanisme de stabilisation. Cet objectif est mû par un capteur de 12 millions de pixels.
+A l’image de ses concurrents, l’appareil photo permet d’utiliser des longueurs focales « intermédiaires » grâce à un petit slider permettant d’ajuster plus finement le niveau de zoom entre 17 et 51 mm.
+En vidéo, le OnePlus 7T est capable de filmer en 4K 2160p jusqu’à 60 fps, mais peut monter jusqu’à 240 fps en Full HD (1080p). A l’instar de certains de ses concurrents, il peut également réaliser des séquences en slow motion à 960 fps en 720p.
+La marque a particulièrement mis l’accent sur son mécanisme de stabilisation électronique, ce dernier étant censé éliminer les vibrations et autres tremblements de l’utilisateur beaucoup plus efficacement.
+A l’avant, on notera la présence d’un capteur de 16 Mpx couplé à une optique grand-angle (25 mm) ouvrant à f/2,0.
+Macrophotographie, clichés nocturnes et mode Pro
+L’interface de l’appareil photo, d’une grande sobriété, offre différents modes de prise de vue. Ainsi, notons l’apparition d’un nouveau mode Macro permettant de capturer des sujets placés à seulement 2,5 cm de l’objectif photo. Ce dernier semble particulièrement efficace et offre une restitution des détails fort réaliste.
+OnePlus met également en avant les performances nocturnes de son dernier-né, qui vise à égaler les prouesses réalisées par les Google Pixel. Leur fonctionnement s’avère assez similaire : l’appareil capture plusieurs photos simultanément et les fusionne pour une meilleure restitution des détails et limiter l’apparition du bruit numérique.
+Néanmoins, ce mode est limité à l’objectif principal et à l’ultra grand-angle : impossible de tirer parti du zoom x2, dont l’optique est certes moins lumineuse.
+Les utilisateurs avancés pourront toutefois tirer parti du mode Pro : à la manière de ce que propose Huawei (entre autres), il permet de reprendre la main sur la sensibilité du capteur, la balance des blancs, le temps d’exposition ou encore la vitesse d’obturation.
+Processeur Snapdragon 855+ et Android 10
+Le nouveau OnePlus 7T est propulsé par une puce de dernière génération Snapdragon 855+, couplée à 8 Go de RAM. Côté stockage, l’appareil embarque 128 ou 256 Go de type UFS3.0 pour des débits beaucoup plus rapides. Cet espace ne peut pas être étendu au moyen d’une carte micro-SD ; toutefois, on notera la présence d’un double emplacement pour cartes nano-SIM.
+L’ensemble est animé par Android 10, la toute dernière version de l’OS de Google. OnePlus intègre sa surcouche OxygenOS, très populaire auprès des utilisateurs de la marque. Cette dernière se montre particulièrement légère et réactive et intègre quelques fonctionnalités supplémentaires.
+Notons ainsi l’arrivée d’un mode « Chromatic reading mode », qui diminue la saturation des couleurs à l’écran pour faciliter la lecture. La galerie de photos mise également sur un algorithme – en local – permettant de reconnaître les visages des personnes et de les ranger automatiquement en albums thématiques.
+Doté d’un nouveau moteur de vibration haptique, le OnePlus 7T opte pour une une batterie de 3800 mAh, et devrait bénéficier d’une autonomie confortable (malgré la présence de l’écran 90 Hz, plus gourmand en énergie). Il pourra être rechargé très rapidement grâce au chargeur 30W inclus (Warp Charge 30T). En revanche, ce modèle fait l’impasse sur la recharge sans-fil afin de limiter son prix.
+L’appareil mise sur une prise USB-C 3.1 (et non plus 2.0) pour transférer beaucoup plus rapidement les fichiers vers un ordinateur. Cette prise permettra également de brancher des écouteurs filaires via un adaptateur, le smartphone faisant l’impasse sur la prise jack. Les utilisateurs audiophiles se consoleront avec la compatibilité aptX HD (pour une meilleure restitution du flux audio en Bluetooth) et avec la certification Dolby Audio.
+Prix et disponibilité du OnePlus 7T
+Pour l’heure, la marque n’a pas annoncé de date pour le début de la commercialisation du OnePlus 7T.
+En revanche, il nous est possible de deviner son futur tarif : ce dernier devrait être (relativement) similaire au OnePlus 7, qui avait été lancé aux tarifs de 559 € (128 Go) et 609 € (256 Go).
+Comme mentionné précédemment, le terminal sera disponible en deux coloris : Glacier Blue et Frosted Silver.
+Il ne nous reste donc plus qu’à attendre la conférence organisée par OnePlus le 10 octobre prochain pour en savoir plus sur ce modèle – ainsi que sur son grand frère, le futur OnePlus 7T Pro.
+#actualitéOnePlusOnePlus 7TsmartphoneSony IMX586triple capteur
+Article précédentMiss Numérique fête 15 ans de passion avec 6 jours de bons plans photo et vidéo
+Article suivantSunday Links
+Jean-Nicolas Lehec
+Responsable éditorial
+Jean-Nicolas est passionné par beaucoup de choses : la photo, bien sûr, mais aussi l'architecture, l'intelligence artificielle, les voitures (anciennes), les avions et aussi – et surtout – les trains ! Point notable : il adore, le thé noir et le café, dont il consomme plusieurs hectolitres par jour.
+Articles similaires
+Quels sont les meilleurs smartphones photo ? Phototrend met à jour son guide d’achat
+16 novembre 2021
+Prise en main de la DJI Action 2, caméra d’action 4K modulaire et ultra-compacte
+27 octobre 2021
+Adobe Max : Camera RAW débarque dans Photoshop sur iPad
+26 octobre 2021
+Sony Xperia Pro-I : un smartphone ultra-élististe équipé d’un capteur photo 1 pouce
+26 octobre 2021
+Sony A7 IV : la montée en puissance de l’hybride plein format polyvalent de Sony
+21 octobre 2021
+On a testé le mode panoramique XPan Hasselblad de OnePlus
+15 octobre 2021
+Derniers articles
+Black Friday Miss Numérique : 10 % de réduction supplémentaire ce lundi
+29 novembre 2021
+Cyber Monday Digit-Photo : jusqu’à 200 € de remise immédiate
+29 novembre 2021
+Sunday Links
+28 novembre 2021
+Black Friday : kit Nikon Z 50 + 16-50 mm + 3 accessoires à 899 € à la Fnac
+26 novembre 2021
+Chefs d’Œuvre Photographiques du MoMA : l’avènement de la modernité photo au Jeu de Paume
+24 novembre 2021
+Derniers Mercredi Pratique
+MP #214 : envoyer les photos de votre boîtier vers votre smartphone
+18 août 2021
+MP #213 : préparer et planifier une séance d’astrophotographie
+4 août 2021
+MP #212 : que valent VRAIMENT les objectifs de kit en photo ?
+28 juillet 2021
+MP #211 : transformer son salon en studio photo professionnel pour moins de 300 €
+24 février 2021
+MP #209 : quel ordinateur pour la photo et le montage vidéo ?
+15 février 2021
+A propos
+Phototrend.fr est votre rendez-vous pour mieux maîtriser votre matériel photo, suivre l'actualité et découvrir de nouveaux artistes ou techniques photo.

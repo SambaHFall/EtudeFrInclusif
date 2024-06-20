@@ -28,6 +28,10 @@ def spacynlp(loadfrom : str) :
 	nlp.tokenizer = change_tokenizer(nlp)
 	return nlp
 
+"""
+doc : a spacy Document
+output : the same spaCy document but with every ')' token merged with the previous one if it contains '('
+"""
 def retokenization(doc) :
 	modif = False
 	prec = None

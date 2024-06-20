@@ -1,0 +1,17 @@
+Votre messager personnel fonctionne un peu comme un compte email dans le sens où vous pouvez envoyer et recevoir des messages ainsi que stocker des messages dans des dossiers.
+Écrire un MP
+Cela vous permet d'envoyer un message à un autre membre. Si vous avez des noms dans votre liste de contact, vous pouvez choisir un nom à partir de cette liste - ou vous pouvez choisir d'entrer un nom dans le champ correspondant du formulaire. Il sera renseigné automatiquement si vous cliquez sur le bouton 'MP' sur les forums (à partir de la liste des membres ou d'un message). Si l'administrateur le permet, vous pouvez utiliser du code BB et HTML dans votre message privé. Si vous avez choisi de cocher la case 'Ajouter une copie de ce message vers mon dossier éléments envoyés', une copie du message sera sauvegardée pour vous pour un accès ultérieur. Si vous cochez la case 'Suivre ce message ?', les détails du message seront disponibles dans votre 'Suivi des messages', où vous pourrez voir si votre message a été lu et quand.
+Boîte de réception
+Votre boîte de réception est l'endroit où sont envoyés tous vos nouveaux messages. Cliquer sur le titre d'un message vous affichera le message dans un format similaire à la lecture d'un sujet. Vous pouvez également supprimer ou déplacer des messages depuis votre boîte de réception.
+Vider les dossiers MP
+Cette option vous permet d'effacer tous vos dossiers de MP de manière simple et rapide.
+Modifier mes dossiers
+Vous pouvez renommer, ajouter ou effacer les dossiers où sont conservés les messages, vous permettant d'organiser les messages à votre convenance. Vous ne pouvez pas supprimer les dossiers 'Eléments Envoyés' et 'Boîte de Réception'.
+Contacts MP/Bloqués
+Vous pouvez ajouter des noms d'utilisateurs dans cette section ou modifier une entrée sauvegardée. Vous pouvez également utiliser ceci comme une liste de bannissement, en refusant au membre en question la possibilité de vous envoyer un message. Les noms entrés dans cette section apparaîtront dans la liste déroulante lors de l'envoi d'un nouveau MP, vous permettant de choisir rapidement les noms des membres à qui envoyer le message.
+Archiver les Messages
+Si vos dossiers du messager sont pleins et que vous ne pouvez plus recevoir de nouveaux messages, vous pouvez les archiver. Cela compile les messages en un unique fichier HTML ou au format Microsoft © Excel. Cette page vous est alors envoyée par email vers votre adresse email.
+MP enregistrés
+Cette section vous permet de revenir aux MP que vous avez choisi de sauvegarder pour les envoyer ultérieurement.
+Suivi des messages
+C'est la page où apparaissent tous les messages que vous avez choisi de suivre. Vous pourrez voir si vos messages ont été lus ou non et à quel moment. Cela vous permet également de pouvoir supprimer tout message que vous avez envoyé et n'ayant pas encore été lu par le destinataire.
