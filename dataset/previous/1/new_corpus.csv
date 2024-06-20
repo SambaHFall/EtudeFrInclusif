@@ -1,0 +1,1249 @@
+sample_id,text,tokens,spans,labels
+12_2,"Que ce soit pour la fête de votre ami(e) ou d'un membre de votre famille, un accouchement, un déménagement, un nouvel emploi, etc.","['Que', 'ce', 'soit', 'pour', 'la', 'fête', 'de', 'votre', 'ami(e)', 'ou', ""d'"", 'un', 'membre', 'de', 'votre', 'famille', ',', 'un', 'accouchement', ',', 'un', 'déménagement', ',', 'un', 'nouvel', 'emploi', ',', 'etc.']","[(34, 40)]",[['fle']]
+27_15,"L’aide à domicile peut comporter, ensemble ou séparément :
+L’aide d’un(e) technicien(ne) de l’intervention sociale et familiale (TISF), qui doit accompagner la famille rencontrant des difficultés éducatives et sociales, ou d’une aide-ménagère.
+","['L’', 'aide', 'à', 'domicile', 'peut', 'comporter', ',', 'ensemble', 'ou', 'séparément', ':', '\n', 'L’', 'aide', 'd’', 'un(e)', 'technicien(ne)', 'de', 'l’', 'intervention', 'sociale', 'et', 'familiale', '(', 'TISF', ')', ',', 'qui', 'doit', 'accompagner', 'la', 'famille', 'rencontrant', 'des', 'difficultés', 'éducatives', 'et', 'sociales', ',', 'ou', 'd’', 'une', 'aide-ménagère', '.', '\n']","[(74, 88)]",[['fle']]
+39_6,"Vous n’êtes pas autorisé(e) à consulter les sujets de ce forum.
+","['Vous', 'n’', 'êtes', 'pas', 'autorisé(e)', 'à', 'consulter', 'les', 'sujets', 'de', 'ce', 'forum', '.', '\n']","[(16, 27)]",[['fle']]
+44_52,"Vous ne payez aucun frais fixe sur les fonctions de base (0€ au lieu de 24€), réalisez d'importantes économies si vous activez l'option Channel Manager (26€ au lieu de 49€ par mois) et utilisez le générateur de site (36€ au lieu de 59€ par mois).
+Est-ce que je suis accompagné(e) ?","['Vous', 'ne', 'payez', 'aucun', 'frais', 'fixe', 'sur', 'les', 'fonctions', 'de', 'base', '(', '0', '€', 'au', 'lieu', 'de', '24', '€', ')', ',', 'réalisez', ""d'"", 'importantes', 'économies', 'si', 'vous', 'activez', ""l'"", 'option', 'Channel', 'Manager', '(', '26', '€', 'au', 'lieu', 'de', '49', '€', 'par', 'mois', ')', 'et', 'utilisez', 'le', 'générateur', 'de', 'site', '(', '36', '€', 'au', 'lieu', 'de', '59', '€', 'par', 'mois', ')', '.', '\n', 'Est', '-ce', 'que', 'je', 'suis', 'accompagné(e)', '?']","[(266, 279)]",[['fle']]
+44_53,"Vous serez accompagné(e) à tout moment par nos équipes ou celles d'elloha, de la création de votre compte jusqu'au paramètrage de vos prix ou pour toute question liée à l'utilisation de la plateforme.
+","['Vous', 'serez', 'accompagné(e)', 'à', 'tout', 'moment', 'par', 'nos', 'équipes', 'ou', 'celles', ""d'"", 'elloha', ',', 'de', 'la', 'création', 'de', 'votre', 'compte', ""jusqu'"", 'au', 'paramètrage', 'de', 'vos', 'prix', 'ou', 'pour', 'toute', 'question', 'liée', 'à', ""l'"", 'utilisation', 'de', 'la', 'plateforme', '.', '\n']","[(11, 24)]",[['fle']]
+65_9,"Share Imprimer Tweet
+La fusion des caisses de pension publiques CIA et CEH qui est soumise à la sagacité des électrices et électeurs genevois le 3 mars prochain représente un véritable défi à 800 millions de francs cash : le bon sens, le pragmatisme, le OUI, sauront-","['Share', 'Imprimer', 'Tweet', '\n', 'La', 'fusion', 'des', 'caisses', 'de', 'pension', 'publiques', 'CIA', 'et', 'CEH', 'qui', 'est', 'soumise', 'à', 'la', 'sagacité', 'des', 'électrices', 'et', 'électeurs', 'genevois', 'le', '3', 'mars', 'prochain', 'représente', 'un', 'véritable', 'défi', 'à', '800', 'millions', 'de', 'francs', 'cash', ':', 'le', 'bon', 'sens', ',', 'le', 'pragmatisme', ',', 'le', 'OUI', ',', 'sauront-']","[(109, 132)]",[['coo']]
+65_27,"Le Syndicat Unia
+Le SIT, Syndicat interprofessionnel de travailleuses et travailleurs
+Pour connaître, écouter, voir et protéger les oiseaux en Suisse romande
+Observations d'oiseaux en Suisse : où voir des oiseaux, rares ou non...
+Pour protéger la nature en Suisse, conserver des biotopes, des espèces...
+Pour protéger la nature en Suisse et ailleurs, conserver des biotopes, des espèces...
+Découvrez les phénomènes physiques, les ondes, les forces dans un endroit magnifique
+L'Aubier, pour un petit week-end de paix et d'harmonie...
+Terre vivante, un magnifique lieu dans le Vercors
+Vivre avec le loup, c'est possible...
+Reporterre.net","['Le', 'Syndicat', 'Unia', '\n', 'Le', 'SIT', ',', 'Syndicat', 'interprofessionnel', 'de', 'travailleuses', 'et', 'travailleurs', '\n', 'Pour', 'connaître', ',', 'écouter', ',', 'voir', 'et', 'protéger', 'les', 'oiseaux', 'en', 'Suisse', 'romande', '\n', 'Observations', ""d'"", 'oiseaux', 'en', 'Suisse', ':', 'où', 'voir', 'des', 'oiseaux', ',', 'rares', 'ou', 'non', '...', '\n', 'Pour', 'protéger', 'la', 'nature', 'en', 'Suisse', ',', 'conserver', 'des', 'biotopes', ',', 'des', 'espèces', '...', '\n', 'Pour', 'protéger', 'la', 'nature', 'en', 'Suisse', 'et', 'ailleurs', ',', 'conserver', 'des', 'biotopes', ',', 'des', 'espèces', '...', '\n', 'Découvrez', 'les', 'phénomènes', 'physiques', ',', 'les', 'ondes', ',', 'les', 'forces', 'dans', 'un', 'endroit', 'magnifique', '\n', ""L'"", 'Aubier', ',', 'pour', 'un', 'petit', 'week-end', 'de', 'paix', 'et', ""d'"", 'harmonie', '...', '\n', 'Terre', 'vivante', ',', 'un', 'magnifique', 'lieu', 'dans', 'le', 'Vercors', '\n', 'Vivre', 'avec', 'le', 'loup', ',', ""c'"", 'est', 'possible', '...', '\n', 'Reporterre.net']","[(56, 85)]",[['coo']]
+69_41,Les membres du SCFP croient que les travailleurs et les travailleuses ont le droit fondamental de prendre leur retraite dans la dignit 0065t avec une certaine sc0075rit 0066inancir0065.,"['Les', 'membres', 'du', 'SCFP', 'croient', 'que', 'les', 'travailleurs', 'et', 'les', 'travailleuses', 'ont', 'le', 'droit', 'fondamental', 'de', 'prendre', 'leur', 'retraite', 'dans', 'la', 'dignit', '0065', 't', 'avec', 'une', 'certaine', 'sc0075rit', '0066inancir0065', '.']","[(36, 69)]",[['coo']]
+69_46,"Ces efforts ardus sinscrivent dans un projet 006cong terme, dont nous savons trs0020bien quil est loin dt0072e termin.0020Avec seulement 40 % des travailleuses et travailleurs qui sont protgs par un rg0069me de retraite au travail, et beaucoup (surtout des femmes cl0069bataires) qui se retrouvent dans la pauvret leur retraite, il nous reste bien du pain sur la planche.
+","['Ces', 'efforts', 'ardus', 'sinscrivent', 'dans', 'un', 'projet', '006cong', 'terme', ',', 'dont', 'nous', 'savons', 'trs0020bien', 'quil', 'est', 'loin', 'dt0072e', 'termin.0020Avec', 'seulement', '40', '%', 'des', 'travailleuses', 'et', 'travailleurs', 'qui', 'sont', 'protgs', 'par', 'un', 'rg0069me', 'de', 'retraite', 'au', 'travail', ',', 'et', 'beaucoup', '(', 'surtout', 'des', 'femmes', 'cl0069bataires', ')', 'qui', 'se', 'retrouvent', 'dans', 'la', 'pauvret', 'leur', 'retraite', ',', 'il', 'nous', 'reste', 'bien', 'du', 'pain', 'sur', 'la', 'planche', '.', '\n']","[(146, 175)]",[['coo']]
+69_58,Le gouvernement soutient que les Ontariennes et Ontariens plus gs veulent continuer doccuper un emploi rm0075nr et que les immigrants rc0065nts et les femmes doivent travailler plus longtemps car ils sont incapables datteindre la sc0075rit 0066inancir0065 avant lg0065 de 65 ans.,"['Le', 'gouvernement', 'soutient', 'que', 'les', 'Ontariennes', 'et', 'Ontariens', 'plus', 'gs', 'veulent', 'continuer', 'doccuper', 'un', 'emploi', 'rm0075nr', 'et', 'que', 'les', 'immigrants', 'rc0065nts', 'et', 'les', 'femmes', 'doivent', 'travailler', 'plus', 'longtemps', 'car', 'ils', 'sont', 'incapables', 'datteindre', 'la', 'sc0075rit', '0066inancir0065', 'avant', 'lg0065', 'de', '65', 'ans', '.']","[(33, 57)]",[['coo']]
+69_61,vient g0061lement de celles et ceux dont lavenir financier est assur 0065t qui occupent des emplois peu exigeants physiquement.,"['vient', 'g0061lement', 'de', 'celles', 'et', 'ceux', 'dont', 'lavenir', 'financier', 'est', 'assur', '0065', 't', 'qui', 'occupent', 'des', 'emplois', 'peu', 'exigeants', 'physiquement', '.']","[(21, 35)]",[['coo']]
+69_63,"En ra006cit,0020ll0069mination de la retraite obligatoire ne donnera pas vraiment aux travailleuses et travailleurs la libert 0064e choisir.","['En', 'ra006cit,0020ll0069mination', 'de', 'la', 'retraite', 'obligatoire', 'ne', 'donnera', 'pas', 'vraiment', 'aux', 'travailleuses', 'et', 'travailleurs', 'la', 'libert', '0064e', 'choisir', '.']","[(86, 115)]",[['coo']]
+69_65,"Au contraire, avec ll0069mination de la retraite obligatoire, les travailleuses et travailleurs sans rg0069me de retraite adq0075at (dont un trs0020grand nombre sont des femmes et des immigrants) nauront jamais le choix de prendre leur retraite.
+Lautre ra006cit,0020cest que le travail que font la plupart des membres du SCFP est physiquement exigeant et mentalement stressant et quil seffectue souvent dans des lieux de travail malsains et dangereux.","['Au', 'contraire', ',', 'avec', 'll0069mination', 'de', 'la', 'retraite', 'obligatoire', ',', 'les', 'travailleuses', 'et', 'travailleurs', 'sans', 'rg0069me', 'de', 'retraite', 'adq0075at', '(', 'dont', 'un', 'trs0020grand', 'nombre', 'sont', 'des', 'femmes', 'et', 'des', 'immigrants', ')', 'nauront', 'jamais', 'le', 'choix', 'de', 'prendre', 'leur', 'retraite', '.', '\n', 'Lautre', 'ra006cit,0020cest', 'que', 'le', 'travail', 'que', 'font', 'la', 'plupart', 'des', 'membres', 'du', 'SCFP', 'est', 'physiquement', 'exigeant', 'et', 'mentalement', 'stressant', 'et', 'quil', 'seffectue', 'souvent', 'dans', 'des', 'lieux', 'de', 'travail', 'malsains', 'et', 'dangereux', '.']","[(66, 95)]",[['coo']]
+69_66,Les travailleuses et travailleurs plus gs ne veulent pas dun travail qui exige de lever des objets lourds ou de faire de longues heures dans des situations trs0020stressantes.,"['Les', 'travailleuses', 'et', 'travailleurs', 'plus', 'gs', 'ne', 'veulent', 'pas', 'dun', 'travail', 'qui', 'exige', 'de', 'lever', 'des', 'objets', 'lourds', 'ou', 'de', 'faire', 'de', 'longues', 'heures', 'dans', 'des', 'situations', 'trs0020stressantes', '.']","[(4, 33)]",[['coo']]
+69_68,"Rien ne montre quun grand nombre de travailleuses et travailleurs veulent continuer de travailler plus longtemps.
+","['Rien', 'ne', 'montre', 'quun', 'grand', 'nombre', 'de', 'travailleuses', 'et', 'travailleurs', 'veulent', 'continuer', 'de', 'travailler', 'plus', 'longtemps', '.', '\n']","[(36, 65)]",[['coo']]
+69_76,"Les gouvernements et les employeurs ne subiront plus de pression pour former et recruter de jeunes travailleuses et travailleurs.
+","['Les', 'gouvernements', 'et', 'les', 'employeurs', 'ne', 'subiront', 'plus', 'de', 'pression', 'pour', 'former', 'et', 'recruter', 'de', 'jeunes', 'travailleuses', 'et', 'travailleurs', '.', '\n']","[(99, 128)]",[['coo']]
+69_77,La retraite obligatoire ne garantit pas un revenu de retraite suffisant aux travailleuses et travailleurs.,"['La', 'retraite', 'obligatoire', 'ne', 'garantit', 'pas', 'un', 'revenu', 'de', 'retraite', 'suffisant', 'aux', 'travailleuses', 'et', 'travailleurs', '.']","[(76, 105)]",[['coo']]
+69_86,"Mais pour les travailleuses et les travailleurs, le problm0065 nest pas l.0020La trs0020grande majorit 0064es membres du SCFP prfreraient prendre leur retraite plus tt002c0020et non plus tard.","['Mais', 'pour', 'les', 'travailleuses', 'et', 'les', 'travailleurs', ',', 'le', 'problm0065', 'nest', 'pas', 'l.0020La', 'trs0020grande', 'majorit', '0064es', 'membres', 'du', 'SCFP', 'prfreraient', 'prendre', 'leur', 'retraite', 'plus', 'tt002c0020et', 'non', 'plus', 'tard', '.']","[(14, 47)]",[['coo']]
+69_87,"Les membres du SCFP veulent pouvoir choisir lg0065 auquel ils prendront leur retraite, mais ils nauront de vr0069table choix que sils peuvent compter sur un systm0065 de retraite solide et complet, sur une approche globale en matir0065 de formation et de recrutement des jeunes travailleuses et travailleurs et sur des protections contre les congd0069ements fonds0020sur lg0065.","['Les', 'membres', 'du', 'SCFP', 'veulent', 'pouvoir', 'choisir', 'lg0065', 'auquel', 'ils', 'prendront', 'leur', 'retraite', ',', 'mais', 'ils', 'nauront', 'de', 'vr0069table', 'choix', 'que', 'sils', 'peuvent', 'compter', 'sur', 'un', 'systm0065', 'de', 'retraite', 'solide', 'et', 'complet', ',', 'sur', 'une', 'approche', 'globale', 'en', 'matir0065', 'de', 'formation', 'et', 'de', 'recrutement', 'des', 'jeunes', 'travailleuses', 'et', 'travailleurs', 'et', 'sur', 'des', 'protections', 'contre', 'les', 'congd0069ements', 'fonds0020sur', 'lg0065', '.']","[(278, 307)]",[['coo']]
+69_88,"Par consq0075ent, en rp006fnse aux demandes dl0069mination de la retraite obligatoire, le SCFP propose plutt00200063e qui suit :
+une aml0069oration significative des prestations du RPC et de la SV;
+laugmentation des supplm0065nts provinciaux aux faibles revenus, suffisante pour l0069miner la pauvret la retraite;
+lobligation pour tous les grands employeurs doffrir des rg0069mes de retraite 0070restations dt0065rmine0073 0074ous leurs employs0020et employe0073, incluant ceux qui sont 0074emps partiel;
+linclusion, dans les lois provinciales sur la retraite, de la pleine indexation et de meilleures prestations de survivant;
+laml0069oration de la reconnaissance de la formation et de lexpr0069ence de travail acquises 006ct0072anger afin que les travailleuses et travailleurs immigrants puissent se trouver un emploi plus facilement;
+la modification de toutes les lois sur les normes en matir0065 demploi de fao006e 0065xiger des motifs raisonnables pour tout congd0069ement;
+lengagement pris par tous les gouvernements de respecter les principes des normes minimales du travail et dq0075it 0073alariale afin que le revenu de retraite (bas 0073ur les gains) soit adq0075at.
+","['Par', 'consq0075ent', ',', 'en', 'rp006fnse', 'aux', 'demandes', 'dl0069mination', 'de', 'la', 'retraite', 'obligatoire', ',', 'le', 'SCFP', 'propose', 'plutt00200063e', 'qui', 'suit', ':', '\n', 'une', 'aml0069oration', 'significative', 'des', 'prestations', 'du', 'RPC', 'et', 'de', 'la', 'SV', ';', '\n', 'laugmentation', 'des', 'supplm0065nts', 'provinciaux', 'aux', 'faibles', 'revenus', ',', 'suffisante', 'pour', 'l0069miner', 'la', 'pauvret', 'la', 'retraite', ';', '\n', 'lobligation', 'pour', 'tous', 'les', 'grands', 'employeurs', 'doffrir', 'des', 'rg0069mes', 'de', 'retraite', '0070restations', 'dt0065rmine0073', '0074ous', 'leurs', 'employs0020et', 'employe0073', ',', 'incluant', 'ceux', 'qui', 'sont', '0074emps', 'partiel', ';', '\n', 'linclusion', ',', 'dans', 'les', 'lois', 'provinciales', 'sur', 'la', 'retraite', ',', 'de', 'la', 'pleine', 'indexation', 'et', 'de', 'meilleures', 'prestations', 'de', 'survivant', ';', '\n', 'laml0069oration', 'de', 'la', 'reconnaissance', 'de', 'la', 'formation', 'et', 'de', 'lexpr0069ence', 'de', 'travail', 'acquises', '006ct0072anger', 'afin', 'que', 'les', 'travailleuses', 'et', 'travailleurs', 'immigrants', 'puissent', 'se', 'trouver', 'un', 'emploi', 'plus', 'facilement', ';', '\n', 'la', 'modification', 'de', 'toutes', 'les', 'lois', 'sur', 'les', 'normes', 'en', 'matir0065', 'demploi', 'de', 'fao006e', '0065xiger', 'des', 'motifs', 'raisonnables', 'pour', 'tout', 'congd0069ement', ';', '\n', 'lengagement', 'pris', 'par', 'tous', 'les', 'gouvernements', 'de', 'respecter', 'les', 'principes', 'des', 'normes', 'minimales', 'du', 'travail', 'et', 'dq0075it', '0073alariale', 'afin', 'que', 'le', 'revenu', 'de', 'retraite', '(', 'bas', '0073ur', 'les', 'gains', ')', 'soit', 'adq0075at', '.', '\n']","[(749, 778)]",[['coo']]
+70_42,"Chaque jour de la semaine, les membres et les militantes et militants du SCFP sont aux premières lignes pour contrer la violence infligée aux femmes.
+","['Chaque', 'jour', 'de', 'la', 'semaine', ',', 'les', 'membres', 'et', 'les', 'militantes', 'et', 'militants', 'du', 'SCFP', 'sont', 'aux', 'premières', 'lignes', 'pour', 'contrer', 'la', 'violence', 'infligée', 'aux', 'femmes', '.', '\n']","[(46, 69)]",[['coo']]
+70_49,"Les membres du SCFP et d’autres citoyennes et citoyens canadiens planifient des activités d’un bout à l’autre du pays.
+À Ottawa, Rashida Collins, de l’Association des femmes autochtones du Canada, se joindra au président national du SCFP Paul Moist dans le cadre d’une cérémonie spéciale organisée pour souligner cette journée.","['Les', 'membres', 'du', 'SCFP', 'et', 'd’', 'autres', 'citoyennes', 'et', 'citoyens', 'canadiens', 'planifient', 'des', 'activités', 'd’', 'un', 'bout', 'à', 'l’', 'autre', 'du', 'pays', '.', '\n', 'À', 'Ottawa', ',', 'Rashida', 'Collins', ',', 'de', 'l’', 'Association', 'des', 'femmes', 'autochtones', 'du', 'Canada', ',', 'se', 'joindra', 'au', 'président', 'national', 'du', 'SCFP', 'Paul', 'Moist', 'dans', 'le', 'cadre', 'd’', 'une', 'cérémonie', 'spéciale', 'organisée', 'pour', 'souligner', 'cette', 'journée', '.']","[(32, 54)]",[['coo']]
+72_22,"Être ""sexuellement excité.e"" est à présent scientifiquement classé comme un état physique émotionnel.
+","['Être', '""', 'sexuellement', 'excité.e', '""', 'est', 'à', 'présent', 'scientifiquement', 'classé', 'comme', 'un', 'état', 'physique', 'émotionnel', '.', '\n']","[(19, 27)]",[['fle']]
+79_6,"L’assurance tous risques ”
+Le contrat inclut un service personnalisé de la part des technicien(ne)s de Simsa, qui actualisent ma version tous les ans, répondent à vos questions et apportent une solution aux imprévus.","['L’', 'assurance', 'tous', 'risques', '”', '\n', 'Le', 'contrat', 'inclut', 'un', 'service', 'personnalisé', 'de', 'la', 'part', 'des', 'technicien(ne)s', 'de', 'Simsa', ',', 'qui', 'actualisent', 'ma', 'version', 'tous', 'les', 'ans', ',', 'répondent', 'à', 'vos', 'questions', 'et', 'apportent', 'une', 'solution', 'aux', 'imprévus', '.']","[(84, 99)]",[['fle']]
+80_53,"Celui que Dieu, à travers Jésus, pose sur chacun et chacune de nous.","['Celui', 'que', 'Dieu', ',', 'à', 'travers', 'Jésus', ',', 'pose', 'sur', 'chacun', 'et', 'chacune', 'de', 'nous', '.']","[(42, 59)]",[['coo']]
+105_1,"la plateforme des tendances par les blogueurs et les blogueuses , Idées & Inspiration : Recherchez et partagez les tendances de la saison, des inspirations mode, déco, style, des astuces, les meilleurs looks de la saison et plein de nouvelles idées.","['la', 'plateforme', 'des', 'tendances', 'par', 'les', 'blogueurs', 'et', 'les', 'blogueuses', ',', 'Idées', '&', 'Inspiration', ':', 'Recherchez', 'et', 'partagez', 'les', 'tendances', 'de', 'la', 'saison', ',', 'des', 'inspirations', 'mode', ',', 'déco', ',', 'style', ',', 'des', 'astuces', ',', 'les', 'meilleurs', 'looks', 'de', 'la', 'saison', 'et', 'plein', 'de', 'nouvelles', 'idées', '.']","[(36, 63)]",[['coo']]
+113_0,"Guerrière apache ou sirène hollywoodienne, gardienne de phare ou créatrice de trolls, gynécologue ou impératrice, rock star ou femme à barbe, athlète ou chamane, exploratrice ou astronaute ;","['Guerrière', 'apache', 'ou', 'sirène', 'hollywoodienne', ',', 'gardienne', 'de', 'phare', 'ou', 'créatrice', 'de', 'trolls', ',', 'gynécologue', 'ou', 'impératrice', ',', 'rock', 'star', 'ou', 'femme', 'à', 'barbe', ',', 'athlète', 'ou', 'chamane', ',', 'exploratrice', 'ou', 'astronaute', ';']","[(153, 160)]",[['fem']]
+127_20,"Parfaite pour un Workshop, ou simplement pour allier sport et travail lors de votre événement d’entreprise 😉
+Intéressé(e) ?","['Parfaite', 'pour', 'un', 'Workshop', ',', 'ou', 'simplement', 'pour', 'allier', 'sport', 'et', 'travail', 'lors', 'de', 'votre', 'événement', 'd’', 'entreprise', '😉', '\n', 'Intéressé(e)', '?']","[(109, 121)]",[['fle']]
+136_35,"/Animation : Pascale Robichaud (Bibliothèque et Archives Canada)
+Discutant-e- :","['/Animation', ':', 'Pascale', 'Robichaud', '(', 'Bibliothèque', 'et', 'Archives', 'Canada', ')', '\n', 'Discutant-e-', ':']","[(65, 77)]",[['fle']]
+136_59,"- Université du Québec en Outaouais)
+Discutant-e- :","['-', 'Université', 'du', 'Québec', 'en', 'Outaouais', ')', '\n', 'Discutant-e-', ':']","[(37, 49)]",[['fle']]
+140_0,"Dans le cadre du développement de son équipe d’experts RPA, AEROW recherche, un(e) consultant(e) spécialisé(e) sur UiPath.","['Dans', 'le', 'cadre', 'du', 'développement', 'de', 'son', 'équipe', 'd’', 'experts', 'RPA', ',', 'AEROW', 'recherche', ',', 'un(e)', 'consultant(e)', 'spécialisé(e)', 'sur', 'UiPath', '.']","[(83, 110)]",[['fle']]
+140_1,Le/la consultant(e),"['Le', '/', 'la', 'consultant(e)']","[(0, 19)]","[['fle', 'coo']]"
+140_3,"Plus particulièrement, le/la consultant(e)","['Plus', 'particulièrement', ',', 'le', '/', 'la', 'consultant(e)']","[(23, 42)]","[['fle', 'coo']]"
+140_5,Le/la consultant(e),"['Le', '/', 'la', 'consultant(e)']","[(0, 19)]","[['fle', 'coo']]"
+152_6,"Être juge Xavière Simeoni, première vice-présidente au tribunal de grande instance de Créteil, cheffe du Service central de prévention de la corruption (SCPC)
+11","['Être', 'juge', 'Xavière', 'Simeoni', ',', 'première', 'vice-présidente', 'au', 'tribunal', 'de', 'grande', 'instance', 'de', 'Créteil', ',', 'cheffe', 'du', 'Service', 'central', 'de', 'prévention', 'de', 'la', 'corruption', '(', 'SCPC', ')', '\n', '11']","[(95, 101)]",[['fem']]
+152_35,", Université Paris Dauphine-PSL, membre de l'équipe LCP (Campus IPJ), auteure de Le Crime et l'écran (Nouveau Monde Editions, 2010)
+Décembre","[',', 'Université', 'Paris', 'Dauphine-PSL', ',', 'membre', 'de', ""l'"", 'équipe', 'LCP', '(', 'Campus', 'IPJ', ')', ',', 'auteure', 'de', 'Le', 'Crime', 'et', ""l'"", 'écran', '(', 'Nouveau', 'Monde', 'Editions', ',', '2010', ')', '\n', 'Décembre']","[(70, 77)]",[['fem']]
+153_55,"Et qu'à aucun moment l'auteure de l'article ne le dise !
+Rémy LOURY
+24 juin 2020 à 10:26:50
+","['Et', ""qu'"", 'à', 'aucun', 'moment', ""l'"", 'auteure', 'de', ""l'"", 'article', 'ne', 'le', 'dise', '!', '\n', 'Rémy', 'LOURY', '\n', '24', 'juin', '2020', 'à', '10:26:50', '\n']","[(23, 30)]",[['fem']]
+158_281,"Inutile de tricher : dans tous les domaines, vous n'envisagez de relation durable qu'avec ceux ou celles qui vous aiment ou vous admirent, vous respectent ou vous témoignent une certaine affection.","['Inutile', 'de', 'tricher', ':', 'dans', 'tous', 'les', 'domaines', ',', 'vous', ""n'"", 'envisagez', 'de', 'relation', 'durable', ""qu'"", 'avec', 'ceux', 'ou', 'celles', 'qui', 'vous', 'aiment', 'ou', 'vous', 'admirent', ',', 'vous', 'respectent', 'ou', 'vous', 'témoignent', 'une', 'certaine', 'affection', '.']","[(90, 104)]",[['coo']]
+158_452,"que l'on appelle en astrologie un Vénusien (ou une Vénusienne) : vous êtes une personne sensuelle, émotive, particulièrement réceptive aux sympathies et antipathies naturelles éprouvées au contact d'autrui.","['que', ""l'"", 'on', 'appelle', 'en', 'astrologie', 'un', 'Vénusien', '(', 'ou', 'une', 'Vénusienne', ')', ':', 'vous', 'êtes', 'une', 'personne', 'sensuelle', ',', 'émotive', ',', 'particulièrement', 'réceptive', 'aux', 'sympathies', 'et', 'antipathies', 'naturelles', 'éprouvées', 'au', 'contact', ""d'"", 'autrui', '.']","[(34, 61)]",[['coo']]
+158_1113,"Elle dit être née ""juste avant midi"") sous le nom de Michelle Lynn Shupack, est une chanteuse, DJ, auteure et présentatrice télévisuelle américaine.
+Notamment, Michelle Visage auditionne et remporte une place pour Seduction, un trio R&B et dance créé par Robert Clivillés (en) et David Cole (en), qui signe avec A&M Records en 19905.","['Elle', 'dit', 'être', 'née', '""', 'juste', 'avant', 'midi', '""', ')', 'sous', 'le', 'nom', 'de', 'Michelle', 'Lynn', 'Shupack', ',', 'est', 'une', 'chanteuse', ',', 'DJ', ',', 'auteure', 'et', 'présentatrice', 'télévisuelle', 'américaine', '.', '\n', 'Notamment', ',', 'Michelle', 'Visage', 'auditionne', 'et', 'remporte', 'une', 'place', 'pour', 'Seduction', ',', 'un', 'trio', 'R&B', 'et', 'dance', 'créé', 'par', 'Robert', 'Clivillés', '(', 'en', ')', 'et', 'David', 'Cole', '(', 'en', ')', ',', 'qui', 'signe', 'avec', 'A&M', 'Records', 'en', '19905', '.']","[(99, 106)]",[['fem']]
+186_62,On pense que les électrices et les électeurs sont assez grands pour savoir ce qu’ils ont à faire.,"['On', 'pense', 'que', 'les', 'électrices', 'et', 'les', 'électeurs', 'sont', 'assez', 'grands', 'pour', 'savoir', 'ce', 'qu’', 'ils', 'ont', 'à', 'faire', '.']","[(17, 44)]",[['coo']]
+190_12,"Je continue avec
+ou me connecter avec mon email
+Rester connecté(e)","['Je', 'continue', 'avec', '\n', 'ou', 'me', 'connecter', 'avec', 'mon', 'email', '\n', 'Rester', 'connecté(e)']","[(55, 66)]",[['fle']]
+191_12,"Je continue avec
+ou me connecter avec mon email
+Rester connecté(e)","['Je', 'continue', 'avec', '\n', 'ou', 'me', 'connecter', 'avec', 'mon', 'email', '\n', 'Rester', 'connecté(e)']","[(55, 66)]",[['fle']]
+191_51,"Est
+Villaz CDI
+Poste : Rattaché(e)","['Est', '\n', 'Villaz', 'CDI', '\n', 'Poste', ':', 'Rattaché(e)']","[(23, 34)]",[['fle']]
+191_61,Rattaché(e) au Responsable de site,"['Rattaché(e)', 'au', 'Responsable', 'de', 'site']","[(0, 11)]",[['fle']]
+191_79,"Voir l'annonce
+Chef de projet logistique (h/f)
+BADENOCH & CLARK
+Morbihan CDI
+Badenoch + Clark, cabinet de conseil en recrutement de cadres et dirigeants, recherche pour son client, leader dans le secteur des cosmétiques, son futur Chef de projet logistique H/F. Directement rattaché(e) au Directeur des Etudes Logistiques Groupe, vous intervenez sur un...
+Modifiée il y a 2 jours
+Envoyé
+Ré-essayer ?
+Voir l'annonce
+Technico-Commercial H/F
+Populaire
+SNC Sogestion
+Hérault CDI
+Afin de renforcer notre équipe, nous recherchons un(e) Technico-Commercial H/F.","['Voir', ""l'"", 'annonce', '\n', 'Chef', 'de', 'projet', 'logistique', '(', 'h', '/', 'f', ')', '\n', 'BADENOCH', '&', 'CLARK', '\n', 'Morbihan', 'CDI', '\n', 'Badenoch', '+', 'Clark', ',', 'cabinet', 'de', 'conseil', 'en', 'recrutement', 'de', 'cadres', 'et', 'dirigeants', ',', 'recherche', 'pour', 'son', 'client', ',', 'leader', 'dans', 'le', 'secteur', 'des', 'cosmétiques', ',', 'son', 'futur', 'Chef', 'de', 'projet', 'logistique', 'H', '/', 'F.', 'Directement', 'rattaché(e)', 'au', 'Directeur', 'des', 'Etudes', 'Logistiques', 'Groupe', ',', 'vous', 'intervenez', 'sur', 'un', '...', '\n', 'Modifiée', 'il', 'y', 'a', '2', 'jours', '\n', 'Envoyé', '\n', 'Ré-essayer', '?', '\n', 'Voir', ""l'"", 'annonce', '\n', 'Technico-Commercial', 'H', '/', 'F', '\n', 'Populaire', '\n', 'SNC', 'Sogestion', '\n', 'Hérault', 'CDI', '\n', 'Afin', 'de', 'renforcer', 'notre', 'équipe', ',', 'nous', 'recherchons', 'un(e)', 'Technico-Commercial', 'H', '/', 'F.']","[(274, 285)]",[['fle']]
+191_94,"Vous rendez compte à votre supéri...
+Modifiée il y a 5 jours
+Envoyé
+Ré-essayer ?
+Voir l'annonce
+Responsable sécurité des systèmes h/f
+BADENOCH & CLARK
+Paris CDI
+Rattaché(e) au Directeur des Systèmes d'Information, vous définissez et mettez en oeuvre la politique de sécurité du SI (prévention, protection, défense, résilience/remédiation).","['Vous', 'rendez', 'compte', 'à', 'votre', 'supéri', '...', '\n', 'Modifiée', 'il', 'y', 'a', '5', 'jours', '\n', 'Envoyé', '\n', 'Ré-essayer', '?', '\n', 'Voir', ""l'"", 'annonce', '\n', 'Responsable', 'sécurité', 'des', 'systèmes', 'h', '/', 'f', '\n', 'BADENOCH', '&', 'CLARK', '\n', 'Paris', 'CDI', '\n', 'Rattaché(e)', 'au', 'Directeur', 'des', 'Systèmes', ""d'"", 'Information', ',', 'vous', 'définissez', 'et', 'mettez', 'en', 'oeuvre', 'la', 'politique', 'de', 'sécurité', 'du', 'SI', '(', 'prévention', ',', 'protection', ',', 'défense', ',', 'résilience', '/', 'remédiation', ')', '.']","[(161, 172)]",[['fle']]
+191_105,"Vous établissez le planning, effectuez le suivi des approvisionnements, réalisez le support technique, et managez vos équipes (25 personnes) sur un contrat ...
+Publiée il y a 2 jours
+Candidature rapide
+Envoyé
+Ré-essayer ?
+Voir l'annonce
+Responsable du service maintenance H/F
+Populaire
+ELIS
+Saint-Genis-Laval CDI
+Rattaché(e) au Directeur de site, et en collaboration avec le Responsable de Production, vous êtes responsable de la maintenance du site et de votre équipe.","['Vous', 'établissez', 'le', 'planning', ',', 'effectuez', 'le', 'suivi', 'des', 'approvisionnements', ',', 'réalisez', 'le', 'support', 'technique', ',', 'et', 'managez', 'vos', 'équipes', '(', '25', 'personnes', ')', 'sur', 'un', 'contrat', '...', '\n', 'Publiée', 'il', 'y', 'a', '2', 'jours', '\n', 'Candidature', 'rapide', '\n', 'Envoyé', '\n', 'Ré-essayer', '?', '\n', 'Voir', ""l'"", 'annonce', '\n', 'Responsable', 'du', 'service', 'maintenance', 'H', '/', 'F', '\n', 'Populaire', '\n', 'ELIS', '\n', 'Saint-Genis-Laval', 'CDI', '\n', 'Rattaché(e)', 'au', 'Directeur', 'de', 'site', ',', 'et', 'en', 'collaboration', 'avec', 'le', 'Responsable', 'de', 'Production', ',', 'vous', 'êtes', 'responsable', 'de', 'la', 'maintenance', 'du', 'site', 'et', 'de', 'votre', 'équipe', '.']","[(313, 324)]",[['fle']]
+191_108,"Groupe FSC
+Levallois-Perret CDI
+Rattaché(e) au Directeur Général Groupe et faisant partie du Comité de Direction","['Groupe', 'FSC', '\n', 'Levallois-Perret', 'CDI', '\n', 'Rattaché(e)', 'au', 'Directeur', 'Général', 'Groupe', 'et', 'faisant', 'partie', 'du', 'Comité', 'de', 'Direction']","[(32, 43)]",[['fle']]
+204_2,"...
+Voici des informations bien utiles dans la période pour les collègues non titulaires enseignant.es, Psyen et CPE :
+Pour les fins de contrat devant se terminer au court du mois de mars ou du mois d’avril,","['...', '\n', 'Voici', 'des', 'informations', 'bien', 'utiles', 'dans', 'la', 'période', 'pour', 'les', 'collègues', 'non', 'titulaires', 'enseignant.es', ',', 'Psyen', 'et', 'CPE', ':', '\n', 'Pour', 'les', 'fins', 'de', 'contrat', 'devant', 'se', 'terminer', 'au', 'court', 'du', 'mois', 'de', 'mars', 'ou', 'du', 'mois', 'd’', 'avril', ',']","[(89, 102)]",[['fle']]
+204_6,"Informations LILMAC (voeux rentrée 2020)
+Le serveur LILMAC a été rouvert jusqu’au mardi 31 mars minuit afin que les agent.es puissent formuler leurs vœux.","['Informations', 'LILMAC', '(', 'voeux', 'rentrée', '2020', ')', '\n', 'Le', 'serveur', 'LILMAC', 'a', 'été', 'rouvert', 'jusqu’', 'au', 'mardi', '31', 'mars', 'minuit', 'afin', 'que', 'les', 'agent.es', 'puissent', 'formuler', 'leurs', 'vœux', '.']","[(116, 124)]",[['fle']]
+204_10,"Analyse de la CGT Educ’action de Créteil
+Nul.le ne peut ignorer la situation pandémique du COVID19 en France, avec une morbidité qui double tous les 3 jours, une mortalité qui s’accentue et un confinement général qui va monter en intensité, la conjoncture ne peut qu’impacter le fonctionnement des différents services du rectorat et notamment de la DPE2.
+","['Analyse', 'de', 'la', 'CGT', 'Educ’', 'action', 'de', 'Créteil', '\n', 'Nul.le', 'ne', 'peut', 'ignorer', 'la', 'situation', 'pandémique', 'du', 'COVID19', 'en', 'France', ',', 'avec', 'une', 'morbidité', 'qui', 'double', 'tous', 'les', '3', 'jours', ',', 'une', 'mortalité', 'qui', 's’', 'accentue', 'et', 'un', 'confinement', 'général', 'qui', 'va', 'monter', 'en', 'intensité', ',', 'la', 'conjoncture', 'ne', 'peut', 'qu’', 'impacter', 'le', 'fonctionnement', 'des', 'différents', 'services', 'du', 'rectorat', 'et', 'notamment', 'de', 'la', 'DPE2', '.', '\n']","[(41, 47)]",[['fle']]
+204_11,Nous saluons le courage des agent.es du rectorat de Créteil qui malgré le risque sanitaire sont présent.es par le bais du télé travail chaque jour pour assurer leur service.,"['Nous', 'saluons', 'le', 'courage', 'des', 'agent.es', 'du', 'rectorat', 'de', 'Créteil', 'qui', 'malgré', 'le', 'risque', 'sanitaire', 'sont', 'présent.es', 'par', 'le', 'bais', 'du', 'télé', 'travail', 'chaque', 'jour', 'pour', 'assurer', 'leur', 'service', '.']","[(28, 36), (96, 106)]","[['fle'], ['fle']]"
+204_12,"A l’heure actuelle les services de la DPE2 sont désorganisés, seulement deux agent.es pour pouvoir traiter les prolongations de contrat.
+","['A', 'l’', 'heure', 'actuelle', 'les', 'services', 'de', 'la', 'DPE2', 'sont', 'désorganisés', ',', 'seulement', 'deux', 'agent.es', 'pour', 'pouvoir', 'traiter', 'les', 'prolongations', 'de', 'contrat', '.', '\n']","[(77, 85)]",[['fle']]
+204_14,"Nos collègues non-titulaires bénéficiant d’une prolongation de contrat ne sont pas certain.es de l’obtenir, car les délais de remontée de justificatifs (le 24 mars) sont trop courts, des interruptions de rémunérations vont irrémédiablement être effectives.","['Nos', 'collègues', 'non-titulaires', 'bénéficiant', 'd’', 'une', 'prolongation', 'de', 'contrat', 'ne', 'sont', 'pas', 'certain.es', 'de', 'l’', 'obtenir', ',', 'car', 'les', 'délais', 'de', 'remontée', 'de', 'justificatifs', '(', 'le', '24', 'mars', ')', 'sont', 'trop', 'courts', ',', 'des', 'interruptions', 'de', 'rémunérations', 'vont', 'irrémédiablement', 'être', 'effectives', '.']","[(83, 93)]",[['fle']]
+204_15,Les collègues non renouvelé.es,"['Les', 'collègues', 'non', 'renouvelé.es']","[(18, 30)]",[['fle']]
+204_19,"Si la ministre du travail parle d’interdire les licenciements dans le privé, l’État comme employeur se doit d’être exemplaire en renouvelant les contrats de ses agent.es non-titulaires.","['Si', 'la', 'ministre', 'du', 'travail', 'parle', 'd’', 'interdire', 'les', 'licenciements', 'dans', 'le', 'privé', ',', 'l’', 'État', 'comme', 'employeur', 'se', 'doit', 'd’', 'être', 'exemplaire', 'en', 'renouvelant', 'les', 'contrats', 'de', 'ses', 'agent.es', 'non-titulaires', '.']","[(161, 169)]",[['fle']]
+204_20,"Au niveau académique et ministériel des déclarations ont été faites annonçant le renouvellement des contrats, l’idée étant de « ne pas fragiliser les plus fragiles dans la période ».
+Mais on voit bien que ce ne sont que des annonces et que sur le terrain rien n’a été anticipé pour pouvoir tenir ses promesses et protéger l’ensemble des agent.es !
+A la CGT, la solidarité a un sens !","['Au', 'niveau', 'académique', 'et', 'ministériel', 'des', 'déclarations', 'ont', 'été', 'faites', 'annonçant', 'le', 'renouvellement', 'des', 'contrats', ',', 'l’', 'idée', 'étant', 'de', '«', 'ne', 'pas', 'fragiliser', 'les', 'plus', 'fragiles', 'dans', 'la', 'période', '»', '.', '\n', 'Mais', 'on', 'voit', 'bien', 'que', 'ce', 'ne', 'sont', 'que', 'des', 'annonces', 'et', 'que', 'sur', 'le', 'terrain', 'rien', 'n’', 'a', 'été', 'anticipé', 'pour', 'pouvoir', 'tenir', 'ses', 'promesses', 'et', 'protéger', 'l’', 'ensemble', 'des', 'agent.es', '!', '\n', 'A', 'la', 'CGT', ',', 'la', 'solidarité', 'a', 'un', 'sens', '!']","[(337, 345)]",[['fle']]
+233_79,"Filtres supplementaires
+Conventionné(e)
+","['Filtres', 'supplementaires', '\n', 'Conventionné(e)', '\n']","[(24, 39)]",[['fle']]
+233_99,"Le kinésithérapeute traite de nombreux problèmes et soulage la douleur liée aux organes et parties du corps.
+×
+Filtres supplementaires
+Conventionné(e)
+Tarifs des consultations
+","['Le', 'kinésithérapeute', 'traite', 'de', 'nombreux', 'problèmes', 'et', 'soulage', 'la', 'douleur', 'liée', 'aux', 'organes', 'et', 'parties', 'du', 'corps', '.', '\n', '×', '\n', 'Filtres', 'supplementaires', '\n', 'Conventionné(e)', '\n', 'Tarifs', 'des', 'consultations', '\n']","[(135, 150)]",[['fle']]
+242_46,Débusqueuse (7),"['Débusqueuse', '(', '7', ')']","[(0, 11)]",[['fem']]
+249_36,"Il se déroulera à Kortrijk, au Casinoplein, en soirée.
+Citoyen.ne.s, on a besoin de vous !","['Il', 'se', 'déroulera', 'à', 'Kortrijk', ',', 'au', 'Casinoplein', ',', 'en', 'soirée', '.', '\n', 'Citoyen.ne.s', ',', 'on', 'a', 'besoin', 'de', 'vous', '!']","[(55, 67)]",[['fle']]
+264_241,"Faire une offre maintenant
+Illustrations/Dessin pour Game Android S&#039;est terminé left
+Bonjour, Je suis à la recherche d'un dessinateur/dessinatrice pour quelques illustrations pour mon jeu vidéo sur Android.","['Faire', 'une', 'offre', 'maintenant', '\n', 'Illustrations', '/', 'Dessin', 'pour', 'Game', 'Android', 'S&#039;est', 'terminé', 'left', '\n', 'Bonjour', ',', 'Je', 'suis', 'à', 'la', 'recherche', ""d'"", 'un', 'dessinateur', '/', 'dessinatrice', 'pour', 'quelques', 'illustrations', 'pour', 'mon', 'jeu', 'vidéo', 'sur', 'Android', '.']","[(127, 151)]",[['coo']]
+269_5,L'Invité(e) des Matins par Guillaume,"[""L'"", 'Invité(e)', 'des', 'Matins', 'par', 'Guillaume']","[(2, 11)]",[['fle']]
+269_26,"L'Invité(e) des Matins
+« Dans mon enfance","[""L'"", 'Invité(e)', 'des', 'Matins', '\n', '«', 'Dans', 'mon', 'enfance']","[(2, 11)]",[['fle']]
+269_28,"Avec Michel Eltchaninoff, Olga Gille-Belova et Jacques Rupnik
+39 min
+L'Invité(e) des Matins
+Poutine : la tension comme ligne diplomatique.","['Avec', 'Michel', 'Eltchaninoff', ',', 'Olga', 'Gille-Belova', 'et', 'Jacques', 'Rupnik', '\n', '39', 'min', '\n', ""L'"", 'Invité(e)', 'des', 'Matins', '\n', 'Poutine', ':', 'la', 'tension', 'comme', 'ligne', 'diplomatique', '.']","[(71, 80)]",[['fle']]
+269_32,"L'Invité(e) des Matins
+Lanceurs d’alerte : des justiciers au défi de la loi ?","[""L'"", 'Invité(e)', 'des', 'Matins', '\n', 'Lanceurs', 'd’', 'alerte', ':', 'des', 'justiciers', 'au', 'défi', 'de', 'la', 'loi', '?']","[(2, 11)]",[['fle']]
+271_42,"Maintien de l'ordre : Il y a eu un ""vrai tournant"" en France depuis les manifestations contre la loi Travail, selon un sociologue
+Loi ""sécurité globale"" : des milliers de manifestants dans plusieurs villes de France
+Police : une hausse des agressions contre les agents
+Proposition de loi sur la ""sécurité globale"" : la Défenseure des droits craint des ""risques considérables"" pour les droits fondamentaux
+les sujets associés
+""Gilets jaunes""
+Transports
+Eco / Conso
+Armée et sécurité
+Métiers
+Emploi
+","['Maintien', 'de', ""l'"", 'ordre', ':', 'Il', 'y', 'a', 'eu', 'un', '""', 'vrai', 'tournant', '""', 'en', 'France', 'depuis', 'les', 'manifestations', 'contre', 'la', 'loi', 'Travail', ',', 'selon', 'un', 'sociologue', '\n', 'Loi', '""', 'sécurité', 'globale', '""', ':', 'des', 'milliers', 'de', 'manifestants', 'dans', 'plusieurs', 'villes', 'de', 'France', '\n', 'Police', ':', 'une', 'hausse', 'des', 'agressions', 'contre', 'les', 'agents', '\n', 'Proposition', 'de', 'loi', 'sur', 'la', '""', 'sécurité', 'globale', '""', ':', 'la', 'Défenseure', 'des', 'droits', 'craint', 'des', '""', 'risques', 'considérables', '""', 'pour', 'les', 'droits', 'fondamentaux', '\n', 'les', 'sujets', 'associés', '\n', '""', 'Gilets', 'jaunes', '""', '\n', 'Transports', '\n', 'Eco', '/', 'Conso', '\n', 'Armée', 'et', 'sécurité', '\n', 'Métiers', '\n', 'Emploi', '\n']","[(319, 329)]",[['fem']]
+271_58,"Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+","['Youtube', '(', 'nouvel', 'onglet', ')', '\n', 'le', 'live', '\n', 'direct', 'tv', '\n', 'direct', 'radio', '\n', 'Soyez', 'alerté(e)', 'en', 'temps', 'réel', 'avec', ""l'"", 'application', 'franceinfo', ':', '\n']","[(61, 70)]",[['fle']]
+272_33,"Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+","['Youtube', '(', 'nouvel', 'onglet', ')', '\n', 'le', 'live', '\n', 'direct', 'tv', '\n', 'direct', 'radio', '\n', 'Soyez', 'alerté(e)', 'en', 'temps', 'réel', 'avec', ""l'"", 'application', 'franceinfo', ':', '\n']","[(61, 70)]",[['fle']]
+273_27,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_42,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_82,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_97,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_126,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_141,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_169,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_184,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_186,"– @dumas.frederique !
+Publié le 15/05/2019 16/05/2020
+STOP au cliché ‘trop vieux / trop vieille’ pour créer son métier ‘Nature’ !
+“Personne n’est trop vieux pour se fixer un nouvel objectif ou réaliser de nouveaux rêves”","['–', '@dumas.frederique', '!', '\n', 'Publié', 'le', '15/05/2019', '16/05/2020', '\n', 'STOP', 'au', 'cliché', '‘', 'trop', 'vieux', '/', 'trop', 'vieille', '’', 'pour', 'créer', 'son', 'métier', '‘', 'Nature', '’', '!', '\n', '“', 'Personne', 'n’', 'est', 'trop', 'vieux', 'pour', 'se', 'fixer', 'un', 'nouvel', 'objectif', 'ou', 'réaliser', 'de', 'nouveaux', 'rêves', '”']","[(75, 95)]",[['coo']]
+273_195,"Une situation ‘TREMPLIN’ en fait…
+🌿 Certain(e)s se diront même : “Mais pourquoi faire l’effort de bouger et de tout chambouler si près de la retraite, pourquoi ne pas rester encore bien tranquille jusqu’à la fin ?”.","['Une', 'situation', '‘', 'TREMPLIN', '’', 'en', 'fait', '…', '\n', '🌿', 'Certain(e)s', 'se', 'diront', 'même', ':', '“', 'Mais', 'pourquoi', 'faire', 'l’', 'effort', 'de', 'bouger', 'et', 'de', 'tout', 'chambouler', 'si', 'près', 'de', 'la', 'retraite', ',', 'pourquoi', 'ne', 'pas', 'rester', 'encore', 'bien', 'tranquille', 'jusqu’', 'à', 'la', 'fin', '?', '”', '.']","[(36, 47)]",[['fle']]
+273_246,Comment pourrai-je trouver le bonheur dans une activité où je pourrais être épanoui(e) ?,"['Comment', 'pourrai', '-je', 'trouver', 'le', 'bonheur', 'dans', 'une', 'activité', 'où', 'je', 'pourrais', 'être', 'épanoui(e)', '?']","[(76, 86)]",[['fle']]
+273_253,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_268,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_302,"Votre coach/thérapeute/paysagiste/formatrice/auteure
+","['Votre', 'coach', '/', 'thérapeute', '/', 'paysagiste', '/', 'formatrice', '/', 'auteure', '\n']","[(45, 52)]",[['fem']]
+273_317,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+273_323,"Assez d’être privé(e) de votre famille, de ne pas voir grandir vos enfants parce qu’il vous faut bosser sans cesse pour gagner des peccadilles…","['Assez', 'd’', 'être', 'privé(e)', 'de', 'votre', 'famille', ',', 'de', 'ne', 'pas', 'voir', 'grandir', 'vos', 'enfants', 'parce', 'qu’', 'il', 'vous', 'faut', 'bosser', 'sans', 'cesse', 'pour', 'gagner', 'des', 'peccadilles', '…']","[(13, 21)]",[['fle']]
+273_338,"Quand serez-vous prêt(e)s à vous lever et à vous montrer dans toute votre puissance de création ?
+Vous pouvez changer de vie, créer votre business, habiter à la campagne si vous en avez envie, avec une super qualité de vie… !
+Vous pouvez réellement réussir en faisant ce que vous aimez !
+","['Quand', 'serez', '-vous', 'prêt(e)s', 'à', 'vous', 'lever', 'et', 'à', 'vous', 'montrer', 'dans', 'toute', 'votre', 'puissance', 'de', 'création', '?', '\n', 'Vous', 'pouvez', 'changer', 'de', 'vie', ',', 'créer', 'votre', 'business', ',', 'habiter', 'à', 'la', 'campagne', 'si', 'vous', 'en', 'avez', 'envie', ',', 'avec', 'une', 'super', 'qualité', 'de', 'vie', '…', '!', '\n', 'Vous', 'pouvez', 'réellement', 'réussir', 'en', 'faisant', 'ce', 'que', 'vous', 'aimez', '!', '\n']","[(17, 25)]",[['fle']]
+273_339,Si vous êtes prêt(e),"['Si', 'vous', 'êtes', 'prêt(e)']","[(13, 20)]",[['fle']]
+273_356,"Académie ‘Sublime SUKIYA’
+www.frederique-dumas.com
+Abonnez-vous à mon feed pour suivre chaque matin “Ma vie d’entrepreneure","['Académie', '‘', 'Sublime', 'SUKIYA', '’', '\n', 'www.frederique-dumas.com', '\n', 'Abonnez', '-vous', 'à', 'mon', 'feed', 'pour', 'suivre', 'chaque', 'matin', '“', 'Ma', 'vie', 'd’', 'entrepreneure']","[(110, 123)]",[['fem']]
+274_7,Elle est l’auteure d’ouvrages de référence :,"['Elle', 'est', 'l’', 'auteure', 'd’', 'ouvrages', 'de', 'référence', '\u2009', ':']","[(11, 18)]",[['fem']]
+294_29,"sûr·e de votre choix ?
+Revenir à l’écran précédent
+Tout refuser
+La fermeture de cette fenêtre revient à refuser certains cookies lors de votre navigation sur Horizons publics.","['sûr·e', 'de', 'votre', 'choix', '?', '\n', 'Revenir', 'à', 'l’', 'écran', 'précédent', '\n', 'Tout', 'refuser', '\n', 'La', 'fermeture', 'de', 'cette', 'fenêtre', 'revient', 'à', 'refuser', 'certains', 'cookies', 'lors', 'de', 'votre', 'navigation', 'sur', 'Horizons', 'publics', '.']","[(0, 5)]",[['fle']]
+295_29,"sûr·e de votre choix ?
+Revenir à l’écran précédent
+Tout refuser
+La fermeture de cette fenêtre revient à refuser certains cookies lors de votre navigation sur Horizons publics.","['sûr·e', 'de', 'votre', 'choix', '?', '\n', 'Revenir', 'à', 'l’', 'écran', 'précédent', '\n', 'Tout', 'refuser', '\n', 'La', 'fermeture', 'de', 'cette', 'fenêtre', 'revient', 'à', 'refuser', 'certains', 'cookies', 'lors', 'de', 'votre', 'navigation', 'sur', 'Horizons', 'publics', '.']","[(0, 5)]",[['fle']]
+331_13,".
+La formation 1er accueil du mardi 27 octobre est complète, n’hésitez pas à nous contacter si vous souhaitez être informé·e·s directement des prochaines dates
+Objectifs
+Permettre aux participants travaillant quotidiennement avec les jeunes, d'être en capacité de donner les principales informations sur les différents dispositifs de mobilité vers l’Europe et l’international, de répondre à leurs questions, de les orienter vers les structures compétentes en Région Hauts-de-France.
+POURQUOI","['.', '\n', 'La', 'formation', '1er', 'accueil', 'du', 'mardi', '27', 'octobre', 'est', 'complète', ',', 'n’', 'hésitez', 'pas', 'à', 'nous', 'contacter', 'si', 'vous', 'souhaitez', 'être', 'informé·e·s', 'directement', 'des', 'prochaines', 'dates', '\n', 'Objectifs', '\n', 'Permettre', 'aux', 'participants', 'travaillant', 'quotidiennement', 'avec', 'les', 'jeunes', ',', ""d'"", 'être', 'en', 'capacité', 'de', 'donner', 'les', 'principales', 'informations', 'sur', 'les', 'différents', 'dispositifs', 'de', 'mobilité', 'vers', 'l’', 'Europe', 'et', 'l’', 'international', ',', 'de', 'répondre', 'à', 'leurs', 'questions', ',', 'de', 'les', 'orienter', 'vers', 'les', 'structures', 'compétentes', 'en', 'Région', 'Hauts-de-France', '.', '\n', 'POURQUOI']","[(115, 126)]",[['fle']]
+331_29,"Rejoignez le réseau
+RESTER INFORMÉ(E)","['Rejoignez', 'le', 'réseau', '\n', 'RESTER', 'INFORMÉ(E)']","[(27, 37)]",[['fle']]
+331_39,"Se référencer
+Rester informé(e)
+Conditions d'utilisation
+","['Se', 'référencer', '\n', 'Rester', 'informé(e)', '\n', 'Conditions', ""d'"", 'utilisation', '\n']","[(21, 31)]",[['fle']]
+375_3,"Tous mes articles sont en accès libre, pour celles et ceux qui le souhaitent,","['Tous', 'mes', 'articles', 'sont', 'en', 'accès', 'libre', ',', 'pour', 'celles', 'et', 'ceux', 'qui', 'le', 'souhaitent', ',']","[(44, 58)]",[['coo']]
+394_66,"Dans le cadre de la création d’une plateforme digitale, le groupe poursuit son développement par le recrutement d’un(e) Chef de projet Acquisition & Fidélisation.
+Rattaché(e) à la Direction digitale, vos missions sont les suivantes :
+Vous êtes en charge de gérer des campagnes emailing, display et affiliation, pour acquérir des prospects.","['Dans', 'le', 'cadre', 'de', 'la', 'création', 'd’', 'une', 'plateforme', 'digitale', ',', 'le', 'groupe', 'poursuit', 'son', 'développement', 'par', 'le', 'recrutement', 'd’', 'un(e)', 'Chef', 'de', 'projet', 'Acquisition', '&', 'Fidélisation', '.', '\n', 'Rattaché(e)', 'à', 'la', 'Direction', 'digitale', ',', 'vos', 'missions', 'sont', 'les', 'suivantes', ':', '\n', 'Vous', 'êtes', 'en', 'charge', 'de', 'gérer', 'des', 'campagnes', 'emailing', ',', 'display', 'et', 'affiliation', ',', 'pour', 'acquérir', 'des', 'prospects', '.']","[(163, 174)]",[['fle']]
+394_70,"Comment postuler ?
+Pour ce poste, nous recherchons un(e) candidat(e) issu(e)","['Comment', 'postuler', '?', '\n', 'Pour', 'ce', 'poste', ',', 'nous', 'recherchons', 'un(e)', 'candidat(e)', 'issu(e)']","[(57, 76)]",[['fle']]
+395_51,"- Grand topic des Présentations 2020 / 2021
+par Althéa Manita, le 25 Nov 2021
+Bonjour a toutes et à tous, j'ai 36 ans, je vis dans le sud de la France, avec ma fille de 11 ans.","['-', 'Grand', 'topic', 'des', 'Présentations', '2020', '/', '2021', '\n', 'par', 'Althéa', 'Manita', ',', 'le', '25', 'Nov', '2021', '\n', 'Bonjour', 'a', 'toutes', 'et', 'à', 'tous', ',', ""j'"", 'ai', '36', 'ans', ',', 'je', 'vis', 'dans', 'le', 'sud', 'de', 'la', 'France', ',', 'avec', 'ma', 'fille', 'de', '11', 'ans', '.']","[(88, 104)]",[['coo']]
+395_108,", amoureux(euse)","[',', 'amoureux(euse)']","[(2, 16)]",[['fle']]
+401_2,"C'est vrai que l'idée de ne plus avoir de pensée, pour celles et ceux qui se sentent envahi.e par leur mental, peut sembler attrayante.
+","[""C'"", 'est', 'vrai', 'que', ""l'"", 'idée', 'de', 'ne', 'plus', 'avoir', 'de', 'pensée', ',', 'pour', 'celles', 'et', 'ceux', 'qui', 'se', 'sentent', 'envahi.e', 'par', 'leur', 'mental', ',', 'peut', 'sembler', 'attrayante', '.', '\n']","[(55, 69), (85, 93)]","[['coo'], ['fle']]"
+401_7,"C'est aussi simple que ça !
+Mais alors, me direz-vous, que faire de ces pensées quand on médite ?
+Puisque nous ne pouvons empêcher les pensées de surgir, la pratique de la méditation de pleine conscience consiste à les accueillir, les observer sans jugement, avec curiosité (tout juste, peut être, en notant leurs caractéristiques, leur contenu, leur nature agréable ou désagréable ou neutre).
+Cela veut dire qu'on ne cherche pas :
+à repousser les pensées quand elles arrivent (en se jugeant parce qu'on est persuadée qu'on ne devrait pas penser !)
+ni à les suivre, en se déconnectant alors de nous même et en partant ""ailleurs"" dans des réflexions ou des rêveries, et encore moins à les croire en étant persuadé.e ""qu'on n'y arrivera pas"", ""qu'il faut aller faire ce SMS immédiatement"" et à obéir à ce qui nous semble être une vérité ou une injonction.
+","[""C'"", 'est', 'aussi', 'simple', 'que', 'ça', '!', '\n', 'Mais', 'alors', ',', 'me', 'direz', '-vous', ',', 'que', 'faire', 'de', 'ces', 'pensées', 'quand', 'on', 'médite', '?', '\n', 'Puisque', 'nous', 'ne', 'pouvons', 'empêcher', 'les', 'pensées', 'de', 'surgir', ',', 'la', 'pratique', 'de', 'la', 'méditation', 'de', 'pleine', 'conscience', 'consiste', 'à', 'les', 'accueillir', ',', 'les', 'observer', 'sans', 'jugement', ',', 'avec', 'curiosité', '(', 'tout', 'juste', ',', 'peut', 'être', ',', 'en', 'notant', 'leurs', 'caractéristiques', ',', 'leur', 'contenu', ',', 'leur', 'nature', 'agréable', 'ou', 'désagréable', 'ou', 'neutre', ')', '.', '\n', 'Cela', 'veut', 'dire', ""qu'"", 'on', 'ne', 'cherche', 'pas', ':', '\n', 'à', 'repousser', 'les', 'pensées', 'quand', 'elles', 'arrivent', '(', 'en', 'se', 'jugeant', 'parce', ""qu'"", 'on', 'est', 'persuadée', ""qu'"", 'on', 'ne', 'devrait', 'pas', 'penser', '!', ')', '\n', 'ni', 'à', 'les', 'suivre', ',', 'en', 'se', 'déconnectant', 'alors', 'de', 'nous', 'même', 'et', 'en', 'partant', '""', 'ailleurs', '""', 'dans', 'des', 'réflexions', 'ou', 'des', 'rêveries', ',', 'et', 'encore', 'moins', 'à', 'les', 'croire', 'en', 'étant', 'persuadé.e', '""', ""qu'"", 'on', ""n'"", 'y', 'arrivera', 'pas', '""', ',', '""', ""qu'"", 'il', 'faut', 'aller', 'faire', 'ce', 'SMS', 'immédiatement', '""', 'et', 'à', 'obéir', 'à', 'ce', 'qui', 'nous', 'semble', 'être', 'une', 'vérité', 'ou', 'une', 'injonction', '.', '\n']","[(704, 714)]",[['fle']]
+401_9,"Un peu comme si nous étions allongé.e dans l'herbe et que nous nous observions des nuages dans le ciel : ils arrivent, ils passent, ils changent de forme, puis ils disparaissent.
+Et plus nous pratiquons, plus nous nous rendons compte que nos pensées ne sont que des manifestations qui vont et viennent, apparaissent et disparaissent, que nous pouvons nous contenter de les observer sans nous y accrocher, sans nous rétracter autour d'elles … de la même manière dont nous pouvons percevoir les sensations du souffle, du corps, les sons lors de notre pratique de méditation.
+","['Un', 'peu', 'comme', 'si', 'nous', 'étions', 'allongé.e', 'dans', ""l'"", 'herbe', 'et', 'que', 'nous', 'nous', 'observions', 'des', 'nuages', 'dans', 'le', 'ciel', ':', 'ils', 'arrivent', ',', 'ils', 'passent', ',', 'ils', 'changent', 'de', 'forme', ',', 'puis', 'ils', 'disparaissent', '.', '\n', 'Et', 'plus', 'nous', 'pratiquons', ',', 'plus', 'nous', 'nous', 'rendons', 'compte', 'que', 'nos', 'pensées', 'ne', 'sont', 'que', 'des', 'manifestations', 'qui', 'vont', 'et', 'viennent', ',', 'apparaissent', 'et', 'disparaissent', ',', 'que', 'nous', 'pouvons', 'nous', 'contenter', 'de', 'les', 'observer', 'sans', 'nous', 'y', 'accrocher', ',', 'sans', 'nous', 'rétracter', 'autour', ""d'"", 'elles', '…', 'de', 'la', 'même', 'manière', 'dont', 'nous', 'pouvons', 'percevoir', 'les', 'sensations', 'du', 'souffle', ',', 'du', 'corps', ',', 'les', 'sons', 'lors', 'de', 'notre', 'pratique', 'de', 'méditation', '.', '\n']","[(28, 37)]",[['fle']]
+401_15,"Si cet article vous a intéressé.e, inscrivez-vous à la newsletter Re-Connect pour en recevoir d'autres,","['Si', 'cet', 'article', 'vous', 'a', 'intéressé.e', ',', 'inscrivez', '-vous', 'à', 'la', 'newsletter', 'Re-Connect', 'pour', 'en', 'recevoir', ""d'"", 'autres', ',']","[(22, 33)]",[['fle']]
+425_1,C'est un capital précieux et nécessaire pour les chercheurs et les chercheuses.,"[""C'"", 'est', 'un', 'capital', 'précieux', 'et', 'nécessaire', 'pour', 'les', 'chercheurs', 'et', 'les', 'chercheuses', '.']","[(49, 78)]",[['coo']]
+431_73,"Je remercie toutes celles et tous ceux qui ont pris part à ce débat très riche, particulièrement notre rapporteur, Michel Delebarre.
+","['Je', 'remercie', 'toutes', 'celles', 'et', 'tous', 'ceux', 'qui', 'ont', 'pris', 'part', 'à', 'ce', 'débat', 'très', 'riche', ',', 'particulièrement', 'notre', 'rapporteur', ',', 'Michel', 'Delebarre', '.', '\n']","[(19, 38)]",[['coo']]
+440_15,"Cette partie de la séance dure environ une heure, se déroule en sous-vêtement ou maillot de bain (deux pièces pour les femmes), allongé(e) et de préférence les yeux fermés car cela permet de s'intérioriser, de se détendre et d'être attentif à ce qui se passe en vous lors du travail.","['Cette', 'partie', 'de', 'la', 'séance', 'dure', 'environ', 'une', 'heure', ',', 'se', 'déroule', 'en', 'sous-vêtement', 'ou', 'maillot', 'de', 'bain', '(', 'deux', 'pièces', 'pour', 'les', 'femmes', ')', ',', 'allongé(e)', 'et', 'de', 'préférence', 'les', 'yeux', 'fermés', 'car', 'cela', 'permet', 'de', ""s'"", 'intérioriser', ',', 'de', 'se', 'détendre', 'et', ""d'"", 'être', 'attentif', 'à', 'ce', 'qui', 'se', 'passe', 'en', 'vous', 'lors', 'du', 'travail', '.']","[(128, 138)]",[['fle']]
+449_42,"Votre Mission :
+Rattaché(e) au Responsable secteur de votre région, vous êtes une ressource privilégiée de l’entreprise.","['Votre', 'Mission', ':', '\n', 'Rattaché(e)', 'au', 'Responsable', 'secteur', 'de', 'votre', 'région', ',', 'vous', 'êtes', 'une', 'ressource', 'privilégiée', 'de', 'l’', 'entreprise', '.']","[(16, 27)]",[['fle']]
+449_45,"vous êtes amené(e) à :
+• Prendre en charge le développement commercial du secteur géographique qui vous est confié (prospection de nouveaux clients, suivi et visite des chantiers…),
+•","['vous', 'êtes', 'amené(e)', 'à', ':', '\n', '•', 'Prendre', 'en', 'charge', 'le', 'développement', 'commercial', 'du', 'secteur', 'géographique', 'qui', 'vous', 'est', 'confié', '(', 'prospection', 'de', 'nouveaux', 'clients', ',', 'suivi', 'et', 'visite', 'des', 'chantiers', '…', ')', ',', '\n', '•']","[(10, 18)]",[['fle']]
+449_52,"Votre Profil :
+Issu(e)","['Votre', 'Profil', ':', '\n', 'Issu(e)']","[(15, 22)]",[['fle']]
+449_55,")
+Vous êtes passionné(e) par la relation client, et la satisfaction de vos clients fait partie de vos priorités.
+","[')', '\n', 'Vous', 'êtes', 'passionné(e)', 'par', 'la', 'relation', 'client', ',', 'et', 'la', 'satisfaction', 'de', 'vos', 'clients', 'fait', 'partie', 'de', 'vos', 'priorités', '.', '\n']","[(12, 24)]",[['fle']]
+449_57,Etes doté(e),"['Etes', 'doté(e)']","[(5, 12)]",[['fle']]
+449_61,"Etes motivé(e) par l’envie de relever des défis et de performer
+Conditions d'emploi :
+Contrat : CDI
+Salaire :","['Etes', 'motivé(e)', 'par', 'l’', 'envie', 'de', 'relever', 'des', 'défis', 'et', 'de', 'performer', '\n', 'Conditions', ""d'"", 'emploi', ':', '\n', 'Contrat', ':', 'CDI', '\n', 'Salaire', ':']","[(5, 14)]",[['fle']]
+454_20,"La reproduction totale ou partielle sans permission est interdite.
+×
+Suivez notre newsletter !
+Abonnez-vous à notre newsletter, et restez informé(e) des nouveaux contenus et de l'activité sur le site.
+","['La', 'reproduction', 'totale', 'ou', 'partielle', 'sans', 'permission', 'est', 'interdite', '.', '\n', '×', '\n', 'Suivez', 'notre', 'newsletter', '!', '\n', 'Abonnez', '-vous', 'à', 'notre', 'newsletter', ',', 'et', 'restez', 'informé(e)', 'des', 'nouveaux', 'contenus', 'et', 'de', ""l'"", 'activité', 'sur', 'le', 'site', '.', '\n']","[(138, 148)]",[['fle']]
+459_17,et enseignant·e·s,"['et', 'enseignant·e·s']","[(3, 17)]",[['fle']]
+459_20,"A l’école, les enseignant·e·s doivent apprendre aux élèves à distinguer les savoirs qui demeurent « ouverts » de ceux qui sont stabilisés et crédibles.","['A', 'l’', 'école', ',', 'les', 'enseignant·e·s', 'doivent', 'apprendre', 'aux', 'élèves', 'à', 'distinguer', 'les', 'savoirs', 'qui', 'demeurent', '«', 'ouverts', '»', 'de', 'ceux', 'qui', 'sont', 'stabilisés', 'et', 'crédibles', '.']","[(15, 29)]",[['fle']]
+466_7,"Il ou elle assure la sécurité des écoliers, les informe et les renseigne sur les règles de sécurité.
+1 Juin 2021 à 13:00
+Offre d'emploi technicien ou technicienne en gestion des eaux
+Poste régulier à temps plein
+21 Avril 2021 à 21:31
+Piscine municipale bientôt sur 12 mois
+Le conseil municipal octroi un contrat et confirme le début des travaux de trandformation de la piscine municipale en bassin intérieur de 25 mètres par 8.5 mètres subdivisés en 4 couloirs.","['Il', 'ou', 'elle', 'assure', 'la', 'sécurité', 'des', 'écoliers', ',', 'les', 'informe', 'et', 'les', 'renseigne', 'sur', 'les', 'règles', 'de', 'sécurité', '.', '\n', '1', 'Juin', '2021', 'à', '13:00', '\n', 'Offre', ""d'"", 'emploi', 'technicien', 'ou', 'technicienne', 'en', 'gestion', 'des', 'eaux', '\n', 'Poste', 'régulier', 'à', 'temps', 'plein', '\n', '21', 'Avril', '2021', 'à', '21:31', '\n', 'Piscine', 'municipale', 'bientôt', 'sur', '12', 'mois', '\n', 'Le', 'conseil', 'municipal', 'octroi', 'un', 'contrat', 'et', 'confirme', 'le', 'début', 'des', 'travaux', 'de', 'trandformation', 'de', 'la', 'piscine', 'municipale', 'en', 'bassin', 'intérieur', 'de', '25', 'mètres', 'par', '8.5', 'mètres', 'subdivisés', 'en', '4', 'couloirs', '.']","[(136, 162)]",[['coo']]
+494_7,"Cette situation ne constitue pas seulement une violation des droits fondamentaux des paysan-nes mais constitue aussi une menace croissante pour le droit à l’alimentation de l’ensemble des citoyen-nes belges.
+","['Cette', 'situation', 'ne', 'constitue', 'pas', 'seulement', 'une', 'violation', 'des', 'droits', 'fondamentaux', 'des', 'paysan-nes', 'mais', 'constitue', 'aussi', 'une', 'menace', 'croissante', 'pour', 'le', 'droit', 'à', 'l’', 'alimentation', 'de', 'l’', 'ensemble', 'des', 'citoyen-nes', 'belges', '.', '\n']","[(85, 95), (188, 199)]","[['fle'], ['fle']]"
+494_40,"Le salarié et la salariée, le prolétaire et la prolétaire, ne vendent pas « du travail », mais leur force de travail, leur capacité de production.","['Le', 'salarié', 'et', 'la', 'salariée', ',', 'le', 'prolétaire', 'et', 'la', 'prolétaire', ',', 'ne', 'vendent', 'pas', '«', 'du', 'travail', '»', ',', 'mais', 'leur', 'force', 'de', 'travail', ',', 'leur', 'capacité', 'de', 'production', '.']","[(3, 25)]",[['coo']]
+494_51,"La découverte de la plus-value comme catégorie fondamentale de la société bourgeoise et de son mode de production, ainsi que l’explication de sa nature (résultat du surtravail, du travail non compensé, non rémunéré, fourni par le salarié) et de ses origines (obligation économique pour le ou la prolétaire de vendre sa force de travail comme marchandise au capitaliste) représente l’apport principal de Marx à la science économique et aux sciences sociales en général.","['La', 'découverte', 'de', 'la', 'plus-value', 'comme', 'catégorie', 'fondamentale', 'de', 'la', 'société', 'bourgeoise', 'et', 'de', 'son', 'mode', 'de', 'production', ',', 'ainsi', 'que', 'l’', 'explication', 'de', 'sa', 'nature', '(', 'résultat', 'du', 'surtravail', ',', 'du', 'travail', 'non', 'compensé', ',', 'non', 'rémunéré', ',', 'fourni', 'par', 'le', 'salarié', ')', 'et', 'de', 'ses', 'origines', '(', 'obligation', 'économique', 'pour', 'le', 'ou', 'la', 'prolétaire', 'de', 'vendre', 'sa', 'force', 'de', 'travail', 'comme', 'marchandise', 'au', 'capitaliste', ')', 'représente', 'l’', 'apport', 'principal', 'de', 'Marx', 'à', 'la', 'science', 'économique', 'et', 'aux', 'sciences', 'sociales', 'en', 'général', '.']","[(286, 294)]",[['coo']]
+494_63,"La mise en place d’un revenu compensatoire déterminé sur base de la main-d’œuvre et non des hectares permettrait par exemple de favoriser la reprise et l’installation de nouveaux agriculteurs-trices (issu-es du milieu agricole ou non) et réduirait la spéculation Spéculation Opération consistant à prendre position sur un marché, souvent à contre-courant, dans l’espoir de dégager un profit.
+","['La', 'mise', 'en', 'place', 'd’', 'un', 'revenu', 'compensatoire', 'déterminé', 'sur', 'base', 'de', 'la', 'main-d’', 'œuvre', 'et', 'non', 'des', 'hectares', 'permettrait', 'par', 'exemple', 'de', 'favoriser', 'la', 'reprise', 'et', 'l’', 'installation', 'de', 'nouveaux', 'agriculteurs-trices', '(', 'issu-es', 'du', 'milieu', 'agricole', 'ou', 'non', ')', 'et', 'réduirait', 'la', 'spéculation', 'Spéculation', 'Opération', 'consistant', 'à', 'prendre', 'position', 'sur', 'un', 'marché', ',', 'souvent', 'à', 'contre-courant', ',', 'dans', 'l’', 'espoir', 'de', 'dégager', 'un', 'profit', '.', '\n']","[(200, 207)]",[['fle']]
+494_79,"Cet article est extrait du magazine du CADTM : Les Autres Voix de la Planète
+Auteur.e
+Vanessa Martin
+Fédération","['Cet', 'article', 'est', 'extrait', 'du', 'magazine', 'du', 'CADTM', ':', 'Les', 'Autres', 'Voix', 'de', 'la', 'Planète', '\n', 'Auteur.e', '\n', 'Vanessa', 'Martin', '\n', 'Fédération']","[(77, 85)]",[['fle']]
+494_81,".
+Autres articles en français de Vanessa Martin (1)
+Podcast du LCD : Les dettes privées illégitimes, à bas !
+12 mai 2017, par Robin Delobel , Eva Betavatzi , Vanessa Martin
+Auteur.e
+Johan Verhoeven
+FIAN
+Agriculture et souveraineté alimentaire
+Les agriculteurs indiens signent une victoire
+8 décembre","['.', '\n', 'Autres', 'articles', 'en', 'français', 'de', 'Vanessa', 'Martin', '(', '1', ')', '\n', 'Podcast', 'du', 'LCD', ':', 'Les', 'dettes', 'privées', 'illégitimes', ',', 'à', 'bas', '!', '\n', '12', 'mai', '2017', ',', 'par', 'Robin', 'Delobel', ',', 'Eva', 'Betavatzi', ',', 'Vanessa', 'Martin', '\n', 'Auteur.e', '\n', 'Johan', 'Verhoeven', '\n', 'FIAN', '\n', 'Agriculture', 'et', 'souveraineté', 'alimentaire', '\n', 'Les', 'agriculteurs', 'indiens', 'signent', 'une', 'victoire', '\n', '8', 'décembre']","[(173, 181)]",[['fle']]
+515_48,"Les intentions qui motivent tout un chacun à associer les habitant.e.s à ses actions et à mettre en place la participation, sont multiples.","['Les', 'intentions', 'qui', 'motivent', 'tout', 'un', 'chacun', 'à', 'associer', 'les', 'habitant.e.s', 'à', 'ses', 'actions', 'et', 'à', 'mettre', 'en', 'place', 'la', 'participation', ',', 'sont', 'multiples', '.']","[(58, 70)]",[['fle']]
+515_49,"Pour autant, sont-elles compatibles avec les besoins des habitant.e.s visé.e.s ?","['Pour', 'autant', ',', 'sont-elles', 'compatibles', 'avec', 'les', 'besoins', 'des', 'habitant.e.s', 'visé.e.s', '?']","[(57, 78)]",[['fle']]
+520_96,"Allez bonne route, pour l’entretien individuel fuck (à celui ou celle qui sera face à toi) et un câlin pour la route.
+","['Allez', 'bonne', 'route', ',', 'pour', 'l’', 'entretien', 'individuel', 'fuck', '(', 'à', 'celui', 'ou', 'celle', 'qui', 'sera', 'face', 'à', 'toi', ')', 'et', 'un', 'câlin', 'pour', 'la', 'route', '.', '\n']","[(55, 69)]",[['coo']]
+541_66,Il est vrai que quand on résiste à l’enseignant(e) qui veut vous déculotter pour vous fesser on prend des risques.,"['Il', 'est', 'vrai', 'que', 'quand', 'on', 'résiste', 'à', 'l’', 'enseignant(e)', 'qui', 'veut', 'vous', 'déculotter', 'pour', 'vous', 'fesser', 'on', 'prend', 'des', 'risques', '.']","[(37, 50)]",[['fle']]
+541_136,"Lors d’une fessée publique la honte doit faire partie de la punition et donc la nudité des fesses devant toute rend la fessée plus efficace
+Henri avait mérité cette honteuse fessée culotte baissée.
+Répondre	
+Julie19 dit :	
+5 mai, 2021 à 19:31	
+Bonjour à toutes et tous.
+","['Lors', 'd’', 'une', 'fessée', 'publique', 'la', 'honte', 'doit', 'faire', 'partie', 'de', 'la', 'punition', 'et', 'donc', 'la', 'nudité', 'des', 'fesses', 'devant', 'toute', 'rend', 'la', 'fessée', 'plus', 'efficace', '\n', 'Henri', 'avait', 'mérité', 'cette', 'honteuse', 'fessée', 'culotte', 'baissée', '.', '\n', 'Répondre', '\t\n', 'Julie19', 'dit', ':', '\t\n', '5', 'mai', ',', '2021', 'à', '19:31', '\t\n', 'Bonjour', 'à', 'toutes', 'et', 'tous', '.', '\n']","[(254, 268)]",[['coo']]
+546_123,"Coucou, merci pour la lecture matinale… et positive qui plus est, MERCI car c’est rare en ces temps troubles… !
+Et oui, quand on s’intéresse à ce monde, on a plus de raisons d’êtres inquiet.e.s, d’avoir peur et de sauter du pont, que de sauter de joies au plafond …
+Ceci dit, pour commencer, je ne peux m’empêcher de te faire remarquer (après ça je serais libéré de mon toc !) que les épaules, du tout petit être que tu es, ploiENT sous la responsabilité et l’immensité de la tâche ! (On me dit dans l’oreillette qu’une faute d’orthographe est assez rare de ta part pour que je me permette de te le faire remarquer…)
+Par le truchement de ma relecture et de l’écriture du message que je veux apporter dans cet élan, les 2 mots se sont bien encontreusement inversés… alors je dirais que nos épaules ploient sous l’immensité et la responsabilité de la tâche !","['Coucou', ',', 'merci', 'pour', 'la', 'lecture', 'matinale', '…', 'et', 'positive', 'qui', 'plus', 'est', ',', 'MERCI', 'car', 'c’', 'est', 'rare', 'en', 'ces', 'temps', 'troubles', '…', '!', '\n', 'Et', 'oui', ',', 'quand', 'on', 's’', 'intéresse', 'à', 'ce', 'monde', ',', 'on', 'a', 'plus', 'de', 'raisons', 'd’', 'êtres', 'inquiet.e.s', ',', 'd’', 'avoir', 'peur', 'et', 'de', 'sauter', 'du', 'pont', ',', 'que', 'de', 'sauter', 'de', 'joies', 'au', 'plafond', '…', '\n', 'Ceci', 'dit', ',', 'pour', 'commencer', ',', 'je', 'ne', 'peux', 'm’', 'empêcher', 'de', 'te', 'faire', 'remarquer', '(', 'après', 'ça', 'je', 'serais', 'libéré', 'de', 'mon', 'toc', '!', ')', 'que', 'les', 'épaules', ',', 'du', 'tout', 'petit', 'être', 'que', 'tu', 'es', ',', 'ploiENT', 'sous', 'la', 'responsabilité', 'et', 'l’', 'immensité', 'de', 'la', 'tâche', '!', '(', 'On', 'me', 'dit', 'dans', 'l’', 'oreillette', 'qu’', 'une', 'faute', 'd’', 'orthographe', 'est', 'assez', 'rare', 'de', 'ta', 'part', 'pour', 'que', 'je', 'me', 'permette', 'de', 'te', 'le', 'faire', 'remarquer', '…', ')', '\n', 'Par', 'le', 'truchement', 'de', 'ma', 'relecture', 'et', 'de', 'l’', 'écriture', 'du', 'message', 'que', 'je', 'veux', 'apporter', 'dans', 'cet', 'élan', ',', 'les', '2', 'mots', 'se', 'sont', 'bien', 'encontreusement', 'inversés', '…', 'alors', 'je', 'dirais', 'que', 'nos', 'épaules', 'ploient', 'sous', 'l’', 'immensité', 'et', 'la', 'responsabilité', 'de', 'la', 'tâche', '!']","[(182, 193)]",[['fle']]
+546_125,"Je m’explique : à force de répéter qu’il faut tout changer, tout vendre, tout bruler… et que tout seul.e on changera pas grand chose, que c’est là haut que ça se décide, que nous on est trop petits,etc… alors les gens se dédouanent de la responsabilité de la tâche !","['Je', 'm’', 'explique', ':', 'à', 'force', 'de', 'répéter', 'qu’', 'il', 'faut', 'tout', 'changer', ',', 'tout', 'vendre', ',', 'tout', 'bruler', '…', 'et', 'que', 'tout', 'seul.e', 'on', 'changera', 'pas', 'grand', 'chose', ',', 'que', 'c’', 'est', 'là', 'haut', 'que', 'ça', 'se', 'décide', ',', 'que', 'nous', 'on', 'est', 'trop', 'petits', ',', 'etc', '…', 'alors', 'les', 'gens', 'se', 'dédouanent', 'de', 'la', 'responsabilité', 'de', 'la', 'tâche', '!']","[(98, 104)]",[['fle']]
+553_56,"ou pas !
+Publié par Clementia 25 Mai 2013 à 04:00 PM
+Dans le monde réel, quand on a passé une soirée sympa ensemble au ciné, au resto ou en boîte, certain(e)s ont coutume de vous inviter à ""monter prendre le dernier verre""... (c'est souvent avec l'idée du ""et plus, si affinités"" !","['ou', 'pas', '!', '\n', 'Publié', 'par', 'Clementia', '25', 'Mai', '2013', 'à', '04:00', 'PM', '\n', 'Dans', 'le', 'monde', 'réel', ',', 'quand', 'on', 'a', 'passé', 'une', 'soirée', 'sympa', 'ensemble', 'au', 'ciné', ',', 'au', 'resto', 'ou', 'en', 'boîte', ',', 'certain(e)s', 'ont', 'coutume', 'de', 'vous', 'inviter', 'à', '""', 'monter', 'prendre', 'le', 'dernier', 'verre', '""', '...', '(', ""c'"", 'est', 'souvent', 'avec', ""l'"", 'idée', 'du', '""', 'et', 'plus', ',', 'si', 'affinités', '""', '!']","[(147, 158)]",[['fle']]
+578_8,"[…] Quand une personne a ses règles, ça signifie que son utérus peut accueillir une grossesse. […] Il est important de te renseigner sur les moyens de contraception pour ne pas tomber enceint⸱e !
+Comme le suggère le titre de cet article, jusqu’à présent, quand une personne me disait qu’elle avait un utérus et qu’elle avait ses règles, je lui disais « Bonjour Madame ! »
+En faisant un effort intellectuel intense, je me dis que le planning familial s’adresse aux femmes biologiques (naturellement dotée d’un utérus) mais qui croient, dans leur tête, qu’elles sont des hommes.
+Cela justifie donc l’utilisation de l’écriture inclusive qui envisage donc que ces mêmes « hommes dans leur tête » tombent enceints !
+Deuxième exemple : L’UNEF et les protections périodiques :
+Regardez ce tweet du syndicat étudiant :
+🎉 Importante victoire syndicale aujourd’hui : le @gouvernementFR a annoncé la mise à disposition de protections périodiques gratuites dans les universités et les @Cnous_LesCrous !
+✊ L’UNEF revendique depuis des années cette mesure et a mené de nombreuses actions sur le sujet.","['[', '…', ']', 'Quand', 'une', 'personne', 'a', 'ses', 'règles', ',', 'ça', 'signifie', 'que', 'son', 'utérus', 'peut', 'accueillir', 'une', 'grossesse', '.', '[', '…', ']', 'Il', 'est', 'important', 'de', 'te', 'renseigner', 'sur', 'les', 'moyens', 'de', 'contraception', 'pour', 'ne', 'pas', 'tomber', 'enceint⸱e', '!', '\n', 'Comme', 'le', 'suggère', 'le', 'titre', 'de', 'cet', 'article', ',', 'jusqu’', 'à', 'présent', ',', 'quand', 'une', 'personne', 'me', 'disait', 'qu’', 'elle', 'avait', 'un', 'utérus', 'et', 'qu’', 'elle', 'avait', 'ses', 'règles', ',', 'je', 'lui', 'disais', '«', 'Bonjour', 'Madame', '!', '»', '\n', 'En', 'faisant', 'un', 'effort', 'intellectuel', 'intense', ',', 'je', 'me', 'dis', 'que', 'le', 'planning', 'familial', 's’', 'adresse', 'aux', 'femmes', 'biologiques', '(', 'naturellement', 'dotée', 'd’', 'un', 'utérus', ')', 'mais', 'qui', 'croient', ',', 'dans', 'leur', 'tête', ',', 'qu’', 'elles', 'sont', 'des', 'hommes', '.', '\n', 'Cela', 'justifie', 'donc', 'l’', 'utilisation', 'de', 'l’', 'écriture', 'inclusive', 'qui', 'envisage', 'donc', 'que', 'ces', 'mêmes', '«', 'hommes', 'dans', 'leur', 'tête', '»', 'tombent', 'enceints', '!', '\n', 'Deuxième', 'exemple', ':', 'L’', 'UNEF', 'et', 'les', 'protections', 'périodiques', ':', '\n', 'Regardez', 'ce', 'tweet', 'du', 'syndicat', 'étudiant', ':', '\n', '🎉', 'Importante', 'victoire', 'syndicale', 'aujourd’hui', ':', 'le', '@gouvernementFR', 'a', 'annoncé', 'la', 'mise', 'à', 'disposition', 'de', 'protections', 'périodiques', 'gratuites', 'dans', 'les', 'universités', 'et', 'les', '@Cnous_LesCrous', '!', '\n', '✊', 'L’', 'UNEF', 'revendique', 'depuis', 'des', 'années', 'cette', 'mesure', 'et', 'a', 'mené', 'de', 'nombreuses', 'actions', 'sur', 'le', 'sujet', '.']","[(184, 193)]",[['fle']]
+597_26,"Désinscription
+Restez connecté(e)s
+Suivez-nous sur Twitter
+Rejoignez-nous sur Facebook
+Google+
+Le site www.code-sante-publique.fr a pour cible les professionnels.","['Désinscription', '\n', 'Restez', 'connecté(e)s', '\n', 'Suivez', '-nous', 'sur', 'Twitter', '\n', 'Rejoignez', '-nous', 'sur', 'Facebook', '\n', 'Google+', '\n', 'Le', 'site', 'www.code-sante-publique.fr', 'a', 'pour', 'cible', 'les', 'professionnels', '.']","[(22, 34)]",[['fle']]
+612_55,"Vous serez compté(e) comme étant un utilisateur invisible.
+Haut
+» J’ai perdu mon mot de passe !
+Pas de panique !","['Vous', 'serez', 'compté(e)', 'comme', 'étant', 'un', 'utilisateur', 'invisible', '.', '\n', 'Haut', '\n', '»', 'J’', 'ai', 'perdu', 'mon', 'mot', 'de', 'passe', '!', '\n', 'Pas', 'de', 'panique', '!']","[(11, 20)]",[['fle']]
+612_66,"Si vous êtes certain(e) que l’adresse de courrier électronique que vous avez spécifiée était correcte, essayez de contacter un administrateur.
+Haut
+»","['Si', 'vous', 'êtes', 'certain(e)', 'que', 'l’', 'adresse', 'de', 'courrier', 'électronique', 'que', 'vous', 'avez', 'spécifiée', 'était', 'correcte', ',', 'essayez', 'de', 'contacter', 'un', 'administrateur', '.', '\n', 'Haut', '\n', '»']","[(13, 23)]",[['fle']]
+612_89,vous êtes certain(e) d’avoir correctement réglé le fuseau horaire et l’heure,"['vous', 'êtes', 'certain(e)', 'd’', 'avoir', 'correctement', 'réglé', 'le', 'fuseau', 'horaire', 'et', 'l’', 'heure']","[(10, 20)]",[['fle']]
+612_206,Si vous êtes intéressé(e),"['Si', 'vous', 'êtes', 'intéressé(e)']","[(13, 25)]",[['fle']]
+612_219,"soit vous n’êtes pas inscrit(e) et connecté(e), soit un administrateur a désactivé entièrement la messagerie privée sur le forum, soit un des administrateurs vous empêche d’envoyer des messages privés.","['soit', 'vous', 'n’', 'êtes', 'pas', 'inscrit(e)', 'et', 'connecté(e)', ',', 'soit', 'un', 'administrateur', 'a', 'désactivé', 'entièrement', 'la', 'messagerie', 'privée', 'sur', 'le', 'forum', ',', 'soit', 'un', 'des', 'administrateurs', 'vous', 'empêche', 'd’', 'envoyer', 'des', 'messages', 'privés', '.']","[(35, 46)]",[['fle']]
+612_253,"Si vous n’êtes pas certain(e) de ce qui est autorisé ou non, n’hésitez pas à demander assistance à un administrateur du forum.
+Haut
+» Comment puis-je retrouver toutes mes pièces jointes ?
+Pour retrouver la liste des pièces jointes que vous avez transférées, rendez-vous sur le panneau de contrôle de l’utilisateur et suivez les liens vers la section des pièces jointes.
+Haut
+À propos de phpBB3
+» Qui a développé ce logiciel de forum ?
+","['Si', 'vous', 'n’', 'êtes', 'pas', 'certain(e)', 'de', 'ce', 'qui', 'est', 'autorisé', 'ou', 'non', ',', 'n’', 'hésitez', 'pas', 'à', 'demander', 'assistance', 'à', 'un', 'administrateur', 'du', 'forum', '.', '\n', 'Haut', '\n', '»', 'Comment', 'puis', '-je', 'retrouver', 'toutes', 'mes', 'pièces', 'jointes', '?', '\n', 'Pour', 'retrouver', 'la', 'liste', 'des', 'pièces', 'jointes', 'que', 'vous', 'avez', 'transférées', ',', 'rendez-vous', 'sur', 'le', 'panneau', 'de', 'contrôle', 'de', 'l’', 'utilisateur', 'et', 'suivez', 'les', 'liens', 'vers', 'la', 'section', 'des', 'pièces', 'jointes', '.', '\n', 'Haut', '\n', 'À', 'propos', 'de', 'phpBB3', '\n', '»', 'Qui', 'a', 'développé', 'ce', 'logiciel', 'de', 'forum', '?', '\n']","[(19, 29)]",[['fle']]
+635_28,"On peut ici faire une comparaison avec la vie chrétienne où l’on retrouve parmi les chrétien(ne)s des enfants, des ados et des adultes dans leur univers spirituel personnel.
+II-","['On', 'peut', 'ici', 'faire', 'une', 'comparaison', 'avec', 'la', 'vie', 'chrétienne', 'où', 'l’', 'on', 'retrouve', 'parmi', 'les', 'chrétien(ne)s', 'des', 'enfants', ',', 'des', 'ados', 'et', 'des', 'adultes', 'dans', 'leur', 'univers', 'spirituel', 'personnel', '.', '\n', 'II-']","[(84, 97)]",[['fle']]
+635_51,"Ainsi, le chrétien ou la chrétienne évitera de fonder sa décision sur celle de toute une assemblée, de tout un groupe mais plutôt sur celle de Dieu.","['Ainsi', ',', 'le', 'chrétien', 'ou', 'la', 'chrétienne', 'évitera', 'de', 'fonder', 'sa', 'décision', 'sur', 'celle', 'de', 'toute', 'une', 'assemblée', ',', 'de', 'tout', 'un', 'groupe', 'mais', 'plutôt', 'sur', 'celle', 'de', 'Dieu', '.']","[(10, 35)]",[['coo']]
+703_26,"Celle et ceux qui connaissent la S-Works 7 ne seront pas déçu.
+","['Celle', 'et', 'ceux', 'qui', 'connaissent', 'la', 'S-Works', '7', 'ne', 'seront', 'pas', 'déçu', '.', '\n']","[(0, 13)]",[['coo']]
+704_11,"L’application Mediapart
+Découvrez notre application pour mobile & tablette
+Informer la rédaction Contacter le service abonné·es
+Nous suivre
+Facebook Twitter","['L’', 'application', 'Mediapart', '\n', 'Découvrez', 'notre', 'application', 'pour', 'mobile', '&', 'tablette', '\n', 'Informer', 'la', 'rédaction', 'Contacter', 'le', 'service', 'abonné·es', '\n', 'Nous', 'suivre', '\n', 'Facebook', 'Twitter']","[(118, 127)]",[['fle']]
+704_21,"- section française
+Organisation non gouvernementale de défense des droits et de la dignité des personnes détenues
+Abonné·e de Mediapart
+299 Billets
+0 Édition
+Billet de blog 25 janv. 2016
+Observatoire international des prisons","['-', 'section', 'française', '\n', 'Organisation', 'non', 'gouvernementale', 'de', 'défense', 'des', 'droits', 'et', 'de', 'la', 'dignité', 'des', 'personnes', 'détenues', '\n', 'Abonné·e', 'de', 'Mediapart', '\n', '299', 'Billets', '\n', '0', 'Édition', '\n', 'Billet', 'de', 'blog', '25', 'janv.', '2016', '\n', 'Observatoire', 'international', 'des', 'prisons']","[(115, 123)]",[['fle']]
+704_22,"- section française
+Organisation non gouvernementale de défense des droits et de la dignité des personnes détenues
+Abonné·e de Mediapart
+«","['-', 'section', 'française', '\n', 'Organisation', 'non', 'gouvernementale', 'de', 'défense', 'des', 'droits', 'et', 'de', 'la', 'dignité', 'des', 'personnes', 'détenues', '\n', 'Abonné·e', 'de', 'Mediapart', '\n', '«']","[(115, 123)]",[['fle']]
+704_27,"- section française
+Organisation non gouvernementale de défense des droits et de la dignité des personnes détenues
+Abonné·e de Mediapart
+","['-', 'section', 'française', '\n', 'Organisation', 'non', 'gouvernementale', 'de', 'défense', 'des', 'droits', 'et', 'de', 'la', 'dignité', 'des', 'personnes', 'détenues', '\n', 'Abonné·e', 'de', 'Mediapart', '\n']","[(115, 123)]",[['fle']]
+704_79,"de libre expression des abonné·e·s de Mediapart
+Bienvenue","['de', 'libre', 'expression', 'des', 'abonné·e·s', 'de', 'Mediapart', '\n', 'Bienvenue']","[(24, 34)]",[['fle']]
+704_80,"dans le Club de Mediapart
+Tout·e abonné·e à Mediapart dispose d’un blog","['dans', 'le', 'Club', 'de', 'Mediapart', '\n', 'Tout·e', 'abonné·e', 'à', 'Mediapart', 'dispose', 'd’', 'un', 'blog']","[(26, 41)]",[['fle']]
+704_87,"un rapport officiel reconnaît l’ampleur du scandale
+Recommandés par nos abonné·es
+Billet de blog
+J’ai 16 ans, et j’ai peur pour l’avenir de mon pays
+Billet de blog
+Zemmour, Le Pen et l’antifascisme
+Billet de blog
+Cours vite et « souffre en silence »
+À la Une de Mediapart
+Journal — Défense
+Néonazis dans l’armée : l’insupportable laisser-faire du ministère
+Un militaire néonazi, dont le cas avait été évoqué il y a huit mois par Mediapart, a été interpellé en novembre par des douaniers.","['un', 'rapport', 'officiel', 'reconnaît', 'l’', 'ampleur', 'du', 'scandale', '\n', 'Recommandés', 'par', 'nos', 'abonné·es', '\n', 'Billet', 'de', 'blog', '\n', 'J’', 'ai', '16', 'ans', ',', 'et', 'j’', 'ai', 'peur', 'pour', 'l’', 'avenir', 'de', 'mon', 'pays', '\n', 'Billet', 'de', 'blog', '\n', 'Zemmour', ',', 'Le', 'Pen', 'et', 'l’', 'antifascisme', '\n', 'Billet', 'de', 'blog', '\n', 'Cours', 'vite', 'et', '«', 'souffre', 'en', 'silence', '»', '\n', 'À', 'la', 'Une', 'de', 'Mediapart', '\n', 'Journal', '—', 'Défense', '\n', 'Néonazis', 'dans', 'l’', 'armée', ':', 'l’', 'insupportable', 'laisser-faire', 'du', 'ministère', '\n', 'Un', 'militaire', 'néonazi', ',', 'dont', 'le', 'cas', 'avait', 'été', 'évoqué', 'il', 'y', 'a', 'huit', 'mois', 'par', 'Mediapart', ',', 'a', 'été', 'interpellé', 'en', 'novembre', 'par', 'des', 'douaniers', '.']","[(72, 81)]",[['fle']]
+704_104,"Les voix des « experts » (en technologies numériques, plutôt qu'en pédagogie) continuent de se faire bruyamment entendre, peut-être pour couvrir la parole des enseignant-e-s... et des élèves.
+par Julien Cueille
+Billet de blog
+","['Les', 'voix', 'des', '«', 'experts', '»', '(', 'en', 'technologies', 'numériques', ',', 'plutôt', ""qu'"", 'en', 'pédagogie', ')', 'continuent', 'de', 'se', 'faire', 'bruyamment', 'entendre', ',', 'peut-être', 'pour', 'couvrir', 'la', 'parole', 'des', 'enseignant-e-s', '...', 'et', 'des', 'élèves', '.', '\n', 'par', 'Julien', 'Cueille', '\n', 'Billet', 'de', 'blog', '\n']","[(159, 173)]",[['fle']]
+704_136,"D’autres sont optionnelles mais contribuent à faciliter votre expérience de lecteur ou de lectrice et d’une certaine façon à soutenir Mediapart : vous pouvez à tout moment donner ou retirer votre consentement.
+Acceptez-vous que Mediapart emploie des cookies ou technologies similaires utiles à son fonctionnement ?
+Refuser
+Accepter
+Affiner mes choix
+Paramètres de confidentialité
+","['D’', 'autres', 'sont', 'optionnelles', 'mais', 'contribuent', 'à', 'faciliter', 'votre', 'expérience', 'de', 'lecteur', 'ou', 'de', 'lectrice', 'et', 'd’', 'une', 'certaine', 'façon', 'à', 'soutenir', 'Mediapart', ':', 'vous', 'pouvez', 'à', 'tout', 'moment', 'donner', 'ou', 'retirer', 'votre', 'consentement', '.', '\n', 'Acceptez', '-vous', 'que', 'Mediapart', 'emploie', 'des', 'cookies', 'ou', 'technologies', 'similaires', 'utiles', 'à', 'son', 'fonctionnement', '?', '\n', 'Refuser', '\n', 'Accepter', '\n', 'Affiner', 'mes', 'choix', '\n', 'Paramètres', 'de', 'confidentialité', '\n']","[(76, 98)]",[['coo']]
+704_140,D’autres sont optionnels mais contribuent à faciliter votre expérience de lecteur ou de lectrice et d’une certaine façon à soutenir Mediapart.,"['D’', 'autres', 'sont', 'optionnels', 'mais', 'contribuent', 'à', 'faciliter', 'votre', 'expérience', 'de', 'lecteur', 'ou', 'de', 'lectrice', 'et', 'd’', 'une', 'certaine', 'façon', 'à', 'soutenir', 'Mediapart', '.']","[(74, 96)]",[['coo']]
+704_146,"Nécessaires au fonctionnement
+du site ou de l’application
+Connexion des abonné·es, mesure d’audience anonymisée, envoi des notifications push, suivi des pannes, mise en avant de nos services : ces outils sont nécessaires au suivi de l’activité de nos services et à leur bon fonctionnement.
+en savoir plus
+Voici les différents cookies et technologies similaires compris dans cette catégorie :
+Cookies d’authentification : connexion des abonné·es.
+AT Internet : mesure d’audience anonymisée
+Affichage de contenus éditoriaux multimédias : vidéos (YouTube, Dailymotion, Vimeo, INA), réseaux sociaux (Facebook, Twitter, Instagram, Pinterest), documents (Scribd, Document Cloud, Slideshare), sons (SoundCloud, Spotify, Deezer), cartes (Google Maps, Mapbox, CartoDB, uMap), infographies (Highcharts, GitHub, Datawrapper, Flourish, Infogram, ThingLink, jQuery, Google Fonts, Bootstrap), live blogs (24liveblog, CoverItLive), aide à l’intégration de média dans les publications Journal et Club (Embedly).
+Typeform : questionnaires facultatifs pour recueillir les avis des lecteurs sur nos produits numériques.
+Datadog (uniquement sur le site web) : indicateurs techniques et équilibrage de charge.
+Selligent (uniquement sur le site web) : communication avec l’abonné·e, mise en avant des services, offres et avantages.
+Batch (uniquement sur l’application) : envoi de notifications push et de messages in-app.
+","['Nécessaires', 'au', 'fonctionnement', '\n', 'du', 'site', 'ou', 'de', 'l’', 'application', '\n', 'Connexion', 'des', 'abonné·es', ',', 'mesure', 'd’', 'audience', 'anonymisée', ',', 'envoi', 'des', 'notifications', 'push', ',', 'suivi', 'des', 'pannes', ',', 'mise', 'en', 'avant', 'de', 'nos', 'services', ':', 'ces', 'outils', 'sont', 'nécessaires', 'au', 'suivi', 'de', 'l’', 'activité', 'de', 'nos', 'services', 'et', 'à', 'leur', 'bon', 'fonctionnement', '.', '\n', 'en', 'savoir', 'plus', '\n', 'Voici', 'les', 'différents', 'cookies', 'et', 'technologies', 'similaires', 'compris', 'dans', 'cette', 'catégorie', ':', '\n', 'Cookies', 'd’', 'authentification', ':', 'connexion', 'des', 'abonné·es', '.', '\n', 'AT', 'Internet', ':', 'mesure', 'd’', 'audience', 'anonymisée', '\n', 'Affichage', 'de', 'contenus', 'éditoriaux', 'multimédias', ':', 'vidéos', '(', 'YouTube', ',', 'Dailymotion', ',', 'Vimeo', ',', 'INA', ')', ',', 'réseaux', 'sociaux', '(', 'Facebook', ',', 'Twitter', ',', 'Instagram', ',', 'Pinterest', ')', ',', 'documents', '(', 'Scribd', ',', 'Document', 'Cloud', ',', 'Slideshare', ')', ',', 'sons', '(', 'SoundCloud', ',', 'Spotify', ',', 'Deezer', ')', ',', 'cartes', '(', 'Google', 'Maps', ',', 'Mapbox', ',', 'CartoDB', ',', 'uMap', ')', ',', 'infographies', '(', 'Highcharts', ',', 'GitHub', ',', 'Datawrapper', ',', 'Flourish', ',', 'Infogram', ',', 'ThingLink', ',', 'jQuery', ',', 'Google', 'Fonts', ',', 'Bootstrap', ')', ',', 'live', 'blogs', '(', '24liveblog', ',', 'CoverItLive', ')', ',', 'aide', 'à', 'l’', 'intégration', 'de', 'média', 'dans', 'les', 'publications', 'Journal', 'et', 'Club', '(', 'Embedly', ')', '.', '\n', 'Typeform', ':', 'questionnaires', 'facultatifs', 'pour', 'recueillir', 'les', 'avis', 'des', 'lecteurs', 'sur', 'nos', 'produits', 'numériques', '.', '\n', 'Datadog', '(', 'uniquement', 'sur', 'le', 'site', 'web', ')', ':', 'indicateurs', 'techniques', 'et', 'équilibrage', 'de', 'charge', '.', '\n', 'Selligent', '(', 'uniquement', 'sur', 'le', 'site', 'web', ')', ':', 'communication', 'avec', 'l’', 'abonné·e', ',', 'mise', 'en', 'avant', 'des', 'services', ',', 'offres', 'et', 'avantages', '.', '\n', 'Batch', '(', 'uniquement', 'sur', 'l’', 'application', ')', ':', 'envoi', 'de', 'notifications', 'push', 'et', 'de', 'messages', 'in-app', '.', '\n']","[(72, 81), (435, 444), (1251, 1259)]","[['fle'], ['fle'], ['fle']]"
+704_152,"Ces outils nous permettent de recueillir des statistiques de fréquentation du site et de l’application mobile pour comprendre les usages, détecter d’éventuels problèmes et optimiser l’ergonomie de nos produits.
+en savoir plus
+Voici les outils tiers compris dans cette catégorie :
+AT Internet : mesure d’audience reliée à l’identifiant d’abonné·e.
+Google Analytics (uniquement sur le site web) : mesure d’audience.
+CrazyEggs (uniquement sur le site web) : analyse de parcours client.
+","['Ces', 'outils', 'nous', 'permettent', 'de', 'recueillir', 'des', 'statistiques', 'de', 'fréquentation', 'du', 'site', 'et', 'de', 'l’', 'application', 'mobile', 'pour', 'comprendre', 'les', 'usages', ',', 'détecter', 'd’', 'éventuels', 'problèmes', 'et', 'optimiser', 'l’', 'ergonomie', 'de', 'nos', 'produits', '.', '\n', 'en', 'savoir', 'plus', '\n', 'Voici', 'les', 'outils', 'tiers', 'compris', 'dans', 'cette', 'catégorie', ':', '\n', 'AT', 'Internet', ':', 'mesure', 'd’', 'audience', 'reliée', 'à', 'l’', 'identifiant', 'd’', 'abonné·e', '.', '\n', 'Google', 'Analytics', '(', 'uniquement', 'sur', 'le', 'site', 'web', ')', ':', 'mesure', 'd’', 'audience', '.', '\n', 'CrazyEggs', '(', 'uniquement', 'sur', 'le', 'site', 'web', ')', ':', 'analyse', 'de', 'parcours', 'client', '.', '\n']","[(337, 345)]",[['fle']]
+731_169,"L’épaisseur du bourrelet et sa rigidité font que le pliage est pas forcément évident, je pense qu’il faut une bonne habitude de la cup, je la déconseille aux débutant.es pour ce motif.","['L’', 'épaisseur', 'du', 'bourrelet', 'et', 'sa', 'rigidité', 'font', 'que', 'le', 'pliage', 'est', 'pas', 'forcément', 'évident', ',', 'je', 'pense', 'qu’', 'il', 'faut', 'une', 'bonne', 'habitude', 'de', 'la', 'cup', ',', 'je', 'la', 'déconseille', 'aux', 'débutant.es', 'pour', 'ce', 'motif', '.']","[(158, 169)]",[['fle']]
+731_173,"La longue tige est très souple, et je pense qu’ils l’ont mise pour rassurer les débutant.es qui ont l’habitude des tampons.","['La', 'longue', 'tige', 'est', 'très', 'souple', ',', 'et', 'je', 'pense', 'qu’', 'ils', 'l’', 'ont', 'mise', 'pour', 'rassurer', 'les', 'débutant.es', 'qui', 'ont', 'l’', 'habitude', 'des', 'tampons', '.']","[(80, 91)]",[['fle']]
+735_14,"ohne Erlaubnis verboten.
+×
+Suivez notre newsletter !
+Abonnez-vous à notre newsletter, et restez informé(e) des nouveaux contenus et de l'activité sur le site.
+","['ohne', 'Erlaubnis', 'verboten', '.', '\n', '×', '\n', 'Suivez', 'notre', 'newsletter', '!', '\n', 'Abonnez', '-vous', 'à', 'notre', 'newsletter', ',', 'et', 'restez', 'informé(e)', 'des', 'nouveaux', 'contenus', 'et', 'de', ""l'"", 'activité', 'sur', 'le', 'site', '.', '\n']","[(96, 106)]",[['fle']]
+749_10,"Nous sommes dans la bienveillance, l’écoute, l’entraide.
+Alors, soyez les bienvenu-e-s sur ce nouvel espace d’informations, d’échanges, de discussions, de partage.
+Partager cet article :
+Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Pinterest(ouvre dans une nouvelle fenêtre)
+Cliquez pour envoyer par e-mail à un ami(ouvre dans une nouvelle fenêtre)
+Cliquer pour imprimer(ouvre dans une nouvelle fenêtre)
+WordPress:
+J’aime chargement…
+Articles similaires
+Tags:Egalité femmes-hommes, Humeurs, Vie pro-vie perso
+A propos de moi
+Égalimère
+Working-mum, pro de l'équilibre vie pro-vie perso, qui culpabilise, râle contre les stéréotypes & les inégalités, aime la vie, les sorties et les voyages.
+","['Nous', 'sommes', 'dans', 'la', 'bienveillance', ',', 'l’', 'écoute', ',', 'l’', 'entraide', '.', '\n', 'Alors', ',', 'soyez', 'les', 'bienvenu-e-s', 'sur', 'ce', 'nouvel', 'espace', 'd’', 'informations', ',', 'd’', 'échanges', ',', 'de', 'discussions', ',', 'de', 'partage', '.', '\n', 'Partager', 'cet', 'article', ':', '\n', 'Cliquez', 'pour', 'partager', 'sur', 'Facebook(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'Cliquez', 'pour', 'partager', 'sur', 'Twitter(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'Cliquez', 'pour', 'partager', 'sur', 'LinkedIn(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'Cliquez', 'pour', 'partager', 'sur', 'Pinterest(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'Cliquez', 'pour', 'envoyer', 'par', 'e-mail', 'à', 'un', 'ami(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'Cliquer', 'pour', 'imprimer(ouvre', 'dans', 'une', 'nouvelle', 'fenêtre', ')', '\n', 'WordPress', ':', '\n', 'J’', 'aime', 'chargement', '…', '\n', 'Articles', 'similaires', '\n', 'Tags', ':', 'Egalité', 'femmes-hommes', ',', 'Humeurs', ',', 'Vie', 'pro-vie', 'perso', '\n', 'A', 'propos', 'de', 'moi', '\n', 'Égalimère', '\n', 'Working-mum', ',', 'pro', 'de', ""l'"", 'équilibre', 'vie', 'pro-vie', 'perso', ',', 'qui', 'culpabilise', ',', 'râle', 'contre', 'les', 'stéréotypes', '&', 'les', 'inégalités', ',', 'aime', 'la', 'vie', ',', 'les', 'sorties', 'et', 'les', 'voyages', '.', '\n']","[(74, 86)]",[['fle']]
+749_22,"Droit d’auteure
+","['Droit', 'd’', 'auteure', '\n']","[(8, 15)]",[['fem']]
+749_23,Les publications et images de ce blog sont soumises au droit d’auteur·e.,"['Les', 'publications', 'et', 'images', 'de', 'ce', 'blog', 'sont', 'soumises', 'au', 'droit', 'd’', 'auteur·e', '.']","[(63, 71)]",[['fle']]
+760_2,"Si les documents eux-mêmes sont techniques, leurs enjeux nous concernent toutes et tous.","['Si', 'les', 'documents', 'eux-mêmes', 'sont', 'techniques', ',', 'leurs', 'enjeux', 'nous', 'concernent', 'toutes', 'et', 'tous', '.']","[(73, 87)]",[['coo']]
+763_7,"12 ans
+Dernière réponse 12 ans
+Poupoun
+Posté(e) le 12 juin 2009
+Poupoun
+Membre Cadet
+25
+Partager
+Posté(e) le 12 juin 2009
+bonsoir,
+je pense qu'il est grave de donner du café à un enfant de 3 ans...","['12', 'ans', '\n', 'Dernière', 'réponse', '12', 'ans', '\n', 'Poupoun', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Poupoun', '\n', 'Membre', 'Cadet', '\n', '25', '\n', 'Partager', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'bonsoir', ',', '\n', 'je', 'pense', ""qu'"", 'il', 'est', 'grave', 'de', 'donner', 'du', 'café', 'à', 'un', 'enfant', 'de', '3', 'ans', '...']","[(39, 47), (97, 105)]","[['fle'], ['fle']]"
+763_10,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Mumuseb
+Posté(e) le 12 juin 2009
+Mumuseb
+Membre Pilier Junior
+1,5k
+Partager
+Posté(e) le 12 juin 2009
+","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Mumuseb', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Mumuseb', '\n', 'Membre', 'Pilier', 'Junior', '\n', '1,5k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n']","[(85, 93), (153, 161)]","[['fle'], ['fle']]"
+763_13,"(quoique, d'expérience, pour certaines personnes, même le plus grand expert dans un domaine en sait forcément moins qu'eux).
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Neptune
+Posté(e) le 12 juin 2009
+Neptune
+Membre Junior
+58
+Partager
+Posté(e) le 12 juin 2009
+","['(', 'quoique', ',', ""d'"", 'expérience', ',', 'pour', 'certaines', 'personnes', ',', 'même', 'le', 'plus', 'grand', 'expert', 'dans', 'un', 'domaine', 'en', 'sait', 'forcément', 'moins', ""qu'"", 'eux', ')', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Neptune', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Neptune', '\n', 'Membre', 'Junior', '\n', '58', '\n', 'Partager', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n']","[(210, 218), (269, 277)]","[['fle'], ['fle']]"
+763_18,"...
+Invité Shintoku
+Posté(e) le 12 juin 2009
+Invité Shintoku
+Invités
+Partager
+Posté(e) le 12 juin 2009
+","['...', '\n', 'Invité', 'Shintoku', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Invité', 'Shintoku', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n']","[(20, 28), (78, 86)]","[['fle'], ['fle']]"
+763_28,"Partager sur d’autres sites
+More sharing options...
+Sardineb
+Posté(e) le 12 juin 2009
+Sardineb
+Membre Pilier Sénior
+12,5k
+Partager
+Posté(e) le 12 juin 2009
+Lune de mes petites filles a commencé,vers deux ans,à s'emparer de tous les fonds de tasse qu'elle trouvait.
+","['Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Sardineb', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Sardineb', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '12,5k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '12', 'juin', '2009', '\n', 'Lune', 'de', 'mes', 'petites', 'filles', 'a', 'commencé', ',', 'vers', 'deux', 'ans', ',', 'à', ""s'"", 'emparer', 'de', 'tous', 'les', 'fonds', 'de', 'tasse', ""qu'"", 'elle', 'trouvait', '.', '\n']","[(61, 69), (131, 139)]","[['fle'], ['fle']]"
+763_33,"Mimipinson74
+Posté(e)","['Mimipinson74', '\n', 'Posté(e)']","[(13, 21)]",[['fle']]
+763_34,"le 13 juin 2009
+Mimipinson74
+Membre Senior
+285
+Partager
+Posté(e)","['le', '13', 'juin', '2009', '\n', 'Mimipinson74', '\n', 'Membre', 'Senior', '\n', '285', '\n', 'Partager', '\n', 'Posté(e)']","[(56, 64)]",[['fle']]
+763_37,"S'il est impossible de raisonner la grand-mère, peut-être pouvez-vous ""dégouter"" le petit
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Minimwa70
+Posté(e) le 17 juin 2009
+Minimwa70
+Membre Benjamin
+11
+Auteur
+Partager
+Posté(e) le 17 juin 2009
+merci de vos informations.
+","[""S'"", 'il', 'est', 'impossible', 'de', 'raisonner', 'la', 'grand-mère', ',', 'peut-être', 'pouvez', '-vous', '""', 'dégouter', '""', 'le', 'petit', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Minimwa70', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Minimwa70', '\n', 'Membre', 'Benjamin', '\n', '11', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'merci', 'de', 'vos', 'informations', '.', '\n']","[(177, 185), (247, 255)]","[['fle'], ['fle']]"
+763_41,"donc beaucoup de mésentante et de conflits.
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Yooyoo
+Posté(e) le 17 juin 2009
+Yooyoo
+Membre Pilier Sénior
+27,7k
+Partager
+Posté(e) le 17 juin 2009
+Bonjour,
+A priori, les conflits sont plus profonds et le fait que la grand-mère donne quelques gorgées de café à l'enfant ne semble qu'un prétexte pour lui enlever son lien avec cet enfant.
+","['donc', 'beaucoup', 'de', 'mésentante', 'et', 'de', 'conflits', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Yooyoo', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Yooyoo', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '27,7k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Bonjour', ',', '\n', 'A', 'priori', ',', 'les', 'conflits', 'sont', 'plus', 'profonds', 'et', 'le', 'fait', 'que', 'la', 'grand-mère', 'donne', 'quelques', 'gorgées', 'de', 'café', 'à', ""l'"", 'enfant', 'ne', 'semble', ""qu'"", 'un', 'prétexte', 'pour', 'lui', 'enlever', 'son', 'lien', 'avec', 'cet', 'enfant', '.', '\n']","[(128, 136), (196, 204)]","[['fle'], ['fle']]"
+763_46,"Cette grand-mère n'est peut-être pas de votre famille, ni directement de celle de votre mari, mais ne coupez pas les liens de cet enfant avec la famille de sa maman.
+Cordialement.
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Invité Shintoku
+Posté(e) le 17 juin 2009
+Invité Shintoku
+Invités
+Partager
+Posté(e) le 17 juin 2009
+Bonjour,
+A priori, les conflits sont plus profonds et le fait que la grand-mère donne quelques gorgées de café à l'enfant ne semble qu'un prétexte pour lui enlever son lien avec cet enfant.
+Merci de préciser vos propos :
+Doit-on comprendre que cet enfant est le fils de votre conjoint, dont l'ex-femme (mère de l'enfant) est décédée.","['Cette', 'grand-mère', ""n'"", 'est', 'peut-être', 'pas', 'de', 'votre', 'famille', ',', 'ni', 'directement', 'de', 'celle', 'de', 'votre', 'mari', ',', 'mais', 'ne', 'coupez', 'pas', 'les', 'liens', 'de', 'cet', 'enfant', 'avec', 'la', 'famille', 'de', 'sa', 'maman', '.', '\n', 'Cordialement', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Invité', 'Shintoku', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Invité', 'Shintoku', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Bonjour', ',', '\n', 'A', 'priori', ',', 'les', 'conflits', 'sont', 'plus', 'profonds', 'et', 'le', 'fait', 'que', 'la', 'grand-mère', 'donne', 'quelques', 'gorgées', 'de', 'café', 'à', ""l'"", 'enfant', 'ne', 'semble', ""qu'"", 'un', 'prétexte', 'pour', 'lui', 'enlever', 'son', 'lien', 'avec', 'cet', 'enfant', '.', '\n', 'Merci', 'de', 'préciser', 'vos', 'propos', ':', '\n', 'Doit', '-on', 'comprendre', 'que', 'cet', 'enfant', 'est', 'le', 'fils', 'de', 'votre', 'conjoint', ',', 'dont', ""l'"", 'ex-femme', '(', 'mère', 'de', ""l'"", 'enfant', ')', 'est', 'décédée', '.']","[(273, 281), (331, 339)]","[['fle'], ['fle']]"
+763_57,"!
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Mimipinson74
+Posté(e) le 17 juin 2009
+Mimipinson74
+Membre Senior
+285
+Partager
+Posté(e) le 17 juin 2009
+D'accord avec mimie et yooyoo.
+Meme","['!', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Mimipinson74', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Mimipinson74', '\n', 'Membre', 'Senior', '\n', '285', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', ""D'"", 'accord', 'avec', 'mimie', 'et', 'yooyoo', '.', '\n', 'Meme']","[(92, 100), (157, 165)]","[['fle'], ['fle']]"
+763_60,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Minimwa70
+Posté(e) le 17 juin 2009
+Minimwa70
+Membre Benjamin
+11
+Auteur
+Partager
+Posté(e) le 17 juin 2009
+Je ne m'impose pas comme la mère du petit mais c'est quand meme moi qui m'en occupe depuis plus d'un an.","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Minimwa70', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Minimwa70', '\n', 'Membre', 'Benjamin', '\n', '11', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Je', 'ne', ""m'"", 'impose', 'pas', 'comme', 'la', 'mère', 'du', 'petit', 'mais', ""c'"", 'est', 'quand', 'meme', 'moi', 'qui', ""m'"", 'en', 'occupe', 'depuis', 'plus', ""d'"", 'un', 'an', '.']","[(87, 95), (157, 165)]","[['fle'], ['fle']]"
+763_80,"...
+Invité Yaka-de-retour
+Posté(e) le 17 juin 2009
+Invité Yaka-de-retour
+Invités
+Partager
+Posté(e) le 17 juin 2009
+ils souhaitent engager une procédure pour avoir la garde de l'enfant et que se soit le papa qui vienne le voir de temps en temps,
+Sauf à prouver l'incapacité du père à s'en occuper il n' y a aucune chance que la garde leur soit confiée.
+","['...', '\n', 'Invité', 'Yaka-de-retour', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Invité', 'Yaka-de-retour', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'ils', 'souhaitent', 'engager', 'une', 'procédure', 'pour', 'avoir', 'la', 'garde', 'de', ""l'"", 'enfant', 'et', 'que', 'se', 'soit', 'le', 'papa', 'qui', 'vienne', 'le', 'voir', 'de', 'temps', 'en', 'temps', ',', '\n', 'Sauf', 'à', 'prouver', ""l'"", 'incapacité', 'du', 'père', 'à', ""s'"", 'en', 'occuper', 'il', 'n', ""'"", 'y', 'a', 'aucune', 'chance', 'que', 'la', 'garde', 'leur', 'soit', 'confiée', '.', '\n']","[(26, 34), (90, 98)]","[['fle'], ['fle']]"
+763_81,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Invité Shintoku
+Posté(e) le 17 juin 2009
+Invité Shintoku
+Invités
+Partager
+Posté(e) le 17 juin 2009
+Je connais des grands mères qui acceptent d'être rémunérées pour garder leurs petits enfants.","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Invité', 'Shintoku', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Invité', 'Shintoku', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Je', 'connais', 'des', 'grands', 'mères', 'qui', 'acceptent', ""d'"", 'être', 'rémunérées', 'pour', 'garder', 'leurs', 'petits', 'enfants', '.']","[(93, 101), (151, 159)]","[['fle'], ['fle']]"
+763_88,"Qui l'a aimé plus qu'eux ?
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Invité Lag0
+Posté(e) le 17 juin 2009
+Invité Lag0
+Invités
+Partager
+Posté(e) le 17 juin 2009
+Bonjour,
+Je rejoins parfaitement Mimie, point besoin de café pour que les petits soient insuportables en revenant de chez les grands-parents.","['Qui', ""l'"", 'a', 'aimé', 'plus', ""qu'"", 'eux', '?', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Invité', 'Lag0', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Invité', 'Lag0', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Bonjour', ',', '\n', 'Je', 'rejoins', 'parfaitement', 'Mimie', ',', 'point', 'besoin', 'de', 'café', 'pour', 'que', 'les', 'petits', 'soient', 'insuportables', 'en', 'revenant', 'de', 'chez', 'les', 'grands-parents', '.']","[(116, 124), (170, 178)]","[['fle'], ['fle']]"
+763_89,"Je crois qu'on connait tous cette situation...
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Ephelide
+Posté(e) le 17 juin 2009
+Ephelide
+Membre Pilier Sénior
+5,6k
+Partager
+Posté(e) le 17 juin 2009
+Je connais des grands mères qui acceptent d'être rémunérées pour garder leurs petits enfants.","['Je', 'crois', ""qu'"", 'on', 'connait', 'tous', 'cette', 'situation', '...', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Ephelide', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Ephelide', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '5,6k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Je', 'connais', 'des', 'grands', 'mères', 'qui', 'acceptent', ""d'"", 'être', 'rémunérées', 'pour', 'garder', 'leurs', 'petits', 'enfants', '.']","[(133, 141), (202, 210)]","[['fle'], ['fle']]"
+763_106,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Mimipinson74
+Posté(e) le 17 juin 2009
+Mimipinson74
+Membre Senior
+285
+Partager
+Posté(e) le 17 juin 2009
+Bonjour","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Mimipinson74', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Mimipinson74', '\n', 'Membre', 'Senior', '\n', '285', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Bonjour']","[(90, 98), (155, 163)]","[['fle'], ['fle']]"
+763_112,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Yooyoo
+Posté(e) le 17 juin 2009
+Yooyoo
+Membre Pilier Sénior
+27,7k
+Partager
+Posté(e) le 17 juin 2009
+Bonsoir,
+Votre position est pleine de contradictions :
+","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Yooyoo', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Yooyoo', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '27,7k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Bonsoir', ',', '\n', 'Votre', 'position', 'est', 'pleine', 'de', 'contradictions', ':', '\n']","[(84, 92), (152, 160)]","[['fle'], ['fle']]"
+763_122,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Minimwa70
+Posté(e) le 17 juin 2009
+Minimwa70
+Membre Benjamin
+11
+Auteur
+Partager
+Posté(e) le 17 juin 2009
+je suis d'accord avec vous mais pour ce qui est de son agrément d'assistante maternelle, elle l'a depuis qu'elle garde son petit fils (c'est sa fille et son gendre qui ont fait pour cela) depuis qu'elle n'a plus le petit a garder, elle n'a pas d'autre enfant à garder alors ???","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Minimwa70', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Minimwa70', '\n', 'Membre', 'Benjamin', '\n', '11', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'je', 'suis', ""d'"", 'accord', 'avec', 'vous', 'mais', 'pour', 'ce', 'qui', 'est', 'de', 'son', 'agrément', ""d'"", 'assistante', 'maternelle', ',', 'elle', ""l'"", 'a', 'depuis', ""qu'"", 'elle', 'garde', 'son', 'petit', 'fils', '(', ""c'"", 'est', 'sa', 'fille', 'et', 'son', 'gendre', 'qui', 'ont', 'fait', 'pour', 'cela', ')', 'depuis', ""qu'"", 'elle', ""n'"", 'a', 'plus', 'le', 'petit', 'a', 'garder', ',', 'elle', ""n'"", 'a', 'pas', ""d'"", 'autre', 'enfant', 'à', 'garder', 'alors', '?', '?', '?']","[(87, 95), (157, 165)]","[['fle'], ['fle']]"
+763_131,"!
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Invité Yaka-de-retour
+Posté(e)","['!', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Invité', 'Yaka-de-retour', '\n', 'Posté(e)']","[(101, 109)]",[['fle']]
+763_132,"le 17 juin 2009
+Invité Yaka-de-retour
+Invités
+Partager
+Posté(e) le 17 juin 2009
+...","['le', '17', 'juin', '2009', '\n', 'Invité', 'Yaka-de-retour', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', '...']","[(55, 63)]",[['fle']]
+763_133,"pour ce qui ai de laprocédure cela fait plusieurs fois qu'elle nous menace de le faire
+Comme indiqué précedemment, le père de l'enfant étant vivant et non frappé d'indignité, la grand mère n'a aucune chance d'obtenir la garde de l'enfant.
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Minimwa70
+Posté(e) le 17 juin 2009
+Minimwa70
+Membre Benjamin
+11
+Auteur
+Partager
+Posté(e) le 17 juin 2009
+Lag0 dit :","['pour', 'ce', 'qui', 'ai', 'de', 'laprocédure', 'cela', 'fait', 'plusieurs', 'fois', ""qu'"", 'elle', 'nous', 'menace', 'de', 'le', 'faire', '\n', 'Comme', 'indiqué', 'précedemment', ',', 'le', 'père', 'de', ""l'"", 'enfant', 'étant', 'vivant', 'et', 'non', 'frappé', ""d'"", 'indignité', ',', 'la', 'grand', 'mère', ""n'"", 'a', 'aucune', 'chance', ""d'"", 'obtenir', 'la', 'garde', 'de', ""l'"", 'enfant', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Minimwa70', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Minimwa70', '\n', 'Membre', 'Benjamin', '\n', '11', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Lag0', 'dit', ':']","[(326, 334), (396, 404)]","[['fle'], ['fle']]"
+763_140,"!
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Invité Lag0
+Posté(e) le 17 juin 2009
+Invité Lag0
+Invités
+Partager
+Posté(e) le 17 juin 2009
+Vous devez avoir raison car moi-même, grand buveur de café (une bonne dizaine par jour), j'ai le cerveaux complètement grillé :D
+Aller, je me retire de cette discution qui tourne au grand n'importe quoi...
+Vous connaissez le proverbe qui dit ""quand on veut tuer son chien on dit qu'il a la rage"", je me demande si vous ne remplacez pas le chien par la grand-mère...
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Ephelide
+Posté(e) le 17 juin 2009
+Ephelide
+Membre Pilier Sénior
+5,6k
+Partager
+Posté(e) le 17 juin 2009
+Lag0 dit : Bonjour,
+Je rejoins parfaitement Mimie, point besoin de café pour que les petits soient insuportables en revenant de chez les grands-parents.","['!', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Invité', 'Lag0', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Invité', 'Lag0', '\n', 'Invités', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Vous', 'devez', 'avoir', 'raison', 'car', 'moi-même', ',', 'grand', 'buveur', 'de', 'café', '(', 'une', 'bonne', 'dizaine', 'par', 'jour', ')', ',', ""j'"", 'ai', 'le', 'cerveaux', 'complètement', 'grillé', ':D', '\n', 'Aller', ',', 'je', 'me', 'retire', 'de', 'cette', 'discution', 'qui', 'tourne', 'au', 'grand', ""n'"", 'importe', 'quoi', '...', '\n', 'Vous', 'connaissez', 'le', 'proverbe', 'qui', 'dit', '""', 'quand', 'on', 'veut', 'tuer', 'son', 'chien', 'on', 'dit', ""qu'"", 'il', 'a', 'la', 'rage', '""', ',', 'je', 'me', 'demande', 'si', 'vous', 'ne', 'remplacez', 'pas', 'le', 'chien', 'par', 'la', 'grand-mère', '...', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Ephelide', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Ephelide', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '5,6k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Lag0', 'dit', ':', 'Bonjour', ',', '\n', 'Je', 'rejoins', 'parfaitement', 'Mimie', ',', 'point', 'besoin', 'de', 'café', 'pour', 'que', 'les', 'petits', 'soient', 'insuportables', 'en', 'revenant', 'de', 'chez', 'les', 'grands-parents', '.']","[(91, 99), (145, 153), (622, 630), (691, 699)]","[['fle'], ['fle'], ['fle'], ['fle']]"
+763_151,"Et si la volonté de la grand-mère de rendre son petit-fils dépendant à la caféine était évoquée, le Juge risquerait fort de s'énerver... et pas contre la grand-mère.
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Minimwa70
+Posté(e) le 17 juin 2009
+Minimwa70
+Membre Benjamin
+11
+Auteur
+Partager
+Posté(e) le 17 juin 2009
+dites ce que bon vous semble, a l'heure d'aujourd'hui je suis reconnue comme parent de substitution par le jaf car une procédure a déjà été jugée et avant de dire que je cherche a nuire a l'ex belle mere de mon conjoint, vivez ce que je vie.","['Et', 'si', 'la', 'volonté', 'de', 'la', 'grand-mère', 'de', 'rendre', 'son', 'petit-fils', 'dépendant', 'à', 'la', 'caféine', 'était', 'évoquée', ',', 'le', 'Juge', 'risquerait', 'fort', 'de', ""s'"", 'énerver', '...', 'et', 'pas', 'contre', 'la', 'grand-mère', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Minimwa70', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Minimwa70', '\n', 'Membre', 'Benjamin', '\n', '11', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'dites', 'ce', 'que', 'bon', 'vous', 'semble', ',', 'a', ""l'"", 'heure', ""d'"", ""aujourd'hui"", 'je', 'suis', 'reconnue', 'comme', 'parent', 'de', 'substitution', 'par', 'le', 'jaf', 'car', 'une', 'procédure', 'a', 'déjà', 'été', 'jugée', 'et', 'avant', 'de', 'dire', 'que', 'je', 'cherche', 'a', 'nuire', 'a', ""l'"", 'ex', 'belle', 'mere', 'de', 'mon', 'conjoint', ',', 'vivez', 'ce', 'que', 'je', 'vie', '.']","[(253, 261), (323, 331)]","[['fle'], ['fle']]"
+763_155,"!
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Ephelide
+Posté(e)","['!', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Ephelide', '\n', 'Posté(e)']","[(88, 96)]",[['fle']]
+763_156,"le 17 juin 2009
+Ephelide
+Membre Pilier Sénior
+5,6k
+Partager
+Posté(e) le 17 juin 2009
+Vous êtes venue chercher des réponses.
+","['le', '17', 'juin', '2009', '\n', 'Ephelide', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '5,6k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '17', 'juin', '2009', '\n', 'Vous', 'êtes', 'venue', 'chercher', 'des', 'réponses', '.', '\n']","[(60, 68)]",[['fle']]
+765_5,"11 ans
+Dernière réponse 11 ans
+Marsu
+Posté(e) le 5 mai 2010
+Marsu
+Membre Pilier Sénior
+29,7k
+Partager
+Posté(e) le 5 mai 2010
+Que voulez-vous dire par ""qui ne m'a pas fait sortir du régime de TVA en temps voulu"" et comment chiffrez-vous la perte, le préjudice ?","['11', 'ans', '\n', 'Dernière', 'réponse', '11', 'ans', '\n', 'Marsu', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Marsu', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '29,7k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Que', 'voulez', '-vous', 'dire', 'par', '""', 'qui', 'ne', ""m'"", 'a', 'pas', 'fait', 'sortir', 'du', 'régime', 'de', 'TVA', 'en', 'temps', 'voulu', '""', 'et', 'comment', 'chiffrez', '-vous', 'la', 'perte', ',', 'le', 'préjudice', '?']","[(37, 45), (102, 110)]","[['fle'], ['fle']]"
+765_7,"Au contraire, elle a appartenu dès la première seconde à l'Etat...
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Cathos
+Posté(e) le 5 mai 2010
+Cathos
+Membre Poussin
+4
+Auteur
+Partager
+Posté(e) le 5 mai 2010
+meme","['Au', 'contraire', ',', 'elle', 'a', 'appartenu', 'dès', 'la', 'première', 'seconde', 'à', ""l'"", 'Etat', '...', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Cathos', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Cathos', '\n', 'Membre', 'Poussin', '\n', '4', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'meme']","[(151, 159), (214, 222)]","[['fle'], ['fle']]"
+765_9,"[si le comptable m avait fait passer en franchise de TVA en temps voulu] m'auraient permis d investir dans ma petite entreprise ....et le litige avec mon comptable porte justement sur ces economies que j aurais pu realiser s il avait fait les demarches à temps......
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Marsu
+Posté(e) le 5 mai 2010
+Marsu
+Membre Pilier Sénior
+29,7k
+Partager
+Posté(e) le 5 mai 2010
+Encore une fois, ces économies auraient été réalisées sur quelle base ?","['[', 'si', 'le', 'comptable', 'm', 'avait', 'fait', 'passer', 'en', 'franchise', 'de', 'TVA', 'en', 'temps', 'voulu', ']', ""m'"", 'auraient', 'permis', 'd', 'investir', 'dans', 'ma', 'petite', 'entreprise', '....', 'et', 'le', 'litige', 'avec', 'mon', 'comptable', 'porte', 'justement', 'sur', 'ces', 'economies', 'que', 'j', 'aurais', 'pu', 'realiser', 's', 'il', 'avait', 'fait', 'les', 'demarches', 'à', 'temps', '......', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Marsu', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Marsu', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '29,7k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Encore', 'une', 'fois', ',', 'ces', 'économies', 'auraient', 'été', 'réalisées', 'sur', 'quelle', 'base', '?']","[(350, 358), (415, 423)]","[['fle'], ['fle']]"
+765_12,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Cathos
+Posté(e) le 5 mai 2010
+Cathos
+Membre Poussin
+4
+Auteur
+Partager
+Posté(e) le 5 mai 2010
+c '","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Cathos', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'Cathos', '\n', 'Membre', 'Poussin', '\n', '4', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '5', 'mai', '2010', '\n', 'c', ""'""]","[(84, 92), (147, 155)]","[['fle'], ['fle']]"
+765_14,"ces économies auraient été réalisées sur la tva reversée à l état ...j ai fait une moyenne de ce que j'avais versé...en plus je peux ajouter que c est
+mon mari et ""ma pomme"" qui nous sommes rendu compte que pour pouvoir bénéficier
+de cette option de franchise de tva...cela ne pouvait se faire que tous les 2 ans......
+""chose"" que ne connaissait pas le comptable.....
+et lorsque j ai appelé le cabinet d' expertise comptable, la personne qui s'occupe plus
+particulierement de mon dossier a reconnue son erreur....
+tout cela pour souligner que si l'expert comptable avait été au courant de la périodicité inhérente à la demande de franchise de tva....et s'il m'avait conseillé au mieux comme il semble le dire,ces démarches auraient pu se faire depuis au moins 2 ans....[et soit dit en passant qu'il a repris le cabinet depuis 2007...et nous sommes en 2010....]
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Bill78
+Posté(e) le 6 mai 2010
+Bill78
+Membre Senior
+335
+Partager
+Posté(e) le 6 mai 2010
+Vous annoncez une perte financiére de 12 K€ au titre de la tva.
+Mais est-ce le montant de la tva que vous avez reversée au trésor ou bien le montant de la tva collectée?
+","['ces', 'économies', 'auraient', 'été', 'réalisées', 'sur', 'la', 'tva', 'reversée', 'à', 'l', 'état', '...', 'j', 'ai', 'fait', 'une', 'moyenne', 'de', 'ce', 'que', ""j'"", 'avais', 'versé', '...', 'en', 'plus', 'je', 'peux', 'ajouter', 'que', 'c', 'est', '\n', 'mon', 'mari', 'et', '""', 'ma', 'pomme', '""', 'qui', 'nous', 'sommes', 'rendu', 'compte', 'que', 'pour', 'pouvoir', 'bénéficier', '\n', 'de', 'cette', 'option', 'de', 'franchise', 'de', 'tva', '...', 'cela', 'ne', 'pouvait', 'se', 'faire', 'que', 'tous', 'les', '2', 'ans', '......', '\n', '""', 'chose', '""', 'que', 'ne', 'connaissait', 'pas', 'le', 'comptable', '.....', '\n', 'et', 'lorsque', 'j', 'ai', 'appelé', 'le', 'cabinet', 'd', ""'"", 'expertise', 'comptable', ',', 'la', 'personne', 'qui', ""s'"", 'occupe', 'plus', '\n', 'particulierement', 'de', 'mon', 'dossier', 'a', 'reconnue', 'son', 'erreur', '....', '\n', 'tout', 'cela', 'pour', 'souligner', 'que', 'si', ""l'"", 'expert', 'comptable', 'avait', 'été', 'au', 'courant', 'de', 'la', 'périodicité', 'inhérente', 'à', 'la', 'demande', 'de', 'franchise', 'de', 'tva', '....', 'et', ""s'"", 'il', ""m'"", 'avait', 'conseillé', 'au', 'mieux', 'comme', 'il', 'semble', 'le', 'dire', ',', 'ces', 'démarches', 'auraient', 'pu', 'se', 'faire', 'depuis', 'au', 'moins', '2', 'ans', '....', '[et', 'soit', 'dit', 'en', 'passant', ""qu'"", 'il', 'a', 'repris', 'le', 'cabinet', 'depuis', '2007', '...', 'et', 'nous', 'sommes', 'en', '2010', '....', ']', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Bill78', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Bill78', '\n', 'Membre', 'Senior', '\n', '335', '\n', 'Partager', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Vous', 'annoncez', 'une', 'perte', 'financiére', 'de', '12', 'K€', 'au', 'titre', 'de', 'la', 'tva', '.', '\n', 'Mais', 'est', '-ce', 'le', 'montant', 'de', 'la', 'tva', 'que', 'vous', 'avez', 'reversée', 'au', 'trésor', 'ou', 'bien', 'le', 'montant', 'de', 'la', 'tva', 'collectée', '?', '\n']","[(945, 953), (1002, 1010)]","[['fle'], ['fle']]"
+765_16,"Votre expert comptable a un assurance RC qui lui permet de faire face à ce genre de sinistre, n'hésitez pas à lui demander une indemnisation au titre de son erreur, s'il y a erreur, il a une obligation de conseil.
+Mais si vos recettes sont constituées d'aprés des factures, la TVA ressortie a été en fait à la ""charge"" de vos clients et dans ce cas vous n'avez été qu'un collecteur,donc pas de perte pour vous.
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Marsu
+Posté(e) le 6 mai 2010
+Marsu
+Membre Pilier Sénior
+29,7k
+Partager
+Posté(e) le 6 mai 2010
+Je suis exactement d'accord avec Bill78 et c'est exactement ce que je voulais dire: si le préjudice vient uniquement du chèque fait à l'Etat, il n'y a pas de préjudice parce qu'en franchise de TVA","['Votre', 'expert', 'comptable', 'a', 'un', 'assurance', 'RC', 'qui', 'lui', 'permet', 'de', 'faire', 'face', 'à', 'ce', 'genre', 'de', 'sinistre', ',', ""n'"", 'hésitez', 'pas', 'à', 'lui', 'demander', 'une', 'indemnisation', 'au', 'titre', 'de', 'son', 'erreur', ',', ""s'"", 'il', 'y', 'a', 'erreur', ',', 'il', 'a', 'une', 'obligation', 'de', 'conseil', '.', '\n', 'Mais', 'si', 'vos', 'recettes', 'sont', 'constituées', ""d'"", 'aprés', 'des', 'factures', ',', 'la', 'TVA', 'ressortie', 'a', 'été', 'en', 'fait', 'à', 'la', '""', 'charge', '""', 'de', 'vos', 'clients', 'et', 'dans', 'ce', 'cas', 'vous', ""n'"", 'avez', 'été', ""qu'"", 'un', 'collecteur', ',', 'donc', 'pas', 'de', 'perte', 'pour', 'vous', '.', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Marsu', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Marsu', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '29,7k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Je', 'suis', 'exactement', ""d'"", 'accord', 'avec', 'Bill78', 'et', ""c'"", 'est', 'exactement', 'ce', 'que', 'je', 'voulais', 'dire', ':', 'si', 'le', 'préjudice', 'vient', 'uniquement', 'du', 'chèque', 'fait', 'à', ""l'"", 'Etat', ',', 'il', ""n'"", 'y', 'a', 'pas', 'de', 'préjudice', 'parce', ""qu'"", 'en', 'franchise', 'de', 'TVA']","[(494, 502), (559, 567)]","[['fle'], ['fle']]"
+765_19,"Certes, vous n'avez pas de chèque à faire à l'Etat (pour lui reverser ce qui lui appartient dès l'origine...), mais vos achats ne se font pas au même coût réel...
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Cathos
+Posté(e) le 6 mai 2010
+Cathos
+Membre Poussin
+4
+Auteur
+Partager
+Posté(e) le 6 mai 2010
+c est la tva reversée au trésor et non pas la tva collectée......et je sais bien qu en franchise de tva celle ci n est pas récupérable...mais la n est pas le problème car le litige
+repose sur mon expert comptable qui voulait me faire passer en franchise de tva mais
+qui ne connaissant pas les délais obligatoires pour y pretendre....m e fait perdre+ de 2ans
+et en outre comme je l ai deja marqué, il ne s 'en serait pas aperçu si de notre coté nous n 'avions pas téléphone directement aux impots !!!!","['Certes', ',', 'vous', ""n'"", 'avez', 'pas', 'de', 'chèque', 'à', 'faire', 'à', ""l'"", 'Etat', '(', 'pour', 'lui', 'reverser', 'ce', 'qui', 'lui', 'appartient', 'dès', ""l'"", 'origine', '...', ')', ',', 'mais', 'vos', 'achats', 'ne', 'se', 'font', 'pas', 'au', 'même', 'coût', 'réel', '...', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Cathos', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Cathos', '\n', 'Membre', 'Poussin', '\n', '4', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'c', 'est', 'la', 'tva', 'reversée', 'au', 'trésor', 'et', 'non', 'pas', 'la', 'tva', 'collectée', '......', 'et', 'je', 'sais', 'bien', 'qu', 'en', 'franchise', 'de', 'tva', 'celle', 'ci', 'n', 'est', 'pas', 'récupérable', '...', 'mais', 'la', 'n', 'est', 'pas', 'le', 'problème', 'car', 'le', 'litige', '\n', 'repose', 'sur', 'mon', 'expert', 'comptable', 'qui', 'voulait', 'me', 'faire', 'passer', 'en', 'franchise', 'de', 'tva', 'mais', '\n', 'qui', 'ne', 'connaissant', 'pas', 'les', 'délais', 'obligatoires', 'pour', 'y', 'pretendre', '....', 'm', 'e', 'fait', 'perdre+', 'de', '2ans', '\n', 'et', 'en', 'outre', 'comme', 'je', 'l', 'ai', 'deja', 'marqué', ',', 'il', 'ne', 's', ""'"", 'en', 'serait', 'pas', 'aperçu', 'si', 'de', 'notre', 'coté', 'nous', 'n', ""'"", 'avions', 'pas', 'téléphone', 'directement', 'aux', 'impots', '!', '!', '!', '!']","[(247, 255), (310, 318)]","[['fle'], ['fle']]"
+765_26,"More sharing options...
+Marsu
+Posté(e) le 6 mai 2010
+Marsu
+Membre Pilier Sénior
+29,7k
+Partager
+Posté(e)","['More', 'sharing', 'options', '...', '\n', 'Marsu', '\n', 'Posté(e)', 'le', '6', 'mai', '2010', '\n', 'Marsu', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '29,7k', '\n', 'Partager', '\n', 'Posté(e)']","[(30, 38), (95, 103)]","[['fle'], ['fle']]"
+766_9,"Dernière réponse 8 ans
+Marieke
+Posté(e) le 25 janvier 2013
+Marieke
+Membre Pilier Sénior
+60,9k
+Partager
+Posté(e) le 25 janvier 2013
+Bonjour
+Il ne s'agit pas de la division de la parcelle de vos parents ?
+","['Dernière', 'réponse', '8', 'ans', '\n', 'Marieke', '\n', 'Posté(e)', 'le', '25', 'janvier', '2013', '\n', 'Marieke', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '60,9k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '25', 'janvier', '2013', '\n', 'Bonjour', '\n', 'Il', 'ne', ""s'"", 'agit', 'pas', 'de', 'la', 'division', 'de', 'la', 'parcelle', 'de', 'vos', 'parents', '?', '\n']","[(31, 39), (103, 111)]","[['fle'], ['fle']]"
+766_11,"Vous parlez d'expertise judiciaire en cours , votre parcelle est donc enclavée ?
+Il faut prévoir à la fois l'accès et la servitude de tréfonds pour les canalisations , en cas d'enclave au titre de l'Article 682 la desserte se fait au niveau du droit de passage
+Je crains fort que vous deviez attendre la fin de l'Expertise il vous faut d'abord obtenir la servitude
+Vous avez les textes ici ainsi qu'une JP sur les servitudes de tréfonds :
+http://forum-juridique.net-iris.fr/votre-immeuble/52544-servitudes-droit-de-passage.html
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Rinako
+Posté(e) le 25 janvier 2013
+Rinako
+Membre Benjamin
+8
+Auteur
+Partager
+Posté(e) le 25 janvier 2013
+merci pour la réponse.
+","['Vous', 'parlez', ""d'"", 'expertise', 'judiciaire', 'en', 'cours', ',', 'votre', 'parcelle', 'est', 'donc', 'enclavée', '?', '\n', 'Il', 'faut', 'prévoir', 'à', 'la', 'fois', ""l'"", 'accès', 'et', 'la', 'servitude', 'de', 'tréfonds', 'pour', 'les', 'canalisations', ',', 'en', 'cas', ""d'"", 'enclave', 'au', 'titre', 'de', ""l'"", 'Article', '682', 'la', 'desserte', 'se', 'fait', 'au', 'niveau', 'du', 'droit', 'de', 'passage', '\n', 'Je', 'crains', 'fort', 'que', 'vous', 'deviez', 'attendre', 'la', 'fin', 'de', ""l'"", 'Expertise', 'il', 'vous', 'faut', ""d'"", 'abord', 'obtenir', 'la', 'servitude', '\n', 'Vous', 'avez', 'les', 'textes', 'ici', 'ainsi', ""qu'"", 'une', 'JP', 'sur', 'les', 'servitudes', 'de', 'tréfonds', ':', '\n', 'http://forum-juridique.net-iris.fr', '/', 'votre-immeuble/52544-servitudes-droit-de-passage.html', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Rinako', '\n', 'Posté(e)', 'le', '25', 'janvier', '2013', '\n', 'Rinako', '\n', 'Membre', 'Benjamin', '\n', '8', '\n', 'Auteur', '\n', 'Partager', '\n', 'Posté(e)', 'le', '25', 'janvier', '2013', '\n', 'merci', 'pour', 'la', 'réponse', '.', '\n']","[(612, 620), (681, 689)]","[['fle'], ['fle']]"
+766_18,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Marieke
+Posté(e) le 28 janvier 2013
+Marieke
+Membre Pilier Sénior
+60,9k
+Partager
+Posté(e) le 28 janvier 2013
+Donc si je vous comprend bien: la servitude de tréfonds pour l'ensemble des réseaux ( eau potable, eau usées, électricité...","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Marieke', '\n', 'Posté(e)', 'le', '28', 'janvier', '2013', '\n', 'Marieke', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '60,9k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '28', 'janvier', '2013', '\n', 'Donc', 'si', 'je', 'vous', 'comprend', 'bien', ':', 'la', 'servitude', 'de', 'tréfonds', 'pour', ""l'"", 'ensemble', 'des', 'réseaux', '(', 'eau', 'potable', ',', 'eau', 'usées', ',', 'électricité', '...']","[(85, 93), (157, 165)]","[['fle'], ['fle']]"
+766_24,"Connaissez-vous des textes ou jurisprudence me le permettant ou me l'interdisant..
+Bonjour
+Avez-vous lu le lien fourni ?
+Sinon vous avez de nombreux sujets sur le forum
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+3 months later...
+jeannot02
+Posté(e) le 8 mai 2013
+jeannot02
+Membre Poussin
+1
+Partager
+Posté(e) le 8 mai 2013
+bonjour mamyclo!
+pour commencer bon courage pour ton projet.","['Connaissez', '-vous', 'des', 'textes', 'ou', 'jurisprudence', 'me', 'le', 'permettant', 'ou', 'me', ""l'"", 'interdisant', '..', '\n', 'Bonjour', '\n', 'Avez', '-vous', 'lu', 'le', 'lien', 'fourni', '?', '\n', 'Sinon', 'vous', 'avez', 'de', 'nombreux', 'sujets', 'sur', 'le', 'forum', '\n', 'Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', '3', 'months', 'later', '...', '\n', 'jeannot02', '\n', 'Posté(e)', 'le', '8', 'mai', '2013', '\n', 'jeannot02', '\n', 'Membre', 'Poussin', '\n', '1', '\n', 'Partager', '\n', 'Posté(e)', 'le', '8', 'mai', '2013', '\n', 'bonjour', 'mamyclo', '!', '\n', 'pour', 'commencer', 'bon', 'courage', 'pour', 'ton', 'projet', '.']","[(274, 282), (333, 341)]","[['fle'], ['fle']]"
+766_34,"Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Amatjuris
+Posté(e) le 9 mai 2013
+Amatjuris
+Membre Pilier Sénior
+12,4k
+Partager
+Posté(e) le 9 mai 2013
+bjr,
+une servitude de passage ne permet pas d'y passer passer es canalisations souterraines sauf si le titre instituant la servitude le prévoit expréssément.
+voir cet arrêt: Cass.","['Lien', 'vers', 'le', 'commentaire', '\n', 'Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Amatjuris', '\n', 'Posté(e)', 'le', '9', 'mai', '2013', '\n', 'Amatjuris', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '12,4k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '9', 'mai', '2013', '\n', 'bjr', ',', '\n', 'une', 'servitude', 'de', 'passage', 'ne', 'permet', 'pas', ""d'"", 'y', 'passer', 'passer', 'es', 'canalisations', 'souterraines', 'sauf', 'si', 'le', 'titre', 'instituant', 'la', 'servitude', 'le', 'prévoit', 'expréssément', '.', '\n', 'voir', 'cet', 'arrêt', ':', 'Cass', '.']","[(87, 95), (156, 164)]","[['fle'], ['fle']]"
+766_38,"Partager sur d’autres sites
+More sharing options...
+Marieke
+Posté(e)","['Partager', 'sur', 'd’', 'autres', 'sites', '\n', 'More', 'sharing', 'options', '...', '\n', 'Marieke', '\n', 'Posté(e)']","[(60, 68)]",[['fle']]
+766_39,"le 9 mai 2013
+Marieke
+Membre Pilier Sénior
+60,9k
+Partager
+Posté(e) le 9 mai 2013
+bjr,
+une servitude de passage ne permet pas d'y passer passer es canalisations souterraines sauf si le titre instituant la servitude le prévoit expréssément.","['le', '9', 'mai', '2013', '\n', 'Marieke', '\n', 'Membre', 'Pilier', 'Sénior', '\n', '60,9k', '\n', 'Partager', '\n', 'Posté(e)', 'le', '9', 'mai', '2013', '\n', 'bjr', ',', '\n', 'une', 'servitude', 'de', 'passage', 'ne', 'permet', 'pas', ""d'"", 'y', 'passer', 'passer', 'es', 'canalisations', 'souterraines', 'sauf', 'si', 'le', 'titre', 'instituant', 'la', 'servitude', 'le', 'prévoit', 'expréssément', '.']","[(58, 66)]",[['fle']]
+767_284,", les lesbiennes, gays, bi et trans, leurs familles et ami.e.s
+","[',', 'les', 'lesbiennes', ',', 'gays', ',', 'bi', 'et', 'trans', ',', 'leurs', 'familles', 'et', 'ami.e.s', '\n']","[(55, 62)]",[['fle']]
+800_50,"Ce drame fait écho aux dangers permanents auxquels sont confrontées toutes celles et ceux qui, au quotidien, dans l’intimité de leur vie conjugale, luttent en silence face aux atteintes à leurs droits et libertés.
+","['Ce', 'drame', 'fait', 'écho', 'aux', 'dangers', 'permanents', 'auxquels', 'sont', 'confrontées', 'toutes', 'celles', 'et', 'ceux', 'qui', ',', 'au', 'quotidien', ',', 'dans', 'l’', 'intimité', 'de', 'leur', 'vie', 'conjugale', ',', 'luttent', 'en', 'silence', 'face', 'aux', 'atteintes', 'à', 'leurs', 'droits', 'et', 'libertés', '.', '\n']","[(75, 89)]",[['coo']]
+812_2,Vous serez ensuite invité(e) à remplir notre formulaire de demande simple pour obtenir une décision d'approbation instantanée.,"['Vous', 'serez', 'ensuite', 'invité(e)', 'à', 'remplir', 'notre', 'formulaire', 'de', 'demande', 'simple', 'pour', 'obtenir', 'une', 'décision', ""d'"", 'approbation', 'instantanée', '.']","[(19, 28)]",[['fle']]
+812_3,"Vous pourrez alors voir la limite de dépenses qui vous a été attribuée (si approuvé(e)), l’(les)article(s) admissible(s) au financement, la durée de votre période de remboursement ainsi que les détails de votre plan de paiement.
+3)","['Vous', 'pourrez', 'alors', 'voir', 'la', 'limite', 'de', 'dépenses', 'qui', 'vous', 'a', 'été', 'attribuée', '(', 'si', 'approuvé(e))', ',', 'l’(les)article(s)', 'admissible(s)', 'au', 'financement', ',', 'la', 'durée', 'de', 'votre', 'période', 'de', 'remboursement', 'ainsi', 'que', 'les', 'détails', 'de', 'votre', 'plan', 'de', 'paiement', '.', '\n', '3', ')']","[(75, 87)]",[['fle']]
+814_8,"L’atelier du CHS
+Colloques et journées d’étude
+HCERES 2017
+Doctorat
+Annuaire des doctorant.e.s
+Soutenances
+Manifestations
+Docteur.e.s
+Master
+Présentation
+","['L’', 'atelier', 'du', 'CHS', '\n', 'Colloques', 'et', 'journées', 'd’', 'étude', '\n', 'HCERES', '2017', '\n', 'Doctorat', '\n', 'Annuaire', 'des', 'doctorant.e.s', '\n', 'Soutenances', '\n', 'Manifestations', '\n', 'Docteur.e.s', '\n', 'Master', '\n', 'Présentation', '\n']","[(81, 94), (122, 133)]","[['fle'], ['fle']]"
+827_37,", Hauts-de-Seine
+Notre client, leader dans le domaine du retail, recherche un Contrôleur de Gestion dans le cadre d'une mission...
+Sun, 05 Dec 2021
+Contrôleur(se) de Gestion Retail H/F
+Page Personnel","[',', 'Hauts-de-Seine', '\n', 'Notre', 'client', ',', 'leader', 'dans', 'le', 'domaine', 'du', 'retail', ',', 'recherche', 'un', 'Contrôleur', 'de', 'Gestion', 'dans', 'le', 'cadre', ""d'"", 'une', 'mission', '...', '\n', 'Sun', ',', '05', 'Dec', '2021', '\n', 'Contrôleur(se)', 'de', 'Gestion', 'Retail', 'H', '/', 'F', '\n', 'Page', 'Personnel']","[(148, 162)]",[['fle']]
+828_67,"Mais Ash fait deux rencontres qui vont bouleverser son destin : celle d’une des chasseresses du Roi, et celle d’un mystérieux personnage du pays des fées.
+Titre : Ash
+Autrice :","['Mais', 'Ash', 'fait', 'deux', 'rencontres', 'qui', 'vont', 'bouleverser', 'son', 'destin', ':', 'celle', 'd’', 'une', 'des', 'chasseresses', 'du', 'Roi', ',', 'et', 'celle', 'd’', 'un', 'mystérieux', 'personnage', 'du', 'pays', 'des', 'fées', '.', '\n', 'Titre', ':', 'Ash', '\n', 'Autrice', ':']","[(167, 174)]",[['fem']]
+828_73,"» Nouvelle, mais pas moderne, puisque l’autrice la situe dans le même monde de fées et de magique que le conte original.
+","['»', 'Nouvelle', ',', 'mais', 'pas', 'moderne', ',', 'puisque', 'l’', 'autrice', 'la', 'situe', 'dans', 'le', 'même', 'monde', 'de', 'fées', 'et', 'de', 'magique', 'que', 'le', 'conte', 'original', '.', '\n']","[(40, 47)]",[['fem']]
+828_78,"L’autrice est parvenue à modeler son style afin qu’il soit aussi agréable à lire qu’un roman contemporain, mais avec des touches désuète dans ses choix de vocabulaire et la construction de ses phrases qui donnent parfois l’impression que l’on lit la version originale de l’histoire, dont les contes ne sont que de pâles résumés.","['L’', 'autrice', 'est', 'parvenue', 'à', 'modeler', 'son', 'style', 'afin', 'qu’', 'il', 'soit', 'aussi', 'agréable', 'à', 'lire', 'qu’', 'un', 'roman', 'contemporain', ',', 'mais', 'avec', 'des', 'touches', 'désuète', 'dans', 'ses', 'choix', 'de', 'vocabulaire', 'et', 'la', 'construction', 'de', 'ses', 'phrases', 'qui', 'donnent', 'parfois', 'l’', 'impression', 'que', 'l’', 'on', 'lit', 'la', 'version', 'originale', 'de', 'l’', 'histoire', ',', 'dont', 'les', 'contes', 'ne', 'sont', 'que', 'de', 'pâles', 'résumés', '.']","[(2, 9)]",[['fem']]
+828_85,"Celles et ceux qui appellent de leurs vœux davantage de représentation des minorités dans la littérature de genre y trouveront malgré tout une source mineure de satisfaction, d’autres resteront sur leur faim.
+","['Celles', 'et', 'ceux', 'qui', 'appellent', 'de', 'leurs', 'vœux', 'davantage', 'de', 'représentation', 'des', 'minorités', 'dans', 'la', 'littérature', 'de', 'genre', 'y', 'trouveront', 'malgré', 'tout', 'une', 'source', 'mineure', 'de', 'satisfaction', ',', 'd’', 'autres', 'resteront', 'sur', 'leur', 'faim', '.', '\n']","[(0, 14)]",[['coo']]
+828_90,"» est le témoignage du grand talent de son autrice, même si on pourrait souhaiter qu’à l’avenir elle mette celui-ci au service de textes plus ambitieux.
+L’interview audio: Jihad Darwiche
+1 février 2018 1 février 2018 / Julien Hirt	/ Poster un commentaire
+Né au Liban dans les années 50, Jihad Darwiche est un conteur bilingue arabe-français.","['»', 'est', 'le', 'témoignage', 'du', 'grand', 'talent', 'de', 'son', 'autrice', ',', 'même', 'si', 'on', 'pourrait', 'souhaiter', 'qu’', 'à', 'l’', 'avenir', 'elle', 'mette', 'celui-ci', 'au', 'service', 'de', 'textes', 'plus', 'ambitieux', '.', '\n', 'L’', 'interview', 'audio', ':', 'Jihad', 'Darwiche', '\n', '1', 'février', '2018', '1', 'février', '2018', '/', 'Julien', 'Hirt', '\t', '/', 'Poster', 'un', 'commentaire', '\n', 'Né', 'au', 'Liban', 'dans', 'les', 'années', '50', ',', 'Jihad', 'Darwiche', 'est', 'un', 'conteur', 'bilingue', 'arabe-français', '.']","[(43, 50)]",[['fem']]
+839_10,"Se rappeler ces événements, c’est se donner les moyens de comprendre dans quel contexte et pour quelles raisons les gouvernants d’aujourd’hui restreignent systématiquement nos droits fondamentaux à utiliser l’espace public, à contester des politiques autoritaires et anti-sociales.
+De la répression des gilets jaunes en France, aux difficultés récentes à exercer notre droit de manifester en lien avec la nouvelle Loi cantonale sur les manifestations (LMDPu), des décrets de l’ancien ministre de l’intérieur Salvini contre les navires venant en aide aux migrant·e·s, aux émoluments demandés à Solidarité Tattes pour la marche en mémoire du jeune mineur non accompagné qui s’est suicidé l’été dernier, il y a une continuité certaine.
+","['Se', 'rappeler', 'ces', 'événements', ',', 'c’', 'est', 'se', 'donner', 'les', 'moyens', 'de', 'comprendre', 'dans', 'quel', 'contexte', 'et', 'pour', 'quelles', 'raisons', 'les', 'gouvernants', 'd’', 'aujourd’hui', 'restreignent', 'systématiquement', 'nos', 'droits', 'fondamentaux', 'à', 'utiliser', 'l’', 'espace', 'public', ',', 'à', 'contester', 'des', 'politiques', 'autoritaires', 'et', 'anti-sociales', '.', '\n', 'De', 'la', 'répression', 'des', 'gilets', 'jaunes', 'en', 'France', ',', 'aux', 'difficultés', 'récentes', 'à', 'exercer', 'notre', 'droit', 'de', 'manifester', 'en', 'lien', 'avec', 'la', 'nouvelle', 'Loi', 'cantonale', 'sur', 'les', 'manifestations', '(', 'LMDPu', ')', ',', 'des', 'décrets', 'de', 'l’', 'ancien', 'ministre', 'de', 'l’', 'intérieur', 'Salvini', 'contre', 'les', 'navires', 'venant', 'en', 'aide', 'aux', 'migrant·e·s', ',', 'aux', 'émoluments', 'demandés', 'à', 'Solidarité', 'Tattes', 'pour', 'la', 'marche', 'en', 'mémoire', 'du', 'jeune', 'mineur', 'non', 'accompagné', 'qui', 's’', 'est', 'suicidé', 'l’', 'été', 'dernier', ',', 'il', 'y', 'a', 'une', 'continuité', 'certaine', '.', '\n']","[(554, 565)]",[['fle']]
+839_11,"Ces volontés d’empêcher et de réprimer toute résistance à un ordre social fondamentalement injuste et destructeur nourrissent et vont de pair avec un développement des mouvements populistes quand bien même nos autorités prétendent parfois combattre la montée de ces forces.
+Fidèles aux valeurs qui ont porté les manifestants du 9 novembre 1932, nous réaffirmerons le 9 novembre 2019 que la réponse aux mouvements populistes ne saurait se donner sans conquérir de nouveaux droits pour toutes et tous, quitte pour cela à bouleverser un ordre économique qui nous mène à la ruine et nous prive d’avenir, quitte pour cela à devoir faire face à des autorités souhaitant réduire au silence toute contestation sociale.
+Face à la précarisation des conditions de travail, les travailleur·euse·s ont besoin de plus de droits (pour protéger leurs salaires, pour empêcher des licenciements,...).","['Ces', 'volontés', 'd’', 'empêcher', 'et', 'de', 'réprimer', 'toute', 'résistance', 'à', 'un', 'ordre', 'social', 'fondamentalement', 'injuste', 'et', 'destructeur', 'nourrissent', 'et', 'vont', 'de', 'pair', 'avec', 'un', 'développement', 'des', 'mouvements', 'populistes', 'quand', 'bien', 'même', 'nos', 'autorités', 'prétendent', 'parfois', 'combattre', 'la', 'montée', 'de', 'ces', 'forces', '.', '\n', 'Fidèles', 'aux', 'valeurs', 'qui', 'ont', 'porté', 'les', 'manifestants', 'du', '9', 'novembre', '1932', ',', 'nous', 'réaffirmerons', 'le', '9', 'novembre', '2019', 'que', 'la', 'réponse', 'aux', 'mouvements', 'populistes', 'ne', 'saurait', 'se', 'donner', 'sans', 'conquérir', 'de', 'nouveaux', 'droits', 'pour', 'toutes', 'et', 'tous', ',', 'quitte', 'pour', 'cela', 'à', 'bouleverser', 'un', 'ordre', 'économique', 'qui', 'nous', 'mène', 'à', 'la', 'ruine', 'et', 'nous', 'prive', 'd’', 'avenir', ',', 'quitte', 'pour', 'cela', 'à', 'devoir', 'faire', 'face', 'à', 'des', 'autorités', 'souhaitant', 'réduire', 'au', 'silence', 'toute', 'contestation', 'sociale', '.', '\n', 'Face', 'à', 'la', 'précarisation', 'des', 'conditions', 'de', 'travail', ',', 'les', 'travailleur·euse·s', 'ont', 'besoin', 'de', 'plus', 'de', 'droits', '(', 'pour', 'protéger', 'leurs', 'salaires', ',', 'pour', 'empêcher', 'des', 'licenciements', ',', '...', ')', '.']","[(484, 498), (766, 784)]","[['coo'], ['fle']]"
+839_12,"Les propositions de l’UDC, localement du MCG, visant à donner une priorité à l’embauche de travailleur·euse·s suisses/résident·e·s n’offrent aucun droit au monde du travail, elles divisent les travailleur·euse·s entre suisses et étranger·ère·s et renvoient la responsabilité de la sous-enchère salariale des patrons aux travailleur·euse·s.","['Les', 'propositions', 'de', 'l’', 'UDC', ',', 'localement', 'du', 'MCG', ',', 'visant', 'à', 'donner', 'une', 'priorité', 'à', 'l’', 'embauche', 'de', 'travailleur·euse·s', 'suisses', '/', 'résident·e·s', 'n’', 'offrent', 'aucun', 'droit', 'au', 'monde', 'du', 'travail', ',', 'elles', 'divisent', 'les', 'travailleur·euse·s', 'entre', 'suisses', 'et', 'étranger·ère·s', 'et', 'renvoient', 'la', 'responsabilité', 'de', 'la', 'sous-enchère', 'salariale', 'des', 'patrons', 'aux', 'travailleur·euse·s', '.']","[(91, 109), (118, 130), (193, 211), (229, 243), (320, 338)]","[['fle'], ['fle'], ['fle'], ['fle'], ['fle']]"
+839_15,"il existe un lien unissant la politique migratoire de Salvini à la politique économique de Macron en passant par celle de nos autorités, il est de notre devoir de créer une opposition reliant mouvements pour la justice climatique, organisations du monde du travail, organisations d’aide aux migrant·e·s, mouvements antifascistes et partis politiques pour créer une alternative face à ce monde en crise.","['il', 'existe', 'un', 'lien', 'unissant', 'la', 'politique', 'migratoire', 'de', 'Salvini', 'à', 'la', 'politique', 'économique', 'de', 'Macron', 'en', 'passant', 'par', 'celle', 'de', 'nos', 'autorités', ',', 'il', 'est', 'de', 'notre', 'devoir', 'de', 'créer', 'une', 'opposition', 'reliant', 'mouvements', 'pour', 'la', 'justice', 'climatique', ',', 'organisations', 'du', 'monde', 'du', 'travail', ',', 'organisations', 'd’', 'aide', 'aux', 'migrant·e·s', ',', 'mouvements', 'antifascistes', 'et', 'partis', 'politiques', 'pour', 'créer', 'une', 'alternative', 'face', 'à', 'ce', 'monde', 'en', 'crise', '.']","[(291, 302)]",[['fle']]
+840_64,"Dans ces épreuves, il a été très important de ne pas se sentir seuls et, lorsque les mots de nos proches ne suffisaient plus, quel soulagement de pouvoir lire les témoignages d’autres marié.e.s dans la même galère !
+","['Dans', 'ces', 'épreuves', ',', 'il', 'a', 'été', 'très', 'important', 'de', 'ne', 'pas', 'se', 'sentir', 'seuls', 'et', ',', 'lorsque', 'les', 'mots', 'de', 'nos', 'proches', 'ne', 'suffisaient', 'plus', ',', 'quel', 'soulagement', 'de', 'pouvoir', 'lire', 'les', 'témoignages', 'd’', 'autres', 'marié.e.s', 'dans', 'la', 'même', 'galère', '!', '\n']","[(184, 193)]",[['fle']]
+840_69,"– c’est que nous sommes plus amoureux que jamais et que j’ai une foi inébranlable dans notre capacité à surmonter tous les sales coups à venir.
+Avec ou sans mariage, avec un beau mariage ou un mariage qui ne ressemble à rien, fiancés pendant 6 mois, 2 ans ou 10, aimons-nous, c’est le principal !
+Câlin du courage à toutes celles et ceux qui ont vécu un report/annulation ou sont en train de se poser les mêmes questions que nous !
+","['–', 'c’', 'est', 'que', 'nous', 'sommes', 'plus', 'amoureux', 'que', 'jamais', 'et', 'que', 'j’', 'ai', 'une', 'foi', 'inébranlable', 'dans', 'notre', 'capacité', 'à', 'surmonter', 'tous', 'les', 'sales', 'coups', 'à', 'venir', '.', '\n', 'Avec', 'ou', 'sans', 'mariage', ',', 'avec', 'un', 'beau', 'mariage', 'ou', 'un', 'mariage', 'qui', 'ne', 'ressemble', 'à', 'rien', ',', 'fiancés', 'pendant', '6', 'mois', ',', '2', 'ans', 'ou', '10', ',', 'aimons', '-nous', ',', 'c’', 'est', 'le', 'principal', '!', '\n', 'Câlin', 'du', 'courage', 'à', 'toutes', 'celles', 'et', 'ceux', 'qui', 'ont', 'vécu', 'un', 'report', '/', 'annulation', 'ou', 'sont', 'en', 'train', 'de', 'se', 'poser', 'les', 'mêmes', 'questions', 'que', 'nous', '!', '\n']","[(323, 337)]",[['coo']]
+840_71,"Déposez votre témoignage mariage ou témoignage maternité ici.
+A lire également
+{Concours} 12 cadeaux d’invité·es originaux à shopper sur Petit Mariage entre Amis
+Mariages 2022 : les 10 tendances sur lesquelles miser
+{Inspiration}","['Déposez', 'votre', 'témoignage', 'mariage', 'ou', 'témoignage', 'maternité', 'ici', '.', '\n', 'A', 'lire', 'également', '\n', '{', 'Concours', '}', '12', 'cadeaux', 'd’', 'invité·es', 'originaux', 'à', 'shopper', 'sur', 'Petit', 'Mariage', 'entre', 'Amis', '\n', 'Mariages', '2022', ':', 'les', '10', 'tendances', 'sur', 'lesquelles', 'miser', '\n', '{', 'Inspiration', '}']","[(103, 112)]",[['fle']]
+840_72,"Un bouquet de mariée original : vive l’oversize
+Et si on faisait un EVJF à Montpellier ?
+5 choses que les invité·es de mariage détestent
+{Shopping} 20 Accessoires pour animer votre photobooth
+Et si on faisait un EVJF à Montpellier ?
+Commentaires
+","['Un', 'bouquet', 'de', 'mariée', 'original', ':', 'vive', 'l’', 'oversize', '\n', 'Et', 'si', 'on', 'faisait', 'un', 'EVJF', 'à', 'Montpellier', '?', '\n', '5', 'choses', 'que', 'les', 'invité·es', 'de', 'mariage', 'détestent', '\n', '{', 'Shopping', '}', '20', 'Accessoires', 'pour', 'animer', 'votre', 'photobooth', '\n', 'Et', 'si', 'on', 'faisait', 'un', 'EVJF', 'à', 'Montpellier', '?', '\n', 'Commentaires', '\n']","[(106, 115)]",[['fle']]
+840_109,"Plan de table mariage
+Invité·e à un mariage
+Nettoyer sa robe de mariée
+","['Plan', 'de', 'table', 'mariage', '\n', 'Invité·e', 'à', 'un', 'mariage', '\n', 'Nettoyer', 'sa', 'robe', 'de', 'mariée', '\n']","[(22, 30)]",[['fle']]
+842_730,Ce qui nous a valu naguère cette impertinente répartie de l’écrivaine,"['Ce', 'qui', 'nous', 'a', 'valu', 'naguère', 'cette', 'impertinente', 'répartie', 'de', 'l’', 'écrivaine']","[(60, 69)]",[['fem']]
+847_76,", une des organisatrices de cet événement artistique et Gäelle Hintzy-Marcel, sculpteure, sont passées à l’antenne de StéréoChic afin de parler de l’exposition «","[',', 'une', 'des', 'organisatrices', 'de', 'cet', 'événement', 'artistique', 'et', 'Gäelle', 'Hintzy-Marcel', ',', 'sculpteure', ',', 'sont', 'passées', 'à', 'l’', 'antenne', 'de', 'StéréoChic', 'afin', 'de', 'parler', 'de', 'l’', 'exposition', '«']","[(78, 88)]",[['fem']]
+847_99,"Le déficit foncier : la clé du succès de vos investissements immobiliers
+Samantha Cazebonne, son ReflexeS pour « imaginer l’école française de demain »
+Choisir son assurance santé en tant qu’expatrié : les conseils d’un professionne...
+Expat Etudiant
+PUBLIREPORTAGE
+De bonnes raisons d’étudier en UX à HEC Montréal
+La Maison des étudiants de la francophonie fête son inauguration
+Etudier en Indonésie avec Binus University : une expérience qui change la vie
+Grève à l’AEFE : des conditions d’enseignement dégradées depuis la crise sanitai...
+Expat & Emploi
+Entrepreneure : 4 raisons qui vont vous donner envie de planifier 2022
+","['Le', 'déficit', 'foncier', ':', 'la', 'clé', 'du', 'succès', 'de', 'vos', 'investissements', 'immobiliers', '\n', 'Samantha', 'Cazebonne', ',', 'son', 'ReflexeS', 'pour', '«', 'imaginer', 'l’', 'école', 'française', 'de', 'demain', '»', '\n', 'Choisir', 'son', 'assurance', 'santé', 'en', 'tant', 'qu’', 'expatrié', ':', 'les', 'conseils', 'd’', 'un', 'professionne', '...', '\n', 'Expat', 'Etudiant', '\n', 'PUBLIREPORTAGE', '\n', 'De', 'bonnes', 'raisons', 'd’', 'étudier', 'en', 'UX', 'à', 'HEC', 'Montréal', '\n', 'La', 'Maison', 'des', 'étudiants', 'de', 'la', 'francophonie', 'fête', 'son', 'inauguration', '\n', 'Etudier', 'en', 'Indonésie', 'avec', 'Binus', 'University', ':', 'une', 'expérience', 'qui', 'change', 'la', 'vie', '\n', 'Grève', 'à', 'l’', 'AEFE', ':', 'des', 'conditions', 'd’', 'enseignement', 'dégradées', 'depuis', 'la', 'crise', 'sanitai', '...', '\n', 'Expat', '&', 'Emploi', '\n', 'Entrepreneure', ':', '4', 'raisons', 'qui', 'vont', 'vous', 'donner', 'envie', 'de', 'planifier', '2022', '\n']","[(557, 570)]",[['fem']]
+866_63,"En savoir plus à propos Un coup de pouce pour les programmes de mentorat et de formation de professeurs de l’Université d’Ottawa
+Zach Ferraro, étudiant en médecine de l’Université d’Ottawa, reçoit un prix du Temple de la renommée médicale canadienne
+Cet automne, 16 étudiants et étudiantes en deuxième année de médecine de partout au Canada se sont vu décerner un prix du Temple de la renommée médicale canadienne (TRMC).","['En', 'savoir', 'plus', 'à', 'propos', 'Un', 'coup', 'de', 'pouce', 'pour', 'les', 'programmes', 'de', 'mentorat', 'et', 'de', 'formation', 'de', 'professeurs', 'de', 'l’', 'Université', 'd’', 'Ottawa', '\n', 'Zach', 'Ferraro', ',', 'étudiant', 'en', 'médecine', 'de', 'l’', 'Université', 'd’', 'Ottawa', ',', 'reçoit', 'un', 'prix', 'du', 'Temple', 'de', 'la', 'renommée', 'médicale', 'canadienne', '\n', 'Cet', 'automne', ',', '16', 'étudiants', 'et', 'étudiantes', 'en', 'deuxième', 'année', 'de', 'médecine', 'de', 'partout', 'au', 'Canada', 'se', 'sont', 'vu', 'décerner', 'un', 'prix', 'du', 'Temple', 'de', 'la', 'renommée', 'médicale', 'canadienne', '(', 'TRMC', ')', '.']","[(266, 289)]",[['coo']]
+874_6,"Première entreprise de l’économie circulaire spécialisée dans le domaine, c’est avec beaucoup de fierté que ses 200 salarié.e.s travaillent chaque jour à réduire la quantité de déchets électroménagers en France grâce à la réparation et au reconditionnement.
+","['Première', 'entreprise', 'de', 'l’', 'économie', 'circulaire', 'spécialisée', 'dans', 'le', 'domaine', ',', 'c’', 'est', 'avec', 'beaucoup', 'de', 'fierté', 'que', 'ses', '200', 'salarié.e.s', 'travaillent', 'chaque', 'jour', 'à', 'réduire', 'la', 'quantité', 'de', 'déchets', 'électroménagers', 'en', 'France', 'grâce', 'à', 'la', 'réparation', 'et', 'au', 'reconditionnement', '.', '\n']","[(116, 127)]",[['fle']]
+875_97,"L’idée première de cette offre est de permettre à la population gay de voyager sans préjuger, en tout tranquillité et convivialité.
+www.misterbnb.com
+Funster
+Dans la même logique de faire rencontrer deux personnes qui ne se connaissent pas, le site Funster propose de faire rencontrer deux groupes d’ami(e)s (3 garçons, 3 filles) dans un bar, en prépayant directement sur le site (15 euros le verre, soit 45 euros pour le groupe d’amis).","['L’', 'idée', 'première', 'de', 'cette', 'offre', 'est', 'de', 'permettre', 'à', 'la', 'population', 'gay', 'de', 'voyager', 'sans', 'préjuger', ',', 'en', 'tout', 'tranquillité', 'et', 'convivialité', '.', '\n', 'www.misterbnb.com', '\n', 'Funster', '\n', 'Dans', 'la', 'même', 'logique', 'de', 'faire', 'rencontrer', 'deux', 'personnes', 'qui', 'ne', 'se', 'connaissent', 'pas', ',', 'le', 'site', 'Funster', 'propose', 'de', 'faire', 'rencontrer', 'deux', 'groupes', 'd’', 'ami(e)s', '(', '3', 'garçons', ',', '3', 'filles', ')', 'dans', 'un', 'bar', ',', 'en', 'prépayant', 'directement', 'sur', 'le', 'site', '(', '15', 'euros', 'le', 'verre', ',', 'soit', '45', 'euros', 'pour', 'le', 'groupe', 'd’', 'amis', ')', '.']","[(300, 307)]",[['fle']]
+875_98,"Les groupes sont composés de la manière suivante: un couple souhaite se rencontrer et chacun invite deux de leurs ami(e)s.
+www.funsterclub.com
+Poster un commentaire
+Classé dans Actu, Digital
+Tagué","['Les', 'groupes', 'sont', 'composés', 'de', 'la', 'manière', 'suivante', ':', 'un', 'couple', 'souhaite', 'se', 'rencontrer', 'et', 'chacun', 'invite', 'deux', 'de', 'leurs', 'ami(e)s', '.', '\n', 'www.funsterclub.com', '\n', 'Poster', 'un', 'commentaire', '\n', 'Classé', 'dans', 'Actu', ',', 'Digital', '\n', 'Tagué']","[(114, 121)]",[['fle']]
+882_138,"- Les marques ou contenus du site nouvelobs.com sont soumis à la protection de la propriété intellectuelle
+Le visionnage de cette vidéo est susceptible d'entraîner un dépôt de cookies de la part de l'opérateur de la plate-forme vidéo vers laquelle vous serez dirigé(e).","['-', 'Les', 'marques', 'ou', 'contenus', 'du', 'site', 'nouvelobs.com', 'sont', 'soumis', 'à', 'la', 'protection', 'de', 'la', 'propriété', 'intellectuelle', '\n', 'Le', 'visionnage', 'de', 'cette', 'vidéo', 'est', 'susceptible', ""d'"", 'entraîner', 'un', 'dépôt', 'de', 'cookies', 'de', 'la', 'part', 'de', ""l'"", 'opérateur', 'de', 'la', 'plate-forme', 'vidéo', 'vers', 'laquelle', 'vous', 'serez', 'dirigé(e)', '.']","[(259, 268)]",[['fle']]
+885_10,"Tierce autrices s’attaquent dans votre intervalle indispensable , lesquelsEt souvent parfoisSauf","['Tierce', 'autrices', 's’', 'attaquent', 'dans', 'votre', 'intervalle', 'indispensable', ',', 'lesquelsEt', 'souvent', 'parfoisSauf']","[(7, 15)]",[['fem']]
+885_24,")
+Certains en profite malgre jaillir ensuite voir les camarade.e.s sans avoir de intention,","[')', '\n', 'Certains', 'en', 'profite', 'malgre', 'jaillir', 'ensuite', 'voir', 'les', 'camarade.e.s', 'sans', 'avoir', 'de', 'intention', ',']","[(54, 66)]",[['fle']]
+885_29,La reputationEt convaincanteSauf Que pourrait etre impayee a la auteure etasunienne,"['La', 'reputationEt', 'convaincanteSauf', 'Que', 'pourrait', 'etre', 'impayee', 'a', 'la', 'auteure', 'etasunienne']","[(64, 71)]",[['fem']]
+885_34,les dangers tout comme contenir des peur qu’elle concoive aussi bien que change que les personnes appelees autrices tarte Attry puis Brigitte CarrereEt au vu de l’illustratrice PrincessHOu fournissent unique,"['les', 'dangers', 'tout', 'comme', 'contenir', 'des', 'peur', 'qu’', 'elle', 'concoive', 'aussi', 'bien', 'que', 'change', 'que', 'les', 'personnes', 'appelees', 'autrices', 'tarte', 'Attry', 'puis', 'Brigitte', 'CarrereEt', 'au', 'vu', 'de', 'l’', 'illustratrice', 'PrincessHOu', 'fournissent', 'unique']","[(107, 115)]",[['fem']]
+885_42,a votre frappante separation en tenant accaparement au moment vous-meme nenni rencontriez encore demeurer Cet bebe Tous les autrices dirigent comme relever – l’air rien,"['a', 'votre', 'frappante', 'separation', 'en', 'tenant', 'accaparement', 'au', 'moment', 'vous-meme', 'nenni', 'rencontriez', 'encore', 'demeurer', 'Cet', 'bebe', 'Tous', 'les', 'autrices', 'dirigent', 'comme', 'relever', '–', 'l’', 'air', 'rien']","[(124, 132)]",[['fem']]
+885_45,"aucune panique vos autrices alors eprouve du Sydrome de notre habitat vide conseillent pas a pas vrais aboutissementsEt possibilites puis dispositions aupres gerer le stressEt gouverner nos assiduitesEt parfosi Connaitre pour rien neant accomplir comprendre l’accessibilite non-intrusive
+Laquelle suis-je sans avoir de ma progeniture ?","['aucune', 'panique', 'vos', 'autrices', 'alors', 'eprouve', 'du', 'Sydrome', 'de', 'notre', 'habitat', 'vide', 'conseillent', 'pas', 'a', 'pas', 'vrais', 'aboutissementsEt', 'possibilites', 'puis', 'dispositions', 'aupres', 'gerer', 'le', 'stressEt', 'gouverner', 'nos', 'assiduitesEt', 'parfosi', 'Connaitre', 'pour', 'rien', 'neant', 'accomplir', 'comprendre', 'l’', 'accessibilite', 'non-intrusive', '\n', 'Laquelle', 'suis', '-je', 'sans', 'avoir', 'de', 'ma', 'progeniture', '?']","[(19, 27)]",[['fem']]
+885_48,"Celle-ci aurait obtient tr bon contracterOu disposer un grand rond d’ami.e.s, !","['Celle-ci', 'aurait', 'obtient', 'tr', 'bon', 'contracterOu', 'disposer', 'un', 'grand', 'rond', 'd’', 'ami.e.s', ',', '!']","[(69, 76)]",[['fle']]
+885_52,")
+Leurs autrices en indice d’un habitation abandonne offrent pour eclairer leurs ascendant Avec Cette technique Comme faire le Mon Manque sans nul casser au sein de Toute abats ou bien cette reportOu arreter nos s primeurs et les convoitise abstrusesOu rattraper 1 assainissement de travil dietetique et eviter emporter un inconnu amorcement – surtout quand Ce amorcement averes petits coincide, !","[')', '\n', 'Leurs', 'autrices', 'en', 'indice', 'd’', 'un', 'habitation', 'abandonne', 'offrent', 'pour', 'eclairer', 'leurs', 'ascendant', 'Avec', 'Cette', 'technique', 'Comme', 'faire', 'le', 'Mon', 'Manque', 'sans', 'nul', 'casser', 'au', 'sein', 'de', 'Toute', 'abats', 'ou', 'bien', 'cette', 'reportOu', 'arreter', 'nos', 's', 'primeurs', 'et', 'les', 'convoitise', 'abstrusesOu', 'rattraper', '1', 'assainissement', 'de', 'travil', 'dietetique', 'et', 'eviter', 'emporter', 'un', 'inconnu', 'amorcement', '–', 'surtout', 'quand', 'Ce', 'amorcement', 'averes', 'petits', 'coincide', ',', '!']","[(8, 16)]",[['fem']]
+891_40,Les #CCI continuent d'accompagner celles et ceux qui ont des idées.,"['Les', '#', 'CCI', 'continuent', ""d'"", 'accompagner', 'celles', 'et', 'ceux', 'qui', 'ont', 'des', 'idées', '.']","[(34, 48)]",[['coo']]
+900_3,Ces outils ont été créés en interaction permanente entre professionnel.le.s du terrain et universitaires à l’intention des intervenant.e.s à domicile non paramédicaux.,"['Ces', 'outils', 'ont', 'été', 'créés', 'en', 'interaction', 'permanente', 'entre', 'professionnel.le.s', 'du', 'terrain', 'et', 'universitaires', 'à', 'l’', 'intention', 'des', 'intervenant.e.s', 'à', 'domicile', 'non', 'paramédicaux', '.']","[(57, 75), (123, 138)]","[['fle'], ['fle']]"
+900_4,"Visant à sécuriser les soins de premier niveau et à renforcer l’attractivité de ce métier -considéré comme peu valorisant bien qu’essentiel dans le système des soins primaires à domicile-, ceux-ci permettent ainsi à des demandeurs d’emploi ou aides à domicile en poste de s’assurer un socle de compétences de base.
+Pour découvrir ces outils, suivre les échanges entre expert.e.s d'aide à domicile, représentant.e.s institutionnel.les, chercheur.euse.s et acteur.rice.s de terrain, prenez part au débat le 22 octobre et participez au networking lunch offert !
+En pratique
+Mardi 22 octobre 2019, de 9h00 à 16h00
+Accueil et café à partir de 8h30
+Inscription en ligne gratuite mais obligatoire
+Conférence bilingue en français et anglais avec traduction simultanée
+","['Visant', 'à', 'sécuriser', 'les', 'soins', 'de', 'premier', 'niveau', 'et', 'à', 'renforcer', 'l’', 'attractivité', 'de', 'ce', 'métier', '-considéré', 'comme', 'peu', 'valorisant', 'bien', 'qu’', 'essentiel', 'dans', 'le', 'système', 'des', 'soins', 'primaires', 'à', 'domicile-', ',', 'ceux-ci', 'permettent', 'ainsi', 'à', 'des', 'demandeurs', 'd’', 'emploi', 'ou', 'aides', 'à', 'domicile', 'en', 'poste', 'de', 's’', 'assurer', 'un', 'socle', 'de', 'compétences', 'de', 'base', '.', '\n', 'Pour', 'découvrir', 'ces', 'outils', ',', 'suivre', 'les', 'échanges', 'entre', 'expert.e.s', ""d'"", 'aide', 'à', 'domicile', ',', 'représentant.e.s', 'institutionnel.les', ',', 'chercheur.euse.s', 'et', 'acteur.rice.s', 'de', 'terrain', ',', 'prenez', 'part', 'au', 'débat', 'le', '22', 'octobre', 'et', 'participez', 'au', 'networking', 'lunch', 'offert', '!', '\n', 'En', 'pratique', '\n', 'Mardi', '22', 'octobre', '2019', ',', 'de', '9h00', 'à', '16h00', '\n', 'Accueil', 'et', 'café', 'à', 'partir', 'de', '8h30', '\n', 'Inscription', 'en', 'ligne', 'gratuite', 'mais', 'obligatoire', '\n', 'Conférence', 'bilingue', 'en', 'français', 'et', 'anglais', 'avec', 'traduction', 'simultanée', '\n']","[(368, 378), (398, 433), (435, 451), (455, 468)]","[['fle'], ['fle'], ['fle'], ['fle']]"
+912_10,"Si vous n'êtes pas encore enregistré(e), inscrivez-vous maintenant!
+","['Si', 'vous', ""n'"", 'êtes', 'pas', 'encore', 'enregistré(e)', ',', 'inscrivez', '-vous', 'maintenant', '!', '\n']","[(26, 39)]",[['fle']]
+914_717,", elle est l’auteure de « Benoît XVI, le pape incompris », chez Bayard Culture (2008), de « François, un pape pour tous » aux Editions du Seuil (2014) et du livre « Histoire d’un silence », aux Editions du Seuil (2016).
+","[',', 'elle', 'est', 'l’', 'auteure', 'de', '«', 'Benoît', 'XVI', ',', 'le', 'pape', 'incompris', '»', ',', 'chez', 'Bayard', 'Culture', '(', '2008', ')', ',', 'de', '«', 'François', ',', 'un', 'pape', 'pour', 'tous', '»', 'aux', 'Editions', 'du', 'Seuil', '(', '2014', ')', 'et', 'du', 'livre', '«', 'Histoire', 'd’', 'un', 'silence', '»', ',', 'aux', 'Editions', 'du', 'Seuil', '(', '2016', ')', '.', '\n']","[(13, 20)]",[['fem']]
+939_309,"Lorsque l’accouplement surnaturel concerne une femme et un esprit, le fruit d'une telle union a des dons exceptionnels : cela ouvre la possibilité d'engendrer, pour une femme chamane lorsque l'union se fait avec un esprit, un enfant qui pourra se réclamer plus tard d'une nouvelle lignée chamanique.","['Lorsque', 'l’', 'accouplement', 'surnaturel', 'concerne', 'une', 'femme', 'et', 'un', 'esprit', ',', 'le', 'fruit', ""d'"", 'une', 'telle', 'union', 'a', 'des', 'dons', 'exceptionnels', ':', 'cela', 'ouvre', 'la', 'possibilité', ""d'"", 'engendrer', ',', 'pour', 'une', 'femme', 'chamane', 'lorsque', ""l'"", 'union', 'se', 'fait', 'avec', 'un', 'esprit', ',', 'un', 'enfant', 'qui', 'pourra', 'se', 'réclamer', 'plus', 'tard', ""d'"", 'une', 'nouvelle', 'lignée', 'chamanique', '.']","[(175, 182)]",[['fem']]
+940_16,"Urbain-es]
+Téléchargement
+A PARAITRE
+NOUVEAUTES
+","['Urbain-es', ']', '\n', 'Téléchargement', '\n', 'A', 'PARAITRE', '\n', 'NOUVEAUTES', '\n']","[(0, 9)]",[['fle']]
+948_5,"Le premier été
+Auteure : Anne Percin
+","['Le', 'premier', 'été', '\n', 'Auteure', ':', 'Anne', 'Percin', '\n']","[(15, 22)]",[['fem']]
+948_28,"Le style de l’auteure m’a laissé un sentiment incertain, si j’ai aimé que, lors du récit de Catherine, la narratrice revienne en arrière dans son langage, afin de faire revivre au lecteur plus intensément son histoire.","['Le', 'style', 'de', 'l’', 'auteure', 'm’', 'a', 'laissé', 'un', 'sentiment', 'incertain', ',', 'si', 'j’', 'ai', 'aimé', 'que', ',', 'lors', 'du', 'récit', 'de', 'Catherine', ',', 'la', 'narratrice', 'revienne', 'en', 'arrière', 'dans', 'son', 'langage', ',', 'afin', 'de', 'faire', 'revivre', 'au', 'lecteur', 'plus', 'intensément', 'son', 'histoire', '.']","[(14, 21)]",[['fem']]
+948_31,"En conclusion, un livre dont le sujet est très atypique dans la littérature contemporaine, mais malheureusement, l’écriture de l’auteure ne cadrait pas, pour moi, aux faits relatés.","['En', 'conclusion', ',', 'un', 'livre', 'dont', 'le', 'sujet', 'est', 'très', 'atypique', 'dans', 'la', 'littérature', 'contemporaine', ',', 'mais', 'malheureusement', ',', 'l’', 'écriture', 'de', 'l’', 'auteure', 'ne', 'cadrait', 'pas', ',', 'pour', 'moi', ',', 'aux', 'faits', 'relatés', '.']","[(129, 136)]",[['fem']]
+977_43,"Publié le 03/12/21
+69
+CDI
+Consulter l'offre
+Chargé de relation client (H/F)
+Publié le 03/12/21
+69
+CDI
+Consulter l'offre
+Aide ménager(e) H/F à Vaulx-en-Velin
+","['Publié', 'le', '03/12/21', '\n', '69', '\n', 'CDI', '\n', 'Consulter', ""l'"", 'offre', '\n', 'Chargé', 'de', 'relation', 'client', '(', 'H', '/', 'F', ')', '\n', 'Publié', 'le', '03/12/21', '\n', '69', '\n', 'CDI', '\n', 'Consulter', ""l'"", 'offre', '\n', 'Aide', 'ménager(e)', 'H', '/', 'F', 'à', 'Vaulx-en-Velin', '\n']","[(125, 135)]",[['fle']]
+977_47,"LES LYON
+CDI
+Consulter l'offre
+Expert(e)","['LES', 'LYON', '\n', 'CDI', '\n', 'Consulter', ""l'"", 'offre', '\n', 'Expert(e)']","[(31, 40)]",[['fle']]
+977_56,"Publié le 03/12/21
+69
+CDI
+Consulter l'offre
+Aide ménager(e) H/F à Saint-Symphorien-d'Ozon
+Publié le 03/12/21
+69","['Publié', 'le', '03/12/21', '\n', '69', '\n', 'CDI', '\n', 'Consulter', ""l'"", 'offre', '\n', 'Aide', 'ménager(e)', 'H', '/', 'F', 'à', ""Saint-Symphorien-d'Ozon"", '\n', 'Publié', 'le', '03/12/21', '\n', '69']","[(49, 59)]",[['fle']]
+977_58,"Consulter l'offre
+Aide ménager(e)","['Consulter', ""l'"", 'offre', '\n', 'Aide', 'ménager(e)']","[(23, 33)]",[['fle']]
+977_62,"- FONTAINES SUR SAONE
+CDI
+Consulter l'offre
+Aide ménager(e) H/F à Genas
+Publié le 03/12/21
+69","['-', 'FONTAINES', 'SUR', 'SAONE', '\n', 'CDI', '\n', 'Consulter', ""l'"", 'offre', '\n', 'Aide', 'ménager(e)', 'H', '/', 'F', 'à', 'Genas', '\n', 'Publié', 'le', '03/12/21', '\n', '69']","[(49, 59)]",[['fle']]
+1038_12,"Je continue avec
+ou me connecter avec mon email
+Rester connecté(e)","['Je', 'continue', 'avec', '\n', 'ou', 'me', 'connecter', 'avec', 'mon', 'email', '\n', 'Rester', 'connecté(e)']","[(55, 66)]",[['fle']]
+1038_27,"Rattaché au responsable d'unité, vous serez l'interlocuteur/trice privilégié(e) des maitres d'oeuvre et ...
+Modifiée il y a 3 jours
+Envoyé
+Ré-essayer ?
+Voir l'annonce
+Technicien","['Rattaché', 'au', 'responsable', ""d'"", 'unité', ',', 'vous', 'serez', ""l'"", 'interlocuteur', '/', 'trice', 'privilégié(e)', 'des', 'maitres', ""d'"", 'oeuvre', 'et', '...', '\n', 'Modifiée', 'il', 'y', 'a', '3', 'jours', '\n', 'Envoyé', '\n', 'Ré-essayer', '?', '\n', 'Voir', ""l'"", 'annonce', '\n', 'Technicien']","[(66, 79)]",[['fle']]
+1038_56,"Rhône CDI
+Rattaché(e) au Responsable du Service Client, vous garantissez le service au client sur la totalité de la durée de vie des équipements commercialisés depuis les tests de sortie de production, la prise en main client et les interventions SAV préventives et curatives.","['Rhône', 'CDI', '\n', 'Rattaché(e)', 'au', 'Responsable', 'du', 'Service', 'Client', ',', 'vous', 'garantissez', 'le', 'service', 'au', 'client', 'sur', 'la', 'totalité', 'de', 'la', 'durée', 'de', 'vie', 'des', 'équipements', 'commercialisés', 'depuis', 'les', 'tests', 'de', 'sortie', 'de', 'production', ',', 'la', 'prise', 'en', 'main', 'client', 'et', 'les', 'interventions', 'SAV', 'préventives', 'et', 'curatives', '.']","[(10, 21)]",[['fle']]
+1038_71,"Voir l'annonce
+Installateur en Matériel Médical H/F
+Populaire
+five recrutement
+Plusieurs localisations CDI
+Sur la zone EMEA ou Asie Pacifique vous êtes amené(e) à intervenir sur l'installation de nouvelles machines.","['Voir', ""l'"", 'annonce', '\n', 'Installateur', 'en', 'Matériel', 'Médical', 'H', '/', 'F', '\n', 'Populaire', '\n', 'five', 'recrutement', '\n', 'Plusieurs', 'localisations', 'CDI', '\n', 'Sur', 'la', 'zone', 'EMEA', 'ou', 'Asie', 'Pacifique', 'vous', 'êtes', 'amené(e)', 'à', 'intervenir', 'sur', ""l'"", 'installation', 'de', 'nouvelles', 'machines', '.']","[(152, 160)]",[['fle']]
+1040_1,"Cette dysphorie, qui peut avoir des conséquences dramatiques et mener au suicide, est classée comme un trouble psychiatrique, situation que les intéressé(e)s jugent très stigmatisante.","['Cette', 'dysphorie', ',', 'qui', 'peut', 'avoir', 'des', 'conséquences', 'dramatiques', 'et', 'mener', 'au', 'suicide', ',', 'est', 'classée', 'comme', 'un', 'trouble', 'psychiatrique', ',', 'situation', 'que', 'les', 'intéressé(e)s', 'jugent', 'très', 'stigmatisante', '.']","[(144, 157)]",[['fle']]
+1078_18,"La formation des professionnel(le)s (médecins, policier(e)s, gendarmes et nouveau : sapeur-pompier(e)s qui constituent le premier recours des femmes victimes de violences sera systématisée », annonce le 5ème plan de mobilisation et de lutte contre toutes les violences faites aux femmes.","['La', 'formation', 'des', 'professionnel(le)s', '(', 'médecins', ',', 'policier(e)s', ',', 'gendarmes', 'et', 'nouveau', ':', 'sapeur-pompier(e)s', 'qui', 'constituent', 'le', 'premier', 'recours', 'des', 'femmes', 'victimes', 'de', 'violences', 'sera', 'systématisée', '»', ',', 'annonce', 'le', '5ème', 'plan', 'de', 'mobilisation', 'et', 'de', 'lutte', 'contre', 'toutes', 'les', 'violences', 'faites', 'aux', 'femmes', '.']","[(17, 35), (47, 59)]","[['fle'], ['fle']]"
+1090_50,"Sur la route des chamanes ou du vaudou, de l’islam au judaïsme en passant par la vie des saints ou celles des morts, la douzaine d’auteurs réunis dans ce dossier tentent de se connecter à d’autres univers.","['Sur', 'la', 'route', 'des', 'chamanes', 'ou', 'du', 'vaudou', ',', 'de', 'l’', 'islam', 'au', 'judaïsme', 'en', 'passant', 'par', 'la', 'vie', 'des', 'saints', 'ou', 'celles', 'des', 'morts', ',', 'la', 'douzaine', 'd’', 'auteurs', 'réunis', 'dans', 'ce', 'dossier', 'tentent', 'de', 'se', 'connecter', 'à', 'd’', 'autres', 'univers', '.']","[(17, 25)]",[['fem']]
+1093_3,"Pole Emploi
+Vous êtes salarié(e)
+","['Pole', 'Emploi', '\n', 'Vous', 'êtes', 'salarié(e)', '\n']","[(22, 32)]",[['fle']]
+1113_883,La cocaïne saupoudre tous et toutes.,"['La', 'cocaïne', 'saupoudre', 'tous', 'et', 'toutes', '.']","[(21, 35)]",[['coo']]
+1118_29,"Je souhaite être informé.e occasionnellement des actualités et des offres d'Ifop.
+","['Je', 'souhaite', 'être', 'informé.e', 'occasionnellement', 'des', 'actualités', 'et', 'des', 'offres', ""d'"", 'Ifop', '.', '\n']","[(17, 26)]",[['fle']]
+1128_91,"Le 14, Premier Quartier en Gémeaux
+Phase de construction objective
+Cette lune apporte ce désir d'être cultivé(e) dans de nombreux domaines et d'être admiré(e) pour nos connaissances.","['Le', '14', ',', 'Premier', 'Quartier', 'en', 'Gémeaux', '\n', 'Phase', 'de', 'construction', 'objective', '\n', 'Cette', 'lune', 'apporte', 'ce', 'désir', ""d'"", 'être', 'cultivé(e)', 'dans', 'de', 'nombreux', 'domaines', 'et', ""d'"", 'être', 'admiré(e)', 'pour', 'nos', 'connaissances', '.']","[(102, 112), (149, 158)]","[['fle'], ['fle']]"
+1128_92,On aime être entouré(e) de personnes qui nous stimulent intellectuellement.,"['On', 'aime', 'être', 'entouré(e)', 'de', 'personnes', 'qui', 'nous', 'stimulent', 'intellectuellement', '.']","[(13, 23)]",[['fle']]
+1130_20,"Je suis…
+Étudiant(e)
+Enseignant(e)
+Parent
+Bénévole
+•","['Je', 'suis', '…', '\n', 'Étudiant(e)', '\n', 'Enseignant(e)', '\n', 'Parent', '\n', 'Bénévole', '\n', '•']","[(9, 20), (21, 34)]","[['fle'], ['fle']]"
+1144_56,", cette molécule colorante réduira de 60 % le risque de développer des allergies liées à la coloration*, permettant ainsi de rassurer vos client·e·s lors du choix de coloration.","[',', 'cette', 'molécule', 'colorante', 'réduira', 'de', '60', '%', 'le', 'risque', 'de', 'développer', 'des', 'allergies', 'liées', 'à', 'la', 'coloration', '*', ',', 'permettant', 'ainsi', 'de', 'rassurer', 'vos', 'client·e·s', 'lors', 'du', 'choix', 'de', 'coloration', '.']","[(138, 148)]",[['fle']]
+1144_58,"Au contraire, avec la coloration permanente Koleston Perfect, le mélange sera facilité, l'application plus précise et le parfum qui s'en dégage beaucoup plus agréable, pour une meilleure expérience pour votre client·e, mais aussi pour vous-même !
+","['Au', 'contraire', ',', 'avec', 'la', 'coloration', 'permanente', 'Koleston', 'Perfect', ',', 'le', 'mélange', 'sera', 'facilité', ',', ""l'"", 'application', 'plus', 'précise', 'et', 'le', 'parfum', 'qui', ""s'"", 'en', 'dégage', 'beaucoup', 'plus', 'agréable', ',', 'pour', 'une', 'meilleure', 'expérience', 'pour', 'votre', 'client·e', ',', 'mais', 'aussi', 'pour', 'vous-même', '!', '\n']","[(209, 217)]",[['fle']]
+1170_210,"Newsletter
+Inscrivez-vous à la newsletter de la Maison Le Tanneur, et soyez informé(e) de nos actualités, offres privilèges et évènements","['Newsletter', '\n', 'Inscrivez', '-vous', 'à', 'la', 'newsletter', 'de', 'la', 'Maison', 'Le', 'Tanneur', ',', 'et', 'soyez', 'informé(e)', 'de', 'nos', 'actualités', ',', 'offres', 'privilèges', 'et', 'évènements']","[(76, 86)]",[['fle']]
+1171_122,Ces ateliers permettront de collecter les idées des parisiens et parisiennes pour mieux vivre a Paris.,"['Ces', 'ateliers', 'permettront', 'de', 'collecter', 'les', 'idées', 'des', 'parisiens', 'et', 'parisiennes', 'pour', 'mieux', 'vivre', 'a', 'Paris', '.']","[(52, 76)]",[['coo']]
+1171_135,"Rares sont celles et ceux qui, après quelques mois ou quelques décennies de mandat, réussissent à « lever le nez du guidon », pour chercher à sortir des schémas traditionnels de l’action publique et trouver les moyens d’exprimer une vision d’avenir qui soit désirable et tienne compte des enjeux écologiques dans leur véritable ampleur.
+Même quand les élu-e-s en sont pourvu-e-s et parviennent à les faire prospérer dans le temps, volontarisme et vision d’avenir doivent encore surmonter bien d’autres obstacles avant de réussir à changer vraiment l’état du monde.","['Rares', 'sont', 'celles', 'et', 'ceux', 'qui', ',', 'après', 'quelques', 'mois', 'ou', 'quelques', 'décennies', 'de', 'mandat', ',', 'réussissent', 'à', '«', 'lever', 'le', 'nez', 'du', 'guidon', '»', ',', 'pour', 'chercher', 'à', 'sortir', 'des', 'schémas', 'traditionnels', 'de', 'l’', 'action', 'publique', 'et', 'trouver', 'les', 'moyens', 'd’', 'exprimer', 'une', 'vision', 'd’', 'avenir', 'qui', 'soit', 'désirable', 'et', 'tienne', 'compte', 'des', 'enjeux', 'écologiques', 'dans', 'leur', 'véritable', 'ampleur', '.', '\n', 'Même', 'quand', 'les', 'élu-e-s', 'en', 'sont', 'pourvu-e-s', 'et', 'parviennent', 'à', 'les', 'faire', 'prospérer', 'dans', 'le', 'temps', ',', 'volontarisme', 'et', 'vision', 'd’', 'avenir', 'doivent', 'encore', 'surmonter', 'bien', 'd’', 'autres', 'obstacles', 'avant', 'de', 'réussir', 'à', 'changer', 'vraiment', 'l’', 'état', 'du', 'monde', '.']","[(11, 25), (352, 359), (368, 378)]","[['coo'], ['fle'], ['fle']]"
+1171_151,"Quand bien même la société civile aurait quelques idées sur ce qu’il convient de faire, l’absence de lien fort, sain et productif entre les administrations d’une part et les associations et les citoyen-ne-s d’autre part, conduit par défaut les acteurs publics à gérer de l’équilibre (en faveur des plus forts) au lieu d’engager le mouvement.","['Quand', 'bien', 'même', 'la', 'société', 'civile', 'aurait', 'quelques', 'idées', 'sur', 'ce', 'qu’', 'il', 'convient', 'de', 'faire', ',', 'l’', 'absence', 'de', 'lien', 'fort', ',', 'sain', 'et', 'productif', 'entre', 'les', 'administrations', 'd’', 'une', 'part', 'et', 'les', 'associations', 'et', 'les', 'citoyen-ne-s', 'd’', 'autre', 'part', ',', 'conduit', 'par', 'défaut', 'les', 'acteurs', 'publics', 'à', 'gérer', 'de', 'l’', 'équilibre', '(', 'en', 'faveur', 'des', 'plus', 'forts', ')', 'au', 'lieu', 'd’', 'engager', 'le', 'mouvement', '.']","[(194, 206)]",[['fle']]
+1171_157,"– ceux qui comptent fondamentalement dans la vie des personnes, des collectifs et la préparation du futur – ne sont pas traités.
+Peut-être, une fois de temps en temps, vaudrait-il mieux prendre le temps de lever le stylo, d’écouter sincèrement ce que la société civile et les citoyen-ne-s ont à dire (et, d’ailleurs, les aider à savoir ce qu’ils ont à dire) et d’inventer un nouveau mode d’agir public plus adapté.","['–', 'ceux', 'qui', 'comptent', 'fondamentalement', 'dans', 'la', 'vie', 'des', 'personnes', ',', 'des', 'collectifs', 'et', 'la', 'préparation', 'du', 'futur', '–', 'ne', 'sont', 'pas', 'traités', '.', '\n', 'Peut-être', ',', 'une', 'fois', 'de', 'temps', 'en', 'temps', ',', 'vaudrait', '-il', 'mieux', 'prendre', 'le', 'temps', 'de', 'lever', 'le', 'stylo', ',', 'd’', 'écouter', 'sincèrement', 'ce', 'que', 'la', 'société', 'civile', 'et', 'les', 'citoyen-ne-s', 'ont', 'à', 'dire', '(', 'et', ',', 'd’', 'ailleurs', ',', 'les', 'aider', 'à', 'savoir', 'ce', 'qu’', 'ils', 'ont', 'à', 'dire', ')', 'et', 'd’', 'inventer', 'un', 'nouveau', 'mode', 'd’', 'agir', 'public', 'plus', 'adapté', '.']","[(276, 288)]",[['fle']]
+1171_179,"une capacité d’initiative et d’écoute des signaux faibles à celles et ceux qui sont au plus près des terrains.
+C’est un classique de l’innovation publique, de plus en plus couramment endossé et quasiment jamais mis en œuvre.","['une', 'capacité', 'd’', 'initiative', 'et', 'd’', 'écoute', 'des', 'signaux', 'faibles', 'à', 'celles', 'et', 'ceux', 'qui', 'sont', 'au', 'plus', 'près', 'des', 'terrains', '.', '\n', 'C’', 'est', 'un', 'classique', 'de', 'l’', 'innovation', 'publique', ',', 'de', 'plus', 'en', 'plus', 'couramment', 'endossé', 'et', 'quasiment', 'jamais', 'mis', 'en', 'œuvre', '.']","[(60, 74)]",[['coo']]
+1171_181,"L’histoire administrative est jalonnée d’actes manifestant la volonté toujours plus grande de définir, délimiter, contenir, le champ d’action, de réflexion et d’expérimentation de ces professeur-e-s, soignant-e-s, inspecteurs/trices, policiers, agents d’accueil, juges…","['L’', 'histoire', 'administrative', 'est', 'jalonnée', 'd’', 'actes', 'manifestant', 'la', 'volonté', 'toujours', 'plus', 'grande', 'de', 'définir', ',', 'délimiter', ',', 'contenir', ',', 'le', 'champ', 'd’', 'action', ',', 'de', 'réflexion', 'et', 'd’', 'expérimentation', 'de', 'ces', 'professeur-e-s', ',', 'soignant-e-s', ',', 'inspecteurs', '/', 'trices', ',', 'policiers', ',', 'agents', 'd’', 'accueil', ',', 'juges', '…']","[(184, 198)]",[['fle']]
+1171_232,"dans le cadre du Mois de l’innovation publique et bien au-delà, nous cherchons dans nos échanges avec les agents publics, avec les élus, avec les représentant-e-s de la société civile et avec les citoyens, à enrichir, compléter, amender ce cadre de réflexion et d’action.","['dans', 'le', 'cadre', 'du', 'Mois', 'de', 'l’', 'innovation', 'publique', 'et', 'bien', 'au-delà', ',', 'nous', 'cherchons', 'dans', 'nos', 'échanges', 'avec', 'les', 'agents', 'publics', ',', 'avec', 'les', 'élus', ',', 'avec', 'les', 'représentant-e-s', 'de', 'la', 'société', 'civile', 'et', 'avec', 'les', 'citoyens', ',', 'à', 'enrichir', ',', 'compléter', ',', 'amender', 'ce', 'cadre', 'de', 'réflexion', 'et', 'd’', 'action', '.']","[(146, 162)]",[['fle']]
+1171_240,"Ce texte est le fruit d’une réflexion collective et conviviale sur l’action publique, menée par des agents publics, des designers, des chercheurs…dont Giulia Reboa, Mathilde Bras, Nicolas Rio, Léa Douhard, Grégoire Alix-Tabeling, Laura Pandelle, Francis Rol-Tanguy, Alex Mussche, Ariane Azéma, Yoan Ollivier, Céline Danion, Xavier Figuerola, Hela Ghariani, Romain Beaucher et bien d’autres, que le devoir de réserve empêche malheureusement d’être mentionné-e-s ici.
+https://autrementautrement.com/2020/11/13/mutation-ecologique-metamorphoses-de-laction-publique/?fbclid=IwAR3d4J_EuIJ-sXUl8tHjT2TtsRp4OVWdyr3maaUgXJ8R-ARGgQwrbtrx7AQ
+[1] «","['Ce', 'texte', 'est', 'le', 'fruit', 'd’', 'une', 'réflexion', 'collective', 'et', 'conviviale', 'sur', 'l’', 'action', 'publique', ',', 'menée', 'par', 'des', 'agents', 'publics', ',', 'des', 'designers', ',', 'des', 'chercheurs', '…', 'dont', 'Giulia', 'Reboa', ',', 'Mathilde', 'Bras', ',', 'Nicolas', 'Rio', ',', 'Léa', 'Douhard', ',', 'Grégoire', 'Alix-Tabeling', ',', 'Laura', 'Pandelle', ',', 'Francis', 'Rol-Tanguy', ',', 'Alex', 'Mussche', ',', 'Ariane', 'Azéma', ',', 'Yoan', 'Ollivier', ',', 'Céline', 'Danion', ',', 'Xavier', 'Figuerola', ',', 'Hela', 'Ghariani', ',', 'Romain', 'Beaucher', 'et', 'bien', 'd’', 'autres', ',', 'que', 'le', 'devoir', 'de', 'réserve', 'empêche', 'malheureusement', 'd’', 'être', 'mentionné-e-s', 'ici', '.', '\n', 'https://autrementautrement.com/2020/11/13', '/', 'mutation-ecologique-metamorphoses-de-laction-publique/?fbclid', '=', 'IwAR3d4J_EuIJ-sXUl8tHjT2TtsRp4OVWdyr3maaUgXJ8R-ARGgQwrbtrx7AQ', '\n', '[', '1', ']', '«']","[(447, 460)]",[['fle']]
+1171_294,Ces ateliers permettront de collecter les idées des parisiens et parisiennes pour mieux vivre a Paris.,"['Ces', 'ateliers', 'permettront', 'de', 'collecter', 'les', 'idées', 'des', 'parisiens', 'et', 'parisiennes', 'pour', 'mieux', 'vivre', 'a', 'Paris', '.']","[(52, 76)]",[['coo']]
+1240_15,"Si vous préférez être accompagné(e) pour vos démarches, il est préférable de prendre rdv au préalable.
+","['Si', 'vous', 'préférez', 'être', 'accompagné(e)', 'pour', 'vos', 'démarches', ',', 'il', 'est', 'préférable', 'de', 'prendre', 'rdv', 'au', 'préalable', '.', '\n']","[(22, 35)]",[['fle']]
+1247_55,Cette plaquette réunit des conseils pour tout acheteur ou acheteuse de traductions souhaitant « faire les bons choix ».,"['Cette', 'plaquette', 'réunit', 'des', 'conseils', 'pour', 'tout', 'acheteur', 'ou', 'acheteuse', 'de', 'traductions', 'souhaitant', '«', 'faire', 'les', 'bons', 'choix', '»', '.']","[(46, 67)]",[['coo']]
+1247_79,"À votre écoute, votre partenaire saura analyser vos besoins et vous conseiller au mieux.
+Professionnalisme
+Choisissez des interprètes, traducteurs et traductrices professionnelles.","['À', 'votre', 'écoute', ',', 'votre', 'partenaire', 'saura', 'analyser', 'vos', 'besoins', 'et', 'vous', 'conseiller', 'au', 'mieux', '.', '\n', 'Professionnalisme', '\n', 'Choisissez', 'des', 'interprètes', ',', 'traducteurs', 'et', 'traductrices', 'professionnelles', '.']","[(135, 162)]",[['coo']]
+1247_86,"Avec l’annuaire de traducteurs, traductrices et interprètes de la SFT, aucun problème, car nos membres exercent en toute légalité.
+","['Avec', 'l’', 'annuaire', 'de', 'traducteurs', ',', 'traductrices', 'et', 'interprètes', 'de', 'la', 'SFT', ',', 'aucun', 'problème', ',', 'car', 'nos', 'membres', 'exercent', 'en', 'toute', 'légalité', '.', '\n']","[(19, 44)]",[['coo']]
+1260_19,"L’association Femmes Ingénieures, entourée de 16 partenaires, organise le forum «","['L’', 'association', 'Femmes', 'Ingénieures', ',', 'entourée', 'de', '16', 'partenaires', ',', 'organise', 'le', 'forum', '«']","[(21, 32)]",[['fem']]
+1260_22,"» un événement virtuel à destination des jeunes, filles et garçons, pour leur faire découvrir la diversité des métiers d'ingénieurs, et susciter des vocations.
+Plus de 4 500 collégiens, lycéens et étudiants sont attendus les 15 et 16 octobre 2021 pour ce forum organisé par l’association Femmes Ingénieures et hébergé sur la plateforme de réalité virtuelle des Arts et Métiers.
+Lire la suite...","['»', 'un', 'événement', 'virtuel', 'à', 'destination', 'des', 'jeunes', ',', 'filles', 'et', 'garçons', ',', 'pour', 'leur', 'faire', 'découvrir', 'la', 'diversité', 'des', 'métiers', ""d'"", 'ingénieurs', ',', 'et', 'susciter', 'des', 'vocations', '.', '\n', 'Plus', 'de', '4', '500', 'collégiens', ',', 'lycéens', 'et', 'étudiants', 'sont', 'attendus', 'les', '15', 'et', '16', 'octobre', '2021', 'pour', 'ce', 'forum', 'organisé', 'par', 'l’', 'association', 'Femmes', 'Ingénieures', 'et', 'hébergé', 'sur', 'la', 'plateforme', 'de', 'réalité', 'virtuelle', 'des', 'Arts', 'et', 'Métiers', '.', '\n', 'Lire', 'la', 'suite', '...']","[(295, 306)]",[['fem']]
+1288_57,"Spécialement créé pour les adorateurs et adoratrices du plus beau des félins, découvrez notre magnifique Pyjama grenouillère chat affichant ave...
+€44,90
+","['Spécialement', 'créé', 'pour', 'les', 'adorateurs', 'et', 'adoratrices', 'du', 'plus', 'beau', 'des', 'félins', ',', 'découvrez', 'notre', 'magnifique', 'Pyjama', 'grenouillère', 'chat', 'affichant', 'ave', '...', '\n', '€', '44,90', '\n']","[(27, 52)]",[['coo']]
+1313_358,"Allez bonnes vacances à tous et à toutes!
+","['Allez', 'bonnes', 'vacances', 'à', 'tous', 'et', 'à', 'toutes', '!', '\n']","[(24, 40)]",[['coo']]
+1313_384,"Sinon , je mettrai des fiches de géométrie cette année …
+Répondre
+cri_cri dit :	
+06/07/2012 à 7 h 36 min	
+top, je donnerai l’adresse de ce p’tit coin de paradis à celui ou celle qui me complètera
+Répondre
+bout de gomme dit :	
+06/07/2012 à 7 h 42 min	
+Toujours aussi gentille Cri-cri !","['Sinon', ',', 'je', 'mettrai', 'des', 'fiches', 'de', 'géométrie', 'cette', 'année', '…', '\n', 'Répondre', '\n', 'cri_cri', 'dit', ':', '\t\n', '06/07/2012', 'à', '7', 'h', '36', 'min', '\t\n', 'top', ',', 'je', 'donnerai', 'l’', 'adresse', 'de', 'ce', 'p’', 'tit', 'coin', 'de', 'paradis', 'à', 'celui', 'ou', 'celle', 'qui', 'me', 'complètera', '\n', 'Répondre', '\n', 'bout', 'de', 'gomme', 'dit', ':', '\t\n', '06/07/2012', 'à', '7', 'h', '42', 'min', '\t\n', 'Toujours', 'aussi', 'gentille', 'Cri-cri', '!']","[(163, 177)]",[['coo']]
+1314_358,"Allez bonnes vacances à tous et à toutes!
+","['Allez', 'bonnes', 'vacances', 'à', 'tous', 'et', 'à', 'toutes', '!', '\n']","[(24, 40)]",[['coo']]
+1314_384,"Sinon , je mettrai des fiches de géométrie cette année …
+Répondre
+cri_cri dit :	
+06/07/2012 à 7 h 36 min	
+top, je donnerai l’adresse de ce p’tit coin de paradis à celui ou celle qui me complètera
+Répondre
+bout de gomme dit :	
+06/07/2012 à 7 h 42 min	
+Toujours aussi gentille Cri-cri !","['Sinon', ',', 'je', 'mettrai', 'des', 'fiches', 'de', 'géométrie', 'cette', 'année', '…', '\n', 'Répondre', '\n', 'cri_cri', 'dit', ':', '\t\n', '06/07/2012', 'à', '7', 'h', '36', 'min', '\t\n', 'top', ',', 'je', 'donnerai', 'l’', 'adresse', 'de', 'ce', 'p’', 'tit', 'coin', 'de', 'paradis', 'à', 'celui', 'ou', 'celle', 'qui', 'me', 'complètera', '\n', 'Répondre', '\n', 'bout', 'de', 'gomme', 'dit', ':', '\t\n', '06/07/2012', 'à', '7', 'h', '42', 'min', '\t\n', 'Toujours', 'aussi', 'gentille', 'Cri-cri', '!']","[(163, 177)]",[['coo']]
+1360_1,"Nous souhaitons donner à toutes et tous l’aide, les outils et les ressources nécessaires pour organiser de projets, d’événements ou d’ateliers à la réalisation de leurs envies visant les mêmes objectifs et missions que les nôtres.
+0
+Membres
+0
+Ateliers
+0
+Événements
+0
+Projets
+Activités à venir...
+","['Nous', 'souhaitons', 'donner', 'à', 'toutes', 'et', 'tous', 'l’', 'aide', ',', 'les', 'outils', 'et', 'les', 'ressources', 'nécessaires', 'pour', 'organiser', 'de', 'projets', ',', 'd’', 'événements', 'ou', 'd’', 'ateliers', 'à', 'la', 'réalisation', 'de', 'leurs', 'envies', 'visant', 'les', 'mêmes', 'objectifs', 'et', 'missions', 'que', 'les', 'nôtres', '.', '\n', '0', '\n', 'Membres', '\n', '0', '\n', 'Ateliers', '\n', '0', '\n', 'Événements', '\n', '0', '\n', 'Projets', '\n', 'Activités', 'à', 'venir', '...', '\n']","[(25, 39)]",[['coo']]
+1360_7,"Mot de passe oublié ?	
+Devenez membre
+Ouverte à toutes et à tous, Implic’Action se veut une association libre et conviviale, où la coopération et la participation s’adresse à tout le monde : étudiant.e.s, professionnel.le.s, curieux.ses et engagé.e.s.","['Mot', 'de', 'passe', 'oublié', '?', '\t\n', 'Devenez', 'membre', '\n', 'Ouverte', 'à', 'toutes', 'et', 'à', 'tous', ',', 'Implic’', 'Action', 'se', 'veut', 'une', 'association', 'libre', 'et', 'conviviale', ',', 'où', 'la', 'coopération', 'et', 'la', 'participation', 's’', 'adresse', 'à', 'tout', 'le', 'monde', ':', 'étudiant.e.s', ',', 'professionnel.le.s', ',', 'curieux.ses', 'et', 'engagé.e.s', '.']","[(191, 203), (205, 223), (225, 236), (240, 250)]","[['fle'], ['fle'], ['fle'], ['fle']]"
+1368_21,"- Je sais gérer mon budget, pourquoi faire appel à une conseillère ( conseiller en économie sociale et familiale)?
+","['-', 'Je', 'sais', 'gérer', 'mon', 'budget', ',', 'pourquoi', 'faire', 'appel', 'à', 'une', 'conseillère', '(', 'conseiller', 'en', 'économie', 'sociale', 'et', 'familiale', ')', '?', '\n']","[(55, 79)]",[['coo']]
+1373_42,"Cette semaine, on a évoqué les mémoires du 11 septembre celui du coup d’état au Chili 1973 avec les Quilapayún et celui des attentats aux États Unis en 2001 avec la chercheuse Juliette Volcler auteure du livre ""Le son comme arme.","['Cette', 'semaine', ',', 'on', 'a', 'évoqué', 'les', 'mémoires', 'du', '11', 'septembre', 'celui', 'du', 'coup', 'd’', 'état', 'au', 'Chili', '1973', 'avec', 'les', 'Quilapayún', 'et', 'celui', 'des', 'attentats', 'aux', 'États', 'Unis', 'en', '2001', 'avec', 'la', 'chercheuse', 'Juliette', 'Volcler', 'auteure', 'du', 'livre', '""', 'Le', 'son', 'comme', 'arme', '.']","[(193, 200)]",[['fem']]
+1412_247,")
+Décapsuler (certain(e)s vont devoir encore s'entrainer)
+Encore (c'est quand le prochain RDV ????","[')', '\n', 'Décapsuler', '(', 'certain(e)s', 'vont', 'devoir', 'encore', ""s'"", 'entrainer', ')', '\n', 'Encore', '(', ""c'"", 'est', 'quand', 'le', 'prochain', 'RDV', '?', '?', '?', '?']","[(14, 25)]",[['fle']]
+1415_34,"Ainsi, Jeanne SUSPLUGAS, photographe, Louise VERTIGO, interprète et compositeur, Perrine LIEVENS, sculpteuse, Gaël DAVRINCHE, peintre et Bruno LOUIS, faïencier d’art, ont été les animateurs de ces ateliers.
+","['Ainsi', ',', 'Jeanne', 'SUSPLUGAS', ',', 'photographe', ',', 'Louise', 'VERTIGO', ',', 'interprète', 'et', 'compositeur', ',', 'Perrine', 'LIEVENS', ',', 'sculpteuse', ',', 'Gaël', 'DAVRINCHE', ',', 'peintre', 'et', 'Bruno', 'LOUIS', ',', 'faïencier', 'd’', 'art', ',', 'ont', 'été', 'les', 'animateurs', 'de', 'ces', 'ateliers', '.', '\n']","[(98, 108)]",[['fem']]
+1447_25,"Référence agence de l'annonce
+Référence de l'annonce
+Nom
+Prénom
+N° et rue
+Localité
+Téléphone
+Email
+Note
+Bonjour, Je suis intéressé(e)","['Référence', 'agence', 'de', ""l'"", 'annonce', '\n', 'Référence', 'de', ""l'"", 'annonce', '\n', 'Nom', '\n', 'Prénom', '\n', 'N', '°', 'et', 'rue', '\n', 'Localité', '\n', 'Téléphone', '\n', 'Email', '\n', 'Note', '\n', 'Bonjour', ',', 'Je', 'suis', 'intéressé(e)']","[(121, 133)]",[['fle']]
+1452_29,Recevoir un cadeau personnalisé permet donc à cette personne de se sentir vraiment unique et spéciale aux yeux de celui ou celle qui offre.,"['Recevoir', 'un', 'cadeau', 'personnalisé', 'permet', 'donc', 'à', 'cette', 'personne', 'de', 'se', 'sentir', 'vraiment', 'unique', 'et', 'spéciale', 'aux', 'yeux', 'de', 'celui', 'ou', 'celle', 'qui', 'offre', '.']","[(114, 128)]",[['coo']]

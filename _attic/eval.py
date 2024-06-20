@@ -1,3 +1,9 @@
+import sys
+import os
+script_dir = os.path.dirname( os.path.abspath(__file__) )
+sur_script_dir = os.path.dirname(script_dir)
+sys.path.append(sur_script_dir)
+
 from etude_fr_inclusif._utils import AnnPredModel, get_fr_inclusif_data
 from etude_fr_inclusif.splitter import train_test_splitter
 from etude_fr_inclusif.naive_rule_based import NaiveRBModel
@@ -25,10 +31,10 @@ preds = modelARB.predict(test_x)
 
 print("Métriques pour rule-based adv :")
 print(modelARB.metric(test_x, test_y, preds))
-weights_list.append(modelARB.metric(test_x, test_y, preds)["recall"])
+weights_list.append(modelARB.metric(test_x, test_y, preds)["precision"])
 
-modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv("res/arb_preds.csv")
-modelARB.annotation_layout(test_x, test_y ,iddoc=range(0,len(test_x))).to_csv("res/obs.csv")
+modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/arb_preds.csv")
+modelARB.annotation_layout(test_x, test_y ,iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/obs.csv")
 
 
 modelNRB = NaiveRBModel()
@@ -38,9 +44,9 @@ preds = modelNRB.predict(test_x)
 
 print("Métriques pour rule-based naïf :")
 print(modelNRB.metric(test_x, test_y, preds))
-weights_list.append(modelNRB.metric(test_x, test_y, preds)["recall"])
+weights_list.append(modelNRB.metric(test_x, test_y, preds)["precision"])
 
-modelNRB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv("res/nrb_preds.csv")
+modelNRB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/nrb_preds.csv")
 
 modelCRF = CRFModel()
 
@@ -51,7 +57,7 @@ preds = modelCRF.predict(test_x)
 print("Métriques pour CRF :")
 print(modelCRF.metric(test_x, test_y, preds))
 
-modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv("res/crf_preds.csv")
+modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/crf_preds.csv")
 
 modelINC = InclureModel()
 models_list.append(modelINC)
@@ -60,9 +66,9 @@ preds = modelINC.predict(test_x)
 
 print("Métriques pour Inclure :")
 print(modelINC.metric(test_x, test_y, preds))
-weights_list.append(modelINC.metric(test_x, test_y, preds)["recall"])
+weights_list.append(modelINC.metric(test_x, test_y, preds)["precision"])
 
-modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv("res/inclure_preds.csv")
+modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(sur_script_dir + "/res/inclure_preds.csv")
 
 
 gran = 0.05
@@ -93,4 +99,4 @@ ax.text(best_x, 0.95,
 
 ax.legend(labels=y_axes.keys())
 
-plt.savefig('res/super_model_perf.png')
+plt.savefig(sur_script_dir + '/res/super_model_perf.png')

@@ -1,6 +1,6 @@
 from ._utils import AnnPredModel, Ann
 import pandas as pd
-from etude_fr_inclusif.inclure import InclureModel
+from etude_fr_inclusif.adv_rule_based import AdvRBModel
 
 """
 
@@ -8,7 +8,7 @@ extends AnnPredModel
 """
 class SuperAnnModel(AnnPredModel) :
 
-	def __init__(self, models=[InclureModel()], weights=None, tol=0.5):
+	def __init__(self, models=[AdvRBModel()], weights=None, tol=0.5):
 		super().__init__(nlpmodel="fr_core_news_sm")
 		self.models = models
 		if weights is None :
@@ -23,7 +23,7 @@ class SuperAnnModel(AnnPredModel) :
 		for mod in self.models :
 			mod.fit(x,y)
 
-	def predict(self, x : list[str]) -> list[list[Ann]] :
+	def _predict(self, x : list[str]) -> list[list[Ann]] :
 		
 		res = []
 

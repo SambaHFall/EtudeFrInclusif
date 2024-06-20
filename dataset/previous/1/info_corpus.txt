@@ -1,0 +1,7 @@
+Nombre d'entrées : 297
+Nombre de documents : 112
+Proportion par rapport au nombre de documents visités : 11.46 %
+Nombre d'annotations : 355
+Nombre d'annotations de catégorie fle : 249  (70.14 %)
+Nombre d'annotations de catégorie coo : 64  (18.03 %)
+Nombre d'annotations de catégorie fem : 45  (12.68 %)

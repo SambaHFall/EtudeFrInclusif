@@ -1,36 +1,19 @@
 ,iddoc,context,range,text,category
-0,2,es entrevues ont été réalisées avec des participant(e)s (n = 146) de quatre provinces canadienn,"{'beg': 50, 'end': 65}",participant(e)s,['fle']
-1,5," l'hôpital public : embauche de 100 000 infirmiers et infirmières et revalorisation des salaires
-
-Dans le","{'beg': 59, 'end': 84}",infirmiers et infirmières,"['coo', 'coo']"
-2,5,"ler au Burkina Fasso, pour soutenir les paysannes et paysans victimes des programmes du FMI, puis au","{'beg': 194, 'end': 214}",paysannes et paysans,"['coo', 'coo']"
-3,6,e réflexion afin de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la san,"{'beg': 130, 'end': 143}",patient-e-x-s,['fle']
-4,6,in de réaliser auprès des patient-e-x-s adolescent-e-x-s une anamnèse de la santé sexuelle inclu,"{'beg': 144, 'end': 160}",adolescent-e-x-s,['fle']
-5,7,evues pour documenter la façon dont les participant(e)s interprètent les VVPH et se positionnen,"{'beg': 153, 'end': 168}",participant(e)s,['fle']
-6,8,"s frontière, qui accueille tou·te·s les migrant·e·s
-
-Droit de vote pour les étranger·e·s ré","{'beg': 81, 'end': 92}",migrant·e·s,['fle']
-7,8,"les migrant·e·s
-
-Droit de vote pour les étranger·e·s résidant en France","{'beg': 117, 'end': 129}",étranger·e·s,['fle']
-8,9,Les infirmier(e)s travaillant habituellement en réanimati,"{'beg': 4, 'end': 17}",infirmier(e)s,['fle']
-9,10,"sion exceptionnelle, au vu du nombre de patient·e·s atteint·e·s.","{'beg': 104, 'end': 115}",patient·e·s,['fle']
-10,11,"umaines médico-soignantes limitées, les étudiant·e·s en médecine avancé·e·s dans leur cursus","{'beg': 72, 'end': 84}",étudiant·e·s,['fle']
-11,11," limitées, les étudiant·e·s en médecine avancé·e·s dans leur cursus représentent un renfor","{'beg': 97, 'end': 107}",avancé·e·s,['fle']
-12,11,"ieux, rapidement mobilisable auprès des patient·e·s.","{'beg': 198, 'end': 209}",patient·e·s,['fle']
-13,12,sement si vous ne pouvez pas recevoir l'agent.e recenseur.euse.,"{'beg': 102, 'end': 109}",agent.e,['fle']
-14,12,i vous ne pouvez pas recevoir l'agent.e recenseur.euse.,"{'beg': 110, 'end': 124}",recenseur.euse,['fle']
-15,15,"Un total de 83,95% (n= 476) des patient(e)s a été très satisfait de la qualité de l","{'beg': 32, 'end': 43}",patient(e)s,['fle']
-16,18,L’unité légale Association des ancien-ne-s etudiant-e-s vice-president-e-s d'unive,"{'beg': 31, 'end': 42}",ancien-ne-s,['fle']
-17,20,"our en tirer des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globa","{'beg': 123, 'end': 134}",lecteur•ice,['fle']
-18,20," des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globaux ne re","{'beg': 135, 'end': 142}",avisé-e,['fle']
-19,21,Ils peuvent être utilisés par les patient-e-s avant/après la consultation ou avec le-,"{'beg': 34, 'end': 45}",patient-e-s,['fle']
-20,21,ant/après la consultation ou avec le-la professionnel-le de santé durant la consultation.,"{'beg': 88, 'end': 104}",professionnel-le,['fle']
-21,22,t la succession des inscriptions d'un·e étudiant·e à l'université en partant de son Bac ju,"{'beg': 52, 'end': 62}",étudiant·e,['fle']
-22,23,"égrative et complémentaire en 2021, les auteur·e·s présentent une sélection de six article","{'beg': 85, 'end': 95}",auteur·e·s,['fle']
-23,25,"Giorgia Marras, jeune autrice italienne
-
-Giorgia Marras, illustratric","{'beg': 22, 'end': 29}",autrice,['fem']
-24,25,"ienne
-
-Giorgia Marras, illustratrice et auteure de bande dessinée, est née à Gênes en I","{'beg': 74, 'end': 81}",auteure,['fem']
+0,5,aide à la décision (AD) soutiennent les patient-e-s dans leurs choix médicaux en majorant l,"{'beg': 53, 'end': 64}",patient-e-s,['fle']
+1,7,"es des armées Catherine BOURDÈS, nommée officière générale adjointe au directeur de l'ens","{'beg': 106, 'end': 115}",officière,['fem']
+2,10,une activité de consultation auprès des patient·es en soins somatiques et une activité de ,"{'beg': 75, 'end': 85}",patient·es,['fle']
+3,10,s et une activité de liaison auprès des clinicien·nes.,"{'beg': 144, 'end': 157}",clinicien·nes,['fle']
+4,12,"mier recours dans la prise en charge de patient·e·s avec une stéatopathie métabolique, et d","{'beg': 82, 'end': 93}",patient·e·s,['fle']
+5,13,"isite, fixée d'un commun accord, cet.te agent.e viendra les reprendre.","{'beg': 60, 'end': 67}",agent.e,['fle']
+6,14,"our en tirer des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globa","{'beg': 123, 'end': 134}",lecteur•ice,['fle']
+7,14," des conclusions, mais un•e lecteur•ice avisé-e notera que ces phénomènes globaux ne re","{'beg': 135, 'end': 142}",avisé-e,['fle']
+8,16,Révocabilité des élu·e·s.,"{'beg': 17, 'end': 24}",élu·e·s,['fle']
+9,17,Ils peuvent être utilisés par les patient-e-s avant/après la consultation ou avec le-,"{'beg': 34, 'end': 45}",patient-e-s,['fle']
+10,17,ant/après la consultation ou avec le-la professionnel-le de santé durant la consultation.,"{'beg': 88, 'end': 104}",professionnel-le,['fle']
+11,18,ications pour la communication avec les patient·e·s allophones et du vapotage dans l’arrêt ,"{'beg': 78, 'end': 89}",patient·e·s,['fle']
+12,20,Les auteur·e·s donnent ainsi un aperçu de l’éventail d,"{'beg': 4, 'end': 14}",auteur·e·s,['fle']
+13,21, porte aussi son attention sur le ou la clinicien·ne facilite et enrichit la rencontre clini,"{'beg': 100, 'end': 112}",clinicien·ne,['fle']
+14,22," données disponibles, pour informer les patient(e)s pris(es) en charge et adapter les prati","{'beg': 106, 'end': 117}",patient(e)s,['fle']
+15,24,"er 2023, vous recevrez la visite d'un.e agent.e recenseur.euse recruté.e par la mairie ","{'beg': 74, 'end': 81}",agent.e,['fle']
+16,24,la visite d'un.e agent.e recenseur.euse recruté.e par la mairie de votre arrondissement e,"{'beg': 97, 'end': 106}",recruté.e,['fle']
+17,24,"ar la mairie de votre arrondissement et muni.e, à cet effet, d'une carte officielle.","{'beg': 148, 'end': 154}",muni.e,['fle']

@@ -1,4 +1,9 @@
-from etude_fr_inclusif._utils import *
+import sys
+import os
+
+script_dir = os.path.dirname( os.path.abspath(__file__) )
+sur_script_dir = os.path.dirname(script_dir)
+
 from datasets import load_dataset
 import csv
 import pandas as pd
@@ -64,7 +69,7 @@ for item in dataset['vfi'] :
             tmp[cpt][1].append({ "beg" : rg['start'][0] - sent_ranges[cpt][0], "end" : rg['end'][0] - sent_ranges[cpt][0], "text" : sp['text'][i], "metadata" : ({"category" : [cat]} if cat is not None else {}) } )
     content = content + tmp
 
-with open("data/fr_inclusif.csv", 'w') as f :
+with open(sur_script_dir + "/data/fr_inclusif.csv", 'w') as f :
     csvwriter = csv.writer(f)
     csvwriter.writerow(header)
     csvwriter.writerows(content)

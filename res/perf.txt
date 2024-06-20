@@ -1,8 +1,8 @@
 Métriques pour rule-based adv :
-{'nbobs': 79, 'nbpred ': 22, 'nbtruepos': 21, 'precision': 0.9545454545454546, 'recall': 0.26582278481012656, 'f1-score': 0.41584158415841577}
+{'nbobs': 70, 'nbpred ': 18, 'nbtruepos': 18, 'precision': 1.0, 'recall': 0.2571428571428571, 'f1-score': 0.40909090909090906}
 Métriques pour rule-based naïf :
-{'nbobs': 79, 'nbpred ': 50, 'nbtruepos': 39, 'precision': 0.78, 'recall': 0.4936708860759494, 'f1-score': 0.6046511627906977}
+{'nbobs': 70, 'nbpred ': 51, 'nbtruepos': 35, 'precision': 0.6862745098039216, 'recall': 0.5, 'f1-score': 0.5785123966942148}
 Métriques pour CRF :
-{'nbobs': 79, 'nbpred ': 45, 'nbtruepos': 42, 'precision': 0.9333333333333333, 'recall': 0.5316455696202531, 'f1-score': 0.6774193548387096}
+{'nbobs': 70, 'nbpred ': 34, 'nbtruepos': 34, 'precision': 1.0, 'recall': 0.4857142857142857, 'f1-score': 0.6538461538461539}
 Métriques pour Inclure :
-{'nbobs': 79, 'nbpred ': 19, 'nbtruepos': 19, 'precision': 1.0, 'recall': 0.24050632911392406, 'f1-score': 0.38775510204081637}
+{'nbobs': 70, 'nbpred ': 23, 'nbtruepos': 23, 'precision': 1.0, 'recall': 0.32857142857142857, 'f1-score': 0.4946236559139785}

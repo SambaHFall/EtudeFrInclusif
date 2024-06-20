@@ -2,6 +2,8 @@ import dearpygui.dearpygui as dpg
 
 import subprocess
 
+import os
+script_dir = os.path.dirname( os.path.abspath(__file__) )
 
 models = ["Modèle rule-based naïf", "Modèle rule-based amélioré", "Modèle rule-based de INCLURE", "Modèle statistique avec CRF", "Modèle de vote"]
 selected = None
@@ -69,7 +71,7 @@ def explore():
 	dpg.delete_item("opts")
 	with dpg.window(label="Traitement") :
 		dpg.add_text("model selected : " + selected)
-		subprocess.run(["python3", "collect_oscar.py", selected])
+		subprocess.run(["python3", script_dir+"/collect_oscar.py", selected])
 
 def add_tol_callback(input, app_data, user_data) :
 	global tol

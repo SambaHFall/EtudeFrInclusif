@@ -133,7 +133,7 @@ class CRFModel(AnnPredModel) :
 		df = self._crf_shaping(x, y)
 		self.crf_classif = self.crf_classif.fit(df["feats"], df["labels"])
 
-	def predict(self, x : list[str]) -> list[list[Ann]] :
+	def _predict(self, x : list[str]) -> list[list[Ann]] :
 		res = []
 		for text in x :
 			res.append([])

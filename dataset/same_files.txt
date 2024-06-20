@@ -1,0 +1,8 @@
+doc_2156.txt == doc_2157.txt
+doc_4046.txt == doc_2431.txt
+doc_1531.txt == doc_1532.txt
+doc_1531.txt == doc_1530.txt
+doc_295.txt == doc_294.txt
+doc_1866.txt == doc_1865.txt
+doc_3520.txt == doc_3521.txt
+doc_1532.txt == doc_1530.txt

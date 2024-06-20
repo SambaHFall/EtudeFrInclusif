@@ -121,5 +121,5 @@ class NaiveRBModel(AnnPredModel) :
 	def fit(self, x : list[str], y : list[list[Ann]]) -> None :
 		print("This model doesn't need any kind of training : the 'fit' function is not doing anything")
 
-	def predict(self, x : list[str]) -> list[list[Ann]] :
+	def _predict(self, x : list[str]) -> list[list[Ann]] :
 		return [ detect_inc(self.nlp_model(item)) for item in x ]

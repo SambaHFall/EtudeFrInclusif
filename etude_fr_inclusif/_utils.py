@@ -231,9 +231,15 @@ class AnnPredModel(ABC):
 	the i-th element from the output contains all the annotations predicted in the i-th element if x
 	"""
 	@abstractmethod
-	def predict(self, x : list[str]) -> list[list[Ann]] :
+	def _predict(self, x : list[str]) -> list[list[Ann]] :
 		pass
 
+
+	def predict(self, x : list[str]) -> list[list[Ann]] :
+		if isinstance(x, str) :
+			return self._predict([x])[0]
+		else :
+			return self._predict(x)
 
 	def nlp_model(self, text : str) :
 		doc = self.nlp(text)
