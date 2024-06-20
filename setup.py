@@ -1,10 +1,6 @@
 import os
 from setuptools import setup, find_packages
 
-from distutils.command.install import INSTALL_SCHEMES
-for scheme in INSTALL_SCHEME.values() :
-	scheme['data'] = scheme['purelib']
-
 with open('README.md') as f:
     long_description = f.read()
 
