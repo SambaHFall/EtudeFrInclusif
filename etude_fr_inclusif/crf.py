@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 
 
 # Extracting french dictionnary
-with open(os.path.diname(os.path.abspath(__file__)) + '/data/dictrules.txt') as f : 
+with open(os.path.dirname(os.path.abspath(__file__)) + '/data/dictrules.txt') as f : 
 	fr_dict = Trie(f.read().split('\n'))
 
 
