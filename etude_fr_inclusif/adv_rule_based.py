@@ -13,8 +13,6 @@ excpt = re.compile(r'.*(s|x|z|al|ail|ou|eau|au|eu)$')
 # regex for standard french plural suffix
 plur =  "(s|" + punct + "s)?"
 
-parent_path = os.path.dirname(os.path.dirname(__file__) )
-
 """
 class of data structure inspired from Trie but for regular expressions
 only splits on characters which are alphabetics or numerals
@@ -65,7 +63,7 @@ class SortedRegex :
 
 # Extract grammatical data
 
-rules = open(parent_path + "/data/flexrulesuni.txt", 'r')
+rules = open(os.path.diname(os.path.abspath(__file__)) +  "/data/flexrulesuni.txt", 'r')
 lines = rules.readlines()
 uniflexrulesregex = SortedRegex()
 unicoordrulesregex = SortedRegex()
@@ -77,17 +75,17 @@ for line in lines:
 	unicoordrulesregex.add( r'' + parts[0] + 's?' + parts[1] + 's?', idcpt)
 rules.close()
 
-rules = open(parent_path + "/data/epicenerules.txt", 'r')
+rules = open(os.path.diname(os.path.abspath(__file__)) + "/data/epicenerules.txt", 'r')
 lines = rules.readlines()
 epirulesregex = Trie([line[:-1] for line in lines])
 rules.close()
 
-rules = open(parent_path + "/data/listetermesneutres.txt", 'r')
+rules = open(os.path.diname(os.path.abspath(__file__)) +  "/data/listetermesneutres.txt", 'r')
 lines = rules.readlines()
 neutrulesregex = Trie([line[:-1] for line in lines])
 rules.close()
 
-rules = open(parent_path + "/data/dictrules.txt", 'r')
+rules = open(os.path.diname(os.path.abspath(__file__)) +  "/data/dictrules.txt", 'r')
 lines = rules.readlines()
 dictrules = Trie([line[:-1] for line in lines])
 rules.close()

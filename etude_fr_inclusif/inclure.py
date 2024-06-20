@@ -1,9 +1,3 @@
-import sys
-import os
-
-script_dir = os.path.dirname( os.path.abspath(__file__) )
-sys.path.append(os.path.dirname(script_dir))
-
 from ._utils import AnnPredModel, merge_sort, Ann
 from code_inclure.x import domain_and_exts, different_gender, sub
 import re

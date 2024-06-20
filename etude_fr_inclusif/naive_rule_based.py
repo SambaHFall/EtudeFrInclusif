@@ -4,9 +4,7 @@ import Levenshtein
 from unidecode import unidecode
 import re
 
-parent_path = os.path.dirname(os.path.dirname(__file__) )
-
-with open(parent_path + '/data/dictrules.txt') as f : 
+with open(os.path.diname(os.path.abspath(__file__)) + '/data/dictrules.txt') as f : 
 	fr_dict = Trie(f.read().split('\n'))
 
 """
