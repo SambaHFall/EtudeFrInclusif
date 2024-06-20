@@ -1,5 +1,5 @@
 from ._utils import AnnPredModel, merge_sort, Ann
-from code_inclure.x import domain_and_exts, different_gender, sub
+from etude_fr_inclusif.code_inclure.x import domain_and_exts, different_gender, sub
 import re
 
 """
