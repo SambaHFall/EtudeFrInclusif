@@ -1,0 +1,1081 @@
+Accueil CONSEILS TRAVAUX ET METHODES PRATIQUES Conseils en électricité Choisir un interrupteur différentiel, type A, type AC ou type Hi?
+CONSEILS TRAVAUX ET METHODES PRATIQUES
+Conseils en électricité
+Choisir un interrupteur différentiel, type A, type AC ou type Hi?
+Par
+Guillaume
+-
+9 avril 2012
+140
+195637
+La norme NF C 15-100 impose l’utilisation d’interrupteurs différentiels dans les installations électriques domestiques. Lorsqu’il faut dimensionner le tableau électrique et choisir les protections, on s’aperçoit qu’il existe trois types de classes, l’interrupteur différentiel de type A, l’interrupteur différentiel de type AC et l’interrupteur différentiel de type Hi.
+Quelle type d’interrupteur différentiel choisir, et dans quel cas?
+L’interrupteur différentiel de type AC
+Il est utilisé pour la protection des circuits communs, ceux de l’éclairage et des prises électriques de la maison.
+Il est reconnaissable grâce au symbole AC inscrit sur l’interrupteur différentiel, au dessus du bouton de test.
+L’interrupteur différentiel de type A
+Il est utilisé pour la protection des circuits spécifiques ( qui peuvent induire un courant de fuite ou composante continue): Appareils électroménagers récents qui embarquent de l’électronique (Machine à Laver, plaque de cuisson).
+Il est reconnaissable grâce au symbole A inscrit sur l’interrupteur différentiel, au dessus du bouton de test.
+L’interrupteur différentiel de type Hi / Si ou Hpi
+Il est utilisé pour les appareils qui sont sensibles aux coupures de courant intempestives : congélateur, alarme, informatique.
+Il est reconnaissable grâce au symbole Hi Hpi ou Si inscrit sur l’interrupteur différentiel, au dessus du bouton de test.
+Interrupteur différentiel type A
+Quelle est la différence entre ces interrupteurs différentiels?
+La différence majeure vient du fait que le dispositif de type A vient détecter les composantes continues de l’installation électrique: Pour être clair, certains appareils récents crééent des courants continus sur le réseau domestique, qui peut venir perturber le dispositif différentiel (le faire déclencher).
+Le type HI possède lui possède une « Haute immunité« . Il est réglé de manière à éviter les déclenchements intempestifs, qui peuvent être problématiques pour des appareils comme le congélateur, l’alarme et l’informatique.
+La seconde différence qui va vous intéresser, le prix: Un interrupteur différentiel de type A coute en moyenne 20% plus cher qu’un interrupteur différentiel de type AC.
+Un interrupteur différentiel de type Hi Si ou Hpi vaut quant à lui 3 fois plus cher qu’un interrupteur différentiel de type AC.
+Si vous souhaitez aller plus loin dans la compréhension des éléments du tableau électrique, je vous conseille de lire l’article sur le tableau électrique en cliquant ici.
+L’interrupteur HPI est plus destiné aux applications plus sensibles de l’installation électrique (congélateur, informatique)
+Ou trouver de bon prix pour mes interrupteurs différentiels?
+Si les grandes surfaces de bricolage proposent des prix intéressants, c’est sur le net que se font les meilleurs affaires.
+Mais il faut savoir choisir son vendeur pour être sur de la qualité et de la provenance du produit.
+Je vous conseille pour cela de vous orienter ici vers le site de vente en ligne Domomat, c’est du 100% sûr.
+Comment tester un interrupteur différentiel?
+On me demande souvent quelle autre méthode que le bouton test peut être utilisée pour tester un interrupteur différentiel.
+Il existe pour cela un petit appareil, le multimetrix VT 35 (dont j’ai fait une revue complète ici). C’est un appareil très pratique qui permet aussi de tester les prises électriques.
+Il est conçu pour créer une fuite de courant de valeur variable: Au bout d’un certain seuil (inférieur à 30mA) l’interrupteur différentiel devra déclencher.
+TAGS
+NFC 15-100
+protection différentielle
+question en électricité
+Guillaume
+Electricien professionnel, je vous propose de partager mon métier, mes conseils et mes astuces à travers les différents articles de ce blog en électricité. Bonne lecture!
+140 COMMENTS
+Patrick 9 avril 2012 At 20 h 15 min
+fle problème de cet inter diff A, c’est que l’on ne sait plus vraiment où le placer…
+toute alimentation aujourd’hui est électronique (alimentation type « hacheur ») et donc perturbateur sur le réseau ondulé 50Hz.
+exemple,
+lampe économique –> alumage alim électronique
+chargeur portable –>alim électronique
+TV écrant plat –> alim électronique
+il y en a d’autre …
+tous ces produits retourne de la composante continu et surtout vienne augmenter l’échauffement du neutre dans une installation électrique.
+Exemple en industrie on double le neutre depuis quelques années … pour cette raison.
+Patrick
+Reply
+Guillaume D 9 avril 2012 At 20 h 32 min
+En effet, les problèmes liés aux harmoniques sont de plus en plus fréquents. (L’échauffement au niveau du câble de neutre est notamment dû aux harmoniques de rang 3 et multiples de 3).
+A l’avenir, il faudra composer de plus en plus avec l’électronique et les deux métiers viendront peut être à se rejoindre.
+Merci pour ce commentaire technique intéressant.
+Guillaume
+Reply
+tommy 25 août 2012 At 14 h 19 min
+Bonjour,
+Tout d’abord un grand merci pour toutes ce explications très claires.
+Concernant la valeur ( ex : 40A ) affiché sur les inter diff. je ne comprend pas à quoi elle correspond ,sur une ligne de module de mon installation j’en trouve meme un de 63A alors que mon contrat EDF n’est que de 30 A, quelque chose m’échappe.
+Merci
+Reply
+Guillaume D 25 août 2012 At 15 h 41 min
+La valeur indiquée en ampère sur l’interrupteur différentiel est la valeur du courant maximale que le dispositif est capable de supporter.
+Cette valeur ne rentre en aucun cas dans un rôle de protection.
+Pour votre interrupteur différentiel de 63A, cela indique que sur votre ligne, il y a probablement plusieurs appareils qui nécessitent de la puissance (et donc de l’intensité).
+Quand à votre abonnement cela signifie que la puissance distribuée est de 230Vx30A soit environ 6KW. En aucun cas, vous ne pourrez avoir plus de 6KW ou 30A distribué sur votre installation. Votre interrupteur différentiel de 63A est donc inutile dans votre cas, un 40A aurait suffit (vu votre abonnement)
+Reply
+David 27 avril 2018 At 8 h 23 min
+Dans le cas de Tommy, il ne s’agit pas d’un interrupteur différentiel, qui lui ne s’occupe que de la partie protection des personnes, mais d’un disjoncteur différentiel, qui lui protège les personnes ET les équipements.
+Pour résumé, Disjoncteur différentiel = disjoncteur + interrupteur différentiel
+Donc si il est écrit 63A sur l’appareil il s’agit d’un disjoncteur différentiel qui et, ici, inutile par rapport au réglage EDF
+Reply
+François 6 août 2018 At 11 h 44 min
+L’affirmation de David est FAUSSE. Une intensité maximale figure sur tout interrupteur différentiel (généralement 40 A, mais il existe des 63 A, en particulier pour les cuisines).
+Ceci ne dispense pas de mettre en aval de l’interrupteur différentiel des disjoncteurs adaptés à chaque appareil (16 A, 20 A, etc.)
+Reply
+Emile 21 juillet 2019 At 15 h 23 min
+Bonjour Tommy,
+Ton installation est actuellement limitée à 30 A, mais dans le cas d’un changement de contrat EdF (augmentation de la puissance ) cet appareil sera alors parfaitement indiqué et évitera une modification.
+Qui peut le plus…
+L’installateur à prévu cette augmentation éventuelle (rien n’est définitif) ce qui est une sage précaution et non une dépense inutile.
+Reply
+marc 5 janvier 2013 At 22 h 51 min
+Bonsoir,
+Je suis entrain de renover mon tableau, peut on mettre que du type A?
+Cordialement.
+Reply
+Guillaume D 6 janvier 2013 At 16 h 33 min
+Bonjour,
+Pas de problème particulier, le type A est juste plus cher à l’achat
+Reply
+jel 11 janvier 2013 At 15 h 06 min
+Il ne faut pas confondre le calibre (A : Ampère) d’un disjoncteur différentiel avec celui d’un inter différentiel.
+Dans le cas d’un disjoncteur différentiel, l’ampérage de protection (40A, 63A) joue un rôle de déclenchement sur dépassement de l’ampérage (protection en ‘échauffement’).
+Dans le cas d’un interrupteur différentiel, la valeur A correspond au maximum supportable par l’appareil lui-même.
+i.e. on peut toujours choisir plus.
+(La protection Amp est fournie par un disjoncteur [pur] associé, en série).
+Un différentiel de type A peut toujours remplacer un type AC. (mais plus cher)
+En sus, un différentiel peut être (ou non) sélectif : i.e. déclencher plus ou moins vite (mais dans les limites de sécurité.)
+L’idée étant que s’il existe deux différentiels en cascade, l’un (le non sélectif) déclenche avant, non les deux simultanément.
+(L’intérêt étant de faire en sorte d’intervenir sur un seul, le plus à portée.)
+Reply
+Guillaume D 12 janvier 2013 At 17 h 54 min
+Merci pour cet apport technique!
+Reply
+Harison 25 avril 2013 At 11 h 59 min
+Bonjour,
+J’aimerait savoir:
+Un interr diff de classe » A Si « se déclencherait-il moins de fois qu’un de classe AC montée en tête d’un même circuit?
+Merci
+Reply
+Guillaume D 29 avril 2013 At 20 h 58 min
+Bonjour,
+Le principe d’un interrupteur différentiel est de détecter la différence entre les deux conducteurs (phase et neutre)
+La différence entre certains interrupteurs différentiels vient du fait qu’ils prennent en compte certaines composantes annexes (composantes continues)
+Selon le circuit protégé, il se peut qu’un type d’interrupteur différentiel déclenche plus qu’un autre
+Cordialement
+Reply
+Fab2Rennes 22 mai 2013 At 10 h 17 min
+Bonjour,
+Je rebondis sur la question de Harison juste au-dessus et sur la réponse de Guillaume : tout n’est pas clair dans ma tête selon les expressions qui sont utilisées pour décrire justement ces inter diff de type A « qui prennent en compte » les composantes continues !
+Que signifie « prennent en compte » ? Est-ce que cela veut dire qu’un type A déclenche dès qu’une composante continue est détectée, ou bien au contraire, pour ne pas déclencher intempestivement, le type A est-il insensibilisé aux composantes continues ?
+Du coup, avec toutes ces alims électroniques sur nos réseaux aujourd’hui, comment se prémunir des déclenchements trop fréquents des inter diff ? Il faut du HPI partout ?
+J’ai un nouveau chauffe-eau solaire (electronic inside!) qui visiblement crée une perturbation sur mon inter-diff de type A (celui du réseau chauffage électrique et chauffe-eau) : il déclenche souvent sans raison apparente. Le chauffe-eau est neuf et ne présente apparemment aucune fuite ou suintement…
+Merci de votre aide ! 😉
+Reply
+Guillaume D 23 mai 2013 At 7 h 32 min
+Bonjour,
+Pour clarifier la situation, le type A autorise les composantes continues, et de ce fait, ne déclence pas intempestivement.
+Certes, il y a de plus en plus d’appareils électroniques sur nos réseaux aujourd’hui, mais une bonne partie utilisent des transformateurs dits d’isolement, qui séparent les deux parties du réseau (pas de transmission des composantes continues)
+Concernant votre chauffe eau solaire, il faudrait réaliser une mesure d’isolement afin d’être sur que ce ne soit pas un défaut qui provient du chauffe eau (même si aucun problème n’est apparent, comme un suitement, il se peut que le problème vienne d’ailleurs)
+J’espère vous avoir éclairé.
+Cordialement
+Guillaume
+Reply
+Fab2Rennes 23 mai 2013 At 13 h 55 min
+Merci Guillaume.
+Je vais déjà changer l’interdiff de ma section chauffage pour voir si le « vieux » est trop sensible ou non. Après, je procéderai par élimination pour le reste.
+Le chauffe-eau ne fait couper l’interdiff que lorsqu’il est en période de chauffe par sa résistance électrique, et ce, pas systématiquement tout de suite, c’est ça qui est pénible… Quand il fonctionne en mode solaire seul, la pompe tourne, tout fonctionne normalement et rien ne fait disjoncter.
+En mode chauffe par la résistance, ma pince ampèremétrique me mesure un courant continu de 10-15mA sur le fil d’alim qui part au chauffe-eau (9.1A en alternatif), mais ça fluctue beaucoup, donc je ne suis pas sûr que ça soit significatif comme mesure… D’autres appareils de la maison pourraient ajouter du parasitage qui ferait basculer l’interdiff peut-être…
+Pas simple en tout cas!
+Merci de ton aide.
+Cdlt
+Reply
+Fab2Rennes 24 mai 2013 At 11 h 01 min
+Pour info, j’ai remplacé hier mon vieil interdiff Schneider 63A/30mA Type A qui coupait trop souvent, par un nouveau Legrand 63A/30mA type AC pour toute la partie chauffage et chauffe-eau : ça ne coupe plus pour le moment, après une nuit de chauffe sans problème ! OUF !
+J’espère que ça a résolu mes soucis pour de bon !
+Merci pour vos conseils précédents,
+Cordialement
+Fab
+Reply
+Guillaume D 25 mai 2013 At 9 h 35 min
+Bonjour Fab,
+A priori, votre interrupteur différentiel était fatigué.
+Bonne nouvelle pour votre réparation!
+Guillaume
+Reply
+Fab2Rennes 28 mai 2013 At 10 h 37 min
+Bonjour,
+Mauvaise nouvelle, l’interdiff tout neuf a lui aussi sauté, la nuit suivante !
+Le fait qu’il n’ait pas sauté la veille aurait une explication qui après quelques jours « d’expérience » semble être une piste sérieuse : lorsque l’apport d’eau chaude par le solaire est importante, la résistance ne chauffe quasiment pas la nuit et donc ça ne saute pas !
+Mais quand la journée à été nuageuse et que la cuve du chauffe-eau s’est refroidie pas mal, alors le soir, la résistance doit bosser plein pot pour re-chauffer la cuve ! Et là, ça fait sauter l’interdiff au bout de plusieurs dizaines de minutes (jamais de suite).
+Tout semble mener à un soucis avec la résistance du chauffe-eau quand elle est très sollicitée…
+Le plombier et le fabricant doivent venir inspecter mon chauffe-eau dans les jours qui viennent.
+Au fait, Guillaume, une question : ma pince ampèremétrique mesure un courant AC d’env 100mA sur le fil de terre d’alim du chauffe-eau lorsque la résistance chauffe (rien en mode solaire seul), est-ce que ça te semble « normal » ou problématique ?
+Merci !
+A suivre !
+😉
+Fab
+Reply
+Guillaume D 2 juin 2013 At 9 h 31 min
+Bonjour Fabien,
+Je prends connaissance de votre réponse aujourd’hui seulement. J’espère que votre problème est résolu. Votre mesure sur le fil de terre semble par ailleurs très étrange, cette fuite de courant devant être détectée par l’inter diff.
+Tenez moi informé de la suite.
+GUillaume
+Reply
+Fab2Rennes 3 juin 2013 At 9 h 17 min
+Bonjour Guillaume,
+En effet, ce courant mesuré sur le fil de terre me surprend car il est supposé supérieur au seuil de déclenchement de l’interdiff (30mA), mais ma pince ampèremétrique n’étant pas un « modèle de compét' », je m’en méfie un peu et me dis que la pince est peut-être influencée par le fil de phase à proximité : quand la résistance est en chauffe, sur la phase j’ai 9.3A, ça doit rayonner un peu je pense.
+Les choses évoluent un peu bizarrement ces jours-ci : alors que la résistance faisait sauter après env 1h de chauffe, ça coupe maintenant après 10-15min seulement. Or, si je réenclenche l’interdiff de suite, ça ne re-saute pas de la nuit…
+Je n’ai toujours pas eu la visite du fabricant (Chaffoteaux) pour inspecter mon système. Ca urge un peu, j’aime franchement pas ça…
+Je peux comprendre ceci dit qu’un appareil neuf soit défaillant quelque part, ça peut arriver… Mais il faut une solution pour remettre tout ça en ordre.
+Dans l’attente de l’inspection…
+A suivre…
+Merci
+Fab
+Reply
+Guillaume D 6 juin 2013 At 16 h 57 min
+Effectivement, cela peut venir de la pince ampèremétrique. Qu’en est il de la vérification et de la visite du fabricant?
+Guillaume
+Reply
+Fab2Rennes 7 juin 2013 At 13 h 55 min
+Première visite de contrôle effectuée, gros soupçons sur la résistance stéatite, mais les 3 résistances du bloc mesurées sont conformes et équilibrées. En chauffe, il y a supposition de déformation de l’une d’entre elles, qui toucherait l’armature et ferait sauter le 30mA…
+Semaine prochaine, RDV programmé pour changement de ladite résistance.
+Espérons que ce soit bien ça !
+Heureusement qu’on a du soleil en ce moment, toute mon eau sanitaire est fabriquée au solaire depuis 1 semaine ! Ca évite de gérer les sautes d’humeur de la résistance !
+Cdlt
+Fab
+Reply
+ray 28 juin 2013 At 20 h 05 min
+Bonjour,
+pour ma part je pense utiliser des HPI (Type A pour circuits spéciaux….) à la place de mes AC.
+Est ce compatible avec les normes?
+Merci
+Reply
+Guillaume Denis 30 juin 2013 At 15 h 49 min
+Bonjour,
+Rien ne vous empêche au niveau de la norme d’utiliser des interrupteurs différentiels HPI, mis a part le prix!
+Guillaume
+Reply
+FAB 27 28 août 2013 At 12 h 39 min
+Bonjour,
+Je vous remercie pour ces éléments de réponse factuels, enrichis de commentaires pertinents, qui me sont fort utiles dans le cadre d’une rénovation d’installation électrique ; notamment en ce qui concerne le choix des disjoncteurs différentiels « A » et « AC ».
+Reply
+Guillaume Denis 1 septembre 2013 At 9 h 16 min
+Avec plaisir!
+et merci pour le commentaire
+Guillaume
+Reply
+Christophe 5 janvier 2016 At 20 h 01 min
+Bonsoir .
+J’aimerais remplacer les différentiels ,ainsi que les porte-fusibles de mon installation des années 80 par des disjoncteurs modernes .
+Comme sur cette installation ancienne, seules les phases sont protégées, que dois-je acheter comme types de disjoncteurs et différentiels ??
+Merci !
+Reply
+Guillaume 6 janvier 2016 At 7 h 09 min
+Bonjour,
+D’après ce que vous me dites, je pense que vous avez des protections unipolaires avec une barrette de répartition de neutre commun au niveau du tableau électrique
+Dans ce cas, il vous faut suivre les instruction qui sont dans cet article
+Reply
+Jean-Marc 9 février 2016 At 11 h 02 min
+Bonjour Guillaume,
+Merci pour ce blog très intéressant. J’ai acheté les guides qui apportent aussi plein de bonnes informations.
+J’aimerais malgré tout confirmer certains points pour l’installation électrique de la piscine de mon fils que je vais lui réaliser à savoir :
+1 tableau divisionnaire alimenté par un câble de 10 mm² (distance depuis le tableau de la maison 20/25m env.) avec 1 disjoncteur de protection de ce câble sur le tableau de la maison de 2x40A (éléments demandés par le pisciniste).
+Sur le tableau divisionnaire le pisciniste demande 1 interrupteur différentiel, 3 disjoncteurs 10A, 1 disjoncteur 16A et 1 disjoncteur « DT40 courbe C … » pour la pompe à chaleur. Je vais y rajouter 1 disjoncteur 16A pour alimenter 2 prises de courants qui serviront occasionnellement.
+–	Concernant le « DT40 courbe C » pour la pompe à chaleur, le Comptoir Electrique Français me propose un disjoncteur 20A – Hager – NGT720 – 1P + N 6-10kA courbe D. Ce disjoncteur convient-il ?
+–	Concernant l’interrupteur différentiel, le pisciniste précise qu’il préfère un 2x63A. J’ai été tout d’abord surpris car le câble est de section 10 mm² et de plus protégé par un 2x40A sur le tableau de la maison. Vos commentaires sur le blog me laissent penser que ce n’est pas gênant. Est-ce le cas ?
+Le type AC suffit-il (car pompe à chaleur) ?
+–	Concernant le passage du câble de 10 mm² en plafond du sous-sol de la maison, des tubes IRL diamètre 25mm sont-ils adaptées ?
+Merci d’avance pour vos réponses.
+Reply
+Guillaume 9 février 2016 At 15 h 07 min
+Bonjour,
+Le disjoncteur que vous propose votre fournisseur me paraît correct
+Pour le différentiel en 63A, c’est surdimensionné vis à vis de la protection en 2x40A.
+Pour le type, vérifier avec les préconisations de la PAC (normalement AC Ok)
+Pour le câble 10mm2, je pense que la gaine ICTA sera très juste, car il faut prendre en compte les éventuelles courbures – je partirai plutôt sur du 32mm. Si il s’agit de fil 10mm2, cela peut suffire.
+Guillaume
+Reply
+Jean-Marc 9 février 2016 At 17 h 35 min
+Merci beaucoup pour ces réponses.
+– L’ID de 63A est surdimensionné mais ce n’est pas dangereux ?
+– Pour l’acheminement du câble je peux donc mettre 3 fils de 10 mm² au lieu d’un câble de 3x10mm² si je veux garder une gaine de 25mm ?
+Encore merci.
+Reply
+Guillaume 9 février 2016 At 17 h 40 min
+La protection amont est de 40A, ce n’est donc pas dangereux en soit mais c’est surtout pas cohérent.
+Il faut installer un 40A à la place du 63A (cela vous fera faire des économies)
+3 fils de 10mm2 devraient pouvoir circuler dans de la gaine ICTA de 25mm2
+Cordialement
+Reply
+Tof 23 février 2016 At 21 h 03 min
+J’ai installer 3 différentiels 1 pour les lampes 1 pour les prises et 1 pour les machines. Pourquoi lors d’un orage un éclair un peu proche arrive à faire déclencher l’un ou l’autre de les différentiels ? Quel rapport ? Surtout que j’ai un parafoudre en amont sur ce tableau .. Quelqu’un a une idée ?
+Reply
+alain 9 mars 2016 At 15 h 53 min
+bonjour , j’ai 2 inter diff. de type A ,2 inter de type AC et 1 inter de type HPI à installer .est ce que je peux mettre que des I D de type HPI ? MERCI
+Reply
+Guillaume 10 mars 2016 At 21 h 53 min
+Bonjour,
+C’est une bonne question puisque l’interrupteur différentiel HPI, possède les caractéristiques du type A avec un peu moins de sensibilité que ce dernier.
+Je pense néanmoins qu’au sens strict de la norme, il faut au moins un type A pour les machines spécialisées (prise de cuisson et lave linge)
+Cordialement
+Guillaume
+Reply
+Francis 14 mars 2016 At 8 h 16 min
+Bonjour,
+Je suis en rénovation électrique pour un ancien appartement de 60 m2
+Un électricien me propose un inter dif de 63 ampères
+Un autre 2 de 40 ampères pour séparer les circuits
+Quel est la meilleure solution
+Merci de votre aide
+Cordialement
+Francis
+Reply
+Guillaume 14 mars 2016 At 15 h 58 min
+Bonjour,
+Les deux de 40A me paraissent mieux au niveau de la répartition des circuits et de la continuité d’utilisation (avec un seul interrupteur différentiel, si il y a un problème, c’est toute l’installation qui sera sans alimentation)
+Cordialement
+Guillaume
+Reply
+Martial 30 avril 2016 At 7 h 19 min
+Bonjour à tous,
+Guillaume, encore bravo pour ce blog et je vois que tu as matière à répondre ….^^)
+J’aurais deux questions :
+Quelle est est la réelle différence entre un interrupteur et un disjoncteur? je vois bien que sur les symboles schémas ne sont pas les mêmes….
+et après, comment interpréter les types (A, AC, B…) et les courbes de déclenchement (A, B, C…)?
+si quelqu’un à une réponse assez simple …^^).
+Bonne journée et merci
+Reply
+Guillaume 1 mai 2016 At 7 h 48 min
+Bonjour,
+Un disjoncteur sert à protéger les biens contre les surcharges et les court-circuits
+L’interrupteur différentiel, sert à protéger les personnes (contre les défauts d’isolation / fuite de courant)
+Pour les courbes, je vous invite à lire cet article.
+Cordialement
+Guillaume
+Reply
+JEANMI2PLOUF 19 mai 2016 At 23 h 26 min
+Bonsoir
+Que ce blog continue mais surtout soyez simple et clair : je m’explique
+Interrupteur Différentiel : Comme son nom l’indique il est interrupteur soit coupure ou établissement (ouverture / fermeture d’un circuit)
+et qu’il a été construit pour protéger les « biens » mais « aussi les personnes » (si une fuite de courant vers la carcasse d’un convecteur électrique, un micro-onde, un four(cuisinière), lustre métallique, lave-linge ou vaisselle, réfrigérateur, Seiche linge, chauffe-eau, chaudière, plaques de cuisson (ancienne car aujourd’hui elles sont en verre(isolant))…tout ce qui est constitué d’une carcasse métallique).et que ce dernier est raccordé à la terres (fils vert/jaune) le disjoncteur aura déclenché avant que vous ne touchiez cette carcasse (contact indirect= protection des biens) (pour la protection des personnes ou contact direct = quand vous touchez le potentiel/fils phase ou neutre (fils) ou bien la fameuse carcasse métallique quand elle n’est pas raccordée à la terre et que l’isolant d’un fils a craqué et est donc en contact avec la carcasse (cela fera donc déclencher la l’interrupteur différentiel)
+Les disjoncteurs différentiel de tableau électrique nommé aussi tableau de répartition ne peuvent être sélectif (seul les disjoncteurs de branchements posés par ERDF peuvent l’être et sont posés systématiquement sur une installation neuve ou rénovée (protégée par des disjoncteur différentiel 30mA) pourquoi c’est très simple: sur défaut les 2 différentiels en série dit aussi en cascade = 2 déclenchementS (le sélectif est retardé (peut être de l’équivalent d’une demie seconde)) (donc s’il voit le défaut celui-ci aura été effacé par le 30mA (plus rapidement) (pratique quand ce disjoncteur de branchement (ERDF) est dans un coffret en limite de propriété et qu’il faut sortir avec un tourne vis de gros calibre pour ouvrir ce coffret afin de le réenclencher) (il faut le savoir aussi, mais en signant une dérogation (ERDF n’est peut être pas chaud pour le systématiser (mais le fait) et informer le client mais c’est possible) un disjoncteur de branchement (ERDF) peut être dépourvu de la fonction différentiel (dit non-différentiel) (sans l’organe de contrôle différentiel) et donc peut seulement faire office de disjoncteur réglable à la puissance souscrite et agira dans son but premier c’est a dire de limiter votre appel d’énergie mais aussi de votre abonnement) ( a savoir qu’un interrupteur différentiel 63A est imposé par le CONSUEL dans le tableau de répartition car tout branchement (borne(ou coffret) en limite de propriété est d’office (depuis l’année ?) alimenté en triphasé 60A par phase soit 3 x 12 Kilowatts + le neutre (c’est bien là la raison du 63A)
+et Différentiel : mesure la différence entre ce qui entre et ce qui sort (si vous voulez ce qui transite dans les 2 sens entre la phase et le neutre(il contrôle l’entrée et la sortie et si différence (différentiel) il déclenche)
+Explication par le calcul : Si P=UxI soit
+La Puissance en watts = La Tension (U) en Volts Multipliée par L’intensité (I) en Ampères
+Alors P = 230v x 0.03A = 6,9 watts maximum de différence car dès 6,9 W ou 30mA déclenchement (rien a voir avec la Tension en Volts qui elle est invariable (dans l’absolue bien sûre))
+C’est a dire qu’en atteignant une différence entre le neutre et la phase (ou entre ce qui entre et ce qui sort du circuit / de ce qui arrive (phase) et ce qui en sort (Neutre)) est supérieure a 6,9 watts soit l’équivalent de 2 lampe LED (exemple) = déclenchement équivalent a ce que réalise le fameux bouton test (et oui ce bouton dont il est conseillé d’utiliser 1 fois par mois et qui vous met toutes les horloges de la maison en rideau)(attention aussi que: si le bouton test ne fait pas déclencher votre interrupteur différentiel cela ne veut pas dire que le différentiel est défectueux: en effet générer un défaut et le système de contrôle sont bien 2 choses différentes c’est pourquoi il existe un appareil décrit plus haut le multimetrix VT 35 par exemple qui est capable de générer un défaut (certain le font variable (ce qui permet de contrôler la finesse de l’interrupteur différentiel(déclenchement plus sensible 20mA par exemple ou au contraire plus tardivement 50mA par exemple(de mémoire même a 30mA l’arrêt cardiaque est assuré médicalement parlant (l’homme est déjà en danger a 10mA il me semble(seuil de sensibilité qui sera certainement imposé a terme (année ?)) mais aussi de contrôler si la terre de la prise de courant est bien raccordée a la terre globale (piquet) car présence de fils de terre ne veut pas dire raccordé à la terre et contrôle aussi si la présence du neutre a gauche et la phase a droite (demandé aussi par le CONSUEL)
+Par contre sans appareil capable de générer un défaut test tel que le multimetrix VT 35 par exemple si un 30mA ne réagis pas au bouton test il doit être changé
+Alors si vous avez bien compris différentiel = contrôle d’une fuite de courant si supérieur a 6,9 w=30milliAmpère=0,03Ampère= déclenchement
+Les courbes:
+Courbe A : a poser avant les départs direct(1 disjoncteur divisionnaire = 1 fils direct à la prise (pas de passage d’une prise a l’autre) (ceux qui alimentent les plus gros consommateurs d’énergie tel que lave et seiche linge, plaque de cuisson, four, et pourquoi pas le chauffe-eau…)(cela vous rendra le câblage plus aisé(voir plus bas) en placent en bout de peigne les disjoncteurs divisionnaire 2A et 10A (protection bobine et protection puissance juste avant le contacteur chauffe-eau)
+Courbe AC: pour le reste de l’installation de la maison (moins couteux)
+A savoir que pour un passage de CONSUEL depuis janvier 2016 c’est maximum 8 disjoncteurs divisionnaire maximum par interrupteur différentiel
+Donc dans un tableau de répartition il restera 3 modules libre par rangée sauf la rangée où se trouve le contacteur chauffe eau 2 modules libre au minimum (alors pourquoi faire des peigne de 13 modules = c’est très simple il n’y a pas que l’€urope de l’ouest )
+Alors préférez du matériel de qualité (par exemple interrupteur différentiel où l’entré et la sortie des fils se font en haut(câblage tellement facilité (cela ne se mesure pas je vous l’assure) et/ou bien un tableau de répartition de marque aussi qui serait équipé d’un jeu de barre(c’est a dire que ce n’est pas a vous de réaliser la liaison électrique entre le bornier du haut du tableau (parfois absent sur les pas cher) et les interrupteurs différentiel qui cette fois ont bien souvent l’entrée électrique par le bas (un volet de couleur couvrira(plombable aussi) les vis de serrage ce qui alertera la personne en intervention (même si une VAT (vérification d’absence de tension) doit être réalisée avant la moindre intervention))
+A savoir aussi qu’en achetant de la marque
+Si vous devez remplacer un interrupteur différentiel
+En trouver un qui va à la place(même marque) (écartement entre les bornes de serrage phase-neutre) sera garanti = moins de bidouille car s’il y a bien un endroit où faire des concessions-conneries… est révolu-impossible-impensable-inenvisageable…
+Mes 2 astuces de tableautage:
+1-Positionner les disjoncteurs divisionnaire en alternance si 16A(prises de la chambre) sur la rangée du haut alors le disjoncteur divisionnaire 10A (éclairage de la chambre) juste en dessous: le but = il y aura toujours quelque chose qui fonctionnera dans la chambre en cas de disjonction d’un des interrupteurs différentiel et repérage plus aisé lors de la maintenance ou recherche de panne,pour la chambre suivante inverser le 10A et le 16A…
+2-l’astuce logique: vous positionnez vos éléments dans le tableau MAIS les modules libres peuvent être au milieu comme au début ou a la fin aussi privilégiez de créer un espace libre au milieu (amélioration de l’échange calorifique) et surtout cela vous évitera de couper les peignes (isolez les dents libre une a une avec un bon scotch) vous aurez un tableau évolutif a moindre frais (coût & travail)
+Ha j’oubliais: différence entre interrupteur différentiel et disjoncteur différentiel
+Par construction le Disjoncteur Différentiel est plus costaud mais prend 2 fois plus de place(4 modules) puisque le différentiel (30mA) est un élément accolé au disjoncteur ce qui permet de construire des contacts interne plus robuste et là on parle de pouvoir de coupure supérieur
+Je lisais plus haut déclenchement intempestif mon œil ? en effet depuis très longtemps les disjoncteurs sont construit étanche a l’air et pas qu’un peu. Et oui l’idée est que le systeme-organe-petite pièce (crochet métallique maintenu en place avec un petit ressort) qui maintient le contact fermé) ne puisse être sensible au coup de tonnerre ou foudre (lors de se phénomène naturel la pression atmosphérique augmente violemment et vite ce qui produisait déclenchement de ces petits systèmes très sensible ( la preuve en cas de difficulté a réenclencher un disjoncteur de branchement (propriété d’ERDF) il vous est demandé, s’il est de couleur autre que beige ou de marque ? de lui donner une grande claque sur le coté et d’essayer de « réarmer ce fameux disjoncteur » si cela tient cela temporise l’intervention pour changement un disjoncteur de branchement récalcitrant (réenclenchement impossible) est changé gratuitement (ben oui ça sert a cela l’abonnement)
+Reply
+Guillaume 20 mai 2016 At 7 h 33 min
+Bonjour,
+Je vous remercie pour ce commentaire qui a du vous prendre beaucoup de temps
+Remarque constructive et précise, merci!
+Guillaume
+Reply
+Lourmiere 12 octobre 2017 At 12 h 11 min
+Bonjour.
+J’ai quelques données que je ne comprends pas dans votre commentaire et sont en contradiction avec ce que je pensais savoir. Du coup je les pose pour mieux comprendre où je me trompe dans ma vision des protections électriques..
+« Interrupteur Différentiel : Comme son nom l’indique […] et qu’il a été construit pour protéger les “biens” mais “aussi les personnes” (si une fuite de courant […] et que ce dernier est raccordé à la terre le disjoncteur aura déclenché avant que vous ne touchiez cette carcasse »
+1) Vous parlez d’un ID et finissez votre phrase par DD.
+2) J’ai toujours transmis que la fonction différentielle, dans le cas de l ID 30mA, n’assurait que la protection des personnes (courant de fuite) et la fonction « disjoncteur » la protection des biens. Fonctions non présente dans le cas de l’ID (Interrupteur Différentiel).
+« (contact indirect= protection des biens) (pour la protection des personnes ou contact direct = quand vous touchez le potentiel/fils phase ou neutre (fils) ou bien la fameuse carcasse métallique quand elle n’est pas raccordée à la terre et que l’isolant d’un fils a craqué et est donc en contact avec la carcasse (cela fera donc déclencher la l’interrupteur différentiel) »
+Là j’avoue que les égalités comme ça me semblent là aussi pas forcément exactes.. Protection contre les Contacts indirect = protection des personnes selon moi. En effet, une carcasse conductrice peut être au potentiel de la phase et représenter un danger pour l’utilisateur qui sera victime d’une électrisation par contact indirect… Le terme « contact indirect » s’emploi généralement lorsqu’on parle d’un potentiel provenant d’un élément qui n’est pas prévu comme conducteur actif de votre installation électrique. En effet, ce dernier n’envisageais pas qu’en mettant son linge dans son lave linge il serait électrisé. Le courant de fuite est donc bien mesuré pour protéger les personnes.
+Un inter différentiel protège les personnes contre les contacts indirect à un courant de fuite compris théoriquement entre 15 mA et 30mA s’il fonctionne.
+« de mémoire même a 30mA l’arrêt cardiaque est assuré médicalement parlant (l’homme est déjà en danger a 10mA il me semble »
+Ce que je pensais concernant les effets du courant électrique sur l’homme :
+0.5mA : Perception faible.
+10 mA : contraction musculaire
+30 mA : seuil de paralysie respiratoire (diaphragme)
+75 mA : seuil de fibrillation cardiaque
+1 A : Arrêt du cœur.
+« Courbe A : a poser avant les départs direct(1 disjoncteur divisionnaire = 1 fils direct à la prise (pas de passage d’une prise a l’autre) (ceux qui alimentent les plus gros consommateurs d’énergie tel que lave et seiche linge, plaque de cuisson, four, et pourquoi pas le chauffe-eau…) »
+La courbe A n’est-elle pas voué à traité les courants de fuite à composantes continu ? En effet, on y met les plaques de cuisson, le lave linge.. mais mon interrogation porte sur les composantes continu..
+» j’oubliais: différence entre interrupteur différentiel et disjoncteur différentiel
+Par construction le Disjoncteur Différentiel est plus costaud mais prend 2 fois plus de place(4 modules) puisque le différentiel (30mA) est un élément accolé au disjoncteur ce qui permet de construire des contacts interne plus robuste et là on parle de pouvoir de coupure supérieur »
+La différence n’est elle pas uniquement dans le fait que l’un a la fonction disjoncteur en plus de la fonction différentielle ? Qu’il coûte donc 2 fois plus cher et qu’on doit de toute façon quand même placer des disjoncteur par départ afin d’assurer une meilleure protection / sélectivité dans notre coupure de circuit ? Qui peut le plus peut le moins mais bon… La qualité du matériel défini le pouvoir de coupure ? Je croyais que le fabriquant assurait ca suivant son produit et que bien d’autres paramètres entraient en compte comme l’écartement entre les contacts internent qu’on écarte, la présence de ressorts puissants etc etc. Tout comme un fusible 20 A pour du 20 kV est bien plus grand qu’un 20A domestique.
+Enfin un collègue me maintient qu’un Inter Dif 30mA protège bien et personnes (pour moi que personne) car en tertiaire on met des Inter Dif 300 mA qui assureraient la protection des biens uniquement, selon lui, l’éclairage étant hors de portée des utilisateurs.
+Bref je me pose des questions sur pourquoi le 300mA en tertiaire alors que des luminaires pourraient tomber et donc électriser des gens.
+Quel est l’impact de la traversée d’un courant de faible intensité sur des masses.
+Il fut un temps, le différentiel n’existait pas et, d’après moi, pas de soucis à avoir du courant de fuite sur des masses hormis l’électrisation par contacts indirects, donc rien de dangereux pour le matériel.. Le courant de fuite (et donc la fonction différentielle) assure-t’il la protection des biens.
+Reply
+christophe 5 août 2016 At 14 h 51 min
+bonjour je refait le tableau electrique pour ma nouvelle cuisine ,je voudrais savoir quel type de disjoncteur differentiel mettre pour ma plaque de cuisson,lave vaisselle,hotte et frigidaire et la courbe,et aprés pour les prises et l’eclairage merci d’avance.
+Reply
+Carminas 6 août 2016 At 6 h 55 min
+Bonjour
+Relisez bien l’article, tout est expliqué :
+– ce sont des interrupteurs différentiels 30mA qu’il vous faut, pas des disjoncteurs différentiels.
+– la plaque de cuisson doit obligatoirement être sous un type A, les autres circuits peuvent être sous un type A ou un type AC
+Si vous ne mettez qu’un seule interrupteur différentiel 30mA pour tous vos circuits cuisine : plaque, four, lave-vaisselle, hotte, réfrigérateurs, prises classiques, éclairage… prendre un interrupteur différentiel 30mA 63A type A.
+A noter qu’il n’y a pas d’obligation de dédier des circuits à la hotte et au réfrigérateur (mais pas interdit non plus)
+@+
+Reply
+loic noyer 21 novembre 2019 At 11 h 16 min
+Même dans la 16-600 je suis obligé de mettre un type A. car j’ai déjà un type AC 63A , pour l’ensemble, qui avait été installé.
+Suis je reéllement obligé de le remplacer par un type A. dans la 16-600 c’est pas clair, pour moi.
+Reply
+loic 21 novembre 2019 At 11 h 29 min
+Svp Carminas , Autre question: pour des raisons de neutre appairées, puis je laisser sous mon meme 63A 30ma , 12 disjoncteurs divisionnaires? je suis dans un T2 de 40 m²..le tout sous un DB 15-45A 500ma. ( toujours en 16-600). Merci d’avance pour votre réponse, ainsi que pour ma question précédente.
+Reply
+Carminas 21 novembre 2019 At 20 h 38 min
+Aucun problème c’est un critère de confort pour qu’en cas de coupure de l’ID, on n’est pas une trop grosse partie de l’installation qui soit HS
+Reply
+Carminas 21 novembre 2019 At 20 h 37 min
+Bonjour
+La 16-600 n’oblige rien.
+C’est un descriptif des contrôle effectué lors d’un diagnostic (qui n’est indicatif)
+Je n’ai pas le texte sous les yeux (trop cher)
+Autrefois dans les guides de mise en sécurité Promotelec, il y avait une phrase qui disait :
+– tout ajout ou remplacement d’un différentiel 30mA protégeant les circuits lave-linge et plaque de cuisson doit conduire à la mise en oeuvre d’un type A.
+– lorsque l’installation est protégée par un seul différentiel 30mA placé en tête, celui-ci doit être de type A.
+Reply
+loic 22 novembre 2019 At 12 h 51 min
+Bonjour Carminas, tout d’abord. je voulais vous dire que ça fait des années que je vous lis sur pas mal de forum, en commençant par volta.
+Ensuite je suis tomber ici, via google car cette question du type A me travaille depuis bien longtemps. Merci de votre reponse ultra reactive.
+je ne pige pas trop quand vous dites la 16-600 n’oblige rien, si je lis « lorsque l’installation est protégée par un seul 30mA placé en tête, celui ci doit être type A ». pour mon cas un elec auparavant a placé un inter diff mais AC, je suis tenu de le remplacer? ou comme vous dites juste avant, la 16-600 n’oblige rien. je m’excuse de vous faire répéter.
+j’ai en ma possession le guide fedelec et CNEE (guide des travaux , mise en secu pour logement existant) , faisant foi d’un point normatif au même titre que le promotelec. et je ne trouve pas de precision. ni cette fameuse phrase « lorsque..doit etre de type A ».
+dailleurs si le type AC declenche plus intenpestivement, d’un point securité a la personne , c’est favorable (a mon sens) ?
+Reply
+Carminas 22 novembre 2019 At 19 h 43 min
+Le NF C16-600 n’est pas une norme d’application obligatoire.
+C’est une norme de bonnes pratiques pour sécuriser un logement.
+Le guide en question, c’est le guide Promotelec « Installations Electrique des Logement Existants » de 2009.
+C’est un peu ancien, mais peu de raisons que cela ait changé sur le fond.
+Un type AC au contraire déclenche moins souvent.
+Il ne détecte pas les défauts de courant continu.
+Reply
+loic 23 novembre 2019 At 22 h 39 min
+Merci à vous !
+Reply
+Yann 20 septembre 2016 At 16 h 02 min
+Bonjour,
+Un modeste apport sur le choix du type de différentiel. Il est aussi important de regarder les prescriptions du constructeur de l’appareil que l’on veut mettre après. Par ex., je viens d’acheter une machine à laver le linge, le constructeur exige un type de différentiel précis pour le bon fonctionnement de l’appareil. Comme quoi, il est important de ne pas se limiter à la norme, mais surtout de bien faire attention à ce que l’on veut brancher derrière.
+Pour illustrer, j’ai dû intervenir à plusieurs reprises en dépannage pour des prises qui ont chauffé car elle ne supportait pas l’intensité de l’appareil ( appareil 20 A pour une prise 16 A).
+Ces deux ex. sont surtout pour illustrer le vrai travail d’un électricien, à savoir calibrer l’installation par rapport aux besoins du client.
+Reply
+patrice 13 novembre 2016 At 19 h 51 min
+merci beaucoup pour l’astuce,c’est vraiment instructif .merci encore
+Reply
+Jbay 31 janvier 2017 At 13 h 24 min
+Bonjour
+Certes on parle ici d’interrupteur différentiel , mais j’ai une autre question concernant le Dijoncteur differentiel ,que veut dire . 6 ou 10 ka ,je possède un Dijoncteur Legrand 25 À. Serie 6000. 10 ka
+Puis je utiliser celui pour mon habitation ? Je vous remercie d’ores et déjà pour vos réponses
+Reply
+JP95 5 mars 2017 At 9 h 17 min
+Bonjour,
+Je cherche à isoler au maximum l’alimentation électrique de ma chaîne hifi qui est composée de matériel très haut-gamme, très onéreux. C’est ce qui coûte le plus cher dans la maison. Mes objectifs sont :
+– Offrir la meilleure protection à mon installation HIFI
+– Obtenir un « flux » électrique le plus pur possible dès le tableau électrique
+Actuellement, la ligne est sur du 16A avec un inter diff de 63A de type A.
+Si je l’isole, est-ce qu’un couple Inter Diff de 40A de type HPI + un disjoncteur de 20A serait le meilleur choix?
+Ou bien est-ce qu’un inter diff de type A ou AC serait en mesure de détecter/prévenir davantage de défaut (problème électrostatique provenant un ampli d’une box ou d’une source par exemple)? ==> je n’arrive pas à comprendre si le HPI protégerait davantage en détectant davantage d’anomalies ou micro-anomalies, ou bien si au contraire, il se déclencherait moins.
+Pour finir, comme écris plus haut, je passerais sur un disjoncteur de 20A au lieu de 16A pour garantir plus de puissance. Mon ampli de puissance utilise d’ailleurs un câble de type 20A.
+Est-ce le bon choix?
+Autre idée complémentaire : installer un parafoudre sur cette ligne.
+Un grand merci pour votre aide précieuse et bravo pour votre blog.
+Reply
+Guillaume 5 mars 2017 At 9 h 51 min
+Bonjour,
+J’opterai pour un disjoncteur différentiel type AC. (le HPI étant plutôt dédié à l’informatique).
+Vous pouvez également installer un parafoudre en complément pour protéger contre les surtension.
+Reply
+Carminas 5 mars 2017 At 11 h 45 min
+Bonjour
+Le HPI va minimiser les coupures.
+Si c’est ce que vous recherchez, il faut en utiliser un
+Si au contraire vous voulez que, par précaution cela coupe au moindre défaut, mettez un type AC.
+Soit vous mettez un disjoncteur différentiel 30mA , soit vous mettez un interrupteur différentiel 30mA + un disjoncteur.
+Pour le calibre, 16A vous autorise 3600W. Je suppose que cela suffit pour votre matériel.
+Si ce n’est pas le cas et que vous mettez 20A (4600W) assurez vous que le circuit est bien en 2,5².
+Reply
+lise 22 mai 2017 At 22 h 15 min
+bonjour guillaume
+pour un conseil je voudrais savoir pour un appartement de 65 m2 combien je dois mettre de differentiels
+j(ai un chauffage au gaz qui est raccordé sur un tableau à part des parties communes
+merci pour votre aide
+lise
+Reply
+Guillaume 23 mai 2017 At 16 h 50 min
+Bonjour,
+Au moins deux, voir trois. Tout dépend de vos besoins exacts.
+Cordialement
+Reply
+Carminas 23 mai 2017 At 18 h 06 min
+Bonsoir
+La norme a changé et le minimum de différentiels ne dépend plus de la surface, mais du nombre de disjoncteurs, sachant qu’on peut mettre au maximum 8 disjoncteurs par différentiels.
+La première étape est de recenser les circuits pour connaitre le nombre et la nature des circuits puis d’en déduire le nombre et de type de différentiels à acheter.
+Reply
+franck 24 mai 2017 At 14 h 45 min
+Bonjour,
+Suite à une visite du CONSUEL de ce jour, il est impératif que l’interrupteur différentiel 40A de type A ne contiennent pas plus de 2 disjoncteurs supplémentaires à ceux du lave linge et de la plaque de cuisson; donc 1 maximum de 4 disjoncteurs.Sinon il faut placer un interrupteur différentiel de type A d’intensité 63A.
+Cordialement.
+Reply
+Carminas 25 mai 2017 At 16 h 49 min
+C’est bizarre ce que vous dites car cette règle n’existe plus depuis l’amendement A5 (en tout cas plus sous cette forme).
+À moins que le permis de construire associé à ce contrôle du consuel soit antérieur au 27/11/2015.
+Reply
+boukalala 1 juillet 2017 At 19 h 30 min
+bonjour
+je ne comprends pas la différence entre un inter diff de 40 a et 63 a ? comment les choisir , que peut-on mettre derrière
+c’est pour une installation d’un magasin de 180 m2 avec éclairage , prises de courant pour ordinateur et pour le chauffage clim l’installateur à posé sur le tableau un inter diff de 40 a type ac
+merci de votre réponse
+Reply
+Carminas 2 juillet 2017 At 12 h 16 min
+Bonjour
+C’est simple le courant assigné de 40A ou 63A correspond à l’intensité maxi que l’interrupteur différentiel encaisse avant de se détériorer.
+Vous êtes dans un ERP. La somme des calibres des disjoncteurs en aval de l’interrupteur différentiel doit être inférieure ou égale au courant assigné de celui-ci.
+Un 63A, vous permettra donc de mettre plus de circuits ou des circuits de plus forte puissance.
+Reply
+Lourmiere 12 octobre 2017 At 13 h 52 min
+Tu comptes la somme des valeurs nominales de tes disj / 2 sauf pour le groupe « bic » (Ballon d’eau chaude, IRVE, Chauffage) où tu ne divises pas par 2.
+Exemple :
+20 A Chauffe Eau => 20
+20 A PC => 10
+20 A PC => 10
+=> Tu peux mettre un 40 A
+Reply
+Carminas 12 octobre 2017 At 20 h 12 min
+Bonjour
+Cette règle n’est valable que dans le cas de locaux d’habitation, ce qui n’est pas le cas du commentaire de boukala
+Reply
+boukalala 2 juillet 2017 At 17 h 33 min
+donc si en aval de mon inter diff de 40 A je ne peux pas mettre + de 4 disjoncteurs de 10 A ( exemple 4 circuits lumières ) ?
+Reply
+Carminas 2 juillet 2017 At 19 h 27 min
+Oui dans un contexte de locaux tertiaires.
+Ce serait différents en locaux d’habitation.
+Reply
+Lourmiere 12 octobre 2017 At 13 h 53 min
+Non c’est faux, il y a des coef à respecter. Je t’ai mis un calcul simple au dessus.
+Reply
+Nicolas Lourmiere 4 décembre 2017 At 15 h 24 min
+je suis un ane ^^ j’étais dans le cas du domestique 😀
+Reply
+Alan 11 juillet 2017 At 21 h 05 min
+Bonjour Guillaume,
+Que conseillez-vous pour le choix du calibre de l’interrupteur différentiel ? en sachant que nous avons le choix entre
+1/ choisir une intensité nominale supérieur ou égal à l’intensité nominale du disjoncteur de branchement (ex: si le disjoncteur de branchement est à 45A alors choisir du 63A)
+2/ choisir en fonction de ce qu’il y a en aval (avec le formule : somme des calibres des disjoncteurs alimentant le chauffage direct, le chauffe-eau et la prise de recharge de véhicule électrique + 0,5 fois la sommes des disjoncteurs alimentant les autres circuits).
+La 1ère solution semble plus simple mais peut-être plus onéreuse, mais cela reste à confirmer en fonction du tableau de répartition.
+Merci.﻿
+Reply
+Guillaume 12 juillet 2017 At 17 h 43 min
+Bonjour,
+Je choisis toujours la première solution: non pas par fainéantise, mais plus parce que les besoins évoluent parfois, avec des disjoncteurs rajoutés en fin de rangée.
+Cordialement
+Reply
+Alan 12 juillet 2017 At 18 h 38 min
+Merci pour la réponse.
+Peut-on cumuler les deux possibilités ?
+Je m’explique, pour la partie frigo et congélateur, je souhaite mettre un interrupteur différentiel ASI (Schneider) en amont et deux disjoncteurs divisionnaires de 20A (un pour le frigo et l’autre pour le congélateur).
+De ce fait, je ne peux pas respecter la première solution car étant en 45A sur le compteur, cela m’oblige à prendre du 63A pour l’interrupteur différentiel ASI, mais cela n’existe pas chez Schneider.
+Donc je suis obligé de passer avec du 40A ASI.
+Est-ce un problème ?
+Merci.
+Reply
+Carminas 13 juillet 2017 At 6 h 58 min
+Bonjour
+Comme Guillaume.
+Je ne prend que des 63A, pour éviter tout risque de surcharge (c’est l’esprit de la nouvelle version de la norme)
+De plus avec la nouvelle règle sur l’aval, on atteint très rapidement les 40A à ne pas dépasser, donc cela oblige à les démultiplier et ce n’est pas évolutif
+Je ne garde des 40A que pour des usages spécifiques, par exemple différentiel dédié à l’extérieur ou l’on ne trouver qu’un circuit prise, qu’un circuit éclairage et qu’un circuit portail. Ou pour un différentiel dédié à un congélateur.
+Reply
+Alan 17 juillet 2017 At 20 h 21 min
+Bonjour Carminas,
+Est-ce que la solution interrupteur différentiel ASI (Schneider) 40A en amont et deux disjoncteurs divisionnaires de 20A (un pour le frigo et l’autre pour le congélateur) sur l’aval paraît cohérent ?
+Merci.
+Reply
+Carminas 18 juillet 2017 At 21 h 02 min
+Bonjour
+Oui la règle par rapport à l’aval est respectée :
+0,5 x 20A + 0,5 x 20A = 20A < 40A
+Reply
+Alan 21 juillet 2017 At 19 h 40 min
+Bonjour,
+Sur un interrupteur différentiel 63A type A, peut-on mettre d’autres disjoncteurs divisionnaires que ceux obligatoires (plaque de cuisson et lave-linge) ?
+Cela permettrait de mettre par exemple le sèche linge, four, lave-vaiselle, les 6 prises obligatoires de la cuisine…
+D’ailleurs, y’a t’il des disjoncteurs particuliers que vous mettrez sur cet interrupteur 63A type A ? ou cela n’a aucune importance… ?
+Merci.
+Reply
+Carminas 21 juillet 2017 At 20 h 22 min
+Bonsoir
+La plaque, le lave-linge et la recharge de véhicule électrique doivent obligatoirement être en aval d’un type A
+Tous les autres circuits, peuvent être sous un type A ou un type AC.
+Vous pouvez donc mettre tout type de circuit, sous votre 63A type A, dans la limite de 8 circuits.
+A titre personnel, je n’utilise que de 63A type A (sauf cas particuliers)
+Reply
+Alan 23 juillet 2017 At 21 h 05 min
+Ah oui vous n’utilisez pas de 63A type AC ?
+Pourquoi tout mettre sur type A ?
+Reply
+Carminas 24 juillet 2017 At 19 h 58 min
+Parce que plus simple pour faire la répartition
+Pas de question à se poser, pas de contrainte, pour pas vraiment plus cher.
+Et en plus cela anticipe les évolutions de matériels et de normes.
+Je ne met que des type AC pour les ID dédié au chauffage électrique
+Reply
+DYDY 14 octobre 2017 At 23 h 57 min
+bonsoir,
+dans un bâtiment qui n’a pas de mise à la terre, est il possible d’utiliser les interrupteurs différentiels pour protéger les personnes et des équipement sensible?
+Reply
+Carminas 15 octobre 2017 At 16 h 30 min
+Bonjour
+Effectivement la pose d’une protection différentielle 30mA en amont de tous les circuits est une mesure compensatoire en l’attente de réalisation d’une terre.
+Il faut également faire une liaison équipotentielle supplémentaire dans la cuisine sur le même principe que celle de la salle de bain.
+Reply
+Nicolas Lourmiere 4 décembre 2017 At 14 h 55 min
+WTF ? Un différentiel n’est pas une mesure compensatoire en l’attente d’une réalisation d’une terre…. !!!!!!! Comment peut-on dire ca !?
+Le différenciel est indissociable de la prise de terre.
+Reply
+Carminas 4 décembre 2017 At 23 h 06 min
+Bonsoir
+Un petit extrait de la norme :
+http://www.casimages.com/img.php?i=151112083037383213744972.jpg
+Il est vrai qu’en absence de terre, c’est la personne en contact avec le défaut qui joue le rôle de terre et le 30mA est sensé couper avant l’atteinte d’un seuil mortel (ce qui néanmoins être grave, mais c’est mieux qu’avec pas de DDRHS du tout)
+Reply
+Nicolas Lourmiere 4 décembre 2017 At 14 h 59 min
+Non, tu ne peux pas. Le différentiel ne fonctionne que parce qu’il y a une prise de terre et que tu es en régime de neutre TT. Le défaut sur une masse, reliée à la terre (via la prise de terre) permet un courant de défaut, généralement appelé « courant de fuite » qui termine sa boucle en remontant via la terre du transformateur 20k pour rejoindre le neutre créé à ce moment.
+Si on comprend la boucle du circuit fermé, le différentiel est indissociable du régime de neutre TT et donc d’une terre. Un bâtiment sans terre n’a pas besoin de différentiel : il n’y aura pas de courant de fuite.
+Reply
+Doud 23 octobre 2017 At 2 h 06 min
+Bonjour,
+J’ai un 30mA branché en amont d’un onduleur UPS, et celui ci saute souvent. Je me demande si le remplacer par un type SI pourrait corriger le problème ? Ou si ça ne peut pas en être la cause ?
+Merci pour vos avis !
+Reply
+Nicolas Lourmiere 4 décembre 2017 At 15 h 08 min
+Les différentiels Hi / Si / Hpi sont tout indiqués pour la micro informatique.
+https://www.installation-renovation-electrique.com/interrupteur-differentiel-type-ou-type-ac/
+Après, c’est la première fois que je vois quelqu’un qui a un problème avec ca? D’autant plus que l’onduleur est un organe dont le but et de purifier le signal.. Ton onduleur, as tu essayé de la brancher sur une autre machine qui tourne et regardé si la ligne de ton onduleur sautait… ?
+Reply
+Guy Bayard 11 décembre 2017 At 0 h 43 min
+Bonsoir,
+Un grand merci pour votre blog qui comporte que des sujets très bien traités.
+Je suis en train de refaire ma cuisine j’ai pris bonne note que:
+chaques prises spécialisés doivent être protégées par un disjoncteur de:
+– 32A pour la plaque cuisson
+-20A pour le lave vaisselles
+-16A pour le four
+-16A pour le micro onde
+-16A pour le frigo
+-16A pour le congélateur
+– pour la ligne électrique spécifique comprenant 6 prises un disjoncteur de 16A
+et pour le circuit électrique d’éclairage comprenant 1 plafonnier et 3 appliques un disjoncteur de 10A
+Mes questions sont les suivantes:
+– Pour la ligne électrique spécifique et le circuit d’éclairage je compte mettre un interrupteur différentiel de type AC 30mA 63A, faut il un interrupteur pour chaque ligne ou un seul suffit?
+-Pour les 6 lignes spécifiques (plaque cuisson, lave vaisselles,, four, micro onde, frigo et congélateur)réunies sur un interrupteur différentiel de type A 30mA 63A?
+Pouvez vous me confirmer si cette installation est conforme à la NF 1500C?
+Et une dernière question je compte utiliser l’interrupteur différentiel de mon installation existante mais je ne sais pas si c’est un A ou AC car je ne vois pas l’indication. C’est un BACO 0660 310 (ci joint une photo)
+Merci pour votre aide
+–
+Reply
+Carminas 11 décembre 2017 At 22 h 53 min
+Bonsoir
+1/ Un seul interrupteur différentiel 30mA pourrait suffire pour vos 2 circuits.
+Ce pourrait être un 40A
+2/ Ok pour vos 6 circuits sous le 63A type A
+3/ La partie que vous décrivez est conforme
+4/ C’est un type AC
+Reply
+Florent 20 décembre 2017 At 10 h 56 min
+Bonjour,
+J’ai emménagé dans une maison de 30 ans ; et je commence à être inquiet à force de lire toute ces indications sur les normes …
+Dans mon cas :
+-sur la 1ere ligne j’ai 9 disjoncteur pour un différentiel de 63A (dont toute la cuisine / salon/sdb / chambre)
+-le four et la plaque de cuisson sont sur le même disjoncteur (32A)
+-le frigo , le micro ondes et 13 autres prises sont sur le même disjoncteur(20A)
+-la quasi totalité de l’étage de la maison est sur un seul disjoncteur (lumières et prises)
+-pas de différentiel sur la seconde ligne qui compte le chauffe eau , l’étage et les lumières extérieures
+Cependant à ce jour je n’ai rencontré aucun soucis électrique… Même si je faisait intervenir un électricien ; je ne vois même pas comment il serait possible de recabler tout ça sans casser tout les murs…
+Je me demande juste si l’organisation du tableau doit être revu; un différentiel sur chaque ligne ? moins de charge sur la 1ere ligne ?
+Reply
+R1 23 décembre 2017 At 0 h 45 min
+Bonjour,
+j’habite un logement qui a le même âge que le votre. La Norme a beaucoup évolué en 30 ans, il est donc normal qu’une installation de cet âge n’ait pas la configuration d’une installation neuve. Heureusement, une installation telle que la votre peut fonctionner en sécurité, bien qu’elle ne soit pas en adéquation avec la Norme actuelle, moyennant quelques vérifications et améliorations pas forcément compliquées à réaliser dans l’attente d’une rénovation plus importante.
+1) 1ère rangée avec 9 disjoncteurs + 1 ID 63A :
+Les tableaux existants disposent rarement de beaucoup d’espaces libres permettant l’ajout d’appareillages modulaires. Ainsi la mise en sécurité d’une installation existante peut consister à placer en tête de tableau un interrupteur différentiel 63A 30mA de type A qui protégera tout le logement. En aval d’un disjoncteur de branchement de calibre max 60A, il sera à l’abri des surcharges, cette configuration présentant toutefois l’inconvénient de mettre hors tension toute l’installation en cas défaut sur un seul des circuits terminaux.
+2) Four et plaque de cuisson sur un même circuit 32A :
+Cas de figure fréquent dans les installations existantes.
+Fonctionne sans problème tant que la puissance maximale cumulée des deux éléments est inférieure à 7kW et fonctionne aussi sans déclenchements intempestifs avec une puissance maximale cumulée supérieure à 7kW compte tenu de la faible probabilité que les deux éléments fonctionnent à pleine puissance simultanément en usage modéré/normal.
+Soigner les connexions.
+3) Frigo + micro-ondes + 13 socles de prises de courant sur circuit 20A :
+Vérifier que la totalité du circuit est bien câblée en 2,5mm² minimum. Eviter d’y raccorder d’autres appareils de forte puissance.
+Protégé par un disjoncteur C20, le circuit sera alors fonctionnel tant qu’on ne lui réclamera pas plus de 4,5kW max.
+Protégé par un disjoncteur C16, la puissance disponible serait moindre mais le circuit davantage à l’abri des surcharges.
+4) Totalité de l’étage sur un seul disjoncteur :
+Dans l’immédiat, rechercher les conducteurs de plus faible section de ce circuit et vérifier que la protection est adaptée. Protection par disjoncteur C16 max si la liaison de plus faible section est câblée en 1,5mm².
+Il serait néanmoins bon de prévoir la création d’au moins un circuit supplémentaire en séparant les prises de courant de la partie éclairage. Cette tâche est moins fastidieuse quand la distribution des prises de courant et points d’éclairage de l’étage est faite sous forme de pieuvre à partir des combles.
+5) Absence de protection différentielle sur la seconde rangée du tableau :
+Au cas où un espace libre d’au moins 2 (ou 3) modules serait encore disponible sur cette rangée, ne pas hésiter à installer un second interrupteur différentiel 30mA, de type AC ou A – type A obligatoire pour lave-linge et plaque de cuisson – et de courant nominal 40 ou 60A. (Et transférer éventuellement un circuit de la première rangée vers la seconde pour mieux répartir la charge.)
+Sinon un repiquage est possible à partir de la première rangée tel que décrit dans la remarque 1). Ce sera toujours mieux que l’absence de protection différentielle à haute sensibilité sur toute une partie de l’installation.
+Enfin, si la place le permet encore, séparer les circuits extérieurs du reste de l’installation par une protection différentielle et un/des disjoncteurs dédiés.
+Le logement a 30 ans, mais les composants installés dans le tableau sont-ils d’époque ou plus récents ?
+Selon l’état du matériel, remplacer a minima les disjoncteurs des circuits critiques des remarques 2), 3) et 4) par du matériel neuf (dans ce cas choisi de la même marque de sorte que l’ensemble demeure peignable). Même remarque pour les autres circuits dédiés aux équipements de puissance (lave-linge…).
+Ou envisager de refaire le tableau entièrement.
+Autres remarques :
+A) Dans les maisons anciennes, en présence de prises de courant sans contact de protection, il est préférable si possible de tirer un conducteur de protection dans les gaines en place et d’installer des prises 3P+T. Une « prise sans terre » prive de la possibilité de raccorder en toute sécurité un appareil de classe I tel qu’un fer à repasser. Quand le tirage d’un conducteur de protection est impossible, il est vivement recommandé que les circuits concernés soient protégés par un dispositif différentiel à haute sensibilité pour assurer une sécurité minimale.
+B) Dans la salle de bain, vérifier qu’est bien raccordé à la terre tout ce qui doit l’être, cf Liaison Equipotentielle Supplémentaire.
+C) Pour chaque circuit, vérifier que la protection est adaptée à la section des conducteurs.
+D) Contrôler systématiquement le serrage des connexions à vis, dans le tableau, mais inclure également les dérivations, interrupteurs, prises de courant.
+E) Le petit testeur présenté sur https://www.installation-renovation-electrique.com/multimetrix-vt-35-test/ ne coûte pas grand-chose et permet de contrôler prises et interrupteurs différentiels.
+F) Les fabricants de matériel électrique proposent des listes de points à vérifier pour qu’une installation soit en sécurité :
+Schneider : Leur test décrit sur le lien suivant est bien fait. https://www.installation-renovation-electrique.com/outil-test-surete-installation-schneider-electric/.
+Legrand indique des points à contrôler dans « le guide de l’électricité », petit feuillet facturé 3E mais dont on peut retrouver la version pdf en googlant.
+Les dossiers techniques Promotelec apportent aussi des informations intéressantes à propos :
+– De la protection différentielle : https://professionnels.promotelec.com/fiche-dossier/dispositifs-differentiels-residuels-ddr/
+– De la vérification des installations électriques des locaux à usage d’habitation existants et du Diagnostic Electrique Obligatoire : https://professionnels.promotelec.com/fiche-dossier/la-verification-des-installations-electriques-des-locaux-a-usage-dhabitation-existants/
+– Des règles spécifiques à la salle de bain : https://professionnels.promotelec.com/fiche-dossier/salle-de-bains-prevoit-norme-nf-c-15-100/ et https://professionnels.promotelec.com/fiche-dossier/immeubles-existants-equipements-electriques-petites-salles-de-bains/
+Cordialement.
+Reply
+Florent 26 décembre 2017 At 17 h 53 min
+Merci beaucoup pour tout ces détails ! Même si j’ai déjà une habilitation électrique dans le cadre de mon travail je crois que je vais commencer par acheter le pack de ce blog avant d’aller plus loin.
+– L’ID actuel est déjà un 30ma donc au moins pour cela pas besoin de le changer.
+– Il y a effectivement suffisamment de place sur la seconde ligne pour décaler l’équipement existant et mettre en tête un autre ID
+-Côté prises et interrupteurs j’ai déjà tout remplacé par du neuf en connexion sans vis et remplacé les dominos par des bornes wago; c’était vraiment nécessaire car les fils étaient parfois cassées dans certains dominos… J’ai encore une chambre avec des prises sans terre mais pour le reste une rénovation du câblage avait déjà été faite je n’ai eu qu’à changer de prises.
+– le matériel actuel dans le tableau est du hager modèle MFS7xx , cela semble plutôt récent
+– je ne suis pas sûr du tout que les tuyaux de cuivre soient reliés à la terre pour la salle de bain ; je vais vérifier à partir de la cave…
+Reply
+BERTIER 16 décembre 2017 At 15 h 26 min
+Bonjour
+d’après la réponse que vous donnez Carminas, Guy peut protéger les lignes plaque cuisson, lave vaisselles, four, micro onde, frigo et congélateur avec des disjoncteurs de 16A et raccorder l’ensemble sur un interrupteur différentiel de typeA.
+Pourtant j’ai cru comprendre en parcourant le blog que ces lignes devaient avoir chacune un disjoncteur 20A et que l’interrupteur différentiel de type A était obligatoire pour le lave linge et de type AC pour les autres appareils.
+Ou faut il donc comprendre que:
+-pour les disjoncteurs 20A c’est un ampérage maximum et donc 16A est autorisé?
+-pour l’interrupteur différentiel de type A il est obligatoire pour lave linge et que pour les autres appareils cela peut être indifféremment type A ou AC?
+Merci pour la précision que vous pourriez apporter.
+Reply
+Carminas 16 décembre 2017 At 20 h 25 min
+Bonsoir
+Vous avez tout compris :
+– 20A c’est le maxi autorisé par la norme pour un circuit en 2,5². On peut tout à fait mettre moins. 16A est d’usage courant. De toute façon la plupart des appareils que l’on raccorde sur ces circuits spécialisés sont munis de fiches 16A, donc pas conçu pour consommer plus de 3600W. Donc un disjoncteur 16A est suffisant la plupart du temps et apporte plus de marge de sécurité.
+– Pour les plaques, le lave-linge et la recharge de véhicule électrique, il faut obligatoirement un type A. Pour les autres circuits on peut mettre un type A ou un type AC (pour rappel un type A, c’est un type AC qui possède en plus une protection contre les fuites de courant continu).
+Reply
+Alain Decang 9 mars 2019 At 18 h 08 min
+J’ai refais mon tableau dans les années 90 pour mettre des disjoncteurs à la place des fusibles et ajouter des inter différentiels. A l’époque, un voisin ingénieur chez Merlin-Gérin m’avait expliqué que lors de l’apparition des disjoncteurs les normes avaient prévu des disjoncteurs de 16A pour des circuits auparavant protégés par des fusibles de 10A, par crainte de l’échauffement des disjoncteurs dans le tableau, mais que ces craintes s’étaient révélées infondées. Et qu’une protection en 10A des circuits prises des pièces de vie protégerait mieux les lignes et les socles (à vis à l’époque) J’ai suivi son avis, et jamais eu de souci. Jamais branché de bétonnière dans une chambre non plus :). Votre avis?
+Reply
+Carminas 10 mars 2019 At 10 h 24 min
+Bonjour
+Plus vous baissez le calibre d’un disjoncteur plus vous augmentez la marge de sécurité.
+Après il ne faut pas baisser trop bas pour que ce soit utilisable au quotidien.
+Mais 10A qui autorise 2300W suffit pour la plupart des usages en circuits non spécialisés.
+J’ai même déjà mis du 6A dans le cadre d’une mise en sécurité et cela n’a jamais sauté à l’usage.
+C’est sûr qu’il ne faut pas faire une raclette partie avec 3 fours branchés simultanément sur le même circuit (mais c’est un cas d’usage plutôt rare)
+Reply
+BERTIER 17 décembre 2017 At 12 h 29 min
+Merci pour vos précisions, bon dimanche
+Reply
+AsGa 26 décembre 2017 At 10 h 23 min
+Vous n’avez pas honte des fautes d’orthographe (du genre « ils crées ») ?
+Reply
+Guillaume 26 décembre 2017 At 20 h 26 min
+Bonjour,
+Merci de votre aimable retour, j’ai corrigé ces fautes.
+Cordialement
+Reply
+Fabien 13 février 2018 At 14 h 29 min
+Bonjour Guillaume,
+Avant tout merci beaucoup pour ce blog très intéressant et surtout très clair
+pour un néophyte comme moi, et qui fourmille d’informations pertinentes.
+Merci aussi pour vos guides qui sont très bien conçus et qui me permettent
+d’aborder mon installation électrique sereinement.
+Concernant les interrupteurs différentiels que je dois mettre en place,
+sachant que j’ai souscrit un abonnement 9kVA et que mon disjoncteur de branchement
+est réglé sur 45A, dois-je obligatoirement mettre des ID de calibre 63A ?
+Le calibre 40A ne suffit-il pas si je ne peux pas soutirer plus de 8800VA par rangée ?
+En effet le tarif varie quasiment du simple au double (pour la gamme ID’Clic XP de Schneider
+que j’ai choisi d’utiliser)
+Par avance merci
+Cordialement
+Fabien
+Reply
+Carminas 13 février 2018 At 20 h 08 min
+Bonsoir
+Si vous voulez respecter la dernière version de la normes (novembre 2015)
+– Soit vous mettez des ID 63A
+– Soit vous mettez des ID 40A, avec la somme des calibres des disjoncteurs en aval multipliée par 1 pour le chauffage direct, l’ECS, l’IRVE et par 0,5 pour les autres types de circuit, qui n’excède pas 40A
+Reply
+Sam 16 mars 2018 At 12 h 09 min
+Question : un seul interrupteur différentiel 30 mA
+bonjour,
+J’aimerais svp un avis contradictoire à celui d’un électricien, avis qui m’étonne (mais peut être ai-je mal compris !)
+Nous sommes dans un immeuble d’habitation, nous souhaitons mettre en sécurité le tableau électrique de la loge du Gardien, monophasé (parties communes sous la responsabilité des copropriétaires)
+Je précise qu’il y a un disjoncteur de branchement, différentiel 500 mA (réglable de 15 à 45A) et un tableau électrique qui comporte 13 modules, dont 10 occupés par des disjoncteurs divisionnaires.
+Nous avons une bonne terre, de l’ordre de 5 ohms.
+La puissance souscrite est de 45A pour la loge.
+Il y a notamment tous les circuits éclairage et prises, un chauffe-eau élec, des plaques de cuisson élec et un lave-linge.
+Nous avons demandé à l’électricien, de poser un interrupteur différentiel en tête des 10 disjoncteurs.
+Certes nous savons qu’on pourrait refaire tout le tableau avec plusieurs inter-dif, mais coût et en plus l’emplacement fait qu’il y a un seul tableau 13 modules existant et que le placard électrique ne peut pas contenir un nouveau tableau plus grand.
+L’électricien m’adresse son devis, il pose en tête de rangée un inter-dif 30mA 63A Type AC
+Je comprends bien les 63A (pour éviter toute surchauffe, ok)
+Par contre je ne comprends pas le type AC et je lui demande pourquoi il ne prévoit pas un type A, il me répond « qu’il est obligatoire quand on pose un seul interrupteur différentiel de mettre un AC et pas un A ». Je me permets de lui dire que je suis étonné (ayant a priori compris l’inverse), il a fortement insisté : « non, pas de type A, un type AC »
+J’aimerai votre avis !
+Sam
+Reply
+Carminas 16 mars 2018 At 20 h 01 min
+Bonsoir
+Il se trompe.
+Extrait du Guide Promotelec sur la mise en sécurité des logements existants :
+« Tout ajout ou remplacement d’un différentiel 30mA protégeant les circuits lave-linge et plaque de cuisson doit conduire à la mise en oeuvre d’un type A.
+Lorsque l’installation est protégée par un seul différentiel 30mA placé en tête, celui-ci doit être de type A. »
+Reply
+JEAN-PIERRE 12 avril 2018 At 22 h 52 min
+Merci pour vos réponses, vous êtes incollable! Je ne peux cependant m’empêcher de rapprocher ce blog avec un autre blog dont vous êtes l’auteur et qui pourrait être résumé en « plaidoyer pour le 1,5mm² sur les lignes de prises ». Sous-dimensionner le diamètre des câbles, n’est-ce pas favoriser les harmoniques »?
+J’ai refait l’installation électrique de l’appartement de mon fils. Celui-ci, comme de nombreux jeunes est très « techno », ordinateurs, réseaux, TV, chaines hi-fi, PAC, CES, plaque à induction… Et pour ma part remplacement de tous les éclairages classiques par des LED. Je pense donc que les harmoniques sont plus nombreuses que les souris dans le jardin!
+En résumé, que dois-je installer pour éliminer (réduire) ces harmoniques? Je pense qu’elles se manifestent (rarement) par des coupures de courant sans que le réseau soit saturé.
+Reply
+nicolas 2 mai 2018 At 11 h 32 min
+Bonjour
+Quels sont les risques fonctionnels ou autres si il y a plus de 8 disjoncteurs sur un DDR 63A 30mA ? en l’occurence il y a 19 dd sur mon ddr 63a…
+merci pour votre eclairage (!)
+Reply
+Carminas 2 mai 2018 At 20 h 00 min
+Bonsoir
+Il n’y a pas de risque de sécurité.
+C’est un problème de sélectivité, donc de confort (ou plutôt de non praticité)
+Si vous avez le 30mA qui saute, cela fait 19 circuits qui sont HS d’un seul coup.
+Reply
+audrey 12 juillet 2018 At 17 h 41 min
+Bonjour
+je me demande si l on peut utiliser uniquement des Idifferentiels de type HPI au lieu des Type A et AC de la norme 15-100 dans le tableau de repartition
+j ai cru comprendre que mettre des type A a la place des AC ne posait aucun probleme (sauf le cou)
+merci d avance pour votre reponse
+Reply
+Carminas 13 juillet 2018 At 10 h 17 min
+Bonjour
+Oui vous pouvez. Un HPI (désormais appelé type F) est un type A à immunité renforcée.
+Mais quel en serait l’intérêt ?
+De plus votre porte monnaie ne va vraiment pas apprécier.
+Reply
+Audrey 16 juillet 2018 At 4 h 34 min
+Bonjour
+L interet est de pouvoir brancher de un matériel sensible comme l informatique ou des appareils hifi sur n importe quelle prise de courant
+Le surcoût d un inter différentiel hpi est modique
+Merci
+Reply
+Carminas 16 juillet 2018 At 11 h 34 min
+Oui mais ce genre d’équipement sur un matériel informatique seul a peu d’intérêt
+On le met dans les salles informatiques, pour que l’ensemble des serveurs soient moins sensibles aux fuites cumulées qu’ils occasionnent eux même.
+Donc pour un particulier peu d’intérêt d’en mettre partout, d’autant plus que le déclenchement étant très légèrement retardé, cela abaisse la qualité de protection des personnes.
+A cibler que pour des circuits précis.
+Mais normativement, rien n’empêche de faire ce que vous voulez faire.
+Reply
+berti 16 juillet 2018 At 13 h 05 min
+bonjour,
+J’ai un inter différentiel Legrand acheté il y a 15 ans où il n’y a aucune inscription de type. D’après vous de quel type s’agit-il ?
+Par ailleurs est-il possible de mélanger plusieurs marques de disjoncteur ou inter sur un même tableau ?
+merci
+Reply
+Carminas 16 juillet 2018 At 23 h 02 min
+Bonsoir
+S’il n’y a rien d’écrit est pas de symbole, c’est que c’est un type AC.
+On peut bien entendu mixer les marques sur un même tableau, mais le décalage des bornes de connexions des disjoncteurs pouvant varier d’une marque à l’autre l’usage de peigne pourra être difficile.
+Il ne sera pas possible non plus d’utiliser un peigne vertical ou des interrupteurs différentiels peignables horizontalement.
+Reply
+Christophe C 24 juillet 2018 At 14 h 50 min
+Bonjour, j’ai un problème avec un variateur de fréquence qui fait sauter le différentiel dès que je mets le variateur sous tension. Quelqu’un aurait une explication SVP. Merci par avance.
+Reply
+Bastien Roucariès 18 janvier 2019 At 17 h 04 min
+Oui courant d’appel trop important. Avez vous essayé de remplacer le disjoncteur par un D – Hpi ?
+Quel est votre régime de terre ?
+Reply
+Letocard 28 juillet 2018 At 23 h 43 min
+Bonjour Mr Guillaume je voudrais savoir comment je dois choisi la section du fil de terre lors de la réalisation de mon devis je suis entrain de faire mais premier pas dans le domaine.
+Reply
+Carminas 29 juillet 2018 At 8 h 51 min
+Bonjour
+Vous parlez de quel fil de terre.
+De manière générale il a la même section que les conducteurs phase et neutre.
+S’il s’agit par exemple du câble d’arrivée, qui est en 2×16² la plupart du temps, le conducteur principal de terre serait également en 16²
+Reply
+SEIVE 21 octobre 2018 At 8 h 28 min
+Bonjour Mr Guillaume,
+J’ai commandé vos guides pour mon installation électrique, mais il me reste quelques question en suspends. J’ai réalisé la rénovation électrique de mon appartement qui se trouvent dans un immeuble collectif. Mais il me reste quelques questions sans réponse :
+1) Faut il installer une barrette de coupure de terre à l’intérieur du logement dans la gtl puisqu’il doit y avoir une barrette pour l’immeuble.
+2) Le disjoncteur EDF est dans les parties communes, donc vous dites qu’il faut installer une coupure général à l’intérieur. Que faut il utiliser pour réaliser cette coupure. Lorsque je suis allé me renseigner, on m’a conseillé un interrupteur bipolaire 63A ABB. Est ce que c’est bien cela qu’il faut utiliser.
+3) Et enfin dernière question. Peut on faire partir les liaisons équipotentielles principales à partir du bornier terre du coffret électrique ou faut il à tout prix les faire partir de la barrette de liaison de terre installée juste avant.
+Dans l’attente de votre réponse, je vous remercie pour votre travail.
+Reply
+Carminas 21 octobre 2018 At 10 h 08 min
+Bonjour
+1/ Non ce n’est pas la peine, vous vous raccordez directement sur le répartiteur de terre de l’étage
+2/ Il faut un dispositif de coupure d’urgence dans le logement :
+En supposant que le disjoncteur EDF en partie commune soit sélectif et par ordre de coût croissant :
+– interrupteur sectionneur 63A placé sur un rail DIN en tête du tableau ou sur un petit tableau 2 ou 4 modules.
+– disjoncteur de branchement 30/60A non différentiel placé sur une platine en amont du tableau
+– disjoncteur de branchement 30/60A 500mA type S (sélectif) placé sur une platine en amont du tableau
+Ne pas mettre de disjoncteur de branchement 30/60A 500mA instantané qui n’assurera aucune sélectivité avec vos différentiels 30mA
+Le conseil que l’on vous a donné est pertinent. Cela peut être une autre marque
+3/ En principe dans un appartement, la liaison équipotentielle principale est faite au niveau de l’immeuble, dans les parties communes. Vous n’avez pas à la refaire dans le l’appartement.
+Vous avez juste à faire la liaison équipotentielle supplémentaire de la sdb. Pour rappel c’est une liaison locale qui peut se faire soit dans la sdb, soit au bornier de terre du tableau.
+Reply
+ARNAUD 13 décembre 2018 At 18 h 25 min
+Bonjour, on va m installé 3 climatiseurs de 3600W et un volet roulant. Je vais mettre un disjoncteur de 10A pour le volet et 3 disjoncteurs de 20A pour les clim, je voudrais savoir si je peux mettre le tous sur un nouveau inter différentiel ? si oui quel modèle enfin le calibre et la courbe stp merci pour ton aide le blog est très intéressant
+Reply
+Carminas 13 décembre 2018 At 23 h 22 min
+Bonsoir
+3600W c’est la puissance absorbée ?
+Si oui il faut un Interrupteur différentiel 30mA 63A, peu importe le type.
+Reply
+Bastien Roucariès 18 janvier 2019 At 17 h 02 min
+Il y a un point faux le A ne detecte pas la composante continu en triphasé… Attention il y a eu des morts la dessus. Dans ce cas en particulier pour les freinage moteur par injection de courant il faut utiliser un B.
+Sinon si le dispositif aval inclus un pont à diode, et peut induire un redressement mono alternance en cas de défaut simple c’est un A.
+Le AC est donc reservée uniquement à des usage simple genre moteur.
+Le Hpi ou le SI permet d’éviter de sauter dès qu’il y a trois ou quatre PC en serie sur une ligne. Un disjoncteur D + A Hpi est normalement la norme avec les alimentation de PC
+Reply
+RENARD Jean Paul 30 janvier 2019 At 8 h 06 min
+Bonjour et merci pour le partage de votre culture qui apporte tant à ceux qui comme moi sont novices en la matière.
+J’ai aujourd’hui une alimentation triphasé 18 KW. L’installation est néanmoins réalisée en monophasé, chaque phase alimentant un étage de la maison (sous-sol, re de chaussé, étage+ combles).
+Au sous-sol, j’ai un réseau piloté par le top EDF qui alimente Chauffe eau, Machine à laver et sèche linge. Plages heures creuses : 14h – 17h et 24h- 7h.
+Le chauffe eau est proche des points de consommation salles de bains mais il est loin de la cuisine de telle sorte que je pers beaucoup d’eau froide avant d’obtenir l’eau chaude.
+J’envisage donc de mettre un deuxième chauffe eau de 100l dans le sous sol, sous la cuisine.
+Je souhaite alimenter ce deuxième chauffe eau sur le top EDF de 14h-17h, le chauffe eau actuel sur le top EDF de 24h-7h et les machine à laver et sèche linge sur les deux plages 14h-17h et 24h-7h.
+Comment dois-je faire l’installation électrique ? Dois-je en plus du top EDF, sélectionner la plage désirée pour chaque matériel avec une horloge ?
+Merci pour votre réponse.
+Bien cordialement
+Reply
+Carminas 31 janvier 2019 At 0 h 27 min
+Bonsoir
+Je suppose que vous faites cela pour éviter la surcharge de la phase du sous sol (sinon cela n’a pas d’intérêt)
+Oui effectivement il une horloge pour chaque chauffe-eau, avec éventuellement en série sur le circuit de commande (mais facultatif) le top EDF, si le respect des heure n’est pas 100% fiable.
+Une autre solution serait de raccorder ce chauffe-eau sous une autre phase moins chargée, voire de le raccorder en tri (ce qui répartir mieux la puissance)
+Reply
+RENARD Jean Paul 31 janvier 2019 At 15 h 41 min
+Merci infiniment pour votre réponse.
+Oui, je fais ceci dans le but d’éviter la surcharge en sous sol.
+La solution de mettre le chauffe eau sur une autre phase ou en triphasé ne me semble pas possible compte tenu de la charge des phases du rez-de-chaussée et de l’étage.
+Je crois comprendre que dans le cas de l’utilisation d’une horloge pour chaque chauffe-eau, le fil pilote EDF HP/HC ne me servira plus, ou alors quel est le montage ?
+Merci pour votre réponse.
+Reply
+Gilbert Henry 9 mars 2019 At 16 h 10 min
+je suis en train d’essayer d’équilibre mon tableau:
+différentiel HPI 40A: prises informatique, prise sono, congélateur , frigo, lumières salon,
+différentiel A 63A: plaques , prises cuisine, lave linge,lave vaisselle, prise salle de bain, lumière salle de bain
+différentiel ac 63 A : ballon eau chaude, four, hotte, lumières cuisine
+différentiel ac 63A : radiateur, prise garage buanderie
+pour équilibrer les puissances, est ce que je peux mettre le sèche linge ou le four sur le HPI
+qui est de 40A
+merci de votre conseil
+Reply
+Carminas 10 mars 2019 At 10 h 17 min
+Bonsoir
+Il n’y a aucun risque de surcharge d’un ID 63A (EDF ne vous délivre pas plus de 60A) alors qu’il y en a d’un 40A
+Cela me semble bien comme cela
+Reply
+Alain Decang 9 mars 2019 At 18 h 23 min
+Je remets en sécurité l’installation électrique d’amis âgés et aux tous petits moyens, qui utilisent massivement la congélation (à la campagne, un jardin, des amis chasseurs etc). Ils ont trois congélateurs. Poser 3 DD HPI, c’est difficile pour une question de prix. J’ai deux questions :
+1. Est-ce que ça a un sens de regrouper les trois circuits derrière un ID dédié? Il me semble qu’un congélateur peut tomber en panne de compresseur ou de circuit frigorifique, mais risque moins de déclencher le DD qu’une simple ampoule?
+2. Un congélateur consomme peu. C’est envisageable de prévoir trois en circuits en 1,5 avec chacun leur disjoncteur divisionnaire en 10A? Pas du point de vue de la norme, mais simplement de la sécurité électrique. Pour l’instant il y a trois congélateurs, un lave-linge, des prises et de l’éclairage sur une ligne de 2,5 avec des boites de dérivation ouvertes et des branchements défectueux partout, pas difficile de mieux faire.
+Reply
+Carminas 10 mars 2019 At 10 h 21 min
+Bonjour
+Un HPI n’est nullement obligatoirement pour un congel.
+C’est juste une précaution pour limiter les déclenchement intempestifs, mais pas une garantie absolue.
+La plupart des installation n’en ont pas.
+Donc comparer prix d’un HPI au regard du contenu d’un congel en regard d’un défaut qui n’arrivera peut être jamais
+1/ Le congélateur est un candidat sérieux aux défauts d’isolement
+Personnellement je ne regrouperais pas les 3 sous le même ID et je préférerais séparer les risques
+2/ Aucun problème de faire 3 circuits en 1,5².
+Reply
+Alain Decang 12 mars 2019 At 15 h 34 min
+Merci, réponse claire et précise comme d’habitude Carminas !
+Reply
+Alain Decang 12 mars 2019 At 15 h 36 min
+Et merci Guillaume pour les articles et le blog, je m’y réfère régulièrement.
+Reply
+bricolier 26 juillet 2019 At 14 h 12 min
+Bonjour,
+A ou AC,
+Quelle est l’origine (anglo) de ces appellations ?.
+Alors que le type « AC » ne concerne pas les composantes continues, il a le « C « dans son type. Et inversement pour le type « A ».
+Cdt
+Reply
+bricolier 26 juillet 2019 At 14 h 26 min
+Re,
+1 – J’ai installé il y a déjà quelque temps, un Interrupteur différentiel 30 mA en aval du 500 mA non sélectif.
+– EdF, changent-ils le disjoncteur 500mA en Sélectif sur simple demande ?
+2 – Après la mise en œuvre de l’inter différentiel 30 mA, le four électrique (neuf) faisait déclencher le I30mA. Je dois vérifier le type de l’inter (c’est chez ma fille), A ou AC ? Donc sur un four qui possède vraisemblablement de l’électronique de programmation, il faut IMPÉRATIVEMANT que l’INTER 30 mA soit du type A !
+3 – Je ne l’ai pas encore fait, mais un électricien m’avait proposé d’inverser les fils phase/Neutre à la sortie de l’I30mA. Une solution plausible ?
+P.S. L’installation électrique date des années 80. Pour l’instant, le four n’est pas protégé par le 30 mA mais par le 500 mA
+Cdt
+Reply
+fx 28 juillet 2019 At 23 h 04 min
+1 – Non, Enedis fait en principe payer le changement de disjoncteur tant que l’ancien fonctionne. Enfin ça, c’est la version du service client.
+Parce que j’avais un vieux Merlin Gerin dont le mécanisme est fragile… ça n’a pas raté, après mes travaux, impossible de le remettre en fonction. Evidemment un samedi. Du coup appel au service d’urgence qui m’a dit « ah oui, ceux-là on les élimine, on les change d’office ! » – et le technicien a bien sûr posé un S.
+Donc je dirais qu’il faut essayer de négocier en invoquant la norme NF C14-100, 9.1.2 qui prescrit maintenant le type S.
+2 – Et si le neutre du four était sur un autre ID que la phase ?
+Reply
+Carminas 27 juillet 2019 At 0 h 53 min
+Bonsoir
+1/ oui mais c’est payant
+2/ Non un type AC suffit.
+Mais personnellement je ne met que des type A.
+Mais le type d’ID n’est pas en lien avec le défaut rencontré sur le four.
+3/ Pour ce type d’appareil non.
+Et en plus c’est dangereux car ce sera le neutre qui sera coupé sur tous les circuits en aval et pas la phase.
+Reply
+Pavlik 11 février 2020 At 10 h 31 min
+Bonjour, une petite question,
+Est-il obligatoire d’installer le diff type A(avec ses disjos spécialisés) sur le premier rail, ou il est possible de les mettre sur un rail plus bas (dans mon cas le troisième) ?
+Merci d’avance, et grand Bravo pour le blog!
+Reply
+carminas 11 février 2020 At 12 h 08 min
+Bonjour
+Vous le(s) mettez là où vous voulez.
+Aucune norme sur ce point.
+A noter que vous pouvez mettre tout type de circuit derrière un type A.
+Personnellement, je n’utiliser que des type A.
+Reply
+Pavlik 11 février 2020 At 18 h 32 min
+Merci pour votre réponse!
+Reply
+Slain 19 février 2020 At 16 h 10 min
+Bonjour
+J’ai une petite question pour laquelle je suis à peu près certain d’avoir une bonne réponse ici.
+Je replace le contexte : établissement recevant du public (formations post-bac), le rapport de vérification électrique indique que je dois remplacer l’interrupteur général dans 4 salles de cours.
+Ledit rapport indique que je dois mettre un calibre d’au moins 40A et une sensibilité de 30mA, point.
+Sachant que les prises de courant dans ces salles vont principalement supporter des ordinateurs portables (qui ne nous appartiennent pas forcément, les apprenants amènent leur ordinateur perso ou pro fourni par leur société), quel type est le plus adapté?
+Je ne peux pas forcément me baser sur l’ID placé dans chaque salle (car je n’ai pas la certitude que tout ait été fait correctement à l’époque) et le rapport n’indique pas le type d’ID à mettre.
+Le rapport s’appuie sur la NF C 15-100 mais n’était pas électricien de formation ni très à l’aise sur le sujet, je préfère boucler au maximum la chose.
+Vu le faible écart de prix, je me pose donc la question : est-ce que vous me recommandez de partir sur un type A, ou bien le type AC est-il suffisant?
+Je mets de côté le type HI, j’en ai dans mon local serveurs, mais pour des portables qui par principe ont une batterie je pense que c’est un peu trop … 🙂
+Merci d’avance pour vos réponses
+Reply
+Brice 23 février 2020 At 21 h 26 min
+Bonjour
+J’envisage de déplacer un disjoncteur pour rapprocher les disjoncteurs des lignes sur lesquelles circulent le CPL. Elles sont actuellement sur des lignes différentes et il parait que ce n’est pas très bon pour le CPL?
+Bref, je peux soit déplacer le disjoncteur de freebox+NAS sur un différentiel A, soit de déplacer le disjoncteur de télé/console de jeu/cave à vin sur un différentiel AC.
+D’après ce que je lis ci-dessus, il vaut mieux prendre la première solution pour que tout l’électronique soit derrière le différentiel A, même si ca m’impose de remplacer les borniers par des plus longs ?
+Merci beaucoup
+Brice
+Reply
+Répondre à Carminas Cancel reply
+Please enter your comment!
+Please enter your name here
+You have entered an incorrect email address!
+Please enter your email address here
+Save my name, email, and website in this browser for the next time I comment.
+Δ
+SERVICE DU BLOG
+JE VOUS AIDE A REUSSIR VOS TRAVAUX D’ELECTRICITE
+Je vous propose de vous accompagner dans vos travaux d’électricité, comme un coach sportif.
+Vous ne travaillez plus seul, vous ne cherchez plus les solutions, je vous les donne.
+Vous travaillez dans les normes et vous réalisez vos travaux avec l’aide d’un pro.
+UN SERVICE DU BLOG A RETROUVER EN CLIQUANT ICI
+LA SELECTION DU BLOG
+RETROUVER CI DESSOUS LES PRODUITS
+INDISPENSABLES POUR VOS TRAVAUX
+LE MEILLEUR OUTIL POUR DENUDER VOS FILS ET VOS CABLES
+Knipex ErgoStrip Outil universel à dégainer
+Je fais une démonstration complète de cet outil ici dans un article
+UN OUTIL INDISPENSABLE POUR TIRER VOS FILS
+Aiguille tire-fil en nylon Ø 4 mm 30 m
+Très pratique avec son carter de rangement
+CAISSE A OUTILS FACOM
+LA MEILLEURE SOLUTION POUR TRANSPORTER VOS OUTILS
+Caisse à outils Facom Probag
+Une solidité à toute épreuve que je vous présente ici
+CONTROLEZ VOS DIFFERENTIELS
+Testeur de prises et de différentiels Multimetrix VT 35
+Retrouvez le test complet de cet outil ici sur le blog
+GEL LUBRIFIANT:
+L'OUTIL INDISPENSABLE
+POUR VOUS AIDER A TIRER VOS CABLES
+Lubrifiant professionnel Caprigel 1 L
+Gain de temps et facilité d'utilisation
+UN NIVEAU A BULLE ET UN GABARIT DE PERCAGE
+POSEZ VOS BOITES D'ENCASTREMENT FACILEMENT
+Niveau à bulle Wiha pour électricien
+Retrouvez ici mon test complet de ce niveau
+LE MEILLEUR RAPPORT QUALITE/PRIX DU MARCHE
+Testeur VoltCraft ET-02
+Un testeur que je vous présente ici dans un article complet
+C’est tout chaud: les derniers commentaires du blog
+Nicole brucher sur Association électriciens sans Frontières: La solidarité aussi en électricité: “Bonjour j aimerais avoir un devis pour l installation d un néon sous un petit bâtiment et de prise de…” Nov 30, 15:22
+Dominique sur Abréviations en électricité: petit dictionnaire (et à vous de jouer!): “Bonsoir : électricien HQ veut dire électricien Hautement Qualifié” Nov 29, 17:48
+Guillaume sur Le boitier DCL n’est pas toujours obligatoire et voici pourquoi: “Bonjour et merci Carminas pour cette remarque très juste. J’ai modifié le titre en conséquence .;-)” Nov 29, 11:59
+Carminas sur Le boitier DCL n’est pas toujours obligatoire et voici pourquoi: “Bonjour Guillaume Je ne l’aurais pas rédigé comme cela. J’aurais par exemple dit « Le boitier DCL n’est pas TOUJOURS obligatoire…” Nov 29, 09:04
+Carminas sur Le schéma de la minuterie électrique: “Bonjour Sur certains modèle, il y a effectivement un petit bruit lié au déroulement de la minuterie Pas de problème…” Nov 28, 14:47
+Carminas sur Tension: attention à la chute de tension électrique!: “Bonjour Et quelle est la question ? Attention à la chute de tension sur 60m. N’espérez pas plus de 2…” Nov 28, 14:45
+El ammari sur Tension: attention à la chute de tension électrique!: “Bonjour j’ai un box de garage, sans Elec j’aimerais l’alimenté grâce un câble 2,5m2 . Au bout j’y mettrai un…” Nov 28, 09:27
+Man sur Salaire d’électricien, 3000 euros net par mois: c’est une honte!: “Également salarié je touche un très bon salaire qui évolue savoir être autonome et l’expérience apporte beaucoup et pourquoi être…” Nov 28, 01:02
+Carminas sur La section du cable de terre: “Bonsoir Comme vous l’avez dit, c’est inutile. Mais si vous faites 2 terres, il est impératif qu’elles soient interconnectées” Nov 27, 22:53
+Carminas sur Triphasé dans une installation électrique: pourquoi, comment, pour qui?: “Bonsoir Pour un abonnement mono (60A) il faut du 35² pour 58m maxi (mais on ne va pas chipoter pour…” Nov 27, 22:51
+© Newspaper WordPress Theme by TagDiv
+Vous partez déjà?
+Je vous propose de recevoir mes meilleurs conseils pour réaliser vos travaux pendant 30 jours.
+Vous allez recevoir chaque jour une astuce, un conseil ou un avis d'électricien professionnel pour vous aider dans vos travaux.

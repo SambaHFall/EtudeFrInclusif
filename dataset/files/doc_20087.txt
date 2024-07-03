@@ -1,0 +1,49 @@
+Le SIGNAL est équipé d'un connecteur femelle, ce mini connecteur au pas de 1.27mm du fait de ses dimensions n'est pas détrompé.
+L'électronique est située dans un petit circuit imprimé fixé dans le socle du SIGNAL.
+Chaque SIGNAL a sa propre électronique, résistances, transistor, diode en fonction de sa configuration.
+Le SUPPORT avec son verrouillage à baïonnette est détrompé. La découpe en forme de casquette sur le dessus du support indique l'orientation du SIGNAL, les casquettes de la cible doivent être en correspondance avec ce repère.
+Le circuit imprimé de câblage équipé d'un connecteur mâle, comme pour le cas du connecteur femelle, ce connecteur n'est pas détrompé.
+Ici le détrompage est effectué par la pièce cylindrique équipée de deux ergots, étroit et large à mettre en correspondance avec le SUPPORT à baïonnette.
+La casquette gravée sous le petit ergot donne le sens de connexion du SIGNAL (les casquettes de la cible ici aussi à mettre en correspondance avec ce repère).
+Le marquage en sérigraphie blanche permet d'identifier les différentes fonctions, le commun est représenté par un (T) inversé.
+Le cache embase qui fait fonction de guide lors de la connexion et de la déconnexion du SIGNAL de son support, il permet aussi de faire le lien entre le socle du SIGNAL et le décor. Les SIGNAUX sont livrés avec la version imitant le sol.
+Spécifications techniques :
+Echelle : HO 1:87
+Matière : Résine polyuréthane bi composante à prise rapide.
+Peinture : Acrylique.
+Câblage : Système breveté de connexion rapide entre le SIGNAL et le réseau par connecteur Mâle/Femelle.
+Tension d'utilisation : 12 Volts.
+Version avec le commun au (0) Volt.
+Version avec le commun au (+) Volt.
+Couleur des LED :
+Sémaphore (S), Carré rouge (Cr) : LED ROUGE
+Carré violet (Cv) : LED VIOLETTE
+Rappel de ralentissement (RR), Ralentissement (R), Avertissement (A) : LED ORANGE
+Manoeuvre (M) : LED BLANCHE
+Voie Libre (VL) : LED VERTE
+Oeilleton : LED BLANCHE miniature
+-il s'éteint automatiquement lorsque le Carré rouge (Cr) est activé.
+-il est monté de série sur les SIGNAUX comportant un Carré rouge.
+Guide de montage en image :
+Pour cette présentation j'ai utilisé un support de 8 mm d'épaisseur. Pour vous donner un ordre d'idée avec une table de 10 mm d'épaisseur, le circuit imprimé dépasse de 25 mm sous la table.
+Percer la table avec un foret de diamètre 13mm, puis positionner et coller le SUPPORT sur la table. Assurez-vous que vous avez correctement orienté celui-ci.
+Vous pouvez passer les câbles par le SUPPORT, et les souder sur le circuit imprimé. Cette opération s'effectue sur le dessus du réseau.
+Voir aussi FT001.
+2-VERSION DIGITAL (DCC)
+Présentation du décodeur digital CPL1 :
+Le principe de montage et les dimensions du décodeur CPL1 sont strictement identiques au circuit de câblage de la version analogique.
+L'alimentation et la liaison du décodeur au bus DCC sont réalisées par deux fils de câblage à raccorder sur les plages DCC1 et DCC2.
+Le décodeur est livré avec un connecteur mâle et un connecteur femelle deux points, mais vous disposez de plusieurs options pour réaliser ce câblage.
+Option 1 : souder directement les fils de câblage sur les plages de soudure DCC1 et DCC2.
+Option 2 : utiliser les connecteurs livrés avec le décodeur, souder de préférence le mâle sur les plages de soudeure DCC1 et DCC2, souder les fils sur le connecteur femelle.
+Voir aussi dans la rubrique DOCUMENTATION, la FT005 et le manuel de programmation FT006.
+MENTION IMPORTANTES, A LIRE ATTENTIVEMENT
+Le décodeur CPL1 est compatible uniquement avec les SIGNAUX commun (0), il n'y aura pas de version de décodeur pour les SIGNAUX avec commun (+).
+Les SIGNAUX qui sont dans la rubrique DCC, référence commençant par DCC, sont directement compatibles avec le décodeur CPL1.
+Vous pouvez utiliser tous les SIGNAUX de la version analogique commun (0) avec le décodeur CPL1, mais dans certain cas une adaption est nécessaire, à savoir:
+Tous les SIGNAUX qui ne comportent pas d'oeilleton (ou sans l'indication Carré rouge) sont directement compatibles avec le décodeur CPL1.
+Exemples : Cible 01, 03, 04, 08, 09, 16.....etc
+Les SIGNAUX qui disposent de l'oeilleton et donc l'indication Carré rouge, doivent subir une modification pour fonctionner correctement avec le décodeur CPL1.
+Voici la liste de ces cibles : 05, 06 , 07, 27, 10, 12, 14, 15, 17, 19, 41.
+La modification est simple à effectuer, elle peut se faire dans les deux sens, analogique vers DCC, DCC vers analogique.
+Cette modification s'adresse aux personnes qui ont acheté par le passé des SIGNAUX analogiques commun (0) et qui souhaitent les utiliser en version DCC.

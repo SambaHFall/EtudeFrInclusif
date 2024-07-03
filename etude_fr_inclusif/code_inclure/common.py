@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-from jsonargparse import CLI
-from jsonargparse.typing import register_type
-from pathlib import Path
+# from jsonargparse import CLI
+# from jsonargparse.typing import register_type
+# from pathlib import Path
 import re
 
-register_type(Path)
+# register_type(Path)
 
 
 extra_spaces = re.compile(r'\s+')

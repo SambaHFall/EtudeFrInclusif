@@ -1,8 +1,0 @@
-Métriques pour rule-based adv :
-{'nbobs': 70, 'nbpred ': 18, 'nbtruepos': 18, 'precision': 1.0, 'recall': 0.2571428571428571, 'f1-score': 0.40909090909090906}
-Métriques pour rule-based naïf :
-{'nbobs': 70, 'nbpred ': 51, 'nbtruepos': 35, 'precision': 0.6862745098039216, 'recall': 0.5, 'f1-score': 0.5785123966942148}
-Métriques pour CRF :
-{'nbobs': 70, 'nbpred ': 34, 'nbtruepos': 34, 'precision': 1.0, 'recall': 0.4857142857142857, 'f1-score': 0.6538461538461539}
-Métriques pour Inclure :
-{'nbobs': 70, 'nbpred ': 23, 'nbtruepos': 23, 'precision': 1.0, 'recall': 0.32857142857142857, 'f1-score': 0.4946236559139785}

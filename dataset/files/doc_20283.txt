@@ -1,0 +1,164 @@
+Pas de compétences en EMI ici, mais un escape game de découverte sur le programme d’histoire de 6e, pensé avec Laura Mougel, sous forme de challenge : créer un jeu qui se sert de l’émulation non pas pour la compétition mais pour la coopération, qui peut être joué simultanément par un groupe nombreux (3 x 6 élèves, soit une petite classe ou un un grand demi-groupe), et qui peut à la fois s’organiser en présentiel et en distanciel.
+Modalités :
+– niveau : 6e
+– discipline : histoire
+– nombre d’élèves : 12 à 18
+– durée : 2 x 55 min de jeu (si demi-groupes) + 55 min de débriefing (classe entière)
+– lieu : CDI
+– matériel : vidéoprojecteur + enceintes, tableau blanc (pour noter le rappel des missions), tables organisées en 4 pôles, matériel des énigmes (un système de gommettes permet d’associer le bon matériel à chaque îlot) et décor. Tablettes pour la version numérique en présentiel ; outil de visioconférence permettant la répartition en salle pour une modalité distancielle.
+Connaissances / compétences (programme d’histoire-géographie) :
+Culture (religion, mythes, écriture) de la civilisation de l’Egypte antique
+Composition / organisation de la société égyptienne antique
+Repères géographiques de l’Egypte antique
+Lecture d’une carte de géographie
+Outils et méthodes des archéologues pour fouiller un site
+Le scénario :
+Les professeurs viennent de découvrir dans le grenier du collège une très vieille malle qui aurait appartenu à une ancienne professeur du collège, également égyptologue. Comme la découverte est exceptionnelle, les professeurs demandent aux élèves de réaliser une exposition avec les objets de la malle, exposition qui sera ouverte à tous (élèves, parents) et inaugurée par le maire. Bien sûr tout est très très fragile.
+Mais en expliquant tout cela, une des professeurs fait malencontreusement chuter une stèle, qui se brise, déclenchant l’apparition d’une momie menaçante. Si son nom n’est pas rétabli en moins de 40 minutes sur la stèle, sa malédiction sera terrible !
+En classe, la vidéo sert à la fois d’introduction, de minuteur et de final d’échec. Elle est intégrée dans l’interface Genially vidéoprojetée.
+L’organisation :
+Les élèves sont répartis spatialement, en trois groupes homogènes d’hétérogénéité (c’est à dire que dans chaque groupe, il y a autant d’élèves scolaires, peu scolaires, timides, agités…). Pour faciliter la mise en activité des élèves les plus en retrait, nous les avons désignés comme « relais », cette fonction étant identifiable par le port d’un foulard de couleur (1 par équipe). Le relais est le seul membre du groupe a pouvoir sortir de la zone de travail attribuée pour communiquer avec les autres équipes, manipuler la stèle, demander expressément un coup de pouce aux professeurs…
+Les énigmes :
+Chaque espace dédié à un groupe comprend au moins une table sur laquelle sont déposés une boussole (pour rappeler les points cardinaux), des morceaux de parchemins (permettant de reconstituer un puzzle), un livret de l’égyptologue rempli de notes, une boîte de fouille carroyée dissimulant, grâce à du sable, des tessons illustrés de hiéroglyphes, un pinceau, un labyrinthe sous forme de pyramide 3D, une carte postale, une publicité et une affiche.
+Bien que le mode de résolution des énigmes soit identique à tous les groupes, les réponses en sont différentes. Cela permet à chaque groupe de trouver le statut, l’amulette ou le dieu vénéré de la momie, ainsi qu’une partie de l’information nécessaire pour identifier la cité par recoupement.
+En cas de difficulté, les professeurs peuvent distribuer des énigmes complémentaires servant d’indices.
+Lire la suite…	
+Catégories :Séances pédagogiques Étiquettes : 6e, escape game, histoire
+Lanceur d’alerte : un escape game pédagogique virtuel en classe médias
+mai 31, 2020 Fenetresur	Laisser un commentaire
+Cette séance est née de la rencontre de deux défis :
+la nécessité de remobiliser les élèves des classes médias après 2 mois de continuité pédagogique confinée
+un concours lancé par le collectif SCAPE sur la création d’un escape game reprenant la technique de Drag & Drop qu’ils ont développée pour Genial.ly (au final : arrivée au pied du podium, mais parmi les coups de coeur !)
+Le résultat est un jeu d’évasion virtuel d’1h, sur le thème des lanceurs d’alerte. Réalisé avec une diapo Genial.ly, il suit un scénario convergent imbriqué comprenant quatre types d’énigmes (cf. typologie des énigmes de Scape) : énigme avec codage (codage par substitution), avec superposition (filtre coloré), avec observation (puzzle) et jeu de logique (message sibyllin). Lorsque le minuteur atteint zéro, le champ de validation du mot de passe disparaît, rendant impossible la poursuite du jeu.
+Objectifs :
+Remobiliser les élèves (après 2 mois de confinement)
+par le jeu
+par les interactions sociales (travail en groupe)
+Réactiver des connaissances vues précédemment en cours
+Utiliser le vocabulaire de l’article de presse
+Aborder un nouveau thème
+Sensibiliser au rôle des lanceurs d’alerte et des médias comme contre-pouvoir citoyen
+Découvrir un scandale médiatique contemporain
+Compétence :
+Identifier et nommer les différents éléments composant un article de presse
+Modalités :
+Encadrement : 2 professeurs de classe médias
+Public : classe de 6e et 5e médias (soit 25 élèves potentiels, mais 10 réellement présents)
+Outil : Classe virtuelle du CNED
+Durée : 2h (avec les soucis de micros et de connexion, la séance a duré 2h30 !)
+Matériel : ordinateurs (à privilégier aux appareils mobiles) avec connexion internet et micro/écouteurs ; compte Classe virtuelle du CNED ; diaporama de présentation ; déroulement de la séance (avec solutions) ; interface de jeu
+Lire la suite…
+Catégories :Séances pédagogiques Étiquettes : éducation aux médias, escape game
+Escape game en classe : pédagogie par l’énigme (infographie)
+juin 19, 2019 Fenetresur	Laisser un commentaire
+Cette année, via le PAF, j’ai effectué 4 sessions de formation intitulée « escape game en classe : pédagogie par l’énigme », deux dédiées spécifiquement aux professeurs-documentalistes et deux autres mêlant des publics plus variés (professeurs du secondaire en collège, en lycée et en BTS, de toutes les matières).
+La formation dure 12h et comprend 4 temps :
+1ère demi-journée :
+mise en situation en tant que joueur :
+test d’un escape game en situation réelle (Il faut sauver Brigitte Jones)
+test d’un escape game virtuel
+retour sur ces deux escape games : émotions ressenties, difficultés rencontrées
+présentation théorique : définition, enjeux, méthode de création et outils de l’escape game pédagogique
+2ème demi-journée :
+prise en main, pas à pas, des outils numériques utilisables pour un escape (création d’une copie de l’escape game virtuel vu précédemment)
+3ème demi-journée :
+mise en situation en tant que créateur d’escape game :
+réflexion et création d’un escape game à faire jouer au deuxième demi-groupe de la session
+utilisation d’un forum sur M@gistere pour échanger et se répartir les différentes activités à réaliser pour la mise en place de l’escape game.
+4ème demi-journée :
+mise en situation en tant que « game master » :
+test des escape games créés sur les autres stagiaires de la session
+retour sur les difficultés rencontrées lors de l’élaboration du jeu et en tant que « maître du jeu »
+retour sur la formation
+La partie théorique repose sur une infographie, réalisée avec Piktochart. Elle synthétise l’essentiel à retenir avant de se lancer dans l’élaboration d’un escape game pédagogique. Le site S’cape a été une véritable mine de ressources pour sa réalisation. #rendonsàCésarcequiestàCésar
+Historique et définition
+Contraintes scolaires
+Pédagogie ludifiée
+Plus-value pédagogique
+Étapes de création
+Pistes de scénarisation
+Outils mobilisables
+Coups de pouce
+Mise en place
+Lire la suite…
+Catégories :Formation Étiquettes : escape game
+Escape game EMI : Il faut sauver la journaliste Brigitte Jones
+décembre 25, 2018 Fenetresur	1 commentaire
+Pour les membres du Club Des Infospecteurs, voici une nouvelle mission mettant à l’épreuve leurs connaissances et compétences en éducation aux médias et à l’information :
+Brigitte Jones, journaliste gaffeuse, a oublié ses affaires au CDI. Le rédac-chef l’a prévenue : si dans 45 minutes, l’article qu’elle devait écrire ne lui a pas été soumis, elle sera renvoyée. Bref, elle mobilise les apprentis journalistes pour la sauver !
+Modalités :
+contexte : classe medias
+nombre d’élèves : entre 6 et 9
+niveau : 6e
+lieu : CDI
+durée : 1 séance de 55 min
+ressources : organigramme du scénario et matériel à télécharger
+L’escape game est non-linéaire : il est constitué de 3 sous-missions indépendantes mais convergentes.
+Pré-requis :
+connaître la définition de média et être capable de les identifier parmi d’autres moyens de communication
+connaître ce qu’est une information d’actualité et être capable de la distinguer de la rumeur, de l’avis personnel et de la publicité
+connaître des repères temporels relatifs sur les différents médias (cf. séance Timeline des médias)
+connaître le vocabulaire spécifique de la structure d’un article de presse et être capable d’en identifier les éléments (titre, chapô, légende).
+connaître les règles de rédaction d’un article de presse (pyramide inversée : de l’essentiel aux détails) et être capable d’organiser un article dans le respect de celles-ci.
+View this post on Instagram
+Escape game au collège : Jeudi 20 décembre, les élèves de la @classemedias ont tenté d'aider la journaliste Brigitte Jones dont les affaires ont été oubliées au CDI à écrire son article. Au programme : fouille, réflexion et manipulation. Défi relevé en 50mn. Et vous, auriez-vous réussi ? #escapegame #educationauxmedias #collegegerardphilipeparis
+A post shared by Collège Gérard Philipe (Paris) (@gerardphilipeparis) on Dec 26, 2018 at 12:32am PST
+Lire la suite…
+Catégories :Séances pédagogiques Étiquettes : éducation aux médias, escape game, jeux séreux, serious game
+Escape games au CDI : le Club Des Infospecteurs a des missions pour vous !
+juillet 11, 2018 Fenetresur	7 commentaires
+En 2015, et à la suite de ma première expérience d’escape game, j’avais proposé en fin d’année scolaire aux élèves de 6e un jeu intitulé CDI Escape, pour réviser l’ensemble des compétences info-documentaires. Néanmoins, il s’agissait plus d’un jeu de piste que d’un véritable jeu d’évasion : pas de scénario, ni de chronomètre, une recherche linéaire (l’indice 1 conduisant à l’indice 2 qui conduit à l’indice 3…).
+Depuis, j’ai joué à d’autres escape games, ai découvert le super escape game au CDI de Mali, et dans ma tête ont germé de nouvelles idées. Je vous présente donc le Club Des Infospecteurs !
+Scénarios :
+Le Centre de Documentation et d’Information n’est qu’une couverture pour le Club Des Infospecteurs, une organisation secrète dont le but est de prévenir et déjouer les complots de l’information. A sa tête, la professeur-documentaliste est chargée de recruter les agents secrets, experts en recherche d’information, et de les aider dans la bonne exécution de leurs missions.
+Actuellement, deux missions sont proposées :
+« Le Club Des Infospecteurs recrute » est un escape game virtuel, réalisé en combinant des décors créés avec Pixton, des jeux Learningapps et un assemblage permettant le « point and click » avec Genial.ly.
+« Menace sur les mangas » est un escape game en conditions réelles. Il s’appuie sur une interface combinant des vidéos réalisées avec Tellagami, un chronomètre sur Youtube (montage effectué avec VSDC), un module Learningapps et plein d’autres énigmes à résoudre en manipulant des livres (notamment, mais pas que !).
+Compétences :
+Ces deux jeux d’évasion reprennent des compétences de base de la recherche documentaire papier. Les objectifs, identiques à ceux du jeu sérieux Missions IRD, sont :
+identifier et localiser les différents espaces du CDI
+distinguer fiction et documentaire et leurs différents types
+identifier les éléments d’identification (auteur, titre, éditeur) d’un document
+se repérer dans le classement des cotes de fiction et de documentaire, pour trouver et ranger un livre
+utiliser esidoc, la base en ligne du CDI, pour trouver un document
+identifier un mot-clé simple
+affiner les résultats d’une recherche
+lire une notice
+retrouver un document (fiction ou documentaire) grâce à sa cote
+chercher une définition dans le dictionnaire (uniquement dans la mission « menace sur les mangas)
+utiliser les outils du livre (sommaire, glossaire, index) pour localiser une information précise (uniquement dans la mission « menace sur les mangas)
+Lire la suite…
+Catégories :Séances pédagogiques Étiquettes : escape game, IRD
+RSS feed
+Google
+Youdao
+Xian Guo
+Zhua Xia
+My Yahoo!
+newsgator
+Bloglines
+iNezha
+Bienvenue sur le blog Fenetresur
+Webmaster : Claire Cassaigne, professeur-documentaliste au collège Gérard Philipe (Paris).
+Fenetresur sur Twitter
+RT @explometierstv: RT @DANEVersailles 📣 #EducateTice : quand la @RAIledeFrance parle d’une même voix 🎮 Les #escapegame en contexte pédago… 4 days ago
+RT @ScapEdu: Trois membres de s'cape (@fenetresur , @melfenaert & @_enepe_ ) présenteront conjointement l'origine de ce #blablascape S'CAPE… 1 week ago
+Follow @fenetresur
+S'abonner par e-mail au blog
+Entrez votre adresse mail pour suivre ce blog et être notifié(e) par email des nouvelles publications.
+Rejoignez 276 autres abonnés	
+Adresse e-mail :	
+Recevoir les nouveaux articles par mail
+Catégories
+Boîte à outils (36)
+CAPES doc (15)
+CDI (23)
+Etudiants 2.0 (19)
+Formation (12)
+Séances pédagogiques (96)
+Nuage de mots-clefs
+1ere 2nde 3e 4e 5e 6e anglais bibliographie BTS CAFFA CAPES doc carte heuristique club collège comparatif Dewey droit d'auteur défibabelio EMC escape game esidoc exposé oral fiche outil CDI français gestion GIPTIC géographie histoire identité numérique image IRD jeux séreux latin / grec lecture lycée mutualisation médiation orientation primaire recherche réflexion sur le métier réseaux sociaux serious game svt TPE tuto ULIS veille vidéo vocabulaire éducation aux médias
+Publications
+"Les cartes mentales", Les Cahiers pédagogiques n°508 (dossier : Apprendre à chercher, chercher our apprendre), novembre 2013
+"Vers une identité numérique des CDI", InterCDI n°236, mars-avril 2012
+De la dissémination à l'identité numérique des CDI : enjeux pédagogiques et identitaires des CDI virtuels (mémoire sur memSIC)

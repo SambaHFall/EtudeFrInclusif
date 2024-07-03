@@ -1,0 +1,196 @@
+Il s’agit d’une collection de liens vers des ensembles de données climatiques, des outils, des guides et des ressources connexes. Ces ressources proviennent des gouvernements fédéral, provinciaux et territoriaux, les organisations professionnelles nationales, les consortiums climatiques et les organisations internationales établies. Elles peuvent être utiles pour les évaluations de l’impact, de la vulnérabilité et des risques, ainsi que pour la planification de l’adaptation.
+Affinez votre recherche en utilisant les filtres de recherche. Vous pouvez également entrer jusqu’à 5 mots clés dans la barre de recherche.
+Si vous avez des questions, communiquez avec le Centre d’aide des Services climatiques.
+Merci. Votre suggestion de nouvelle ressource à ajouter a été envoyée.
+Merci. Ce lien périmé a été signalé.
+Une erreur s'est produite lors de la suggestion d'une nouvelle ressource. Veuillez réessayer plus tard.
+Une erreur a été commise lors du signalement du lien périmé, veuillez réessayer plus tard.
+Ce lien ne peut être signalé comme périmé avant que 2 minutes ne se soient écoulées
+Explication des différents types de ressources
+produit de données - ensemble de données téléchargeable sur le climat;
+outil - s’appuie sur un ensemble de données avec d’autres analyses ou visualisations;
+guide - fournit des conseils sur l’utilisation de l’information climatique ou sur la réalisation d’évaluations liées au climat;
+codes et standards - Documents d’orientation et de pratiques exemplaires pour une conception résiliente aux changements climatiques
+les autres ressources comprennent du matériel d’éducation et de sensibilisation, des évaluations d’impact et des synthèses scientifiques.
+Recherche de Dossiers
+Suggérez une ressource
+Recherche...
+Filtres de recherche Effacer tout
+Secteur
+Agriculture (1)
+Municipalités (1)
+Ressources en eau (1)
+Effacer tout Effacer tout Secteur
+Impact des dangers
+Conditions météorologiques extrêmes (2)
+Couvert de neige (2)
+Feu (1)
+Glace de lac (1)
+Glace de mer (3)
+Afficher plus Afficher plus Impact des dangers
+Effacer tout Effacer tout Impact des dangers
+Juridiction
+Alberta (2)
+Colombie Britannique (4)
+Île du Prince Édouard (3)
+Manitoba (2)
+Nouveau-Brunswick (3)
+Afficher plus Afficher plus Juridiction
+Effacer tout Effacer tout Juridiction
+Historique/Avenir
+Futur (8)
+Historique (9)
+Effacer tout Effacer tout Historique/Avenir
+Variables
+Autre (4)
+Chaleur (3)
+Conditions météo (1)
+Courbes d'intensité-durée-fréquence (2)
+Couvert de neige (1)
+Afficher plus Afficher plus Variables
+Effacer tout Effacer tout Variables
+Type de ressource
+Orientation (1)
+Outil (7)
+Produit dérivé de données (8)
+Ressources supplémentaires (1)
+Effacer tout Effacer tout Type de ressource
+Source
+Consortium (1)
+Fédéral (1)
+International (3)
+Milieu universitaire (5)
+Organisation non gouvernementale (3)
+Afficher plus Afficher plus Source
+Effacer tout Effacer tout Source
+Type de données
+Basées sur les observations (9)
+Mises à l'échelle de manière statistique (6)
+Modélisées (8)
+Observées (7)
+Réanalyse (9)
+Afficher plus Afficher plus Type de données
+Effacer tout Effacer tout Type de données
+Type de format
+Cartographié (7)
+Évaluation des impacts (1)
+Fichiers (9)
+Graphique (7)
+Interactif (6)
+Afficher plus Afficher plus Type de format
+Effacer tout Effacer tout Type de format
+Type spatial
+Grille (6)
+Point (9)
+Polygone (4)
+Effacer tout Effacer tout Type spatial
+Résolution temporelle
+Horaire (1)
+Quotidienne (3)
+Hebdomadaire (2)
+Mensuelle (4)
+Saisonnière (7)
+Afficher plus Afficher plus Résolution temporelle
+Effacer tout Effacer tout Résolution temporelle
+Afficher 1 à 9 de 9 entrées
+Trier par Alphabétique Croissant Alphabétique Décroissant
+Point
+Réanalyse
+Atlas agroclimatique du Québec (Opens in a new Window)
+L’Atlas agroclimatique du Québec contient des observations historiques et de futurs indicateurs climatiques modélisés pour diverses régions du Québec. Des scénarios d’émissions modérées et élevées sont disponibles et les indicateurs sont présentés sous forme cartographiée et graphique. Les indicateurs sont présentés sous forme de moyennes saisonnières sur les périodes d’horizon et comprennent les dates de gel, les températures extrêmes, la saison de croissance, les degrés-jours, les unités thermiques du maïs, le durcissement, le désendurcissement, les précipitations, le bilan hydrique et les graphiques d’intensité-durée-fréquence.
+Organisation:
+Centre de référence en agriculture et agroalimentaire du Québec (CRAAQ)
+Formats de ressource:
+Fichiers
+Graphique
+Cartographié
+Rapportez un lien périmé
+Atlas climatique du Canada (Opens in a new Window)
+L’Atlas climatique du Canada est un outil interactif qui permet de mieux connaître les changements climatiques au Canada. Il combine la climatologie, la cartographie et la narration. La principale source des données du modèle climatique présentées sur les cartes et les graphiques et dans les tableaux est le Pacific Climate Impacts Consortium. Les données réduitent a l'échelle statistique ont été dérivées de 12 modèles climatiques globaux du projet d’intercomparaison de modèles couplés (CMIP5) pour deux scénarios d’émissions: profils représentatifs d’evolution de concentration (RCP) pour les scénarios 4.5 et 8.5. À des fins de comparaison, les données observées sont incluses dans tous les graphiques chronologiques pour la période 1950-2005. La source des données observées utilisées dans l’Atlas est de Ressources naturelles Canada.
+Organisation:
+Centre climatique des Prairies
+Formats de ressource:
+Fichiers
+Interactif
+Graphique
+Cartographié
+Outil
+Matériel éducatif et de sensibilisation
+Rapportez un lien périmé
+BC Climate Explorer (en anglais seulement) (Opens in a new Window)
+L’explorateur du climat de la Colombie-Britannique est un projet indépendant et de source ouverte permettant de visualiser des données en utilisant les unités de classification biogéoclimatique des écosystèmes (CBE) de la Colombie-Britannique. L’objectif est d’aider les Britanno-Colombiens - citoyens, professionnels et fonctionnaires - à comprendre les changements climatiques locaux en utilisant les données climatiques historiques et projetées. Un large éventail de variables est disponible, y compris la température, les précipitations, la durée de la saison, le gel, le déficit d’humidité, l’humidité et des indicateurs calculés aux résolutions mensuelles, saisonnières et annuelles. Les données sont affichées sous forme de données sur grille et peuvent être téléchargées sous forme de tableaux, de polygones ou de grille.
+Organisation:
+BC Climate Explorer
+Formats de ressource:
+Fichiers
+Interactif
+Cartographié
+Outil
+Rapportez un lien périmé
+Canadian Cryospheric Information Network (en anglais seulement) (Opens in a new Window)
+Le Réseau canadien d’information sur la cryosphère fournit de l’information sur les mesures, la modélisation et la compréhension des relations complexes entre la cryosphère et le système climatique de la Terre. Il contient des visualisations de données sur l’équivalent en eau de la neige actuel et historique, l’épaisseur de la glace de mer et la couverture de glace lacustre actuelle et historique. Les données historiques et futures sont disponibles sous forme de données ponctuelles et sur grille.
+Organisation:
+Réseau canadien d’information sur la cryosphère, Université de Waterloo
+Formats de ressource:
+Fichiers
+Interactif
+Évaluation des impacts
+Synthèse scientifique
+Graphique
+Cartographié
+Outil
+Rapportez un lien périmé
+Climate + Weather Tools (en anglais seulement) (Opens in a new Window)
+Le site de Scenarios Network for Alaska + Arctic Planning (SNAP) contient un répertoire d’outils interactifs en ligne qui visent à rendre plus accessibles les données climatiques et météorologiques sur l’Arctique.
+Organisation:
+Université de l’Alaska à Fairbanks
+Formats de ressource:
+Fichiers
+Interactif
+Graphique
+Cartographié
+Outil
+Planification de l’adaptation
+Rapportez un lien périmé
+Extreme Precipitation in Atlantic Canada (en anglais seulement) (Opens in a new Window)
+L'outil sur les précipitations extrêmes au Canada atlantique vise à étendre les analyses imprimées d’intensité-durée-fréquence (IDF) d’Environnement et changement climatique Canada (ECCC) pour le Canada atlantique au moyen d’un outil Web interactif. L’outil Web offre aux utilisateurs un meilleur accès et une meilleure visualisation des données ponctuelles officielles IDF d’ECCC. Les composantes de l'outil comprennent des graphiques et des tableaux familiers basés sur les stations IDF d’ECCC auxquels on accède à l’aide d’une interface de navigateur cartographique, des graphiques et des tableaux IDF fondés sur des données sur grille pour fournir des renseignements sur les emplacements entre les sites d’observation, des cartes isolignes régionales et provinciales des pluies extrêmes, des fichiers de grille ASCII téléchargeables, ainsi que l’intégration des données états-uniennes pour améliorer la visualisation à la frontière et l’accès aux données des stations états-uniennes.
+Organisation:
+Cornell University, Gouvernement du Canada: Environnement et Changement Climatique Canada, Gulf of Maine Council on the Marine Environment
+Formats de ressource:
+Fichiers
+Graphique
+Cartographié
+Rapportez un lien périmé
+Scenarios Network for Alaska and Arctic Planning (en anglais seulement) (Opens in a new Window)
+Le Scenarios Network for Arctic Planning (SNAP) produit des données climatiques désagrégées, historiques et projetées pour les régions subarctiques et arctiques de l’Alaska et du Canada. D’autres données propres à des projets couvrent des régions beaucoup plus vastes. Les utilisateurs peuvent chercher des ensembles de données d’intérêt à l’aide de mots clés et filtrer les ensembles de données en fonction de la pertinence, du nom et de la date de la dernière modification. Des outils d’analyse sont également disponibles pour les incendies de forêt en Alaska, les projections climatiques, les antécédents climatiques, les précipitations quotidiennes, les conditions météorologiques extrêmes, la glace de mer historique, la couverture modélisée de la glace de mer et les interactions entre la glace de mer et le vent.
+Organisation:
+Université de l’Alaska à Fairbanks
+Formats de ressource:
+Fichiers
+Graphique
+Rapportez un lien périmé
+Station Hydrologic Model Output (en anglais seulement) (Opens in a new Window)
+La page de résultats de stations obtenus d'un modèle hydrologique donne accès à des données simulées sur le débit pour des emplacements situés dans l'ensemble de la Colombie-Britannique, au Canada. Les utilisateurs peuvent sélectionner les emplacements d’intérêt sur une carte grillée interactive, ou effectuer une recherche par identifiant ou nom de la station. Les données simulées comprennent des séries chronologiques quotidiennes de débit pour plus de 120 sites dans les bassins versants de la rivière de la Paix, du cours supérieur du fleuve Columbia, du fleuve Fraser et de la rivière Campbell. Les sites de débit correspondent aux stations de mesure de Relevés hydrologiques du Canada et aux sites du projet de BC Hydro. Les données de stations sont annexées au format ASCII pour fins de téléchargement.
+Organisation:
+Pacific Climate Impacts Consortium
+Formats de ressource:
+Fichiers
+Interactif
+Cartographié
+Outil
+Rapportez un lien périmé
+Trouver des données locales (Opens in a new Window)
+Trouver des données locales est un outil de recherche qui permet aux utilisateurs de trouver des données climatiques. Les utilisateurs peuvent effectuer une recherche par emplacement géographique, municipalité et région au Canada. Les données disponibles comprennent plusieurs variables climatiques, projetées pour 2021-2050 et 2051-2080, selon deux scénarios d’émissions, et à des résolutions annuelles ou saisonnières. Les données futures sont disponibles sous forme de données ponctuelles.
+Organisation:
+Centre climatique des Prairies
+Formats de ressource:
+Fichiers
+Interactif
+Graphique
+Outil
+Rapportez un lien périmé
+Tel que mentionné dans l’Avis applicable à ce site Web , les hyperliens menant à des sites Web qui ne sont pas gérés par le gouvernement du Canada sont offerts « TELS QUELS » et uniquement par commodité aux visiteurs de notre site Web. Nous n’assumons aucune responsabilité quant à la précision, l’actualité ou la fiabilité du contenu de ces sites. Le gouvernement du Canada n’offre aucune garantie à cet égard et n’assume aucune responsabilité concernant l’information obtenue au moyen de ces liens. Les visiteurs doivent également savoir que l’information offerte par les sites autres que ceux du gouvernement du Canada, accessibles à l’aide des liens de ce site Web, n’est pas assujettie à la Loi sur la protection des renseignements personnels ni à la Loi sur les langues officielles ,et pourrait ne pas être accessible aux personnes handicapées. Il est probable que l’information offerte ne soit disponible que dans les langues employées dans les sites en question. En ce qui a trait aux renseignements personnels, nous invitons les visiteurs à consulter les politiques de ces sites Web non gouvernementaux en matière de protection des renseignements personnels avant de fournir leurs renseignements personnels.
+Plus de ressources du Centre canadien des services climatiques
+Renseignements essentiels sur le climat : tendances des changements climatiques, science climatique, services climatiques
+Communiquez avec le Centre d’aide des Services climatiques : 1-833-517-0376; obtenir de l’aide afin de trouver, comprendre et utiliser des renseignements climatiques
+Afficher et télécharger les données climatiques : chercher, explorer et visualiser des données climatiques

@@ -1,0 +1,84 @@
+Trouver les touches, c’est important ; les sauver également. Et il est vrai que certaines décisions prises par les arbitres de touche sèment parfois le trouble. Décryptons quelques situations.
+Il est parfois difficile de comprendre pourquoi tel ou tel sauvetage a été refusé. À travers deux cas de jeu, nous allons voir à partir de quand le ballon est considéré comme étant en touche.
+Cas n°1 – Le sauvetage du ballon
+Sur l’image, on constate que le ballon a franchi le plan vertical de la touche : cela veut dire qu’il est en l’air, mais du côté de la touche. Il en va de même pour le joueur au moment où il dévie le ballon — bien qu’il ait pris son impulsion dans l’aire de jeu. Il y a touche.
+En effet, ce n’est pas le dernier point d’appui du joueur qu’il faut prendre en compte. Un sauvetage de ce type n’est correct que si le sauteur retombe dans l’aire de jeu, et ce même s’il a dévié le ballon en l’air ! L’idée à retenir est la suivante : lorsque le joueur et le ballon ont tous deux franchi le plan vertical, il y a touche. (Précisons toutefois que si le joueur garde ses appuis au sol dans l’aire de jeu, il peut évidemment dévier ou saisir le ballon sans qu’il n’y ait touche.)
+Dans la situation que nous étudions, la touche ne pouvait donc pas être sauvée.
+Toutefois, cette définition pourrait évoluer très prochainement afin de permettre davantage de sauvetages (cela fait en tout cas partie des règles expérimentées par World Rugby depuis quelques mois). La continuité du jeu se verrait alors améliorée.
+[MàJ du 20/12/16] Le changement de règle a effectivement été approuvé par World Rugby, et entrera en vigueur dès le mois d’août 2017 pour l’hémisphère Nord. Un joueur ayant pris son impulsion dans l’aire de jeu pourra sauver une touche s’il envoie le ballon dans l’aire de jeu avant de retomber.
+Cas n°2 – La manipulation du ballon depuis la touche
+Sur cette action en revanche, le ballon n’a pas franchi le plan vertical de la ligne de touche : il est encore sur le terrain. Le joueur, lui, est en touche (puisqu’il a un pied hors de l’aire de jeu) et botte le ballon. Il n’y a pas touche.
+Ce n’est pas parce que le ballon rentre en contact avec un joueur en touche… qu’il y a touche ! À condition que le ballon n’ait pas franchi le plan vertical, un joueur qui est hors de l’aire de jeu peut tout à fait botter ou dévier le ballon, tant qu’il n’en devient pas le porteur. En revanche, les joueurs en touche (ou en ballon mort) qui se saisissent du ballon dans l’aire de jeu le rendent mort, et concèdent même la sortie du terrain si le ballon était immobile.
+Pas facile d’être arbitre de touche.
+Y a des chances que ça intéresse les autres, non ?
+Tweet
+E-mail
+Imprimer
+Articles similaires
+Étiquettes : plan vertical, porteur du ballon, sauvetage, touche
+15 Commentaires
+peperehonni · 18 septembre 2017 - 1 h 26 min · Réponse→	
+Tiens, du coup, avec les nouvelles règles 2017 :
+RÈGLE n°19 : TOUCHE ET ALIGNEMENT
+[ajout] Touche : Définition. Un joueur qui tente de contrôler le ballon est considéré être en possession du ballon.
+Le joueur qui repousse le ballon du pied depuis la touche (comme dans le second exemple) compte-t-il comme « tentant de contrôler le ballon » ? Il y aurait alors touche, n’est-ce pas ?
+espritdelaregle · 18 septembre 2017 - 7 h 49 min · Réponse→	
+Non, un joueur qui botte le ballon ne tente pas d’en avoir la possession, par conséquent il n’y a pas touche !
+Sylche · 6 janvier 2016 - 21 h 30 min · Réponse→	
+Je découvre votre site. Une mine. Merci beaucoup.
+Et Je croise les doigts pour qu’on ne simplifie jamais ces règles parce que, telles qu’elles sont elles demandent une telle compétences qu’elle garantissent que « il y a faute… quand l’arbitre dit qu’il y a faute »
+Philippe Rioux · 30 octobre 2015 - 20 h 34 min · Réponse→	
+Wahou ! c’est super complexe. Mais ceci m’amène à la question suivante : Pourquoi dans ce cas ne voit on pas sur les pénalités d’action de défense avec un ailier DEJA en touche qui volleyerait à fin d’éviter la touche ? (l’inverse du cas 1 l’ailier par de la touche et saute vers le terrain)
+espritdelaregle · 31 octobre 2015 - 13 h 25 min · Réponse→	
+Peu de chance d’être accordé car il faut que le ballon n’ait pas franchi le plan vertical de la touche. Mais effectivement ce serait malin !
+seb · 28 octobre 2015 - 16 h 52 min · Réponse→	
+Donc si je comprend bien, si un joueur est en touche mais volleye juste le ballon avec les main, si se dernier n’a pas franchi le plan vertical il n’y a pas touche ?
+espritdelaregle · 28 octobre 2015 - 16 h 55 min · Réponse→	
+Exact !
+seb · 28 octobre 2015 - 22 h 55 min · Réponse→	
+le truc bien pute quand même, car à tout les coups les adversaires s’arrête persuadé qu’il y a touche. Bon par contre derrière c’est scandale, injure du public, et si c’est en top 14 guillemin qui dit qu’il ne comprend pas cette énorme erreur, trillot qui interroge tout le monde là dessus et le président du club « lésé » qui parle de sodomie^^.
+Anonyme · 28 octobre 2015 - 17 h 55 min · Réponse→	
+Je ne crois pas… Puisque sur le premier exemple, du fait qu’il retombe en touche, la touche ne peut pas être sauvé.
+La question a se poser serait je pense: si je joueur est en touche, qu’il saute en direction de l’air de jeu et volleye le ballon des mains puis retombe dans l’air de jeu, LA y’a t’il sauvetage?
+espritdelaregle · 28 octobre 2015 - 19 h 13 min · Réponse→	
+Si, la question posée par seb correspond au cas nº2.
+En ce qui concerne la tienne : si le ballon a franchi le plan vertical, il y a touche – sinon non.
+Thomas · 16 novembre 2015 - 13 h 31 min · Réponse→	
+A mon avis, il manque un détail dans votre réponse. OK pour le cas où le joueur est en touche et ne fait que volleyer la balle : c’est le plan vertical qui fait foi.
+Mais si le joueur prend son impulsion en touche, boxe le ballon dans le terrain alors qu’il est en l’air et retombe dans terrain, pourquoi y a-t-il touche ?
+Il faut bien préciser que l’impulsion doit être prise dans l’aire de jeu, et pas seulement la réception sinon il manque une information.
+Philippe · 17 novembre 2015 - 12 h 26 min · Réponse→	
+Eh bien non il n’y a pas touche (pour répondre à la première question de votre intervention) puisque le ballon boxé n’a jamais franchi le plan vertical de la touche. En tout cas c »est ce que j’ai compris de l’article. Et donc l’endroit ou on prend son impulsion et où on retombe n’a aucune importance finalement (du moment qu’on ne tient pas le ballon). J’ai appris un truc! 🙂
+Thomas · 26 novembre 2015 - 11 h 36 min · Réponse→	
+Dans mon exemple, le ballon franchit bien évidemment le plan vertical de la touche sinon il n’y a pas débat, on est d’accord (quel est l’intêret d’ailleurs de se positionner en dehors du terrain si le ballon ne franchit pas le plan vertical, autant rester à l’aplomb de la ligne de touche).
+SYLVIE CHEVALLIER · 18 septembre 2017 - 10 h 24 min · Réponse→	
+Si le joueur est déjà hors du terrain suite à une action de jeu, ou s’il anticipe la sortie du ballon et s’y met pour renvoyer le ballon dans le terrain avant qu’il ne franchisse le plan vertical, si j’ai bien compris, il n’y a pas touche.
+Bon d’accord, il faut déjà deux « si » mais… ça peut arriver 😉
+espritdelaregle · 19 septembre 2017 - 9 h 14 min · Réponse→	
+Exactement, mais ce à condition qu’il ne fasse que dévier le ballon et qu’il n’en devienne pas porteur !
+Répondre à Thomas Annuler la réponse.
+Entrez votre commentaire...
+Entrez vos coordonnées ci-dessous ou cliquez sur une icône pour vous connecter:
+E-mail (adresse strictement confidentielle)
+Nom
+Site web
+Vous commentez à l’aide de votre compte WordPress.com.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Google.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Twitter.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Facebook.	( Déconnexion / Changer )
+Annuler
+Connexion à %s
+Avertissez-moi par e-mail des nouveaux commentaires.
+Avertissez-moi par e-mail des nouveaux articles.
+Δ
+← [Australie-Écosse] L’en-avant a-t-il été repris par un joueur hors-jeu ?
+[Désignations] Six Nations 2016 : statu quo… ou presque →
+Mes Tweets
+Pour nous suivre
+Vous serez informé(e) de la publication de nouveaux articles. Merci de nous soutenir. 🙂
+Rejoignez 4 909 autres abonnés	
+Adresse e-mail :	
+Je m'abonne !
+Un site WordPress.com.
+Confidentialité & Cookies : Ce site utilise des cookies. En continuant à utiliser ce site, vous acceptez leur utilisation.
+Pour en savoir davantage, y compris comment contrôler les cookies, voir : Politique relative aux cookies	

@@ -1,0 +1,60 @@
+Warning: session_start() [function.session-start]: Cannot send session cookie - headers already sent by (output started at /home/letempsdh/www/joomla/configuration.php:60) in /home/letempsdh/www/joomla/libraries/joomla/session/session.php on line 423
+Warning: session_start() [function.session-start]: Cannot send session cache limiter - headers already sent (output started at /home/letempsdh/www/joomla/configuration.php:60) in /home/letempsdh/www/joomla/libraries/joomla/session/session.php on line 423
+Warning: Cannot modify header information - headers already sent by (output started at /home/letempsdh/www/joomla/configuration.php:60) in /home/letempsdh/www/joomla/libraries/joomla/session/session.php on line 426
+Queenstown : en Terre du Milieu
+Le temps d'un voyage
+Tour du monde de Stan & Flo 2010-2011
+Accueil
+Présentation
+Notre itinéraire
+Contactez-nous
+Accueil Nouvelle-Zélande Queenstown : en Terre du Milieu
+Carnet de voyage
+Avant le départ
+Hong-Kong
+Indonésie
+Australie
+Nouvelle-Calédonie
+Nouvelle-Zélande
+Chili
+Argentine
+Bolivie
+Pérou
+Brésil
+Nos rencontres
+Médias
+Nos photos
+Nos vidéos
+Bonus
+Radio
+Newsletters
+Préparatifs
+Informations
+Itinéraire & Billets
+Budget
+Site Internet
+Equipement
+Papiers & Formalités
+Queenstown : en Terre du Milieu
+Samedi, 05 Février 2011 18:32 | Écrit par Flo & Stan | | |
+Du 13 au 18 décembre 2010
+Du sud, c'est en longeant l'immense lac Waikatipu que nous arrivons à Queenstown, réputée pour être la capitale des sports extrêmes et avoir servi de décors à de nombreuses scènes du Seigneur des Anneaux. Le contraste avec le Southland est assez saisissant, surtout en termes de température. En ville, nous retrouvons toute l'effervescence d'un haut-lieu touristique avec ses restaurants, magasins et agences de voyage. Cela dit, nous nous éloignons rapidement du centre-ville pour passer la nuit au bord du lac de Queenstown et assister au coucher de soleil sur les sommets qui le dominent.
+Notre séjour dans l'Otago sera principalement axé sur la marche à pied. Depuis le début de notre séjour en Nouvelle-Zélande, nous évoluons dans des paysages qui peuvent nous paraître familiers : montagnes, lacs, rivières... Au-delà de la beauté des paysages, ce qui frappe ici, c'est le sentiment d'immensité ! Contrairement à l'Europe, la densité de population est tellement faible en Nouvelle-Zélande, surtout dans l'île du sud, que nous évoluons la plupart du temps au milieu d'une nature immense et vierge de traces de civilisation...
+Nous ne pourrons malheureusement pas emprunter de Great Walks, fameux sentiers de grande randonnée néo-zélandais, qui se parcourent sur 3 à 8 jours. Le camping y est en effet interdit et les places en refuge sont à réserver plusieurs mois à l'avance pendant la haute saison. Lors de notre demande sur le site du DOC, la réponse est claire : "prochaine disponibilité : le 13 mars" ! Tant pis, nous nous rattraperons sur des randonnées à la journée.
+Autour de Glenorchy :
+Invisible Gold Mine (3h, facile) : après une montée dans la forêt, nous découvrons les restes les ruines de la mine d'or ainsi qu'une superbe vue sur la Rees Valley.
+Section du Rees-Dart Track (4h30, facile) : arriver au bout des 38km de piste de Paradise Valley est une aventure en soi. Entre les cailloux, la tôle ondulée et les rivières à traverser, c'est d'abord notre van qui souffre ! Au bout de la piste, nous longeons la Dart River sur laquelle s'aventurent à vive allure quelques jet-boats, invention locale. Avec un moteur d'avion de chasse, ces bateaux procurent sensations fortes aux passagers ceinturés, à base de virages rasant les rochers et de 360° ! Nous, nous préférons suer... Le sentier serpente essentiellement dans les bois. Par endroit, la vallée s'élargit et le sentier traverse de larges étendues de hautes herbes, nous donnant une vue imprenable sur les montagnes et glaciers qui nous entourent.
+Autour de Wanaka :
+Diamond Lake + Rocky Moutains (3h, facile à moyen) : Ces dernières portent bien leur nom avec leurs pentes raides et glissantes et sentier en bord de falaise. Arrivés au sommet, la vue sur le lac et le mont Aspiring est complètement bouchée par les nuages... Heureusement, nous profitons d'un très beau point de vue sur Diamond Lake, très sombre, qui reflète les montagnes et nuages environnants.
+De Queenstown à Wanaka, nous passons par les belles gorges de la rivière Kawarau. Au passage par le pont historique où a été créé le premier bungy ou saut à l'élastique, nous nous arrêtons forcément ! Le cadre est grandiose : rivière aux couleurs bleu-vert, encaissée entre des falaises dorées par le soleil. Nous entrons dans le temple du Bungy. Tout est fait pour vous inciter à vous élancer dans le vide : musique rock, photos souvenirs, vidéo sur écran géant et terrasse aménagée avec vue imprenable sur les volontaires en manque d'adrénaline. De là nous observons amusés leurs sauts hésitants. Et bien sur, Stan ne résiste pas et s'élance pour un premier saut de l'ange, arrivée torse dans l'eau, suivi d'un deuxième ! (Voir la vidéo)
+Nous quittons Queenstown à regret. Vu le nombre de randonnées et d'activités possibles, à elle seule, la région mérite le voyage et d'y passer au moins 2 semaines de vacances !
+Toutes les photos de Queenstown et des environs ICI
+Bonnes adresses autour de Queenstown
+Queenstown :
+"The place to be" pour expérimenter toutes sortes de sensations fortes : chute libre, saut à l'élastique, parapente, jet-boat... Malheureusement nous n'avons pas pu tout tester ;-)
+Glenorchy :
+Le Rees-Dart Track (5 jours) est une bonne alternative aux Great walks au départ départ de Glenorchy, car beaucoup moins fréquentée. Il n'est pas nécessaire de réserver les refuges des semaines en avance.
+Paradise Valley est un bon spot de camping sauvage. Par contre, prévoir un bon anti-sandflies !
+Wanaka :
+Le Aspiring Campervan Park, à l'ouest de la ville en longeant le lac. 39 NZD (23€) l'emplacement avec électricité. Pour ce prix, et contrairement à beaucoup d'autres parcs de la région, les douches et le wifi sont inclus. La cuisine / salle à manger est très cosy et il y a un bel espace BBQ.
+Autre option moins chère : le campsite du DOC d'Albert Town à 7 NZD/pers. (soit 8€ pour 2), près d'une rivière. L'eau était fraîche mais Stan y a fait quelques longueurs.

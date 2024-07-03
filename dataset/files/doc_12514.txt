@@ -1,0 +1,41 @@
+aufeminin, responsable de traitement, collecte ces données afin de vous adresser des communications commerciales personnalisées, sous réserve de vos choix. Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, vous pouvez consulter notre Politique de protection des données personnelles.
+Go
+du fun, des news, des bons plans... what else ?
+Elle est la plus grande adolescente du monde. A 17 ans, Elisany da Cruz Silva mesure 2,06 mètres. Longtemps complexée par sa taille, elle vient de trouver un amoureux, qui lui, mesure 1 mètre 60 !
+Elle est la plus grande adolescente du monde, un record dont Elisany da Cruz Silva se serait bien passée. C’est une tumeur de l’hypophyse qui a provoqué ce dérèglement hormonal faisant que la jeune fille a grandi bien plus et plus vite que ses camarades. A 11 ans, la brésilienne grandissait déjà bien plus rapidement que les autres membres de sa famille, et à 15 ans, elle subissait enfin l’ablation de sa tumeur. Une opération qui a fait perdre sur le coup 1 cm à l’adolescente qui a fini par reprendre sa croissance malgré tout.
+Elisany, qui souffrait énormément des moqueries de ses camarades, a pourtant trouvé l’amour auprès de Francinaldo, 22 ans, bien plus petit qu’elle, mais qui se fiche bien de cette différence de taille ! Peu importe le regard des autres, ils s’aiment ! Et la jeune femme a pris une grande décision, celle d’arrêter les cours pour se dédier à une carrière de mannequin, faisant ainsi de sa taille un atout !
+{{> diapoPicture }}
+{{> diapoHeader }}
+{{> diapoSubHeader }}
+{{{sButtons}}}
+{{{getAdPlacementHTML}}}
+{{subtitleLabel}}
+{{{sButtons}}}
+{{else}}
+{{currentIndex}} / {{nbPhotos}}
+{{/if}}
+{{#if hasAlert}} {{/if}}
+{{#if photoDescription}} {{#unless isOPS}}
+view more
+{{/unless}} {{/if}} {{#unless isOPS}}
+{{photoCredits}}
+{{/unless}}
+{{this.[1]}}
+{{/each}}
+Caroline Lanau-Imbert
+Chaque jour, la rédaction d'aufeminin s'adresse à des millions de femmes et les accompagne dans toutes les étapes de leur vie. La rédaction aufeminin est composée de rédactrices engagées et …
+154 partages
+insolite	
+Vous aimerez aussi
+Les Filles d'à côté : Que sont-ils devenus ? (Photos)
+Le Hobbit : La transformation bluffante des acteurs (Photos)
+Chirurgie esthétique : Des avant/après incroyables en Corée (Photos)
+Loft Story : Que sont-ils devenus ? (Photos)
+100 actrices porno sans maquillage : Ça fait peur ! (Photos)
+Défigurée à cause d'une coloration des sourcils (Photos)
+DALS 5 : Fauve Hautot a bien changé en 8 ans (Photo)
+Le Miel et les Abeilles : Les acteurs 20 après (Photos)
+Céline Dion : Retour sur 30 ans de looks (Photos)
+Danse avec les stars : Fauve Hautot ne vous fait-elle pas penser à quelqu'un ? (
+Ne ratez rien !
+subscribe Aufeminin, responsable de traitement, collecte ces données afin de vous adresser des communications commerciales personnalisées, sous réserve de vos choix. Pour en savoir plus sur la gestion de vos données personnelles et pour exercer vos droits, vous pouvez consulter notre Politique de protection des données personnelles.

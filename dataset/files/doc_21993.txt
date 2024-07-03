@@ -1,0 +1,85 @@
+Séquençage des gènes de la voie RAS/RAF dans le cancer colorectal primaire et appariement des métastases du foie et du poumon
+Autisme
+Biologie
+Cardiologie
+Cas cliniques
+Dermatologie
+Diététique
+Endocrinologie
+Gastro entérologie
+Génétique publications
+Hématologie
+Imagerie médicale
+Immunologie
+Maladies infectieuses
+Maladies rares
+Médecine complémentaire
+Neurologie
+Odontologie
+Oncologie
+Ophtalmologie
+Oto-rhino-laryngologie
+Parasitologie
+Pédiatrie
+Pneumologie
+Psychiatrie
+Psychologie publications
+Publication médecine
+Rhumatologie
+Santé des femmes
+Santé publique
+Somnologie
+Traumatologie
+Urologie
+Virologie
+Séquençage des gènes de la voie RAS/RAF dans le cancer colorectal primaire et appariement des métastases du foie et du poumon	
+Les mutations de la voie RAS/RAF prédisent la résistance aux anticorps des récepteurs du facteur de croissance anti-épidermique dans le cancer colorectal (CRC), et pourraient être des cibles pour de futures thérapies.
+Cette étude examine la concordance du statut des mutations BRAF, HRAS, KRAS, NRAS et PIK3CA dans le CRC primaire avec des métastases hépatiques (n = 274), pulmonaires (n = 114) ou des métastases hépatiques et pulmonaires combinées (n = 14).
+Méthodes
+Le séquençage de nouvelle génération a été effectué sur l'ADN du CRC fixé au formol et enrobé de paraffine et sur des métastases hépatiques et/ou pulmonaires correspondantes, pour des mutations récurrentes dans les BRAF, HRAS, KRAS, NRAS et PIK3CA et en utilisant la méthode de la sonde d'inversion moléculaire monomoléculaire.
+Résultats
+Des résultats de séquençage par paires sur les cinq gènes ont été obtenus dans 249 des 402 cas (62 %). Le nombre de lectures uniques obtenu n'était pas toujours suffisant pour affirmer avec certitude l'absence ou la présence de mutations pour toutes les régions d'intérêt. Le statut mutationnel des paires appariées était hautement concordant : 91,1% de concordance pour les cinq gènes, 95,5% pour le KRAS, 99,1% pour le NRAS. Les métastases pulmonaires abritaient plus souvent des mutations du SRA que les métastases hépatiques (71 % contre 48 %, p < 0,001).
+Conclusions
+Dans cette grande série de CRC, nous montrons que les tumeurs primaires et les métastases correspondantes peuvent être utilisées pour déterminer le statut mutationnel d'une thérapie ciblée, étant donné les taux de concordance élevés. Le séquençage de la prochaine génération comprenant des marqueurs à molécule unique est possible, mais en combinaison avec du matériel d'archives fixé au formol et enrobé de paraffine, la profondeur de couverture est limitée.
+Lire l'intégralité de l'article en anglais.
+, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }; if (window.addEventListener) window.addEventListener("load", loadAsyncDeferredFacebook, false); else if (window.attachEvent) window.attachEvent("onload", loadAsyncDeferredFacebook); else window.onload = loadAsyncDeferredFacebook;
+fShare
+Tweet
+Détails	
+Affichages : 601	
+Précédent	
+Suivant
+Carence en vitamine D	
+Répondu par Sylvie	
+La vitamine D est une vitamine liposoluble (qui se dissout dans les lipides), mais aussi une hormone (prohormone) indispensable à la santé des dents et des os. Cette vitamine est synthétisée dans l’or...	
+complexe articulaire de l'épaule	
+Répondu par Sylvie	
+complexe articulaire car l'épaule est composée de 5 articulation dont 3 sont des vrais articulation et 2 sont fosses pour les déférents mouvements de l'épaule chaque articulation a un rôle différent e...	
+ligament	
+Répondu par Sylvie	
+J'ai mal au , mais je n’ai pas le temps la possibilite d'aller un specialiste et surtout pas envie un rendez-vous en souffrant. Auriez-vous une idee?...	
+ligament	
+Répondu par Sylvie	
+Bonjour, oui des ligaments peuvent être intra-capsulaires ! C'est le cas notamment du ligament de la tête fémorale ou des ligaments croisés. Attention toutefois, ils sont intra-capsulaires mais touj...	
+Ataxie et exercices	
+Répondu par Sylvie	
+Avant de commencer à effectuer des exercices à domicile, il est préférable de consulter un professionnel de la santé, comme un neurologue, un kinésithérapeute ou un médecin, pour établir un objectif r...	
+Illustrations
+Connexion
+Forums
+Réseaux
+Quizz Test QCM
+Blog médecine
+Plan du site
+Oncologie publications
+Chimiothérapie et événements cardiovasculaires indésirables chez les patients atteints d'un cancer colorectal qui subissent une résection chirurgicale	(Oncologie publications)
+Le rôle de la chimiothérapie néoadjuvante et adjuvante à base de capécitabine dans le cancer du sein triple négatif au stade précoce : revue systématique et méta-analyse	(Oncologie publications)
+Observations sur l'utilisation des inhibiteurs de la tyrosine kinase de Bruton dans le SAR-CoV-2 et le cancer	(Oncologie publications)
+Des mesures de la forme du ventricule gauche basées sur l'atlas pourraient améliorer la caractérisation des remodelages indésirables chez les survivants de cancers infantiles exposés aux anthracyclines : une étude d'imagerie transversale	(Oncologie publications)
+Résistance au cancer du pancréas conférée par les cellules stellaires : à la recherche de nouveaux modèles précliniques	(Oncologie publications)
+Avancées récentes en matière de radiothérapie guidée par la surface	(Oncologie publications)
+Séquençage des gènes de la voie RAS/RAF dans le cancer colorectal primaire et appariement des métastases du foie et du poumon	(Oncologie publications)
+La transition épithéliale au mésenchyme (EMT) est associée à l'atténuation de la succinate déshydrogénase (SDH) dans le cancer du sein par une expression réduite de la SDHC	(Oncologie publications)
+L'utilisation concomitante d'inhibiteurs du système rénine-angiotensine-aldostérone prévient la cardiotoxicité induite par le trastuzumab chez les patientes atteintes d'un cancer du sein HER2 +: une étude rétrospective institutionnelle	(Oncologie publications)
+Modifications des sous-ensembles de cellules B dans le processus pathologique central de l'encéphalomyélite auto-immune chez la souris	(Oncologie publications)
+Ce site internet met des documents à votre disposition seulement et uniquement à titre d'information. Ils ne peuvent en aucun cas remplacer la consultation d'un médecin ou les soins prodigués par un praticien qualifié et ne doivent par conséquent jamais être interprétés comme pouvant le faire.

@@ -1,0 +1,1136 @@
+MAJ janvier 2017 : retrouvez notre série de tutoriels dédiés aux auteurs indépendants en vidéo sur notre chaîne YouTube.
+(Partie 6 du dossier consacré à l’auto-publication, faisant suite à « L’auto-publication : partie 5 (création de votre livre en version papier) ».
+Dans cette sixième partie du dossier relatif à l’auto-publication, je vous propose de passer à une phase relativement pénible de l’aventure de l’auto-publié : les démarches administratives.
+Comme d’habitude, je pars du principe que vous avez lu et suivi toutes les parties précédentes de ce dossier, notamment celle qui concerne les ISBN (autre question administrative déjà traitée en amont, sur laquelle je ne reviendrai pas ici… :)).
+Alors que votre livre est en cours de publication, dans sa version numérique et /ou papier, il est en effet important de vous occuper de deux aspects : le dépôt légal du livre et la récupération d’un n° ITIN (dès lors que vous vendez par le biais de distributeurs ayant leur siège social aux États-Unis).
+Ces deux éléments n’ont absolument rien à voir l’un avec l’autre mais ont un point commun : ils vont vous prendre du temps, de l’énergie… et certainement vous rendre fous si vous vous lancez à la recherche de la bonne procédure au petit bonheur la chance, comme nous l’avons fait dans les débuts.
+Je vais donc essayer, dans un article qui s’annonce long (je vous préviens !), de vous donner les clés qui vous feront gagner du temps et vous permettront d’économiser vos nerfs. 🙂
+LE DÉPÔT LÉGAL
+Le dépôt légal est une modalité imposée par la loi qui vise à enregistrer auprès de la Bibliothèque Nationale de France tout ce qui est publié en France et a vocation à toucher un public (au-delà du cercle familial).
+Accessoirement, c’est un moyen supplémentaire de protéger son œuvre, en disposant d’un enregistrement officiel et gratuit.
+Lorsqu’on est édité traditionnellement, c’est l’éditeur qui gère ça pour vous et le problème est réglé en trois secondes.
+Mais pour les auto-publiés, la question est à gérer soi-même et nous utilisons principalement deux voies pour diffuser nos livres : la publication numérique et l’impression à la demande pour une éventuelle version papier.
+Les publications numériques ne sont pas considérées comme des « livres » mais sont assimilées à des « sites web » par la BNF.
+Voici ce qu’elle dit pour ces supports en question :
+Le dépôt légal des publications numériques en ligne ou téléchargeables ne se fait pas à l’unité mais au sein du site Web qui les diffuse. Les modalités de dépôt sont celles du dépôt légal de l’Internet, prévues par le Code du patrimoine (art. L131-2, L132-2, L132-2-1 et R132-23-1). L’éditeur n’a aucune démarche active à effectuer auprès de la BnF.
+.. / ..
+Les modalités de dépôt sont celles du dépôt légal de l’Internet, prévues par le Code du patrimoine. L’éditeur n’a aucune démarche active à effectuer auprès de la BnF. En effet, la Bibliothèque réalise des collectes automatiques grâce à des robots. Compte tenu de la masse d’informations disponible sur l’Internet, elle procède par échantillonnage, selon des critères visant à assurer la meilleure représentativité possible de ses collections.
+Dans ce premier cas, tout va donc bien !
+Si vous vous contentez de vendre votre livre sous format eBook, vous n’avez rien à faire et vous pouvez passer votre chemin….
+Par contre, les livres vendus en version papier ont une situation plus complexe :
+Si vous travaillez « à l’ancienne » avec un imprimeur, en procédant à un tirage dont l’objectif est commercial, avant d’essayer de vendre vos livres auprès des libraires, vous êtes concerné par la procédure du dépôt légal : vous trouverez alors toutes les informations pratiques (formulaire, déroulement, etc.) sur le site de la BNF.
+ATTENTION / TOUTE CETTE PARTIE N’EST PLUS VALABLE, SUITE A UNE NOUVELLE PRISE EN COMPTE DE L’IMPRESSION A LA DEMANDE PAR LA BNF, ET RESTE JUSTE ACCESSIBLE A DES FINS D’HISTORIQUE DE CET ARTICLE – VOIR NOUVEAUTÉ PLUS LOIN. Par contre, si vous utilisez le système de l’impression à la demande, vous allez vous retrouver dans une situation très bizarre : vous êtes plein de bonne volonté, vous voulez respecter la loi, mais… la BNF refusera d’enregistrer votre livre, sachez-le.
+En effet, la loi française n’a pas encore été mise à jour pour tenir compte de ce processus assez récent d’auto-publication qu’est l’impression à la demande… et donc l’absence de « tirage initial ».
+Vous pouvez retrouver toute l’explication de ce paradoxe sur le site du Portail du Livre, qui résume très bien l’incohérence légale qui s’offre à nous dans ce domaine.
+Vous pouvez également lire un exemple réel vécu par un auto-publié, article très complet dans lequel vous découvrirez les inconvénients de ce refus et les stratégies éventuelles à mettre en place lorsqu’on veut contourner cette difficulté et procéder quand même au dépôt légal du livre (le billet en question date un peu mais le problème est toujours d’actualité, preuve que la loi chez nous est toujours en retard sur la réalité…).
+Bref, pour faire court et vous éviter de dépenser de l’encre en imprimant des formulaires inutiles, ou des timbres en envoyant des courriers qui ne servent à rien, voici ce qu’il faut retenir (dans l’état actuel de la loi, et sous réserve de modifications à venir) :
+Vous n’avez aucune démarche à accomplir pour un livre vendu sous forme numérique.
+Vous pouvez et devez procéder au dépôt légal si votre livre bénéficie d’un tirage initial suffisant pour être considéré comme mettant le titre « à la disposition d’un public qui excède le cercle de famille ».
+Vous pouvez toujours essayer de faire enregistrer votre livre imprimé à la demande, sous réserve de mentir un peu dans le formulaire d’enregistrement… sinon, il sera refusé. Je vous recommande donc de ne pas perdre votre temps !
+Edit 22/08/2012 / Important !
+Grâce à un de nos lecteurs, qui a eu la gentillesse de nous écrire, nous avons pu voir que la BNF prend enfin en compte l’impression à la demande en tant que mode d’édition et qu’il est désormais possible d’enregistrer les livres publiés par ce biais.
+Il est donc important que vous fassiez cette démarche, puisqu’elle est obligatoire et qu’elle est enfin possible ! 🙂
+Il faut pour cela passer par l’extranet de la BNF, demander à « s’inscrire à ce service », pour créer un compte qui sera validé sous 72 heures (les identifiants sont envoyés par email), puis faire la déclaration en ligne.
+Cette déclaration sera ensuite à imprimer et à envoyer avec un exemplaire du livre par courrier non-affranchi (toutes les consignes sont données à l’écran, au fil de la saisie).
+Voici l’exemple de la saisie de Rémoras (écran d’accueil, une fois qu’on a un compte, et écran de déclaration du titre), pour vous donner un visuel :
+Voilà donc pour le dépôt légal… Passons à un autre sujet, encore plus délirant… 🙂
+FISCALITÉ ET ITIN
+(Edit 2015 : pour Amazon, toute la partie qui suit est désormais très simplifiée, si votre foyer fiscal se trouve en France. La simple saisie de notre n° fiscal français remplace et vous évite la procédure ITIN. Je laisse néanmoins toutes les explications, pour des auteurs francophones qui seraient fiscalisés à l’étranger.)
+Voilà un sujet qui a mobilisé 50 heures de mon temps ces derniers mois et qui est le cauchemar de la plupart des auto-publiés francophones… l’ITIN.
+Pour ceux qui débarquent, voici un petit état des lieux très simplifié, afin de situer le contexte :
+La plupart des plateformes de vente utilisées par les auto-publiés (et notamment celles qui vous intéressent le plus, Amazon et Smashwords) ont leur siège social aux États-Unis.
+À ce titre, elles payent leurs impôts là-bas et retiennent une partie de vos « royalties » (terme mal utilisé, il s’agit plutôt de bénéfices) afin de les reverser à l’IRS (le Trésor Public américain), même si vous payez vous-même vos impôts en France sur la base de ce que vous gagnez.
+Cette retenue est de 30% (sur les ventes effectuées sur les canaux américains, comme amazon.com) et vient grever des gains déjà souvent modestes.
+Mais… la France et les États-Unis bénéficient d’un accord fiscal qui permet de récupérer cette taxation, pour peu qu’on puisse prouver aux distributeurs qu’on utilise, comme Amazon, que l’on est bien citoyen français et que l’on s’est enregistré auprès de l’IRS (le même principe est valable pour tout un tas de pays, mais vous comprendrez que je me limite ici à notre exemple national).
+L’idée est donc simple sur le papier (en réalité, suivez le guide si vous ne voulez pas vous pendre !!) :
+Il faut écrire à l’IRS pour demander ce fameux n° ITIN, qui est un n° d’identification fiscale vous enregistrant comme une personne percevant des revenus de la part d’une société dont le siège social est américain.
+Puis il faut communiquer ce n° aux distributeurs concernés, pour qu’ils vous passent dans la catégorie des vendeurs à ne plus taxer.
+Mais vous vous doutez que la réalité est bien loin de tout ça !
+En effet, tous les formulaires sont en anglais, les temps de réponse sont de plusieurs semaines, les accords fiscaux à lire et comprendre sont imbuvables, les infos sont contradictoires… et la plupart des auto-publiés craquent en cours de chemin, notamment ceux qui n’ont pas la chance d’être anglophones (cf la procédure donnée par Amazon KDP, où tous les liens mènent vers des rubriques IRS en anglais).
+D’ailleurs, si vous vous promenez sur les forums spécialisés, vous verrez un conseil qui revient souvent : utiliser le n° ITIN d’une tierce personne ou l’inventer. Je ne vous le recommande pas ! Vous risquez plus de problèmes qu’autre chose.
+Voici plutôt la bonne procédure, celle qui marche… puisque ce n° ITIN, j’ai fini par l’obtenir, et que je vais vous donner les informations nécessaires pour éviter mes propres erreurs de parcours (procédure initiée en mars et enfin bouclée en juillet) ! 🙂
+1- Téléchargez et remplissez soigneusement le formulaire W-7 que vous allez envoyer à l’IRS pour demander le n° ITIN.
+Vous pouvez le compléter informatiquement (pensez à bien l’enregistrer sur votre ordinateur) avant de l’imprimer pour signer et dater à la main, ce qui sera plus propre.
+Parce que j’ai envie de vous épargner les casse-têtes chinois, voici la copie de ma propre demande : vous n’avez qu’à suivre le modèle et compléter les champs que j’ai indiqués en majuscules.
+2- Imprimez et remplissez à la main une lettre à en-tête d’un de vos vendeurs en ligne, prouvant que vous avez besoin de cet ITIN, puisque vous vendez par leur biais (celle d’Amazon est ici, Smashwords envoie la sienne sur demande, lorsqu’on atteint 10€ de gains, en allant dans votre espace personnel, à la rubrique des paiements).
+3- Pour ce qui est des justificatifs d’identité, oubliez les extraits de naissance certifiés par votre mairie locale, ils vous reviendront dans le pif, j’en sais quelques chose !
+Utilisez uniquement des pièces comprenant des photos d’identité, même si la documentation officielle parle d’autre chose : il en faut deux en l’absence de passeport.
+Si vous le pouvez, le passeport est idéal car il s’auto-suffit.
+4- Vous allez ensuite devoir faire certifier l’authenticité des copies des pièces d’identité en question : en France, seuls les ambassades, consultats et certains tribunaux particuliers ont le pouvoir de certifier les documents copiés, selon les normes de l’IRS.
+J’ai personnellement choisi le consulat américain de Toulouse : un rendez-vous, 50€ par pièce certifiée (d’où l’intérêt du passeport, plutôt que pièce d’identité + permis de conduire), et la production d’un document authentifié par le consul, qui est à joindre au dossier.
+5- Le dossier complet terminé sera donc le suivant : formulaire W7 correctement rempli, copie des pièces d’identité authentifiées et lettre du vendeur en ligne.
+Le tout est à renvoyer dans une enveloppe suffisamment affranchie à l’IRS, à l’adresse suivante :
+Internal Revenue Service
+Austin Service Center
+ITIN Operation
+P.O. Box 149342
+Austin, TX 78714-9342
+États-Unis d’Amérique
+6- Il vous reste maintenant à attendre au minimum quatre semaines, en croisant les doigts et en espérant ne pas avoir raté une case !
+Mais vous n’en avez pas fini ! 🙂
+Lorsque l’IRS finira par vous envoyer votre n° ITIN (et je vous souhaite de l’obtenir du premier coup, sans demande complémentaire), il vous faudra alors en informer les vendeurs qui ont besoin de l’ITIN pour annuler votre taxation de 30%.
+Voilà la procédure en question :
+1- Téléchargez cette fois le formulaire W-8BEN, que vous trouverez ici pour Amazon (version spéciale, avec deux lignes de signature en bas) et ici pour Smashwords (version de base donnée par l’IRS).
+Attention, la version Amazon comporte en plus une page d’identification dans laquelle vous devez saisir votre n° de vendeur chez eux, et ils demandent expressément que tout soit rempli à la main.
+Je vous propose encore une fois une copie de ma propre demande, qui est la version Smashwords (l’essentiel est identique dans tous les cas).
+2- Envoyez ce formulaire W-8BEN à chaque vendeur concerné.
+Les adresses sont les suivantes pour Amazon et Smashwords :
+Amazon Digital Services
+Attn: Vendor Maintenance
+PO Box 80683
+Seattle, WA
+98108-0683
+États-Unis
+Smashwords, Inc.
+Attention Tax Compliance Dept.
+15951 Los Gatos Blvd., Ste 16
+Los Gatos, CA 95032 USA
+3- Patientez, avec la conscience du travail bien fait ! 🙂
+Pendant ce temps-là, n’oubliez pas d’aller rajouter votre n° ITIN dans les données de votre compte Create Space, si vous utilisez leurs services… ça, ça prend deux secondes.
+Notez que si vous n’avez pas le courage de faire toutes ces démarches, vous pouvez aussi tout simplement accepter l’idée que 30% de vos revenus chez certains de vos distributeurs (et pas des moindres !) seront retenus à la source lorsque vous vendez sur les canaux de distribution américains.
+Vous en avez donc fini avec la lecture de la partie la plus longue de ce dossier.
+Comme d’habitude, n’hésitez pas à commenter, donner votre avis, partager votre propre expérience ou poser vos questions.
+Dans la prochaine partie, nous parlerons des questions de statut juridique et fiscal, de nombreuses questions et angoisses existentielles circulant à ce sujet…
+En espérant que cette partie 6 vous aura été utile, je vous dis donc à bientôt ! 🙂
+Hélène
+Dans la même catégorie d’articles :
+← Auteurs non publiés : découvrez le site Comité de Lecture Kobo Writing Life : nous avons testé →
+Commentaires Facebook
+commentaires
+121 Commentaires
+mialn	sur 22 juillet 2012 à 01:53	
+Nous avons reçu par email les deux questions suivantes, que j’ajoute à la suite de l’article car elles intéresseront de nombreuses personnes, j’en suis sûre :
+« Bonjour,
+J’ai lu votre très intéressant article sur les formalités administratives.
+Vous parlez du numero ITIN. Hors, sur le site de createspace, j’ai vu qu’on pouvait demander aussi un numero EIN, et que cela avait l’air plus facile.
+Avez vous exploré cette piste?
+Merci de nous faire partager votre experience ».
+« Par ailleurs, concernant votre demande d’ITIN, avez vous suivi la procédure Amazon ou la procédure Smashwords? J’imagine que l’une des deux est suffisante? »
+Ma présentation de l’ITIN et de la procédure vis-à-vis des distributeurs a sans doute été trop succincte et je complète donc ici les informations de base, en commençant par qq définitions générales :
+– Pour les Etats-Unis, un TIN est un « Taxpayer Identification Number », qui permet notamment à l’administration de collecter les impôts.
+– Selon la forme qu’il prend, il est fourni par la SSA – l’Administration de la Sécurité Sociale – (qui attribue les SSN) ou par l’IRS – le Service des Impôts – (qui attribue les ITIN, EIN, ATIN, PTIN).
+– Voici les libellés en entier des n° qui nous concernent, et à quoi ils correspondent :
+* SSN : Social Security Number (réservés aux citoyens américains et aux étrangers qui vivent sur le territoire avec un permis de séjour lié au travail, par exemple).
+* ITIN : Individual Taxpayer Indentification Number (pour les individus qui perçoivent des revenus taxés aux Etats-Unis, mais ne sont ni citoyens ni résidents et ne peuvent prétendre au SSN)
+* EIN : Employer Identification Number (réservé aux personnes morales et à quelques situations individuelles… très peu claires, quand on lit la documentation de l’IRS qui parfois se contredit).
+Effectivement, un EIN est bien plus simple et rapide à obtenir qu’un ITIN, mais son champ d’attribution pour les personnes physiques étant très peu défini (malgré ce que met Create Space sur son site), j’ai préféré m’abstenir et ne pas en parler ici, pour ne pas embrouiller tout le monde… d’autant qu’Amazon KDP recommande en priorité l’ITIN pour les individus (j’ai donc suivi en priorité la consigne de base, en partant du principe que la plupart des auto-publiés ont le statut d’auto-entrepreneur et pas d’entreprise à la comptabilité séparée).
+Ceux qui veulent tenter le coup de l’EIN (ou qui ont créé une structure éditoriale à part) peuvent suivre la procédure suivante (sachez que vous pouvez obtenir un numéro EIN de trois manières, mais les plus rapides nécessitent d’être anglophone) :
+– En ligne : cliquez sur le lien « EIN » de la page http://www.irs.gov/businesses/small. Votre numéro EIN sera émis immédiatement après validation des informations fournies dans votre demande.
+– Par téléphone : appelez entre 7 h 00 et 19 h 00, heure de New-York, du lundi au vendredi, au +1 (267) 941-1099. La conversation sera une suite de questions, permettant l’attribution en direct du n°.
+– Par courrier ou télécopie : en envoyant le formulaire SS-4 « Application for Employer Identification Number » à l’IRS, récupérable ici : http://www.irs.gov/pub/irs-pdf/fss4.pdf.
+Si nous finissons par créer une structure « M.I.A » à part dans les prochains mois, nous serons certainement obligés d’en passer par l’EIN, et nous ne manquerons alors pas de vous communiquer notre expérience personnelle dans le cadre de cette nouvelle aventure fiscale…. 🙂
+Pour ce qui est de la 2ème question, attention de ne pas tout mélanger : on ne demande un TIN (ITIN ou EIN) qu’une fois, évidemment, mais on le communique bien à toutes les plateformes qu’on utilise, une par une, via le formulaire W8-EBN.
+J’ai parlé d’Amazon et de Smashwords car ce sont les distributeurs les plus utilisés, mais la même chose s’applique à Lulu et à tout autre prestataire dont le siège social est aux USA.
+Par réflexe, prenez le temps à chaque fois de regarder ce qui est demandé dans votre compte auteur : si cette question de la taxation est évoquée, une procédure personnalisée de transmission du formulaire W8-EBN sera forcément indiquée.
+En bref, un envoi distinct par plate-forme, selon les conditions qu’elle fixe.
+J’en profite pour préciser que Create Space n’applique pas la retenue lorsque les ventes sont effectuées en Europe : à moins que vous vendiez votre livre à des lecteurs non-européens, vous pouvez vous passer de renvoyer le formulaire en ce qui les concerne.
+En espérant que ce long commentaire supplémentaire éclaircira les points restés obscurs précédemment. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Anael	sur 23 avril 2014 à 18:54	
+A noter qu’en 2014, sur le site de l’IRS il est indiqué qu’un étranger ne peut demander un EIN que si l’on est déjà en possession d’un ITIN.
+Anael(Citer) (Répondre)
+Réponse	
+Bousset Charles	sur 7 août 2012 à 15:05	
+Bonjour,
+Mon livre »Réloveutions nous. Pascal laurence »est déja disponible en kindle sur Amazone.fr, le tout sans la moindre formalité fiscale.Etant parfaitement nul en matière informatique-internet, pour la publication de mon livre papier, j’ai fait appel à un spécialiste, mais parvenus au stade du fameux W7…….arret total, plus moyen d’avancer. Votre travail de vulgarisation est absolument merveilleux bravo. Ma question est simple: est-il possible, comme vous en faite mention, que l’on puisse se passer outre a tout ces tracs en adoptant la formule de prélevement à la source, d’autant que mon livre sera surtout vendu en France. Si oui, merci de bien vouloir n’indiquer la formule pour ce faire. Autrement dit comment sauter cette étape.Bien cordialement.
+Bousset Charles(Citer) (Répondre)
+Réponse	
+mialn	sur 11 août 2012 à 11:32	
+Bousset Charles,
+Je vous ai déjà donné ma réponse par email mais je la recopie ici, car elle peut intéresser d’autres personnes :
+« En fait, à partir du moment où vous acceptez l’idée de perdre 30% à la source sur vos ventes Amazon Kindle, vous n’avez rien à faire : par défaut, c’est le mode qui s’applique, tant que l’auteur n’a pas fourni tout ce que j’explique dans la partie 6 du dossier.
+Donc, vous serez bien payé, sur la base de 70% des sommes dues (si vous suivez vos ventes sur https://kdp.amazon.com/self-publishing/reports, cette retenue est d’ailleurs déjà prise en compte dans les chiffres annoncés).
+Les ventes en format papier via Create Space ne sont pas concernées par cette déduction, lorsque vous vendez sur le territoire européen.
+En résumé, si vous êtes prêt à laisser filer ces 30% pour les ventes numériques ou pour les ventes papier hors-Europe, contentez-vous de bien saisir vos informations bancaires dans votre compte KDP et/ou dans votre compte CreateSpace, et vous toucherez votre 1er virement selon les délais, critères et seuils expliqués dans l’aide KDP et Create Space. »
+Je précise bien qu’il n’y a pas de démarches particulières à faire chez Create Space pour publier lorsqu’on n’a pas suivi la procédure ITIN (ces démarches étant de toute façon inutiles quand on veut simplement vendre en France).
+Si vous rencontrez des problèmes particuliers, n’hésitez pas à nous envoyer un print écran par email, avec les messages bloquants qui vous empêchent d’aller au bout de votre publication, afin que je puisse vous aider à y voir plus clair. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Philippe	sur 16 août 2012 à 15:08	
+Salut, article très intéressant sur le sujet ! Quelques remarques…
+Sachant qu’un auto-entrepreneur est une entreprise individuelle doté d’un régime fiscal spécifique, cela reste une entreprise, donc il s’agirait plutôt de miser sur l’EIN, non ? D’autant que pas d’entreprise = pas de cadre légal pour vendre (même une poignée d’exemplaires, il me semble que c’est obligatoire). Qui plus est, rares sont ceux qui vendront un livre français hors France.
+D’autre part, comparé avec les autres livres, quel est le délai de réception pour un ouvrage commandé sur Amazon.fr dans le cadre de Createspace ? (envoyé depuis l’Angleterre, je crois) L’envoi gratuit, sans frais de port, est-il proposé, comme pour d’autres livres ?
+Et une dernière : le « -5% libraire » est-il appliqué également sur le prix de vente TTC affiché par Amazon ?
+Philippe(Citer) (Répondre)
+Réponse	
+mialn	sur 16 août 2012 à 20:54	
+Philippe,
+Merci Philippe pour ce commentaire. 🙂
+Je commence par répondre aux questions appelant les réponses les plus courtes :
+– Pour ce qui est du délai de livraison, j’ai pour l’instant constaté (moi-même et les personnes nous ayant fait un retour) un délai moyen de 5 à 6 jours, entre le moment de la commande en ligne et la réception dans la boite (qu’il s’agisse de la version imprimée en France, ou plus souvent en Angleterre, effectivement).
+Si d’autres personnes auto-publiées via Create Space ont eu une expérience différente, n’hésitez pas à corriger cette estimation.
+Oui, la gratuité de la livraison est incluse dans l’offre.
+– Pour ce qui est des 5%, Amazon les applique normalement automatiquement sur ses produits littéraires, comme dans l’exemple de Rémoras (voir cette page http://www.amazon.fr/R%C3%A9moras-M-I-A/dp/B0085KPSFY/ref=tmm_gpb_title_0) où le prix est systématiquement barré, pour montrer la réduction.
+– Pour ce qui est de votre première question, je commence par préciser qu’un article dédié aux questions relatives au statut juridique et fiscal est prévu sous peu dans le dossier.
+Mais comme le sujet intéresse sûrement plein de monde, quelques précisions sont sans doute déjà utiles ici…
+Sachez que l’auteur auto-édité n’est pas tenu d’avoir une structure à part en tant que personne morale (l’auto-entrepreneur ne forme qu’un avec son « entreprise », qui n’est pas une personne morale distincte de sa personne physique).
+En ce qui concerne le statut juridique de l’auteur auto-publié, voici ce qu’a écrit sur son blog Emmanuel Pierrat, avocat au Barreau de Paris et spécialiste de cette question :
+« (…) Le cadre juridique de l’auto-édition est (…) très souple, puisque plusieurs statuts sont autorisés pour exercer cette activité. L’auteur auto-édité doit cependant peser avantages et inconvénients à l’aune de la responsabilité et de la fiscalité.
+L’exercice sans forme juridique précise, c’est-à-dire sans créer de personne morale (société ou association), est parfaitement admis.
+Toutefois, selon l’administration fiscale, l’auteur auto-édité sans structure juridique particulière ne se verse pas des droits d’auteur. Il est donc soumis au strict régime des bénéfices non commerciaux.
+De même, aux termes de la doctrine administrative, les auteurs qui s’éditent via une société civile uniquement dédiée à la publication des œuvres de ses membres sont considérés comme des auteurs auto-édités. C’est-à-dire, là encore, qu’ils ne jouissent pas du régime fiscal assez favorable des droits d’auteur, assimilables à des salaires et susceptibles d’être étalés sur cinq ans en cas de ventes substantielles et donc de rentrées financières conséquentes…. »
+L’auteur qui ne vend que par le biais de plateformes numériques comme Amazon Kindle, et/ou utilise l’impression à la demande, n’engage pas de frais et peut donc tout à fait se contenter de déclarer les sommes perçues en tant que bénéfices non commerciaux sur sa feuille d’impôts, sans monter de structure à part en particulier (cette dernière pouvant devenir plus avantageuse fiscalement, lorsqu’on engage de nombreux frais).
+Mais toutes les situations sont différentes (notamment en fonction de la profession principale, dans les cas des auteurs qui ont un métier à côté, et selon le type d’auto-édition choisi) et l’ampleur du sujet nécessite vraiment un article à part, dont le but sera de lister un maximum de cas concrets.
+Pour en revenir à cette question ITIN vs EIN, je pense qu’il est tout à fait possible de choisir l’un et/ou l’autre dans de nombreux cas, mais je répète que l’IRS entretient des réponses souvent très floues quant au 2ème et aux cas dans lesquels il est possible de le demander, d’où le fait que je ne m’étends pas trop dessus pour le moment, tant que je n’ai pas testé personnellement la bête… 🙂
+Je rappelle que ce dossier a vocation, avant tout, à faire du partage d’expérience, ce qui m’évite de vous raconter des bêtises : tout ce que j’inclus dans le dossier est le reflet de notre propre parcours et ne remplacera évidemment jamais les conseils personnalisés d’un avocat, d’un notaire ou d’un comptable, selon votre situation particulière.
+En espérant malgré tout avoir un peu éclairé le sujet, je vous donne rendez-vous dans la partie suivante de ce dossier, d’ici quelques jours…
+mialn(Citer) (Répondre)
+Réponse	
+laurent	sur 29 novembre 2012 à 16:31	
+Votre article est vraiment très complet par rapport à toutes les démarches administratives à effectuer pour avoir ce fameux ITIN.
+J’ai effectué une demande à l’ambassade américaine de Toulouse, il y a 1.5 mois qui s’est soldée par un refus. Les informations de la case à cocher ne sont pas correctes! Elles sont pourtant identiques à votre exemple.
+J’espère que je ne dois pas repasser par la case certification de mon passeport pour une nouvelle demande.
+laurent(Citer) (Répondre)
+Réponse	
+mialn	sur 30 novembre 2012 à 01:09	
+laurent, le refus a porté sur quelle partie du processus de demande ?
+Vous parlez de l’IRS qui a refusé votre formulaire W7 ? D’après ce que vous dites, je pense que vous faites allusion à un courrier de refus reçu de l’IRS après étude du dossier. Normalement, ils précisent exactement le motif dans leur lettre d’accompagnement et sont effectivement très pointilleux, pour éviter les demandes abusives.
+Avez-vous bien joint une lettre à en-tête d’Amazon ou Smashwords ?
+N’hésitez pas à nous envoyer votre situation dans le détail via le formulaire de contact à gauche du site, que l’on puisse éventuellement vous aider à y voir plus clair.
+mialn(Citer) (Répondre)
+Réponse	
+nbekblog	sur 2 février 2013 à 14:45	
+Explications très claires, merci pour le résumé de vos démarches.
+En publiant avec CreateSpace, j’ai laissé un commentaire pour souligner ce problème de taxe qui ne devrait pas nous concerner, pour nous autres citoyens européens, qui vendons des livres au sein de l’UE. Amazon m’a ensuite envoyé un courriel personnalisé pour me dire qu’ils se penchaient sur le problème. Mythe ou réalité? A suivre…
+Et en ce qui concerne l’enregistrement à la BNF, c’est très simple en suivant vos recommandations et très rapide.
+Du super travail!
+nbekblog(Citer) (Répondre)
+Réponse	
+mialn	sur 2 février 2013 à 15:12	
+Ravie que l’article ait pu vous aider à y voir un peu plus clair. En vous souhaitant le meilleur pour vos publications ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+laurent	sur 11 mars 2013 à 09:34	
+mialn,
+Le refus porte sur sur la case à cocher h « you didn’t provide an exception number or correct information in check box(h) »
+J’ai pourtant bien indiqué la même information que votre exemple ainsi que la lettre à en tête d’amazon.
+laurent(Citer) (Répondre)
+Réponse	
+mialn	sur 12 mars 2013 à 12:43	
+Si vous avez exactement recopié les informations telles que je les indique dans le document, je vous avoue que je ne comprends pas le motif de refus…
+L’idéal serait sans doute de leur envoyer un courrier libre ou de les joindre par email (leurs coordonnées figurent normalement sur la lettre qu’ils vous ont renvoyée) pour leur demander ce que vous devez concrètement changer dans votre formulaire avant de leur renvoyer.
+Avez-vous bien indiqué les informations figurant en-dessous de la ligne h ? Ce sont des données importantes qui doivent absolument figurer sur la demande.
+Tenez-nous au courant de leur réponse et bon courage à vous.
+mialn(Citer) (Répondre)
+Réponse	
+Philippe	sur 12 mars 2013 à 13:05	
+Ils sont chiants avec Createspace, ils me renvoient systématiquement vers la page « Missing Royalty Payment Profile » où je ne peux fournir aucun EIN ni ITIN pour le moment, c’est un passage obligé. Alors que je veux juste être sur Amazon.fr et je me fiche des 30% en moins. Any idea ?
+Philippe(Citer) (Répondre)
+Réponse	
+mialn	sur 12 mars 2013 à 13:59	
+Comme expliqué dans cette page (https://www.createspace.com/Help/Index.jsp) :
+« n order to receive your royalties, it is not necessary to enter a U.S. Tax Identification Number (TIN). However, entering your “Payee Country” and selecting a “Business Type” in the “Royalty Payment Profile” section of your Member account is required before royalty payments may be initiated. »
+Il n’est donc pas indispensable d’entrer un n°EIN ou ITIN pour que la page s’enregistre, mais il est par contre indispensable de choisir le pays et le type d’activité pour que le système arrête de voue envoyer cette notification. Avez-vous indiqué ces informations ou pas ?
+A défaut, vous continuerez d’avoir un message d’erreur.
+Si vous avez bien mis à jour ces deux infos, écrivez-nous via le formulaire de contact à gauche, que l’on creuse le sujet avec vous en vous demandant par exemple un print-écran de votre page de compte.
+mialn(Citer) (Répondre)
+Réponse	
+Philippe	sur 14 mars 2013 à 00:05	
+Bonsoir, désolé, je me suis planté, c’est la case Tax Reporting Name qui bloquait uniquement et non, effectivement, la case de l’ITIN en-dessous. Finalement, j’y ai mis mon nom de famille, ça a pu passer…
+Philippe(Citer) (Répondre)
+Réponse	
+mialn	sur 17 mars 2013 à 18:49	
+Ravie que tout soit donc résolu… 🙂
+mialn(Citer) (Répondre)
+Réponse	
+sandrine	sur 5 avril 2013 à 10:33	
+Bonjour,
+Pour createSpace, d’apres vous, est ce que je peux mettre dans un premier temps mon nom ainsi que le type de business le temps de faire les démarches pour avoir son ITIN et ensuite le changer?
+Merci pour tous vos renseignements.
+sandrine(Citer) (Répondre)
+nbekblog	sur 13 mars 2013 à 09:40	
+Philippe,
+Idem pour moi. J’ai finalement opté pour mettre le nom de la taxe dans la case demandée et c’est passé comme cela. Par contre, Amazon récupère bien un tiers des bénéfices. Mais vu le faible nombre de ventes, je n’y perds pas beaucoup!
+A la fin de l’étape de publication, il y a un petit questionnaire de satisfaction. J’ai fait remonter ce problème et Amazon m’a envoyé une réponse en se disant qu’ils se penchaient sur la question. Plus on sera nombreux à le faire, plus vite ils corrigeront le tir.
+nbekblog(Citer) (Répondre)
+Réponse	
+mialn	sur 5 avril 2013 à 11:32	
+sandrine,
+Oui, vous pouvez tout à fait procéder ainsi, l’absence d’ITIN n’étant pas bloquante pour l’enregistrement sur Create Space et son utilisation.
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 13 juin 2013 à 16:38	
+Bonjour,
+Pas de question, un simple message pour faire part d’un retour relatif à la quête de l’ITIN. Où l’on se dira que ce n’est jamais gagné.
+J’ai fait les démarches fin avril au bureau parisien de l’IRS. Bon accueil. L’employé avait conclu en me disant : dossier bien fait, ça devrait passer sans embûche dans votre cas. Il avait même eu un commentaire positif sur la lettre d’Amazon fournie (la même que celle linkée sur votre site).
+Première point : il n’y a rien à payer. En tout cas à l’IRS de Paris, il ne demande rien. Un coup d’oeil au passeport et c’est bon.
+Mais, 2e point : au bout de 6 semaines sans réponse, je leur demande où nous en sommes. Dossier rejeté par Austin au motif que la lettre d’Amazon n’est pas acceptable. D’abord parce qu’elle n’est pas nominative (ajouter son nom soi-même, ça ne passe pas). Ensuite la formule conditionnelle « may be receiving royalties », ça ne passe pas non plus.
+Voilà. Bon. Je pourrais retoucher la lettre d’Amazon directement. Ou tenter de leur en demander une nominative. Ou laisser couler, considérant que ça fait déjà beaucoup de temps gaspillé pour à peu près rien et privilégiant de toute façon largement la voie papier.
+bb(Citer) (Répondre)
+Réponse	
+bb	sur 13 juin 2013 à 16:49	
+Ajout :
+Je viens d’aller vérifier et il se trouve qu’amazon a déjà mis à disposition une lettre sans le conditionnel.
+Ici :
+https://images-na.ssl-images-amazon.com/images/G/01/opt/general/test/AmazonDigitalServices_ITIN_Letter._V163067125_.pdf
+Après pour le caractère nominatif, je pense que le plus simple est de rentrer la chose au clavier et que cela devrait passer.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 15 juin 2013 à 19:43	
+Tenez-nous au courant, j’espère que cette deuxième tentative portera ses fruits et que ce nouveau courrier Amazon sera accepté. Bon courage à vous ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+laurent	sur 13 juin 2013 à 16:50	
+J’ai exactement le même problème pour le « may be receiving royalties ». Finalement; il faut mettre quoi ?
+J’ai essayé de les joindre directement au Texas pour savoir quoi mettre, mais le standard est toujours saturé. Cela ressemble beaucoup aux administrations Françaises 😉
+bb,
+laurent(Citer) (Répondre)
+Réponse	
+Khal	sur 21 juillet 2013 à 08:08	
+Merci beaucoup pour ces précieux conseils.
+L’article est très bien détaillé et ça m’éclaire un peu plus.
+Récupérer ces 30% sur mes ventes vaut le coup.
+Merci encore
+Khal(Citer) (Répondre)
+Réponse	
+bb	sur 29 août 2013 à 23:18	
+A l’aide, bonnes volontés.
+C’est une histoire de souffler le chaud et le froid. J’explique.
+Plus haut dans les commentaires, je racontai ma première mésaventure relative à l’Itin et mon intention de laisser filer. Ayant mis la main sur la nouvelle lettre d’Amazon, j’ai fait par orgueil une seconde tentative. Itin obtenu.
+Ce matin une employée d’Amazon me maile qu’ils ont bien reçu mon W-8Den et que je ne serai pas surtaxé de 30%.
+Bien, ce matin.
+Ce soir je reçois un mail automatique de KDP informant que mes informations fiscales sont incomplètes et que, sauf à remplir un questionnaire fiscal en ligne avant le 10 octobre, mes livres seraient retirés de KDP.
+Pas bien, ce soir. L’impression que le cauchemar Itin/irs se réveille en grande forme. Retirer les livres, c’est légèrement pire qu’être surtaxé de 30%. Ca revient à supprimer le compte. (Et puis ils parlent maintenant d’un formulaire W9… oublions ça pour l’instant.)
+Bref, je vais remplir leur questionnaire. Arrive le chapitre relatif à L’Itin. Je passe facilement le premier écran (convention fiscale EU/FRance). Le drame vient au second. L’écran décrit bien trois sortes de TIN (ssn, itin, ein), mais pour passer au suivant il faut cocher auquel on appartient. Et là, 2 cases : SSN et EIN.
+Illustration ici :
+http://borisbeaudenon.free.fr/1pb.jpg
+Bref, quelqu’un aurait-il une idée pour passer cet écran ? Auriez-vous été confronté au même problème ? Un point m’a échappé ? Ou c’est un bug du questionnaire et dans ce cas comment faire ?
+Bonne nuit dans l’immédiat.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 30 août 2013 à 01:21	
+Sur l’écran de choix, cochez le SSN et assurez-vous que vous avez bien rempli la première page du tout début avec exactement la même casse et non-accentuation que sur votre formulaire reçu de l’IRS à l’origine (car le système contrôle en direct la correspondance précise des nom et prénom).
+Vous verrez ensuite sur le W8 récapitulatif à la fin que la case SSN/ITIN a été cochée et que tout va bien… normalement, ça devrait se valider sans problème.
+Si ce n’est pas le cas, envoyez-nous un MP via le formulaire de contact à gauche, qu’on vous aide à mettre à jour votre dossier.
+(Je précise que vous n’avez pas de bol, puisque effectivement la mise à jour annuelle pour tout le monde est tombée alors que vous veniez juste d’être validé… ce qui vous a mis dans le même panier que ceux qui avaient été enregistrés en 2012. Là, vous serez tranquille pour un an)
+Bonne nuit ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 30 août 2013 à 02:21	
+Vous êtes superbes là. Que c’est céleste. Il suffisait de dire « à l’aide’.
+Merci. Sauf à faire un pile ou face, je n’aurais pas coché SSN.
+Je ne dis pas que les écrans suivants ont été une promenade de santé, entre les phrases un peu cryptiques (« D’après le contrat que vous avez signé avec Amazon, nous avons déterminé que le revenu bénéficiant de la réduction prévue par le traité fiscal est de Royalty. ») et l’écran sur la perception des revenus où il n’est question que de personne morale (si bien que, forcément, j’ai fait machine arrière), mais je ne voulais pas y passer plus d’une minute. Parce que, la barbe à la fin, n’est-ce pas.
+Ne reste plus qu’à croiser les doigts. Encore.
+Merci Encore.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 30 août 2013 à 03:11	
+Avec plaisir. 🙂
+Disons que leur formulaire est mal fichu (encore une adaptation trop rapide de la version prévue à l’origine pour les auteurs américains ou vivant là-bas, ce qui fait qu’il manque des cas de figure et qu’il faut comprendre qu’ils ont tout bêtement séparé les personnes morales et physiques pour savoir que le SSN et l’ITIN sont assimilés à la même case finale, dans cet esprit, selon qu’on habite là-bas ou pas).
+L’idée, pour ceux qui auront les mêmes soucis que vous pour remplir ces pages, c’est qu’il faut bien que la saisie corresponde exactement à ce qui figure sur le courrier d’attribution de l’ITIN par l’IRS à l’origine. Si on respecte ça, ça prend trente secondes. Si on met un accent de trop ou qu’on oublie un deuxième prénom… ça bloque.
+Pour finir, si vous êtes revenu à un écran validé en vert et coché à la fin, qui vous dit « Complètes – Vos informations fiscales ont été reçues le 30/08/2013. *Taux de retenue à la source applicable: 0% »… alors tout va bien, vous êtes tranquille pour un an et il n’y a rien à faire de plus.
+Enjoy… 🙂
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 30 août 2013 à 12:39	
+mialn,
+Votre dernier paragraphe donne le frisson.
+Je ne me souviens pas de cet écran validé en vert – certes il était tard.
+Sur le document récapitulatif final qu’on peut imprimer (w8-Ben), il est écrit « vos informations ont été transmises et sont en attente de validation ».
+Une phrase qui m’avait semblé positive, hier.
+Je crains le pire.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 30 août 2013 à 13:15	
+Si tout s’était bien passé, vous devriez avoir automatiquement le statut de vos informations fiscales en vert sur l’écran, après être sorti de la copie du W8 à la fin.
+Il se peut que votre saisie donne lieu à une vérif manuelle, mais je trouve ça curieux… Normalement, tout se valide en direct, avec une vérif automatique auprès de l’IRS, qui compare les infos saisies sur Amazon avec celles de votre enregistrement initial chez eux.
+Avez-vous bien sélectionné le statut de particulier sur le premier écran ?
+Avez-vous rentré vos nom et prénom exactement comme ils figurent sur le courrier de l’IRS (typographie identique, nombre de prénoms aussi) ?
+Vous pouvez reprendre votre saisie tant que vous n’obtenez pas ce résultat positif immédiat.
+Tenez-nous au courant.
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 30 août 2013 à 14:04	
+mialn,
+Je ne peux pas vérifier certaines choses, n’étant pas chez moi.
+Je me souviens qu’ « individual » était bien coché.
+J’en suis par contre à me demander si j’aurais pu faire une erreur sur les nom/prénoms ou la casse. Parce que vous dites ici « nombre de prénoms », or je me souviens qu’ils demandaient « Initiale de votre 2e prénom », et pas de « vos 2e et 3e prénoms ». Si bien que j’ai mis une seule initiale… Je n’ai pas suspecté la traduction approximative. Et comme j’avais en tête votre commentaire sur la vérification « en direct », sous-entendu pour moi un blocage dans le formulaire – puisque je venais d’expérimenter le blocage sur le ssn/ein -, mais que ça n’a pas bloqué, je ne me suis pas inquiété.
+Vous parlez de la possibilité de reprendre la saisie. Je ne la vois pas.
+L’interface kdp dit à présent :
+« Vos informations fiscales ont été envoyées et sont en cours de révision par l’IRS (Internal Revenue Service). Elles ne peuvent pas être modifiées pour l’instant. »
+Je ne vais pas faire de commentaire crapuleux. Mais je redoute que l’irs ne soit capable de mettre des semaines pour répondre à kdp qu’il s’agit de l’initiale d’un 2e prénom. Ou je ne sais quoi d’encore plus facétieux.
+Vous êtes aimable de suivre.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 30 août 2013 à 19:39	
+Dans ce cas, attendez de voir la réponse obtenue, de façon éventuellement à reprendre le remplissage si d’aventure les informations n’étaient pas considérées comme valides la fin du processus de vérification.
+Ce qui compte à ce stade, c’est que vous avez agi dans les temps impartis et que vous n’êtes pas responsable s’ils mettent un peu de temps à valider les informations…
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 31 août 2013 à 15:14	
+mialn,
+J’avais tout de même posé la question (les) au support de kdp hier.
+La réponse est encourageante, la procédure de vérification liée à une question de timing (je leur avais déposé mon W8-Den il y a 2 semaines).
+Je vais citer, ce sera plus clair et il n’y a rien de confidentiel :
+Comme vous aviez déjà soumis un W8BEN, vos données sont tout simplement en cours d’évaluation, permettant de comparer vos formulaires pour que nous soyons surs que les données sont exactes. Pas d’inquiétude à avoir, nos équipes vous recontacteront si nécessaire, sinon, le formulaire devrait se valider sous peu. »
+Je suppose du coup qu’il y a une erreur dans le message de mon interface kdp, qui parle d’envoi à l’irs pour révision.
+—–
+Au passage, un conseil général pour ceux qui s’adresseront au support kdp pour la première fois : Si jamais vous êtes amenés à répondre à celui qui vous a répondu, oubliez la signature du premier mail. Pour éviter de dire « merci Henry » à Suzan. ^
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 1 septembre 2013 à 17:45	
+Effectivement, le fait que vous ayez un dépôt d’origine très récent change un peu la situation et cette attente semble logique dans ce cas précis.
+Je croise les doigts pour que tout cela se règle en votre faveur… et vite. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+bb	sur 4 octobre 2013 à 15:26	
+mialn,
+Bonjour Mialn,
+Je prends le temps de repasser pour l’épilogue – si d’autres devaient passer par cette procédure parallèle.
+– Son déclenchement, automatique, était donc lié à la date d’obtention de l’Itin.
+– Cela passe (finalement bien) par l’envoi de la déclaration à l’IRS.
+– Donc cela prend un certain temps. Dans les 4 semaines, dirais-je.
+– A terme, soit l’IRS valide, donc kdp valide.
+Soit l’IRS fait une ou des remarques et les gens de kdp reviennent vers vous pour faire modifier la déclaration.
+C’est ce que m’avait écrit le support, à l’occasion d’un second message.
+Personnellement je n’ai rien eu à changer, cela a été validé directement (bien que j’avais renseigné l’initiale du 2nd prénom et non celle du 3e).
+Bref, c’est vert et la retenue à 0%. Victoire hautement symbolique puisque je continue de me concentrer sur le versant papier ^.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 8 octobre 2013 à 18:03	
+bb, merci d’avoir pris le temps de transmettre la conclusion de cette histoire, et je suis ravie que tout se soit bien terminé pour vous. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Laurent2	sur 27 novembre 2013 à 23:04	
+Bonjour,
+Je rencontre moi-même le même problème que laurent (je suis un autre laurent) après un refus d’ITIN et je souhaiterais donc envoyer la nouvelle lettre d’amazon à l’IRS. Pour cette 2ème tentative, savez-vous quelle est la procédure la plus simple, faut-il refaire un courrier avec de nouveau le passeport certifié ou comme je l’espère est-ce possible de traiter la deuxième demande par email ?
+Merci pour votre réponse.
+Laurent
+Laurent2(Citer) (Répondre)
+Réponse	
+mialn	sur 2 décembre 2013 à 15:34	
+Laurent2, je vous avoue que je n’en sais rien, car toute la procédure s’est déroulée en une fois à l’époque, sans blocage.
+Je crois que vous devriez d’abord envoyer un email à l’IRS (avec vos références à pour leur poser la question et savoir si vous pouvez vous passer de tout reprendre à 0. Normalement, ils devraient accepter un ajout de pièce au dossier qu’ils auront conservé.
+En vous souhaitant du courage, je croise les doigts pour vous.
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+laurent	sur 30 novembre 2013 à 21:59	
+Laurent2,
+J’ai essayé d’avoir plus de détails par mail pour connaitre la raison. La réponse a été très évasive. Ma demande est close. Retour à la case départ.
+laurent(Citer) (Répondre)
+Réponse	
+mialn	sur 10 décembre 2013 à 16:37	
+Je suis vraiment désolée que tout cela prenne autant de temps pour vous et que vous rencontriez toutes ces difficultés. En espérant que le seconde tentative sera la bonne…
+mialn(Citer) (Répondre)
+Réponse	
+Nadège	sur 26 janvier 2014 à 11:10	
+Bonjour Mialn,
+En admettant que je vende sur Amazon un livre au format ebook uniquement et qu’il me rapporte moins de vingt euros par mois, dois-je avoir un statut spécial et dois-je déclarer ces petites sommes aux impôts ?
+Merci
+Nadège(Citer) (Répondre)
+Réponse	
+mialn	sur 26 janvier 2014 à 15:57	
+Nadège,
+Je vous invite à lire la partie 7 de ce dossier, qui devrait répondre à votre question : http://leblogmia.com/lauto-publication-partie-7-statut-juridique-et-fiscalite/
+Merci à vous ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Nadège	sur 27 janvier 2014 à 11:28	
+C’est à moi de vous remercier.
+Nadège(Citer) (Répondre)
+Réponse	
+Paul	sur 5 février 2014 à 09:43	
+Bonjour,
+Peut-être ai-je mal lu votre article en ce qui concerne le dépôt légal, mais je n’arrive pas à voir comment résoudre la contradiction due à l’impression à la demande qui fait que je ne peux pas déposer un exemplaire du livre à la BNF tant que je n’ai pas pu le mettre en ligne. Si l’on décide de publier en passant par Create Space par exemple, est-il possible d’avoir un véritable exemplaire (pas un proof) avant la publication en ligne de manière à pouvoir faire le dépôt à la BNF avant ? Ou bien est-il possible de se procurer un exemplaire de son livre à partir de la plateforme Amazon pour l’envoyer ensuite à la BNF ?
+Merci de votre réponse.
+Paul(Citer) (Répondre)
+Réponse	
+bb	sur 5 février 2014 à 11:56	
+Paul:
+Bonjour,
+Peut-être ai-je mal lu votre article en ce qui concerne le dépôt légal, mais je n’arrive pas à voir comment résoudre la contradiction due à l’impression à la demande qui fait que je ne peux pas déposer un exemplaire du livre à la BNF tant que je n’ai pas pu le mettre en ligne.
+Bonjour,
+N’ayant pas eu envie de me faire du mal avec cette question, j’ai déposé des exemplaires « proof » à la BNF et cela ne leur a jamais posé de problème jusqu’ici.
+bb(Citer) (Répondre)
+Réponse	
+mialn	sur 6 février 2014 à 13:56	
+bb et Paul,
+Pour ce qui concerne les dépôts BNF, nous les faisons toujours dans les semaines qui suivent la sortie du livre, en commandant une copie éditeur dédiée que nous leur faisons suivre, tout simplement.
+La BNF tolère largement un délai d’un mois entre date de publication et réception du livre, nous envoyons même ceux des Editions HJ par lots de 4, chaque fin de mois, pour les 4 livres publiés durant le mois en question.
+mialn(Citer) (Répondre)
+Réponse	
+Paul	sur 6 février 2014 à 15:25	
+mialn,
+Merci beaucoup pour cette réponse éclairante.
+Et bonne continuation aux Éditions HJ !
+Paul(Citer) (Répondre)
+Réponse	
+mialn	sur 6 février 2014 à 16:21	
+Paul,
+Avec plaisir et merci ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Lempereur Manuel	sur 2 avril 2014 à 20:04	
+bonjour,
+je m’apprête à envoyer deux exemplaires de mon livre imprimé sur CreateSpace à la BNF et je voudrais savoir s’il est possible de l’envoyer sans que le prix ne soit mentionné sur la couverture ou sur les mentions légales comme demandé par la BNF. En effet, le prix du livre est fluctuant en fonction des promotions et du taux de change. Savez-vous si un tel cas de figure est accepté par la BNF.
+Bien cordialement
+Manuel Lempereur
+Lempereur Manuel(Citer) (Répondre)
+Réponse	
+mialn	sur 3 avril 2014 à 14:43	
+Bonjour Manuel,
+La fixation d’un prix de référence n’est pas facultative en France et doit apparaître dans les mentions légales du livre pour que la BNF l’enregistre. Vous pouvez tout à fait fixer le prix correspondant dans l’interface de Create Space, en décochant la case qui indexe le prix en euros à partir du prix en dollars et en indiquant votre prix (attention, c’est une saisie HT avec 7% de TVA).
+Par la suite, puisque vous êtes l’éditeur de votre livre, vous pouvez appliquer une promo en collant par exemple une étiquette derrière votre livre pour afficher la réduction et le prix promotionnel pour les ventes physiques, ou en l’indiquant dans la description de votre livre s’il s’agit d’une promo en ligne via Amazon.
+Sans cette indication de prix, il est probable que la BNF refuse votre livre pour non-conformité et vous demande de renvoyer une copie réimprimée.
+Pour rappel, les mentions obligatoires devant figurer dans le livre sont les suivantes :
+– le nom (ou raison sociale) et l’adresse de l’éditeur ;
+– le nom (ou raison sociale) et adresse de l’imprimeur (le pays en cas d’impression à l’étranger) ;
+– la date de l’achèvement du tirage (pas pertinent pour l’impression à la demande) ;
+– la mention de l’ISBN et éventuellement de l’ISSN ;
+– le prix en euros ;
+– la mention « Dépôt légal » suivie du mois et de l’année du dépôt.
+Toutes les infos ici : http://www.bnf.fr/fr/professionnels/depot_legal/a.dl_livres_mod.html
+Bon courage à vous pour votre projet ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Vincent CAZAUBON	sur 2 mars 2015 à 23:25	
+Bonjour, nous venons de commander 2 exemplaires « proof » et pensons en envoyer un à la BNF. Seulement le prix est marqué juste au dessus du code barre et pas dans le livre, j’espère que ça ne pose pas de soucis particulier vu qu’il est quand même mentionné ? (et je suis surpris de voir que pas mal de livres que je possèdent ne mentionnent le prix nul part)
+L’isbn quant à lui a été mit et dans le livre, et au dessus du code barre également.
+Vincent CAZAUBON(Citer) (Répondre)
+Réponse	
+mialn	sur 3 mars 2015 à 18:32	
+Bonjour Vincent,
+Normalement, la BNF devrait accepter le livre présenté ainsi, du moment que le prix apparaît quelque part sur l’ouvrage.
+Vous pouvez toujours leur écrire pour leur poser la question, au cas où : http://www.bnf.fr/fr/outils/a.ecrire.html
+Bonne fin de journée !
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Vincent CAZAUBON	sur 4 mars 2015 à 13:00	
+Merci pour votre réponse rapide 🙂
+Vincent CAZAUBON(Citer) (Répondre)
+Nicolas	sur 18 avril 2014 à 19:43	
+Bonsoir Mialn,
+Je tenais tout d’abord à vous remercier pour la qualité de votre blog. Vous apportez aide et conseils avec un souci du détail vraiment très appréciable ! J’ai terminé l’écriture de mon premier roman il y a quelques semaines. Je pensais initialement l’envoyer à plusieurs éditeurs, mais j’ai découvert par hasard l’auto-édition, et je trouve le concept très intéressant. Il s’agit sans doute de l’avenir de la littérature.
+Je me permets de vous écrire afin d’obtenir une information. J’ai géré les différentes phases de la publication de mon roman (écriture, relectures, couverture, promotion future), mais je ne sais pas vraiment quoi faire concernant l’ITIN. Je compte publier mon roman via Createspace. Pour l’instant, j’ai l’intention de vendre mon roman en France (support papier et numérique). La demande d’ITIN vous semble-t-elle dans ce cas nécessaire ? Je suis agrégé de lettres, et les questions fiscales ne sont vraiment pas ma spécialité. J’ai demandé conseil à une avocate de ma famille installée aux Etats-Unis, qui m’a répondu la chose suivante : « Je ne savais pas que les plateformes d’auto éditions américaines retenaient des revenus à la source y compris sur les ventes à l’international (non US) mais si c’est le cas (vérifie quand même) tu peux effectivement entreprendre les démarches décrites dans l’article de Mialn. »
+Je voulais avoir votre point de vue sur la question. Si je ne fais rien, cela signifie-t-il qu’Amazon prélèvera systématiquement 30% de mes royalties sur chaque livre (papier et numérique) vendu ? Je n’entreprends clairement pas cette démarche pour m’enrichir, mais je voulais simplement savoir ce qu’il en était.
+Je vous remercie d’avance de l’attention que vous porterez à ce message, et vous souhaite une bonne soirée !
+Bien cordialement
+Nicolas(Citer) (Répondre)
+Réponse	
+mialn	sur 18 avril 2014 à 20:14	
+Nicolas,
+Merci pour votre commentaire, très appréciable. 🙂
+La retenue fiscale en question ne s’applique que sur les ventes qui sont effectuées au niveau du territoire américain.
+Dans le cas d’achats faits sur Internet, qui n’a pas de frontières, cela complique effectivement un peu les choses…
+1/ En ce qui concerne Amazon (qui est clairement le distributeur chez qui vous devriez vendre en majeure partie), tout dépend de la plate-forme utilisée par le client :
+– les ventes passées via amazon.com sont soumises à la taxe en question (il est possible que lorsqu’un client utilise ce canal en habitant physiquement dans un pays autre que les USA, une distinction soit faite, mais je vous avoue que je n’ai jamais été regarder à ce niveau de détail, d’autant que nous ne sommes pas concernés par cette retenue).
+Les retenues sont remboursées en fin d’année fiscale à ceux qui ont fait les démarches en amont pour être exonérés.
+– les ventes passées via toutes les plate-formes locales d’Amazon (amazon.fr, .de, .es, etc.) ne sont pas concernées pas cette retenue fiscale (tant pour le papier que pour le numérique).
+2/ Dans le cas des distributeurs américains qui ne sont pas multi-canaux et multi-sièges sociaux (comme Smashwords en direct, par exemple), toute vente effectuée est soumise au droit américain et à un prélèvement fiscal à la source, lorsque les démarches expliquées dans l’article n’ont pas été accomplies.
+Lorsque vous publiez sur Kindle ou Create Space, votre livre est automatiquement présent dans tous les canaux d’Amazon, et un même titre sera donc soumis ou pas à la retenue en fonction du canal d’achat utilisé par le client (et sachez qu’amazon.com est utilisé par beaucoup de personnes francophones qui sont expatriées, contrairement à ce que pensent souvent les auteurs français, et qu’il est donc fort probable que vous y vendrez quelques exemplaires de temps en temps).
+Voilà, en espérant que cela vous aidera à y voir plus clair.
+Il faudrait effectivement que je précise cette question dans l’article d’origine…
+Bon courage à vous pour la sortie de votre livre ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Nicolas	sur 19 avril 2014 à 12:05	
+Bonjour Mialn,
+Je vous remercie infiniment de m’avoir répondu si vite, et de manière si claire ! C’est vraiment très gentil à vous d’apporter aide et conseils aux personnes qui se lancent dans l’auto-édition !
+J’aurais une dernière question à vous poser : peut-on inventer un nom d’éditeur lorsque l’on s’auto-édite ? Par exemple, est-il possible de noter en bas de la couverture de son roman « Editions du ballon rouge » (si ce nom n’est pas déjà pris, bien sûr) ?
+Je vous remercie d’avance de l’attention que vous porterez à ce nouveau message. Je vous félicite pour votre succès dans l’auto-édition : vous êtes la preuve qu’il est possible d’avoir son propre lectorat, sans dépendre des grandes maisons d’édition !
+Je vous souhaite une bonne journée !
+Bien cordialement
+Nicolas
+Nicolas(Citer) (Répondre)
+Réponse	
+mialn	sur 19 avril 2014 à 17:43	
+Rebonjour Nicolas,
+Je vous confirme que vous pouvez tout à fait utiliser un nom d’éditeur original qui apparaîtra à la fois sur votre livre, mais aussi sur les fiches produit en ligne des distributeurs qui affichent cette information.
+Sinon, merci pour vos félicitations. 🙂
+En fait, nous avons dépassé le stade de l’auto-édition depuis presque deux ans maintenant (qui était pour nous une première étape), en montant une maison d’édition qui a permis à déjà une cinquantaine d’auteurs de profiter de ce que nous avions expérimenté et mis en place pour M.I.A.
+Si vous n’êtes jamais passé sur notre site éditeur, n’hésitez pas à venir y faire un tour : http://www.editionshelenejacob.com/
+Bonne continuation dans votre aventure de plume !
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Nicolas	sur 19 avril 2014 à 20:00	
+Bonsoir Hélène,
+Je vous remercie beaucoup pour votre réponse ! Félicitations pour votre belle réussite ! Passer de l’auto-édition à l’édition, avec la création d’une maison d’édition, doit être une formidable aventure professionnelle et humaine ! J’irai consulter votre site très prochainement ! Je vous suis sur Twitter depuis aujourd’hui !
+Je vous souhaite une bonne continuation, ainsi qu’un bon week-end de Pâques ! Au plaisir de pouvoir échanger prochainement avec vous !
+Bien cordialement
+Nicolas
+Nicolas(Citer) (Répondre)
+Réponse	
+mialn	sur 21 avril 2014 à 23:23	
+Merci à vous, Nicolas ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Nicolas	sur 22 mai 2014 à 17:57	
+Bonjour Mialn,
+J’espère que vous vous portez bien. J’aurais deux questions très rapides à vous poser : elles concernent le dépôt légal.
+Dans le cas de Createspace, quel pays doit-on indiquer pour l’impression ? Est-ce les Etats-Unis ? Ou un pays d’Europe ?
+Par ailleurs j’imagine que même si l’on a créé un nom de maison d’édition, le nom (ou raison sociale) du déposant doit être celui de l’auteur.
+Je suis désolé de vous poser ces deux questions très prosaïques, mais je voudrais simplement ne pas faire d’erreurs.
+Je vous remercie d’avance, et vous souhaite une bonne soirée !
+Bien cordialement
+Nicolas
+Nicolas(Citer) (Répondre)
+Réponse	
+mialn	sur 22 mai 2014 à 18:48	
+Bonjour Nicolas,
+Pour faire simple, je vous copie directement ci-dessous un exemple de page copyright de nos livres papier chez EHJ.
+Vous n’aurez ainsi qu’à modifier les contenus (la partie « collection » n’est pas obligatoire, bien sûr, mais le reste doit figurer) et ça devrait répondre à toutes vos questions. 🙂
+Bon courage à vous et à bientôt !
+Hélène
+© Éditions Hélène Jacob, 2014. Collection littérature. Tous droits réservés.
+ISBN : 978-2-37011-124-1
+Éditions Hélène Jacob – 13 Impasse Victor Gesta – 31200 Toulouse
+Imprimé par Create Space – États-Unis
+9,90 €
+Dépôt Légal Avril 2014
+mialn(Citer) (Répondre)
+Réponse	
+Nicolas	sur 22 mai 2014 à 20:08	
+Bonsoir Mialn,
+Je vous remercie beaucoup de m’avoir répondu de manière si rapide et précise ! Simple question : vaut-il mieux que j’indique mon nom sachant que ma maison d’édition n’a d’autre existence que son nom sur la couverture ?
+Merci d’avance !
+Nicolas
+Nicolas(Citer) (Répondre)
+Réponse	
+mialn	sur 26 mai 2014 à 14:49	
+L’utilisation d’un nom d’éditeur « pour la forme » est normalement toléré, mais comme mes infos en ce domaine ne sont pas des plus fraîches, vous pouvez par sécurité envoyer un petit mail à la BNF pour leur demander. Ça vous évitera de perdre du temps par la suite au cas où ils se feraient plus stricts…
+Bonne journée !
+mialn(Citer) (Répondre)
+Réponse	
+Phil	sur 27 mai 2014 à 13:54	
+Merci pour cet article explicite. Aujourd’hui mon livre est en vente dans l’iTunes store et c’est un peu grâce à vous;-) à voir ici:
+Étranges Histoires Courtes
+J’ai suivi cette section administrative et procédé pas à pas pour le reste des étapes. En première approche je trouvais inhabituel la « complexité » du processus de création de compte et mise en vente de produits chez Apple. Mais après réflexion on comprend qu’il s’agit de filtrer et cadrer les personnes motivées pour produire et mettre en vente des articles. Si le processus était aussi « open » que pour des ventes aux enchères, iTunes store serait plein de n’importe quoi ou de comptes inactifs et inutiles.
+Phil(Citer) (Répondre)
+Réponse	
+mialn	sur 3 juin 2014 à 18:37	
+Bravo pour votre publication ! 🙂
+Oui, le processus de publication un peu fastidieux sur iTunes leur permet d’éviter tout un tas de problèmes, effectivement.
+En souhaitant le meilleur à votre livre… à bientôt sur ce blog !
+mialn(Citer) (Répondre)
+Réponse	
+Guillaume	sur 26 juillet 2014 à 20:09	
+Bonjour,
+Merci beaucoup pour vos articles qui sont extrêmement compréhensif, ça change des autres sites !
+J’ai fais éditer mon premier roman chez les Éditions du Net, je suis aujourd’hui très satisfait, mais je trouve le prix de leurs publications trop élevés. Ainsi, j’ai décidé, à partir d’une association que j’avais déjà créé précédemment, de monter ma maison d’édition, et d’ainsi me re-publier,
+Je pense que je vais passer par Createspace. En effet, c’est surtout leur diffusion sur Amazon qui m’intéresse car vu le prix de l’offre Avantage, c’est beaucoup plus sympa !
+Cependant, le fait que ce soit américain me gêne quelque peu… Est-ce accessible à quelqu’un qui ne maitrise pas tellement l’anglais ?
+Et étant donné que je ne compte que vendre mes publications en France, suis-je obligé de demander un numéro ITIN ?
+Merci à vous !
+Guillaume(Citer) (Répondre)
+Réponse	
+mialn	sur 28 juillet 2014 à 11:55	
+Bonjour Guillaume,
+Create Space n’est pas très compliqué à suivre, mais si vous avez vraiment un niveau limité en anglais, il se peut que vous ayez qq soucis pour suivre les explications techniques lorsque viendra le moment de préparer une maquette parfaite… Mais comme l’ouverture d’un compte est gratuite et n’engage à rien, autant tester et voir comment vous vous en sortez au fil de l’eau… 🙂
+Pour ce qui est de l’ITIN, il n’est jamais obligatoire, puisque au pire vous aurez une retenue si vous vendez quelques copies via le canal .com d’Amazon (il y a des francophones partout dans le monde, ce n’est jamais exclu).
+Merci pour vos compliments et bonne chance pour la préparation de votre texte !
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Guillaume	sur 29 juillet 2014 à 18:32	
+mialn,
+Bonjour,
+Je vous remercie de votre réponse.
+J’ai créé mon compte Createspace, et ai commencé la publication de mon roman. Mais à peine ai-je ouvert la page pour ajouter un nouveau titre qu’on m’affiche une pop-up, m’indiquant que je dois mettre mes informations pour les royalties. Et surprise, en bas de page, il y’a un champs obligatoire pour L’ITIN. Puis-je contourner cela ? Comment faire ?
+Merci !
+Guillaume(Citer) (Répondre)
+Réponse	
+mialn	sur 5 août 2014 à 19:02	
+Rebonjour Guillaume,
+Désolée pour mon délai de réponse, je reviens de 10 jours d’absence.
+Quand vous essayez de laisser le champ vide ou de saisir la mention N/A, obtenez-vous un message d’erreur et si oui, lequel ?
+Car à l’époque où nous avions créé notre compte, nous avions effectivement un pop-up, mais on pouvait laisser l’étape de côté et y revenir (ou pas) plus tard.
+Je suis donc repartie regarder les dernières règles établies en la matière (car elles ont manifestement un peu changé ces trois dernières années).
+Comme expliqué sur cette page que vous n’avez peut-être pas lue (https://www.createspace.com/Help/Index.jsp?cid=02n70000000DirS&orgId=00D300000001Sh9), si les ventes réalisées sur les canaux Europe d’Amazon sont bien exemptes de prélèvement à la source, les vendeurs sont par contre tenus de renvoyer le formulaire W-8BEN qui certifie qu’ils ne sont pas citoyens américains pour pouvoir être exemptés de retenues sur ces canaux. À défaut, Create Space peut être amené à retenir une partie des royalties, quel que soit la source de la vente.
+Ce formulaire W-8BEN ne requiert pas nécessairement un TIN pour être valide. Vous pouvez vous en passer si cela ne vous gêne pas de perdre une partie des gains éventuellement perçus via des ventes sur amazon.com.
+Donc, normalement, vous ne devriez pas être obligé de saisir un TIN dans Create Space non plus.
+Merci donc de me dire si vous êtes toujours coincé ou si vous avez pu accéder aux écrans suivants de la création de compte.
+Bon courage ! 🙂
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Canovi	sur 14 août 2014 à 11:21	
+Bonjour,
+pourriez-vous vous m’aider ?
+J’ai reçu ce message d’amazon :
+> Dear Canovi,
+>
+> During a recent review of your account, we discovered we have paid royalty income to you, but we do not have proper tax documentation on file during 2012. To remedy this situation, please complete a retroactive Form W-8 and return it to us as quickly as possible to the following address:
+>
+> Amazon
+> c/o AP Tax
+> PO Box 80683
+> Seattle, WA 98108-0683
+>
+> If IRS form W-8 is not received by September 12th, 2014, we will place any future payment(s) on hold.
+>
+> A retroactive Form W-8BEN with affidavit of unchanged status is available here:
+> https://images-na.ssl-images-amazon.com/images/G/01/00/00/52/09/25/16/5209251670.pdf
+>
+> Please ensure you send the W-8BEN with affidavit of unchanged status. Also, please include your Publisher Code and/or Member ID in the margin at the top of the form.
+>
+> Further, because we do not have an original Form W-8 on file for you for these prior payments, we request that you also complete (and sign and date) the retroactive affidavit on the bottom of the form.
+>
+> We will provide confirmation upon receipt of a valid Form W-8.
+>
+> We’ve included instructions below for your convenience.
+>
+> Note: If the Form W-8BEN is not the correct form for you or you have other questions regarding this matter, please send an e-mail to tax-docs@amazon.com and our tax team can assist you.
+>
+> Thank you in advance for your prompt attention to this important matter.
+>
+> Sincerely,
+> Kindle Direct Publishing
+>
+>
+> Instructions to Complete Form W-8BEN
+>
+> The instructions below are designed to assist you in completing the Forms W-8 and address some of the common mistakes and questions raised. These instructions are not intended to provide specific tax or accounting advice and we encourage you to consult your own tax advisors regarding the completion of the form.
+>
+> General rules:
+> (1) A fax or e-mailed pdf copy is not acceptable. We must receive the original copy by mail. For express mail or if a physical address is needed to send the W8, please send the form to:
+>
+> Amazon
+> c/o AP Tax
+> 202 Westlake Ave N
+> Seattle, WA 98109
+>
+> (2) The Form must be signed and dated.
+> (3) The Affidavit of Unchanged Status must be signed and dated.
+> (4) The name on the form needs to be the same as your account.
+> (5) Signers other than the beneficial owner must indicate the capacity in which they are acting (for example, “President,” “Partner,” “Trustee,” note that “officer” is not acceptable). If signed by an authorized representative, proof of authorization (via documentation) such as a power-of-attorney or Form 2848 must be attached.
+>
+> Form W-8BEN:
+> (1) The permanent residence address box must contain a non-U.S. address. The permanent address may not be a P.O. Box or “in care of” (c/o) address and the country name must be spelled out in full (i.e., no abbreviations).
+> (2) If a U.S. address is also being entered in the mailing address box, then organizational documents and articles of incorporation are required to be provided to prove foreign status for non-individuals.
+> (3) If a U.S. TIN is entered, the applicable box describing it (i.e., SSN or EIN) must also be checked.
+> (4) Part II of the Form is used to claim treaty benefits and is only required to be completed if the client claims tax treaty benefits.
+> a. Line 9(a): Box must be checked and the treaty country name must be entered. The treaty country name must also match the country name on Line 4 (and Line 5 if completed). If it is not a match, then additional documentation is necessary;
+> b. Line 9(b): Must be checked if claiming treaty benefits for certain payments; and,
+> c. Line 9(c): Must be checked unless you are an individual.
+Si vous pouviez me dire quoi faire… je cherche un spécialiste de tout ça qui pourrait se charger de résoudre le problème.
+Cordialement,
+Lucia
+Canovi(Citer) (Répondre)
+Réponse	
+mialn	sur 14 août 2014 à 13:26	
+Bonjour Lucia,
+Amazon vous demande ici de mettre à jour votre compte en matière de statut fiscal.
+Il vous faut simplement suivre leurs instructions en imprimant et complétant le document dont le lien est donné au début de leur courrier, puis en leur envoyant par courrier physique.
+Avez-vous des soucis pour comprendre l’anglais ou est-ce le contenu du courrier lui-même qui n’est pas clair pour vous en termes de procédure à suivre ?
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 16 août 2014 à 00:40	
+Merci, merci pour cet article !! Bon, l’ordi a failli passer par la fenêtre avec l’histoire des ITIN (j’ai ai passé des heures…), et puis j’ai lu les com, j’ai tapé le nom de la taxe dans la case, ça a marché et si je touche peu, ben je touche peu, tant pis !! J’habite au milieu des moutons, je n’ai pas de passeport, et je ne vais pas payer des fortunes pour un livre qui ne sera de toutes façons pas le best-seller de l’année… J’ai juste voulu réaliser un vieux rêve en publiant, c’est tout.
+Donc encore merci !!
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+mialn	sur 16 août 2014 à 14:29	
+Alors bonne chance à vous et à votre livre, je comprends tout à fait que vous ayez préféré vous concentrer sur l’essentiel. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 16 août 2014 à 14:32	
+mialn,
+J’ai déjà réussi à publier le Kindle ; j’attends la validation pour le livre papier à présent. Une petite question, vu que, renseignement pris, l’ambassade la plus proche est à 300 km de chez moi (ou le consulat le plus proche, c’est pareil…) : comment puis-je savoir si un tribunal est compétent pour certifier conforme et c’est aussi payant ?
+En tout cas, encore mille mercis pour votre travail 🙂
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+mialn	sur 16 août 2014 à 16:10	
+Pour répondre à votre question concernant la liste des tribunaux compétents pour une légalisation de documents, je vous invite à consulter cette page : http://www.vos-droits.justice.gouv.fr/proces-civil-11922/saisine-des-juridictions-civiles-11927/lapostille-23436.html
+Tout en bas, vous trouverez un lien direct vers la recherche du tribunal le plus proche de chez vous et ayant la possibilité de faire le nécessaire (pensez quand même à bien les appeler avant, afin d’être sûr que leurs informations en ligne sont à jour et que leur procédure sera acceptée par le fisc américain au même titre qu’une légalisation de document effectuée par un consul).
+Normalement, au tribunal, c’est gratuit (mais à vérifier aussi, par sécurité)
+Bon courage ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 16 août 2014 à 15:40	
+Je me permets une autre question : CreateSpace vient d’approuver mon livre et moi de commander ma preuve papier. Me conseillez-vous de l’attendre avant de valider la publication ou puis-je me fier aux maquettes présentées ?
+Merci et bon wek-end.
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+mialn	sur 16 août 2014 à 16:13	
+Si c’est votre première publication sur Create Space, je vous conseille d’attendre votre copie physique, pour que vous puissiez mieux voir les correspondances entre l’affichage du proof dans leur système, et la réalité (sauf si vous avez l’habitude de maquetter par ailleurs et êtes absolument sûre de vous).
+Bonne continuation dans votre projet !
+mialn(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 16 août 2014 à 16:38	
+mialn,
+Oui, c’est ma première publication, et non, je ne suis pas trop sûre de moi ; il y a encore dix-huit mois, je ne connaissais à peu près rien à l’informatique…
+Je vais donc attendre :); pour mes lectrices les plus pressées, il y aura toujours le Kindle dont je suis très contente et qui s’est déjà vendu depuis ce matin, et la prochaine fois, je m’y prendrai mieux !
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 16 août 2014 à 16:35	
+mialn,
+Merci beaucoup. Je vais me permettre de suggérer votre site autour de moi, votre aide est précieuse !
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+mialn	sur 19 août 2014 à 19:54	
+Avec plaisir et je vous souhaite le meilleur pour la suite. 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 19 août 2014 à 20:00	
+mialn,
+Pour l’instant, le Kindle ne se vend pas trop mal, je trouve : 50 exemplaires en 3 jours. Et j’attends avec impatience ma preuve papier !! Pour l’ITIN, je peux faire les démarches (gratuites) à une cour d’appel à 30 km de chez moi.
+Ceci dit, je connais une autre auto-éditrice à qui CreateSpace n’a rien demandé. Elle a eu à cocher une case comme quoi elle n’avait pas d’ITIN, a rempli un formulaire en ligne (sans doute le W8, comme pour le Kindle), et voilà. Moi, je n’ai jamais eu cette case à cocher !!
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+Ysaline Fearfaol	sur 6 septembre 2014 à 16:42	
+Bonjour Mialn,
+Un petit mot qui je l’espère pourra aider : je suis allée à la cour d’appel proche de chez moi pour demander des apostilles afin de faire certifier conforme mes pièces d’identité. Ça a été très rapide (moins d’une semaine pour recevoir les documents, alors que je n’avais pas d’enveloppe timbrée à leur fournir puisque j’ai rempli la demande sur place) et totalement gratuit.
+Là, je suis en train de remplir le W7, que je ferai vérifier par ma cousine américaine qui -coïncidence!!- vient en France la semaine prochaine et aune formation d’avocate. Je ne manquerai pas de relayer toute information utile !
+Côté pratique, je n’ai toujours pas reçu le livre papier, mais je pense que c’est aussi de ma faute ; je n’ai pas pris le tarif express, et contrairement à la France où le courrier arrive à la même vitesse quel que soit le tarif (dixit un ami postier), apparemment, ce n’est pas pareil aux USA !! Tant pis, je ferai mieux la prochaine fois.
+Ysaline Fearfaol(Citer) (Répondre)
+Réponse	
+Nathalie	sur 10 novembre 2014 à 14:30	
+Bonjour Chère Hélène,
+Merci infiniment pour toutes vos informations précises, claires et exprimées avec attention pour vos destinataires.
+j’ai lu tout ce que vous avez répondu aux différentes questions depuis 2012 et je retiens plusieurs choses :
+1 – je vais publier sur papier avec Create Space sur Amazon.fr, en Europe
+–> je n’ai donc pas besoin de remplir cette fiche fiscale W8-BEN si j’ai bien compris ? (alors je ne sais pas pourquoi Amazon m’a basculée sur leur doc fiscal compliqué… du coup, à force de chercher des réponses, je suis tombée sur votre site et la conclusion est que je renonce – pour l’instant – à remplir tous ces doc compliqués (ai encore besoin de mon ordi, pas le moment de le passer par la fenêtre…) ;
+2 – je viens de faire une demande de n°ISBN à l’AFNIL. Ce qui leur demande 3 semaines pour en fournir un. Du coup, questions :
+–> puis-je quand même poursuivre la fabrication papier chez Amazon ? (vous me direz : « allez-y voir, vous verrez bien »)
+–> une autre question à propos de cet ISBN : quel est l’intérêt d’avoir son propre ISBN éditeur plutôt que celui d’Amazon ? (peut-être qu’en plus Amazon le fournit plus rapidement ?)
+3 – si j’ai bien compris la procédure dans l’ordre :
+1 – je « fabrique » le contenant papier (le roman existe déjà sur Kindle) au format Livre sans dépôt légal et sans n°ISBN ;
+2 – Amazon prend le temps de le valider (comme pour le format Kindle, 2 jours à peine ?) ;
+3 – une fois validé par Amazon, je m’en commande un exemplaire papier et je le relis avec attention pour corriger les coquilles le cas échéant ;
+4 – quand j’ai le dépôt légal avec n°ISBN, je les saisis sur le livre sur Amazon, je fignole l’ouvrage quoi ;
+5 – il est nickel, je suis super heureuse et je le mets officiellement en vente ?
+Merci de me confirmer si je n’ai rien oublié 😉
+et merci encore infiniment pour toute l’aide que vous apportez régulièrement.
+Nathalie Decottégnie
+http://www.etreproactif.com
+Roman sur Amazon: toi ou la vraie vie
+Nathalie(Citer) (Répondre)
+Réponse	
+mialn	sur 10 novembre 2014 à 18:49	
+Commentaire
+Nathalie,
+Alors je vais tenter de répondre à vos questions dans l’ordre :
+1- Les dernières mises à jour chez Create Space impliquent que vous êtes obligée de répondre à leur questionnaire fiscal, même si c’est pour dire en cours de route que vous n’avez pas de TIN à fournir (et donc être taxée sur d’éventuelles ventes sur Amazon.com).
+À défaut de réponse, les sommes vous étant dues seront gelées, car ils doivent connaître votre situation fiscale, quelle qu’elle soit, pour pouvoir vous payer.
+Par contre, vous pouvez tout faire en ligne, de mémoire, pas besoin d’impression et d’envoi papier.
+2- Les envois d’ISBN par mail sont effectués par l’AFNIL sous 48 heures en moyenne, en réalité. Je vous conseille donc d’attendre leur attribution, qui ne saurait tarder, pour pouvoir incorporer tout de suite votre n° dans la page de copyright de votre livre et ne pas perdre de temps ensuite.
+Amazon ne fournit pas d’ISBN mais un code ASIN à votre livre, ça n’a rien à voir et ce n’est qu’un code interne, mais pas une référence universelle.
+Votre livre papier vendu doit impérativement avoir un ISBN unique et la BNF vous le demandera d’ailleurs lors du dépôt légal.
+En numérique, par contre, vous pouvez effectivement faire l’impasse sur un ISBN dédié, même si je ne vous le recommande pas.
+3- Non, vos étapes sont dans le désordre sur la fin, car vous devez faire le dépôt légal du livre fini et contenant l’ISBN indiqué dedans.
+Donc :
+– Vous attendez votre réponse de l’Afnil pour avoir vos ISBN et en affecter un à votre livre papier.
+– Vous finissez de maquetter votre livre papier en faisant apparaître ce numéro dans la page de copyright, ainsi que la mention « Dépôt légal mois année » (par exemple, si vous savez que le livre va sortir en décembre, vous indiquez par anticipation « décembre 2014 »).
+– Vous enregistrez votre livre dans Create Space et demandez une copie de contrôle physique si nécessaire.
+– Quand tout est ok à réception, vous procédez auprès de la BNF au dépôt légal de ce livre terminé et complet.
+– Parallèlement, vous activez la distribution du livre dans Create Space.
+Voilà, en espérant que c’est plus clair. À bientôt !
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+Sébastien	sur 29 janvier 2015 à 08:21	
+Bonjour à vous.
+Merci pour toutes ces infos qui je dois l’avouer sont un véritable casse-tête chinois.
+Si j’ai bien compris, à partir du moment où l’on veut publier numériquement sur Amazon, que cela soit sur Amazon US ou Amazon France, on doit obtenir le fameux ITIN (pour les particuliers) ou le EIN (pour les personnes morales)pour ne pas être taxé à 30%.
+Après avoir parcourut de nombreux sites, il semble plus facile d’avoir le numéro EIN, non?
+Donc ma question est la suivante : puisque l’on doit déclarer les revenus engendrés par les ventes aux impots, et que pour cela la case « auto-entrepreneur » semble la plus simple, peut-on s’enregistrer en tant qu’auto-entrepreneur et demander d’office le numéro EIN?
+Peut-être que je me trompe.
+Et peut-on demander ces fameux numéros avant d’avoir commencer à publier sur Amazon?
+Merci pour vos réponses
+Cordialement
+Sébastien(Citer) (Répondre)
+Réponse	
+mialn	sur 29 janvier 2015 à 16:52	
+Bonjour Sébastien,
+Voici donc quelques réponses supplémentaires :
+– A la différence de certaines plates-formes (comme iTunes), Amazon ne requiert pas un TIN (qu’il s’agisse de l’ITIN ou de l’EIN) pour vous permettre de publier.
+Simplement, à défaut d’obtention et d’enregistrement de ce n° dans votre compte KDP ou Create Space, toutes vos ventes réalisées sur le .com (le .fr n’est pas concerné) seront automatiquement taxées à la source.
+Comme je l’ai dit dans divers commentaires, le degré d’importance varie selon les personnes (tout dépend de votre façon de vendre sur le .com ou pas)
+– L’EIN est effectivement plus simple à obtenir. Mais lorsque cet article a été écrit à l’époque, nous n’étions pas dans le cas de figure où nous pouvions prétendre à l’EIN et de nombreux auteurs sans statut professionnel le justifiant ne pouvant non plus le demander, j’ai préféré donner la procédure d’obtention de l’ITIN, qui elle concernait tout le monde.
+Mais effectivement, faire cette demande d’EIN sur une base auto-entrepreneur est certainement ce qu’il y a de plus simple pour ceux qui choisissent ce statut.
+– Pour demander l’ITIN, il faut pouvoir fournir le courrier à en-tête d’un revendeur justifiant le besoin, donc ce n’est pas possible de le faire avant.
+L’EIN, lui, peut être demandé en amont si les procédures sont toujours les mêmes que celles que j’ai testées il y a maintenant quelque temps.
+En espérant que ces réponses vous seront utiles.
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+severine	sur 19 février 2015 à 22:00	
+Hello Mia, Merci de cet article fort complet…. par contre, je capte pas tout ! Oui désolée… mais peut-être pourras-tu m’aider!
+Je veux publier un e-book sur kdp amazon (pas un livre, pas de papier) de quelques pages sur un sujet qui me tient à coeur et au moment de finaliser le tout, j’ai droit au fameux Questionnaire fiscal… j’y capte que dalle… j’habite en Suisse, et apparemment pour une version numérique, il n’y a pas besoin de remplir tous ces trucs, non ?? mais comment faire pour finaliser!? Mystère.
+Un grand merci pour ton aide…
+severine(Citer) (Répondre)
+Réponse	
+mialn	sur 24 février 2015 à 15:45	
+Bonjour Séverine,
+Pour qu’Amazon puisse payer à un auteur ses redevances, ils doivent connaître le statut fiscal de la personne, quel qu’il soit.
+Répondre au questionnaire est donc obligatoire, afin que les paiements à venir puissent être correctement effectués, même si l’on déclare dedans n’avoir fait aucune démarche pour obtenir un TIN et donc avoir droit à la suppression des retenues fiscales à la source.
+Je rappelle encore une fois que ces retenues sont exercées sur les ventes réalisées sur amazon.com et pas sur amazon.fr.
+En résumé : mettre son compte à jour est indispensable, mais avoir un TIN ne l’est pas (il suffit d’indiquer qu’on n’en possède pas).
+En espérant que ces explications seront utiles, bonne continuation pour cette publication !
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Vincent CAZAUBON	sur 13 mars 2015 à 21:30	
+Bonjour,
+Notre livre vient d’être mis en vente sur Amazon, mais je viens de voir que le prix que nous avions indiqué était le prix hors TVA (24.90€).
+Le soucis c’est que nous avons indiqué ce prix au dos de notre ouvrage et c’est également ce prix que nous avons déclaré à la BNF.
+Le prix indiqué par Amazon est de 26€27, ce qui nous pose un dilemme x)
+Est-il légal d’avoir sur le dos du livre marqué 24€90 si le livre est vendu à 26€27 ?
+Est-il légal d’avoir déclaré à la BNF 24€90 alors que Amazon le vend 26€27 ?
+Doit-on donc modifier le prix au dos de notre ouvrage et indiquer 26€27 ? ou est-ce que ça passe ? De même pour la BNF, est-ce que c’est grave ? x)
+Sachant que notre ouvrage s’est déjà vendu étonnamment assez rapidement 😡
+Merci d’avance pour votre réponse et désolé si l’endroit n’est pas le bon pour poser ce genre de questions 😡
+Au plaisir !
+Vincent CAZAUBON(Citer) (Répondre)
+Réponse	
+mialn	sur 14 mars 2015 à 01:35	
+Bonsoir Vincent,
+Je ne comprends pas… Pourquoi ne pas fixer le prix correspondant dans Create Space (car oui, il est important que toutes les données concordent, c’est la loi).
+Il vous suffit, pour le canal Amazon Europe, de bien indiquer le prix HT et pas TTC, soit 23.60 €. Votre livre sera alors vendu en boutique .fr à 24.90 €. Ceci me semble le plus logique, plutôt que de procéder à un chgt de maquette.
+Au plaisir également ! 🙂
+LN
+mialn(Citer) (Répondre)
+Réponse	
+Vincent CAZAUBON	sur 14 mars 2015 à 14:34	
+mialn,
+Merci beaucoup pour votre réponse, encore une fois rapide =D
+Vincent CAZAUBON(Citer) (Répondre)
+Réponse	
+Vincent CAZAUBON	sur 19 mars 2015 à 18:21	
+Coucou 🙂
+Je vous fait part de mes déboires afin d’aquérir le n°itin x)
+Je suis allé au Palais de Justice de Toulouse pour faire gratuitement l’apostille.
+Mais pour qu’ils puisse me la faire, il faut des photocopies certifiées.
+SAUF^^ que pour me certifier ces photocopies, il leur faut la lettre à entête d’amazon…Mais ils leur faut en français ! Sinon pas possible de faire authentifier mes pièces d’identités et donc pas d’apostille xD
+J’ai beau chercher, je ne trouve pas cette lettre à entête en français, ni sur Amazon, ni sur createSpace, ni sur Kindle x_x »
+Du coup j’aurais voulu savoir si vous saviez où la trouver ou si je devrais aller voir un traducteur agréé (rah les voies officielles u_u », j’aurais pu le faire moi même sinon) et vais devoir payer je ne sais pas quel prix xD
+Voilà voilà, j’essayerais de vous tenir au jus pour la suite :p Merci et à bientôt !
+Vincent CAZAUBON(Citer) (Répondre)
+Réponse	
+mialn	sur 28 mars 2015 à 15:51	
+Bonjour Vincent,
+Désolée pour le délai de réponse, actualité un peu chargée pour nous actuellement… 🙂
+Vu que vous êtes à Toulouse, pourquoi ne pas vous rendre tout simplement au consulat, ce qui sera bcp plus rapide ?
+Car les traductions (même effectuées par un traducteur agréé) ne sont pas possibles pour cette procédure, l’IRS devant obtenir un document en langue anglaise à l’autre bout. D’ailleurs, je suis très étonnée qu’on vous demande ça, puisque l’apostille ne certifie pas le contenu d’un document, elle est là pour dire que la copie du document est identique à l’original, c’est tout.
+Bref, essayez plutôt le consulat de Toulouse à Jean-Jaurès en demandant un RdV (c’est là que je suis allée à l’époque, il y a 3 ans, et ça s’est très bien passé) ou, autre solution, demandez plutôt un EIN qu’un ITIN, la procédure est bien plus simple, mais nécessite un minimum de maîtrise de l’anglais.
+Bon courage !
+mialn(Citer) (Répondre)
+Réponse	
+Amélie	sur 23 mars 2015 à 14:32	
+Bonjour, je n’ai aucun consulat à proximité de chez moi pour faire certifier mon passeport… Que faire ?? Merci de votre aide !!
+Amélie(Citer) (Répondre)
+Réponse	
+mialn	sur 28 mars 2015 à 15:54	
+Bonjour Amélie,
+Vous pouvez demander un RdV dans un Palais de Justice qui propose cette procédure, mais (cf situation de Vincent, un peu plus haut dans les commentaires), ça a l’air de plus en plus compliqué de passer par eux.
+Autre solution : privilégier une demande d’EIN plutôt que d’ITIN, comme je lui ai indiqué.
+Et si le tout prend un peu de temps, pas de panique, seules vos ventes effectuées sur amazon.com seront pénalisées par une retenue, donc vous n’y perdrez a priori pas trop.
+Bon courage !
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Amélie	sur 21 avril 2015 à 10:16	
+Merci de votre réponse ! Alors, j’ai essayé par deux fois d’appeler le TGI de ma ville, qui ne savent absolument de quoi je parle et qui me disent n’avoir jamais fait ça… Ils me renvoient vers la mairie ^^ Bref, j’ai l’impression que c’est mission impossible pour obtenir une copie certifiée de mon passeport…
+Amélie(Citer) (Répondre)
+Réponse	
+mialn	sur 23 avril 2015 à 16:42	
+Bonjour Amélie,
+Tous les TGI ne sont pas compétents pour cette démarche, effectivement.
+De plus, en faisant quelques recherches, je viens de découvrir que depuis 2013 (un an après l’écriture de cet article), la procédure aurait légèrement changé, en confiant aux préfectures les demandes de copies certifiées conformes à la demande d’une administration étrangère.
+Je vous conseille donc de contacter la vôtre (si vous n’avez pas de consulat américain proche de chez vous) pour leur poser la question.
+Bon courage !
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+Amélie	sur 23 juin 2015 à 16:41	
+Merci de votre aide, c’est super sympa… Par contre, j’ai contacté la préfecture, qui me répond qu’ils ne font pas ça… Reste la mairie, qui me dit qu’ils peuvent certifier l’authenticité de la copie de mon passeport (ils vont mettre un tampon Marianne, quoi) : est-ce que ce serait suffisant pour l’IRS à votre avis ? Si ce n’est pas le cas, je ne vois plus quoi faire hormis m’arracher les cheveux…!
+Encore merci de vos précieuses réponses !
+Amélie(Citer) (Répondre)
+Réponse	
+Amélie	sur 21 avril 2015 à 16:17	
+Et pour le n° EIN, je suis aussi preneuse de conseils, car sur le site de demande ne ligne, i lest indiqué que « The business location must be within the United States or U.S. territories. » et quand on commence à remplir le questionnaire, un numéro de sécu sociale US est demandé, donc je ne vois pas quoi faire…
+Amélie(Citer) (Répondre)
+Réponse	
+mialn	sur 23 avril 2015 à 16:59	
+Je crois que vous n’êtes pas dans le bon formulaire de demande (http://www.irs.gov/pub/irs-pdf/fss4.pdf).
+Dans la documentation associée (http://www.irs.gov/pub/irs-pdf/iss4.pdf), il est bien précisé : »You must enter an SSN, ITIN, or EIN on line 7b unless the only reason you are applying for an EIN is to make an entity classification election (see Regulations sections 301.7701-1 through 301.7701-3) and you are a nonresident alien or other foreign entity with no effectively connected income from sources within the United States. »
+En tant que personne étrangère sans revenus perçus aux États-Unis, vous êtes dans la situation où il n’est pas nécessaire de fournir de TIN individuel à la ligne 7b.
+Si vous êtes passée par le questionnaire direct en ligne avec obtention immédiate de l’EIN, vous n’êtes pas au bon endroit, il est réservé aux seuls citoyens américains.
+Les étrangers doivent faire leur demande par téléphone, fax ou courrier papier, en s’appuyant ou en renvoyant sur le formulaire cité au début de ma réponse.
+Bon courage !
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+Amélie	sur 24 juin 2015 à 09:44	
+Bonjour Hélène,
+J’ai réussi à obtenir un EIN par téléphone, grande victoire 😉 J’espère que ça sera suffisant par rapport à un ITIN pour amazon.com 🙂
+Amélie(Citer) (Répondre)
+Réponse	
+mialn	sur 26 juin 2015 à 00:49	
+Bravo pour votre ténacité ! 🙂
+Oui, aucune raison que ça n’aille pas (l’EIN est un TIN, au même titre que l’ITIN).
+Vous serez donc tranquille pour un moment, dès qu’Amazon aura enregistré l’EIN en question.
+mialn(Citer) (Répondre)
+Réponse	
+Amélie	sur 16 juillet 2015 à 08:39	
+Eh bien le bilan, c’est qu’Amazon demande un ITIN et ne veut pas d’EIN… Retour à la case départ ^^
+Amélie(Citer) (Répondre)
+mialn	sur 27 juillet 2015 à 15:37	
+Bonjour Amélie,
+Désolée pour cette mauvaise nouvelle, qui est donc récente puisque précédemment Amazon acceptait tout type de TIN.
+Je suis d’ailleurs étonnée qu’ils procèdent ainsi, puisque cela bloque de fait tous les éditeurs indépendants qui travaillent avec KDP et ont une structure collective.
+Pour ma part, j’en saurai plus à notre prochaine mise à jour de compte dans quelques mois, puisque la question se posera pour notre maison d’édition. Je mettrai alors les infos à jour ici sur la base de notre propre expérience.
+Bon courage à vous pour la suite des opérations… 🙂
+LN
+mialn(Citer) (Répondre)
+Vincent CAZAUBON	sur 3 juin 2015 à 19:10	
+Bonjour !
+Je suis en micro entreprise (9003B et pourtant en commercial, affilié au RSI avec un chiffre d’affaire annuel de 82200€ à ne pas dépassser) et j’aurais voulu savoir, lorsque je vend un livre en main propre, dois-je absolument éditer une facture ? Où suffit-il que je reporte ma vente dans mon livre de recette ? Car je ne me trimballe pas vraiment avec une imprimante sur moi ^_^
+Merci par avance encore une fois ! 🙂
+Vincent CAZAUBON(Citer) (Répondre)
+Réponse	
+mialn	sur 15 juin 2015 à 00:57	
+Bonjour Vincent,
+Désolée pour mon délai de réponse, cette dernière quinzaine a été particulièrement intense…
+Pour répondre à votre question, je ne suis pas spécialiste de la micro-entreprise, mais je pense que vous pouvez tout à fait vous retrouver dans une situation où un acheteur vous réclamera une facture.
+Les textes résument la situation comme suit : « Tout achat de produits ou toute prestation de service pour une activité professionnelle doivent faire l’objet d’une facturation. Le vendeur est tenu de délivrer la facture dès la réalisation de la vente ou la prestation du service. L’acheteur doit la réclamer. La facture doit être rédigée en double exemplaire. Le vendeur et l’acheteur doivent en conserver chacun un exemplaire. »
+À partir du moment où vous vendez vous-même des livres, il s’agit d’une activité marchande, et vous êtes à mon sens dans ce cadre.
+(Plus d’infos, par exemple ici : http://www.entreprises.cci-paris-idf.fr/web/reglementation/contrats-modeles/commerciaux/facture)
+À notre niveau, nous n’avons pas de recul sur cette question, puisque toutes nos ventes papier passent par un intermédiaire (qu’il s’agisse d’Amazon, Ingram, libraire, etc.) qui se charge donc de cet aspect vis-à-vis du lecteur final et que c’est de toute façon notre maison d’édition qui est le vendeur initial, ces ventes nous revenant sous forme de droits d’auteur.
+Nous ne facturons que les prestations que nous réalisons pour nos autres activités parallèles (webmastering, prestations d’écriture, etc.), mais pas pour ce qui concerne M.I.A.
+Mon conseil pour éviter l’imprimante : gardez sous le coude un bloc de feuillets pré-imprimés avec toutes les mentions obligatoires, où vous n’avez plus qu’à reporter les variables.
+Ceci en plus du report dans votre livre de recettes, bien sûr.
+Et n’hésitez pas à interroger l’administration pour plus d’informations.
+Bon courage ! 🙂
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+Fournier	sur 25 juin 2015 à 17:49	
+Merci pour toutes ces précieuses informations. Concernant le ITIN, il semblerait, si j’ai bien compris, qu’il suffise de produire le n° fiscal français (je parle d’un particulier) en cochant la case » j’ai un numéro fiscal étranger ». Je l’ai fait et Amazon me promet de ne rien prélever.
+Fournier(Citer) (Répondre)
+Réponse	
+mialn	sur 26 juin 2015 à 00:53	
+Amazon ne prélève rien pour les ventes sur Amazon.fr.
+Par contre, la seule façon de ne pas avoir de retenue fiscale pour les ventes effectuées sur Amazon.com est de suivre la procédure donnée dans cet article (formulaire w8BEN incluant un TIN, qui peut être un ITIN ou un EIN, dont l’obtention est plus simple).
+Mais beaucoup de personnes choisissent de ne pas se casser les pieds et de ne rien faire de tout ça. Si vous ne vendez pas beaucoup sur le .com, effectivement, ça n’est pas indispensable.
+mialn(Citer) (Répondre)
+Réponse	
+Rally	sur 12 novembre 2015 à 18:54	
+Bonjour, merci beaucoup pour toutes ses informations.
+J’ai écrit un livre de plus de 400 pages et j’en écrit d’autres.
+Je voudrais savoir dans la case 6b du formulaire W-7. Votre no fiscal en France. Que faut-il répondre ?
+Rally(Citer) (Répondre)
+Réponse	
+mialn	sur 13 novembre 2015 à 17:29	
+Bonjour,
+Vous pouvez simplement y indiquer le n° fiscal qui figure sur votre avis d’imposition habituel (tout en haut, de mémoire, dans un cadre administratif).
+Si vous n’en possédez pas, car vous n’avez encore jamais effectué de déclaration de revenus en France, laissez la case vide, ça devrait passer.
+Bon courage pour vos démarches !
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Rally	sur 13 novembre 2015 à 20:38	
+mialn,
+Merci pour tout.
+Rally(Citer) (Répondre)
+Réponse	
+mialn	sur 14 novembre 2015 à 19:12	
+Avec plaisir ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Serge Laperdrix	sur 1 mars 2016 à 12:17	
+Bonjour,
+Superbe site et bien sur, super tuto pour l’auto édition.
+Comme beaucoup je nage au milieu de ma demande d’ITIN…
+Dans ce chapitre 6, vous faites amicalement référence à votre exemple de formulaire W-7 ( http://leblogmia.com/wp-content/uploads/2013/03/fw71.jpg 670 500).
+C’est effectivement une chance de pouvoir s’inspirer d’un W-7 qui a passé la barrière de IRS.
+Hélas, votre lien ne fonctionne pas.
+Ceci dit je comprendrais que vous ayez retiré cet exemple privé.
+Si ce n’est pas le cas, comment le visualiser ?
+Si cela n’est pas possible, merci quand même sincèrement pour ce super tuto qui m’aide énormément.
+Cordialement
+Serge
+Serge Laperdrix(Citer) (Répondre)
+Réponse	
+mialn	sur 1 mars 2016 à 16:04	
+Bonjour Serge,
+L’image est toujours accessible, je viens de le vérifier, elle s’ouvre correctement dans un onglet à part quand on clique sur le lien que vous avez donné (peut-être que vous êtes sur un navigateur un peu ancien qui fait des siennes… 🙂 ).
+Ceci étant, ce n’est pas très grave, puisque la question de l’ITIN a pas mal évolué depuis l’écriture de cet article il y a presque quatre ans, car Amazon a heureusement simplifié les principes de déclaration.
+Il suffit maintenant de fournir son n° fiscal français (qui leur sert à vérifier que vous appartenez bien au pays que vous déclarez, et que vous êtes donc concerné par le « tax treaty » franco-américain), sans plus avoir à faire toutes les anciennes démarches.
+Par contre, tant que vous n’avez pas complété la rubrique dans votre compte KDP ou Create Space, vous ne pouvez normalement pas être payé (je dois le vérifier, mais ça m’étonnerait que ça ait changé). Je vous conseille donc de vous débarrasser de cette étape au plus vite, ça ne prend que quelques minutes.
+Pour des infos actualisées concernant la publication indépendante, je vous conseille par ailleurs de plutôt suivre notre récente plate-forme d’auto-formation pour les auteurs : http://www.tutobar.com.
+En effet, notre blog ne sera plus mis à jour dans ce domaine, notre nouveau service remplaçant de façon beaucoup plus complète et interactive nos articles passés.
+C’est d’ailleurs sur TutoBar que je vais prochainement ajouter un nouveau tuto concernant cette question de l’ITIN actualisé selon les procédures désormais en vigueur.
+Mais en résumé, soyez rassuré, ça va être beaucoup plus simple que ce que vous pouviez craindre… 🙂
+Amicalement,
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+avocat tunisie	sur 4 juillet 2016 à 09:25	
+Ca fait longtemps que je visite votre site ! bravo pour vos articles
+avocat tunisie(Citer) (Répondre)
+Réponse	
+GABORIT	sur 9 septembre 2016 à 17:40	
+Bonjour,
+J’ai écrit un roman policier que je cherche à auto-éditer par createspace et amazon. Votre article sur les taxes américaines est très intéressant et m’éclaire beaucoup. par contre, j’habite très loin d’un consulat. Je veux bien la liste des tribunaux compétents pour obtenir le numéro ITIN, je ne l’ai trouvé nulle part sur internet 🙁
+Merci pour votre aide
+Cordialement,
+Delphine Gaborit
+GABORIT(Citer) (Répondre)
+Réponse	
+mialn	sur 9 septembre 2016 à 18:32	
+Bonjour Delphine
+Depuis la publication de cet article, il y a quatre ans, les choses ont beaucoup changé du côté des procédures imposées par le service des impôts américains (il faudrait que je prenne le temps de mettre tout ça à jour ici, d’ailleurs…)
+Aujourd’hui, il suffit de saisir son identifiant impôt français lorsque vous complétez votre profil administratif d’auteur KDP ou Create Space pour que les conditions de non-retenue à la source s’appliquent.
+Pour cela, suivez les étapes de « l’interview » qu’ils proposent afin de mettre votre compte à jour, vous allez voir que l’ITIN n’est plus demandé pour les non-résidents américains et que le formulaire W8 se valide en direct, électroniquement.
+N’hésitez à pas revenir vers nous si vous ne parvenez pas à valider tout ça.
+À bientôt sur notre blog ! 🙂
+mialn(Citer) (Répondre)
+Réponse	
+Peschard	sur 28 octobre 2016 à 11:23	
+severine,
+Bonjour, j’ai eu le même problème, j’ai rempli tout le formulaire W8 qui a été à priori envoyé. Ai-je autre chose à faire, sachant que je ne souhaite pas posséder de nO ITIN.
+Bien cordialement.
+Peschard(Citer) (Répondre)
+Réponse	
+mialn	sur 29 novembre 2016 à 16:40	
+Bonjour,
+Non, vous n’avez rien de plus à faire, si votre compte fiscal est déclaré à jour dans votre espace auteur KDP ou Create Space.
+Amicalement,
+LN
+mialn(Citer) (Répondre)
+Réponse	
+RACHEL	sur 30 mars 2017 à 18:14	
+Bonjour, merci pour cet article mais en effet tout a changé depuis ces dernières années… je viens de compléter le formulaire et cela a pris quelques minutes. Par contre je n’ai vu aucune case demandant un Numéro de taxe.. j’ai mis individual et mon adresse et c’est tout. Est -ce normal ? J’ai une situation un peu particulière. Je suis française mais mon dernier emploi et lieu de résidence fut la suisse, je viens de déménager en UK et j’attends pour mon numéro de taxe fiscal.. alors en fait pour le moment je ne paie de taxe nulle part car je ne travaille pas. Je ne sais donc pas quoi faire mais comme create space ne me demande rien.. je suis juste soucieuse du fait qu’ils retiennent 30% de tax sur chaque livre et qu’au final je ne les récupère pas ?! Peux tu m’aider stp. Merci beaucoup.
+RACHEL(Citer) (Répondre)
+Réponse	
+mialn	sur 31 mars 2017 à 14:49	
+Bonjour Rachel,
+CS (et Amazon, de façon plus générale) a considérablement simplifié les démarches, au fil des années, et si tu n’as aucune mention dans ton compte qui indique une information manquante ou l’existence d’une retenue (tu ne pourrais pas manquer ce type de message, dans la partie « compte » de ton dashboard), tu es tranquille pour le moment.
+De plus, n’oublie pas que les retenues en question n’existent que pour les ventes éventuelles effectuées via les canaux d’impression .com et pas les .fr ou .co.uk, qui sont ceux par lesquels passeront une majorité de tes lecteurs français.
+Donc, sois tranquille à ce stade, tout va bien ! 🙂
+Hélène
+mialn(Citer) (Répondre)
+Réponse	
+Trackbacks/Pingbacks
+Modification de la partie 6 du dossier auto-publication | M.I.A - Le Blog - [...] et La Trappe, afin de récupérer un print-écran au passage, et j’ai donc mis à jour la partie 6…
+L’auto-publication : partie 7 (statut juridique et fiscalité) | M.I.A - Le Blog - [...] 13 sept, 2012 par mialn (Partie 7 du dossier consacré à l’auto-publication, faisant suite à « L’auto-publication : partie 6…
+Laissez une réponse à mialn Annuler la réponse
+Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont indiqués avec *
+Commentaire
+Nom *
+E-mail *
+Site web
+Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.
+Ne pas s’abonner Tous Seulement les réponses à mes commentaires Notifiez-moi des commentaires à venir via email. Vous pouvez aussi vous abonner sans commenter.
+Soumettre le commentaire
+© Copyright 2012-2021 M.I.A. Tous droits réservés.
+Vous aimez nos livres ? Envie de bonus, de cadeaux... ?
+Rejoignez notre cercle d'abonnés pour être informé(e) de nos futures parutions, suivre notre actualité et en découvrir les coulisses.
+Vous recevrez en moyenne une newsletter par semaine, ainsi qu'une notification chaque fois qu'un nouvel article sera publié sur notre blog (et votre adresse ne sera, bien sûr, jamais communiquée à des tiers).
+Afin de vous remercier, nous vous offrons une copie numérique de Rémoras, La Faille - Volume 1, ou Les Affligés - Volume 1, lors de la validation de votre inscription, sur simple demande par email.

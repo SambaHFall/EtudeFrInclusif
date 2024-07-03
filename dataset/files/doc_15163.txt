@@ -1,0 +1,304 @@
+Le régulateur russe a réussi à faire plier Reddit, qui a supprimé une page donnant des informations sur la culture de drogues. Elle n'est plus accessible depuis la Russie, pour éviter que l'ensemble de Reddit n'y soit bloqué.
+Finalement Reddit a lu ses e-mails. En début de semaine, nous rapportions que le régulateur russe des télécommunications, le Roskomnadzor, s'était tourné vers les réseaux sociaux pour demander que les internautes prient Reddit de bloquer une page contenant des informations sur la culture de narcotiques, faute d'obtenir lui-même une réponse du site américain. Sans communiquer de délai le Roskomnadzor avait prévenu qu'à défaut de réaction, il serait dans l'obligation de faire bloquer l'ensemble du site Reddit, faute de pouvoir filtrer l'accès page par page, en raison de l'utilisation par Reddit du protocole HTTPS qui ne permet pas aux outils de filtrage de savoir quelles pages sont consultées par les internautes.
+La menace avait été partiellement mise à exécution, chez une partie des fournisseurs d'accès à internet russes qui ont bloqué tout Reddit via une redirection par DNS, pour éviter que les internautes ne puissent consulter la seule page posant problème au régulateur.
+Mais le blocage a été levé. Comme Github avant lui, Reddit a constaté qu'il devenait inaccessible pour ses lecteurs russes, et a donc accepté de réagir. "Reddit est une entreprises américaine qui édite un site web avec des millions d'utilisateurs, de posts et de commentaires. Nous recevoir régulièrement des demandes des gouvernements à travers le monde pour supprimer du contenu de Reddit, et examinons avec attention ces requêtes au regard des lois locales applicables", explique le site à TechCrunch. Comme c'est désormais la norme pour tous les gros sites américains qui mettent en place un filtrage géographique, Reddit a bloqué l'accès au contenu, mais uniquement pour les internautes cherchant à y accéder depuis le pays qui fait la demande de retrait.
+"MERCI"
+"Nous voulons nous assurer que nos services sont disponibles pour tous les utilisateurs partout, mais si nous recevons une demande valide d'une entité autorisée, nous nous réservons le droit de restreindre le contenu dans ce pays en particulier", confirme ainsi le site américain. C'est la reconnaissance de la souveraineté des Etats, qui peuvent faire appliquer leur droit national y compris à l'égard des sites étrangers. En tout cas, au moins lorsque leur population d'internautes est suffisamment nombreuse pour qu'une menace de blocage intégral soit prise au sérieux.
+De son côté, le Roskomnadzor a publié un nouveau message sur sa page Vkontakte. "Nous remercions ceux qui par leur activité sur le Web ont incité les administrateurs de Reddit à écouter le Roskomnadzor", écrit-il, en confirmant avoir reçu une réponse de Reddit, et en avoir vérifié la bonne application. "Nous espérons que [reddit] continuera à écouter les demandes des autorités de régulation de la Russie dans l'intérêt général du public russe", conclut-il.
+Alors que son premier message s'était achevé par une image montrant le logo de Reddit dans une affiche "WANTED", le Roskomnadzor a cette fois-ci illustré son billet par une image voulant exprimer la coopération entre le régulateur et les internautes :
+Signaler une erreur dans le texte
+Liberté d'expression
+Russie
+35 commentaires
+Partager sur les réseaux sociaux
+Tweeter Partager Partager Partager redditer
+Vous aimerez peut-être
+Lire
+5
+L'Europe s'accorde pour supprimer les contenus terroristes sur Internet en une heure
+censure
+Commission européenne
+Filtrage
+Liberté d'expression
+Terrorisme
+Union européenne
+11 décembre 2020
+Lire
+2
+La réforme voulue par Trump contre les géants du web tombe à l'eau
+Donald Trump
+Etats-Unis
+Liberté d'expression
+Twitter
+11 janvier 2021
+Lire
+Des députés demandent d'envisager la levée de l'anonymat sur les réseaux sociaux
+France
+Liberté d'expression
+18 janvier 2021
+Lire
+2
+Supprimer des contenus terroristes en 1h ? Des ONG dénoncent une fausse bonne idée
+censure
+Filtrage
+Liberté d'expression
+Parlement européen
+Terrorisme
+Union européenne
+26 mars 2021
+Société : les dernières actualités
+Lire
+Pourquoi ai-je reçu des mails de Valérie Pécresse et d’Éric Ciotti sans jamais l’avoir demandé ?
+03 décembre 2021
+Lire
+« Analyses déformées et instrumentalisées à des fins politiques » : Wish n'est pas content d'avoir été effacé du web français
+02 décembre 2021
+Lire
+« Un traumatisme à la vue de tous » : un site porno français diffuse des vidéos de viols malgré des plaintes
+02 décembre 2021
+Lire
+Des antivax du groupe Facebook V_V qui harcelait des médecins et élus français ont été bannis
+02 décembre 2021
+Lire
+YouTube restreint la vidéo de candidature d’Éric Zemmour pour « contenus choquants ou violents »
+02 décembre 2021
+Lire
+37 % de la population mondiale n'a jamais utilisé Internet
+02 décembre 2021
+Commentaires
+La Russie fait céder Reddit qui filtre une page pour éviter son blocage
+35 Commentaires
+Inline Feedbacks
+View all comments
+toff21
+14 août 2015 10 h 53 min
+censure !
+0
+BigBisous
+14 août 2015 11 h 34 min
+« Nous recevoir régulièrement bla bla » Oula, attention Guillaume, SOS racisme va arriver à ta porte si tu te mets à parler petit-nègre
+0
+wesson
+14 août 2015 12 h 11 min
+Je trouve quand même cette histoire intéressante sur le fond comme sur la forme.
+Sur le fond, il est parfaitement exact que la Russie est un pays qui a été et est encore ravagé par les problèmes de drogues. l’Afghanistan voisin tel qu’il est déstabilisé est un fournisseur énorme, et la réalité géopolitique est que les USA qui n’ont jamais réellement voulu collaborer à l’éradication de ce fléau ont depuis l’Ukraine cessé toute forme de partenariat avec les Russes dans ce domaine. Dans ce contexte, les Russes sont très pointilleux sur la promotion des drogues par Internet – bien plus que sur le sujet du respect des droits d’auteurs – et l’autorité de régulation veille à ne rien laisser passer.
+Sur la forme, il s’agit bien d’une censure, mais également d’un cas d’école de transparence à l’appliquer. On peut toujours râler sur la finalité, mais compte tenu des observations précédentes, absolument pas sur la pertinence de la démarche. Je dirai même plus: si l’on compare un peu sérieusement la censure Russe avec par exemple la censure Française (en fait occidentale), on s’aperçoit vite que on est assez mal lotis par rapport aux Russes.
+Prenons un exemple: les médias.
+Vous allez sur RT en Français par exemple, allez sur un article, et miracle, vous pouvez réagir sans même avoir besoin de fournir vos coordonnées ou vous inscrire auparavant. Et la modération s’effectue à posteriori.
+A ma connaissance, il n’existe aucun mass media Français qui laisse une telle liberté dans les réactions. Pour tous il faut d’abord s’inscrire ou se connecter par facebook, et pour la plupart, en particulier les médias d’état, toute réaction est modérée à priori – et pour en avoir fait plusieurs fois l’expérience, on ne peut en pratique pas dire grand chose.
+Voilà une comparaison qui me parait tout à fait pertinente: les commentateurs dans les médias Russes sont bien moins lourdement censurés que dans les médias Français.
+0
+pourriel
+14 août 2015 17 h 28 min
+Réponse à wesson
+Je n’ai pas vu la page en question donc j’ignore de quelle plante il s’agit mais on ne peut quand même pas comparer le phénomène Afghan avec une page incitant à faire pousser de l’herbe sur son balcon ou dans son jardin. Si l’Afghanistan est devenu un si gros producteur de drogue c’est parce qu’il a été soutenu par les talibans qui en tiraient profit. C’est une question avant tout politique et pas parce qu’ils ont trouvé un tutoriel sur internet concernant la culture du pavot.
+0
+wesson
+14 août 2015 18 h 51 min
+Réponse à pourriel
+« Si l’Afghanistan est devenu un si gros producteur de drogue c’est parce qu’il a été soutenu par les talibans qui en tiraient profit. »
+Ce n’est pas un jugement de valeur sur les Talibans, mais il est faux de dire qu’ils ont soutenu la production de drogue.
+Renseignez-vous un petit peu sérieusement voulez-vous, et vous trouverez alors que la production d’Opium en Afghanistan qui avait baissé sous les Talibans a littéralement explosée après qu’ils furent chassés du pouvoir par les Américains, alors que les personnes qui furent mise en place – par exemple Ahmid Karzai – se trouvèrent au centre du trafic de drogue du pays.
+Vous pourrez également écouter par exemple ce que raconte Malalai Joya, députée Afghane élue en 2005 puis virée 2 ans après justement parce qu’elle ouvrait sa gueule sur la réalité du pays et des trafic qu’il couvrait.
+Mais ce n’était même pas la question. De n’importe qui que ce soit la faute, les Russes ont un problème de drogue largement du fait de la situation Afghane. ça leur donne au moins une très bonne raison d’être sévère sur le sujet, même si il ne s’agit que de faire pousser 1 plan de beuh dans un pot dans sa chambre.
+Et si vous n’êtes pas convaincu, allez rechercher avec google des images avec le mot clé « krokodil », si toutefois vous avez le cœur solidement accroché. C’est ça la drogue en Russie, et encore, c’est même pas celle qui pose le plus de problèmes.
+0
+pourriel
+17 août 2015 0 h 00 min
+Réponse à wesson
+Que le gouvernement de Karzai n’ait pas su totalement endiguer le problème voire qu’il y ait pris part ne dédouane en rien les talibans. C’est dans le sud de l’Afghanistan, là où les talibans sont encore le plus actif qu’on trouve le plus grand nombre de cultures d’opium.
+Et que le problème vienne des talibans ou du gouvernement de Karzai ne change rien au fait que c’est une question avant tout d’ordre politique. Les cultivateurs sont dans un système dont ils ne sont que des maillons. Ça n’a aucun rapport avec une page sur internet décrivant des méthodes de culture.
+Que les Russes n’apprécient pas la question de la drogue (disons que leur gouvernement ne l’apprécie pas) est un fait mais utiliser cet argument pour justifier une censure qui n’apporte aucun bénéfice à la cause défendu ce n’est pas acceptable. La fin ne justifie pas les moyens et il me semble étonnant de devoir défendre ce point de vue sur numerama ou la chose semblerait parfaitement entendue s’il s’agissait de la France mais où on trouve des excuses pour un autre pays.
+0
+yhzarcali
+14 août 2015 20 h 29 min
+Réponse à wesson
+Il n’y a pas rapport avec la drogue, la censure a été mise en place dans le but de bloquer des contenus politiques, bloquer les sites en rapport avec la pédophilie ou la drogue n’est qu’un écran de fumé. Tu peux héberger ton site de vente de drogue sur le territoire il n’y aura rien d’autre qu’un blocage, la même chose pour un les échanges de films et autres et les images de petits enfants.
+Par contre un site contre la politique du gouvernement se fera non seulement bloquer mais un raid sera organisé dans la même journée et les auteurs emprisonnés.
+Il faut savoir que contrairement aux pays comme la France qui depuis des décennies mettent en place doucement mais sûrement la tyrannie, en Russie celle-ci s’est instaurée en seulement 3 ans. Evidemment il faut un temps d’adaptation alors les anciennes manières sont encore là.
+C’est pour ça qu’il existe encore des trucs qui semblent être toujours libre comme RT Ruptly mais ça va disparaitre très rapidemment.
+0
+wesson
+14 août 2015 23 h 14 min
+Réponse à yhzarcali
+Mais quel tissus d’âneries, d’argument d’autorité. La seule chose qui ressort de votre propos, c’est que vous ne lisez pas le Russe, et ne connaissez strictement rien sur le sujet.
+Tenter de vous expliquer que à chacune de vos phrases vous avez tort serait vainc: vous êtes convaincus d’être libre dans un « camp du bien ». Continuez à y croire …
+Allez, juste une image, une fin de manif, pour comparer:
+0
+wesson
+14 août 2015 23 h 45 min
+Réponse à wesson
+Pour donner quand même quelques chiffres, entre novembre 2012 et Mars 2015, Roskomnadzor a bloqué 52.000 pages. 37.000 sur la drogue7.700 de pédopornographie5.500 sur les moyens de se suicider
+tout le reste (1.800) se divise entre divers marchés noirs ou illicites, et la fameuse catégorie des organisations extrémistes dans lesquelles on trouve les politiques. La très grande majorité concerne les sites racistes/néo-nazis, et/ou les appels aux meurtres.
+Par exemple, Lenta.ru a eu une interview d’un terroriste tchétchène (un mollah salafiste) censuré. Ce mec n’appelait à rien de moins qu’à « tuer les infidèles » par tous les moyens possibles pour instaurer un califat sur le modèle de l’EI dans tout le Caucase. Faut-il rappeler là encore que la Russie est le pays non musulman qui de très loin subit le plus d’attentats islamistes…
+Ou aussi Navalny appelant à une manifestation qui avait été interdite a eu cette page de son blog censuré pendant 3 jours. Car c’est aussi l’une des caractéristiques de la censure de l’internet Russe: ne sont censurés que les contenus incriminés, et le temps que l’infraction cesse.
+En France, vous vous faites saisir votre serveur même si l’infraction a cessée. Passons.
+Ce que l’on peut tirer de ces statistiques, c’est que le boulot de censure de l’internet Russe est très très majoritairement exercé sur des domaines que l’on peut considérer comme tout à fait légitimes.
+0
+morison2
+15 août 2015 9 h 47 min
+Réponse à wesson
+Mais enfin wesson, que fais-tu !! ???
+Tu aurais pu nous épargner cette terrible image de fin de manifestation.On y voit clairement dans les yeux des jeunes moscovites la terreur et l’effroi, signes du passage à tabac imminent, la crainte de la disparition au fin fond d’un goulag inhumain.
+Deux choses ne sauraient tromper le lecteur – debunker :
+ce jeune qui fait un signe d’adieu, avec un sourire crispé pour rassurer probablement sa famille
+cette jeune terroriste, résignée et prévoyante, qui a anticipé de s’habiller en tenue orange
+0
+yhzarcali
+15 août 2015 15 h 17 min
+Réponse à wesson
+Quel dommage, je lis et parle russe et en plus j’habite en Russie la moitié de l’année et en Ukraine l’autre moitié.
+C’est toi qui connait absolument rien et qui fait cette propagande comme ceux qui croyaient à Staline. C’est pas parce qu’il y a des wannabe tyrannies comme l’Union Européenne avec les USA qu’il faut raconter que l’Iran ou la Russie sont des pays de liberté.
+0
+wesson
+16 août 2015 0 h 43 min
+Réponse à yhzarcali
+« et en plus j’habite en Russie la moitié de l’année et en Ukraine l’autre moitié. »
+En en France une 3ème moitié de l’année, car de toute évidence et à la lecture de vos messages sur ce forum vous passez le plus clair de votre temps les fesses vissées sur votre fauteuil à regarder BFMTV.
+Ce qui accessoirement nous donne la source de votre expérience « personnelle ».
+J’ai donné des statistiques qui sont vérifiables. Si vous voulez les contester, il faut venir avec des arguments vérifiables.
+Je vais même vous y aider. Voici la liste mise à jour des sites censurés en Russie (source: parti pirate Russe qui est donc assez libre pour la publier). C’est en Russe mais comme vous le lisez parfaitement vous n’aurez aucun problème, n’est-ce pas …
+Revenez-donc nous voir quand vous aurez fait les stats de cette liste pour en extraire le pourcentage de censure politique. Par avance, je vous souhaite bon courage pour les milliers de sites pédopornographiques, de phising ou de fraudes diverses que vous allez devoir vous taper.
+Allez, je suis vraiment trop gentil: dans la catégorie des blocages pour extrémisme/terrorisme, il y en as environ 6% du total, et dedans c’est un inventaire à la Prévert, on y trouves de tout, y compris tous les numéros de Dabiq, le « magazine » glamour de DAESH.
+Pas assez extrémiste à votre goût ?
+0
+yhzarcali
+16 août 2015 1 h 50 min
+Réponse à wesson
+T’as rien compris en fait.
+Premièrement aucune censure n’est acceptable.
+Ensuite je m’en fou complètement de ton pourcentage, il peut y avoir 99% de sites dit « illegaux » bloqués ça ne change rien au fait que c’est fait uniquement dans le but d’être utiliser politiquement.
+krasparov.rugrani.ruej.ruLj.rossia.orgukraina.ru
+Et ça ce ne sont que les plus connus, parce qu’il y a des dizaines de pages bloquées par semaine.
+D’ailleurs, le gouvernement a essayé de faire bloquer les sites qui publient les listes.
+Quant à ton héro, il avait dit qu’il n’y aurait aucune censure de l’Internet pendant son mandat, si ça c’est un flagrant mensonge.
+Ensuite depuis quand il faut être en France pour regarder BFMTV ?
+0
+wesson
+16 août 2015 11 h 59 min
+Réponse à yhzarcali
+Mon propos n’as pas été de nier la censure, et je n’ai porté aucun jugement de valeur dessus.
+Toutefois, je voulais répondre à votre argument d’autorité « la censure a été mise en place dans le but de bloquer des contenus politiques, bloquer les sites en rapport avec la pédophilie ou la drogue n’est qu’un écran de fumé. »
+La liste que j’ai fourni prouve sans aucun doute que les censures que l’on peut cataloguer « politique » sont insignifiantes en nombre comparé aux autres cas de censures assez peu discutables.
+Ce qui en vient à mon point: la censure de l’internet Russe n’est pas le prétexte à bloquer les sites politiques que vous prétendez, mais une censure à spectre large, fait pour interdire ce qui n’est pas autorisé (ça parait bête de le dire comme ça, mais c’est ce que c’est), qui englobe certes le volet politique, mais qui n’en est pas la principale cible. ça existe partout dans le monde.
+A la différence notable que contrairement à la France par exemple, cette censure s’effectue dans une remarquable transparence. Vous prétendez que ces listes vont être interdites ? En attendant elles ne le sont pas. Si vous avez quelque chose d’aussi exhaustif et de toute évidence fourni par l’administration pour la France ? Je suis preneur.
+Mais dans le probable cas contraire, on en vient à mon second point, qui était de constater que les Russes en matière de censure n’ont absolument rien à nous envier.
+Le reste de votre bavardage n’étant même pas digne que l’on s’y attarde pour y répondre.
+0
+yhzarcali
+16 août 2015 19 h 36 min
+Réponse à wesson
+La censure en ligne a été mise en place en réponse aux mouvements d’oppositions au règime de ces dernières années tout le reste n’est que prétexte.
+Il n’y a aucune transparence, ce sont les FAIs qui décident d’afficher un message et tous ne le font pas. Les listes sont faites par des organisations qui peuvent rajouter ceux qu’elles veulent tout comme en France. Ces listes sont fournies aux FAIs qui sont obligés de les récuperer une fois toutes les 24 heures avec interdiction de les redistribuer.
+La seule raison pour laquelle il y a quelques sites qui peuvent encore redistribuer ces listes est parce qu’il y a violation de la constitution et que le Partie Pirate et Antizapret ont des juristes. Quand le gouvernement aura réussi à les bloquer, et c’est le but, il n’y aura plus aucune limite.
+Le reste de votre bavardage n’étant même pas digne que l’on s’y attarde pour y répondre.
+Trop classique.
+0
+wesson
+16 août 2015 22 h 38 min
+Réponse à yhzarcali
+« La censure en ligne a été mise en place en réponse aux mouvements d’oppositions au règime de ces dernières années tout le reste n’est que prétexte. »
+Ridicule, et ne correspond même pas dans les dates. Roskomnadzor existe depuis 2008, et exerce une censure de l’internet depuis ce temps là. En 2012 ils ont mis en place la liste pour les FAI que effectivement ils doivent charger 2 fois par jour (et pas une) à 9H00 et 21H00.
+La censure pour appartenance à une entité extrémiste (ce qui est utilisé pour la censure politique) n’as été mise en place que depuis 2014, elle visait tout particulièrement les mouvements néo-nazis Ukrainiens, tels que l’UNSA-UNO ou le secteur droit.
+Bref, la censure politique n’est arrivée que 6 ans après le début de la censure, et 2 ans après le début de la liste pour les FAI. Si la censure avait été mis en place sur ce sujet, c’est dès le départ qu’elle aurait été intégrée au dispositif, et pas 6 ans après.
+Sur l’accès à la liste officielle, elle est semi-publique et n’importe qui peut y faire une requête dessus, à l’adresse suivante:
+http://eais.rkn.gov.ru
+la liste complète s’obtient moyennant l’achat d’une clé d’accès à un prix très modeste (4000 roubles si je me rappelle bien), et effectivement la diffusion n’est pas autorisée (là encore, on peut comprendre quelques raisons de ne pas le faire, nulle part dans le monde les listes de censures de l’état ne sont publiquement diffusable). Mais en gros n’importe qui peut l’avoir, dont le parti pirate qui la diffuse dans la plus parfaite illégalité, mais se sent suffisamment libre en Russie pour passer outre et le faire.
+?Ce qu’il apparaît de votre dernière réponse, c’est que vous avez traîné ce week-end pour vous renseigner un peu sur le sujet (c’est au moins un point positif), et ressortez tout ce que l’on peut en savoir lorsque on n’est pas allé plus loin que la wikipédia et quelques articles en Français ou en Anglais sur le sujet.
+Vous pouvez prêter au gouvernement Russe toutes les mauvaises intentions que vous citez, et peut-être que dans le futur vous aurez raison.
+Seulement, pour l’instant présent, rien de ce que vous avez écrit sur le sujet n’est vrai. Vous n’avez fourni absolument aucun lien ou élément qui permet d’étayer vos propos, me prêtez des choses que je n’ai ni dites ni écrites (comme votre laïus sur l’Iran dont je me demande bien ce qu’il vient faire dans cette conversation). Fausses évidences auxquelles vous vous êtes permis d’ajouter vos propres affabulations d’une totale indigence, telle que « Par contre un site contre la politique du gouvernement se fera non seulement bloquer mais un raid sera organisé dans la même journée et les auteurs emprisonnés. », et auxquelles vous avez l’outrecuidance d’exiger que on vous y réponde.
+Continuez à mélanger tout et déféquer sur Poutine, ça me va très bien. Mais si vous avez décidé de déléguer votre connaissance du monde à ce que BFMTV vous en raconte, moi je n’en suis pas encore là.
+0
+Elric
+16 août 2015 3 h 16 min
+Réponse à yhzarcali
+Il vit en Russie la moitié de l’année, en Ukraine l’autre mais il est raide défoncé douze mois sur douze.Le coup de la dictature qui s’est installée en trois ans on y avait pas encore eu droit. Du coup entre 1991 et 2012 y’a eu quoi ? J’imagine que jusqu’en 99 c’était des licornes et des arc-en-ciels (c’est dingue comme tout le monde adorait Eltsine à l’international) mais entre 99 et 2012 ? Le Grand Satan, dictateur sanguinaire, Vlad « l’empaleur » Poutine était aux manettes.
+Je me moque je me moque mais je suis d’accord. Wesson est quand même très énervant : il a des arguments et il les expose calmement. C’est un manque de respect flagrant pour ses interlocuteurs.
+0
+yhzarcali
+16 août 2015 4 h 37 min
+Réponse à Elric
+Il n’a aucun argument, il essaie de défendre la politique de censure Russe par rapport à la française alors qu’aucune des deux n’est acceptable. Si ses arguments sont des photos d’arrestations qui n’ont rien avoir alors ça vole pas haut.
+Après le chaos, dans les années 2000 raignait un grand sentiment de liberté en Russie, le gouvernement n’avait pas d’intêret à y faire obstacle car il n’avait pas besoin du peuple pour arriver à ses fins.
+Toutes les lois pour la censure et les lois liberticides sont récentes.
+Il vit en Russie la moitié de l’année, en Ukraine l’autre mais il est raide défoncé douze mois sur douze.
+?
+0
+morison2
+16 août 2015 8 h 18 min
+Réponse à yhzarcali
+« Premièrement aucune censure n’est acceptable. »
+Sauf si décidée par un juge. On ne va pas refaire l’affaire d’Islamic news et autres sites, mais c’est l’arbitraire de sanctions administratives opaques qui est inacceptable.
+0
+yhzarcali
+16 août 2015 10 h 30 min
+Réponse à morison2
+Juge ou pas, toute censure est une injustice et doit être proscrite.
+Il est très peu probable que dans une démocratie, un peuple instruit donne l’autorisation à un tiers de lui censurer et bloquer l’accès à quel que soit le type de contenu.
+0
+morison2
+16 août 2015 15 h 02 min
+Réponse à yhzarcali
+T’as qu’à voir en France…
+0
+blo
+14 août 2015 13 h 58 min
+Mais bien sur…, bah va vivre en Russie. Ce qu’il ne faut pas lire…
+0
+wesson
+14 août 2015 14 h 55 min
+Réponse à blo
+Nous sommes positivement ravis de votre réponse circonstanciée et longuement argumentée, et nous vous remercions de l’avoir formulée.
+N’hésitez pas à l’avenir à nous faire encore part de votre expérience passionnante.
+0
+wormlore
+14 août 2015 20 h 27 min
+La menace avait été partiellement mise à exécution, chez une partie des fournisseurs d’accès à internet russes qui ont bloqué tout Reddit via une redirection par DNS, pour éviter que les internautes ne puissent consulter la seule page posant problème au régulateur.(…)Nous remercions ceux qui par leur activité sur le Web ont incité les administrateurs de Reddit à écouter le Roskomnadzor(…)le Roskomnadzor a cette fois-ci illustré son billet par une image voulant exprimer la coopération entre le régulateur et les internautes
+Dans le cas present, il semble que la censure finalement concedee ne soit pas le resultat d’une « cooperation entre le regulateur et les internautes », mais d’une cooperation entre le regulateur et les fournisseurs d’acces.
+Que la Russie tente de faire appliquer la loi nationale a ses citoyents peu importe les moyens, ca se discute.Qu’ils pretendent hypocritement que cette censure est due a la cooperation des internautes n’est pas acceptable. C’est une simple propagande consistant a faire croire que les decisions prises en haut-lieu ont un soutien (voire parfois une origine) chez les citoyens eux-memes.
+0
+yenda
+15 août 2015 13 h 24 min
+Si seulement on avait les même balls en France. Blocage de Facebook, Google, Youtube and Co avec message « Ce site doit XXX millions d’euros d’impôt à l’Etat Français pour l’exploitation du caractère moutonier de ses citoyens, le site est désormais bloqué en l’attente du versement ».
+0
+deneb58
+15 août 2015 19 h 33 min
+wesson : propagandiste poutinesque très actif. Quel talent pour l’agitprop!
+0
+morison2
+15 août 2015 20 h 39 min
+Réponse à deneb58
+Autres arguments mister deux-nebs ?
+0
+hellcat1944
+16 août 2015 19 h 37 min
+Réponse à morison2
+Le fait que ses arguments et ses « chiffres » proviennent d’un organisme et d’un média sous contrôle exclusif de l’état russe par exemple ???
+0
+morison2
+16 août 2015 21 h 14 min
+Réponse à hellcat1944
+Non.Des arguments autres que traiter untel ou untel de « propagandiste poutinesque », ce qui doit représenter une insulte dans son petit intellect ?Et employer autre chose que des mots « fun » comme « agitprop »… ce qui ne prouve en aucun cas un niveau d’intelligence permettant de juger les autres sur un tel sujet.
+Wesson a été très précis, très factuel, citant des chiffres et des sources sur un sujet qu’il a l’air de très bien connaître.Il mérite mieux que du trolling de bas étage à la sauce deneb, qui ne nous a jamais ébloui par ses connaissances.
+0
+deneb58
+16 août 2015 7 h 23 min
+Je ne vais jamais sur Reddit. Mais là, je boycotte sciemment. J’ai fait la même chose avec Yahoo depuis qu’il a fait dans son froc devant les Chinois. L’internet est bien trop vaste pour perdre du temps avec les collabos des dictateurs.
+0
+petitepute
+16 août 2015 19 h 17 min
+La Russie est un pays plus démocratique que la France de Valls/Caseneuve
+0
+hellcat1944
+16 août 2015 19 h 38 min
+Réponse à petitepute
+Et le Mordor est une terre de liberté où la nature y est luxuriante.
+0
+morison2
+16 août 2015 21 h 20 min
+Réponse à hellcat1944
+Tu as ramené des photos de ton voyage ?
+0
+deneb58
+17 août 2015 6 h 59 min
+Le propagandiste stalinien Wesson et son ecuyer mosquito alias morison alias … ont fait main basse sur numé. Consternant.

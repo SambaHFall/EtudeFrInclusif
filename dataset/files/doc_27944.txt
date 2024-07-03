@@ -1,0 +1,76 @@
+VDV II : Testeur de continuité RJ45/RJ12/Coax F avec une terminaison - intègre un générateur de tonalités sonores (sans housse)-
+5 1
+Feeder SAS - Distributeur Expert de solutions informatiques,
+5/ 5
+VDV II : Testeur de continuité RJ45/RJ12/Coax F avec une terminaison - intègre un générateur de tonalités sonores (sans housse)-
+
+Référence : 158000
+VDV II
+Interface RJ45/RJ12/Coaxial F - livré avec une terminaison amovible. Générateur de tonalité intégré. Livré avec pile, sans housse.
+Demander un devis
+Description
+Caractéristiques
+Pièces jointes
+Plus qu'un simple testeur de câblage
+Testeur VDV II Ideal Networks
+Câblage voix, données et vidéo
+Les nouveaux testeurs de câblage VDV II vérifient facilement l'intégrité des systèmes de câblages cuivre utilisés dans les installations voix (câblages téléphoniques), données (réseaux informatiques) ou vidéo (vidéosurveillance/sécurité) domestiques, commerciales ou industrielles.
+Basés sur des algorithmes avancés, les modèles VDV II offrent des fonctionnalités innovantes.
+Le moteur de schéma de câblage fil par fil met en évidence instantanément les défauts de câblage tandis que la réflectométrie (TDR) permet de localiser avec précision ces défauts et ainsi améliorer la productivité sur le terrain.
+Précision
+VDV II Pro exploite la réflectométrie (TDR) afin de mesurer la longueur du câble testé et localiser avec précision les défauts présents.
+Il s'agit d'injecter une impulsion électrique dans le câblage et de mesurer le délai des réflexions du signal provoquées par les changements d'impédance dûs aux défauts de câblage.
+Ainsi il est possible de connaître rapidement et précisément où se situent ces défauts.
+Cela permet d'optimiser les interventions sur les installations en réduisant de façon notable la durée des interruptions de service.
+Rapidité
+Les résultats fournis par VDV II sont détaillés et précis.
+Les informations quant aux défauts détectés (mauvais raccordement, court-circuit, circuit ouvert, mauvais pairage...) sont rapidement mises en évidence.
+Les différents connecteurs disponibles permettent une polyvalence évitant l'utilisation de testeurs multiples sur le terrain.
+Intelligence
+Les problèmes rencontrés sur le terrain ne sont pas toujours directement associés aux câblages.
+VDV II Pro peut aider à identifier les problèmes liés aux services activés en détectant la présence dune tension et en vérifiant sa polarité.
+Ainsi VDV II Pro est en mesure de déterminer rapidement quel service est activé sur le lien testé (RTC, RNIS, PoE...).
+Le dépannage des réseaux Ethernet actifs est facilité grâce à la détection automatique des débits et modes duplex compatibles.
+Afin d'éviter tout dommage, les testeurs VDV II se mettent en sécurité dans le cas où une tension trop élevée est appliquée sur une des interfaces.
+Téléchargement
+VDV-II-Brochure-Fr
+VDV-II-Brochure-Fr_fr
+Téléchargement (2.86M)
+Inscrivez vous & recevez les nouveautés produits et promotions
+OKok
+Distributeur Expert depuis 35 ans, des solutions informatiques de pointe aux revendeurs partenaires et intégrateurs.
+Sites du groupe
+Sites du groupe
+EIZO
+Clarten
+Nos services
+Nos services
+SAV
+Nos formations
+FAQ
+Transport et Livraison
+Actualités & Presse
+Devenir Revendeur
+Société
+Société
+A propos
+Recrutement
+Politique anti-corruption
+Parrainage : les abeilles
+Feeder Miroir
+Plan d'accès
+Contactez-nous
+Ce site utilise des cookies et vous donne le contrôle sur ceux que vous souhaitez activer. Plus d'informations Personnalisation
+J'accepte
+Configuration des cookies
+Personnalisation
+Non
+Oui
+Cookies tiers à des fins d'analyse.
+Afficher des recommandations personnalisées en fonction de votre navigation sur d'autres sites
+Afficher des campagnes personnalisées sur d'autres sites Web
+Fonctionnel (obligatoire)
+Non
+Oui
+Nécessaire pour naviguer sur ce site et utiliser ses fonctions.
+Vous identifier en tant qu'utilisateur et enregistrer vos préférences telles que la langue et la devise.

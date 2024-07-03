@@ -1,0 +1,313 @@
+Les iPhones, iPads et Mac pourraient être interdits de vente à cause d'une violation de brevets de Motorola
+MENU
+Actus
+Tests
+Guides
+Bons plans
+Tutos
+Smartphones
+Ordinateurs
+Auto • mobilité
+TV
+Maison connectée
+Audio
+Gaming
+Wearables
+MENU
+Réglages
+Clair
+Sombre
+Système
+Activer les notifications
+Les notifications sont bloquées par votre navigateur.En savoir plus sur les notifications web
+Les notifications ne sont pas supportées sur votre navigateur.En savoir plus sur les notifications web
+Impossible d'activer les notifications, veuillez recharger la page.
+Actualités
+Désactiver
+Importantes
+Toutes
+Aucune alerte
+Soyez alerté à chaque nouvelle actualité importante
+Soyez alerté à chaque nouvelle actualité
+Bons plans
+Soyez alerté à chaque nouveau bon plan
+En direct
+Soyez alerté à chaque nouvel article Live
+Actualités
+Telecom
+Bouygues
+Orange
+SFR
+Free Mobile
+Société
+Services
+Hardware
+Marques
+Toutes les marques
+Apple
+Google
+Honor
+Huawei
+OnePlus
+Samsung
+Sony
+Xiaomi
+Podcast
+Tutoriels
+Android
+Mises à jour Android
+Android 11
+Android 10
+Développement Android
+Android Auto
+Android TV
+Photo et vidéo
+Tous les OS
+ChromeOS
+iOS
+iPadOS
+macOS
+Windows
+Wear OS
+Télécharger
+Applications
+Jeux mobile
+Bons Plans
+Comparateurs
+Les meilleurs forfaits mobiles
+Les meilleurs forfaits 5G
+Les meilleures offres internet
+Les meilleures banques en ligne
+Les meilleurs VPN
+Guides d'achat
+Meilleurs smartphones
+Meilleurs écouteurs sans fils
+Meilleurs smartphones photo
+Meilleurs boîtiers multimédias
+Les comparatifs
+Tests
+Tests smartphones
+Tests casques et écouteurs
+Tests TV connectées
+Communautés
+Forum Frandroid
+Groupe d'entraide Facebook
+Discord Frandroid
+Numerama
+Humanoid
+À propos • Mentions légales • Contacts
+Accueil
+Marques
+Motorola
+Les iPhones, iPads et Mac pourraient être interdits de vente à cause d’une violation de brevets de Motorola
+Les iPhones, iPads et Mac pourraient être interdits de vente à cause d’une violation de brevets de Motorola
+20 septembre 201220/09/2012 • 15:08
+Partager
+L’ITC vient d’ouvrir une enquête contre Apple, car l’entreprise pourrait avoir violé sept brevets de Motorola.
+L’ITC (pour International Trade Commission) a validé hier l’ouverture d’une enquête contre Apple, pour la violation de plusieurs brevets appartenant à Motorola Mobility. Comme il est courant dans ce genre de situation, l’entreprise américaine demande une interdiction d’importation de la quasi-totalité des terminaux sous iOS : l’iPod Touch, l’iPhone 3GS, l’iPhone 4, l’iPhone 4S et les trois générations d’iPad, mais aussi l’ensemble de la gamme Mac : iMac, Macbook Pro, Macbook Air, Mac Mini et Mac Pro. Vous noterez que l’iPhone 5 n’en fait par partie, car la plainte de Motorola n’a été déposée que mi-août.
+Concernant les Macs, il s’agit d’un brevet déposé en 2001 et publié en 2006, relatif à « un système pour assurer la continuité entre les clients de messagerie et leurs méthodes » : ce serait iMessage qui serait ainsi visé, de par son aspect multi-plateformes. En effet, il est possible de commencer une conversation sur Mountain Lion (la dernière version d’OS X) et de la continuer sur un terminal iOS.
+En parallèle de ce brevet, six autres sont évoqués :
+Geographic-temporal significant messaging
+Markup language for interactive services and methods thereof
+Apparatus, method and system for multimedia control and communication
+Apparatus and method for handling dispatching messages for various applications of a communication device
+Method and apparatus for obtaining and managing wirelessly communicated content
+System and method for managing content between devices in various domains
+Alors que Motorola utilisait souvent des normes « standards » dans ses précédentes poursuites, les sept brevets évoqués ici ne sont pas liées à des normes de l’industrie. Cela sera-t-il suffisant pour procéder au bannissement de la quasi-totalité des terminaux d’Apple ?
+Selon Motorola interdire les Macs et terminaux iOS impactera très peu les consommateurs américains. Selon lui, le marché est très compétitif et de nombreuses offres similaires existent.
+Source : iDownloadBlog
+Pour nous suivre, nous vous invitons à télécharger notre application Android et iOS. Vous pourrez y lire nos articles, dossiers, et regarder nos dernières vidéos YouTube.
+Signaler une erreur dans le texte
+Partager
+La suite en vidéo
+iPad Air 4 2020 & Apple Watch 6 + SE Révélés ! Analyse complète
+Actualités Générales Apple Brevet itc
+Edouard Marquez
+Développeur Android et Flutter
+Développeur Android et Flutter freelance, mais aussi rédacteur occasionnel sur FrAndroid, qui ne voit que par Android. Il en est persuadé que le monde sera bientôt contrôlé par des bonhommes verts !
+Voir tous ses articles
+Votre newsletter personnalisée
+C'est enregistré ! Surveillez votre boîte aux lettres, vous allez entendre parler de nous !
+Recevez le meilleur de l'actu
+Tous les jours Hebdo Spéciale bons plans
+J’accepte que mon e-mail soit utilisé par Humanoid pour m’envoyer la newsletter Frandroid à la temporalité choisie
+Les notifications web
+Les notifications push vous permettent de recevoir toute l'actualité de Frandroid en temps réel dans votre navigateur ou sur votre téléphone Android.
+Activer les notifications
+Choisir les notifications
+En savoir plus sur les notifications web
+Raphael Hery
+Ca m'interesse mais j'ai la flemme de lire
+Kyogiro
+Des plaintes, en Europe, de Motorola existaient déjà avant le rachat de Google.
+Seb
+la boite à gifles, oui ! :D
+Renald
+" il s’agit d’un brevet déposé en 2001 et publié en 2006" L'enquête est menée en 2012, pourquoi tu crois que Motorola a attendu autant de temps ? Ils auraient pas lancé ces démarches si Apple n'avait pas "déclaré la guerre" contre Android. Maintenant qu'Apple a commencé, pas mal de constructeurs agissent, c'est le juste retour des choses. D'accord c'est stupide mais ça ne serait pas arrivé si iOS avait cherché à gagner de l'argent en améliorant leur iPhone plutôt qu'à coup de procès. Motorola a découvert le principe de messagerie instantanée en 2001 comme Apple a découvert le slide to unlock, même principe, c'est pas "plus con" !
+Amandroid
+Ils l'on voulu, ils l'ont eu...un procés dans leur cul
+Marc Collin
+comme les coins roind...
+Sobob
+j'aimerai bien savoir le budget avocat d'Apple !
+shen57
+Attention de ne pas mettre Google avec Motorola, certes qgoogle a racheter Motorola ou plutôt leur brevet, mais ils laissent ce dernier comme une entreprise indépendante. Du coup là c'est Motorola qui attaque, pas Google. D'ailleurs si on y regarde de plus prêt Google ne fait pas vraiment de procès.
+darksteir
+le rêve enfin débarrasser de toute cette dumpe, vous voulez un bon ordi pas cher montez vous le ou faite le faire, j'ai monter mon pc pour 1500$ et il dépasse encore de très loin tout les model de mac...
+Jordane Finfe
+patch permettant de contourner? pour Imessage, peut etre, mais c'est qu'un des 7 brevets visés.
+Pr3x
+On va quand même aller plus loin en citant Motorola directement. La propriété intellectuelle de Motorola est violée par iMessages car c'est un service qui permet de "démarrer une conversation sur un appareil doté d'OS X Mountain Lion, comme un MacBook Air et continuer celle-ci sur un autre appareil doté du client de messagerie iMessage sur iOS 5 comme un iPhone 4S" (sic. Motorola). C'est un scoop : on vient de trouver un brevet encore plus con que le rebond en fin de liste... Fallait le faire franchement. Donc en gros, Motorola s'approprie le principe même de messagerie instantanée qui existe depuis plus d'une dizaine d'années... Bref, je me fous de savoir qui gagne, par contre j'espère que les USA se rendront compte de l'aberration de leur systèmes de brevets.
+byte_order
+Euh, il me semble que ce n'est pas l'accusé qui décide de la façon dont il doit s'acquitter d'une sanction, mais bien le tribunal (ici, commercial) et en accord avec les demandes de l'accusation. En allemagne, Apple à demandé à pouvoir, si Samsung était reconnu coupable, faire retirer les produits concernés et détruire les stocks. Le tribunal lui a accordé cette possibilité, mais l'à simplement attaché à un coût. Par ailleurs, le patch software en question est déjà appliqué car iMessage marche quand il le veut, et c'est assez rare en ce moment... Un second patch software est donc déjà également proposé, qui règle la question radicalement : il corrige le bug de sécurité des SMS dans iOS 6, rendant du coup l'usage de iMessage moins... recommandable. Gageons que si Apple devait perdre, ils oublieront rapidement "c'est un bug des SMS, pas d'iOS,et les SMS de toute façon c'est pas bien, utilisez iMessage !" pour clamer haut et fort "nouveau, le premier iPhone à supporter complètement les SMS, ceci est une révolution"...
+izis
+les avocats de cupertino vont essayer "d'arrondir les angles" :)
+Lequidam
+"Par racoleur, j'entends volontairement exagéré pour générer des vues. " C'est devenu une spécialité maison.
+Jogga
+Il faut qu'ils aient une solution (qui ne viole pas d'autre brevets d'autres marques). Ça m'étonne toujours‚ ça! Ils ont des solutions‚ mais quand ils sortent des appareils‚ ils les mettent au point avec les brevets des autres...
+Mursh
+http://www.journaldugeek.com/2012/09/14/apple-fait-interdire-quatre-terminaux-motorola-en-allemagne/ Interdiction de smartphones Motorola à cause du rebond en fin de liste. Donc y a possibilité de bloquer toutes les ventes d'Apple sur un Brevet Logiciel.
+Applelophobe75
+Motorola c'est surtout Google depuis leur rachat . Et Google ne fait que renvoyé l'ascenseur a Apple ! Apple qui s'amuse a attaqué tout le monde et Google fait partie des entreprises attaquer . J'espère que ça va aboutir et que Motororla va gagné ! Comme ça Apple va se rendre compte comme c'est chiant de se faire attaqué en justice pour des conneries !
+tal
+Apple a bien fait interdire les produit Motorola sur la base software (rebond en bas de liste)en Allemagne...pire avec 1 million ils peuvent en plus faire détruire les appareils incriminés..tout ça pour un rebond qui peut très bien être enlever avec un patch...donc pourquoi Moto ne pourrait pas faire ça avec Apple? En réalitté il me semble que sur les 7 accusations une seule à été retenue..et encore elle doit être vérifié encore...donc en réalité on est très loin de voir même Apple payer 10 centimes...
+Jogga
+Tant que les "fanboys" ne se baladent pas avec des sabres laser...
+Guillaume Lemaigre
+l'empire contre attaque...
+m.
+Racoleur ne veut pas dire mensonger, on est d'accord. Par racoleur, j'entends volontairement exagéré pour générer des vues. En l'occurence, utiliser "pourraient" pour une probabilité quasi nulle est à mon avis exagéré, même si ce n'est pas faux.
+jbcubana
+Tout à fait d'accord! Mais le conditionnel reste le conditionnel, ce n'est en aucun cas une certitude, il n'y a donc rien de racoleur dans le titre, si ce n'est pour ceux qui ne comprennent pas bien le français...
+n!kko
+pas forcément quand le problème vient du hardware, il est impossible à modifier donc il est normal si violation que le produit soit suspendu pendant la durée de la procédure judiciaire.. alors que si c'est software le fait de proposer un correctif et de certifier que les nouveaux produits seront déjà à jour, juridiquement ça passe et la vente peut ne pas être stopper. après bien sûr tout dépendra du juge qui gère l'affaire..
+m.
+Il n'empêche que cette interdiction n'a qu'une chance infime d'effectivement arriver. =) Au pire du pire, Apple proposera un patch software permettant de contourner l'interdiction.
+Edouard Marquez (g123k)
+Certes mais dans un premier temps le matériel sera banni (comme avec les smartphones)
+GOUBIN Mickael
+D'après les tribunaux, ils pourront acheter des Samsung, il parait que c'est pratiquement pareil #trollinside
+n!kko
+oui mais si les violations sont avérées, alors il suffirait de proposer une mise à jour - un correctif pour les produits déjà en circulation.. et de l'implanter directement dans les nouveaux produits
+Krimlin
+Impactera très peu le marché ? Blague ! Je n'aime pas Apple mais si une telle interdiction venait à être mise en place, ce serait catastrophique pour ledit marché !
+jbcubana
+"pourraient" Je vois pas ce qu'il y a de racoleur alors que le conditionnel est employé...
+Chousse
+parce que chez Apple on vent pas iOs sans téléphone :)
+Edouard Marquez (g123k)
+Car ce matériel intègre le logiciel (vente liée)
+n!kko
+pourquoi faire interdire du hardware alors que l'on parle ici de software?
+m.
+On sait très bien que l'interdiction n'interviendra pas. Merci pour le titre racoleur.
+mynux
+La boite de pandore est ouverte ! Et c'est celui qui l'a ouverte qui reste de souffrir le plus et ce n'est que partie remise !
+t12lve
+PAROLES, PAROLES PAROLESSSSSSSS PAROLES, PAROLES PAROLESSSSSSSS
+Lire tous les commentaires
+Les derniers articles
+Actualités Générales
+Snapdragon 8 Gen 1, GeForce Now RTX 3080 et chronologie des médias à la baisse – L’essentiel de l’actu de la semaine
+Microsoft incite à ne pas télécharger Chrome, la Pixel Watch attendue l’an prochain et une nouvelle fonction pour Google Photos – Tech’spresso
+Chronologie des médias, caméra selfie constamment activée et Tesla Cybersquad – Tech’spresso
+La dernière vidéo
+WISH banni en FRANCE ! Les Galaxy S22 ont fuité (les meilleures NEWS du mois de Novembre !)
+Les tendances
+iPhone 13
+Forfaits 5G
+Meilleurs smartphones
+Forfaits mobile
+Smartphone pas cher
+Comparateur banques en ligne
+Box internet
+Meilleur PC Portable
+Android 12
+Les derniers articles
+Bons plans
+Où acheter les nouveaux iPhone 13 et 13 Pro au meilleur prix en 2021 ?
+06 décembre 202106/12/2021 • 21:00
+TCL
+Le prototype de smartphone pliable et extensible de TCL se dévoile en vidéo
+06 décembre 202106/12/2021 • 19:53
+Bons plans
+Plus de 250 € de réduction pour la Samsung Galaxy Tab S7+ avec son clavier
+06 décembre 202106/12/2021 • 19:45
+Withings
+#FrandroidOffreMoi une montre connectée qui prend soin de moi
+06 décembre 202106/12/2021 • 18:39
+Sony
+PS Now en décembre : un Noël entre bad boys de GTA ou héros de Final Fantasy
+06 décembre 202106/12/2021 • 18:34
+Bons plans
+Compacte et puissante, cette barre de son Bose est à un super prix
+06 décembre 202106/12/2021 • 18:30
+IKEA
+Ikea : sa nouvelle base de charge sans fil fonctionne vraiment sans fil
+06 décembre 202106/12/2021 • 18:11
+Bons plans
+L’iPhone 12 mini est encore moins cher qu’au Black Friday avec ce code promo
+06 décembre 202106/12/2021 • 17:30
+Oppo
+ColorOS 12 : voici quand débarquera Android 12 sur les smartphones Oppo
+06 décembre 202106/12/2021 • 16:59
+Bons plans
+La webcam Logitech C920 HD Pro est de retour à son meilleur prix
+06 décembre 202106/12/2021 • 16:30
+123456789
+102030405060708090
+100200300400500600700800900
+100020003000400050006000
+Rejoignez la discussion
+À propos • Mentions légales • Contacts • Archives
+Smartphones
+Apple iPhone
+Huawei
+Oppo
+Samsung Galaxy
+Sony Xperia
+Xiaomi
+Gaming
+Sony Playstation
+Microsoft Xbox
+Google Stadia
+Nintendo
+Shadow
+Nvidia Shield
+PC Portables
+Acer
+Apple Macbook
+Dell
+HP
+Microsoft Surface
+Samsung Chromebook
+Automobile
+Audi
+Ford
+Peugeot
+Renault
+Tesla
+Volkswagen
+TV
+LG
+Panasonic
+Philips
+Samsung
+Sony
+TCL
+Audio
+Apple Airpods
+Bose
+Jabra
+Samsung Galaxy Buds
+Sony
+Xiaomi
+Humanoid © 2021 - Frandroid, tous droits réservés
+Réglages
+Clair
+Sombre
+Système
+Activer les notifications
+Les notifications sont bloquées par votre navigateur.En savoir plus sur les notifications web
+Les notifications ne sont pas supportées sur votre navigateur.En savoir plus sur les notifications web

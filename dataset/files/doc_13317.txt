@@ -1,0 +1,127 @@
+Description : On oppose souvent l’écologie à l’efficacité économique et au social, la sphère publique à la sphère privée, les industries traditionnelles à l’innovation. Nous voyons aussi souvent le futur de façon manichéenne. Il passerait soit par la décroissance, soit par la recherche effrénée de la croissance. Et si la solution était ailleurs ? 2L30 considère que cet ailleurs peut être construit grâce à une stratégie innovante d’aide au pilotage de la résilience territoriale.
+Pourquoi mettre la résilience au cœur des enjeux de structuration du territoire ?
+L’urgence de l’émergence de nouveaux modèles de développement n’est plus à démontrer. Les conflits sociaux, l’aggravation constante du dérèglement climatique, la destruction croissante de l’environnement et les pandémies qui nous frappent aujourd’hui doivent nous amener à repenser nos modes de fonctionnement et à entamer une réelle transition. Le rôle des pouvoirs publics est de trouver le bon compromis et de favoriser l’émergence de modèles nouveaux pour permettre aux acteurs privés, publics et aux acteurs de l’innovation de travailler en collaboration ouverte en faveur de la résilience.
+Quels obstacles pour la réalisation de ce projet ?
+Si l’objectif est clair, le chemin pour l’atteindre est complexe. Tout d’abord le manque d’informations sur les besoins, les problématiques et les ressources du territoire doit être adressé. Poser les bases d’une résilience territoriale sans ces informations reviendrait à piloter un avion les yeux bandés. Ensuite il semble essentiel de palier aux distensions entre les acteurs de l’écosystème. Le rapprochement des sphères de pouvoir public et privé ainsi que du monde de la recherche est essentiel. Des acteurs qui ne se parlent pas et ne se connaissent pas seront moins enclins à se faire confiance, à co-construire l’avenir, et à collaborer efficacement en cas de crise. Enfin dans l’hypothèse d’un écosystème soudé, il est important de changer les mentalités « réactives face aux crises » vers des mentalités « pro-actives » souhaitant évoluer vers un nouvel état en « équilibre dynamique » préservant nos fonctionnalités.
+Face à ces obstacles, quels objectifs avons-nous identifiés ?
+Afin d’être résilient il faut tout d’abord connaitre son territoire, ses acteurs, leurs ressources et leurs problématiques.
+Afin d’être résilient il faut fonctionner en écosystèmes publics-privés où l’échange d’informations et la collaboration sont la règle.
+Afin d’être résilient il faut être à l’affût des opportunités et en vigilance sur les risques pour pouvoir réagir vite et penser sur le long terme.
+Afin d’être résilient il faut accepter de se tourner vers l’innovation comme source de progrès.
+Quelle méthodologie pour atteindre ces objectifs ?
+Nous pensons qu’avec les bons outils et le bon réseau d'acteurs publics et privés, il est possible de créer une collaboration écosystémique bénéfique entre une multiplicité d’acteurs. Cette collaboration fera émerger un mode de fonctionnement différent, résilient et durable. Il permettra d’allier préservation de l’environnement, innovation, stabilité sociale et croissance économique. A cette fin, nous proposons une méthodologie ouverte et innovante :
+Une série de groupes de conférences et de groupes de travail multisectoriels permettant d’envisager les problèmes de résilience dans leur globalité.
+Exemple : Prenons un groupe sur les problématiques relatives à la préservation de la compétitivité des entreprises dans le respect de l’environnement. Le groupe sera constitué d’expert en transition écologique et de chefs d’entreprise. Mais nous considérons que d’autre acteurs sont essentiels. Comment penser un tel groupe sans chercheurs pour présenter les dernières technologies durables en cours de développement ? Comment considérer la compétitivité des entreprises sans évoquer l’importance du maintien sur le territoire d’un bassins d’actifs formés qui seront les futurs employés de ces entreprises ? Au travers de ces groupes nous cherchons à décloisonner les problèmes et les spécialités pour apporter une vue d’ensemble sur les enjeux.
+Une plateforme technologique en open source permettant de capter de la donnée et de faciliter le travail collaboratif.
+La plateforme permettra pour chaque acteur de lister :
+-	Leur cœur de métier
+-	Leurs savoir-faire et outils de production mutualisables
+-	Les sujets sur lesquels ils sont prêts à travailler de façon collaborative
+-	Les problématiques qu’ils rencontrent
+Elle disposera aussi d’espace de travail collaboratif, d’outils d’aide à la gestion de projets ainsi que d’outils de veille sur les projets et financements relatifs à la résilience.
+L’intérêt des membres à s’inscrire sur la plateforme seront les suivants :
+Pour les décideurs publics
+-	Une vision globale de l’écosystème entrepreneurial et d’innovation sur le territoire
+-	Une connaissance approfondie des outils de production sur le territoire
+-	Une connaissance des problématiques récurrentes relative à l’innovation, l’industrie, le développement durable, la formation, etc. du territoire
+-	La possibilité d’analyser et de connaître les chaînes de valeur sur le territoire
+-	La possibilité de toucher les acteurs de l’écosystème et les entreprises en quelques clics au lancement de tout nouveau projet ou consultation
+-	Favoriser l’innovation et la collaboration sur son territoire au service de la résilience.
+Pour les entreprises
+-	Une mise en réseau facilitée au service de la résilience et de l’innovation
+-	Une veille stratégique sur l’innovation, le développement durable, les aides et les financements
+-	La possibilité de participer à des projets collaboratifs
+-	Une lisibilité des outils et de l’aide au développement des entreprises.
+-	La possibilité de faire remonter ses problématiques systémiques pour favoriser la prise de décision publique en terme de résilience dans un sens cohérent avec ses besoins.
+LE COMMUN VISE TROIS DEFIS IDENTIFIES
+1/Connaissances et Ressources - 2/Objectifs et Diagnostic - 3/Mieux décider ensemble.
+L’objectif est de construire un véritable outil de fabrique de résilience public-privé sur les territoires
+Organisations utilisatrice ou intéressée par utiliser la ressource : C2IME, Moselle Attractivité, Sillon Lorrain
+Contributeurs : Claire-crugnola
+Défi auquel répond la ressource : 1- Connaissances - Ressources, 2- Objectifs et Diagnostic, 3- Mieux décider ensemble
+Autre commun proche : Data Food Consortium, La Fresque de la ville
+Richesse recherchée : Mentorat, Financement, Conseil Expertise
+Compétences recherchée : Vulnérabilités/Ecosystémique, Vulnérabilités/Démographique, Vulnérabilités/Economique, Facteurs de résilience/Instruments, Regénération/Innovation
+Communauté d'intérêt :
+Type de licence ? GNU Affero General Public License
+Niveau de développement : Idée
+Cloud / Fichiers :
+Tags : communautés résilientes, Développement durable, développement territorial, démographie, Entreprises, action publique
+Catégories : Logiciel, Données, Connaissance
+Thème : Général/Modèles, Général/Approches, Général/Enjeux, Vulnérabilités/Concept, Vulnérabilités/Ecosystémique, Vulnérabilités/Démographique, Vulnérabilités/Sociale, Vulnérabilités/Economique, Vulnérabilités/Culturelle, Facteurs de résilience/Gouvernance, Facteurs de résilience/Economie, Facteurs de résilience/Infrastructure, Anticipation/Veille, Anticipation/Indicateur, Anticipation/Prospective, Gestion de crise
+Candidat Appel à Communs : candidat 5 Nov
+Référent ADEME : Gabriel.plassat
+Référent du commun : claire-crugnola
+Les 5 parties ci dessous sont à remplir obligatoirement pour analyser le commun et vous conseiller
+Candidat Appel à Communs : candidat 5 Nov
+Montant Aide souhaitée (en Euro) à l'Appel à Communs Résilience : 50000
+1.Détails du Financement :
+Plan de financement : [[1]] Chronogramme : [[2]]
+DETAIL DU FINANCEMENT
+Le budget envisagé pour le projet proposé est de 290 000€ sur 1 an pour développer la phase 1. Le financement demandé est de 50 000€ soit 17% de taux d'aide. Les partenaires apportent un autofinancement à titre d'investissement dans ce commun.
+JUSTIFICATION DE L'ELIGIBILITE
+- le porteur a un statut juridique lui permettant de recevoir des aides publiques : Le pole Métropolitain du Sillon Lorrain est un syndicat mixte d'EPCI.
+- Les ateliers et conférences seront documentés et accessibles à tous (open data).
+- Pour la plateforme, l’outil sera développé en open source. La licence sera GNU Affero General Public License . Il s’agira d’un POC développé avec les acteurs publics et privés du territoire afin de s’assurer que le projet corresponde aux attentes et besoins de tous.
+FINANCEMENT POST APPEL A COMMUN
+Le projet est un point de départ pour construire une stratégie durable, distribuée et profondément collaborative sur le territoire. Si le projet est retenu par l'ADEME, il pourra être auto suffisant pour un minimum de 3 ans.
+2L30 est un commun structurant permettant de créer de nombreux autres projets connexes. Les partenaires de 2L30 rechercheront donc des financements complémentaires auprès de collectivités ou d'organismes nationaux pour structurer ces projets complémentaires.
+L'objectif est avant tout de développer le nombre d'utilisateurs et de contributeurs afin que les projets, pour lesquels nous chercherons ensuite collectivement des financements, puissent répondre à de vraies problématiques de résilience et bénéficier à l’ensemble de l’écosystème.
+Le modèle de développement du commun est pour l'instant de prouver l'efficacité de sa méthode. Le financement sera complété au fil des opportunités de projets (contrat privé ou marché public) ou grâce à des AAP ou AMI (aides publiques).
+2.Détails Résilience et Territoire :
+IMPACT SUR LA RESILIENCE
+Construire une méthodologie durable "d'analyse - diagnostic - action" sur la résilience en levant les obstacles majeurs.
+Face aux crises que nous traversons aujourd’hui, construire des territoires plus résilients est un objectif prioritaire. Mais nos modes de fonctionnement actuels permettent difficilement de les construire de façon systématique. Grace à notre méthodologie (voir partie 4) nous souhaitons adresser les freins ci-dessous :
+Passer d’un système décentralisé à un système distribué.
+La décentralisation a permis de rapprocher le pouvoir des administrés. Mais elle reste un modèle imparfait. Nous souhaitons créer autour de 2L30 un espace distribué, où chaque acteur est un nœud du système. Dans un système distribué, l’information circule entre tous les acteurs. Les collaborations sont encouragées. La donnée est partagée. Les décisions se prennent de façon collaborative, pas de façon descendante. Ce mode de fonctionnement permet de sortir du modèle des « politiques sur étagère » et de construire des politiques publiques en adéquation avec les remontées terrain.
+Sortir du réductionnisme.
+Le réductionnisme consiste à réduire un sujet complexe en un ensemble de sous sujets. Ce concept est très utile pour favoriser la spécialisation des acteurs. Le chercheur cherche. Le politique décide. L’entrepreneur crée de la valeur. L’associatif crée du sens. Mais le réductionnisme a un grand travers : il isole les acteurs. Au travers de 2L30, nous proposons de créer un espace qui brise cet isolement et favorise l’émergence d’opportunités entre toutes ces sphères au service de la résilience. L’objectif est simple :
+-	Démultiplier les opportunités
+-	Améliorer la compréhension des atouts et problématiques du territoire
+-	Favoriser la compétitivité dans le respect de l’environnement
+-	Favoriser l’innovation
+-	Eviter la déperdition d’énergie
+-	Améliorer l’acceptabilité des impératifs relatifs à la résilience
+ANCRAGE TERRITORIAL ET COMMUNAUTE
+Le projet est porté par le Sillon Lorrain qui regroupe deux Métropoles (Eurométropole de Metz et Métropole du Grand Nancy), deux Agglomérations et douze intercos. Il est soutenu et co-construit par un incubateur industriel (C2IME) innovant porté par la Région Grand Est, par une université ( Université de Lorraine), deux chaires universitaires, les départements, plusieurs pôles de compétitivité et organisations patronales. Nous sommes déjà en contact avec plusieurs entrepreneurs engagés souhaitant intégrer le projet. Les membres des groupes projet auront entre autres pour mission de servir de tiers de confiance auprès d’entrepreneurs afin d’atteindre un nombre d'acteur minimum de 200 acteurs public et 250 acteurs privés si le projet est validé par l’ADEME. Le projet sera conçu de façon à ce qu'il soit réplicable sur n'importe quel territoire, et que ces productions soient partagées pour enrichir les réflexions de tout acteur souhaitant construire des projets de résilience territoriale.
+3.Détails Impacts environnementaux :
+IMPACTS ET GAINS ENVIRONNEMENTAUX
+A court terme :
+Sensibiliser : les élus, les chefs d’entreprises et les décideurs aux enjeux environnementaux.
+Créer une communauté : 450 décideurs issus de tous secteurs prêts à s’engager dans une démarche plus respectueuse de l’environnement
+A moyen terme :
+Analyser les ressources et problématiques environnementales sur le territoire
+Produire des rapports basés sur des remontées de terrain qui permettront de construire une politique durable cohérente avec les ressources et besoin du territoire.
+A long terme:
+Structurer une réponse collective aux problématiques de résilience notamment d’un point de vue environnemental.
+Optimiser la dépense publique en construisant des projets plus cohérents avec la réalité du territoire
+Exemple concret: Nous pourrions commencer par une conférence sur le thème de l’environnement et l’industrie. Un groupe de travail pourrait alors être formé sur l’industrie automobile et le problème des terres rares. Ce groupe pourrait être composé d’un directeur des services économiques territorial, d’un agent de la région, d’un représentant du pôle véhicule du futur, du pôle matériaux, et de deux industriels. Ils travailleront ensemble plusieurs semaines pour définir la problématique et faire adhérer plus de constructeurs, chercheurs dans les matériaux et industriels à la démarche. Ces derniers s’inscriront sur la plateforme pour créer leur groupe de travail et documenter leurs réunions. Leur profil nous permettra de comprendre les atouts et outils pour mieux répondre à cette problématique. Nous pourrons donc analyser que les laboratoires du territoire travaillent sur des technologies de recyclage des terres rares. Que les industries automobiles n’arrivent pas en s’en procurer. Les terres rares étant extrêmement polluantes, nous chercherons avec l’appui des pouvoirs publics et grâce à l’utilisation de la plateforme, des acteurs pouvant aider à développer une chaîne de recyclage des terres rares à l’échelle locale. On pourra donner l’exemple d’anciennes usines proches de la faillite pouvant ainsi se renouveler dans une autre activité ou une startup travaillant sur le reconditionnement qui ne peut pas toujours reconditionner ses stocks. A partir de ce point, un conglomérat sera créé pour trouver des financements publics et privés afin de développer un écosystème complet de recyclage des terres rares, préservant ainsi l’environnement, sauvant des emplois et rendant nos industries plus compétitives.
+COMMUNAUTE OPEN DATA ET PUBLICATION DES DONNEES EN OPEN DATA
+L’Open data est au cœur de la problématique que nous posons. Sans données, il est impossible de poser un diagnostic de territoire. Si ces données ne sont pas partagées, il est complexe d’initier une démarche collective. Ainsi, toutes les données produites par 2L30 seront ouvertes et réutilisables. Les rapports et la méthodologie seront aussi documentés et accessibles. Ils pourront donc être répliqués et réutilisés sur d’autres territoires créant ainsi un effet d’entrainement bénéfique. Nos succès ne seront pas uniquement ceux de nos territoires et entreprises mais pourront, demain, être ceux de tous.
+4.Synthèse du projet de Commun :
+STRUCTURATION ET EXPERIENCE
+Le Sillon Lorrain est un syndicat mixte d'EPCI fort de 15 années d’expérience spécialisé dans le montage puis l’autonomisation de projets innovants au service du territoire. Ex : limédia (reconnue bibliothèque numérique de référence et labélisée par le ministère de la culture), La French Tech East (labélisée capitale French Tech et soutenue par le ministère de l’économie).
+METHODOLOGIE STRUCTURE EN 5 ETAPES
+La création de conférences territoriales sur le modèle de conférences métropolitaines que nous organisons depuis plus de six années. Ces conférences sont tenues sur une journée et regroupent des décideurs publics, privés, parapublics ainsi que des chercheurs et des conférenciers. Elles commencent par une introduction théorique au sujet, puis sont suivies d’ateliers pratiques de 10 groupes de 10 personnes pour travailler sur la problématique du jour. Nous souhaitons dans ce cadre organiser trois conférences sur le thème de la résilience.
+De ces conférences naîtront des groupes de travail spécialisés sur des problématiques plus restreintes issues des conclusions des conférences. Ils seront constitués par tous les membres volontaires et pertinents du territoire, publics ou privés. Leur objectif sera de travailler sur des solutions de résilience concrètes issus des problématiques du territoire. Ces acteurs travailleront aussi sur l’identification des besoins pour le développement de la plateforme.
+Une équipe de développeurs issus de notre partenariat avec les bâtiments totems, notamment le Quai Alpha, travaillera sur l’élaboration d’une plateforme. La plateforme sera développée en mode POC en fonction des besoins exprimés par tous les acteurs membres du projet. Les fonctionnalités de base seront développées dans un premier temps, puis l'outil sera amélioré en fonction des retours des premiers utilisateurs. En fonction de l'évaluation de la qualité du projet 2L30 à la fin de la première année, nous considèrerons s'il est pertinent de trouver des fonds supplémentaires pour développer une plateforme plus aboutie.
+Grâce aux groupes de travail et au contenu de la plateforme nous pourrons ensuite créer des conglomérats pertinents afin de répondre à ces problématiques. Nous aiderons ces conglomérats à se structurer et à trouver les financements nécessaires au montage de leurs projets de résilience.
+CLARTE ET ADEQUATION AVEC LES DEFIS DE L’AAC
+1/Connaissances et ressources : La plateforme nous permettra de connaitre et comprendre les ressources du territoire.
+2/Objectifs et Diagnostic : Grâce aux groupes de travail et conférences métropolitaines, nous pourrons ensemble poser un véritable diagnostic du territoire et fixer les objectifs pour atteindre une résilience collective. Les problématiques seront transcrites en rapports et analyses (consultables en open data et présentés périodiquement à l’ADEME).
+3/Mieux décider ensemble : Grâce aux projets collaboratifs construits avec toutes les forces du territoire, qu'ils soient décideurs publics ou acteurs privés les décisions se prendront de façon collégiale dans l'intérêt de tous.
+RAPPORT COUT/IMPACT, LIVRABLES ET TAILLE DE LA COMMUNAUTE
+Le financement de 50.000 euros demandé à l’ADEME pour ce projet a pour but de faire un effet de levier. L’investissement est rentable dans la mesure où il touchera un bassin de 1 205 200 habitants et plusieurs centaines d’entreprises. (Les membres et la taille de la communauté décrits dans la partie 2. ) Il aura des répercussions à court terme (dès 3 mois) mais aussi dans la durée. Le projet est construit en mode "proof of concept" sur 1 an. Cette période nous permettra de construire notre socle d'acteurs (200 publics et 250 privés), de mettre en place nos premiers groupes de travail, conférences, conglomérat, ainsi que de produire une V1 de la plateforme et de nombreuses études. Les répercussions espérées sur l’environnement, la compétitivité et la cohésion du territoire seront au bénéfice du plus grand nombre sans barrière à l’entrée.
+Voir chronogramme pour les livrables : [[3]]
+5.Autodiagnostic :
+CONTEXTE, PROJET ET ATOUTS
+L’enjeux de la résilience est partagé par tous sur le territoire, comme en témoigne la taille du consortium soutenant le projet. De nombreux chefs d’entreprise sont prêts à nous rejoindre si le projet est retenu par l’ADEME.
+2L30 a pour but de permettre d’analyser et de poser un réel diagnostic du territoire. Il permettra de faciliter l'accès et de mutualiser les ressources pour parvenir à répondre à ces problèmes. En ce sens le projet correspond exactement aux missions portées par le Sillon Lorrain depuis 15 ans. Nous ne « faisons » pas, nous « construisons le cadre » permettant aux acteurs de « mieux faire » ensemble.
+Grace à l’apprentissage collectif et à l’innovation, nous proposons un modèle d’écosystème public-privé nouveau permettant de se relever plus efficacement en cas de crise, mais aussi et surtout de penser une nouvelle façon d’aborder les problématiques de manière plus inclusive et adaptée. Chaque preneur de décision pourra avoir accès à l’ensemble des ressources pour innover ensemble et construire des projets relatifs à l’environnement, la compétitivité (autant du territoire que des entreprises) et la cohésion. 2L30 permet donc aux acteurs d’évoluer vers un nouvel état en « équilibre dynamique » en préservant leurs fonctionnalités.
+L’outil technologique mis en place facilitera l’étude des signaux faibles mettant en péril la résilience du territoire et de ses entreprises. Il permettra aussi de coordonner une réponse rapide en cas de perturbations. En ce sens le projet permet d’anticiper les perturbations, brutales ou lentes
+BESOINS
+L’appui de l’ADEME au projet 2L30 a tout d’abord une portée symbolique. Il ancrerait la dynamique dans un élan collectif et national qui lui permettra d’être mieux reconnu au niveau local. Cette reconnaissance serait riche de sens pour les entrepreneurs du territoire. Elle nous donnerait la possibilité de recruter plus de volontaires du secteur privé. Elle aiderait notamment certains entrepreneurs à dépasser leurs appréhensions relatives au partage d’informations. Nous souhaiterions par ailleurs obtenir un soutien de l’ADEME dans la pédagogie de présentation des enjeux relatifs à l’open data notamment auprès des industriels encore frileux quant à cette pratique.
+Au travers de l’AAC nous cherchons aussi un esprit de cohésion, d’entraide et d’enrichissement auprès des autres porteurs de communs. Ce type de collectif a été structurant pour nous avec les 11 autres Capitales French Tech de France et nous aimerions pouvoir aussi retrouver ici cette dynamique vertueuse.
+D'un point de vue technique, nous souhaiterions avoir la possibilité d'intégrer dans notre plateforme l'outil technologique So-Rezo ou son code, développé par l'ADEME et que le Sillon Lorrain a soutenu à son origine. Cet outil permet d'optimiser un des aspects de notre projet : "rapprocher les industriels des technologies innovantes" afin d'atteindre les objectifs d'efficacité énergétique 2030 grâce aux éco-technologies. L’obtention de cette brique technologique nous permettrait de concentrer nos efforts de développement sur les autres problématiques du projet 2L30.
+D’un point de vue ‘’thématique’’ nous aimerions pouvoir inviter un ou des représentants de l’ADEME à participer à certaines conférences métropolitaines et/ou groupes projets pour enrichir le débat.
+Enfin le financement de l’ADEME nous permettrait de boucler le tour de table nécessaire au financement du POC de la plateforme.

@@ -1,0 +1,48 @@
+Chercher les documents contenant un mot OU un autre : tapez simplement les mots à la suite => bracelet bronze
+Chercher les documents contenant un mot ET un autre : utilisez le mot-clef AND => bracelet AND bronze
+Chercher les documents contenant une expression exacte : taper l'expression entre guillemets => "bracelet en bronze"
+Effacer votre historique
+Date > 2019 (retirer)
+Operation type > opération préventive de diagnostic (retirer)
+Coverage > THORIGNE-FOUILLARD (retirer)
+Département > 35 (retirer)
+Limiter votre recherche
+Auteur	
+DURAND Jean-Claude (1)
+Type d'opération
+opération préventive de diagnostic [X]
+opération préventive de diagnostic (1)
+Commune
+THORIGNE-FOUILLARD [X]
+THORIGNE-FOUILLARD (1)
+Département
+35 [X]
+35 (1)
+Date (Année)
+2019 [X]
+2019 (1)
+1 résultats Exporter les résultats
+Trier par Titre : ascendant / descendant
+RAP03733 (THORIGNE-FOUILLARD (35). ZA Porte de Tizé. Rapport de diagnostic)
+THORIGNE-FOUILLARD (35). ZA Porte de Tizé. Rapport de diagnostic
+35
+-Sévigné Tel. 02 23 36 00 40 grand-ouest@inrap.fr Avril 2019 2019 Rapport de diagnostic 35 334 ZA Porte de Tizé Arrêté de prescription 2018-028 Système d’information Lambert 93 Code Inrap D122206 Entité archéologique Nr site Code INSEE Bretagne, Ille-et-Vilaine, Thorigné
+Grand-Ouest Thorigné-Fouillard Année 2018 Section BD Parcelles 02, 04, 40 Section BE Parcelles 02, 32 a+d, 34, 35, 40, 41,42 sud, 48, 93 28/02/2019 Surface à traiter Références cadastrales Commune du 12/09/2018 au 23/11/2018 Rennes Métropole Ville de Thorigné-Fouillard Privé
+Fabrice Edin Yoann Escats Stéphane Jean Pierrick Leblanc Vincent Pommier Inrap Grand Ouest 37 rue du Bignon CS 67737 35577 Cesson-Sévigné Avril 2019 « Le Rapport d’Opération (RO) constitue un document administratif communicable au public dès sa remise au service Régional de
+l'intervention 27	1.2. Contexte topographique et géologique 27	1.3. Contexte historique et archéologique 33	1.4. Le paysage ancien 35	1.5. Méthode 37	2. Les Données de terrain 37	2.1. Introduction 37	2.2. Les parcelles 37	2.2.1. La parcelle BD 2-35 37	2.2.1.1. La parcelle 35 avec
+parcelle 41 3 4 Inrap · Rapport de diagnostic 125	3. Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 Les études 125	3.1 Étude de la céramique protohistorique par Théophane Nicolas 125	3.1.1. Méthodes de travail 125	3.1.2. Catalogue par contexte de découverte 125
+Beaulieu - Avenue Charles Foulon - 35700 Rennes 01/09/2018 6 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 Fiche signalétique Localisation Région Bretagne Statut du terrain au regard des législations sur le patrimoine et l’environnement
+modemes Zoologie Epoque contemporaine Botanique Ere industrielle Palynologie Macrorestes An. de céramique An. de métaux Aca. des données Numismatique Conservation Restauration 8 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028
+Céramologue Étude céramique protohistorique Intervenant technique Entreprise Charier TP : terrassement 9 10 Inrap · Rapport de fouille Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 Notice scientifique Le projet de réalisation d’une zone d’activité ZA Porte de Tizé a donné
+© Jean-Claude Durand Localisation de l’opération 11 12 Inrap · Rapport de fouille Fig. 2 : localisation de l'emprise du site sur cadastre récent au 1/5 500 © Jean-Claude Durand Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et
+scientifiques Arrêté de prescription Arrêté de prescription 13 14 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et scientifiques Cahier des charges Arrêté de prescription 15 16 Inrap · Rapport de
+diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et scientifiques Arrêté de prescription 17 18 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et
+scientifiques Arrêté de prescription 19 20 Inrap · Rapport de diagnostic Projet scientifique Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et scientifiques Projet scientifique 21 22 Inrap · Rapport de diagnostic Thorigné-Fouillard
+(35), ZA Porte de Tizé - 2018-028 I. Données administratives, techniques et scientifiques Arrêté de désignation Arrêté de désignation 23 II. Résultats II. Résultats 27 1. Introduction 1.1. Circonstances de l'intervention Dans le cadre de la création d'une zone
+l'emprise sur MNT avec ombrage © Jean-Claude Durand Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 II. Résultats 29 BC Alternances silto-wackeuses dure Briovérien BS Alternances silto-gréseuses jaunes verdâtres tendres Briovérien θ. Microgabbros, diorites quartzifères η
+. Microdiorites à microtonalites porphyriques à biotite Fig. 5 : localisation de l'emprise sur carte géologique de Rennes n°317 du BRGM © Jean-Claude Durand 30 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 Il s’agit principalement d’une fosse ayant
+. 35). La zone à diagnostiquer est située entre deux ensembles archéologiques, l’un principalement sur la commune de Thorigné-Fouillard : La zone d’activité de Bellevue et le second sur la commune de Cesson-Sévigné : Z.A.C. des Pierrins et Les Champs Blancs. Ils sont respectivement
+. Patrimoine.bzh 32 Inrap · Rapport de diagnostic Fig. 7 : localisation des indices de la carte archéologique du SRA Bretagne © Jean-Claude Durand Thorigné-Fouillard (35), ZA Porte de Tizé - 2018-028 II. Résultats 33 1.4. Le paysage ancien Comme le montre le cadastre napoléonien de
+résultats que certains fossés reprennent des limites parcellaires du cadastre napoléonien. Fig. 8 : localisation de l'emprise sur cadastre napoléonien de 1818, Archives départementales 35 © Jean-Claude Durand 34 Inrap · Rapport de diagnostic Thorigné-Fouillard (35), ZA Porte de Tizé
+- 2018-028 © Geobretagne.fr 2014 Fig. 9 : localisation de l'emprise sur photographie aérienne de 1950, Géobretagne © Jean-Claude Durand 93 48 2 BE 41 32 d 32 a 35 2 34 BD © Geobretagne.fr 2014 Fig. 10 : localisation de l'emprise sur orthophotographie de 2014 Géobretagne, avec
+numéros et sections des parcelles © Jean-Claude Durand II. Résultats 35 1.5. Méthode Les tranchées ont été ouvertes sous la forme de fines passes mécaniques à la pelle mécanique de 20 tonnes équipée en rétro d'un godet de curage de 3 m. Elles ont été faites en continu avec des

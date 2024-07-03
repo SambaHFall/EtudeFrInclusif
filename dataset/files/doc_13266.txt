@@ -1,0 +1,24 @@
+de Folin & Périer, 1867-1871 - Les fonds de la mer. Etude internationale sur les particularités nouvelles des régions sous-marines, vol. I, p. 1-316
+RIS
+EndNote
+BibTex
+TY - CHAP
+AU - de Folin & Périer
+PY - 1867-1871
+PB - Savy
+TI - Les fonds de la mer. Etude internationale sur les particularités nouvelles des régions sous-marines
+SP - 1-316
+ER -
+@inbook{deFolin&Périer1867-1871, 
+title={Les fonds de la mer. Etude internationale sur les particularit{\'e}s nouvelles des r{\'e}gions sous-marines}, 
+year={1867-1871}, 
+author={de Folin & P{\'e}rier}, 
+publisher={Savy}, 
+volume={I}, 
+pages={1-316}
+}
+%0 Book
+%A de Folin & Périer
+%D 1867-1871
+%I Savy
+%T Les fonds de la mer. Etude internationale sur les particularités nouvelles des régions sous-marines

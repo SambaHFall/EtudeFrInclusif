@@ -1,0 +1,114 @@
+INPN - Actualités - Mise en ligne des données de l’Atlas des Oiseaux de France Métropolitaine , de la SEOF et du MNHN.
+Ces données synthétisent le travail d’environ 10 000 observateurs et de quelques 150 structures dont 56 délégations régionales ou départementales. Elles dressent une photographie instantanée de la distribution de notre avifaune et permettent de mesurer les évolutions en cours depuis un quart de siècle.
+La profonde modification de l’occupation du sol est la cause essentielle des changements de répartition mis en évidence. Les impacts du changement climatique restent encore globalement peu visibles bien que les espèces d’affinités thermiques élevées bénéficient de tendances plus favorables.
+Plus de 450 000 données de nidification pour 321 taxons ont été collectées durant la période 2009-2012. Les indices de nidification sont classés en trois grandes catégories (possible, probable, certaine). Les données de présence hivernale (plus de 309 500 pour 277 taxons) ont été collectées en décembre et janvier au cours de quatre hivers successifs (2009-10 à 2012-13). Le maillage de cet atlas s’appuie sur le découpage de la France en près de 6000 mailles de 10x10 km, soit une échelle plus fine d’environ un facteur 6 par rapport aux cartes IGN50 utilisées par les trois précédents atlas (« nicheurs » 1970-1975 et 1985-1989, « oiseaux en hiver » 1977-1981). Chaque carré a été attribué à un coordinateur, le plus souvent dans le cadre d’une collaboration avec une structure régionale ou départementale.
+Issa (N.) & Muller (Y.) coord. 2015.- Atlas des oiseaux de France métropolitaine – Nidification et présence hivernale, LPO / SEOF / MNHN. Delachaux & Niestlé, Paris, deux volumes, 1408 p.
+En savoir plus :
+Consulter les jeux de données de nidification certaine, probable et possible
+Consulter le jeu de données de présence hivernale
+Découvrir le site de l'Atlas
+Crédit photo : J. Laignel, Regulus ignicapilla (Temminck, 1820) et Merops apiaster Linnaeus, 1758
+" }
+En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des contenus et services adaptés et réaliser des statistiques de visites. En savoir plus à propos des cookies.
+English Version
+Connectez-vous
+Créer un compte ?
+À PROPOS
+ACTUALITÉS
+CONTEXTE
+PROGRAMMES
+DONNÉES & OUTILS
+PARTICIPER
+À PROPOS
+ACTUALITÉS
+Lettre d'information
+CONTEXTE
+PROGRAMMES DONNÉES & OUTILS
+PARTICIPER
+'; }); var mapObjectOrdering = {}; mapObjectOrdering = sortOnKeys(mapObject, true); var re = new RegExp("(?![^<]*\>)\\b(" + Object.keys(mapObjectOrdering).join("|") + ")\\b", "gi"); str = str.replace(re, function (matched) { var upperValueMatched = $.trim(matched).toUpperCase(); var noUpperValueMatched = $.trim(matched); var returnval = ''; if (mapObjectOrdering[noUpperValueMatched] == null) { return matched; } else { returnval = mapObjectOrdering[noUpperValueMatched]; delete mapObjectOrdering[noUpperValueMatched]; return returnval; } }); $('section').html(str); // enleve le glossaire des accordÃ©ons $(".accordion-toggle>.tooltipdef").replaceWith(function () { return this.innerHTML; }); // enleve le glossaire des balises a $("a>.tooltipdef").replaceWith(function () { return this.innerHTML; }); $("a>i>.tooltipdef").replaceWith(function () { return this.innerHTML; }); $("a>em>.tooltipdef").replaceWith(function () { return this.innerHTML; }); // enleve le glossaire des balises h $(":header>.tooltipdef").replaceWith(function () { return this.innerHTML; }); $('[data-toggle="tooltip"]').tooltip({ delay: {show: 100, hide: 1000} }); } function sortOnKeys(dict, reverse) { reverse = (reverse !== undefined) ? reverse : false; var sorted = []; for (var key in dict) { sorted[sorted.length] = key; } sorted.sort(); if (reverse) { sorted.reverse(); } var tempDict = {}; for (var i = 0; i < sorted.length; i++) { tempDict[sorted[i]] = dict[sorted[i]]; } return tempDict; } });
+Actualités par thématiques et par années
+Mise en ligne des données de l’Atlas des Oiseaux de France Métropolitaine
+Les lettres d'information
+S'inscrire à la lettre d'information
+Ok
+Rechercher des données sur un programme
+Sélectionnez Collectivités Listes d’espèces Catalogue des jeux de données Réglementation Bioarchéologie Listes habitats Natura 2000 Espaces protégés ZNIEFF continentales ZNIEFF marines INPG Rapportages (DHFF & DO) Listes rouges Espèces Listes rouges Écosystèmes
+Ok
+Rechercher des données sur une espèce
+Ok
+Rechercher des données sur un habitat
+Ok
+Actualités
+Mise en ligne des données de l’Atlas des Oiseaux de France Métropolitaine
+Parution : 14 novembre 2016 Catégorie : Inventaires d'espèces
+Les données de l’Atlas des oiseaux de France métropolitaine constituent une référence ornithologique que l’on doit aux initiatives conjointes de la LPO, de la SEOF et du MNHN.
+Ces données synthétisent le travail d’environ 10 000 observateurs et de quelques 150 structures dont 56 délégations régionales ou départementales. Elles dressent une photographie instantanée de la distribution de notre avifaune et permettent de mesurer les évolutions en cours depuis un quart de siècle.
+La profonde modification de l’occupation du sol est la cause essentielle des changements de répartition mis en évidence. Les impacts du changement climatique restent encore globalement peu visibles bien que les espèces d’affinités thermiques élevées bénéficient de tendances plus favorables.
+Plus de 450 000 données de nidification pour 321 taxons ont été collectées durant la période 2009-2012. Les indices de nidification sont classés en trois grandes catégories (possible, probable, certaine). Les données de présence hivernale (plus de 309 500 pour 277 taxons) ont été collectées en décembre et janvier au cours de quatre hivers successifs (2009-10 à 2012-13). Le maillage de cet atlas s’appuie sur le découpage de la France en près de 6000 mailles de 10x10 km, soit une échelle plus fine d’environ un facteur 6 par rapport aux cartes IGN50 utilisées par les trois précédents atlas (« nicheurs » 1970-1975 et 1985-1989, « oiseaux en hiver » 1977-1981). Chaque carré a été attribué à un coordinateur, le plus souvent dans le cadre d’une collaboration avec une structure régionale ou départementale.
+Issa (N.) & Muller (Y.) coord. 2015.- Atlas des oiseaux de France métropolitaine – Nidification et présence hivernale, LPO / SEOF / MNHN. Delachaux & Niestlé, Paris, deux volumes, 1408 p.
+En savoir plus :
+Consulter les jeux de données de nidification certaine, probable et possible
+Consulter le jeu de données de présence hivernale
+Découvrir le site de l'Atlas
+Crédit photo : J. Laignel, Regulus ignicapilla (Temminck, 1820) et Merops apiaster Linnaeus, 1758
+← Listes des actualités
+À PROPOS
+Présentation
+Comité d’orientation
+Comité éditorial
+Organisme gestionnaire
+Organismes de tutelle
+Organismes partenaires
+Communication
+Presse
+INPN ESPÈCES
+ACTUALITÉS
+Dernières actualités
+Lettres d'information
+MEDIA
+Galerie Photos
+Tour de France de la biodiversité en vidéos
+CONTEXTE
+La biodiversité
+La géodiversité
+Outre-Mer
+SINP
+PROGRAMMES
+Espèces
+Référentiel taxonomique (TaxRef)
+Base de connaissance
+« Statuts »
+CAMPanule
+Inventaires nationaux
+Données d'observation sur les espèces
+Habitats
+Référentiel habitats (HABREF)
+CarHab
+Données d'observation sur les habitats
+PROGRAMMES
+Espaces
+Espaces protégés
+Trame verte et bleue
+ZNIEFF
+NATURA 2000
+Patrimoine géologique (INPG)
+Évaluation Conservation
+Listes rouges
+Évaluation
+Plans nationaux d'actions (PNA)
+Espèces exotiques envahissantes (EEE)
+Sensibilité écologique
+DONNÉES & OUTILS
+Référentiel taxonomique (TaxRef)
+Base de connaissance
+« Statuts »
+Référentiel habitats (HABREF)
+Référentiel des organismes
+Informations géographiques
+Recherche de données
+PARTICIPER
+Tout public
+Experts
+Appel à projets
+Jeux éducatifs
+Citation : MNHN & OFB [Ed]. 2003-2021. Inventaire national du patrimoine naturel (INPN), Site web : https://inpn.mnhn.fr Le 7 décembre 2021

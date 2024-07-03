@@ -1,0 +1,249 @@
+<# if ( data.taxonomies_hierarchical["thematic"] ) { #> {{{ data.taxonomies_hierarchical["thematic"].lvl0 }}} <# } #>
+{{{ data._highlightResult.name.value }}}
+⚠ RD1084 Neyrolles Charix Fermer Route coupée, en savoir plus...
+Accès direct au contenu
+Accès direct à la recherche
+Accès direct au menu
+Menu	
+Fermer	
+Démarches et infos pratiques
+Le Conseil départemental
+Que faire dans l’Ain
+Accueil / Collèges et jeunesse / Collèges de l'Ain / Chéquier Jeunes 01	
+Chéquier Jeunes 01
+Mis à jour le 15 octobre 2021	
+Sommaire
+Où utiliser votre Chéquier Jeunes 01 ?
+Comment obtenir votre Chéquier Jeunes 01 ?
+Comment utiliser votre Chéquier Jeunes 01 ?
+Partenaire Chéquier Jeunes 01 : inscription & bordereau remise de chèque
+Vous n'avez pas reçu votre chéquier ?
+Vous habitez dans l'Ain et votre enfant est collégien :
+Envoyez un email en précisant le nom et le prénom de votre enfant à chequier.jeunes@ain.fr
+Le Chéquier Jeunes 01 permet aux 36 000 jeunes de l'Ain inscrits en classe de niveau collège (collèges, Maisons familiales rurales, Instituts médico-éducatifs...) :
+de financer l'inscription dans un établissement d'enseignement artistique ou dans un club de sport,
+de bénéficier de réductions pour des manifestations culturelles ou sportives,
+de financer l'achat de livres, l'entrée dans des concerts, festivals, piscines, structures de sports de nature (accrobranche...).
+Association, enseigne, structure culturelle,... vous avez choisi d’adhérer au dispositif Chéquier Jeunes ? Retrouvez les modalités pour vous inscrire et déposer les Chéquiers Jeunes 01
+Où utiliser votre Chéquier Jeunes 01 ?
+Vous recherchez les enseignes qui acceptent les chéquiers jeunes ?
+Vous voulez savoir si le club ou l'association de votre enfant accepte les chéquiers jeunes ?
+Liste des partenaires : accédez au moteur de recherche sur le site chequierjeunes.ain.fr
+Localiser un partenaire
+Comment obtenir votre Chéquier Jeunes 01 ?
+Pas besoin de s'inscrire. Les chéquiers Jeunes 01 sont envoyés automatiquement pas courrier entre septembre et octobre 2021.
+Votre enfant n'est pas encore scolarisé dans un collège de l'Ain ?
+Adressez par e-mail, un certificat de scolarité pour 2021-2022 en précisant le nom et le prénom du responsable légal et adresse à chequier.jeunes@ain.fr ou contactez le service Chéquier Jeunes du conseil départemental au 04 37 62 17 15
+Comment utiliser votre Chéquier Jeunes 01 ?
+Vous pouvez utiliser tous les chèques d'un domaine en une seule fois !
+Le chéquier est nominatif.
+Un chéquier par année scolaire / collégien bénéficiaire
+En cas de parents séparés, le Chéquier est envoyé à une seule adresse.
+D’une valeur globale de 150€ :
+Composition du chéquier :
+21 chèques répartis comme ceci :
+1 chèque soutien au pouvoir d'achat
+Valeur = 20 €
+Utilisation : exclusivement pour une inscription ANNUELLE auprès d'un établissement d'enseignement artistique ou un club sportif.
+4 chèques sports et loisirs
+Valeur : 4 x 5€ = 20€
+Utilisation : inscription dans un club sportif, réductions pour des manifestations sportives ou entrées de stades, accrobranche, bowling...
+5 chèques culture
+Valeur : 5 x 5€ = 25€
+Utilisation : inscription dans un établissement d'enseignement artistique, réductions pour des manifestations, des entrées dans des lieux culturels et de loisirs, des achats de livres...
+11 offres promotionnelles
+Utilisation : auprès de structures à vocation départementale (USB, USO, FBBP, JL, Centre culturel de rencontre d’Ambronay, Parc des Oiseaux ...)
+Période d'utilisation
+Année scolaire, du 1er septembre 2021 au 31 août 2022
+Renseignements :
+03 87 78 78 21 du lundi au vendredi de 8h30 à 12h00 et de 14h00 à 18h00.
+Questions ? Réponses !
+Je pratique la danse, quels chèques dois-je utiliser pour payer mon adhésion ?
+Ce sont les chèques "culture" qui doivent être utilisés pour la pratique de la danse.
+J'habite une ville limitrophe d'un autre département, je peux dépenser mes Chèques Jeunes dans le département voisin ?
+Le dispositif du Chéquier Jeunes 01 est réservé aux habitants et aux structures de l’Ain ; il n’est donc pas possible d’utiliser les chèques dans un autre département.
+J’habite dans l’Ain mais mes enfants vont aux collèges dans un département voisin ?
+Il faut que l’un des parents soit domicilié dans l’Ain mais le collégien peut être scolarisé dans un autre département.
+Seules les structures implantées dans l’Ain ne pouvant devenir partenaires, il n’est pas possible d’utiliser les Chèques Jeunes dans un autre département
+Vous avez déménagé récemment et vous vous demandez si le chéquier Jeunes 01 arrivera à votre nouvelle adresse postale ?
+Si vous avez communiqué votre changement d’adresse auprès du collège en fin d’année scolaire, la bonne adresse sera bien prise en compte par le Département de l’Ain.
+Partenaire Chéquier Jeunes 01 : inscription & bordereau remise de chèque
+Guide pratique 2021 des partenaires
+Télécharger
+PDF 3,17 MB
+Comment se faire rembourser ?
+Les 3 étapes pour vous faire rembourser vos chèques :
+Retrouvez le bordereau de remise de chèques à imprimer sur votre compte dans le site partenaire
+1- Le bordereau de remise sur votre compte partenaire chequierjeunes.ain.fr
+Retrouvez le bordereau de remise de chèques à imprimer sur votre compte dans le site partenaire
+Ce document contient le code barre correspondant à votre structure (un autre partenaire ne peut donc pas s’en servir pour effectuer une remise de chèques).
+Le bordereau utilisé doit être du millésime (le bordereau évolue tous les ans).
+Les champs suivants doivent être remplis avant envoi : le nombre de chèques remis, le montant total à rembourser, la date, votre signature et votre tampon.
+2- Les chèques
+Ne pas mélanger des chèques de différents millésimes.
+Il faut soigneusement découper le talon des chèques et les conserver. Ils seront, pour vous, une sécurité pour votre remboursement en cas de problèmes lors de l’envoi des chèques.
+Pour éviter le non remboursement des chèques, ne pas :
+plier les chèques, les agrafer, les coller, les scotcher… Écrire dans la zone de lecture située en bas (bande blanche contenant des chiffres).
+3- L'enveloppe
+• Ne pas surcharger l’enveloppe de chèques. Le tri en poste peut parfois dégrader le contenu de cette dernière ne nous permettant pas de lire les chèques.
+Choisir un format adapté à l’envoi.
+Envoyez votre remise à
+Docaposte
+Service partenaires
+2, avenue Sébastopol
+BP 65052
+57072 METZ Cedex
+Tel : 03 87 78 78 20 Allô partenaire Chéquier Jeunes 01
+Pensez à mettre vos informations à jour et imprimer votre convention pour la saison 2021/2022 !
+3 bonnes raisons pour devenir partenaire du Chéquier Jeunes 01
+valoriser votre structure et vos actions,
+développer la fréquentation,
+proposer des actualités, des offres particulières et ponctuelles.
+Inscription en ligne
+Connaître les bonnes pratiques
+Faites la promotion du dispositif au sein de votre structure, auprès des jeunes bénéficiaires et de leur famille,
+Acceptez uniquement les chèques jeunes correspondant au domaine stipulé sur la convention
+⚠️ aucun remboursement ne sera fait si vous acceptez par exemple un chèque sport/loisirs alors que vous êtes conventionnés pour le domaine culture),
+N'acceptez pas un chèque pour une dépense inférieure à sa valeur faciale,
+N'acceptez de chèques après leur date de validité : 31/08/(de l'année en cours)
+Renvoyez les chèques jeunes reçus, auprès du prestataire, au cours de l’année et au plus tard 2 mois après la fin de la campagne, soit le 31 octobre (de l'année en cours) pour un remboursement dans les 15 jours suivant la date d’envoi.
+Retrouvez les conseils et bonnes pratiques dans le Guide des partenaires du chéquier Jeunes 01 (Pdf, 3Mo)
+Nous contacter
+"Allô Chéquier Jeunes 01" répond aux questions des usagers
+03 87 78 78 21
+"Allô Chéquier Jeunes 01" répond également aux questions des structures partenaires
+03 87 78 78 20
+L’action du Département de l’Ain pour les collèges, la culture, le sport
+Découvrez les actions du Département de l'Ain dans les domaines de la culture, du sport, des collèges et de l'enseignement supérieur.
+En savoir plus
+Engagement tenu !
+Engagement tenu sous l'impulsion du conseil départemental, le Chéquier jeunes 01 favorise l'accès à l'offre sportive, culturelle et de loisirs des jeunes de l'Ain, en classe de niveau collège. 36 000 jeunes sont concernés chaque année par ce nouveau dispositif.
+Facebook
+Twitter
+Mail
+Pour aller plus loin
+Visitez l’Ain
+www.ain-tourisme, le site officiel du tourisme dans l'Ain en Auvergne-Rhône-Alpes. Retrouvez toutes les offres touristiques du département de l'Ain
+En savoir plus
+Localiser son collège de secteur en fonction de son domicile
+Trouver le collège public de votre secteur et accéder aux coordonnées des collèges privés dans l'Ain.
+En savoir plus
+Chéquier jeunes 01 : coup de pouce pour les collégiens
+Les collégiens domiciliés dans le département de l'Ain bénéficient de réductions pour découvrir des activités culturelles, sportives et de loisirs. Mode d'emploi du Chéquier jeunes…
+En savoir plus
+Collège de Pont-d’Ain : effondrement du faux-plafond de la demi-pension
+Jeudi 17 mai 2018, en début d’après-midi, le faux-plafond de la demi-pension du collège Louise de Savoie de Pont-d’Ain s’est effondré d’un seul bloc sur…
+En savoir plus
+Collèges : un plan pluriannuel pour le développement des usages numériques
+Le Conseil départemental a voté un plan de 7 millions d'euros sur 4 ans afin d'accompagner le développement numérique des collèges.
+En savoir plus
+Monumental : les ados à la découverte du patrimoine de l’Ain
+le Département a proposé aux collégiens de photographier le patrimoine de l'Ain, sous tous les angles et de le mettre en scène. La remise des…
+En savoir plus
+Challenge anti-gaspi dans les collèges de l’Ain !
+Le Département et l'ALEC 01 lancent le challenge anti-gaspi et récompensent collèges et collégiens qui auront relevé le défi !
+En savoir plus
+Vous ne trouvez pas ce que vous recherchez ?
+Effectuez une recherche
+Voir aussi
+Posez votre question sur Messenger
+Contactez-nous
+Consultez l'annuaire des services
+Contactez les services sociaux
+Demander une subvention
+Trouvez une maison de services au public
+Chéquier jeunes
+Dossier MDPH
+Déchetterie
+État des routes
+Recherchez Appuyer sur la touche Entrée	pour valider	
+Communiquez avec nous par Messenger
+Communiquez avec nous par Messenger
+Communiquez avec nous par Twitter
+Communiquez avec nous par Twitter
+Communiquez avec nous par téléphone
+Communiquez avec nous par téléphone
+Lisez votre magazine Ici c'est l'Ain
+Lisez votre magazine Ici c'est l'Ain
+18 216 fans sur Facebook
+18 216 fans sur Facebook
+Consultez les actualités
+Consultez les actualités
+Hôtel du Département
+45, avenue Alsace Lorraine
+BP 114 01003 Bourg en Bresse Cedex
+04 74 32 32 32
+Emploi
+Contact
+Espace presse
+Logo
+Mentions légales
+Visitez l’Ain
+A quoi servent les cookies? Nous utilisons des cookies pour identifier vos visites répétées et vos préférences d'utilisation, ainsi que pour mesurer l'efficacité des contenus et analyser le trafic.	
+Vous acceptez
+Définissez vos préférences
+Page Mentions légales
+Politique de confidentialité et cookies
+Close
+Gestion de vos préférences sur les cookies
+Ce site utilise des cookies pour améliorer votre expérience de navigation. Ces cookies sont classés ci-dessous par catégorie. Veuillez retrouver notre politique données personnelles et cookies.
+Cookies nécessaires au fonctionnement
+Cookies nécessaires au fonctionnement
+Toujours activé
+Les cookies nécessaires sont utiles au bon fonctionnement du site. Cette catégorie inclut uniquement les cookies qui garantissent les fonctionnalités de base et les éléments de sécurité du site Web. Ces cookies ne stockent aucune information personnelle.
+Cookie
+Type
+Durée
+Description
+cf_ob_info 0 1 minute Utilisé par CloudFare pour afficher une notification au cas où le site Web serait temporairement indisponible.
+cf_use_ob 0 1 minute Utilisé par CloudFare pour afficher un avis au cas où le site Web serait temporairement indisponible.
+cookielawinfo-checkbox-advertisement 0 1 an utilisé pour vérifier si l'utilisateur a ou non donné son consentement à l'utilisation de cookies dans la catégorie «Publicité».
+cookielawinfo-checkbox-analytics 0 1 an utilisé pour vérifier si l'utilisateur a ou non donné son consentement à l'utilisation de cookies dans la catégorie «Analytics».
+cookielawinfo-checkbox-necessary 0 11 mois utilisés pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie «Nécessaire».
+cookielawinfo-checkbox-non-necessary 0 11 mois utilisés pour stocker le consentement de l'utilisateur pour les cookies dans la catégorie "Non Nécessaire".
+cookielawinfo-checkbox-performance 0 1 an utilisé pour vérifier si l'utilisateur a ou non donné son consentement à l'utilisation de cookies dans la catégorie «Performance».
+cookielawinfo-checkbox-preferences 0 1 an utilisé pour vérifier si l'utilisateur a ou non donné son consentement à l'utilisation de cookies dans la catégorie «Préférences».
+PHPSESSID 0 utilisé les applications php natif du site pour stocker et identifier l'identifiant de session unique d'un utilisateur dans le but de gérer la session utilisateur sur le site Web. Le cookie est un cookie de session et est supprimé lorsque toutes les fenêtres du navigateur sont fermées.
+viewed_cookie_policy 0 11 mois utilisé pour stocker si l'utilisateur a consenti ou non à l'utilisation de cookies. Il ne stocke aucune donnée personnelle.
+Cookies de fonctionnalité
+non-necessary
+utilisés pour améliorer et personnaliser les fonctionnalités du site Web. Ils peuvent être activés par nos équipes, ou par des tiers dont les services sont utilisés sur les pages de notre site Web. Si vous n’acceptez pas ces cookies, une partie ou la totalité de ces services risquent de ne pas fonctionner correctement.
+Cookie
+Type
+Durée
+Description
+_la 0 50 years ago
+_lt 0 50 years ago
+chkChromeAb67Sec 0 2 mois utilisé par Google Chrome dont la version est supérieure à 67 et est utilisé à des fins de test.
+lang 0 utilisé pour stocker les préférences linguistiques d'un utilisateur afin de diffuser du contenu dans cette langue stockée lors de sa prochaine visite sur le site Web.
+LB 0 50 years ago
+test_cookie 0 11 months
+TSMEStickyLB 0 50 years ago
+v1st 0 1 an Utilisé pour recueillir des renseignements sur la façon dont les visiteurs utilisent ain.fr. Nous utilisons ces informations pour élaborer des rapports et pour améliorer le site. Les cookies recueillent les informations de manière anonyme, y compris le nombre de visiteurs du site, la situation géographique des visiteurs du site et les pages qu'ils ont consultées.
+VT_USER 1 1 week
+Cookies Analytics
+analytics
+Nous utilisons le service Google Analytics. Cet outil recueille des informations nous permettant de comprendre les interactions avec notre site Web, d’affiner cette expérience en améliorant le site mais aussi et surtout de mieux comprendre nos visiteurs (vous !).
+Cookie
+Type
+Durée
+Description
+___utmvc 0 2 ans utilisé pour suivre la session de visite de l'internaute. Ce cookie expire dès que l'internaute reste inactif sur votre site plus de 30 minutes. L'utilisation de ce cookie couplée avec le cookie utmc permet de suivre de suivre les visites (sessions) sur un site donnée.
+_ga 0 2 ans utilisé par Google Analytics pour calculer les données de visiteur, de session... et de garder une trace de l'utilisation du site pour le rapport d'analyse du site. Il stocke des informations de manière anonyme et attribuent un numéro généré par Randoly pour identifier les visiteurs uniques.
+_ga_S4FJY0X3VX 0 2 ans
+_gat 0 1 minute utilisé par Google Universal Analytics pour limiter le taux de requêtes afin de limiter la collecte de données sur les sites à fort trafic.
+_gat_marketingTracker 0 1 minute
+_gat_UA-88922387-1 0 1 minute utilisé par Google Analytics pour limiter la quantité de données enregistrées par Google sur les sites Web à fort trafic.
+_gid 0 1 jour utilisé pour stocker des informations sur la façon dont les visiteurs utilisent un site Web et aide à créer un rapport d'analyse de la façon dont le site Web fonctionne. Les données collectées y compris le nombre de visiteurs, la source d'où ils viennent et les pages visitées sous forme anonyme.
+GPS 0 30 minutes utilisé par YouTube pour suivre les utilisateurs en fonction de leur emplacement géographique
+Cookies YouTube
+cookies-youtube
+Nous utilisons Youtube pour diffuser des vidéos sur notre site Web. Bien que nous n’ayons aucun contrôle sur les cookies définis par Google, ils prennent en charge la fonctionnalité vidéo. Si vous les refusez, cela pourrait empêcher le visionnage des vidéos.
+Cookie
+Type
+Durée
+Description
+GPS 0 30 minutes utilisé par YouTube pour suivre les utilisateurs en fonction de leur emplacement géographique
+VISITOR_INFO1_LIVE 1 5 mois Utilisé par Youtube pour suivre les informations des vidéos YouTube intégrées sur un site Web.
+YSC 1 utilisé par YouTube pour suivre les vues des vidéos intégrées.
+YTC 0 10 minutes utilisé par YouTube pour mesurer le nombre et le comportement des utilisateurs de Youtube, y compris des informations qui relient vos visites sur notre site Web à votre compte Google si vous êtes connecté.

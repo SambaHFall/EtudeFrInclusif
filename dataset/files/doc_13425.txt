@@ -1,0 +1,143 @@
+Deux ans après sa sortie sur PC, Phoenix Point sort enfin sur consoles avec ses 4 DLC. Ce jeu tactique similaire à XCOM était attendu par les joueurs consoles et ça, Snapshot Games, Prime Matter et Koch Media l’ont bien compris. De plus, le titre possède même un patch next-gen pour la Xbox Series et pour la PlayStation 5. Développé par le papa de XCOM: UFO defense, le jeu a vu le jour suite à une à campagne Kickstarter réussie. Et si le titre a été longtemps critiqué pour ses nombreux bugs et ses graphismes dépassés en 2019, cette nouvelle mouture espère bien rectifier le tir en proposant un jeu de qualité sur consoles. Nous allons voir si c’est le cas avec ce test !
+Un petit retour en arrière :
+Avant de nous lancer dans le test de Phoenix Point, nous allons reparler de XCOM premier du nom. Il s’agit d’une série de commencée par MicroProse en 1994. Le scénario prend pour origine la première invasion alien sur Terre à la fin du XXe siècle. Pour lutter efficacement dans cette guerre peu ordinaire, les Nations unies créent eXtraterrial COMbat unit plus connu sous l’abréviation X-Com. Il s’agit d’une armée spécialisée dans la lutte extra-terrestre. La série suit donc les guerres que mène la X-Com contre les diverses menaces extérieures. Mais pourquoi parler de XCOM alors que le test porte que Phoenix Point ? Comme dit plus haut, le jeu a été développé par le papa de XCOM et les similitudes entre les deux opus sont nombreuses. Phoenix Point se présente plus comme un jeu de stratégie tactique au tour par tour que comme un Tactical RPG. Pour ce qui est du scénario, il ressemble aussi à celui de son prédécesseur. La Terre a été envahie. Des extraterrestres mutants menacent les derniers vestiges de l’humanité. Seul le Projet Phoenix, une organisation secrète réunissant les cerveaux et les soldats les plus courageux de la planète, peut repousser ces extraterrestres et éviter le pire. C’est à vous de diriger le Projet Phoenix : vous rechercherez et construirez de nouvelles technologies et techniques, vous explorerez une planète ravagée, vous gérerez les ressources et vous mènerez des combats difficiles.
+Après une cinématique assez alarmante sur l’avenir de l’humanité, place a un petit tutoriel afin d’apprendre les mécaniques rudimentaires du jeu. Les déplacements sont assez basiques et faciles à prendre en main. Le changement d’unité est lui aussi assez aisé et le déplacement de la caméra se fait de manière instinctif. D’ailleurs pour un jeu console, la prise en main est excellente et n’a rien à envier au PC. Le titre possède de nombreuses fonctionnalités, spécialement conçues pour aider les joueurs et pour ne pas perde un temps fou lors de leur navigation. Il est ainsi possible (d’une simple pression sur un bouton) d’afficher ou de masquer les niveaux inférieurs ou supérieurs et de parcourir rapidement la carte. Tout est fait de manière très fluide ce qui rend l’expérience très agréable. C’est aussi très important sur ce genre de titre.
+Le carnage comme si vous y étiez !
+Si les aliens sont très rapides, il est possible d’étendre son champ de vision ou de se mettre à couvert pour éviter de tomber sous les balles. On est donc sur un jeu au tour par tour et le stress est bien présent quand on assiste impuissant à un guet-apens et qu’on voit notre pauvre petit soldat se faire encercler par l’ennemi sans rien pouvoir faire.Heureusement, vos troupes possèdent une bonne “armure’ qui leur permet d’encaisser les coups ! Pour encore plus de réalisme (et pour augmenter l’immersion), la phase action se fait en vue à la première personne. Il vous faudra donc choisir le bon angle, viser et tirer pour défaire les aliens et remporter le combat. Mais les affrontements ne sont pas l’unique “passe-temps” de Phoenix Point. Vous devrez aussi établir des relations diplomatiques avec chaque faction, tout en repoussant les mutants. Ainsi, vous pouvez choisir d’attaquer telle ou telle fonction afin de li voler ses ressources et de former des alliances avec d’autres pour augmenter votre puissance. L’effet inverse est également possible ! Une faction avec qui vous aviez fait une alliance peut très bien clore le contrat et vous provoquer ! Attention à la gestion de vos troupes !
+Pour éviter ce genre de désagrément, vous pouvez défendre les refuges d’une faction contre les attaques des mutants ou d’une autre faction, ou accomplir des missions spéciales. Cela vous permettra ensuite de faire du commerce, de recruter de nouveaux soldats etc…. Chaque faction dispose de ses propres avantages que vous pourrez par la suite utiliser. Et pendant ce temps, il faudra aussi surveiller les aliens ! Car oui, ils ne vont attendre tranquillement avec un café que vous venez les déloger. Ils vont améliorer leurs bases, gagner en puissance et en taille jusqu’à devenir d’énormes colonies mutantes capables de tout décimer sur leur passage. La brume va s’étendre petit à petit ce qui rendra les points d’intérêt plus dangereux et vous exposera à des attaques plus régulières. Au final, le plus gros point noir du jeu se trouve dans la lenteur de ses chargements. Mais au vu de la qualité du titre est des nombreuses possibilités, cela peut se comprendre. Une fois que le jeu est complètement chargé, celui-ci ne souffre d’aucun ralentissement. De plus, les DLC apportent énormément de contenu supplémentaire ce qui permet a celles et ceux qui connaissent déjà le jeu sur PC de découvrir de nouvelles fonctionnalités sans pour autant perturber l’essence même de Phoenix Point. Pour les autres, nous vous conseillons d’abord de bien apprivoiser le jeu avant d’activer les DLC.
+ARVE Error: src mismatch
+url: https://www.youtube.com/watch?v=DRBlPg8nRuQ
+src in: https://www.youtube.com/embed/DRBlPg8nRuQ?feature=oembed&wmode=opaque
+src gen: https://www.youtube.com/embed/DRBlPg8nRuQActual comparison
+url: https://www.youtube.com/watch?v=DRBlPg8nRuQ
+src in: https://www.youtube.com/embed/DRBlPg8nRuQ?wmode=opaque
+src gen: https://www.youtube.com/embed/DRBlPg8nRuQ
+Conclusion :
+Phoenix Point : Behemoth Edition dispose d’un contenu incroyablement riche, encore plus enrichi par les 4 DLC inclus dans le jeu. Les commandes instinctives n’ont rien à envier aux joueurs PC et le titre dispose d’un potentiel de rejouabilité assez impressionnant surtout si vous prenez le temps d’activer les DLC un par un. Pour ce qui est de la durée de vie, celle-ci est très longue et le titre vous tiendra en haleine pendant des heures et des heures. Au final, les seuls défauts du jeu résident dans la lenteur de ses chargements et dans l’IA des aliens. Ces derniers sont trop passifs et parfois trop prévisibles et se contenteront souvent d’attaquer un refuge de temps à autres pendant que la brume s’étend. Mais nous n’allons pas bouder notre plaisir pour ce jeu de stratégie tactique au tour par tour !
+Phoenix Point: Behemoth Edition
+7
+Note
+7.0/10
+POINTS POSITIFS	
+Le côté tactique
+L'histoire
+Les nombreuses possibilités avec les factions
+La configuration des soldats
+Très intuitif à la manette
+POINTS NÉGATIFS	
+Quelques bugs
+Une IA un peu trop passive
+Les temps de chargements
+Acheter Phoenix Point: Behemoth Edition sur Amazon
+Étiquettes : Koch MediaPhoenix PointPrime MatterSnapshot GamestestXCOM
+DrFamikon
+Amateur de bières et de FPS, grand fan de Pokémon et de Rock !
+Vous aimerez aussi...
+0
+Saints Row The Third Remastered – S’offre un trailer de lancement
+22/05/2020
+par Bomboy
+par Bomboy · Published 22/05/2020
+0
+Dungeons & Dragons Dark Alliance – Le jeu sera disponible sur le Xbox Game Pass dès son lancement
+14/05/2021
+par DrFamikon
+par DrFamikon · Published 14/05/2021
+0
+Trust GXT 970 Morfix – Une souris pour les contrôler tous…
+21/09/2020
+par yancha
+par yancha · Published 21/09/2020
+Laisser un commentaire Annuler la réponse
+Vous devez vous connecter pour publier un commentaire.
+Article suivant TEST – Wasteland 3
+Article précédent Total War: Warhammer III – Pénétrez dans le monde de Tzeentch !
+Se connecter / S'inscrire :
+Identifiant Mot de passe
+Se souvenir de moi
+Inscription
+Se connecter / S'inscrire (réseaux sociaux) :
+Les derniers tests :
+MARSUPILAMI Le Secret du Sarcophage	
+7.3
+Grow : Song of the Evertree	
+8.7
+Pokémon Diamant Étincelant et Pokémon Perle Scintillante	
+7.5
+Pronty: Fishy Adventure	
+8
+Faraday Protocol	
+7.5
+Just Dance 2022	
+7.9
+Les derniers articles :
+Just Dance 2022 – Lorsque Ubisoft s’associe avec Reebok, il en résulte une chanson et un défi Tik Tok
+Atelier Sophie 2 : the Alchemist of the Mysterious Dream – Un nouveau trailer nous présente Alette Claretie
+Call of Duty : Warzone – Une bande annonce pour le lancement de la carte carte Caldera
+Another Eden – Un Crossover avec Chrono Cross annoncé
+Pikmin Bloom – une journée dédiée à la communautée
+Stream en cours :
+Streams partenaires :
+Les derniers commentaires
+Denis BOISSEAU sur Playerunknown’s Battlegrounds – On vous dévoile le contenu de la mise à jour 14.2 04/12/2021
+Bonjour est ce que c'est normal que dur la deathcam on puisse voir la position des joueurs ainsi que les…
+Luclis sur Animal Crossing : New Horizons – Le paradis des nudistes ! 04/12/2021
+Le jeu va passer PEGI 18 à cause de ça x)
+yancha sur Tails Of Iron – Le RPG d’aventure reçoit une importante extension gratuite baptisée Bloody Whiskers 24/11/2021
+Une sacrée bonne nouvelle! Et en plus gratuit??? Si seulement cela pouvait arriver plus souvent...
+Bomboy sur TEST – Forza Horizon 5 17/11/2021
+De mon coté, je regrette certains emplacements des panneaux a détruire ( sur le toit des maisons par exemple) ou…
+Luclis sur The Witcher – La saga revient au format papier ! 16/11/2021
+Je me disais bien que Andrzej Sapkowski n'était surement pas derrière ce libre, mais il me tente quand même pas…
+Soutenir GeekNPlay
+A propos :
+A propos
+Conditions d’utilisation
+Mentions Légales
+Cookies et autres traceurs
+Le staff
+Nos partenaires :
+- Nihotaku
+- Kemati Créations
+- Azazelyne
+- Le donjon du loot
+Ils nous font confiance :
+Bandai/Namco, Capcom, Focus Home Interactive, Gameloft, Just For Games, Koch Média, Microïds, Matriochka, Microsoft, MinuitDouze, Nintendo, Raw Fury, Reset PR, SEGA, SNK, Sony, Square-Enix, Taito, Ubisoft, WarningUp, Sodesco, CD Projekt Red, Warner Bros, Wargaming...
+Pourquoi pas vous ? Contactez-nous !
+GEEKNPLAY © 2021. Tous droits réservés.
+Miam miam des cookies !
+Nous utilisons des cookies sur notre site web pour vous offrir l'expérience la plus pertinente en mémorisant vos préférences et vos visites répétées. En cliquant sur "Accepter", vous consentez à l'utilisation de TOUS les cookies.
+Ne pas vendre ses informations personnelles.
+Paramètres des cookiesAccepter
+Gérer le consentement
+Fermer
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary	
+Necessary
+Toujours activé
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Durée
+Description
+cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional	
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance	
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics	
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement	
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others	
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.

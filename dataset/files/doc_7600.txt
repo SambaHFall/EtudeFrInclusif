@@ -1,0 +1,53 @@
+Développement d’une classification des grands utilisateurs des services d’urgence à partir de données médico administratives | Acfas
+Aller au contenu principal
+Devenir membre
+Communauté
+Devenez membre
+Profils Acfas
+Relève
+Causeries
+Membres émérites
+Acfas régionales
+Événements
+Congrès de l'Acfas
+Forum international Sciences Société
+Gala de l'Acfas
+Journées de la relève en recherche
+Science-moi!
+Vitrine des savoirs
+Formations
+Activités de formation
+RaccourSci
+Publications
+Magazine
+Avis et mémoires
+Cahiers scientifiques
+Bulletins Savoirs
+Prix et concours
+Génies en affaires
+La preuve par l'image
+Ma thèse en 180 secondes
+Prix Acfas
+Vulgarisation de la recherche
+Soutien
+Fonds René-Pomerleau
+Mobilité
+Connexion
+Rechercher
+La communauté Articles du magazine Congrès de l'Acfas
+Donner Devenir membre Connexion Rechercher
+Il y a présentement 0 item dans votre panier d'achat.
+Développement d’une classification des grands utilisateurs des services d’urgence à partir de données médico administratives
+88e Congrès de l'Acfas
+Session d’affiches – Sciences de la santé
+Auteur et co-auteurs
+Yohann Chiu
+Université Laval
+Josiane Courteau, Nicole Dubuc, Marie-France Dubois, Chouinard Maud-Christine, Nicolas Elazhary, Isabelle Dufour, Alain Vanasse et Catherine Hudon
+Centre de recherche du CHUS, Centre de Recherche sur le Vieillissement du CHUS, Université de Sherbrooke, Université du Québec à Chicoutimi, Université de Sherbrooke, Université de Sherbrooke, Université de Sherbrooke, Université de Sherbrooke
+5a. Résumé
+Contexte: Les grands utilisateurs des services d'urgence (≥5 visites/an) sont peu nombreux, mais cumulent un nombre disproportionné de visites. Ils sont souvent caractérisés par des comorbidités physiques et mentales et un faible statut socioéconomique. Établir les différents profils de ces utilisateurs pourrait permettre de nuancer et de mieux comprendre la grande utilisation des services d’urgence.
+Objectif: Construire une classification des grands utilisateurs de l’urgence au Québec.
+Analyses: Les profils sont établis par analyse des classes latentes, modèle statistique qui permet de construire des sous-groupes à partir des variables disponibles. Ces dernières comprennent l'âge, le sexe, le type de régime d'assurance médicaments, la défavorisation sociale, la défavorisation matérielle, le nombre d’hospitalisations et de visites à l’urgence antérieures, les comorbidités en santé physique et mentale (nombre et diagnostic), l’abus d'alcool et l’abus de drogue. La cohorte comprend 451775 utilisateurs adultes.
+Résultats: Les grands utilisateurs (n=12990) présentent 4 profils principaux. En particulier, on retrouve le groupe des jeunes utilisateurs (n=2486), caractérisés par des diagnostics de dépression et d’abus d’alcool et de drogues, et le groupe des utilisateurs âgés (n=3007), caractérisés par plusieurs comorbidités physiques.
+Conclusions: Établir les différents profils des grands utilisateurs permettra de mieux cibler les utilisateurs pour certaines interventions appropriées.

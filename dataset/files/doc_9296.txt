@@ -1,0 +1,60 @@
+Le haut-parleur alimenté PULSE MINI 2i reprend des décennies d'héritage audio hifi et les réunit dans un seul boîtier. Délivrant un son riche et détaillé, le PULSE MINI 2i peut facilement s'intégrer dans des espaces de vie réduits, tout en offrant une expérience de diffusion musicale haute résolution exceptionnelle.
+Une chambre acoustique double innovante permet d'obtenir une performance étonnante et de taille défiante.
+Profitez de basses profondes et d'un son à large bande sans distorsion.
+Le Wi-Fi bi-bande et la prise en charge du Bluetooth aptX HD bidirectionnel garantissent une lecture musicale sans interruption.
+Regroupez deux PULSE MINI 2i pour un couplage stéréo sans faille.
+Conçu pour s'intégrer parfaitement à votre décoration intérieure.
+Contrôler la musique sans fil avec l’intuitif BluOS Application contrôleur pour iOS, Android , Kindle Fire et les ordinateurs de bureau Windows et Mac OS X.
+Contrôlez-le avec la télécommandeBluesound RC1 (en option)
+Connectez-vous Bluesound à votre Amazon Echo grâce à la compétence de l'application Alexa et utilisez les Voix d'Alexa assistant pour contrôler les joueurs dans la maison.
+AirPlay 2 vous permet de lire de la musique ou des podcasts à partir de haut-parleurs sans fil dans toute votre maison - le tout synchronisé.
+Enregistrer ce produit pour plus tard
+Favori
+Favoris	
+Panier	
+Afficher les prix en : MAD
+Bienvenue sur Homesolutions.ma
+Lorsque vous achetez chez Homesolutions.ma, vous bénéficiez d'un conseil personnalisé, d'une offre riche parmi les plus grandes marques, mais aussi de l'assistance à l'installation de votre matériel et d'un service après-vente irréprochable. La satisfaction de nos clients est notre objectif N°1. C'est l'esprit Homesolutions.ma !
+Nous avons fait appel à Homesolutions.ma pour une installation Home-cinéma "clé en main". Le résultat final est tout simplement époustouflant. Bravo pour votre savoir faire et votre professionnalisme !
+Simo B.
+Dar bouaazza
+Adresse
+Appelez nous au :
+0600182182
+0707191246
+Ou Rendez vous directement à notre showroom sur Casablanca
+10, rue Azema et rue Ahmed Al Akrad Local N°5, Oasis, Casablanca 20410
+Get Directions
+Nos horaires
+Lundi - Vendredi
+09h30 - 19h30
+Samedi
+9h30- 13h30
+Dimanche
+Fermé
+Qui est Homesolutions.ma
+Alaa
+Responsable commercial
+Homesolutions.ma est le spécialiste de la vente de matériels hi-fi, home-cinéma, TV et vidéo sur Internet. Que vous souhaitiez acheter une paire d'enceintes, un lecteur, un ampli, un écran ou un vidéo-projecteur, nous saurons vous proposer des produits que nous avons rigoureusement sélectionnés parmi les plus grandes marques pour leur fiabilité et leur excellent rapport qualité/prix.
+Notre Histoire
+· Lancée depuis 2014 de la passion de ses fondateurs pour le son et Homecinema, Homesolutions.ma s’est rapidement positionné comme acteur principale dans le domaine de la sonorisation et du cinéma à la maison.
+Notre Mission
+Notre ambition est d’apporter à nos clients, sur l’ensemble du territoire, des solutions audio et vidéo sur mesure, de qualité, innovantes et adaptées à leur budget, allant du conseil au service après-vente en passant par des installations dans les règles de l’art.
+Nos Valeurs : Passion, Qualité, agilité
+· Passion : Valeur essentielle de Homesolutions, la Passion est notre carburant, elle nous pousse à nous dépasser, à innover, à mettre en cohérence notre engagement et notre mission avec notre amour du son et de la vidéo.
+· Qualité : Notre moteur pour mieux exceller. La Qualité est un pilier de l’activité Homesolutions, et s’applique à chaque niveau de fonctionnement de l’entreprise: de la sélection des produits et des marques au service après vente en passant par les livraisons et les installations de nos solutions. Nous faisons notre possible pour qu’elle se retrouve à tous les niveaux de l’entreprise.
+· Agilité : Notre Levier de performance et de compétitivité: Les clients d’abord. Valoriser les individus et les interactions plutôt que les processus et les outils. Répondre au changement plutôt que de suivre un plan.
+Contactez nous
+0600182182 ou 0707191246
+serviceclient@homesolutions.ma
+www.homesolutions.ma
+Facebook
+Instagram
+YouTube
+WhatsApp https://web.whatsapp.com/
+Viber https://youtu.be/OW7X--0POrM
+Share Tweet Pin
+© HomeSolutions Report abuse
+Powered by
+Connect to the Internet to browse and shop our products.
+'; var bodyDiv = document.querySelector('.body'); var parentDiv = bodyDiv.parentNode; parentDiv.insertBefore(div, bodyDiv); } } window.addEventListener("online", handleNetworkChange); window.addEventListener("offline", handleNetworkChange); handleNetworkChange(); }); }

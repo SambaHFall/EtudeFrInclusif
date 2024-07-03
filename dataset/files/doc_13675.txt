@@ -1,0 +1,15 @@
+Bienvenus; vous pouvez publier autant d'annonces ou messages que vous voudrez, c'est totalement gratuit et illimité, veillez juste a indiquer une information de contact pour que les intéréssés puissent vous contacter
+Vous souhaitez passer une annonce ou bien juste écrire un message ou témoignage de ce qui vous tient a cœur, tout est possible, toutes les annonces et messages seront publiés dans la limite du possible
+Exemples : Achat-vente, Annonces cultureles (spectacles et autres), Recherche de quelque chose, avis de perte et plus
+Sujet - catégorie*
+Texte : annonce - message, autre...
+Informations de contact : lieu - e-mail et/ou téléphone
+Annonce permanente ou limitée dans le temps ?
+Annonce permanente
+Annonce limitée dans le temps
+Debut de l'annonce (laissez vide si l'annoce est permanente)
+Échéance (laissez vide si l'annoce est permanente)
+Mettez une photo avec votre annonce (si vous en avez)
+Votre email
+Code de sécurité :
+Accueil | Photos | Aide - contact | Autre | Tutoriels | Annuaire | Partenaires | Plan général du site

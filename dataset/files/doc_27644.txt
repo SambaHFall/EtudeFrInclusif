@@ -1,0 +1,88 @@
+Vous cherchez un webmaster près de chez vous ? Le webmastering regroupe en réalité un éventail de besoins que nous allons détailler dans cet article.
+Le webmaster est un peu le maître du web et de votre site internet, mais mieux vaut bien définir son besoin avant de démarrer une prestation. Cela permettra au webmaster de vous faire des propositions vraiment adaptées et au prix juste. Vous aurez également raison de prendre un prestataire proche de chez vous car même si le web semble quelque chose de délocalisé (dans le « cloud »), le projet web en revanche nécessite une grande coordination et une grande compréhension entre le commanditaire et le webmaster. Encore une fois, la gestion de projet constitue toujours une part importante du temps et donc du prix d’une prestation web. Mais passons aux détails techniques du métier de webmaster.
+Le webmaster, du généraliste web au spécialiste de l’expérience.
+Le webmaster, à l’origine est simplement celui qui sait concevoir et mettre à jour votre site internet. Mais cette conception est limitée aujourd’hui à cause des différentes spécialités du web qui prennent de l’importance comme c’est le cas du webdesign, de l’UX ou de la SEO. Soyons clairs, vous ne pouvez plus compter sur une vague présence sur le web pour que celui-ci vous aide à développer votre entreprise, votre portefeuille de clients. Votre site doit être une véritable machine de guerre comme expliqué dans cet article. Il vous faudra donc faire appel à un panel de compétences dont voici le détail :
+Le web designer
+Le webdesigner est souvent graphiste à l’origine. Il travaillait avec le webmaster ou le « codeur » pour concevoir un beau site web bien compréhensible. Le webdesigner est souvent devenu webmaster à mesure que les technologies web sont devenues plus accessibles et simples à utiliser. Aujourd’hui son rôle est d’implanter un contenu graphique de qualité sur le site pour vous apporter de la crédibilité ! Tout le monde peut faire un site internet notamment sur des plateformes comme wix… Mais l’œil des utilisateurs est habitué à discerner quel site est trop ancien ou fait sans professionnalisme, et quel site au contraire a nécessité un investissement. Et qui dit investissement dit forcément, infrastructure et sérieux en arrière-plan. L’utilisateur exige finalement un site de qualité pour passer à l’achat.
+D’autre part, le webdesigner est en partie garant de la compréhension de votre offre par les utilisateurs (l’autre partie dépend de l’expert UX). Un site serait difficile à lire sans quelques images et une belle mise en page et pour cause ! Les images, les couleurs et les blancs apportent en eux même une partie du message que vous souhaitez transmettre, il serait dommage de ne pas utiliser ce canal ! Et cela peut aller bien plus loin par exemple dans le concept de gamification appliqué au webdesign : l’idée est de transformer un produit ou une série d’informations en jeu ( souvent à l’image des jeux rétros) pour faciliter leur compréhension pas à pas par les utilisateurs. Mais comme évoqué plus haut, l’agencement des éléments dans une page web nécessite également une réflexion poussée sur la manière dont le visiteur va agir dans la page, c’est ce qu’on appelle l’UX pour « user experience ».
+L’UX Designer
+L’UX designer (parfois UI designer selon les objectifs et les phases du projet … mais restons simples !) a pour mission de faciliter la navigation et la compréhension du site ou de l’interface web par l’utilisateur. Il peut améliorer l’ergonomie et la navigation en travaillant la structure (les menus, les liens…). Il doit aussi améliorer les éléments visuels comme les appels à l’action, les boutons pour faciliter la passage à l’achat. Son travail est primordial pour toutes les plateformes proposant un service (de réservation par exemple) ou les sites e-commerce puisque leur chiffre d’affaire dépend directement de la faculté du site à amener le visiteur à accomplir une action sur une page donnée.
+Le designer d’interface utilisateur peut être à la fois webdesigner et webmaster s’il est bien organisé et expérimenté. Pour accomplir sa mission il s’aide d’une palette d’outils. Les deux plus évidents sont:
+Les statistiques de visite du site pour analyser quels sont les points bloquants pour les visiteurs .
+Les cartes de chaleur pour identifier quels sont les éléments les plus vus et ceux qui ne sont pas pertinents.
+Mais l’UX designer se base surtout sur un ensemble de règles graphiques issues tout simplement des habitudes et du bon sens des utilisateurs. Exemple : Un lien indispensable pour la poursuite d’une action sur le web doit toujours ressortir visuellement du corps de la page.
+Le rédacteur de contenu
+Le webmaster et créateur du site peut évidemment mettre à jour votre contenu. Mais il peut également vous aider à l’écrire. Le contenu du site comme sa forme sert à pousser le visiteur à l’achat (ou au remplissage d’un formulaire de contact). Vous ne pouvez donc pas vous contenter d’un contenu approximatif. Vous avez besoin d’un contenu pertinent, utile et efficace :
+Il doit attirer de nouveaux visiteurs (via les moteurs de recherche ou les réseaux sociaux par l’intérêt qu’il suscite.
+Il doit être compris rapidement des utilisateurs et incitera à passer à l’action.
+Il doit être facilement compris par les robots de Google pour aider au référencement.
+La rédaction de contenu est en réalité assez technique et peut être terriblement efficace pour attirer de nouveaux prospects.
+L’expert SEO (search engine optimisation)
+L’expert Seo est très lié au rédacteur de contenu, car comme expliqué dans cet article, le contenu est le gouvernail qui dirige votre site sur les moteurs de recherche, mais il vous faut surtout une bonne barque. L’expert SEO va se charger de l’optimisation de votre site pour les moteurs de recherche à plusieurs niveaux :
+Il va optimiser le contenu pour le rendre plus lisible pour les robots de Google.
+Passer en revue la structure et les métadonnées.
+Améliorer la vitesse du site.
+Corriger inlassablement les erreurs d’ergonomie, de compatibilité, de mises à jour etc. au fil de l’évolution des moteurs de recherche.
+Il va enfin augmenter l’autorité de votre site (paramètre fondamental pour son positionnement) en générant des backlinks.
+Le référencement naturel est un domaine complexe. L’expert SEO est presque toujours un webmaster ayant pris une spécialité.
+Conclusion sur le métier de webmaster
+Le métier de Webmaster comporte plusieurs spécialités et donc plusieurs étapes dans votre projet web. Nous aurions pu encore parler d’autres spécialités comme le webmarketing qui est très lié. Mais si vous avez lu cet article jusqu’ici, vous avez déjà les bases pour comprendre comment orienter votre projet. Vous partez de zéro dans le web? Vous voulez une refonte de votre site actuel? Vous pouvez estimer sur notre site le prix de votre projet:
+Estimation de mon projet
+Si votre site internet vous satisfait mais vous avez repéré des erreurs, des bugs ou des failles de sécurité, il est possible que celui qui a conçu votre site internet ne fasse pas les mises à jour nécessaires pour anticiper l’évolution des technologies du web ou simplement les correctifs nécessaires à la sécurité. Dans ce cas, vous trouverez ici deux offres qui permettront un suivi efficace de votre site internet:
+Maintenance de votre site
+Prise en main et maintenance de
+votre système par notre équipe
+€	150
+an	
+Mises à jour	
+Correction des bugs	
+Surveillance sécurité et trafic	
+Sauvegardes multi-points	
+1h de webmastering	
+J’en ai besoin
+Intégration Système Heritra
+Prise en main de votre site et intégration de notre système
+€	360
+la première année puis 150€ ensuite.	
+Mises à jour	
+Correction des bugs	
+Surveillance Sécurité et trafic	
+Sauvegardes multi-points	
+1h de webmastering
+Boost de la vitesse de votre site	
+Certificat de sécurité (https)	
+Statistiques	
+Pages accélérées pour les mobiles	
+Aide au référencement naturel	
+J’en ai besoin
+Popular
+Webmastering
+Mise à jour du contenu, intégration de nouvelles fonctionnalités
+€	180
+an	
+6h de webmastering	
+J’en ai besoin
+Ajout et mises à jour de contenus et nouvelles fonctionnalités (hors fonctionnalités lourdes comme le e-commerce ou le multilingue) Les 6h sont décomptées au chronomètre sans limite minimale de temps.
+Partagez cet article !
+Partager sur facebook
+Partager sur twitter
+Partager sur linkedin
+Partager sur telegram
+Partager sur pinterest
+PrécédentPrécédentComment capter des clients avec son site ? Introduction au marketing sur le web.	
+Article suivantSEO ? Comprendre le référencement naturelSuivant	
+Créer un devis
+en ligne
+Articles récents
+Interview de François Gilly par ProntoPro	
+François Gilly, chef de projet et webdesigner d’Heritra a été interrogé par le site Pronto Pro sur le sujet des agences de communication et marketing.
+Lire la suite »	
+11 questions à se poser pour une bonne stratégie digitale.	
+Le digital vous offre de formidables opportunités et donne l’impression que tout est possible. Profiter de cet avantage permet non seulement de se démarquer mais
+Lire la suite »	
+Nos derniers projets
+Campagne de référencement naturel pour le site Sainte Barbe Artifices	
+Webmastering et aide pour prestashop pour le site web 123 Dragées Déco	
+Création d’un annuaire des étudiants sur-mesure pour le site UniLaSalle	
+Création d’un site vitrine pour le groupe scolaire Notre-Dame de Fatima	
+Heritra est une agence de communication digitale spécialisée dans la création de sites internet, le graphisme et le webmarketing. Nous offrons également aux entreprises et lieux culturels des technologies liées à la scénographie et à la médiation. Nous sommes présents à Saumur, Angers et la Roche sur Yon.

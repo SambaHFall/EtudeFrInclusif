@@ -1,0 +1,86 @@
+Les problèmes de l’horizon et de la platitude ont une origine commune. Le problème de l’horizon vient du fait qu’à mesure que le temps passe, l’on a accès à des régions de plus en plus grandes, et contenant de plus en plus de matière. Par exemple, avec une expansion dictée par de la matière ordinaire, un nombre croissant de galaxies est visible au cours du temps. Il est donc surprenant que celles-ci possèdent les mêmes caractéristiques.
+On se rend compte que ce problème pourrait être résolu si on imaginait qu’une certaine information sur l’état de l’univers ait pu se propager extrêmement rapidement tôt dans l’histoire de l’univers. Dans un tel cas, des régions extrêmement distantes les unes des autres pourraient avoir échangé suffisamment d’information pour qu’il soit possible qu’elles soient dans des configurations semblables. La relativité restreinte stipule cependant que rien ne peut se déplacer plus vite que la lumière, aussi paraît-il difficilement imaginable que le processus proposé soit possible.
+Néanmoins, si on suppose que l’expansion de l’univers est très rapide et se fait à taux d’expansion constant, alors on peut contourner la limitation de la relativité restreinte. En effet, dans un tel cas, la distance entre deux régions de l’univers croît exponentiellement au cours du temps, tandis que la taille de l’univers observable reste constante. Une région initialement très petite et homogène va donc avoir la possibilité de prendre une taille démesurée par rapport à la région de l’univers qui est observable. Quand cette phase à taux d’expansion constant s’achève, la région homogène de l’univers dans laquelle on se trouve peut alors être immensément plus grande que celle qui est accessible aux observations. Quand bien même la phase d’expansion classique reprend son cours, il devient naturel d’observer un univers homogène sur des distances de plus en plus grandes, tant que les limites de la région homogène initiale ne sont pas atteintes. Un tel scénario nécessite que l’expansion de l’univers puisse se faire à taux constant, ou plus généralement de façon accélérée (la vitesse à laquelle deux régions distantes s’éloignent doit croître avec le temps). Les équations de Friedmann stipulent que ceci est possible, mais au prix de l’hypothèse qu’une forme de matière atypique existe dans l’univers (elle doit avoir une pression négative).
+Sur le problème de la platitude
+Le problème de la platitude peut se résoudre de façon essentiellement identique. Initialement, le problème vient du fait que le rayon de courbure croît moins vite que la taille de l’univers observable. Or ceci peut ne plus être vrai si la loi qui gouverne l’expansion est différente de celle qui gouverne l’expansion d’un univers empli de matière ordinaire. Si en lieu et place de celle-ci l’on imagine qu’une autre forme de matière aux propriétés atypiques existe (que sa pression soit négative), alors on peut montrer que dans un tel cas, le rayon de courbure va croître plus vite que la taille de l’univers observable. Si une telle phase d’expansion s’est produite dans le passé et a duré suffisamment longtemps, alors il n’est plus surprenant que le rayon de courbure ne soit pas mesurable.
+Sur le problème des monopoles
+Enfin, le problème des monopoles est naturellement résolu avec une phase d’expansion accélérée, car celle-ci a tendance à diluer toute la matière ordinaire de l’univers. Cela amène un nouveau problème : la phase d’expansion accélérée laisse un univers homogène, spatialement plat, sans reliques massives, mais vide de matière. Il faut donc repeupler l’univers avec de la matière ordinaire à l’issue de cette phase d’expansion accélérée.
+Le scénario de l’inflation cosmique, proposé par Alan Guth au début des années 1980 répond à l’ensemble de ces critères. La forme de matière atypique qui cause la phase d’expansion accélérée est ce que l’on appelle un champ scalaire (souvent appelé inflaton dans ce contexte), qui possède toutes les propriétés requises. Il peut être à l’origine du démarrage de cette phase accélérée si certaines conditions favorables génériques se trouvent réunies en un endroit de l’univers. À l’issue de cette phase d’expansion accélérée, c’est le champ scalaire lui-même responsable de cette phase d’expansion qui devient instable et se désintègre en plusieurs étapes en particules du modèle standard au cours d’un ensemble de processus complexes appelés préchauffage et réchauffage.
+Les premiers modèles d’inflation souffraient d’un certain nombre de problèmes techniques, notamment les circonstances qui donnaient lieu au démarrage de la phase d’expansion accélérée et à son arrêt étaient peu satisfaisantes. Les modèles d’inflation plus récents évitent ces écueils, et proposent des scénarios tout à fait plausibles pour décrire une telle phase.
+Sur la formation des grandes structures
+De plus l’inflation possède, comme toute forme de matière, des fluctuations quantiques (résultat du principe d’incertitude d’Heisenberg). Une des conséquences inattendues de l’inflation est que ces fluctuations, initialement de nature quantique, évoluent durant la phase d’expansion accélérée pour devenir des variations classiques ordinaires de densité. Par ailleurs le calcul du spectre de ces fluctuations effectué dans le cadre de la théorie des perturbations cosmologiques montre qu’il suit précisément les contraintes du spectre de Harrison-Zeldovitch.
+Ainsi, l’inflation permet d’expliquer l’apparition de petits écarts à l’homogénéité de l’univers, résolvant du même coup le problème de la formation des structures susmentionné. Ce succès inattendu de l’inflation a immédiatement contribué à en faire un modèle extrêmement attractif, d’autant que le détail des inhomogénéités créées lors de la phase d’inflation peut être confronté aux inhomogénéités existant dans l’univers actuel.
+L’accord remarquable entre des prédictions et les observations, observé par l’étude des données relatives aux fluctuations du fond diffus cosmologique observé entre autres par les satellites COBE et WMAP (et bientôt également par le satellite Planck), ainsi que les catalogues de galaxies comme celui réalisé par la mission SDSS est sans nul doute un des plus grands succès de la cosmologie du XXe siècle.
+Il n’en demeure pas moins vrai que des alternatives à l’inflation ont été proposées malgré les succès indéniables de celle-ci. Parmi ceux-ci, citons le pré Big Bang proposé entre autres par Gabriele Veneziano, et l’univers ekpyrotique. Ces modèles sont globalement considérés comme moins génératiques, moins esthétiques et moins achevés que les modèles d’inflation. Ce sont donc ces derniers qui à l’heure actuelle sont de loin considérés comme les plus réalistes.
+Le modèle standard de la cosmologie
+La construction de ce qui est désormais appelé le modèle standard de la cosmologie est la conséquence logique de l’idée du Big Bang proposée dans la première partie du XXe siècle. Ce modèle standard de la cosmologie, qui tire son nom par analogie avec le modèle standard de la physique des particules, offre une description de l’univers compatible avec l’ensemble des observations de l’univers.
+Il stipule en particuliers les deux points suivants :
+– L’univers observable est issu d’une phase dense et chaude (Big Bang), durant laquelle un mécanisme a permis à la région qui nous est accessible d’être très homogène mais de présenter de petits écarts à l’homogénéité parfaite. Ce mécanisme est probablement une phase de type inflation, quoique d’autres mécanismes aient été proposés.
+– L’univers actuel est empli de plusieurs formes de matières :
+– Les photons, c’est-à-dire les particules représentant toute forme de rayonnement électromagnétique,
+– Les neutrinos,
+– La matière baryonique, qui forme les atomes,
+– Une ou plusieurs formes de matière inconnues en laboratoire mais prédites par la physique des particules appelées matière noire, responsable entre autres de la structure des galaxies, bien plus massives que l’ensemble des étoiles qui les composent,
+– Une forme d’énergie aux propriétés inhabituelles, appelée énergie noire ou constante cosmologique, responsable de l’accélération de l’expansion de l’univers observée aujourd’hui (et probablement sans rapport direct avec l’inflation).
+Un très grand nombre d’observations astronomiques rendent ces ingrédients indispensables pour décrire l’univers que nous connaissons. La recherche en cosmologie vise essentiellement à déterminer l’abondance et les propriétés de ces formes de matière, ainsi qu’à contraindre le scénario d’expansion accélérée de l’univers primordial (ou d’en proposer d’autres). Des ingrédients de ce modèle standard de la cosmologie, trois nécessitent de faire appel à des phénomènes physiques non observés en laboratoire : l’inflation, la matière noire et l’énergie noire. Néanmoins, les indications observationnelles en faveur de l’existence de ces trois phénomènes sont telles qu’il semble extrêmement difficile d’envisager pouvoir éviter d’y faire appel. Il n’existe de fait aucun modèle cosmologique satisfaisant s’affranchissant d’un ou plusieurs de ces ingrédients.
+Quelques idées fausses sur le Big Bang
+Le Big Bang ne se réfère pas à un instant « initial » de l’histoire de l’univers
+Il indique seulement que celui-ci a connu une période dense et chaude. De nombreux modèles cosmologiques décrivent de façons très diverses cette phase dense et chaude. Le statut de cette phase a d’ailleurs été soumis à maints remaniements. Dans un des ses premiers modèles, Georges Lemaître proposait un état initial dont la matière aurait la densité de la matière nucléaire (1015 g/cm3). Georges Lemaître considérait (avec raison) qu’il était difficile de prétendre connaître avec certitude le comportement de la matière à de telles densités, et supposait que c’était la désintégration de ce noyau atomique géant et instable qui avait initié l’expansion (hypothèse de l’atome primitif, voir l’article en question). Auparavant, Lemaître avait en 1931 fait remarquer que la mécanique quantique devait invariablement être invoquée pour décrire les tout premiers instants de l’histoire de l’univers, jetant par-là les bases de la cosmologie quantique, et que les notions de temps et d’espace perdaient probablement leur caractère usuel. Certains modèles d’inflation supposent par exemple un univers éternel, d’autres modèles comme celui du pré Big Bang supposent un état initial peu dense mais en contraction suivi d’une phase de rebond, d’autres modèles encore, basés sur la théorie des cordes, prédisent que l’univers observable n’est qu’un objet appelé « brane » plongé dans un espace à plus de quatre dimensions (le « bulk »), le Big bang et le démarrage de l’expansion étant dus à une collision entre deux branes (univers ekpyrotique). Cependant, c’est lors de cette phase dense et chaude que se forment les particules élémentaires que nous connaissons aujourd’hui, puis, plus tard toutes les structures que l’on observe dans l’univers. Ainsi reste-t-il légitime de dire que l’univers est né du Big Bang, au sens où l’univers tel que nous le connaissons s’est structuré à cette époque.
+Le Big Bang n’est pas une explosion, il ne s’est pas produit « quelque part »
+Le Big Bang ne s’est pas produit en un point d’où aurait été éjectée la matière qui forme aujourd’hui les galaxies, contrairement à ce que son nom suggère et à ce que l’imagerie populaire véhicule souvent. À l’ époque du Big Bang les conditions qui régnaient partout dans l’univers (du moins la région de l’univers observable) étaient identiques. Il est par contre vrai que les éléments de matière s’éloignaient alors très rapidement les uns des autres, du fait de l’expansion de l’univers. Le terme de Big Bang renvoie donc à la violence de ce mouvement d’expansion, mais pas à un lieu privilégié. En particulier il n’y a pas de « centre » du Big Bang ou de direction privilégiée dans laquelle il nous faudrait observer pour le voir. C’est l’observation des régions lointaines de l’univers (quelle que soit leur direction) qui nous permet de voir l’univers tel qu’il était par le passé (car la lumière voyageant à une vitesse finie, elle fait les gens voir des objets lointains tels qu’ils étaient à une époque reculée, leur état actuel étant d’ailleurs inaccessible) et donc de se rapprocher de cette époque. Ce qu’il est donné de voir aujourd’hui n’est pas l’époque du Big Bang lui-même, mais le fond diffus cosmologique, sorte d’écho lumineux de cette phase chaude de l’histoire de l’univers. Ce rayonnement est essentiellement uniforme quelle que soit la direction dans laquelle on l’observe, ce qui indique que le Big Bang s’est produit de façon extrêmement homogène dans les régions qu’il est possible d’observer. La raison pour laquelle il n’est pas possible de voir jusqu’au Big Bang est que l’univers primordial est opaque au rayonnement du fait de sa densité élevée, de même qu’il n’est pas possible de voir directement le centre du Soleil mais que l’on ne peut observer que sa surface.
+Lisez la cinquième partie de cet article
+yogaesoteric
+28 novembre 2018
+0 13,055	
+Share FacebookTwitterGoogle+WhatsAppEmailFacebook MessengerTelegramViber
+Prev Post	
+« Zones interdites », « Zones de non-droit » ou « No-go Zones » européennes : réalité ou fiction?
+Next Post
+Oui, il existe bien sur la Terre une île habitée que personne ne parvient à approcher
+You might also like More from author
+Articles
+La guerre contre l’ADN humain	
+Articles
+Les 15 meilleures répliques de maître Yoda	
+Articles
+Musique : elle déclenche 13 émotions clés	
+Articles
+Ce à quoi renoncer pour voir les fées	
+Prev	Next
+Leave A Reply
+Cancel Reply
+Your email address will not be published.
+Save my name, email, and website in this browser for the next time I comment.
+Δ
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Nouveaux articles	
+Les citations de Mère Teresa	
+La substance meurtrière dans la circulation sanguine : la «…	
+MÉDITATIONS, CONJONCTURES ASTROLOGIQUES ET ÉVÉNEMENTS…	
+Klaus Schwab et sa prise d’otages de masse 2.0 (2)	
+Des robots microscopiques conçus pour nager dans l’œil	
+Le Dr Peter McCullough révèle que les vaccins covid « tuent…	
+Manger par faim ou par plaisir ? La régulation de ces…	
+Prise de poids : 8 causes auxquelles on ne pense pas	
+Médecine chinoise : 5 conseils pour passer l’hiver sans…	
+Les scientifiques identifient 29 planètes où des…	
+Prev	Next 1 of 716
+YOGAESOTERIC - o enciclopedie ezoterică online și portalul celei mai mari Școli de Yoga din Europa.
+Liens recommandés
+MISA Senzaţional TV
+AtributeDumnezeiesti.ro
+Godly Attributes
+Vindecare spirituală
+MISA.yoga
+Yoga Magazin
+Gregorian Bivolaru
+Mișcarea Charismatică Teofanică
+Academia de Yoga online ATMAN
+Sur nous
+Termeni și condiții de utilizare
+Contact
+Sur nous
+Login
+© 2021 - YogaEsoteric. All Rights Reserved.	
+YogaEsoteric	
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More

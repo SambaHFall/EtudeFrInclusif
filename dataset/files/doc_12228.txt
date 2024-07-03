@@ -1,0 +1,230 @@
+Type de recherche Rechercher un jeu de sociétéCherchez un termes dans les actusChercher un membre de Tric TracChercher un sujet de forum...Chercher un message de forumChercher un.e auteur.trice ou illustrateur.triceChercher une société éditrice de jeu
+Rechercher
+×
+Accueil
+Jeux de société
+VENICE
+VENICE
+Aucune catégorie
+Noter :
+Rédiger mon avisMon avis
+De Andrei Novac et Dávid Turczi
+1 à 5
+Joueurs
+14 ans et +
+Alter
+90 min
+Temps de partie
+Ma ludothèque :
+Habe ich
+Möchte ich
+Schon gespielt
+Summary
+Bewertungen
+Nachrichten
+Forum
+Vidéos
+Liens
+Versions & Extensions
+Accueil
+Foren
+Discutons jeux !
+Emplettes de gondoles
+Emplettes de gondoles
+15
+réponses
+3
+followers
+Von : ocelau | Mittwoch, 17. März 2021 um 22:22
+0 to 15 über 15
+ocelau
+Erschienen am 17 März 2021 22:22:44 - Updated at 2 Apr. 2021 13:39:53
+J'avais déjà mis mon avis sur ce jeu qui m'a très agréablement surpris, et comme je vois qu'en fait il n'y a aucun sujet ou présentation ou lieu de discussion pour en parler , je me suis dit qu'il était temps de remédier à ça de manière un peu plus détaillée.
+Présentation
+Venice est un jeu de Turzci (Anachrony, Tekhenu) et Novac (NSKN, Progress, Praetor) de type pick & delivery : on va prendre des ressources d'un lieu pour les acheminer dans un autre dans le but de valider des contrats (ici appelés mission). Jeu de gestion de 20-30 minutes environ par joueur.
+On a un plateau qui représente des canaux de Venise. 12 tuiles lieux y sont réparties au hasard à l'installation. Chacune indique sur chacun de ses côtés 1 pouvoir (donc 4 pouvoirs par tuiles ). Chaque joueur dispose de 2 gondoles, d'assistants et de 2 ponts.
+Matériel
+Vraiment très sympa au niveau du rendu , un peu moins dans la manip. Les tuiles ne sont pas super grandes et les assistants ont tendance à tout masquer. La gondole est un peu encombrante (à bouger avec le gondolier, à "garer" devant un lieu si d'autres sont déjà présents). Gênant au début mais on s'en accommode finalement et il reste le joli rendu général quand même très plaisant.
+Principe du jeu
+A son tour, le joueur change de gondole active en déplaçant son gondolier. Dans l'ordre :
+1) il peut défausser une carte Intrigue pour bénéficier d'un petit effet one shot sympa .
+2) il déplacer sa gondole d'autant de cases qu'il veut mais :
+- le premier déplacement est gratuit, ensuite il faut payer 1 ou 2 pièces suivant le prix indiqué
+- s'il croise (et qu'il ne s'arrête pas , important ) la gondole d'un adversaire, les 2 joueurs gagnent 1 point d'intrigue (et globalement , c'est mal ) ou défaussent un parchemin pour l'éviter.
+3) Pour tous les lieux devant lesquels il passe et où il avait précédemment mis un assistant, le joueur peut activer chaque pouvoir du lieu auquel donnent droit son assistant. Le premier pouvoir est de gagner une ressource (12 bâtiments, 3 ressources, je vous laisse devenir la répartition )
+4) Sur le lieu où il s'arrête, il peut livrer ses ressources (de l'étoffe , de la céramique, de l'argent, bon en vrai on dit du violet, du orange et du gris ) pour valider 1 mission (demande un certain nombre et assortiment de ressources ainsi qu'un lieu de livraison)
+5) Sur ce lieu où il s'est arrêté, s'il n'avait pas d'assistant , il en place un sur le premier effet du lieu (gain d'1 ressource). S'il en avait déjà un il le fait avancer sur le pouvoir suivant. Comme on ne peut être qu'un assistant par case (sauf la dernière), il y a un phénomène de pousse-pousse. Donc quelqu'un qui s'arrête sur un lieu où un adversaire est présent c'est plutôt bien pour lui.
+Next player
+Fin de partie
+Elle est déclenchée soit quand la dernière carte Mission a été prise, soit quand un joueur a atteint le max du grand conseil (c'est un truc sur lequel on peut progresser d'autant plus vite qu'on a d'intrigue par rapport aux autres. L'intrigue ce n'est pas que mal ). Les joueurs ont encore 2 tours pour finir leurs petites affaires
+Le joueur qui a le plus d'intrigue est directement éliminé (autant dire qu'à 2 , il vaut mieux être à 0).
+Aux points gagnés lors de la partie (notamment mission qui apporte PV + argent + pouvoirs permanent). On ajoute le niveau du grand conseil selon le nombre d'assistant placés. Bon et aussi 1 PV par 4 pièces , le genre de truc classique qui fera pas gagner mais peut aider à départager.
+Mouais c'est du pick & delivery quoi ?!
+Oui mais non Les pick & delivery tournent souvent autour des questions de distance/coût de déplacement et temps pour tout parcourir. Ici ce n'est pas trop la problématique, le plateau n'est pas super grand, on peut avancer autant qu'on veut (enfin, faut payer quand même . J'ai dit on peut, pas on doit ). L'intérêt ne va pas forcément être la distance mais plutôt par où on passe. Car au début on a tendance à jouer 1 déplacement = 1 chargement, or ce jeu permet d'enchaîner les effets devant chaque lieu, donc quand on a bien prévu ses assistants, on peut en 1 tour ramasser plusieurs ressources (sans compter les possibilité qu'une gondole à soi prennent au passage les ressource de notre autre gondole) , de quoi peut-être valider direct une mission. C'est ce côté possiblement très nerveux qui est assez grisant .
+Le côté pick&delivery en fait plus on pratique et plus je trouve qu'il passe au second plan. On ne fait pas tant de missions ( 9 missions réparties à 2 joueurs) ce qui éviter le côté répétitif de ce genre de jeu parfois. Et il y a pas mal à faire à côté de ces livraisons notamment dans les cumuls d'effets. Il faut voir ces livraisons comme une trame, réussir à harmoniser une approche statique du plateau (le placement des assistants) avec une approche dynamique (les mouvements des gondoles , leur alternances, les positions des autres gondoles)
+Du combo , du combo !!
+A chaque partie les lieux vont être réparties différemment. Chacun d'eux a globalement une spécialité, l'église permet de réduire l'intrigue , le marché d'échanger ressource/argent, le petit conseil fait augmenter le rang au grand conseil (l'un des 3 lieux fixes du jeu), etc... Donc c'est le genre de jeu où il y aura une première analyse à faire du setting, voir les bâtiments qui peuvent s'enchainer, mais aussi les ressources. En plus de ça, il y a les pouvoirs des missions comme infliger de l'intrigue aux adversaires si on se rend sur un lieu défini.
+Ah et du renouvellement aussi (enfin du renouvellement au sens moderne de la rejouabilité ) : il y a 26 cartes Mission au total, dont (à 2 joueurs) seul 9 seront présélectionnées pour la partie
+Encombrement de gondole
+L'impact des autres est multiple :
+- le côté semi-coop dans l'occupation des lieux où les assistants vont se pousser
+- l'intrigue qu'on va se donner mutuellement en se croisant(j'aime bien ce dilemme agressif :je peux te pourrir mais je mange aussi ). Petit truc vicieux : si on s'arrête , pas d'intrigue par contre chaque joueur déjà présent sur le lieu gagne autant de PV que son "ancienneté" de présence. Intrigue/PV/ aller vite mais ça coûte ... oui on peut comboter mais les canaux sont étroits
+- Et le pont (oui j'ai parlé du pont mais pas encore dit à quoi il sert). C'est une arme à double tranchant : pour soi il éviter de payer le passage où il est , pour les autres il leur fait prendre une intrigue. Je m'en suis essentiellement servi pour le premier rôle et me faire des chemins à pas cher, mais l'autres option est à envisager
+- on peut avoir la tentation de faire son petit réseau de lieux dans son coin avec des assistants au taquet, mais il faut voir qu'il y a des bonus de scores si on a réparti tout/une grande partie des assistants. Pour l'instant, ça me donne un air de béquille pour valoriser la répartition mais faudrait que j'essaie , ça me semble une approche qui peut être sympa et une autre stratégie (plus orientée livraison pure que activation de pouvoirs)
+L'éternité c'est long surtout vers la fin
+C'est un jeu avec une fin variable. Perso j'adore , ça donne toujours une sensation de liberté agréable. Par contre ça a le "défaut" que certains joueurs peuvent avoir du mal à savoir finir. Ce qui peut être d'autant plus tentant qu'en fin de partie on a des pouvoirs sympas qu'on aimerait faire tourner en boucle. 2 manières de finir , pour l'instant l'impression que celui qui clôt en piochant la dernière carte Mission se met en difficulté (les cartes sont payantes et il n'a que 2 tours pour la réaliser s'il veut en profiter). Mais idem jouer la répartition des assistants plutôt que la concentration en combo, je pense que ça s'apprend à se gérer. Bien curieux d'explorer.
+Retour de voyage
+Curieusement c'est un jeu 2 à 5 et la présence de gondoles neutres à 2 joueurs augure que ce n'est pas la meilleure config. Ce que je croyais d'ailleurs . Et en fait ça tourne rudement bien. D'ailleurs pour le moment je n'ai que 3 parties au compteur et toutes à 2 joueurs.
+Du fait de l'encombrement possible du matériel , je suis un peu sceptique à 5 joueurs, mais bon le système de PV pour les joueurs déjà présents doit pas mal dissuader d'aller tous au même endroit au même moment.
+A voir aussi un possible désavantages du premier joueur : si au tout dernier tour il a réduit son intrigue mais, par des effets, les adversaires lui en redonne. Bon il y a moyen en fin de partie de réduire l'intrigue et je pense qu'il faut jouer en fonction. Et puis le premier joueur a un petit avantage de positionnement. A voir
+Curieux de retour s'il y en a qui ont pu jouer.
+Pour ma part, c'est une très agréable surprise. En terme de gabarit c'est du familial+ / expert moins ou poids moyen-lourd tendance 37 kg tout mouillé. Plus sérieusement, niveau règle, j'ai quasi tout dit. L'essentiel des fioritures tient dans les pouvoirs divers, sinon c'est relativement épuré dans son principe. Je dirais similaire à un Troyes, Shakespeare. La seule difficulté pour moi c'est dans la manière d'aborder le jeu et pas dans les règles, que les joueurs savent s'appuyer sur les mécaniques pour se donner du rythme et sache surveiller le jeu pour arrêter la partie (par exemple quand on est bien bas en Intrigue et que les autres sont haut )
+Répondre Quote Nachricht an ocelau Report
+bookick
+Erschienen am 17 März 2021 22:32:59
+Merci beaucoup pour ta présentation de ce jeu. Je ne le connaissais pas du tout. Maintenant j’ai vraiment envie de l’essayer 😄
+C’est parce que le thème de la ville de Venise me plait beaucoup.
+Répondre Quote Nachricht an bookick Report
+ocelau
+Erschienen am 18 März 2021 14:48:33
+bookick dit : Merci beaucoup pour ta présentation de ce jeu. Je ne le connaissais pas du tout. Maintenant j’ai vraiment envie de l’essayer 😄
+C’est parce que le thème de la ville de Venise me plait beaucoup.
+De rien 🙂 . Ce qui est curieux c'est qu'il sort dans la même gamme que Ragusa, et perso je les avais associés, alors qu'ils sont très différents
+Répondre Quote Nachricht an ocelau Report
+Proute
+Erschienen am 18 März 2021 15:20:05
+Il a l'air très joli, en tout cas.
+Dommage que mes journées ne fassent pas 58 heures, mes semaines 20 jours, mes mois 8 semaines, etc.
+et en ce moment je suis spiritomonoislandomaniaque
+Répondre Quote Nachricht an Proute Report
+Benjiir
+Erschienen am 21 März 2021 15:37:02
+Hello !
+je voulais le tenter cet aprèm en solo, mais j'ai une question sur la mise en place : il est précisé page 14 qu'il faut ajouter les jetons A et B des contrebandiers sur les gondoles correspondantes. Mais je ne lis nul part quil faut placer des gondoles neutres, ou qu'il s'agit des gondoles du Doge ?
+Merci de votre aide !
+Répondre Quote Nachricht an Benjiir Report
+ocelau
+Erschienen am 21 März 2021 21:21:15
+Benjiir dit : Hello !
+je voulais le tenter cet aprèm en solo, mais j'ai une question sur la mise en place : il est précisé page 14 qu'il faut ajouter les jetons A et B des contrebandiers sur les gondoles correspondantes. Mais je ne lis nul part quil faut placer des gondoles neutres, ou qu'il s'agit des gondoles du Doge ?
+Merci de votre aide !
+Pas essayé le solo, mais de ce que j'ai compris le doge joue avec 2 couleurs (par exemple jaune et vert) et l'une des couleurs corresponds aux jetons A et l'autre au B.Ca donnerait les 2 jetons A mis sur les 2 gondoles jaunes et les 2 jetons B sur les 2 gondoles vertes. Quand tu pioches dans la pile Contrebandier A tu vas choisir quelle carte et quelle gondole (jaune) tu vas bouger
+Répondre Quote Nachricht an ocelau Report
+ocelau
+Erschienen am 24 März 2021 16:34:43
+Petit up pour un errata : je viens de me rendre compte d'une erreur , j'indiquais "le joueur peut activer 1 fois un pouvoir du lieu parmi ceux auxquels donnent droit son assistant". En fait le joueur peut activer TOUS les pouvoirs devant lequel son assistant est passé. Donc potentiellement 4 pouvoirs, chacun peut être activé ou non (si notamment le pouvoir demande à gagner du prestige). J'aimais bien le côté choix cornélien "prendre juste 1 cube car j'en ai besoin ou activer l'effet puissant" , mais en fait c'est les deux . Du coup je comprends mieux les 20 minutes par joueur évoquées sur la boîte , car du coup on fait plus d'action. Ca doit être aussi plus facilement faisable de finir la partie en prenant la dernière mission tout en ayant de quoi aller la valider (si notamment on passe par le marché pour se gaver de ressources)
+Répondre Quote Nachricht an ocelau Report
+Hades
+Erschienen am 25 März 2021 00:32:23
+La phrase correcte est: L'éternité c'est long surtout vers la fin (Woody Allen me semble-t'il)
+Sinon le jeu me tente bien, juste la lecture des actions sur les cases qui n'est pas terrible quand des pions sont dessus.
+Répondre Quote Nachricht an Hades Report
+ocelau
+Erschienen am 25 März 2021 05:01:09 - Updated at 25 März 2021 05:15:02
+Hades dit : La phrase correcte est: L'éternité c'est long surtout vers la fin (Woody Allen me semble-t'il)
+Sinon le jeu me tente bien, juste la lecture des actions sur les cases qui n'est pas terrible quand des pions sont dessus.
+J'ai rectifié
+la lecture du plateau c'est le bémol que je vois revenir. 2 ou 3 joueurs c'est pareil niveau encombrement, ça m'a gêné un peu au début et en fait ça se fait bien en mettant les pions sur le bord des tuiles lieu et non dessus (il n'y a qu'un endroit sur le plateau où 2 lieux sont suffisamment proches pour que les assistants puissent alors se mélanger. Mais c'est possible de décaler la tuile par rapport à l'endroit inscrit sur le plateau).
+En théorie (pas essayé) 4 ça doit passer. 5 je pense que ça doit être chaud, mais il faudrait voir concrètement, notamment comment les joueurs se répartissent sur la map : il y a 15 lieux au total (12 mobiles en début de partie et 3 fixe) ce qui fait qu'à raison de 2 gondoles par joueur, au max il y a 10 gondoles sur le plateau , donc en moyenne moins d'1 gondole par joueur. Et il n'y a globalement pas trop d'intérêt à s'arrêter là où les autres sont vu qu'ils gagnent des PV suivant l'ordre de tour : par exemple si 4 joueurs s'arrêtaient au même endroit, le premier joueur aurait gagné 1+2+3=6 PV soit en gros l'équivalent d'1 mission.
+Curieux de savoir si certains ont essayé à 4 ou 5 joueurs.
+Répondre Quote Nachricht an ocelau Report
+SwatSh
+Erschienen am 25 März 2021 09:32:20
+ocelau dit : Petit up pour un errata : je viens de me rendre compte d'une erreur , j'indiquais "le joueur peut activer 1 fois un pouvoir du lieu parmi ceux auxquels donnent droit son assistant". En fait le joueur peut activer TOUS les pouvoirs devant lequel son assistant est passé. Donc potentiellement 4 pouvoirs, chacun peut être activé ou non (si notamment le pouvoir demande à gagner du prestige). J'aimais bien le côté choix cornélien "prendre juste 1 cube car j'en ai besoin ou activer l'effet puissant" , mais en fait c'est les deux . Du coup je comprends mieux les 20 minutes par joueur évoquées sur la boîte , car du coup on fait plus d'action. Ca doit être aussi plus facilement faisable de finir la partie en prenant la dernière mission tout en ayant de quoi aller la valider (si notamment on passe par le marché pour se gaver de ressources)
+Oui de fait et tu verras, c'est ce qui fait tout le sel du jeu: te construire un moteur en grimpant sur plusieurs bâtiments et en les activant tous à chaque passage: ça devient très puissant.
+Répondre Quote Nachricht an SwatSh Report
+ocelau
+Erschienen am 25 März 2021 10:27:58
+SwatSh dit :
+ocelau dit : Petit up pour un errata : je viens de me rendre compte d'une erreur , j'indiquais "le joueur peut activer 1 fois un pouvoir du lieu parmi ceux auxquels donnent droit son assistant". En fait le joueur peut activer TOUS les pouvoirs devant lequel son assistant est passé. Donc potentiellement 4 pouvoirs, chacun peut être activé ou non (si notamment le pouvoir demande à gagner du prestige). J'aimais bien le côté choix cornélien "prendre juste 1 cube car j'en ai besoin ou activer l'effet puissant" , mais en fait c'est les deux . Du coup je comprends mieux les 20 minutes par joueur évoquées sur la boîte , car du coup on fait plus d'action. Ca doit être aussi plus facilement faisable de finir la partie en prenant la dernière mission tout en ayant de quoi aller la valider (si notamment on passe par le marché pour se gaver de ressources)
+Oui de fait et tu verras, c'est ce qui fait tout le sel du jeu: te construire un moteur en grimpant sur plusieurs bâtiments et en les activant tous à chaque passage: ça devient très puissant.
+Je faisais bien le combo d'enchainer des bâtiments , mais pas les bonus des bâtiments eux-même (et du coup souvent on se rabattait, un peu frustré sur le gain de juste le cube de ressource).
+Répondre Quote Nachricht an ocelau Report
+sebduj
+Erschienen am 31 März 2021 16:12:45
+Dommage que ce soit ergonomiquement injouable...
+Répondre Quote Nachricht an sebduj Report
+Ecophonie
+Erschienen am 2 Apr. 2021 11:35:50
+Pas encore fait de partie mais je pensais mettre les meeples sur les coins des tuiles, à droite des symboles vu qu'on en a qu'un par segment puis en ligne du coin vers le centre pour la dernière action qui accueillent plus d'un meeple.
+Il est long à venir le test sur vind'jeu
+Répondre Quote Nachricht an Ecophonie Report
+Ecophonie
+Erschienen am 2 Apr. 2021 11:56:35
+ocelau, pourquoi tu ne corriges pas le point 5 de ton post initial?
+Le point 4 a lieu avant le point 3 et dans le point 5, on active le bâtimen au tour même où l'on pose un assistant. Pas besoin d'attendre le prochain.
+En gros ça donnerait ça si je lis bien les règles:
+2) il déplacer sa gondole d'autant de cases qu'il veut mais :
+- le premier déplacement est gratuit, ensuite il faut payer 1 ou 2 pièces suivant le prix indiqué
+- s'il croise (et qu'il ne s'arrête pas , important ) la gondole d'un adversaire, les 2 joueurs gagnent 1 point d'intrigue (et globalement , c'est mal ) ou défaussent un parchemin pour l'éviter.
+-s'il passe par un batiment où il a un assistant mais sans s'y arrêter, il peut activer le pouvoir de la case assistant ainsi que tout les autres pouvoirs inférieurs
+3) Sur le lieu où il s'arrête , il peut livrer ses ressources (de l'étoffe , de la céramique, de l'argent, bon en vrai on dit du violet, du orange et du gris ) pour valider 1 mission
+4) s'il n'avait pas d'assistant , il en place un sur le premier effet du lieu (gain d'1 ressource). S'il en avait déjà un il le fait avancer sur le pouvoir suivant. Comme on ne peut être qu'un assistant par case (sauf la dernière), il y a un phénomène de pousse-pousse. Donc quelqu'un qui s'arrête sur un lieu où un adversaire est présent c'est plutôt bien pour lui.
+5 ) Après la pose ou le déplacement de l'assistant, le bâtiment est activé immédiatement. Pas besoin d'attendre un tour ultérieur.
+Répondre Quote Nachricht an Ecophonie Report
+ocelau
+Erschienen am 2 Apr. 2021 13:52:36
+@Ecophonie
+oui bien vu pour ma présentation, j'ai rectifié . D'ailleurs je n'avais pas (alors que je pensais l'avoir fait) rectifié le fait qu'on active tous les pouvoirs
+@sebduj
+injouable non, on y arrive , mais pénible oui (j'ai il est vrai beaucoup pesté sur ma première partie ce qui m'a d'ailleurs occulté le plaisir du jeu lui-même à trop me focaliser là dessus) surtout qu'il y avait moyen :
+Gondole plus petite en virant la place du gondolier. A la place un simple jeton (à retourner) devant soit indiquant quelle gondole on gère c'était tout aussi bien
+Des meeples moins gros. C'est surtout que c'était moins "Ks appeal" mais par exemple j'ai essayé avec les petits meeples de Ganymède et ça marchait très bien.
+Réorganiser le plateau, il y a quand même pas mal de places vides. Ou un peu l'agrandir (format en 6 pan ça marcherait bien)
+@swatch
+on a rejoué avec la bonne version c'est à dire cumul des effets, et ... ben on a trouvé ça moins bien . Trop d'effet tue l'effet, on était gavé de tout (argent , parchemin). Même l'intrigue n'était pas gênante car on pouvait faire des tours où on en virait plein d'un coup. Lors des derniers tours, on se faisait en gros chacun une boucle de 4-5 lieux où nos assistant étaient quasi au max. Ca coûte un peu en thune, mais comme on reçoit plein de trucs, de l'argent notamment, on s'en foutait. Après ça explique certains trucs comme les 20 min/joueur annoncés, la possibilité de finir la partie en prenant une dernière mission tout en ayant la latitude de la valider.
+A rejouer, peut-être on a avancé avec le rythme d'avant, où on se concentrait pour monter nos assistants sur les lieux. Bon au pire on pourra refaire notre variante involontaire
+Répondre Quote Nachricht an ocelau Report
+On this topic
+Pour répondre à cette discussion vous devez être connecté.
+Sign-in before reply
+Rubriques
+Forums on this game
+All topics on VENICE
+Discutons jeux !
+Rubriques
+All forums
+Sujets chauds
+Nouveaux messages
+Recherche avancée
+Les derniers sujets sur VENICE
+Florence, KS financé avec un plateau plus grand pour Venice, fin le 20 mai!!!
+Emplettes de gondoles
+Forums on this game
+All topics on VENICE
+Discutons jeux !
+Rubriques
+All forums
+Sujets chauds
+Nouveaux messages
+Recherche avancée
+Les derniers sujets sur VENICE
+Florence, KS financé avec un plateau plus grand pour Venice, fin le 20 mai!!!
+Emplettes de gondoles
+×
+Bienvenue sur Tric Trac
+Tric Trac c'est 40 000 membres, 18 000 jeux de société référencés, 160 000 avis de joueurs, 1 800 vidéos d'explications et de parties... 21 ans de partage autour du jeu de société :).
+Créer votre compte
+Participez à la communauté, suivez l’actualité de vos jeux, discutez autour du jeu, suivez vos jeux préférés, créer vos listes, ...
+Découvrir Tric Trac
+Créer un compte
+Über
+Tric Trac
+Le monde du jeu
+Rechtliches
+Legal notice
+Conditions générales d'utilisation
+Regeln des guten Benehmens
+Abonnements
+Services Tric Trac
+Les abonnements Tric Trac
+Aide sur les abonnements
+Données personnelles
+Politique de confidentialité
+Politique Cookies
+Copyright©2021 Flat Prod. All rights reserved. Nachdruck und Übernahme (auch auszugsweise) ohne Erlaubnis verboten.
+×
+Suivez notre newsletter !
+Abonnez-vous à notre newsletter, et restez informé(e) des nouveaux contenus et de l'activité sur le site.
+En cliquant sur « je m'inscris », vous acceptez de recevoir nos lettres d’information et vous confirmez avoir pris connaissance de notre Politique de Confidentialité.
+Vous pourrez facilement vous désinscrire à tout moment à partir d’un lien présent dans chacun de nos messages électroniques. Icons made by xnimrodx from www.flaticon.com

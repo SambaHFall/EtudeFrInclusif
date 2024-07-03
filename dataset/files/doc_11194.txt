@@ -1,0 +1,232 @@
+Ce qui est amusant, c’est qu’il y a quelques mois j’ai eu la démarche exactement inverse : j’ai baissé le niveau de technologie de ma montre.
+Comment votre renard préféré utilise sa montre
+La montre Luch monoaiguille (version Canard PC)
+Verdict à l'usage ?
+Comment votre renard préféré utilise sa montre
+Depuis à peu près que je sais lire l’heure, j’ai une montre – et plus précisément une montre à aiguilles. Une bonne raison à ça : je fais partie de ces gens qui lisent l’heure comme un indicateur de position temporelle. C’est-à-dire que quand je vois le cadran d’une horloge, je sais où je me situe dans le temps, mais si vous me demander une seconde après de vous donner l’heure, je vais relire le cadran et le transcrire en heure (chose que je n’avais pas faite avant).
+Or donc, voilà que ma montre commençait a donner des signes d’usure certains. Me voici à la recherche d’une nouvelle montre, avec le cahier des charges suivant :
+Fonctionnalités indispensables :
+Donne l’heure avec des aiguilles.
+Reste discrète.
+Fonctionnalités facultatives :
+Donne le jour du mois.
+Fonctionnalités inutiles :
+Tout le reste.
+Or donc, voilà que je tombe sur la montre Luch monoaiguille…
+La montre Luch monoaiguille (version Canard PC)
+Une monte monoaiguille, comme son nom l’indique, c’est une montre qui n’a qu’une seule aiguille. Comme une petite aiguille d’une montre normale, mais beaucoup plus longue. Le modèle dont je vais vous parler est fabriqué par l’usine biélorusse Minsk Watch Plant dont c’est à peu près la spécialité.
+Les spécifications sont sont les suivantes :
+Épaisseur : 7,5 mm
+Diamètre (à corne) : 43,6 mm
+Entrecorne : 20 mm
+Poids : 40 g
+Jusqu’ici tout va bien. La suite est un peu plus… surprenante.
+Mouvement : mécanique (à remonter à la main, tous les jours).
+Aiguilles : 1
+Réserve de marche : 38 heures environ1
+Waterproof : non
+Précision : -40 à +85 sec/jour
+Donne l’heure.
+Donne à peu près les minutes, si on est pas trop regardants sur la précision.
+Ne donne ni les secondes, ni le jour du mois, ni rien d’autre.
+Fait boguer à peu près toute personne qui s’y intéresse.
+C’est complètement con quand on y pense, mais au final ça fait le principal : ça donne l’heure – et en y réfléchissant, c’est assez rare d’avoir vraiment besoin de l’heure à moins de 5 minutes de précision, et dans ce cas il y a le smartphone, ou l’écran d’ordinateur.
+Là où ça devient vraiment drôle, c’est que l’entreprise permet très facilement les modèles personnalisés… ce qui a lancé un projet dans la communauté de Canard PC, qui a abouti à peu près au moment où je m’intéressais au remplacement de ma montre.
+Un outil qui fait ce qu’on lui demande et qui pour le reste est parfaitement idiot : pourquoi hésiter ?
+Ce qui peut paraître ridiculement faible, et qui l’est… jusqu’à ce qu’on se rende compte que malgré la taille du boitier, il ne contienne qu’un minuscule mouvement de montre pour dame, et que du coup c’est pas si mauvais. Plus de détails et une photo ici. ↩
+Verdict à l'usage ?
+Eh bien c’était un pari gagnant : je suis très content de ma montre ultra low tech.
+Elle fait parfaitement son job de donner l’heure. S’adapter à la lecture de la seule aiguille m’a demandé moins d’une journée. Je dois corriger l’heure environ tous les mois (un décalage supérieur à 5 minutes dans un sens ou dans l’autre devient flagrant), ce qui est largement en-dessous des bornes indiquées.
+D’autre part, elle ne m’espionne pas, n’a pas de faille de sécurité, ne nécessite aucune mise à jour, et en toute logique devrait résister beaucoup plus longtemps que n’importe quel modèle bourré de microélectronique. Elle affiche l’heure en permanence sans avoir besoin d’allumer un quelconque écran. Elle ne m’emmerde pas avec des notifications qui sont déjà beaucoup trop présentes à travers le smartphone.
+En résumé : elle fait son job et elle ne m’emmerde pas, en plus d’être parfaitement idiote et sacrément cool.
+Et pour une raison que j’ignore, ça me dérange beaucoup moins de passer 10 à 20 secondes par jour à la remonter que de mettre encore un device à charger toutes les nuits.
+En résumé ?
+Une montre monoaiguille, c’est l’outil parfait pour relativiser notre rapport au temps dans une société pressée et ultraconnectée. D’une certaine manière, ça a un côté très reposant.
+Si ça vous intéresse :
+La montre en question sur la boutique de Canard PC, avec des photos.
+L’annonce de la sortie, avec des photos aussi.
+Le projet à l’origine de cette montre.
+Un article sur les Luch en général, avec des photos dont une du modèle ouvert (assez surprenant).
+Un autre article
+Le site officiel (une adresse en .by, je doute que vous en consultiez quotidiennement !)
+GitHub 10-12 : Marty McFly, compter les smartphones, supprimer vos comptes
+Parfois, la science, c'est beau
+18 commentaires
+AmarOk, mercredi 07 juin 2017 à 00h3107/06/17 à 00h31
+Cette réponse a été utile
+aha tu as devancé entwanne
+Par contre les montres mono aiguilles sont plutôt stylée. Moi j’ai une montre d’il y a quelques années achetée dans un Decathlon en France à 20€.
+07/06/17 à 00h31
++2 -0
+NuX, mercredi 07 juin 2017 à 11h4207/06/17 à 11h42
+Cette réponse a été utile
+En plus, elle a une charme rétro fou.
+07/06/17 à 11h42
+Mala malus mala mala dat.
++3 -0
+Eskimon, mercredi 07 juin 2017 à 12h2707/06/17 à 12h27
+Cette réponse a été utile
+Le prix subventionne aussi CanardPC ou c’est 100% le prix d’une telle montre (auquel cas ça parait super cher a l’égard de la compétence technique de la montre non ?)
+07/06/17 à 12h27
+ZdS, le best du Zeste ! | Tuto Arduino, blog, etc
++0 -0
+Renault, mercredi 07 juin 2017 à 12h3307/06/17 à 12h33
+Cette réponse a été utile
+Si ton choix final est rigolo, je ne suis pas convaincu par ton choix. Niveau prix, une mono aiguille n’a pas vraiment de gain. Niveau autonomie / précision non plus.
+Je veux dire, tu peux acheter du double aiguille ou à écran LCD type Casio pour un prix identique, et tu auras la précision (et éventuellement d’autres fonctions) et tu peux avoir une autonomie très longue voire mécanique si tu y tiens.
+Je veux bien qu’en soit la précision tu t’en fiches, tu as le droit, mais bon, abandonner la précision sans aucun gain derrière je ne vois pas vraiment l’intérêt.
+Personnellement je suis un adepte de la montre électronique type Casio avec quelques fonctions de base. Genre chrono, rappel / réveil, date, synchronisation de l’heure et bien sûr waterproof.
+Je n’arrive pas à vivre sans une montre au poignet, j’ai un rapport au temps très particulier (je déteste attendre ou être en retard) et la précision me semble importante à cet égard sinon je ne me sens littéralement pas bien.
+Je n’ai pas toujours mon téléphone sur moi, ou avec l’autonomie nécessaire, et consulter son téléphone régulièrement c’est plus chiant que la montre (notamment en pleine rue). Sans compter que sous la douche, le bain, la piscine ou la mer, j’aime avoir l’heure aussi. Donc le téléphone n’est pas idéal.
+La synchronisation automatique permet de s’affranchir du changement d’heure manuelle, et d’avoir la même heure que la SNCF en permanence sur soi à la seconde près (c’est beau, n’est-ce pas ? :D), la machine bosse pour moi, pas besoin de synchroniser manuellement de temps en temps.
+Le chrono et réveil permettent de s’affranchir du téléphone pour cela, le réveil ça fait une redondance appréciable en cas de soucis (déjà eu le cas d’un téléphone que j’ai oublié de charger le soir et qui n’a pas pu sonner le lendemain matin) et le chrono est plus rapide à mettre en place sur ma montre que sur le téléphone (le temps de saisir le téléphone, déverrouiller, lancer l’application et saisir ça prend du temps).
+Le tout pour 3 ans d’autonomie avec une pile, de quoi voir venir.
+07/06/17 à 12h33
+Amateur de Logiciel Libre et de la distribution GNU/Linux Fedora. #JeSuisArius
++3 -0
+SpaceFox, mercredi 07 juin 2017 à 13h2807/06/17 à 13h28
+Modifié
+Cette réponse a été utile
+Le prix subventionne aussi CanardPC ou c’est 100% le prix d’une telle montre (auquel cas ça parait super cher a l’égard de la compétence technique de la montre non ?)
+Eskimon
+C’est 100 % le prix d’une telle montre. Il ne me paraît pas déconnant dans la mesure où c’est un modèle custom produit en petite série. D’autant plus que les montre mécaniques sont vite très chères, particulièrement des modèles aussi peu communs : on trouve divers exemples ici, et la Luch (standard) est de très loin la moins chère.
+Renault : en fait, toute ta réflexion ne fonctionne pas parce qu’elle se base sur le principe qu’il s’agissait d’un choix optimal… ce qui n’était absolument pas le cas. Posséder une telle montre, c’est un coup de cœur pour un objet parfaitement idiot qui remplit sa fonction à minima, c’est tout Donc, tu ne peux pas être convaincu parce qu’il n’y a aucune conviction à avoir.
+Et d’ailleurs, ni Canard PC, ni même les fabricants de montres de ce type prétendent vendre autre chose qu’un accessoire parfaitement dénué de tout sens pratique.
+07/06/17 à 13h28
+Modifié
+Les textes de SpaceFox & Lisa Refur – Un Renard en Corée – Un renard au Japon – Votre dose quotidienne de renards
++1 -0
+Javier, mercredi 07 juin 2017 à 14h0807/06/17 à 14h08
+Cette réponse a été utile
+Pour être tout à fait honnête, j’ai un peu de mal avec les 3 billets sur les montres connectées.
+Justement à cause de :
+Posséder une telle montre, c’est un coup de cœur pour un objet parfaitement idiot
+Et on peut remplacer "idiot" par "pratique" ou par "sympa", "cool", "trendy", ou peu importe pour les derniers billets.
+Je trouvais les autres billets :
+soit purement factuels : les annuaires de liens de victor par ex.
+soit subjectifs, mais proposant une réflexion, une démarche ("Comment j’ai cassé Python")
+soit orientés, mais très fouillés ("C’est quoi un chimiste")
+soit un peu wtf mais à vocation didactique
+C’est la première série de billets que je trouve vraiment inutile et je trouve dommage l’aspect infantile que ça prend (même si c’est pas voulu hein, j’imagine bien) en répondant à une tribune par une autre tribune, là où finalement, un fil de discussion sur les montres (connectées ou non) sur le forum aurait été bien plus adapté.
+Je sais que c’est le jeu des tribunes. C’est un endroit de libre expression et il faut accepter de lire des articles qu’on juge inutiles, je me serais contenté d’un "je ne trouve pas cette tribune utile" si la fonctionnalité avait existé.
+Mais mon propos était plus de rappeler qu’il existe toujours les forums, et que les billets disposent d’un espace permettant de commenter, répondre, exposer son point de vue.
+Je pense que ça m’aurait moins fait réagir si le titre ne contenait pas "Quant à moi". En fait j’ai un peu peur d’une épidémie de billets "mais moi je", "du coup bah moi nananère".
+Désolé, le billet est sympa en soi mais vraiment, c’est la première fois dans l’histoire des billets que je lis des trucs qui ne m’apprennent véritablement rien (et 2 fois et demi de suite…), c’est pas grave, mais j’sais pas, je trouve ça un petit peu dommage.
+07/06/17 à 14h08
+Happiness is a warm puppy
++3 -2
+SpaceFox, mercredi 07 juin 2017 à 14h1807/06/17 à 14h18
+Modifié
+Cette réponse a été utile
+Cela dit, dans une société où l’on hésite plus à consulter des dizaines d’avis (probablement faux) sur internet pour choisir un bête grille-pain, où tout est « connecté » et mesure moult données, il y a quelque chose de sain et assez bizarrement subversif à se faire plaisir sur un coup de cœur un peu inutile et qui ne trace rien.
+C’était le message sous-jacent de ce billet, pas assez clair semble-t-il.
+Les messages de Renault et de Javier me confortent sur la notion de subversion d’un tel comportement, et je ne sais pas si c’est une bonne chose.
+PS : je note donc qu’il faut qu’un billet soit très explicite.
+07/06/17 à 14h18
+Modifié
+Les textes de SpaceFox & Lisa Refur – Un Renard en Corée – Un renard au Japon – Votre dose quotidienne de renards
++4 -0
+Eskimon, mercredi 07 juin 2017 à 14h3007/06/17 à 14h30
+Cette réponse a été utile
+Mais mon propos était plus de rappeler qu’il existe toujours les forums, et que les billets disposent d’un espace permettant de commenter, répondre, exposer son point de vue.
+C’est marrant, je me suis posé la question de lancer un thread de forum avant décrire a mon tour pour présenter mon expérience Puis je me suis dis, "allez, testons les tribune pour voir si le format apporte quelque chose". Mon verdict : non, un sujet de fofo aurait eu le mérite de regrouper les avis clairement et du coup créer un vrai débat. En revanche, j’aurais jamais pris le temps de composer un message aussi long que mon billet sur le forum (car je sais pas pourquoi, sur le fofo j’aime des réponses synthétiques et brèves).
+07/06/17 à 14h30
+ZdS, le best du Zeste ! | Tuto Arduino, blog, etc
++0 -0
+Javier, mercredi 07 juin 2017 à 14h4607/06/17 à 14h46
+Modifié
+Cette réponse a été utile
+PS : je note donc qu’il faut qu’un billet soit très explicite.
+Il ne faut rien du tout.
+Pour 2 personnes qui ont répondu, il y en a peut-être (EDIT : "certainement") 10 qui ont apprécié lire ton avis. Si j’ai posté, c’était pour savoir si c’était à moi, en tant que lecteur d’accepter cet état de fait, ou si d’autres partageaient ce sentiment.
+Après tu peux en tirer des procès d’intention si tu veux, et effectivement te conforter dans la notion de subversion de ton billet en lien avec la société de consommation.
+Je ne juge certainement pas ton achat, ton choix, ni ton coup de coeur. J’ai donné mon opinion sur le fait qu’on ait 3 billets sur le même thème en très peu de temps. Et surtout des billets très subjectifs sur un choix purement personnel.
+Toi par contre, tu te permets de donner une portée (cf. subversion de comportement et "je ne sais pas si c’est une bonne chose") à mon commentaire qui est très loin de ce que j’ai écrit. Attention à la sur-interprétation.
+07/06/17 à 14h46
+Modifié
+Happiness is a warm puppy
++0 -0
+SpaceFox, mercredi 07 juin 2017 à 15h0107/06/17 à 15h01
+Modifié
+Cette réponse a été utile
+Ça a l’air pourtant de te chagriner de lire des billets qui ne t’apprennent véritablement rien (c’est ce que je comprends de ta dernière phrase au moins).
+Partant de là, ce que je dégage de ton avis (entre autres) c’est bien ce que je disais dans mon message :
+La réflexion sur la low-tech incluse dans le post ne semble pas avoir été comprise → il faut que les billets soient explicites.
+Il semble bien que tu regrettes de lire des billets qui ne t’apprennent rien, et là ça rejoint le reste de la logique du billet.
+C’est sans doute pas très clair mais j’ai pas l’occasion de détailler plus là maintenant.
+07/06/17 à 15h01
+Modifié
+Les textes de SpaceFox & Lisa Refur – Un Renard en Corée – Un renard au Japon – Votre dose quotidienne de renards
++0 -0
+unidan, mercredi 07 juin 2017 à 15h2307/06/17 à 15h23
+Modifié
+Cette réponse a été utile
+Si l’on commence à censurer ou dire ce que doivent ou ne doivent pas être les billets, on ne perdrait pas un peu l’essence même des billets ? C’est à l’auteur de se rendre compte de ce qu’il préfère non ?
+07/06/17 à 15h23
+Modifié
++3 -1
+anonyme, mercredi 07 juin 2017 à 16h2607/06/17 à 16h26
+Modifié
+Cette réponse a été utile
+@Renault Ton message est un peu trop accès sur les fonctionnalités (surtout le 2-3eme paragraphe). Tu oublies l’essentiel : Le coup de cœur.
+On a tous des critères d’achats, mais il y a le petit plus. Le coup de cœur qui nous pousse à l’acte d’achat.
+Je te rejoins sur le fait que je ne comprends pas comment on peut acheter une montre qui se dérègle toute seule et avec aussi peu d’autonomie alors qu’il s’agit d’une montre mono aiguille.
+Pour le coup Javier tu fais ce que tu nous reproches, un sujet sur le forum aurait été plus approprié qu’ici. Heureusement, SpaceFox a beaucoup de recul.
+Pour contre balancer, je trouve ça marrant et très intéressant la façon dont vous avez tourné la chose pour écrire vos réponses et exposer un avis complètement différent sans être dans la contradiction de l’autre. Sur le forum on n’aurait jamais eu un échange de cette qualité comme l’explique Eskimon. Les réponses auraient été sous forme de débat sur la sécurité de Android Wear.
+Certaines tribunes ne m’intéressent pas, car je ne connais pas le domaine ou je ne suis pas l’actualité du domaine. J’ai réagi en faisant ma tribune.
+Tu peux aussi réagir en allant sur le forum et proposer d’ajouter des « catégories de type » : Avis / Opinion / Actualité / Changelog / Apprentissage / etc… En plus des « catégories par thème » et ton problème sera réglé. Et aussi d’aider au développement des filtres/flux RSS.
+Pour réagir au billet :
+SpaceFox: Comment as-tu acheté cette montre ? Je n’ai pas trop compris vers où on doit s’orienter.
+07/06/17 à 16h26
+Modifié
++0 -0
+SpaceFox, mercredi 07 juin 2017 à 17h1507/06/17 à 17h15
+Cette réponse a été utile
+SpaceFox: Comment as-tu acheté cette montre ? Je n’ai pas trop compris vers où on doit s’orienter.
+Pincée d’air
+Ici pour le modèle CanardPC, pour les autres ça a l’air plus compliqué et il faut demander à Internet.
+07/06/17 à 17h15
+Les textes de SpaceFox & Lisa Refur – Un Renard en Corée – Un renard au Japon – Votre dose quotidienne de renards
++0 -0
+Taurre, mercredi 07 juin 2017 à 17h3207/06/17 à 17h32
+Cette réponse a été utile
+Sinon, il y a également les oignons. Entièrement mécanique et avec une durée de vie importante (après, oui, cela ne se met pas au poignet).
+07/06/17 à 17h32
+#JeSuisArius
++0 -0
+Eskimon, mercredi 07 juin 2017 à 19h1407/06/17 à 19h14
+Modifié
+Cette réponse a été utile
+Pour contre balancer, je trouve ça marrant et très intéressant la façon dont vous avez tourné la chose pour écrire vos réponses et exposer un avis complètement différent sans être dans la contradiction de l’autre. Sur le forum on n’aurait jamais eu un échange de cette qualité comme l’explique Eskimon. Les réponses auraient été sous forme de débat sur la sécurité de Android Wear.
+J’ai pas tout à fait dis ça, j’ai dis que moi, personnellement, j’aurais eu la flemme de faire une réponse si complete/longue sur le forum. Mais des tas de gens le font régulièrement ! Je pense que le débat/discussion aurait tout a fait été possible
+07/06/17 à 19h14
+Modifié
+ZdS, le best du Zeste ! | Tuto Arduino, blog, etc
++0 -0
+smith59, mercredi 03 janvier 2018 à 16h0403/01/18 à 16h04
+Modifié par Holosmos
+Cette réponse a été utile
+Pour être tout à fait honnête, j’ai un peu de mal avec les 3 billets sur [les montres connectées].
+Justement à cause de :
+Posséder une telle montre, c’est un coup de cœur pour un objet parfaitement idiot Et on peut remplacer "idiot" par "pratique" ou par "sympa", "cool", "trendy", ou peu importe pour les derniers billets.
+edit [Holosmos - Staff] : publicité supprimée
+03/01/18 à 16h04
+Modifié
++0 -0
+Un ou plusieurs messages ont été masqués
+Banni
+srivastavpratik93, mardi 05 novembre 2019 à 07h4905/11/19 à 07h49
+Cette réponse a été utile
+Masqué par elyppire — Toute forme de publicité est interdite
+05/11/19 à 07h49
+Banni
+montreswiki, samedi 16 mai 2020 à 17h3416/05/20 à 17h34
+Modifié par adri1
+Cette réponse a été utile
+Masqué par adri1 — Spam
+16/05/20 à 17h34
+Modifié
+Connectez-vous pour pouvoir poster un message.
+Connexion
+Pas encore membre ?
+Créez un compte en une minute pour profiter pleinement de toutes les fonctionnalités de Zeste de Savoir. Ici, tout est gratuit et sans publicité.

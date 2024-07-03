@@ -1,0 +1,121 @@
+???? Une boîte à outils de développement sans configuration pour construire des plugins de bloc Gutenberg pour WordPress..
+Un projet FOSS (Free & Open Source Software). Maintenu par AhmadAwais.
+Post date 24 juillet 2020
+Post author By Alexis
+Post categories In Site Web, WordPress
+create-guten-block
+Create-guten-block est un kit de développement permettant de créer des blocs Gutenberg WordPress en quelques minutes sans avoir à configurer React, webpack, ES6/7/8/Next, ESLint, Babel, etc.
+La création de blocs Gutenberg n’est pas comme les autres kits de démarrage ou les « boilerplates ». Il s’agit d’une boîte à outils pour les développeurs, qui est mise à jour en permanence. Comme elle n’a aucune configuration, vous pouvez toujours la mettre à jour sans modifier votre code.
+create-guten-block :
+Versioné
+Mise à jour
+UNE seule dépendance de cgb-scripts
+Une centaine de Plugins WordPress créé avec create-guten-block
+POUR COMMENCER !
+Créons un plugin de bloc WordPress…
+⚡️ Aperçu rapide
+Si vous souhaitez créer un block rapidement – Exécuter les lignes de commande ci-dessous dans le répertoire d’installation local WP, par exemple /wp.local/wp-content/plugins/.
+npx create-guten-block my-block
+cd my-block
+npm start
+(npx est livré avec npm 5.2+ et plus)
+Si vous souhaitez étudier l‘installation en détail, suivez les étapes 1 et 2:
+→ ÉTAPE n° 0 – Vous n’avez pas installé Node.js + npm
+Si vous êtes un débutant absolu dans le monde de Node.js, JavaScript, et les paquets npm – tout ce que vous devez faire est d’aller sur le site de Node: télécharger et installer Node sur votre système. Cela permettra d’installer à la fois Node.js et npm, c’est-à-dire le gestionnaire de paquets de Node – l’interface en ligne de commande de Node.js.
+Vous pouvez vérifier l’installation en ouvrant votre terminal et en tapant…
+node -v
+# Results into v9.1.0 — make sure you have Node >= 8 installed.
+npm -v
+# Results into 5.6.0 — make sure you have npm >= 5.3 installed.
+→ ÉTAPE 1
+Il vous suffit d’exécuter la commande suivante et cela créera un plugin Bloack de WordPress. Pour ce faire, il suffit d’installer et d’exécuter la commande create-guten-block et de lui donner un nom unique pour le plugin WordPress qui sera créé.
+⚠️ Assurez-vous d’exécuter cette commande dans le dossier plugins de votre installation locale de WordPress, c’est-à-dire le dossier /local_dev_site.tld/wp-content/plugins/, car cette commande produira un plugin WordPress que vous pourrez activer en vous rendant sur le site de WP Admin ▶︎ Plugins à activer.
+npx create-guten-block my-block
+L’installation prendra quelques minutes.
+Vous devrez avoir Node >= 8 et npm >= 5.3 sur votre machine (mais ce n’est pas nécessaire sur le serveur). Vous pouvez utiliser nvm (macOS/Linux) ou nvm-windows pour changer facilement de version de Node entre différents projets.
+Cela créera un répertoire appelé my-block à l’intérieur du dossier courant. À l’intérieur de ce répertoire, il générera la structure initiale du projet et installera les dépendances transitives :
+INSIDE : /local_dev_site.tld/wp-content/plugins/mon-bloc
+├── .gitignore
+ ├── plugin.php
+ ├── package.json
+ ├── readme.md
+ |
+ ├── dist
+ | ├── blocks.build.js
+ | ├── blocks.editor.build.css
+ | └── blocks.style.build.css
+ |
+ └── src
+    ├── block
+    | ├── block.js
+    | ├── editor.scss
+    | └── style.scss
+    |
+    ├── blocks.js
+    ├── common.scss
+    └── init.php
+Pas de configuration ou de structures de dossiers compliquées, juste les fichiers dont vous avez besoin pour construire votre application.
+→ ÉTAPE N° 2
+Une fois l’installation terminée, vous pouvez ouvrir votre dossier de projet et lancer le script de démarrage:
+ cd my-block
+ npm start
+Vous pouvez également utiliser yarn start si vous préférez.
+Cela fait fonctionner le plugin en mode développement. Pour produire du code de production, lancez npm run build. Vous verrez les messages de compilation, les erreurs et les avertissements dans la console.
+Et juste comme ça, vous construisez votre prochain plugin WordPress avec Gutenberg, React.js, ES 6/7/8/Next, transposé avec Babel, qui a également des configurations ESLint pour que votre éditeur de code les récupère et les utilise automatiquement.
+Il n’y a que trois scripts que vous pouvez utiliser dans votre flux de travail create-guten-block. Avec ces trois scripts, vous pouvez développer, construire et éjecter votre plugin.
+???? npm start
+Permet de compiler et d’exécuter le bloc en mode développement.
+Surveille les changements et signale toute erreur dans votre code.
+???? npm run build
+Permet de créer un code de production pour votre bloc dans le dossier dist.
+S’exécute une fois et indique la taille des fichiers gzip du code produit.
+???? npm run eject
+Permet d’éjecter votre plugin de create-guten-block.
+Fournit toutes les configurations afin que vous puissiez personnaliser le projet comme vous le souhaitez.
+Normalement, vous ne devez pas éjecter un projet car en l’éjectant, vous perdez la connexion avec create-guten-block et à partir de là, vous devez mettre à jour et maintenir toutes les dépendances vous-même.
+Qu’est-ce qui est inclus ?
+Votre environnement disposera de tout ce dont vous avez besoin pour construire un plugin WordPress Gutenberg moderne de nouvelle génération :
+Prise en charge de la syntaxe React, JSX et ES6.
+Le processus de développement et de construction de webpack en coulisse.
+Des extras de langage au-delà de l’ES6 comme l’opérateur de diffusion d’objets.
+Auto-prefixed CSS, donc vous n’avez pas besoin de -webkit ou d’autres préfixes.
+Un script de construction pour combiner JS, CSS et images pour la production avec des cartes sources.
+Mises à jour sans problème des outils ci-dessus avec un seul script cgb dépendant cgb-scripts.
+Version Rapide d’installation
+Ouvrez l’application du terminal et exécutez les commandes suivantes.
+???? Install/Create : npx create-guten-block my-block – Exécution dans le répertoire local d’installation WP, par exemple /wp.local/wp-content/plugins/.
+???? Parcourir : cd my-block – Ouvrir le répertoire des plugins nouvellement créés.
+♻️ Run : npm start – Pour le développement.
+???? Run : npm run build – Pour la production.
+⏏ Run : npm run eject – Pour personnaliser, mettre à jour et maintenir.
+Mise à jour vers les nouvelles versions
+Create Guten Block est divisé en deux paquets :
+create-guten-block est un utilitaire en ligne de commande que vous utilisez pour créer de nouveaux plugins WP Gutenberg.
+cgb-scripts est une dépendance de développement dans les projets de plugins générés.
+Vous n’avez jamais besoin de mettre à jour create-guten-block car il est exécuté via npx et il délègue toute la configuration à cgb-scripts.
+Lorsque vous exécutez create-guten-block, il crée toujours le projet avec la dernière version cgb-scripts, de sorte que vous obtenez automatiquement toutes les nouvelles fonctionnalités et améliorations des plugins nouvellement créés.
+Pour mettre à jour un projet existant avec une nouvelle version de cgb-scripts, ouvrez le changelog, trouvez la version sur laquelle vous êtes actuellement (vérifiez package.json dans le dossier de votre plugin si vous n’êtes pas sûr), et appliquez les instructions de migration pour les versions plus récentes.
+Dans la plupart des cas, il suffit de lancer la version cgb-scripts dans package.json et d’exécuter npm install dans ce dossier, mais il est bon de consulter le changelog pour connaître les éventuelles modifications de rupture.
+Nous nous engageons à maintenir les modifications de rupture au minimum afin que vous puissiez mettre à jour cgb-scripts sans douleur.
+A propos d'Alexis
+Dans le web depuis plus 5 ans, je me suis d'abord spécialisé en webmarketing pour ensuite m'investir dans la création de sites web vitrine, sites/boutiques e-commerce et applications web/plateforme web. J'ai ainsi la double compétence qui me permet d'être force de proposition pour la création de votre site marchand et la mise en place de votre stratégie de vente en ligne.
+Post date 24 juillet 2020
+Post author By Alexis
+Post categories In Site Web, WordPress
+Navigation de l’article
+←Previous post:Mise en place de votre premier flux de produits Google Shopping
+→Next post:L’internationalisation de votre thème WordPress
+Laisser un commentaire Annuler la réponse
+Commentaire
+Nom *
+E-mail *
+Site web
+Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.
+Related Posts
+Les meilleurs moyens de paiement Shopify
+Vous ne savez pas quels moyens de paiement choisir pour votre boutique Shopify et lesquels sont disponibles en France. Il est effet difficile de trouver un prestataire de…
+Post date 31 mai 2021
+Post author By Alexis
+Post categories In E-commerce, Shopify, Site Web
+GUTENBERG OU PAGE BUILDERS ?
+J’ai décidé d’écrire cet article car la question s’est imposée à moi avec l’arrivée du nouvel éditeur de WordPress: Gutenberg. Choisir entre Gutenberg ou Page Builders peut s’avérer…

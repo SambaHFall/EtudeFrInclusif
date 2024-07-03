@@ -1,0 +1,75 @@
+Publication de la version définitive des lignes directrices relatives au ciblage publicitaire en ligne
+En France
+Fin de la période de tolérance de la CNIL pour procéder aux analyses d’impact relatives à la protection des données (AIPD)
+En Allemagne
+Ordonnance de l’autorité de protection des données de Hambourg : interdiction de traitement ultérieur des données des utilisateurs de WhatsApp par Facebook
+En Europe
+Publication de la version définitive des lignes directrices relatives au ciblage publicitaire en ligne
+Les réseaux sociaux sont de plus en plus utilisés par les entreprises pour cibler les internautes à des fins publicitaires. Le 13 avril 2021, le Comité européen de la protection des données (CEPD) a publié la version définitive des lignes directrices 08/2020 concernant le ciblage des utilisateurs de réseaux sociaux (disponible ici en version anglaise).
+Ce texte prend acte de la jurisprudence de la CJUE en la matière, en particulier :
+de l’affaire Wirtschaftsakademie1, dans laquelle la CJUE a considéré que l’administrateur d’une page « fan » sur Facebook peut être qualifié de responsable de traitement en ce qu’il participe à la détermination des finalités et des moyens du traitement des données personnelles, notamment en définissant des paramètres permettant de produire différentes statistiques basées sur les visites de la page, qui seront utilisées ultérieurement par Facebook, les deux agissant ainsi en tant que responsables de traitement conjoints ;
+de l’affaire Fashion ID2, dans laquelle la CJUE a considéré que l’exploitant d’un site internet peut être qualifié de responsable du traitement lorsqu’il intègre un plugin social Facebook (par exemple, un bouton « like ») sur son site, qui permet de transmettre des données personnelles à l’exploitant du réseau social, les deux agissant de nouveau en tant que responsables de traitement conjoints.
+Le CEPD étend cette qualification de co-responsables de traitement à la plupart des opérations de traitement résultant de l’usage par des opérateurs économiques des services publicitaires proposés par les réseaux sociaux, notamment de ciblage publicitaire – à l’exception notable des opérations de data matching, pour lesquelles chacun des acteurs agit en qualité de responsable de traitement indépendant.
+En substance, la justification de cette qualification réside dans le fait que la société utilisatrice des services publicitaires participe à la définition des :
+finalités du traitement, en décidant d’engager une campagne publicitaire ;
+moyens du traitement, en décidant de recourir aux services publicitaires des réseaux sociaux et, surtout, en participant à sélectionner la cible de l’audience à l’aide de la palette d’outils et de paramètres proposés par ces services.
+La qualification de co-responsables de traitement est toutefois limitée à l’opération ou à l’ensemble d’opérations dont l’opérateur détermine effectivement les finalités et les moyens.
+Nos recommandations
+En pratique, en application du RGPD, tout opérateur recourant aux services publicitaires des réseaux sociaux devra à chaque fois qu’une situation de co-traitance apparaît, signer un contrat de responsabilité conjointe avec la plateforme en question, contenant notamment les modalités :
+de communication des informations obligatoires des articles 13 et 14 du RGPD aux personnes concernées ;
+d’exercice des droits des personnes concernées ; et
+le point de contact désigné par les parties, le cas échéant.
+Si celui-ci est bien souvent inclus dans les conditions générales d’utilisation ou de confidentialité de la plateforme, il est important de s’assurer que l’ensemble des mentions obligatoires y figurent et que le partage des rôles et responsabilités est opéré de façon équilibrée, de sorte que l’entreprise ayant recours aux services de marketing numérique puisse valablement s’acquitter de ses obligations en tant que responsable de traitement.
+De manière générale, il est recommandé aux entreprises de vérifier l’ensemble de la documentation contractuelle fournie lorsqu’elles ont recours à des prestations de marketing ou d’analyse d’audience utilisant des réseaux sociaux, qu’elles soient effectuées directement auprès des réseaux sociaux ou par l’intermédiaire d’acteurs spécialisés (data brokers, adtech, régies publicitaires, etc…).
+.
+En France
+Fin de la période de tolérance de la CNIL pour procéder aux analyses d’impact relatives à la protection des données (AIPD)
+L’entrée en vigueur du RGPD le 25 mai 2018 a mis un terme aux exigences de déclaration préalable auprès des autorités de contrôle, pour les remplacer par une obligation générale de documentation des traitements de données personnelles mis en place.
+En particulier, les traitements les plus sensibles doivent depuis faire l’objet d’une analyse d’impact relative à la protection des données (AIPD) afin de d’analyser les risques pesant sur les personnes concernées et les mesures mises en place par le responsable de traitement pour les limiter.
+Afin de laisser un temps suffisant aux responsables de traitement pour se mettre en conformité avec l’exigence de réaliser une AIPD, la CNIL avait accordé un moratoire de 3 ans à compter de l’entrée en vigueur du RGPD. A compter du 25 mai 2021, toutes les entreprises devront avoir effectué une AIPD pour les traitements à risque qu’elles mettent en place dans le cadre de leurs activités.
+Les traitements sont considérés comme à risque de par leur volume, leur nature (ex : données de santé) ou lorsqu’ils utilisent certaines technologies innovantes (profilage, croisement de données, scoring, etc…).
+La CNIL a d’ores et déjà publié deux listes énumérant les cas dans lesquels une AIPD est systématiquement requise et, à l’inverse, ceux dans lesquels une AIPD n’est, en principe, pas requise :
+parmi les traitements pour lesquels une AIPD est systématiquement requise (liste disponible ici), on retrouve les « traitements ayant pour finalité de surveiller de manière constante l’activité des employés concernés», les « traitements ayant pour finalité la gestion des alertes et des signalements en matière professionnelle » ou encore les « traitements de données de localisation à large échelle » ;
+parmi les traitements pour lesquels une AIPD n’est pas requise (liste disponible ici), on retrouve les « traitements de gestion de la relation fournisseurs», les « traitements mis en œuvre par les avocats dans le cadre de l’exercice de leur profession à titre individuel », ou encore les « traitements, mis en œuvre uniquement à des fins de ressources humaines (…) des organismes qui emploient moins de 250 personnes, à l’exception du recours au profilage ».
+.
+En Allemagne
+Ordonnance de l’autorité de protection des données de Hambourg : interdiction de traitement ultérieur des données des utilisateurs de WhatsApp par Facebook
+Le commissaire de Hambourg pour la protection des données et la liberté d’information (Hamburgische Beauftragte für Datenschutz und Informationsfreiheit ou HmbBfDI) a indiqué, dans un communiqué en date du 11 avril 2021, avoir émis une ordonnance d’interdiction d’une durée de trois mois concernant les traitements réalisés par Facebook Ireland Ltd. à partir de données personnelles collectées par WhatsApp, entreprise appartenant au même groupe.
+L’ordonnance fait suite à la demande formulée auprès des utilisateurs de WhatsApp d’accepter les nouvelles conditions générales d’utilisation et de confidentialité avant le 15 mai 2021, qui accordent notamment à WhatsApp des facultés étendues de partage des données avec Facebook pouvant concerner, entre autres, des données de géolocalisation et de communication des utilisateurs.
+L’autorité de contrôle de Hambourg considère la base juridique des nouveaux partages insuffisante et l’information fournie aux utilisateurs inintelligible. En outre, le consentement ne serait pas donné librement, dans la mesure où celui-ci est nécessaire pour continuer à utiliser les fonctionnalités du service.
+Facebook a indiqué ne pas tenir compte de l’ordonnance d’interdiction et avoir formé un recours contre celle-ci. Le Comité européen de la protection des données devra rendre une décision contraignante d’urgence dans les semaines à venir.
+Nous y reviendrons.
+.
+N’hésitez pas à vous abonner à notre newsletter protection des données personnes en cliquant ici !
+.
+CJUE, Wirtschaftsakademie, 5 juin 2018, C-210/16, ECLI:EU:C:2018:388 [↩]
+CJUE, Fashion ID, 29 juillet 2019, C-40/17, ECLI:EU:C:2019:629 [↩]
+Navigation
+Présentation
+Nos compétences
+Corporate
+Concurrence, distribution, consommation
+Risques industriels et assurances
+Propriété intellectuelle
+Droit social
+Droit de l’immobilier et de l’environnement
+Notre expertise franco-allemande
+Nos actualités
+Contact
+hw&h
+Hertslet Wolfer & Heintz
+Avocats & Rechtsanwälte
+39, rue Pergolèse 75116 Paris
+Téléphone : +33 (0) 1 45 01 29 35
+Fax : +33 (0) 1 45 01 64 47
+E-mail : hwh@hwh-avocats.com
+Données personnelles
+Cookies
+© 2021 - HW&H
+Légal
+Mentions légales
+Plan du site
+Conseil Avocom
+Conception et réalisation Nineteen Groupe
+Ce site web utilise des cookies.
+Certains sont utilisés à des fins statistiques. Ces derniers ne sont déposés qu’avec votre consentement. Vous trouverez des informations complémentaires relatives aux cookies et à la gestion de votre consentement en cliquant sur « En savoir plus sur les cookies ». Vous pouvez également consulter notre Politique de confidentialité en cliquant i

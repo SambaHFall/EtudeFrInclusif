@@ -1,0 +1,39 @@
+eToro est une plateforme à multi-actifs offrant à la fois des investissements en actions et en crypto-actifs, ainsi que le trading d’actifs sous forme de CFD.
+Veuillez noter que les CFD sont des instruments complexes et présentent un risque élevé de perte rapide de fonds en raison de leur effet de levier. 75 % des comptes de traders particuliers perdent des fonds lorsqu’ils tradent des CFD avec ce fournisseur. Vous devriez vous demander si vous comprenez bien comment les CFD fonctionnent et si vous pouvez vous permettre de prendre le risque important de perdre votre argent.
+Les performances passées ne sont pas une indication des résultats futurs.
+Les crypto-actifss sont susceptibles de subir d’importantes fluctuations de prix et ne sont donc pas appropriées pour tous les investisseurs. Le trading de crypto-monnaies n’est supervisé par aucun cadre réglementaire européen.
+Il y a toujours une correlation entre rendement élevé et risque élevé.
+forex.fr ou toute personne ayant un rapport avec forex.fr n’acceptera aucune responsabilité pour toute perte liée à la spéculation ou tout préjudice lié à la confiance sur les informations contenues sur ce site y compris les données, les cotations, les graphiques et les signaux d’achat et de vente. Veuillez être pleinement informés sur les risques et les coûts liés à la spéculation sur les marchés financiers, c’est l’une des formes de placement les plus risqué.
+Laissez un commentaire!
+Search
+A propos
+Forex.fr est un site d’information sur le marchee des changes. Le contenu n’est pas pas une recommandation d’investissement.
+Facebook
+Twitter
+Youtube
+Medium
+Articles recents
+VELO/USDT – Petit shitcoin, grand R/R par paulalainleger	
+Read More »	
+cakeusdt par maximetrading690	
+Read More »	
+BNB : Objectif $819 ! par Le_Boa	
+Read More »	
+Marchés financiers par TradingView
+Inscrivez-vous a notre newsletter
+Email
+Send
+En vous inscrivant vous acceptez notre politique de confidentialite.
+Pas de spam, pas de courrier indesirable
+{{ commentData.author.name }} {{ commentData.date.human_diff }}
+{{ options.labels.replyButton }}
+{{ options.labels.cancelButtonLabel }}
+{{ options.labels.submitReplyButton }}
+{{ responseMessage }}
+{{ options.labels.cancelButtonLabel }}
+{{ options.labels.submitReviewButton }}
+{{ messageText }}
+{{ itemData.author.name }} {{ itemData.date.human_diff }}
+{{ itemData.like }}
+{{ itemData.dislike }}
+{{ `${ options.labels.showCommentsButton }(${ itemCommentsCount })` }} {{ `${ options.labels.hideCommentsButton }(${ itemCommentsCount })` }}

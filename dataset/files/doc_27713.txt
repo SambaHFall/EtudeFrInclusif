@@ -1,0 +1,16 @@
+Copiez/collez ce lien pour l'envoyer par email, l'inclure dans une page web ou le partager sur les réseaux sociaux.
+Légende :
+Mario Ricchiuto, directeur de recherche et responsable de l’équipe-projet Inria CARDAMOM ; sur son ordinateur, une vue de la côte japonaise : simulation du mouvement des vagues lors d'un tsunami.
+CARDAMOM (Certified Adaptive discRete moDels for robust simulAtions of coMplex flOws with Moving fronts) : des EDP (équations différentielles partielles) aux modèles informatiques certifiés. L'équipe étudie notamment la mécanique des fluides. Pour cela, il faut établir des modèles complexes permettant de décrire, et donc d'anticiper, l'écoulement de fluides en fonction de multiples paramètres. Le tout en faisant en sorte que ces modèles s'avèrent non seulement fiables mais aussi utilisables en temps réel. A partir de maillages, ils réalisent des schémas numériques qui vont permettre la simulation de phénomènes physiques.
+Référence :
+Inria-0323-639.JPG
+Référence :
+Inria-0323-639.JPG
+Mention obligatoire :
+© Inria / Photo M. Magnin
+Année :
+2020
+Titre :
+Mario Ricchiuto
+Mots clés :
+APPLICATIONS - APPLICATIONS-OLD - CARDAMOM - Chercheur - CONTEXTE INSTITUTIONNEL - D - Modélisation, simulation et analyse numérique - D - Synthèse d'image et réalité virtuelle - DOMAINES SCIENTIFIQUES-OLD - EQUIPES-PROJETS - Homme - IMAGE - Matériel informatique - Mécanique des fluides - Modélisation, simulation et contrôle - Objets - Océanographie - P.C. portable - Personnes - Plante - RECHERCHES - Sciences de l'environnement - Simulation - SYSTEMES COGNITIFS - SYSTEMES NUMERIQUES - Terminal mobile

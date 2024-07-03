@@ -1,0 +1,29 @@
+Vous devrez me croire quand je dirai que j'ai essayé tous les ROMs stables construites pour HTC One X jusqu'à la date. Je me souviens encore, la première ROM que j'ai flashée était de LeeDroid et faisait mon chemin à travers de nombreuses ROM personnalisées, je peux enfin dire que viperX de Team Venom (anciennement Pokémon d'équipe) est le meilleur ROM pour One X jusqu'à ce jour. (Si vous n'êtes pas un geek Android et que tous ces termes vous semblent étrangers, n'hésitez pas à ignorer ce post)
+Vous devez penser à ce qui en fait le meilleur. Voici donc une liste des fonctionnalités les plus étonnantes et exclusives que vous obtiendrez dans Venom ROM.
+Quelques bonnes choses sur viperX ROM
+Effectuer OTA
+Contrairement aux autres ROM qui nécessitent que vous téléchargiez et flashez les fichiers de mise à jour manuellement chaque fois que le développeur déploie une version mise à niveau, avec viperX ROM, vous pouvez installer la mise à jour par liaison radio (OTA). Croyez-moi, c'est la fonctionnalité la plus cool déjà. Sélectionnez simplement la mise à jour logicielle dans le système Android Paramètres—> À propos du téléphone et mettez à jour votre ROM à l'aide d'un câble Wi-Fi ou USB.
+Une fois que le téléphone a téléchargé la ROM, il démarre automatiquement lors de la récupération, clignote la ROM et redémarre. Pas besoin de même sauvegarder les applications.
+Venom Tweaks
+Comme la plupart des autres ROM HTC One X, Venom a également modifié le panneau de commande pour personnaliser l'interface utilisateur de Sense 4 selon vos besoins, comme désactiver le menu à trois points, en masquant les boutons de navigation du clavier, etc. Mais dans Venom, vous pouvez également créer des profils de réglages et les enregistrer.
+C'est comme création de profils sonores, mais ici, vous pouvez personnaliser un ensemble de réglages et les appliquer en lot selon vos besoins.
+Personnaliser les thèmes et les icônes
+Avec les thèmes Venom, vous pouvez facilement personnaliser l'apparence de votre One X. Vous pouvez parcourir directement les thèmes et les packs d'icônes des développeurs directement depuis votre téléphone, les installer et les appliquer sans vous ruiner.
+Durée de vie de la batterie prête à l'emploi
+Dernier point mais non le moindre, la ROM est parfaite avec la batterie de votre appareil. Après avoir calibré la ROM, vous remarquerez un autonomie prolongée de la batterie ce qui est l'une des principales préoccupations de presque tous les utilisateurs d'Android.
+Voyons donc comment nous pouvons flasher la ROM.
+Liste de contrôle
+Assurez-vous que votre téléphone est chargé à au moins 70%.
+Assurez-vous que votre téléphone chargeur de démarrage déverrouillé et exécute le dernière version officielle de ClockworkMod Recovery.
+Faites une sauvegarde complète de votre téléphone (je préfère Go Backup)
+Fichiers Fastboot devrait être présent sur votre système
+Flasher la ROM
+Étape 1:Télécharger viperX ROM version de base et faire une somme de contrôle MD5. Ouvrez la ROM archivée pour faire glisser et extraire le fichier boot.img dans le dossier qui contient les fichiers Fastboot.
+Étape 2: Cela fait, transférez le fichier zip ROM sur votre carte SD interne One X et redémarrez en récupération.
+Étape 3: Dans la récupération, accédez à Installer la mise à jour depuis la carte SD -> Sélectionner le zip depuis la carte SD et flasher la ROM viperX. Ne vous inquiétez pas du formatage de votre système, le programme d'installation Aroma s'en chargera.
+Étape 4: Dans le programme d'installation Aroma, sélectionnez les mods et applications que vous souhaitez installer et désinstaller dans la ROM. Après avoir flashé la ROM, redémarrez dans le chargeur de démarrage du téléphone en appuyant sur le bouton de réduction du volume avec le bouton d'alimentation.
+Étape 5: Connectez maintenant le téléphone à l'aide du câble de données et ouvrez le dossier dans lequel vous avez copié le fichier boot.img. Maintenez Shift et faites un clic droit dans le dossier pour sélectionner Ouvrez la fenêtre de commande ici dans le menu contextuel.
+Étape 6: Dans l'invite de commandes, saisissez Fastboot flash boot boot.img et appuyez sur entrée pour flasher le fichier.
+Après avoir vu le message de réussite sur votre invite de commande, redémarrez votre téléphone.
+Conclusion
+C’est tout, vous pouvez maintenant profiter de cette ROM et explorer tous les réglages et thèmes qui l’accompagnent. N'oubliez pas de rechercher une mise à jour OTA après l'installation de la ROM.

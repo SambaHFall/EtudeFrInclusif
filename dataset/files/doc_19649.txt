@@ -1,0 +1,68 @@
+Article original publié le 20 juin 2018 pour Ombelliscience sur la plateforme Échosciences Hauts-de-France.
+Avec l’arrivée des beaux jours, les sorties en pleine nature se multiplient. Or c’est précisément à ce moment que les tiques sévissent en forêt comme dans les jardins publics et les prairies. En elle-même, la piqûre ne pose pas vraiment problème, mais elle est susceptible de transmettre différentes pathologies, dont la fameuse maladie de Lyme.
+Même si on parle de plus en plus de cette maladie infectieuse, elle n’est pas bien connue des citoyens et fait par ailleurs l’objet de controverses médiatisées impliquant professionnels de santé, chercheurs, autorités sanitaires et associations de malades. Cet article a pour but de faire le point sur l’état actuel des connaissances, alors que la Haute autorité de santé vient de publier ses nouvelles recommandations sur la maladie de Lyme.
+La maladie de Lyme, en bref
+Bactéries Borrelia burgdorferi, avec leur forme typique en spirale.
+Son nom provient du lieu où les premiers cas de cette maladie ont été reconnus en 1975, aux environs de la ville de Lyme aux États-Unis. Les vecteurs de cette maladie sont les tiques (appartenant au groupe des acariens, cousins des araignées et scorpions) et plus spécifiquement les tiques du genre Ixodes. Se nourrissant du sang de certains animaux à plusieurs reprises au cours de leur vie, la tique peut transmettre bactéries, virus et parasites d’un animal infecté à un autre. Concernant la maladie de Lyme, plusieurs souches de bactéries du genre Borrelia sont impliquées (d’où le nom borréliose de Lyme). Ces bactéries se retrouvent chez les rongeurs, qui en sont les réservoirs naturels.
+L’érythème migrant dans sa forme typique. Photo par Hannah Garrison CC BY-SA 2.5
+L’infection par Borrelia à la suite d’une piqûre de tique cause des symptômes très divers après une période d’incubation très variable, allant de quelques jours à quelques semaines. Typique de la borréliose de Lyme, mais non systématique, l’érythème migrant est une manifestation cutanée inflammatoire. Dans la phase suivante, de multiples érythèmes migrants peuvent apparaître, avec la dissémination des bactéries hors du site de piqûre. L’apparition d’anticorps permet alors d’effectuer des examens sérologiques (ELISA et Western-Blot) pour compléter le diagnostic en cas d’incertitude sur le plan clinique. Les symptômes les plus gênants sont généralement évités si le patient reçoit un traitement antibiotique adapté assez rapidement. Non traitée, la maladie de Lyme peut en revanche devenir invalidante en entraînant douleurs sévères et problèmes persistants au niveau du système nerveux, des articulations ou du cœur.
+Une maladie en progression ?
+Ces dernières années, l’incidence estimée de la maladie a augmenté d’après Santé Publique France (84 cas pour 100 000 habitants en 2016). Si augmentation il y a, est-ce donc qu’il y a plus de tiques qu’avant ?
+En rouge, présence constatée de Ixodes ricinus (Oct 2017). Source
+Sur cette question, les spécialistes ne sont pas catégoriques, car on ne dispose pas de mesure standardisée permettant d’évaluer l’abondance de tiques. Toutefois, la surface forestière ainsi que les populations de gibier (notamment les chevreuils) sont en hausse en France, ce qui favorise en principe le développement des tiques. En parallèle, il semble que leur période d’activité (printemps-automne) s’étende, possiblement en lien avec le changement climatique.
+L’influence d’un climat plus chaud sur la distribution des tiques est l’un des sujets sur lesquels travaille Pedro Poli, doctorant au laboratoire Edysan de l’Université Picardie Jules Verne. Il étudie l’espèce Ixodes ricinus, la plus répandue en Europe et principal vecteur de la maladie de Lyme. « La tique est un organisme assez tolérant, capable de s’abriter dans les forêts de régions très différentes », rappelle Pedro Poli. Ses recherches consistent à faire des projections de la distribution géographique d’Ixodes ricinus dans un climat qui change. La particularité de son approche est de prendre en compte la diversité génétique au sein de l’espèce, ce qui suppose d’analyser le génome de tiques dans toute l’Europe. Globalement, on s’attend à ce que le territoire des tiques s’étende à mesure que le climat se réchauffe. « On dispose déjà d’observations cohérentes avec cette hypothèse », souligne Pedro Poli.
+En conclusion, des éléments suggèrent que les tiques seront plus nombreuses, sur des zones plus étendues et actives plus longtemps dans l’année. Il y a donc de bonnes raisons de penser que les populations seront davantage exposées à la maladie de Lyme à l’avenir. Il est aussi probable que l’amélioration de la sensibilisation des professionnels de santé et des patients contribue à l’augmentation du nombre de diagnostics, dans le cadre d’une médiatisation accrue et du Plan national de lutte contre la maladie de Lyme lancé en 2016.
+Controverse sur l’existence d’une forme chronique
+Quand on s’intéresse à la maladie de Lyme, il est difficile de passer à côté des controverses dont elle fait l’objet. Celles-ci impliquent notamment les associations de malades militant pour une meilleure reconnaissance. Ici, la situation est singulière en ce que les revendications sont également d’ordre scientifique. Largement importée des États-Unis, la controverse porte surtout sur le protocole diagnostique et l’existence d’une forme chronique de la maladie.
+Certains patients ayant reçu un traitement antibiotique rapportent des symptômes persistants (douleur, fatigue…), ce qui est décrit aux États-Unis comme le « syndrome post-Lyme ». Plusieurs pistes explicatives existent, mais une minorité de praticiens spéculent que la bactérie Borrelia ayant survécu aux antibiotiques serait en cause. Si la persistance d’une infection n’a jamais pu être prouvée chez les patients, les partisans l’expliquent en invoquant la sensibilité imparfaite des tests biologiques. Ils s’appuient par ailleurs sur desétudes (critiquées) ayant montré des signes de persistance de Borrelia chez l’animal après traitement. Ainsi, le diagnostic non-reconnu de « maladie de Lyme chronique » est parfois posé, y compris chez des patients sans preuve biologique d’infection à la Borrelia, voire sans exposition probable à une piqûre de tique.
+Convaincus que les symptômes sont liés à la présence des bactéries, les médecins diagnostiquant la forme chronique recommandent généralement des traitements antibiotiques prolongés (plusieurs mois, voire années). Or, ceux-ci n’ont pas démontré leur efficacité au cours des études cliniques, et présentent des risques significatifs. C’est entre autres ce qui explique que la « maladie de Lyme chronique » n’est globalement pas reconnue par la communauté scientifique et médicale, comme l’illustrent le rapport du Haut Conseil de la Santé Publique, la position de la Société de pathologie infectieuse de langue française ou encore la déclaration ferme de l’Académie de médecine. Cet avis est partagé par les institutions sanitaires et sociétés savantes ailleurs en Europe et aux États-Unis.
+Comme la « maladie de Lyme chronique » est définie de manière relativement floue par des symptômes non-spécifiques, de nombreux patients en errance diagnostique pourront se reconnaître dans ces symptômes et accueilleront favorablement le diagnostic comme une reconnaissance de leur souffrance par le corps médical. Cela est favorisé par la surreprésentation des thèses minoritaires sur la forme chronique dans les médias, tandis que de nombreuses fausses informations circulent sur internet, notamment au sujet de méthodes diagnostiques ou de traitements non validés. Plusieurs causes peuvent expliquer les symptômes persistants observés chez les patients ayant contracté une maladie de Lyme : activité auto-immune post-infection, nouvelle piqûre, infection par d’autres pathogènes des tiques, autre pathologie non diagnostiquée… Pour les nombreux patients dans ce dernier cas, il existe un risque de retard de prise en charge s’ils sont traités pour une « maladie de Lyme chronique » alors qu’ils sont en réalité atteints d’une autre pathologie.
+Conclusion
+Les controverses sur la maladie de Lyme sont d’actualité, et loin d’être terminées. Le nouveau protocole diagnostic et de soin tout juste publié par la Haute autorité de santé est issu d’un processus impliquant les associations de malades. Suite à d’intenses discussions, les recommandations incluent la mention d’un(e) « symptomatologie/syndrome persistant(e) polymorphe après une possible piqûre de tique » (abrévié SPPT), permettant de caractériser l’état de patients avec des souffrances persistantes, tout en introduisant davantage de souplesse dans la prise en charge. Certains aspects de ces recommandations semblent être le fruit d’un compromis qui apparemment ne satisfait pleinement ni les partisans ni les détracteurs de l’existence d’une forme chronique de la maladie.
+Il existe toutefois des points sur lesquels tout le monde s’accorde : la prévention et l’information des citoyens et des professionnels de santé sur la maladie de Lyme est cruciale, afin d’éviter les piqûres et les pathologies associées, et d’améliorer la diagnostic et la prise en charge des patients. La poursuite de la recherche sur tous les aspects de la maladie de Lyme fait également l’unanimité. Sur ce point, mentionnons que plusieurs équipes de recherche travaillent sur un vaccin contre la maladie.
+Partager :
+Tweet
+WhatsApp
+WordPress:
+J'aime chargement…
+Santé
+Théo
+Read Next →
+Santé	
+Alcool : « Pour protéger la santé publique, il faut agir comme avec le tabac »
+Santé	
+Résistance aux antibiotiques : « une des plus graves menaces pesant sur la santé mondiale »
+Agriculture	
+Désaccord entre Justice et scientifiques de l’UE sur les contours de la notion « OGM »
+3 Comments	
+Add Comment →
+gladys moinard
+c’est certain que des mesures de prévention sont vraiment à prendre car ce risque est souvent sous-estimé , notamment par les forestiers, c’est reconnu comme une maladie professionnelle : http://www.officiel-prevention.com/formation/fiches-metier/detail_dossier_CHSCT.php?rub=89&ssrub=206&dossid=244
+14 octobre 2020
+Reply
+Briand
+Merci pour cette chronique éclairante et complète. Les patients en souffrance cherchent des réponses décisives à leurs difficultés. Crédules, ils adhèrent logiquement sans recul aux propositions qui leurs donnent de l’espoir…
+1 juillet 2019
+Reply
+Francis
+Je suis atteint par la maladie de Lyme depuis 12 ans, dont 10 d’errances et je n’en vois toujours pas le bout. Ce n’est pas pour décrire mon parcours que je me manifeste, mais pour souligner son origine. Je vis à la campagne, mes parents, grand-parents, toute ma famille n’a jamais souffert d’une morsure de tique, pour deux raisons.
+Il y avait peu de tiques autrefois, ce n’est que ces 30 dernières années qu’elles n’ont cessé de se reproduire. Pourquoi? A cause des cervidés qui prolifèrent énormément, ce sont de vrais nurserys. Toutes les régions fortement contaminées sont envahies par ces animaux. Vous n’imaginez pas le nombre de tiques qui peuvent s’y installer pour se reproduire. Ce sont plusieurs dizaines sur chaque animal. Demandez à un chasseur…
+Autrefois le risque de maladie se limitait à la piroplasmose, la même infection que pour un animal. Maintenant, c’est tout autre, les bactéries sont multiples avec possibilité de muter sans compter les co-infections….un vrai casse-tête. Pourquoi? Ce n’est pas dû au réchauffement, ou à la faute à pas de chance. Cette CRÉATION de nouvelles bactéries qui ne rendent pas malades les animaux transporteurs mais uniquement les humains, nous viennent des USA. Sur une île au nord de NY, se trouvait un centre militaire de recherche bactériologique. Après la guerre, ils ont pris des chercheurs nazis allemands qui étaient à la pointe en matière de bactériologie pour continuer les recherches,et qu’ils ont relâché en 1954. Sur le continuant, face à cette île (l’île aux Prunes), se trouve comme par hasard la ville de Old-Lyme, où a débuté cette contamination. Pour en suite donner le nom de la ville à cette maladie. L’autre chose très troublante, c’est qu’en Europe, le premier foyer déclaré se situait en Allemagne, n’y avait-il pas une occupation de l’armée américaine?????????? Bonne chance à vous.
+11 octobre 2018
+Reply
+Laisser un commentaire	Annuler la réponse.
+Rechercher sur le site
+Search
+Rejoignez-nous sur Facebook !
+Rejoignez-nous sur Facebook !
+Blog membre du Café des sciences
+Catégories
+Agriculture
+Conférences
+Énergie
+Environnement
+Esprit critique
+Psycho
+Santé
+Abonnez-vous à ce blog par e-mail.
+Saisissez votre adresse e-mail pour vous abonner à ce blog et recevoir une notification de chaque nouvel article par e-mail.

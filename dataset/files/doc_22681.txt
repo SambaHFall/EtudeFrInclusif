@@ -1,0 +1,96 @@
+Un titre un peu fort, quoi que. Le mot est pourtant faible. La nouvelle fonctionnalité de recherche Facebook Graph Search est disponible sur les profils en langue anglaise. Ce système se trouve au croisement entre les amalgames, les clichés et l'absence de vie privée :
+[dailymotion x11x8kz_facebook-graph-search-explique-en-patates_tech nolink]
+Cette vidéo explicative provient de Martin Vidberg, que l'on reconnaît très facilement au coup de crayon sur ses chouettes dessins.
+A défaut de ne pas utiliser Facebook, merci de vérifier vos paramètres de confidentialité. Il y en a tellement que vous en découvrirez de nouveaux 🙂
+Source
+Juil 13 2012
+[5 ans] Samsung Galaxy Tab 2 (7.0) 8go WiFi by Qoqa
+Le blog 23 réactions »
+(1 vote(s), 5,00/ 5)
+Loading...
+Voici le 14 ème et dernier lot dans le cadre de l’anniversaire du blog (lien du tirage au sort en fin de billet).
+A gagner : une tablette Galaxy Tab 2 (7.0) 8go WiFi » Lire la suite
+Fév 05 2010
+Nokia Symbian OS est maintenant open source
+Mobilité 3 réactions »
+(1 vote(s), 4,00/ 5)
+Loading...
+Grosse actualité décidément pour Nokia en ce moment. Après avoir annoncé la gratuité du système de navigation GPS OVI Carte, Nokia libère Symbian.
+Hier Jeudi 4 Février Nokia annonce la publication du code source du système Symbian, majoritairement utilisé sur les téléphones Nokia avec un total de 330 millions de terminaux l'utilisant dans le monde. Tout le code source est maintenant librement téléchargeable. » Lire la suite
+Août 05 2009
+SpotifiTunes : vos playlists iTunes dans Spotify
+Internet 5 réactions »
+(Votez !)
+Loading...
+SpotifiTunes est un outil vous permettant de récupérer vos liste de lecteures iTunes sur Spotify.
+» Lire la suite
+Oct 16 2008
+Un DNS public performant facile à retenir
+Système 2 réactions »
+(2 vote(s), 4,00/ 5)
+Loading...
+Après vous avoir fait découvrir OpenDNS, je vous propose aujourd'hui de découvrir des DNS publiques un peu particuliers, ils se retiennent très facilement.
+La plage de DNS publiques utilisable est 4.2.2.1-4.2.2.6, reste à choisir votre préféré :
+4.2.2.1
+4.2.2.2
+4.2.2.3
+4.2.2.4 (le plus performant chez moi)
+4.2.2.5
+4.2.2.6
+Facile non ? Pas trop dur à retenir avec 4 chiffres dont 2 de différents seulement pour certaines adresses 😉 » Lire la suite
+Oct 09 2008
+Ouvrir un exécutable avec Firefox sans l’enregistrer
+Système 5 réactions »
+(1 vote(s), 5,00/ 5)
+Loading...
+[MàJ 19/01/2014] L'extension ne fonctionne plus avec Firefox >= 3.5, mais OpenDownload² a vu le jour et fonctionne avec toute version de Firefox
+Ne trouvez-vous pas embêtant de devoir télécharger un exécutable (.exe) pour pouvoir le lancer, et enfin le supprimer ?
+En effet, si vous avez l'habitude d'installer des logiciels vous êtes forcés de télécharger l'installation complète, soit au format .exe, soit au format .msi par exemple.
+Par mesure de sécurité Firefox ne vous propose pas de l'ouvrir directement, seulement de l'enregistrer.
+Pour moi c'est une perte de temps non négligeable, d'autant plus que le navigateur Opéra le propose nativement. Mais comme j'aime bien le navigateur au panda roux, je vous propose d'installer l'extension OpenDownload qui pallie à ce petit désagrément, en ajoutant un bouton "Run" lorsque vous télécharger un exécutable :
+Télécharger OpenDownload²
+Juil 26 2008
+OpenDNS : DNS publiques ouverts à tous
+Système 9 réactions »
+(2 vote(s), 3,50/ 5)
+Loading...
+But : utiliser des DNS plus rapides et stables que ceux de votre FAI
+Pas plus tard qu'hier soir, tous les frontaux DNS de Free étaient inaccessibles... naviguer via les adresses IP n'est pas très facile et ne fonctionne pas sur tous les sites (à cause des vhost).
+Je vous propose de placer 2 serveurs DNS publiques accessibles par tous (sans aucune restriction), dont la résolution est très performante : » Lire la suite
+Blog indépendant
+Et sans publicité depuis 2007.
+Tutos, décryptage, analyse et reviews.
+Qui suis-je ?
+Blogs Amis
+Blog NT
+iooner
+Tous les autres
+Tech2Tech
+IT-Connect
+Cachem
+Minimachines
+Suivre @xhark
+Catégories
+Développement (134)
+Batch et VBScript (13)
+Javascript et Css (23)
+PHP (My)SQL (46)
+Powershell (10)
+Do It Yourself (112)
+3D (12)
+Feedback (125)
+Graphisme (25)
+Internet (1 000)
+Divertissement (178)
+Sécurité (92)
+Twitter (17)
+Le blog (237)
+Mobilité (110)
+Musicmotion (33)
+Pratique (90)
+Psp (4)
+Système (504)
+Virtualisation (8)
+xbox (7)
+Thématiques
+accès application blog carte clé code connexion disque distance donnée données débit email erreur fichier free google gratuit hadopi image Internet linux mobile Musique navigateur partage recherche réseau script serveur service site smartphone social Système Sécurité télécharger usb version vidéo vitesse web wifi windows wordpress

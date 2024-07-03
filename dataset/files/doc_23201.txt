@@ -1,0 +1,25 @@
+Enregistrer votre recherche et créer une alerte. Vous serez parmi les premiers informés dès qu'un bien correspondant à vos critères est publié sur nexity.fr
+Enregistrer ma recherche et créer mon alerte
+Appartement à vendre à Paris
+Vous êtes à la recherche d’un appartement à vendre sur Paris ? Du plan de financement à la signature du compromis de vente, les conseillers Nexity vous offrent leur expertise pour trouver la pépite qui correspond à vos attentes. Établissez votre budget en fonction du prix au m2 de votre périmètre de sélection, découvrez les financements possibles et lancez-vous dans la recherche de votre prochain logement dans la capitale !
+Acheter un appartement à Paris : des prix variables
+Première étape pour trouver l’appartement parisien à vendre de vos rêves : définir la localisation de votre futur bien immobilier. D’un arrondissement de Paris à l’autre, parfois même à une rue près, les prix au m2 varient fortement et doivent donc être pris en compte lors de vos recherches. Dans les quartiers de la Chapelle, de la Goutte d’or, de Bercy ou encore de la Villette, le m2 d’un appartement ancien se situe autour de 7000 €. Aux alentours de Montparnasse, de La Madeleine ou de l’Ecole Militaire, il dépasse les 10 000 €*.
+Vous souhaitez connaître votre pouvoir d’achat immobilier pour un appartement à vendre à Paris ? Découvrez notre simulateur en ligne.
+Financement d’un achat d’appartement à Paris : quelles pistes ?
+Des dispositifs publics d’aide à la primo-accession vous permettent de bénéficier de prêts à taux avantageux. C’est notamment le cas du Prêt à Taux Zéro (PTZ). Ce dernier peut financer jusqu’à 40 % de votre projet d’achat d’appartement à Paris, et ce, sans frais de dossier ni intérêts. Cette aide de l’État peut d’ailleurs faire office d’apport personnel et consolider ainsi votre dossier auprès de votre banquier.
+Vous ne cherchez pas à vous loger, mais plutôt à vous lancer dans l’aventure de l’investissement locatif et vous cherchez un appartement à vendre sur la capitale ? Acheter un appartement à Paris vous réserve alors plusieurs opportunités de défiscalisation. Le dispositif Malraux si vous optez pour le charme d’un appartement haussmannien à réhabiliter (situé dans certaines zones classées), ou le dispositif loi Pinel si vous faites l’acquisition d’un appartement neuf à Paris. Pour en savoir plus, appuyez-vous sur les conseils personnalisés des experts Nexity.
+* Source : Chambre des Notaires de Paris (4ème trimestre 2017)
+Autour de votre recherche
+A découvrir, les annonces immobilières des villes du département Paris : Paris 19, Paris 20, Paris 4, Paris 1, Paris 6, Paris 11, Paris 9, Paris 13, Paris 15, Paris 16.
+Mentions légales
+Conditions générales
+Devenir partenaire
+Centre d'aide
+Gestion des cookies
+Immobilier
+Achat-vente bien immobilier
+Achat-vente Appartement
+Achat-vente Appartement Île-de-France
+Achat-vente Appartement Paris (75)
+{{/partenaire}} x{{{nb_photos}}}
+{{#is_programme}} {{#etiquette}} {{#neuf}} {{{etiquette}}} {{/neuf}} {{/etiquette}} {{/is_programme}}

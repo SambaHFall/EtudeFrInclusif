@@ -1,0 +1,73 @@
+d’engagement du territoire. Voir le programme SEMAINE THÉMATIQUE Les rdv 1,2,3...Familles Dans le cadre de la journée internationale
+des personnes handicapées, l’Usine à Chapeaux
+vous invite à la représentation du spectacle
+« Le Tiroir à Bonheurs » d’après le témoignage
+d’Awa Camara. Théâtre - Débat En savoir + Vendredi 3 décembre SOIRÉE Vendredi 3 décembre POUR TOUTES ET TOUS 20H30 - 00H00 JEUX VIDÉO à la ludothèque Renseignements et inscriptions : ludotheque@usineachapeaux.fr 01 30 88 89 62 SOirée jeux Samedi 4 décembre 18h30 - 21h00 de société FAMILLES / En ligne Renseignements et inscriptions : ludotheque@usineachapeaux.fr 01 30 88 89 62
+En savoir + Entrée sur dons au profit de
+l'Hôpital de Rambouillet.
+De 5€ à 50€ au choix. Karaoké Live Caritatif + Atelier "Se préparer à
+monter sur scène" sdm Billetterie Vendredi 11 décembre à 21h CONCERT RAP
+Toutes les
+Nouvelles
+Semaine de l’engagement et du...
+Du 27 novembre au 9 décembre 2021, l’Usine à chapeaux lance la Semaine de l'engagement ! Une semaine pour mettre en lumière le bénévolat et l’ensemble des dispositifs d’engagement du territoire.
+En savoir plus
+KARAOKÉ CARITATIF & ATELIER
+RDV dès 14h pour l’atelier « Se préparer à monter sur scène », avant notre soirée caritative en faveur du service de médecine ambulatoire de l’Hôpital de Rambouillet (service cancérologie).
+En savoir plus
+EXPOS PHOTOS À L’USINE
+2 expos à voir à l'Usine : "Reflets & Photos de rue" et "Quand le yoga s’inspire de la nature" par le club photo de l'Usine à Chapeaux.
+En savoir plus
+VISIO GRATUITE MUSICIEN.NE.S
+Visio Rencontre pour les Musicien.ne.s. de Rambouillet, SQY et ses alentours
+En savoir plus
+STAGES D’AUTOMNE INSCRITIONS
+Inscriptions dès le 5 octobre : consultez le programme des stages d'automne 2021 ici !
+En savoir plus
+CAJ : Conseil Animation Jeunesse
+Reprise du CAJ pour les 15-25 ans et adhérents : rdv samedi 9 octobre pour entendre votre voix et partager vos idées !
+En savoir plus
+ANIMATION : Testeur de jeux...
+Venez tester de nouveaux jeux avec un bénévole de la ludothèque au foyer. Les jeux lauréats seront mis en avant à la ludothèque !
+En savoir plus
+CONCERTS : saison 2021-22
+C'est partie pour la saison des concerts de l'année ! Découvrez la nouvelle programmation 2021-22 !
+En savoir plus
+Voir les autres nouvelles
+Évènements
+Devenez bénévole
+Changez les choses ! devenez bénévole à l'Usine [...]
+En savoir plus
+Agenda concerts
+En savoir plus
+32, rue Gambetta 78120 Rambouillet
+Tel. 01 30 88 89 00
+Billetterie concert
+Achetez vos places de concert en ligne
+EN SAVOIR PLUS
+Ludothèque
+Un espace jeu pour tous au quartier de la Clairière de Rambouillet.
+EN SAVOIR PLUS
+Infos pratiques
+Contacts
+Horaires & accès
+Partenaires/réseaux
+Politique de confidentialité
+Mentions légales
+L’association
+L’équipe
+Devenez bénévole
+Recrutement
+Newsletter
+Réseaux sociaux
+Facebook
+Instagram
+Youtube
+Affiliations & Partenaires
+Copyright © 2021. Usine à Chapeaux / MJC - Centre Social de Rambouillet. Tous droits réservés.
+{{ data.start | moment( options.label_modal_dateformat ? options.label_modal_dateformat : 'MMMM DD @ HH:mm' ) }} - {{ data.end |moment( options.label_modal_dateformat ? options.label_modal_dateformat : 'MMMM DD @ HH:mm' ) }}
+{{ data.start | moment( options.show_time_format ? 'h' : 'HH' ) }}:{{ data.start | moment('mm') }} {{ data.start | moment( options.show_time_format ? 'a' : ' ' ) }} - {{ data.end | moment( options.show_time_format ? 'h' : 'HH' ) }}:{{ data.end | moment('mm') }} {{ data.end | moment( options.show_time_format ? 'a' : ' ' ) }} {{data.duration}}
+{{button.label}}
+{{button.label}} {{button.label}} {{button.label}} {{button.label}} {{button.label}} {{button.label}} {{button.label}}
+{{ data.start | moment( options.label_modal_dateformat ? options.label_modal_dateformat : 'MMMM DD @ HH:mm' ) }} - {{ data.end |moment( options.label_modal_dateformat ? options.label_modal_dateformat : 'MMMM DD @ HH:mm' ) }}
+{{ data.start | moment( options.show_time_format ? 'h' : 'HH' ) }}:{{ data.start | moment('mm') }} {{ data.start | moment( options.show_time_format ? 'a' : ' ' ) }} - {{ data.end | moment( options.show_time_format ? 'h' : 'HH' ) }}:{{ data.end | moment('mm') }} {{ data.end | moment( options.show_time_format ? 'a' : ' ' ) }} {{data.duration}}

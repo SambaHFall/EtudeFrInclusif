@@ -1,0 +1,33 @@
+Bienvenue sur ArTeMIS, la plate-forme d’archivage et de diffusion des thèses et mémoires de l’ISAE-SUPAERO.
+Vous y trouverez les thèses soutenues à Supaero depuis 1979 et à l’ISAE-SUPAERO depuis 2007 ayant fait l´objet d´une numérisation ou d´un dépôt électronique et pour lesquelles nous avons obtenu l’autorisation de diffusion.
+Thèses > auteur fr| en
+A propos
+Contact
+Recherche
+simple
+Tous les mots:
+avancée
+Consulter par
+auteur
+année
+thématique
+laboratoire
+équipe de recherche
+école doctorale
+Consulter par auteur
+Recherche en cours
+Ilyas Muhammad
+Modifier la recherche Nouvelle recherche
+1 ressource a été trouvée.
+|< << Page précédente 1 Page suivante >> >| 5 10 15 20 25 30 35 40 documents par page
+Tri : Date Editeur Auteur Titre
+Modélisation de l’endommagement de composites stratifiés carbone époxy sous impact
+Institut Supérieur de l'Aéronautique et de l'Espace / 20-07-2010
+Ilyas Muhammad
+Voir le résumé
+Voir le résumé
+Dans l'industrie aéronautique, les règles de conception et les critères de dimensionnement concernant la durabilité des structures composites impactées ne sont pas bien connus. Des outils numériques prédictifs et robustes doivent être développés pour réduire le temps de conception et les coûts de certification, mais aussi pour déterminer des liens entre le comportement matériau et le comportement global des structures. Dans ce cadre, il est visé dans cette étude de comparer des mesures de défauts d’impacts à celles de deux méthodes de prévisions numériques de dommages : l’une par modélisation d’une discontinuité géométrique modélisant un décollement de couches, l’autre sans modéliser l’ouverture mais par un modèle d’endommagement continu. Notre attention s’est portées sur deux types de matériaux unidirectionnel pré imprégnés en carbone/époxy : T700/M21S et T800/M21S ; pré imprégnés sensible à la vitesse de déformation en raison d'un pourcentage élevé de thermoplastique présent dans la résine M21. Des essais de caractérisation du comportement quasi statique et dynamique ont été effectués sur des stratifiés équilibrés de type [±θ]. Concernant les essais dynamiques au banc d’essai Hopkinson, une saturation de la fissuration des plis a été décrite et l'effet de la vitesse de déformation du T800/M21S a été établi jusqu'aux vitesses de déformation moyennes (1000 /s). Une loi cohésive a été développée pour modéliser le délaminage en dynamique rapide dans le code explicite non linéaire LS-DYNA®. Une loi d’endommagement des plis a été développée sur la base du modèle de Matzenmiller-Lubliner-Taylor. Ce modèle d’endommagement 3D permet par couplage de multi critères définissants des seuils d’endommagement, de modéliser la fissuration des couches des stratifiés et du délaminage de manière couplée. Les endommagements après impact relevés lors d’une campagne d’essais expérimental pour différentes vitesses d’impacts, sont comparés aux deux types de modèles numériques. Il apparaît que le modèle d’endommagement 3D développé prédit bien les zones endommagées, les tailles des délaminages et l’indentation résiduelle, alors que les modèles cohésifs sont plus diffusifs entraînant des délaminages plus isotropes.
+| Texte intégral
+|< << Page précédente 1 Page suivante >> >| 5 10 15 20 25 30 35 40 documents par page
+© 2006-2010 ORI-OAI
+thèses ISAE,theses ISAE,thèse ISAE,these ISAE, thèses Institut Supérieur de l'Aéronautique et de l'Espace,thèse Institut Supérieur de l'Aéronautique et de l'Espace,,theses Institut Supérieur de l'Aéronautique et de l'Espace,,these Institut Supérieur de l'Aéronautique et de l'Espace, thèses aéronautique,thèse aéronautique,these aéronautique,,theses aéronautique, Artemis,Arthemis, thèses DAEP,thèses DMIA,thèses DMSM, thèses DEOS,thèses CAS,thèses LACS, thèse DAEP,thèse DMIA,thèse DMSM, thèse DEOS,thèse CAS,thèse LACS, these DAEP,these DMIA,these DMSM, these DEOS,these CAS,these LACS, theses DAEP,theses DMIA,theses DMSM, theses DEOS,theses CAS,theses LACS, thèses toulouse,thèse toulouse,theses toulouse,these toulouse, thèses supaero,thèse supaero,theses supaero,these supaero, thèses école nationale supérieure d'aéronautique,thèse école nationale supérieure d'aéronautique,theses école nationale supérieure d'aéronautique,these école nationale supérieure d'aéronautique, thèses ingénieur,thèse ingénieur,theses ingénieur,these ingénieur, phd thesis ISAE, phd thesis Institut Supérieur de l'Aéronautique et de l'Espace, phd thesis aéronautics, phd thesis DAEP,phd thesis DMIA,phd thesis DMSM,phd thesis DEOS,phd thesis CAS,phd thesis LACS, phd thesis toulouse,phd thesis supaero,phd thesis école nationale supérieure d'aéronautique,

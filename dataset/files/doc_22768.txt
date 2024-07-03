@@ -1,0 +1,148 @@
+Google Duo/Google Hangouts/Google Meet | Guide d’achat pour la confidentialité et la sécurité | Mozilla Foundation
+Confidentialité non incluse
+À propos de ce guide
+Newsletter
+Mozilla
+*confidentialité non incluse
+À propos de ce guide Faire un don
+Newsletter
+Non merci
+Toutes les catégories
+Toutes les catégories
+Meilleurs produits
+Maison intelligente
+Jouets et jeux
+Divertissement
+Wearables
+Santé et exercice
+Animaux
+Applis d’appels vidéo
+Applis de rencontre
+Tout Meilleurs produits Maison intelligente Jouets et jeux Divertissement Wearables Santé et exercice Animaux Applis d’appels vidéo Applis de rencontre
+Applis d’appels vidéo
+Google Duo/Google Hangouts/Google Meet
+Google
+Wi-Fi
+Passé en revue le : 8 septembre 2021
+|
+Mozilla a effectué 8 heures de recherches
+|
+L’avis de Mozilla :
+|
+Vote du public : Moyennement flippant
+Google Duo, Google Hangouts, Google Meet. Toutes ces options peuvent sembler déconcertantes. On vous résume : Google Duo est une application d’appels vidéo simple pour jusqu’à 32 personnes. Google Hangouts permet des appels vidéo entre jusqu’à 10 personnes ainsi que des appels téléphoniques et des chats textuels. Google Meet est une application de visioconférence destinée aux entreprises, pouvant accueillir jusqu’à 250 personnes et intégrée à la version payante de Google Workspace. Et voilà !
+Que pourrait-il se passer en cas de problème ?
+Google Duo est chiffré de bout en bout, ce qui est très bien. Hangouts et Meet ne le sont pas, mais utilisent un chiffrement simple, ce qui est tout à fait acceptable. Hangouts et Meet nécessitent tous deux un mot de passe fort pour se connecter, et vous pouvez (et devriez) configurer des mots de passe pour les appels ou les réunions sensibles. Duo ne nécessite pas de mot de passe car il s’agit d’une simple application d’appel. Les utilisateurs et utilisatrices peuvent (et doivent) protéger leur téléphone par mot de passe pour empêcher les personnes indésirables d’accéder à l’application. Google est une grande entreprise qui fait du très bon travail en matière de sécurité. Lorsqu’un chercheur de Google Project Zero a découvert une faille de sécurité dans les applications de messagerie Signal, Facebook et Google, Google a rapidement corrigé le bug. Google est cependant une énorme société de publicité, alors sachez qu’ils peuvent collecter des données sur votre utilisation de ces applications (pas nécessairement le contenu de vos appels et messages, mais des choses comme comment et quand vous utilisez ces applications) et ensuite potentiellement les utiliser pour alimenter leur vaste entreprise de publicité ciblée. Ils disent ne jamais vendre ces données ni ne les partager sans le consentement des utilisateurs. Heureusement, Google propose une variété de paramètres de confidentialité pour supprimer ou limiter la collecte de données personnelles. Nous avons ajouté des liens ci-dessous. Allez les consulter et utilisez-les pour protéger le plus possible votre vie privée.
+mobile Confidentialité Sécurité IA
+Ce produit peut-il m’espionner ?
+Caméra
+Appareil : Impossible à déterminer
+Application : Oui
+Microphone
+Appareil : Impossible à déterminer
+Application : Oui
+Piste la géolocalisation
+Appareil : Impossible à déterminer
+Application : Oui
+Que peut-on utiliser pour s’inscrire ?
+Envoyer un e-mail
+Oui
+Téléphone
+Oui
+Compte tiers
+Non
+Quelles données l’entreprise collecte-t-elle ?
+Personnelles
+Nom, date de naissance, genre. Facultatif : numéro de téléphone, adresse e-mail. Les données collectées peuvent inclure des informations vocales et vidéo, en fonction des paramètres. Google ne fournit pas d’avis de confidentialité spécifique à un produit pour Google Duo/Hangouts/Meet. Nous nous sommes donc appuyés sur leur politique de confidentialité pour ces informations. Nous ne pouvons pas vérifier lesquels des éléments listés pour ce produit précis peuvent ou non être collectés.
+Corporelles
+-
+Sociales
+Contacts
+Comment l’entreprise utilise-t-elle les données ?
+Google utilise vos informations personnelles « pour vous présenter des publicités pertinentes au sein des produits Google, sur des sites web partenaires et dans des applications mobiles ». Selon l’entreprise, les clients et clientes sont propriétaires de leurs données, et elle ne vend pas ces données à des tiers. Google précise être payée par des annonceurs pour vous proposer des publicités basées sur vos informations personnelles. Google affirme « ne pas utiliser d’informations dans les applications où vous stockez principalement du contenu personnel, y compris les Hangouts classiques, à des fins publicitaires, point final ». Google affirme partager des données en dehors de l’entreprise uniquement avec le consentement de l’utilisateur ou utilisatrice.
+Comment pouvez-vous contrôler vos données ?
+Google fournit de nombreux contrôles relatifs à la confidentialité, accessibles par le biais des outils de confidentialité Google. Il existe plusieurs façons clairement définies de supprimer vos données personnelles, y compris de les supprimer sur des services individuels ou de supprimer l’intégralité d’un compte Google. La période de conservation est également bien définie dans la politique de confidentialité. Google permet également de définir des règles de conservation des conversations instantanées par le biais de son service Vault. Dans Google Duo, les hôtes peuvent lancer un appel, activer le mode muet et mettre fin à l’appel. Simple. Dans Google Hangouts, les hôtes peuvent ajouter et supprimer des personnes au sein d’une conversation, activer le mode muet et contrôler qui peut envoyer des messages. Dans Meet, seuls les « propriétaires » peuvent épingler, rendre muets ou supprimer des participants et participantes. Au moment de l’écriture de ce test, Meet ne permet pas de contrôler qui peut partager des contenus ; quand une personne a pu rejoindre une réunion, elle peut en envoyer.
+Quel est l’historique de l’entreprise en matière de protection des données des utilisateurs et utilisatrices ?
+Moyen
+En janvier 2021, Natalie Silvanovich, chercheuse en sécurité de Google Project Zero, a découvert un bug logique dans Google Duo qui permettrait la transmission audio ou vidéo sans le consentement de l’utilisateur ou l’utilisatrice. Le bug a été rapidement corrigé. Oui, une entité Google a pointé du doigt une autre entité Google pour une faille de confidentialité !
+Ce produit peut-il être utilisé hors connexion ?
+Ne s’applique pas
+Informations relatives à la vie privée accessibles et compréhensibles ?
+Oui
+Google offre des informations simplifiées concernant l’utilisation et la confidentialité.
+Liens vers les informations concernant la vie privée
+Google Privacy Policy
+Google Meet Security & Privacy
+Google Privacy Dashboard
+Ce produit respecte-t-il nos critères élémentaires de sécurité ?
+Oui
+Chiffrement
+Oui
+Chiffrement de bout en bout : Duo. Chiffrement uniquement au repos et en transit : Hangouts, Meet.
+Mot de passe robuste
+Oui
+Hangouts et Meet demandent un mot de passe fort pour se connecter. Duo ne demande pas de mot de passe, car il s’agit simplement d’une application d’appels. Les utilisateurs et utilisatrices peuvent (et devraient) protéger leur téléphone par un code pour éviter les intrusions.
+Mises à jour de sécurité
+Oui
+Google met à jour les services plusieurs fois par an.
+Gestion des vulnérabilités
+Oui
+Google dispose d’un programme de prime aux bugs pour les failles de sécurité.
+Politique de confidentialité
+Oui
+Politique de confidentialité séparée en plusieurs sections, utilisant des termes simples.
+Le produit utilise-t-il une IA ?
+Oui
+L’IA permet, entre autres, de proposer des suggestions dans la discussion et des publicités ciblées.
+Cette IA est-elle non digne de confiance ?
+Impossible à déterminer
+Quels types de décisions l’intelligence artificielle prend-elle pour vous ou à propos de vous ?
+L’entreprise est-elle transparente sur le fonctionnement de l’IA ?
+Non
+Les fonctionnalités de l’IA peuvent-elles être contrôlées par l’utilisateur ou l’utilisatrice ?
+Impossible à déterminer
+Actualités
+Google Hangouts vs Google Duo – Which Should You Use?
+Tech Junkie
+When it comes to social media platforms, video calling, and messaging apps, however, Google took a little time to figure things out. There’s Google Duo and Google Hangouts, coexisting out there. Do you use just one or both? And how do the two apps compare?
+Bugs in Signal, Facebook, Google chat apps let attackers spy on users
+Bleeping Computer
+Vulnerabilities found in multiple video conferencing mobile applications allowed attackers to listen to users' surroundings without permission before the person on the other end picked up the calls.
+Rethinking Zoom? How WebEx, Teams, and Google Meet and Duo Compare on Privacy and Security
+Inc.com
+After a burst of rapid growth, Zoom has lost some luster amid well-publicized zoombombing episodes.
+Google Meet vs Google Hangouts vs Google Duo: What's the difference?
+Pocket-lint
+Google has had a wide range of video and chat solutions over the years, many discontinued and many overlapping in their offering. The current selection is Google Meet, Google Hangouts and Google Duo. But which app should you be using and what do they each offer? We're walking you through the differences to help you decide.
+Google adds AI features to G Suite, including ‘Smart Reply’ for Hangouts ChatC
+Computerworld
+Google is adding new artificial intelligence (AI) capabilities to G Suite as it aims to attract more users to its cloud-based productivity apps.
+Produits similaires
+Zoom Video Communications, Inc.
+Zoom
+Telegram FZ-LLC
+Telegram
+Signal Technology Foundation
+Signal
+Epic Games
+Houseparty
+Commentaires
+Vous avez un commentaire ? Dites-nous tout.
+Nous aimons tous le Web. Rejoignez Mozilla pour le défendre.
+Protégeons la principale ressource mondiale pour les générations futures.
+Faire un don
+Pour en savoir plus à notre sujet
+Twitter
+Instagram
+GitHub
+Faire un don
+Emplois
+Cookies
+Mentions légales
+Directives relatives à la participation
+Espace presse
+Confidentialité
+Ce site web prend en charge Web Monetization.
+En savoir plus sur notre implémentation.
+Langue Deutsch English Español Français Frysk Kiswahili Nederlands Polski Português
+Mozilla est une organisation internationale à but non lucratif, déterminée à vous faire reprendre le contrôle de votre vie numérique en ligne et à définir l’avenir du Web dans l’intérêt collectif. Plus d’informations sur foundation.mozilla.org. La majorité du contenu est disponible sous licence Creative Commons.

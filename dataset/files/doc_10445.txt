@@ -1,0 +1,83 @@
+La réponse réside dans les propriétés tout-à-fait étonnantes de l’or lorsqu’il est sous forme de particules de taille nanométrique, c'est à dire inférieures à 100 nanomètres : propriétés chimiques, optiques, électronique. Les retombées des travaux de recherche sur nanoparticules d'or concernent des domaines très variés : la conception de nouveaux nanomatériaux, la nano-électronique et les technologies de l’information, la catalyse, les bio-capteurs, la thérapie, le diagnostic et la pharmacologie. Elles apportent aussi de nouvelles solutions dans le traitement de problèmes environnementaux avec la catalyse.
+Cette section propose un aperçu sur les diverses propriétés et les applications des nanoparticules d'or.
+Qu'est-ce qu'une nanoparticule ?
+Les nanoparticules d'or sont des assemblées de quelques atomes à quelques milliers atomes de tailles comprises entre 1 et 100 nm.
+En savoir plus
+Synthèse et fonctionnalisation
+Les propriétés des nanoparticules d’or sont intrinsèquement dépendantes de leur forme, de leur taille, de leurs défauts cristallins et de la nature de leur surface. Il est donc essentiel de contrôler ces paramètres lors des synthèses de nanoparticules
+En savoir plus
+Catalyse et réactivité
+La réactivité chimique des nanoparticules d'or et leurs propriétés d’adsorption de molécules sont directement liées à la surface des nanoparticules et en particulier aux différentes configurations possibles des atomes de surface d’une nanoparticule.
+En savoir plus
+Théorie et modélisations numériques
+Les nanoparticules d’or sont des nano-objets quasi-idéaux pour confronter théories et caractérisations expérimentales.
+En savoir plus
+Plasmonique
+La plasmonique est une discipline à la frontière entre l’optique et la physique de la matière condensée. Elle s’intéresse aux oscillations collectives d’électrons associées à une onde lumineuse.
+En savoir plus
+Nanoélectronique
+La nanoélectronique, quand elle s'intéresse aux nanoparticules d'or est centré sur les phénomènes de conduction électrique à l'échelle nanométrique. Il s'agit de comprendre comment un flux d'électron s'amorce à la surface d'une nanoparticule.
+En savoir plus
+Nanoparticules d'or pour la santé
+Les nanoparticules d'or sont utilisées en biologie pour l’imagerie et pour le diagnostic. Elles peuvent aussi vectoriser des substances actives (médicaments) vers des cibles pathogènes. De plus, du fait de leurs propriétés de résonance de plasmon et de photo-thermie, elles présentent un potentiel dans le domaine de la thérapie, ce qui donne lieu actuellement à un nombre grandissant de travaux.
+En savoir plus
+Qu'est-ce qu'une nanoparticule ?
+Synthèse et fonctionnalisation
+Catalyse et réactivité
+Théorie et modélisations numériques
+Plasmonique
+Nanoélectronique
+Nanoparticules d'or pour la santé
+En ce moment
+nov. 20
+Conférences
+Webinar n°9 - Gold 2022 : Gold-based materials for environmental technologies
+Dans le cadre de la conférence internationale Gold 2022, une série de webinars est organisée avec un neuvième séminaire virtuel organisé le Mercredi...
+En savoir plus
+nov. 20
+Conférences
+Séries de Conférences - Pr. LIZ-MÁRZAN : Interactions of Light with Gold (and Other Metals)
+Suite à l'invitation par l’assemblée du Collège de France, sur proposition des professeurs Clément Sanchez,Marc Fontecave et Jean-Marie Tarascon, une...
+En savoir plus
+nov. 4
+Conférences
+Call for abstracts - Gold 2022 - Quebec City, Canada
+The call for abstracts to participate in the GOLD 2022 Conference is now open.
+The conference will take place in Quebec City, Canada, on July...
+En savoir plus
+nov. 4
+Conférences
+Gold-Nano for the Young researchers - C'Nano Conference in Toulouse
+*Gold-Nano for the Young Researchers*
+Or-nano is organizing a special session that will take place during the C'Nano - CNRS conference in Toulouse...
+En savoir plus
+sept. 25
+Conférences
+Webinar n°8 - Gold 2022 : Biomedical applications of gold
+Dans le cadre de la conférence internationale Gold 2022, une série de webinars est organisée avec un huitième séminaire virtuel organisé le Mercredi 6...
+En savoir plus
+sept. 12
+Conférences
+International Workshop on Metallic Nano-Objects (MNO 2021)
+The fifth International Workshop on Metallic Nano-Objects (MNO 2020) will be held at the University of Saint-Etienne from 17th to 19th of november...
+En savoir plus
+juil. 6
+Offres d'emploi
+Bourses postodoctorales à l'Université de Chicago
+Postodoctoral fellowships at U. Chicago for early-career physicists
+En savoir plus
+juin 21
+Conférences
+Webinar n°7 - Gold 2022 : Gold and the environment
+Élodie Boisselier, professeure et chercheure à l’Université Laval (Québec, Canada) et membre international de notre Gdr, vous invite à une série de...
+En savoir plus
+juin 14
+Publications scientifiques
+Extracellular vesicle drug occupancy enables real-time monitoring of targeted cancer therapy using gold plasmonic nanoresonators
+Abstract
+Current technologies to measure drug-target interactions require complex processing and invasive tissue biopsies, limiting their clinical...
+En savoir plus
+mai 7
+Conférences
+Webinar n°6 - Gold 2022 : Biomedical applications of gold: sensors and devices
+Élodie Boisselier, professeure et chercheure à l’Université Laval (Québec, Canada) et membre international de notre Gdr, vous invite à une série de...

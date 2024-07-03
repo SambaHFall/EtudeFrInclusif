@@ -1,0 +1,8 @@
+Change language: English Brazilian Portuguese Chinese (Simplified) French German Japanese Russian Spanish Turkish Other
+Submit a Pull Request Report a Bug
+EventBuffer::lock
+(PECL event >= 1.2.6-beta)
+EventBuffer::lock — Acquière un verrou sur le buffer
+Description
+public EventBuffer::lock(): void
+Acquière un verrou sur le buffer. Peut être utilisé de paire avec la méthode EventBuffer::unlock() pour réaliser un jeu d'opérations atomique, i.e. thread-safe. Notez qu'il n'est pas nécessaire de verrouiller les buffers pour les opérations individuelles. Lorsque le verrou est actif, (voir EventBuffer::enableLocking()) les opérations individuelles sur les buffers d'événements sont déjà atomiques.

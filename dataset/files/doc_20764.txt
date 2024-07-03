@@ -1,0 +1,75 @@
+La source fondamentale alimentant en énergie le système climatique terrestre est le Soleil. L’intensité de son rayonnement atteignant la surface terrestre dépend de plusieurs facteurs :
+Les fluctuations de l’énergie solaire émise, dépendant semble-t-il de la position du soleil par rapport au centre de masse du système solaire (ce qui induirait des contraintes de torsion entre diverses couches du Soleil), et donc du champ de forces gravitationnelles qui l’accompagne (en mécanique céleste, son étude est appelée le « problème des N corps », N étant le nombre d’objets célestes considérés ; le problème des 3 corps n’a pas de solution analytique connue et son comportement présente déjà une signature chaotique ; la situation devient de plus en plus complexe lorsque le nombre d’objets augmente. Les lois de Kepler permettent une description approchée du problème des deux corps). Le GIEC néglige ces fluctuations et leurs cycles (approximatifs) caractéristiques (11 ans, 60 ans, etc.).
+L’angle d’inclinaison des rayons solaires incidents, dépendant de la saison et de la latitude, mais dont les fluctuations dépendent des orbites et de l’effet gyroscopique stabilisateur exercé par la Lune sur la Terre (et donc en fin de compte du champ gravitationnel). Ce facteur est supposé constant par le GIEC
+La durée d’exposition, liée à la vitesse de rotation de la Terre, un autre facteur dont les fluctuations dépendent des forces gravitationnelles. Ce facteur est supposé constant par le GIEC
+L’absorption du rayonnement solaire et du rayonnement IR réémis par la Terre par les gaz à effet de serre (la cause principale si pas unique du réchauffement climatique, si l’on en croit le GIEC)
+La couverture nuageuse qui dépend de l’hygroscopie et de la température locales (définissant le point de condensation de la vapeur d’eau). La nucléation des gouttes d’eau constituant les nuages dépend de la présence d’aérosols (microgouttes de sulfates et autres composés sulfurés organiques) et de rayons cosmiques (hypothèse de Svenmark validée par l’expérience CLOUD du CERN). Les rayons cosmiques sont produits par l’explosion d’étoiles lointaines et sont plus ou moins déviés par les champs magnétiques solaires et terrestre. Les nuages jouent un rôle thermostatique important : ils agissent comme persienne pendant la journée, réfléchissant et absorbant une partie du rayonnement solaire incident, et de couverture la nuit, renvoyant vers le sol le rayonnement infra-rouge qu’il émet. De cette façon, les nuages limitent les fluctuations de température entre le jour et la nuit. La mauvaise description de l’effet des nuages et une faiblesse reconnue des modèles du GIEC
+L’impact d’une très grosse météorite (évènement heureusement extrêmement rare) avec la Terre produirait des quantités énormes de poussière et de chaleur. Certains ont émis l’hypothèse que les grandes extinctions (des dinosaures par exemple) seraient dues à la chute d’une méga-météorite au Yucatan (Mexique). Ce facteur est considéré comme non relevant par le GIEC, pour la période industrielle sur laquelle il concentre ses travaux
+Par ailleurs,
+La couleur de la surface terrestre (son albedo) définit la fraction de chaleur rayonnante reçue qui est réfléchie ou absorbée par la surface. Sont particulièrement importantes les surfaces enneigées ou couvertes de glace (glaciers, calotte glaciaire), donc blanches, réfléchissant la quasi-totalité de la lumière reçue. Cette surface glacée est plus ou moins exposée au rayonnement solaire qui va la faire fondre, avec une vitesse et une intensité qui dépend notamment de l’angle de ces surfaces par rapport au rayonnement solaire, variant selon la latitude et les variations de l’inclinaison de l’angle de rotation de la Terre (résultant du champ gravitationnel). Ce facteur est supposé constant par le GIEC.
+Les océans constituent un énorme réservoir d’eau, de gaz dissouts et de chaleur. Le cœur du mécanisme de régulation de température (du thermostat climatique) se trouve à l’interface océan-atmosphère ; il résulte des échanges thermiques et de l’évaporation-condensation de vapeur d’eau formant éventuellement des nuages. Par ailleurs, les océans sont parcourus par d’intenses courants répartissant les eaux chaudes de surface des zones intertropicales vers les profondeurs et vers des latitudes plus froides, permettant ainsi d’homogénéiser quelque peu le flux de chaleur reçu par la Terre.
+La biosphère : les plantes par l’étendue des surfaces boisées ou cultivées, les animaux par leur recherche de nourriture et leurs migrations, ainsi que les humains ont un impact sur l’occupation des sols et donc sur son albedo. Les plantes par la photosynthèse, les animaux et les humains par leurs émissions de gaz à effet de serre (qu’ils soient de nature physiologiques ou industrielles) modifient la composition de l’atmosphère, ce qui selon le GIEC peut modifier significativement la température de la Planète
+Les volcans dont les éruptions provoquent des émissions non négligeables de vapeur d’eau et de poussière viennent perturber la couverture nuageuse et la transparence globale de l’atmosphère (effet tempête de sable), mais aussi l’albedo des surfaces glacées sur lesquelles les poussières volcaniques peuvent finalement se déposer, augmentant ainsi la chaleur absorbée par les surfaces glacées, ce qui accélère leur fonte. L’essentiel de l’activité volcanique se produit le long des jonctions de plaques tectoniques, et en particulier le long de « l’anneau de feu » encerclant le Pacifique. On peut imaginer que des fluctuations du champ gravitationnel agissant sur la Terre produisent des tensions à l’interface de ces plaques tectoniques, induisant une poussée de lave lorsqu’une faille se crée. Par ailleurs, Il convient de ne pas négliger l’existence d’un nombre considérable (mais mal connu) de volcans sous-marins dont les émanations viennent changer localement la composition des océans et augmenter leur température, et affecter en fin de compte localement les échanges de chaleur et matière à l’interface océan-atmosphère. Ce facteur est supposé constant et peu important par le GIEC
+La figure du méta-modèle tente de « relier les points » entre ces diverses théories pour en faire un tout cohérent. Il en résulte un réseau complexe, où, en fait, les liens (les flèches) unissant les concepts sont plus importants que les concepts eux-mêmes. La théorie des systèmes permet également, très rapidement de faire une analyse qualitative des causes et des effets. En effet, une cause émet des flèches mais n’en reçoit pas ; à ‘inverse, un effet reçoit des flèches mais n’en émet pas. La figure montre clairement que :
+Les « causes » se trouvent au sommet du schéma : rayons cosmiques, champs gravitationnels et magnétiques (les deux étant liés d’une façon que la Physique ne peut pas encore expliquer de façon convaincante) ainsi que la chute de météorites occasionnels (dont la trajectoire dépend du champ gravitationnel). Autan de facteurs difficilement taxables par les gouvernements qui veulent sauver la Planète en instaurant une taxe énergie qui se veut vertueuse.
+La température et les émissions de CO2 se trouvent au milieu d’un réseau de flèches entrantes et sortantes. Ni le CO2 ni la température n’agissent comme cause ou effet l’un sur l’autre ; ce sont des variables relais qui dépendent l’une et l’autre d’un très grand nombre de facteurs, directement et surtout indirectement, via de nombreuses boucles de rétroaction, dont l’inventaire exhaustif reste à dresser. Il serait hasardeux mathématiquement d’essayer de modifier l’un (par exemple la température) en agissant sur l’autre (par exemple réduire le CO2 anthropique). L’effet est structurellement imprédictible : inexistant, plus ou moins positif ou plus ou moins négatif
+Au vu des flèches qui entrent et sortent de ces concepts, L’interface océan-atmosphère et les nuages jouent un rôle capital dans la régulation et la redistribution d’énergie dans le système. Leur étude devrait être considérée comme prioritaire par les décideurs allouant des crédits de recherche en climatologie.
+Un changement de paradigme s’impose cependant, au vu de l’impasse dans laquelle se trouvent les modèles climatiques utilisés par le GIEC. Une piste pourrait être de reprendre les modèles mathématiques « à zéro », c’est -à-dire non pas en supposant l’équilibre local dans chaque cellule et en utilisant les équations de Navier-Stokes pour relier les cellules, comme fait pour les modèles utilisés par le GIEC, mais d’abord de bien comprendre la structure du système climatique et dans un deuxième temps d’analyser son comportement dynamique en utilisant les outils d’analyse de réseaux complexes et d’identifier les fonctions de transfert liant un concept à un autre par déconvolution des séries temporelles des indicateurs correspondants. Malheureusement ces disciplines scientifiques ne figurent pas (encore ?) au cursus des climatologues.
+Ecrit par Henri Masson
+Rechercher :
+Étiquettes
+acidification
+Arctique
+atmosphère
+Belgique
+biodiversité
+blanchiment
+blanchissement
+carbone
+CO2
+coraux
+corps noir
+Equation de Planck
+Europe
+extinctions
+forçage radiatif
+Glace
+GWPF
+géologie
+Humlum
+Jacques Duran
+Maxwell-Boltzmann
+Micro-organismes
+modèles GIEC et Mixte
+niveau marin
+nucléaire
+Océans
+Protérozoïque
+Rayons cosmiques
+ressources
+Sensibilité climatique
+Sols
+température
+zooxanthelles
+électricité
+énergie
+There is no climate emergency!European Climate Realist NetworkWatts Up With That?NoTricksZonePopular TechnologyNot A Lot of People Know That
+About Green Energy
+Un film censuré sur YouTube…
+GIEC : une histoire controversée
+https://www.youtube.com/watch?time_continue=21&v=Kz53XxPFXYc
+Politique de commentaires
+Voici notre politique pour les commentaires
+Commentaires récents
+Paul Berth dans NON aux grèves scolaires pour le climat !
+Nathuba dans NON aux grèves scolaires pour le climat !
+Minlaung dans NON aux grèves scolaires pour le climat !
+Georges Geuskens dans Le CO2 et le climat avec et sans effet de serre
+Thomas dans How to build your hockey stick graph
+Charles Pont dans Le CO2 et le climat avec et sans effet de serre
+Henri Masson dans How to build your hockey stick graph
+Thomas dans How to build your hockey stick graph
+Alain Préat dans SCE-info : La cerise catastrophiste du GIEC
+Jean-Nicolas AUDOUY dans Du bon usage de la formule de Stefan-Boltzmann
+Info
+For more information, or to contribute with an article, please contact us by e-mail (click on the icon below) :

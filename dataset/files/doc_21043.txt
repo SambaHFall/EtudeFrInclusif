@@ -1,0 +1,189 @@
+Il s’agit d’une collection de liens vers des ensembles de données climatiques, des outils, des guides et des ressources connexes. Ces ressources proviennent des gouvernements fédéral, provinciaux et territoriaux, les organisations professionnelles nationales, les consortiums climatiques et les organisations internationales établies. Elles peuvent être utiles pour les évaluations de l’impact, de la vulnérabilité et des risques, ainsi que pour la planification de l’adaptation.
+Affinez votre recherche en utilisant les filtres de recherche. Vous pouvez également entrer jusqu’à 5 mots clés dans la barre de recherche.
+Si vous avez des questions, communiquez avec le Centre d’aide des Services climatiques.
+Merci. Votre suggestion de nouvelle ressource à ajouter a été envoyée.
+Merci. Ce lien périmé a été signalé.
+Une erreur s'est produite lors de la suggestion d'une nouvelle ressource. Veuillez réessayer plus tard.
+Une erreur a été commise lors du signalement du lien périmé, veuillez réessayer plus tard.
+Ce lien ne peut être signalé comme périmé avant que 2 minutes ne se soient écoulées
+Explication des différents types de ressources
+produit de données - ensemble de données téléchargeable sur le climat;
+outil - s’appuie sur un ensemble de données avec d’autres analyses ou visualisations;
+guide - fournit des conseils sur l’utilisation de l’information climatique ou sur la réalisation d’évaluations liées au climat;
+codes et standards - Documents d’orientation et de pratiques exemplaires pour une conception résiliente aux changements climatiques
+les autres ressources comprennent du matériel d’éducation et de sensibilisation, des évaluations d’impact et des synthèses scientifiques.
+Recherche de Dossiers
+Suggérez une ressource
+Recherche...
+Filtres de recherche Effacer tout
+Secteur
+Agriculture (1)
+Écosystèmes et biodiversité (1)
+Municipalités (1)
+Effacer tout Effacer tout Secteur
+Impact des dangers
+Composition des espèces (1)
+Conditions météorologiques extrêmes (1)
+Couvert de neige (2)
+Feu (1)
+Glace de lac (1)
+Afficher plus Afficher plus Impact des dangers
+Effacer tout Effacer tout Impact des dangers
+Juridiction
+Alberta (4)
+Colombie Britannique (6)
+Île du Prince Édouard (3)
+Manitoba (3)
+Nouveau-Brunswick (3)
+Afficher plus Afficher plus Juridiction
+Effacer tout Effacer tout Juridiction
+Historique/Avenir
+Futur (9)
+Historique (9)
+Effacer tout Effacer tout Historique/Avenir
+Variables
+Autre (4)
+Chaleur (2)
+Conditions météo (1)
+Couvert de neige (2)
+Déficit d’humidité (3)
+Afficher plus Afficher plus Variables
+Effacer tout Effacer tout Variables
+Type de ressource
+Orientation (2)
+Outil (5)
+Produit dérivé de données (8)
+Ressources supplémentaires (2)
+Effacer tout Effacer tout Type de ressource
+Source
+Fédéral (2)
+International (3)
+Milieu universitaire (3)
+Organisation non gouvernementale (2)
+Provincial ou territorial (1)
+Afficher plus Afficher plus Source
+Effacer tout Effacer tout Source
+Type de données
+Basées sur les observations (8)
+Mises à l'échelle de manière statistique (5)
+Modélisées (9)
+Observées (5)
+Réanalyse (4)
+Afficher plus Afficher plus Type de données
+Effacer tout Effacer tout Type de données
+Type de format
+Cartographié (6)
+Évaluation des impacts (1)
+Fichiers (9)
+Graphique (3)
+Interactif (3)
+Afficher plus Afficher plus Type de format
+Effacer tout Effacer tout Type de format
+Type spatial
+Grille (8)
+Point (7)
+Polygone (9)
+Effacer tout Effacer tout Type spatial
+Résolution temporelle
+Horaire (4)
+Quotidienne (3)
+Hebdomadaire (5)
+Mensuelle (9)
+Saisonnière (9)
+Afficher plus Afficher plus Résolution temporelle
+Effacer tout Effacer tout Résolution temporelle
+Afficher 1 à 9 de 9 entrées
+Trier par Alphabétique Croissant Alphabétique Décroissant
+Futur
+Mensuelle
+Polygone
+Agriculture Water Demand Model (en anglais seulement) (Opens in a new Window)
+Le Agriculture Water Demand Model (AWDM) calcule les besoins en eau actuels pour l’agriculture à l’aide de données sur les cultures, le sol, le type de système d’irrigation et le climat historique, ainsi que les besoins futurs en eau à l’aide de scénarios de changements climatiques. La couche de données climatiques a été développée pour toute la province de la Colombie-Britannique sur une grille de 500 mètres par 500 mètres. Les résultats de la demande en eau aident les municipalités à mettre en valeur l’eau destinée à l’agriculture, en accord avec le Water Sustainability Act (WSA). Le ministère de l’Agriculture de la Colombie-Britannique a continué de collaborer avec ses partenaires pour étendre le modèle de la demande d’eau à usage agricole à d’autres régions de la province, et une couverture complète est prévue d’ici 2021. Des rapports sous forme de texte peuvent être téléchargés pour diverses régions de la Colombie-Britannique.
+Organisation:
+Gouvernement de la Colombie-Britannique
+Formats de ressource:
+Fichiers
+Synthèse scientifique
+Outil
+Rapportez un lien périmé
+BC Climate Explorer (en anglais seulement) (Opens in a new Window)
+L’explorateur du climat de la Colombie-Britannique est un projet indépendant et de source ouverte permettant de visualiser des données en utilisant les unités de classification biogéoclimatique des écosystèmes (CBE) de la Colombie-Britannique. L’objectif est d’aider les Britanno-Colombiens - citoyens, professionnels et fonctionnaires - à comprendre les changements climatiques locaux en utilisant les données climatiques historiques et projetées. Un large éventail de variables est disponible, y compris la température, les précipitations, la durée de la saison, le gel, le déficit d’humidité, l’humidité et des indicateurs calculés aux résolutions mensuelles, saisonnières et annuelles. Les données sont affichées sous forme de données sur grille et peuvent être téléchargées sous forme de tableaux, de polygones ou de grille.
+Organisation:
+BC Climate Explorer
+Formats de ressource:
+Fichiers
+Interactif
+Cartographié
+Outil
+Rapportez un lien périmé
+Canadian Cryospheric Information Network (en anglais seulement) (Opens in a new Window)
+Le Réseau canadien d’information sur la cryosphère fournit de l’information sur les mesures, la modélisation et la compréhension des relations complexes entre la cryosphère et le système climatique de la Terre. Il contient des visualisations de données sur l’équivalent en eau de la neige actuel et historique, l’épaisseur de la glace de mer et la couverture de glace lacustre actuelle et historique. Les données historiques et futures sont disponibles sous forme de données ponctuelles et sur grille.
+Organisation:
+Réseau canadien d’information sur la cryosphère, Université de Waterloo
+Formats de ressource:
+Fichiers
+Interactif
+Évaluation des impacts
+Synthèse scientifique
+Graphique
+Cartographié
+Outil
+Rapportez un lien périmé
+Climate + Weather Tools (en anglais seulement) (Opens in a new Window)
+Le site de Scenarios Network for Alaska + Arctic Planning (SNAP) contient un répertoire d’outils interactifs en ligne qui visent à rendre plus accessibles les données climatiques et météorologiques sur l’Arctique.
+Organisation:
+Université de l’Alaska à Fairbanks
+Formats de ressource:
+Fichiers
+Interactif
+Graphique
+Cartographié
+Outil
+Planification de l’adaptation
+Rapportez un lien périmé
+Current and projected climate data for North America (CMIP5 scenarios) (en anglais seulement) (Opens in a new Window)
+AdaptWest fournit des projections climatiques modélisées générées à l’aide du logiciel ClimateNA, mises à l’échelle à partir de la base de données la phase 5 du projet de comparaison de modèle climatique couplé (CMIP5). Les variables comprennent les estimations moyennes et extrêmes de la température et des précipitations, les degrés-jours de croissance et de climatisation, les chutes de neige, l’évapotranspiration et les indices de sécheresse. Les données sont disponibles à partir de modèles individuels ou d’un ensemble de 15 modèles à une résolution de 1 km pour l’Amérique du Nord, ainsi que pour chaque État et province jusqu’à l’horizon 2050. Les données peuvent être téléchargées sous format grillé ou tabulaire.
+Organisation:
+Conservation Biology Institute
+Formats de ressource:
+Fichiers
+Cartographié
+Rapportez un lien périmé
+LC MAP - Landscape Conservation Management and Analysis Portal (en anglais seulement) (Opens in a new Window)
+L’outil Catalogue de données du Landscape Conservation Management and Analysis (LC MAP) comprend des ressources pour Landscape Conservation Cooperatives (LCC). Le logiciel LC MAP a été élaboré à l’origine par la Commission géologique des États-Unis en collaboration avec le Great Northern LCC et est largement accessible aux utilisateurs de ScienceBase pour partager, consulter et analyser des ensembles de données communs. Le logiciel LC MAP permet aux utilisateurs de découvrir, d’évaluer, de modifier, d’analyser et de modéliser des thèmes de données communs et offre de puissantes capacités d’analyse géospatiale d’ArcGIS 10 et de sa vaste gamme d’extensions.
+Organisation:
+U.S. Geological Survey
+Formats de ressource:
+Fichiers
+Cartographié
+Outil
+Rapportez un lien périmé
+Prévisions saisonnières (Opens in a new Window)
+Les prévisions saisonnières comprennent les prévisions probabilistes et déterministes, ainsi que les tendances climatiques antérieures de la température, des précipitations, de la température à la surface de la mer et de la couverture de neige au Canada. Les tendances climatologiques de la température et des précipitations sont disponibles pour chaque saison ainsi que pour les périodes annuelles au cours de la période historique de 1981 à 2010. Les prévisions pour 3, 4, 6, 9 et 12 mois à venir sont offertes. Les données sont disponibles en format cartographié et en format résumé en tableau.
+Organisation:
+Gouvernement du Canada : Environnement et Changement climatique Canada
+Formats de ressource:
+Fichiers
+Cartographié
+Rapportez un lien périmé
+Cliquez ici pour voir ou télécharger ces données (Opens in a new Window)
+Scenarios Network for Alaska and Arctic Planning (en anglais seulement) (Opens in a new Window)
+Le Scenarios Network for Arctic Planning (SNAP) produit des données climatiques désagrégées, historiques et projetées pour les régions subarctiques et arctiques de l’Alaska et du Canada. D’autres données propres à des projets couvrent des régions beaucoup plus vastes. Les utilisateurs peuvent chercher des ensembles de données d’intérêt à l’aide de mots clés et filtrer les ensembles de données en fonction de la pertinence, du nom et de la date de la dernière modification. Des outils d’analyse sont également disponibles pour les incendies de forêt en Alaska, les projections climatiques, les antécédents climatiques, les précipitations quotidiennes, les conditions météorologiques extrêmes, la glace de mer historique, la couverture modélisée de la glace de mer et les interactions entre la glace de mer et le vent.
+Organisation:
+Université de l’Alaska à Fairbanks
+Formats de ressource:
+Fichiers
+Graphique
+Rapportez un lien périmé
+the MSC HTTP Data Server (en anglais seulement) (Opens in a new Window)
+Le serveur de données HTTP du Service météorologique du Canada (SMC) est une source directe d’ensembles de données brutes sur la météorologie, le climat et les prévisions. Ce service s’adresse aux utilisateurs spécialisés qui possèdent de solides connaissances en météorologie et en TI.
+Organisation:
+Gouvernement du Canada : Environnement et Changement climatique Canada
+Formats de ressource:
+Fichiers
+Rapportez un lien périmé
+Tel que mentionné dans l’Avis applicable à ce site Web , les hyperliens menant à des sites Web qui ne sont pas gérés par le gouvernement du Canada sont offerts « TELS QUELS » et uniquement par commodité aux visiteurs de notre site Web. Nous n’assumons aucune responsabilité quant à la précision, l’actualité ou la fiabilité du contenu de ces sites. Le gouvernement du Canada n’offre aucune garantie à cet égard et n’assume aucune responsabilité concernant l’information obtenue au moyen de ces liens. Les visiteurs doivent également savoir que l’information offerte par les sites autres que ceux du gouvernement du Canada, accessibles à l’aide des liens de ce site Web, n’est pas assujettie à la Loi sur la protection des renseignements personnels ni à la Loi sur les langues officielles ,et pourrait ne pas être accessible aux personnes handicapées. Il est probable que l’information offerte ne soit disponible que dans les langues employées dans les sites en question. En ce qui a trait aux renseignements personnels, nous invitons les visiteurs à consulter les politiques de ces sites Web non gouvernementaux en matière de protection des renseignements personnels avant de fournir leurs renseignements personnels.
+Plus de ressources du Centre canadien des services climatiques
+Renseignements essentiels sur le climat : tendances des changements climatiques, science climatique, services climatiques
+Communiquez avec le Centre d’aide des Services climatiques : 1-833-517-0376; obtenir de l’aide afin de trouver, comprendre et utiliser des renseignements climatiques
+Afficher et télécharger les données climatiques : chercher, explorer et visualiser des données climatiques

@@ -1,0 +1,784 @@
+Autoblog de korben.infohttp://korben.info/http://korben.info/ Un tableau blanc gratuit pour laisser libre cours à votre créativitéhttps://korben.info/?p=125439http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211129_090000_Un_tableau_blanc_gratuit_pour_laisser_libre_cours_a_votre_creativiteMon, 29 Nov 2021 08:00:00 +0000
+Si vous cherchez un moyen simple de partager des idées à plusieurs pendant une conférence par exemple, rien de mieux qu’un bon schéma sur un tableau.
+Browserboard est un service qui va vous permettre de dessiner à plusieurs sur un tableau blanc partagé. Une multitude d’outils sont disponibles comme des stylos, des surligneurs, des post-its, des flèches, des formes…etc.
+Pas besoin de vous créer un compte, et le service est entièrement gratuit. À la création d’un tableau blanc, vous obtenez un lien unique que vous pouvez alors partager avec d’autres personnes.
+Ensuite pour l’export, vous pouvez tout simplement sortir une image PNG de votre œuvre. Notez également que le service fonctionne aussi sur mobile.
+À découvrir ici
+Et dans le même style, il y a également Awwapp, WiteBoard et PixClip.
+Merci à J0j0b4rj0 pour l’info
+]]> Comment trouver les adresses emails des utilisateurs de Githubhttps://korben.info/?p=126381http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211128_090000_Comment_trouver_les_adresses_emails_des_utilisateurs_de_GithubSun, 28 Nov 2021 08:00:00 +0000Suite]]>
+Vous faites du logiciel libre et vous cherchez à contacter l’un de vos pairs ?
+Pas de souci avec l’outil d’OSINT baptisé Zen qui scanne les dépôts publics Github et vous sort la liste de toutes les boites mail et pseudo des contributeurs au projet que vous visez. Attention, ça ne pirate rien… ça scanne simplement les dépôts et les pages Github à la recherche d’emails en clair.
+Pour l’installer, faites un
+git clone https://github.com/s0md3v/Zen.git
+Puis placez-vous dans le répertoire
+cd Zen
+Et installez les dépendances :
+pip install -r requirements.txt
+Ensuite vient le moment d’utiliser le script. Si vous avez uniquement le pseudo de la personne et que vous voulez son mail, entrez simplement :
+python zen.py username
+Si vous avez l’URL du dépôt Github, c’est comme ça :
+python zen.py https://github.com/username/repository
+Et si vous ciblez une organisation / société précise, c’est cette commande qu’il vous faudra :
+python zen.py organization --org
+Il n’y a pas de limite mis à part le nombre de requêtes que vous pouvez adresser à Github à la minute. Si vous n’êtes pas authentifié sur le site, vous serez limité à 60 requêtes par heure. Authentifié, ce chiffre passe à 6000 requêtes par heure.
+Zen permet de faire du multithreading histoire d’aller plus vite. Et vous pouvez même vérifier sur la base haveibeenpwned.com si tel ou tel email a été poutré.
+python zen.py username --breach
+Amusez-vous bien, mais ne faites pas de bêtise. Je vous rappelle que le spam est illégal. Et si votre email traine sur Github, pensez à l’enlever ou à en changer. Je vous invite à lire ce guide qui vous expliquera comment protéger vos données personnelles sur Github.
+]]> Comment télécharger un gros fichier en ligne de commande depuis Google Drive ?https://korben.info/?p=126359http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211127_090000_Comment_telecharger_un_gros_fichier_en_ligne_de_commande_depuis_Google_Drive__Sat, 27 Nov 2021 08:00:00 +0000
+Si vous devez télécharger des fichiers depuis Google Drive en ligne de commande avec Curl ou Wget, il y a de fortes chances que cela échoue.
+Pourquoi ? Et bien il semblerait que l’avertissement que Google envoie pour les fichiers dépassant une certaine taille soit bloquant pour ces outils.
+Alors, comment faire ?
+Et bien il existe un petit outil sous licence libre qui s’appelle Gdown qui permet de contourner le problème. Ainsi, grâce à GDown vous pourrez télécharger de gros fichiers depuis Google Drive en ligne de commande.
+Elle n’est pas belle la vie ?
+Pour installer GDown, ouvrez un terminal et entrez la commande suivante :
+pip install gdown
+Ensuite, entrez la commande gdown suivie de l’URL du fichier Google Drive :
+gdown https://drive.google.com/uc?id=1l_5RK28JRL19wpT22B-DY9We3TVXnnQQ
+Et voilà !
+L’outil supporte également les URLs classiques qui ne sont pas des URL Google Drive, à la manière de n’importe quel Wget.
+Un paramètre –fuzzy permet également de récupérer des répertoires complets de Google Drive ou des fichiers comme ce PowerPoint :
+gdown --fuzzy "https://docs.google.com/presentation/d/15umvZKlsJ3094HNg5S4vJsIhxcFlyTeK/edit?usp=sharing&ouid=117512221203072002113&rtpof=true&sd=true"
+Notez que Gdown peut également être importé en tant que lib dans vos scripts Python qui peut être très pratique.
+Enjoy !
+Merci à Laurent
+]]> DaProfiler – Un outil OSINT spécial France pour rassembler de l’information et trouver des emailshttps://korben.info/?p=126349http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211126_090000_DaProfiler_____Un_outil_OSINT_special_France_pour_rassembler_de_l___information_et_trouver_des_emailsFri, 26 Nov 2021 08:00:00 +0000
+Si vous voulez faire un peu de renseignements (OSINT), voici un script baptisé DaProfiler qui vous permet d’obtenir des emails, des comptes de médias sociaux, des adresses, les emplois et plus encore d’une votre cible.
+Cet outil conçu pour la France uniquement, utilise notamment des techniques de web scraping et de Google dorking, pour trouver toutes ces infos et notamment les adresses e-mail de votre cible via des recherches sur Skype, Pinterest et à l’aide de combinaison de différentes adresses e-mail qu’il vérifie par la suite pour savoir si l’adresse e-mail existe ou non
+DaProfiler est également capable de contrôler le contenu d’une biographie Instagram pour trouver des informations intéressantes telles que les adresses e-mail, les profils PayPal, la ville, l’école, l’âge, les hobbies et plus encore…
+Évidemment, on parle ici uniquement de données disponibles publiquement sur Internet et cet outil n’est à utiliser qu’à des fins éducatives sur vos propres données.
+Pour l’installer :
+git clone https://github.com/TheRealDalunacrobate/DaProfiler.git
+cd DaProfiler
+pip install -r requirements.txt
+]]> Incarnez la personne de vos rêves et trompez les algos avec la #CookieFactoryhttps://korben.info/?p=126928http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211125_103256_Incarnez_la_personne_de_vos_reves_et_trompez_les_algos_avec_la__CookieFactoryThu, 25 Nov 2021 09:32:56 +0000
+L’UNESCO a à coeur de nous aider à protéger notre identité en ligne. Seulement, voilà, sans même nous en rendre compte, avec d’infimes détails, nous laissons chaque jour des tas de données durant nos séances de surfs. Les sujets qui nous animent, notre niveau de vie, nos habitudes, nos petits secrets…etc.
+Et tout cela vient nourrir les bases de données des GAFAM et de leurs acolytes. Chaque donnée est ensuite analysée automatiquement par des systèmes d’IA (deep learning) qui peuvent ensuite nous cataloguer pour mieux nous servir de la publicité voire de l’information ciblée.
+Dans ce cas, notre vie privée n’est pas réellement respectée et bien sûr comme pour le moment, il n’y a pas de cadre autour de l’éthique de l’intelligence artificielle, c’est un peu la fête ! Alors, comment sensibiliser les gens au sujet tout en frappant un grand coup pour que les politiques commencent à s’y intéresser ?
+Et bien pour cela, l’UNESCO a mis au point la Cookie Factory, une extension Chrome qui va sauvegarder vos cookies, les supprimer et vous forger une toute nouvelle identité.
+Je dois avouer que je n’ai jamais vu une extension aussi originale. C’est un vrai spectacle en image et en musique et je vous invite vraiment à la tester rien que pour le show. Ainsi vous pourrez choisir entre revêtir l’identité d’un fan de chats, d’un hacker, d’un multimillionnaire, d’un platiste, d’un fan de voiture…etc.
+Chaque cookie a son parfum.
+Évidemment, tout est réversible et vous pouvez retrouver à tout moment vos cookies d’origine, mais à quoi bon quand on peut incarner quelqu’un d’autre. Vous pouvez même créer un profil personnalisé… Devenez un homme, une femme, un(e) ado, adulte, sénior, fan de rap, de plongée sous-marine, de pâtisserie, de licornes, de danse classique…etc. Et
+Ensuite, y’a plus qu’à surfer et voilà, vous ne serez plus la même personne aux yeux des algos. Très cool non ?
+L’extension est disponible uniquement sous Chrome et vous pouvez la télécharger ici.
+Une fois encore, je vous invite à la télécharger même si vous pensez ne pas en avoir besoin, ne serait que pour l’expérience. C’est un vrai show, j’ai adoré !
+Bravo à l’UNESCO ainsi qu’à l’agence DDB Paris, c’est bien joué ! Puis maintenant que je suis une jeune fille multimillionnaire, fan de licorne et de combats de robots, je sens que ma vie numérique va basculer.
+]]> Comment extraire des données de Google Maps ?https://korben.info/?p=126343http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211125_090000_Comment_extraire_des_donnees_de_Google_Maps__Thu, 25 Nov 2021 08:00:00 +0000
+Voici un outil de scraping absolument bluffant qui se concentre sur l’extraction de données en provenance de Google Maps.
+Imaginez que vous ayez un annuaire web à remplir ou un listing à consister à partir des données publiques de Google Maps.
+Comment faire ? Tout recopier à la main ?
+Bien sûr que non ! Grâce à l’extension G Map Extractor sous Chrome, vous pourrez à partir d’une simple requête, vous consister un fichier CSV contenant le nom, l’adresse, le code postal, le numéro de téléphone, le site web et les coordonnées géodésiques des lieux.
+Par exemple, je suis ici sur la carte des Kebabs de Clermont-Ferrand… Je lance alors l’extension, j’entre ma requête…
+« Kebab Clermont-Ferrand » … Et hop, les données vont commencer à être collectées automatiquement. On est bien dans un cas de scraping pur et dur. Pas sûr que ce soit approuvé par Google, mais vu qu’ils ont autorisé cette extension sur leur Chrome Store, j’imagine qu’ils s’en fichent.
+Une fois les données extraites, y’a plus qu’à télécharger le CSV et voilà ! Vous aurez un beau fichier tout beau avec toutes les coordonnées de ce que vous avez recherché.
+]]> Edito du 24/11/2021https://korben.info/?p=126890http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211124_115018_Edito_du_24_11_2021Wed, 24 Nov 2021 10:50:18 +0000
+Hello les copains,
+J’espère que vous allez bien. Ici, ça va mieux. Avec le Covid, professionnellement c’était la catastrophe, mais j’ai travaillé très dur depuis juillet et ça y est, je sors enfin un peu la tête de l’eau, alors c’est cool. Korben.info va continuer à vivre et je ne serai pas obligé de tout arrêter. D’ailleurs, c’est en partie grâce à mes Patrons qui me soutiennent ! Merci les amis !
+Comme je suis sur les rotules, je vais me couper un peu du net durant la période de Noël. En profiter pour lire, jouer à Age of Empires IV, coder un peu pour me détendre et pourquoi pas refaire un peu de musique. Bref, chiller… J’ai hâte !
+Entre deux coups d’enduit et de ponçage (oui je suis encore dans les travaux jusqu’au cou), j’ai quand même trouvé le temps pour commencer la nouvelle saison de Dexter (New Blood) et franchement, ça commence pas mal.
+Bon, je vous laisse, faut que j’aille faire la cuisine pour ma petite famille…
+Enjoy !
+]]> Comment synchroniser automatiquement des sous-titres de films ?https://korben.info/?p=126337http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211124_090000_Comment_synchroniser_automatiquement_des_sous-titres_de_films__Wed, 24 Nov 2021 08:00:00 +0000
+Quand j’ai fini de retranscrire des sous-titres pour l’une de mes vidéos, si je veux ensuite les synchroniser comme il faut avec le bon timecode, je passe par Youtube qui est capable de faire le travail de synchronisation automatiquement. C’est formidable !
+Mais quand il s’agit d’un film téléchargé sur Internet et de sous-titres récupérés sur des sites comme OpenSubtitles, balancer tout ça sur Youtube juste pour re-synchroniser des sous-titres c’est un peu fastidieux.
+Alors que faire ?
+Et bien si vous êtes sous Windows, macOS et Linux, vous pouvez utiliser SubSync. Cet outil sous licence libre réalise sa synchronisation par l’écoute de la piste audio ce qui va vous permettre de gagner beaucoup de temps.
+Les pistes peuvent être dans des langues différentes, elles seront également traduites si nécessaire. De plus, une synchronisation avec d’autres sous-titres est également possible.
+Ainsi, grâce à SubSync, vous n’avez plus besoin d’ajuster les sous-titres manuellement !
+SubSync dispose d’une interface graphique mais vous pouvez également l’utiliser en ligne de commande ce qui est support cool pour intégrer ce process dans vos scripts.
+Génial non !?
+Et ce qui est encore plus génial, c’est que SubSync est maintenant accessible en ligne. Vous pouvez donc réaliser la synchronisation directement en passant par cette page web.
+Pour aller plus loin :
+Une extension VLC pour récupérer facilement des sous titres
+Subloader – Récupérer les sous-titres d’un film ou d’une série d’un simple clic droit
+Subtitld – Créer, éditer et traduire des sous-titres efficacement
+]]> Xpra – Établir un accès distant à des applications graphiques sous Linux (Screen for X)https://korben.info/?p=126330http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211123_090000_Xpra_____Etablir_un_acces_distant_a_des_applications_graphiques_sous_Linux__Screen_for_X_Tue, 23 Nov 2021 08:00:00 +0000
+Si vous utilisez Linux, notamment à distance, vous vous êtes peut être déjà demandé comment déporter l’affichage graphique d’une app Linux distante sur un autre ordinateur Linux voire un Windows ou un macOS.
+Un début de réponse avait d’ailleurs été posté dans mon article sur l’installation de WSL2 sous Windows 10/11.
+Mais il y a encore plus simple et cela s’appelle Xpra. Derrière cet acronyme signifiant « X11 Persistent Remote Application », se cache un outil sous licence libre GPLv2+ connu également sous le nom de « screen for X ».
+Xpra permet d’exécuter des programmes X11, généralement sur un hôte distant, puis de diriger leur affichage vers votre machine locale. Ensuite quand vient le moment de vous déconnecter de ces programmes, aucun souci. A la reconnexion à partir de la même machine ou d’une autre, l’état de l’application ne sera pas perdue.
+Xpra peut également être utilisé pour accéder à des sessions de bureau existantes ou démarrer des sessions de bureau à distance. Plusieurs clients sont disponibles et le serveur Xpra intègre une interface cliente en HTML5.
+Xpra est utilisable sur une grande variété de protocoles réseau TCP chiffrés et fait de son mieux pour s’adapter à toutes les conditions de réseau que ce soit SSL, SSH, websockets…etc.
+Xpra transmet et synchronise de nombreuses fonctionnalités du bureau Linux, ce qui permet aux applications distantes de s’intégrer de manière transparente dans l’environnement de bureau du client : entrée et sortie audio, imprimantes, presse-papiers, plateaux système, notifications, webcams, etc.
+Il peut également ouvrir des documents et des URL à distance et d’afficher du contenu à haute résolution (comme ça votre écran à 3 000 euros ne vous sert pas à rien).
+Pour lancer par exemple Xterm depuis une machine distante, entrez la commande suivant en prenant soin de remplacer USER par votre utilisateur et HOST par l’IP de votre machine.
+xpra start ssh://USER@HOST/ --start=xterm
+Cette méthode est similaire à ssh -X pour ceux qui connaissent, sauf que les performances seront nettement meilleures et que vous pourrez vous déconnecter et vous reconnecter à cette session autant de fois que vous le souhaitez.
+Pour vous reconnecter ou vous connecter à cette session depuis une autre machine, utilisez la commande attach comme ceci :
+xpra attach ssh://USERNAME@HOST/
+Vous trouverez plus d’infos ici sur Github et les binaires sont ici pour Windows, macOS et Linux.
+]]> Test de la friteuse à air connectée d’Ultenichttps://korben.info/?p=126778http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211122_143529_Test_de_la_friteuse_a_air_connectee_d___UltenicMon, 22 Nov 2021 13:35:29 +0000
+— En partenariat avec Ultenic —
+Ultenic, dont j’avais testé le dernier robot aspirateur m’a fait une surprise en m’envoyant une… friteuse. Mais attention, pas n’importe quelle friteuse.
+La friteuse à air K10 connectée !
+Je n’ai jamais eu de friteuse, encore moins connectée donc j’étais très curieux de voir un peu comment ça fonctionnait. Alors déjà, le concept même de friteuse à air, je ne connaissais vraiment pas… Pour moi, les friteuses ça fonctionnait qu’avec de l’huile.
+Et bien là, pas besoin d’huile pour faire frire des frittes ou griller du poulet. Même déshydrater des fruits c’est possible. Pour cela, la friteuse K10 propulse de l’air chaud dans son tiroir de 5 litres (1,2 kg) pour permettre une cuisson homogène, un peu comme un mini-four, mais en 4 fois plus rapide.
+Sur l’aspect friteuse, rien à redire. Cela fait un mois que je l’utilise et je ne peux déjà plus m’en passer… Que ce soit pour faire des frites ou des toasts de chèvre chaud ou encore des nuggets maison, le résultat est impeccable.
+Sur l’aspect tech de l’objet, c’est très agréable à utiliser. Déjà sur le dessus de la machine, il y a tout un tas de programmes automatiques pour faire cuire un peu tout ce dont vous rêvez. Légume, pizza, poulet, poisson, viande rouge, frites et bien sûr pain. Une fonction de maintien au chaud permet également de conserver à la bonne température vos aliments si l’apéro se prolonge.
+Vous pouvez bien sûr ajuster la température et la durée si besoin et une petite sonnerie retentira pour vous indiquer que c’est le moment de secouer vos frites ou retourner vos nuggets pour une cuisson plus homogène.
+Au niveau de l’application smartphone, et bien tout est pilotable à distance. Vous pouvez commencer le préchauffage, démarrer ou stopper la cuisson, voire même la programmer pour que tout soit cuit à votre arrivée. On peut clairement se passer de l’application, mais je la trouve quand même pratique pour recevoir une alerte sur mon téléphone pour penser à retourner les aliments, ou tout simplement lancer la cuisson sans quitter mes invités (ou ma série TV) par exemple. Et comme c’est compatible Alexa et Google Assistant, vous pouvez même piloter tout ça à la voix si vous êtes équipé.
+L’objet est hyper silencieux et mesure 30 cm de large, ce qui permet d’éviter d’encombrer la cuisine et niveau nettoyage, le revêtement du panier est antiadhésif du coup, ça se nettoie super bien avec de l’eau chaude et un peu de liquide vaisselle. Vous pouvez même le passer au lave-vaisselle.
+J’ai également été surpris par toutes les recettes trop cools qu’Ultenic a intégrées dans son application, mais également sous la forme d’un petit livret fourni avec la K10. Ces recettes en plus de donner de bonnes idées permettent de prendre conscience de tout ce qu’on peut faire avec la K10.
+J’en suis super content et je l’utilise quasiment tous les jours. Pour le moment, je m’en sers comme d’une friteuse, mais également de four et de grille-pain au quotidien…etc. On peut même s’en servir pour faire du pain, il faudra que je teste ça également.
+Si ça vous intéresse, vous trouverez la friteuse K10 ici sur Amazon au prix de 103 euros car elle est déjà en promo si vous êtes abonné Amazon Prime. Normalement elle coûte 129 euros. Mais la bonne nouvelle, c’est que je vous propose 10 euros de réduction supplémentaire avec le code K10KORBEN.
+Donc Amazon Prime + les codes, ça vous fait l’appareil à 93,20 € !
+]]> CuteFish OS – Une bien meilleure expérience des Linux Desktophttps://korben.info/?p=126321http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211122_090000_CuteFish_OS_____Une_bien_meilleure_experience_des_Linux_DesktopMon, 22 Nov 2021 08:00:00 +0000Suite]]>
+Hier, je vous ai présenté Q4OS qui se veut être une distribution Linux robuste et stable, mais au look assez basique malgré les nombreux thèmes.
+Toutefois si le look pour vous, c’est important, je vous invite aujourd’hui à tester CuteFish, une distrib basée sur Ubuntu qui met l’accent sur la simplicité d’utilisation, le côté pratique de l’OS et surtout le look plutôt léché. Par certains aspect, ce Linux me fait penser à la distribution Chinoise Deepin.
+Avec CuteFish, l’expérience utilisateur est au rendez-vous avec notamment des applications dédiées à l’OS et surtout cohérentes entre elles.
+CuteFish est un projet encore super récent, et le site est clairement vide donc je pense pas que ça deviendra tout de suite votre Linux de référence, mais quoiqu’il en soit, c’est un projet à suivre.
+S’il tient ses promesses, il permettra d’aider à la transition vers Linux Desktop des utilisateurs habitués à Windows, n’en déplaise à Linus Torvalds.
+Et si vous cherchez le grand amour niveau Linux, je vous renvoie vers cet article.
+]]> Q4OS – Une distribution Linux Desktop stable et puissantehttps://korben.info/?p=126313http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211121_090000_Q4OS_____Une_distribution_Linux_Desktop_stable_et_puissanteSun, 21 Nov 2021 08:00:00 +0000
+Comme hier, on reste dans la thématique Linux avec aujourd’hui une petite présentation de Q4OS.
+Q4OS est une distribution Linux desktop rapide et conviviale, basé sur Debian Linux.
+Ce système d’exploitation fournit un ensemble d’utilitaires et d’optimisations spécifiques, tout en offrant un système pensé pour la productivité. Rien de superflu dans Q4OS et surtout pas de processus inutile qui viendrait occuper les ressources du système. On est vraiment sur quelque chose d’assez pur et de surtout hyper stable.
+Car oui, le but de Q4OS est de proposer un système LTS (Long Term Support) recevant des mises à jour de sécurité bien après sa sortie. C’est d’ailleurs ce que garantit la base Debian
+Tout cela le rend idéal pour les personnes qui souhaitent obtenir un environnement de travail adapté à leurs besoins et préférences individuels.
+Niveau look, Q4OS n’est pas en reste avec certes un design assez basic, mais plusieurs thèmes parmi lesquels j’en suis sûr, vous trouverez votre bonheur. Pour l’environnement de bureau, Q4OS embarque l’environnement desktop Trinity qu’on en trouve sur aucune distribution Linux grand public. Trinity est d’ailleurs capable de cohabiter parfaitement avec l’environnement Plasma si vous le souhaitez.
+De ce point de vue, Q4OS convient aussi bien aux nouveaux venus qu’aux utilisateurs expérimentés. Un installeur pour Windows est d’ailleurs dispo, ce qui vous permettra d’installer Q4OS sur un PC équipé de Windows et profiter du multi-boot (Windows et Linux) au lancement de la machine.
+Si cet OS vous intéresse, c’est par ici que ça se passe.
+Maintenant une question : Pensez-vous que Q4OS devrait figurer dans mon Top des meilleures distributions Linux ?
+]]> AutoArchive – Pour faire des sauvegardes rapides sous Linuxhttps://korben.info/?p=126309http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211120_090000_AutoArchive_____Pour_faire_des_sauvegardes_rapides_sous_LinuxSat, 20 Nov 2021 08:00:00 +0000
+Si vous avez régulièrement besoin de faire des sauvegardes de certains répertoires sous Linux, voici un petit utilitaire en ligne de commande capable de créer des sauvegardes facilement.
+L’idée de ce programme baptisé AutoArchive est que toutes les informations essentielles à la création d’une sauvegarde unique (comme la liste des répertoires à archiver, le nom de l’archive, etc.) sont stockées dans un seul fichier, le fichier de spécification de l’archive.
+Il peut utiliser alors la commande ‘tar’ pour créer des archives, le tout en ligne de commande et supporte également les sauvegardes incrémentales.
+Pour installer AutoArchive, il suffit d’entrer la commande suivante dans un terminal :
+pip install autoarchive
+A vous ensuite de configurer les archives dont vous avez besoin. Par exemple pour sauvegarder l’ensemble du /home/, vous devrez créer un fichier user-configs.aa, le placer dans le répertoire ~/.config/aa/archive_specs/ et y indiquer le contenu suivant :
+# ------ begin of user-configs.aa ------
+# AutoArchive's archive specification file for users configuration files
+[Content]
+name = user-configs
+path = /home
+include-files = */.*
+exclude-files = foo
+
+[Archive]
+dest-dir = /mnt/backup
+# ------ end of user-configs.aa ------
+Comme vous pouvez le voir dans ce code, le fichier user-configs.aa contient le chemin du ou des répertoires à sauvegarder (path), le pattern des fichiers à inclure et à exclure.
+Ensuite il ne reste plus qu’à lancer la commande :
+aa user-configs
+Et voilà. Évidemment AutoArchive dispose de plusieurs paramètres pour forcer la création d’un backup complet (par défaut c’est incrémental) ou tout simplement lister les archives créées avec l’outil. Pour toute la documentation, je vous invite à lire cette page.
+]]> La musique de jeux vidéo est un art !https://korben.info/?p=126304http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211119_090000_La_musique_de_jeux_video_est_un_art__Fri, 19 Nov 2021 08:00:00 +0000
+Vous vous souvenez forcément de mon article où je vous présentais Video Game Music qui permet d’écouter et de télécharger des milliers de chansons tirées de nombreux jeux vidéos, qu’ils soient anciens ou récents.
+Et bien voici son petit frère : OCRemix !
+Fondée en 1999, OverClocked ReMix (OCRemix) est une communauté dédiée à la promotion de la musique de jeux vidéo en tant que forme d’art à part entière.
+L’objectif d’OCRemix est de proposer sur son site web des milliers d’arrangements gratuits pour les fans, ainsi que des informations sur la musique de jeux et leurs compositeurs. Évidemment, toutes les consoles et les jeux PC sont représentés
+Vous y trouverez également des ressources pour les artistes qui veulent se lancer et bien évidemment une communauté très active, totalement fan de musique de jeux vidéo.
+L’histoire est très sérieuse puisqu’en 2016, OCReMix a officiellement été prise sous l’aile de Game Music Initiative, Inc, une organisation caritative à but non lucratif qui aide au financement du site.
+Voici un exemple de ce qu’on peut trouver sur le site. Ici il s’agit de Chrono Trigger, un jeu un peu ancien, d’où le côté 8 bits…
+… mais on peut également écouter des choses plus actuelles comme ces remix de Super Mario Galaxy :
+Vous y trouverez de nombreux remix et compositions inspirées de jeux comme les Pokemons, Zelda, Donkey Kong, Metroid, Secret of Mana, Starcraft et j’en passe. La plupart des morceaux sont écoutables via un clip vidéo YouTube ou directement téléchargeables au format MP3.
+À découvrir ici.
+]]> Le mystère Satoshi, un docu à ne pas manquerhttps://korben.info/?p=126771http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211118_142923_Le_mystere_Satoshi__un_docu_a_ne_pas_manquerThu, 18 Nov 2021 13:29:23 +0000
+Si vous vous intéressez un peu aux cryptomonnaies, et notamment, au Bitcoin, vous connaissez forcément son créateur : Satoshi Nakamoto.
+Il s’agit d’un pseudo derrière lequel se cachent une ou plusieurs personnes qui ont choisi l’anonymat pour ne pas être exposés médiatiquement et judiciairement à cause du Bitcoin. Concrètement on ne sait rien de personnel à son sujet, car Satoshi a disparu très vite après le lancement de Bitcoin. Il était en discussion avec les développeurs qui ont repris au tout début et dès que la CIA a commencé à s’y intéresser (notamment à cause de Silk Road), il a disparu des écrans radars.
+Mais on connait son wallet Bitcoin auquel il n’a pas touché et sur lequel dort l’équivalent de 73 milliards de dollars en Bitcoin. Faisant de Satoshi la 15e « personne » la plus riche du monde. Toutefois les rumeurs vont bon train et il y a une liste de personnes « suspectée » d’être Satoshi, mais la piste la plus sérieuse serait Nick Szabo, l’inventeur à l’époque du Bit Gold né avant le Bitcoin.
+Bref, vous l’aurez compris, on n’en sait rien, mais c’est un angle intéressant pour aborder la naissance et le développement du Bitcoin. Arte l’a fait avec Rémi Forte en réalisant ce documentaire de 6 épisodes qui retrace l’aventure Bitcoin à la première personne incarnée par Satoshi lui-même ! (Enfin, ce n’est pas vraiment lui, mais vous m’avez compris).
+À découvrir ici.
+]]> Un seul lien pour rassembler toute votre identité numériquehttps://korben.info/?p=126298http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211118_090000_Un_seul_lien_pour_rassembler_toute_votre_identite_numeriqueThu, 18 Nov 2021 08:00:00 +0000
+Si vous êtes sur certains réseaux sociaux comme TikTok ou Twitter, vous savez sans doute que vous pouvez indiquer un lien dans votre biographie.
+Toutefois, si vous faites plein de choses sur Internet, comme c’est mon cas, difficile d’indiquer TOUS les liens de toutes les activités en lignes et tous les réseaux sociaux que vous animez.
+Heureusement, il existe un service qui s’appelle Bio.link qui permet de rassembler sur une seule page tous vos liens. Pratique pour renvoyer les gens vers vos différentes activités et bien sûr faire évoluer le lien au fil du temps.
+Sur Bio Link, vous pourrez donc ajouter tous les médias sociaux (Instagram, Twitter, TikTok…etc.) mais également des liens custom de votre choix.
+Le design est également modifiable selon vos goûts, avec même des thèmes animés. Vous trouverez forcément quelque chose qui vous plait.
+Le truc sympa avec ce service c’est qu’il propose également des statistiques qui vous permettront de mieux évaluer le taux de clic sur votre page Bio.link et ce que les gens vont voir en priorité. Le service vous offre également la possibilité de créer une newsletter gratuite pour votre communauté et ça, c’est vraiment cool pour garder le contact et forger votre communauté.
+Bref, si vous voulez concentrer en un seul endroit toute votre identité numérique et vos liens et établir un pont avec votre communauté, sans trop y passer de temps, Bio.link est une excellente solution gratuite sur laquelle je vous invite à jeter un œil.
+]]> Un super générateur de noms de personnages (+1 000 000 d’idées de noms)https://korben.info/?p=126291http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211117_090000_Un_super_generateur_de_noms_de_personnages___1_000_000_d___idees_de_noms_Wed, 17 Nov 2021 08:00:00 +0000
+Hier je vous expliquais comment organiser l’écriture de votre roman avec Manuskript, mais qu’est ce que serait un bon roman sans noms impactant pour vos personnages ?
+Et croyez-moi, trouver des noms pour des personnages de fiction n’est pas une chose aisée. Il faut que le nom soit porté, qu’il incarne quelque chose en lien avec le personnage. Bref, on est dans la sensation plus que dans la logique, mais sachez que tous les noms ne vont pas à tous les personnages.
+Heureusement, pour trouver de chouettes noms pour vos personnages (y compris si vous cherchez un nouveau pseudo pour un jeu en ligne ou un réseau social, il y a ce générateur de noms aléatoires qui dispose de plus de 1 000 000 de bons noms pour vous inspirer.
+Triez-les en utilisant des filtres tels que la langue, le sexe et le genre fantaisie (humain, dragon, elf) et découvrez même la signification de vos noms préférés.
+À titre d’exemple, si je voulais un personnage français, je pouvais l’appeler Nicodème Joubert, ça passerait crème et c’est très original.
+Et si j’adoptais un dragon, il pourrait s’appeler Drakus, Raek ou encore Lothim.
+Et si votre truc, c’est les noms de Dieux ou les noms médiévaux, ce générateur vous trouvera des noms de Dieux égyptiens, grecs, hindous…etc et médiévaux des pays nordiques, des Romains, des germains, des Celtes ou encore des Anglais.
+Il y a de quoi faire et ça vous donnera peut-être même envie de créer vos propres récits mythologiques alternatifs !
+]]> Organisez votre écriture avec Manuskripthttps://korben.info/?p=126284http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211116_090000_Organisez_votre_ecriture_avec_ManuskriptTue, 16 Nov 2021 08:00:00 +0000
+Quoi de mieux que l’écriture ? Pouvoir coucher par écrit des idées, des sentiments, ou encore insuffler de la vie ou de la passion dans les choses. Tout cela grâce à ce simple outil : l’écriture.
+Mais écrire et parfois en faire sa profession, c’est à dire devenir écrivain est un long parcours. Alors, autant être accompagné par les bons outils. En effet, même s’il suffit d’un stylo ou d’une vieille machine à écrire pour produire une histoire, c’est quand même mieux quand l’exercice devient plus fluide.
+Et ça on peut l’avoir avec certains outils gratuits comme Manuskript.
+Manuskript est un outil qui conviendra aux écrivains qui veulent organiser leur production d’écrits et tout planifier avant de coucher le moindre mot. Pour cela, il existe une méthode qui s’appelle la méthode du flocon de neige.
+Le flocon de neige peut vous aider à transformer votre idée en livre, en vous guidant pas à pas et en vous posant des questions pour aller plus loin.
+Ainsi, tout en écrivant, vous prendrez des notes sur chaque personnage, intrigue, événement, ou encore lieu de votre histoire. En effet, une bonne fiction n’arrive pas par hasard avec l’inspiration divine… Non, non.
+Elle est imaginée, fabriquée, forgée petit à petit. Et il est plus efficace de faire ce travail de conception en amont. Mais la conception est une tâche difficile. Alors pour y arriver, il est possible d’adopter cette technique du flocon de neige qui permet de prendre des notes tout au long de l’écriture et d’affiner au fil du temps votre histoire, les intrigues, les lieux ou vos personnages.
+Un genre d’écriture itérative qui plaira aux développeurs.
+Et pour y arriver, Manuskript est là pour vous aider à organiser vos pensées et vos bribes d’information de manière hiérarchique. Évidemment, tout est réorganisable au fur et à mesure de votre progression. L’éditeur offre également un mode sans distraction qui vous permet de vous concentrer, y compris en fixant un nombre de mots à écrire ou un temps journalier à passer. Car oui, pour apprendre à écrire, et à bien écrire, il faut écrire au moins un petit peu tous les jours.
+Ainsi, voyez Manuskript comme un assistant qui vous accompagnera dans le développement de vos idées pour en faire un ensemble cohérent, avec des personnages complexes, des intrigues compliquées et un univers détaillé.
+Merci à Laurent.
+]]> Rejouez à Heroes of Might and Magic II avec ce nouveau moteurhttps://korben.info/?p=126278http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211115_090000_Rejouez_a_Heroes_of_Might_and_Magic_II_avec_ce_nouveau_moteurMon, 15 Nov 2021 08:00:00 +0000
+Qui ici se souvient de Heroes of Might and Magic II ?
+Ce jeu de stratégie au tour par tour développé pour Windows par New World Computing était le premier titre de Might and Magic publié par The 3DO Company et le deuxième épisode de la série des Heroes of Might and Magic.
+La suite de Heroes of Might and Magic est sortie le 1er octobre 1996 pour être extrêmement bien accueillie par la critique. Le jeu a été salué par plusieurs prix de nombreuses publications et s’est extrêmement bien vendu. Sa durée de vie a d’ailleurs été prolongée grâce à deux packs d’extension, Heroes II : The Price of Loyalty and Heroes II : Desecrated Lands.
+Dans ce jeu, vous devez donc incarner un héros (Nécromancien, Magicien, Chevalier, Barbare, Sorcière et Mage) qui doit acquérir de nouvelles compétences et bâtir son royaume en capturant les châteaux des autres et en combattant leur armée.
+Bref, tout ça pour dire que 1996, ça commence à dater et même si le jeu est trouvable sur Gog, vous pouvez le redécouvrir au travers de FHeroes 2.
+Ce projet open source multiplateforme, développé from scratch par des fans, est conçu pour reproduire le jeu originel avec des améliorations significatives dans le gameplay, les graphiques et la logique de jeu. FHeroes pend en charge les graphiques haute résolution, propose une IA améliorée, de nombreux correctifs ainsi que des améliorations de l’interface utilisateur.
+Ce portage du moteur de Heroes of Might and Magic II permet ainsi de redécouvrir ce titre mythique tout en profitant du confort actuel de nos machines avec des graphismes de qualité et des bugs corrigés.
+FHeroes fonctionnera aussi bien sous Windows, macOS et Linux et ô surprise, vous pourrez même y jouer sur votre Nintendo Switch ou sur votre vieille PS Vita. Évidemment, il vous faudra les fichiers d’origine du jeu pour en profiter, donc quand même passer par la case « achat du Gog » ou « Torrent tombé du camion ».
+Mais vous pouvez également vous contenter des fichiers de la démo qui sont inclus dans les zip de FHeroes.
+Pour installer FHeroes 2, c’est par ici que ça se passe.
+Amusez-vous bien !
+]]> Créez un monde virtuel en 3D et faites en un metaversehttps://korben.info/?p=126194http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211114_090000_Creez_un_monde_virtuel_en_3D_et_faites_en_un_metaverseSun, 14 Nov 2021 08:00:00 +0000
+OpenSimulator est un outil libre qui permet de monter un serveur d’applications 3D multiplateformes.
+Alors à quoi ça sert ?
+Et bien ça permet aux développeurs de créer des mondes virtuels et des les personnaliser comme bon leur semble, dans le langage de leur choix (C#, .Net). L’objectif ici est de créer des environnements virtuels similaires à Second Life.
+Et pourquoi c’est cool ?
+Et bien avec le renouveau des metaverses notamment dans le monde de la cryptomonnaie et des NFTs, c’est forcément un avantage de profiter de cette brique OpenSimulator.
+Disponible sous Windows et Linux, OpenSimulator vous permettra de concevoir des environnements en 3D de tailles variables qui supporte de nombreux utilisateurs. Ces utilisateurs pourront y accéder via le protocole de leur choix et votre metaverse fera preuve de réalisme avec le support des fondamentaux de la physique en temps réel.
+OpenSimulator est un peu rude à prendre en main, mais je suis certain que vous arriverez à faire de belles choses avec cet outil.
+]]> Comment créer, acheter ou vendre un NFT ?https://korben.info/?p=123472http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211113_090000_Comment_creer__acheter_ou_vendre_un_NFT__Sat, 13 Nov 2021 08:00:00 +0000
+Cet article n’est en aucun cas un conseil en investissement, mais simplement la présentation d’un projet technique autour de la blockchain.
+Les NFT, vous en avez probablement entendu parler si vous vous intéressez aux cryptomonnaies, mais également si vous êtes un artiste cherchant à vivre de votre art ! En effet, en ce moment, c’est la fête des records… À l’heure où j’écris ces lignes, l’inventeur du Nyan Cat a touché plus de 470 000 euros pour la nouvelle version de son GIF animé.
+L’artiste américain Beeple a quant à lui empoché pas loin de 70 millions de dollars pour une mosaïque numérique.
+Ces cryptopunk générés aléatoirement sont quant à eux vendus pour les plus rares, plusieurs millions de dollars.
+Mais ne vous y trompez pas, dans la plupart des cas, les artistes qui empochent ce sommes folles sont soit déjà très connus soit ont produit une œuvre tellement originale qu’elle a immédiatement obtenu une importante valeur auprès de la communauté des amateurs d’art.
+Car oui aussi bizarre que cela puisse vous paraître, le marché des NFT s’apparente beaucoup au marché de l’art physique que nous connaissons tous. Certaines œuvres et certains artistes ont la côte et d’autres moins.
+Mais certains artistes arrivent à tirer un petit revenu confortable en vendant leurs œuvres en NFT à leur communauté chaque mois. La vague NFT est en train de tout emporter et si vous pensez que c’est un effet de mode vous vous trompez. Les artistes qui actuellement refusent de s’intéresser au NFT seront bientôt mis devant le fait accompli et ne pourront pas y échapper. Et cela je vous l’explique également.
+Ce guide n’est pas pour…
+Ici, je donne les clés pour permettre aux artistes de bien démarrer avec les NFTs. Mais attention, ce n’est pas pour vous :
+Si vous connaissez déjà bien le monde des cryptomonnaies / NFTs
+Si vous êtes un expert technique
+Si vous avez l’intention de voler les œuvres des autres pour les vendre en NFT
+Si vous cherchez un moyen de vous faire beaucoup d’argent facilement
+J’ai plutôt conçu ce guide de démarrage pour mes amis artistes qui justement ne sont pas techniques, et se retrouvent perdus face à ce nouveau moyen de vendre de l’art et qui veulent un accompagnement. Et pour ceux qui préfère une formation vidéo, j’ai également réalisé une formation vidéo.
+La définition des NFTs (Non Fungible tokens) ?
+NFT ça veut dire « Non Fungible Token » et il s’agit tout simplement d’un « objet » numérique enregistré dans une blockchain.
+Bon, le Bitcoin, vous voyez ce que c’est. Si je vous donne 1 Bitcoin, bon déjà ça veut dire que je suis blindé et généreux… mais le Bitcoin que je vous donne, même s’il a une valeur sentimentale pour vous parce que je vous l’ai donné, et bien ça reste un Bitcoin. On ne peut pas distinguer un Bitcoin d’un autre Bitcoin et les 2 auront la même valeur.
+Avec les NFT c’est différent. Chaque NFT est unique et donc il peut être acquérir une valeur propre.
+Toutes les données d’un NFT sont donc stockées dans une blockchain qui n’est ni plus ni moins qu’une base de données décentralisée donc « indestructible ». Chaque bloc de la chaîne, peut contenir de la donnée et cette donnée n’est alors plus modifiable ou supprimable.
+Par exemple, quand vous êtes sur une application mobile ou un jeu vidéo qui vend de l’équipement virtuel pour votre personnage, si demain le jeu s’arrête, vous perdez ces objets (et donc votre argent). Grâce à la bockchain, ces objets virtuels continueront d’exister pour toujours dans votre wallet (portefeuille) crypto. Et vous continuerez à avoir la main dessus.
+Les NFT peuvent être de l’art comme des œuvres graphiques ou encore des musiques, mais également des mondes virtuels 3D, des cartes à collectionner ou des noms de domaine décentralisés. À partir du moment où c’est numérique, ça peut se mettre en NFT.
+Mais combien vaut un nft ?
+Cette question vaut son pesant d’or. Vous le savez, car vous êtes adulte : sur cette planète, tout ce qui est rare est cher.
+Mais une œuvre numérique est par définition duplicable à l’infini. Image, son, texte… copié collé et c’est parti ! Comment faire alors pour rendre unique une œuvre numérique ? Avec les NFT !
+Si un créateur décide de proposer sous la forme d’un NFT, l’une de ces œuvres numériques, et bien ça rend unique cette œuvre, car elle sera vérifiée, horodatée et placée pour l’éternité dans la blockchain. Attention, ça ne veut pas dire qu’on ne peut pas copier l’œuvre. Cela veut simplement dire que celle-ci en particulier est une version authentique proposée par le créateur et que c’est telle personne qui la possède.
+Je sais c’est conceptuel.
+Un créateur peut également décider d’un nombre précis de copies d’un NFT qu’il autorise. C’est un peu comme un tirage numéroté. La même oeuvre sera présente dans plusieurs NFT, mais comme elles seront numérotées, elles resteront quand même uniques. On peut imaginer que le tirage #1 aura même un peu plus de valeur que le tirage #2. C’est fou non ?
+Aujourd’hui, des NFT peuvent se vendent à partir de quelques dollars à plusieurs millions de dollars, c’est de la folie.
+Mais y’a vraiment des gens qui achètent de l’art en NFT ?
+Oui, les collectionneurs. Ceux qui ont la fièvre de la collection… Il y a bien des gens qui collectionnent les fèves, les capsules de bière ou les coups d’un soir. Alors pourquoi pas des œuvres numériques ?
+Plus sérieusement, un véritable collectionneur recherchera surtout ce qui est rare : une pièce de monnaie frappée à une dizaine d’exemplaires, la première édition d’un livre ancien, un tableau d’un artiste connu…etc. Le NFT lui permet ainsi de collectionner LA première édition originale d’une œuvre numérique et personne ne pourra se l’attribuer puisque le titre de propriété sera gravé dans la blockchain.
+Les NFT attirent donc d’abord les amateurs d’art traditionnel… mais pas uniquement puisqu’on peut également collectionner en NFT des tweets, des memes Internet, des objets virtuels dans des jeux ou encore des « moments » comme des paniers marqués au basket dans des championnats NBA et j’en passe.
+Ça attire donc également les fans de certains sports ou les joueurs collectionneurs.
+Si je voulais, je pourrais même proposer chaque article de korben.info site en NFT et vous deviendriez officiellement propriétaire de cet article ou d’un autre article de mon site. Et alors à moi la richesse… ou pas.
+Évidemment, au-delà de la collection, il y a également des notions de spéculation. Certains achètent les NFT d’artistes qui débutent en espérant qu’un jour ils deviennent célèbres et que leurs oeuvres numériques prennent de la valeur. Ce n’est pas plus con que de miser un peu d’argent dans une cryptomonnaie en se disant que dans 5 ans, elle sera dans le Top 5 des cryptomonnaies. C’est de l’investissement et comme tous les investissements, c’est un pari sur l’avenir.
+Est-ce que c’est bien pour les artistes qui veulent créer leur NFT ?
+Alors là, grande question. Si vous créez un NFT, vous pouvez le vendre directement à l’un de vos fans. Il ou elle saura qu’il ou elle a l’original, que cet original est vérifié et authentifié dans la blockchain et vous de votre côté, vous empochez l’argent (enfin, la cryptomonnaie) moins le pourcentage de la plateforme via laquelle vous avez vendu le NFT.
+Mais ça peut aller au-delà, car un créateur original peut continuer à percevoir de l’argent à chaque fois que son NFT est revendu. Ainsi, une œuvre peut se balader de collectionneur en collectionneur et l’artiste touchera une commission à chaque transfert. De plus, le créateur peut, s’il le souhaite, garder les droits de son œuvre. Ce n’est pas parce que l’édition originale de votre oeuvre a été vendue, que je vous ne pouvez pas en vendre d’autres ou que vous en perdez la propriété. Non, non, les droits d’auteurs sont toujours à vous. Pour reprendre une analogie avec le monde réel, ce n’est pas parce que j’achète le tirage #1 d’un livre de collection que l’auteur en perd les droits. Et ce n’est pas parce que j’achète un morceau de musique en NFT que je puisse ensuite le proposer en streaming ou le revendre moi-même sur Amazon MP3. Non, non… Ce serait comme dire : « Je vais à la Fnac, j’achète un livre, je le photocopie et je revends les copies papier sur Amazon ». Non, non c’est pas comme ça que ça fonctionne.
+Bref, en tant qu’artiste vous n’êtes pas dépossédé de votre œuvre.
+Quels sont les risques d’acheter un NFT ?
+Mais attention, il y a quand même des risques. Certains artistes numériques qui ne sont pas dans le business du NFT commencent à s’oppose à cette pratique, car des escrocs volent leurs œuvres sur leur site web ou leur compte Twitter et s’amusent à les revendre sur les plateformes alors qu’ils n’en ont pas les droits. C’est une belle escroquerie et ces derniers se sentent volés. Mais le sont-ils vraiment ?
+Je pense que la personne qui se fait vraiment escroquer ici, c’est celle qui a acheté une œuvre en NFT sans vérifier que c’était bien l’artiste qui la vendait. Maintenant les responsables sont évidemment l’escroc qui revend les œuvres des autres et bien sûr les plateformes NFT qui ferment les yeux.
+Et même si une œuvre n’est pas tout de suite « tokenisée » comme on dit, il est possible qu’un escroc place carrément en NFT un tweet (qu’il contienne une œuvre ou pas).
+Mais comme l’apparition du MP3 a forcé les artistes les plus réticents à proposer leur musique au format numérique, il y a de fortes chances que dans le futur, les artistes soient forcés de proposer des NFTs de leurs œuvres s’ils ne veulent pas laisser la place aux escrocs. Et je pense qu’il y a également un bel avenir pour les plateformes de NFT qui valident l’identité des artistes et donc l’authenticité des œuvres, comme ce que propose la plateforme NFT SuperRare. C’est une garantie pour les acheteurs également.
+Enfin, dans une certaine mesure car parfois, de gros artistes comme ici le Wu-Tang Clan s’amusent également à voler les œuvres d’artistes plus petits pour les vendre en NFT. On ne s’en sort plus.
+Pourquoi vous devez vous y intéresser aux tokens NFTs crypto ?
+En tant qu’artiste, vous devez vous y intéresser, car c’est un nouveau moyen de faire connaître et vendre votre art. Que vous soyez pour ou contre les cryptomonnaies ne changera pas grand-chose. Comme vous avez pu le constater, n’importe qui peut créer un NFT à partir de vos créations artistiques. Et cela c’est hyper gênant pour les acheteurs comme pour les artistes qui ne toucheront pas un centime.
+Comme le MP3 à son époque, le NFT est un game changer, c’est-à-dire qu’il va changer les règles du jeu de la vente d’art numérique. Et si en tant qu’artiste vous ne vous intéressez pas, d’autres le feront à votre place, et votre art sera de toute façon vendu comme NFT alors autant vous y mettre.
+C’est d’une certaine manière, malheureux, mais tous les artistes seront dans quelques années confrontés aux NFTs, et je pense qu’ils n’auront pas d’autres choix que de s’y mettre.
+Comment créer et trader son premier NFT ?
+Si vous souhaitez créer des NFT, vous devrez déterminer d’abord déterminer quel sera votre public d’acheteurs potentiels. Et dès que le NFT est prêt, il faudra alors s’adresser à ce public d’acheteur directement. Ce sera plus efficace que de mettre un NFT en ligne et d’attendre qu’un acheteur qui vous apprécie tombe dessus. Car n’oubliez pas, la plupart des gens sur la planète n’ont même pas conscience que les NFTs existent. Pas encore.
+Avant de créer votre NFT, vous devez d’abord choisir la blockchain dans laquelle vous allez mettre ce NFT. Dans 99% des cas, ça se passera sur la blockchain Ethereum avec des tokens de type ERC-721. Et il y aura des frais liés au « mintage » de votre token. Les blockchains Tron, Polkadot, Tezos, Cosmos, Matic et Klaytn permettent également d’y déposer des objets numériques. Je ne vais pas rentrer dans le détail de chacune de ces blockchains, mais vous devriez également vous y intéresser.
+Alors ‘est quoi ça, le mintage ? Et bien « Minter » (je francise le terme) c’est inscrire définitivement votre œuvre dans la blockchain, c’est-à-dire la faire vérifier et horodater. Et comme c’est une transaction, et bien il y a des frais de transactions lors de la vente du NFT.
+Les plateformes sont nombreuses, mais les 2 plus connues sont :
+Opensea
+Mintable
+Sur Opensea et Mintable, l’expérience de création est assez conviviale et permet surtout de créer son NFT gratuitement et rapidement. Les frais arriveront plus tard lorsque vous réaliserez la vente de votre NFT.
+Cependant Opensea étant aussi un agrégateur, si vous mettez quelque chose sur Mintable (ou Rarible ou ailleurs…), il sera visible sur Opensea.
+En ce qui me concerne, ma préférence va à Mintable que je trouve un peu plus sympa à utiliser, donc je partirai sur ce service pour la suite des explications.
+De quoi avez-vous besoin :
+D’une œuvre numérique sur laquelle vous avez les droits (c’est éthiquement préférable)
+D’un wallet (portefeuille crypto de type metamask, coinbase wallet ou Trust wallet qui supportent les NFTs)
+Je vais donc d’abord vous expliquer comment installer un wallet.
+Comment installer votre portefeuille de cryptomonnaies ?
+Je ne vais pas m’étendre sur le sujet ici car j’ai déjà réalisé un article complet sur le sujet: Comment installer Metamask ?
+Comment vendre un NFT ?
+Maintenant, vous avez tout ce qu’il faut pour vendre votre NFT.
+Allez sur Mintable et inscrivez-vous en cliquant sur le bouton « Create Account » en haut à droite du site. Il y aura un petit code envoyé par email pour valider votre compte et c’est tout.
+Cliquez ensuite sur le bouton en haut à droite « Connect a Wallet » afin de connecter votre Metamask au site.
+Cliquez ensuite sur le bouton « Mint an Item » dans la barre du haut. Lorsque la fenêtre pop-up apparaît, choisissez « Create a new item ».
+La fenêtre suivante vous propose de choisir entre la méthode facile et la méthode avancée pour créer votre NFT. On va partir sur la méthode facile (Easy).
+Après c’est facile, il suffit de remplir le formulaire avec :
+Une catégorie
+Un titre
+Un sous titre
+Une description
+Et un fichier d’illustration qui peut être une vidéo, une image ou un GIF animé. C’est l’image vignette que verront les gens quand ils se baladeront sur le site.
+Pour maximiser vos chances de vendre votre NFT, vous ne devez pas négliger le temps passé sur la rédaction de la description. Il faut que cela donne envie à l’acheteur potentiel. Expliquez votre art, donnez quelques clés, emmenez le lecteur dans votre univers. C’est très important.
+Mais le VRAI NFT, que ce soit une musique, un zip ou une vidéo longue voire une image en très haute définition, c’est au niveau de la case « Attach a private file » que ça se passe. Ça vous permettra d’ajouter une pièce jointe téléchargeable uniquement par la personne qui possédera le NFT.
+Vous pouvez si vous le désirez, transférer également le copyright de votre fichier à l’acheteur.
+Ensuite vient la partie « tarifs ». Ici ça fonctionne comme sur eBay, à savoir que vous pouvez spécifier un prix fixe, ou un prix de démarrage pour des enchères ou des enchères avec achat immédiat. Le prix peut être indiqué en dollars $ ou en Ethereum Ξ.
+Une fois que vous êtes prêt, cliquez sur « LIST THIS ITEM ». Il vous sera alors demandé de signer cette transaction avec Metamask. C’est totalement gratuit et dès que c’est fait, votre NFT sera mis en vente sur le shop Mintable.
+Vous pourrez alors consulter la page de votre NFT et dès que la modération du site aura accepté votre fichier, vous pourrez commencer à partager l’URL avec vos potentiels acheteurs.
+Félicitations, votre premier NFT est en ligne et ça ne vous a rien coûté. Il ne vous reste plus qu’à le vendre. Et pour cela je vous ai sélectionné plusieurs stratégies peu connues des artistes qui sont pourtant des canaux de diffusions essentiels.
+Comment faire la promotion d’un NFT ?
+Créer un NFT n’est pas si complexe. Le vrai challenge maintenant ça va être de le vendre. Et pour ça, et bien vous allez devoir le faire connaître auprès de votre communauté.
+Vous pouvez bien sûr appliquer toutes es stratégies marketing classiques à savoir, le référencement naturel, les emailings, la création de contenus, la publicité, l’appel à des influenceurs, ou encore faire appel à des « marchands d’arts » spécialisés en NFTs …etc., mais cela implique tout d’abord des dépenses et également que votre communauté soit familiarisée avec le concept des NFTs.
+Le mieux est donc de faire la promotion de vos œuvres auprès des gens qui pratiquent déjà l’achat d’art via NFT : les collectionneurs.
+Je vais partir du principe que votre NFT est une œuvre unique et intéressante et je vais vous montrer comment en faire la promotion notamment en vous créant une communauté de gens fidèles qui apprécieront votre art, l’achèteront et surtout en parleront sur les réseaux.
+Embrasser les réseaux sociaux
+Pour que votre enchère NFT soit visible, vous devez absolument en parler sur les réseaux sociaux et surtout partager le lien vers la page concernée. Twitter est actuellement la plateforme la plus en vogue pour faire connaître et vendre son art numérique, car le site permet aux gens qui vous suivent de retweeter, c’est-à-dire repartager votre message initial, à l’ensemble de leur communauté. Ainsi vous démultipliez la visibilité de votre NFT. Mais il permet également de partager facilement des galeries d’image, du son, de la vidéo…etc. Je ne serai pas surpris si à terme, Twitter proposait une intégration des NFTs sur sa plateforme.
+Instagram est également hyper important pour mettre en avant votre portfolio et exposer vos projets actuels, mais également vos travaux passés. En effet, quand un collectionneur cherche à acheter une oeuvre d’art, il se renseigne évidemment sur l’artiste, sa côte et son évolution.
+Vous devez donc exister en tant qu’artiste sur les réseaux et montrer l’évolution de votre art, montrer que vous gagnez en popularité… etc. Partagez aussi votre quotidien, la façon dont vous créez, des moments privilégiés avec votre communauté.
+Cela s’appelle le personal branding (marque personnelle) et c’est super important de travailler son image en tant qu’artiste si un jour vous souhaitez vivre de votre art.
+Twitter et Instagram vous permettront également d’agréger une communauté au fil du temps et si vous utilisez correctement les hashtags (mots clés) vous pourrez toucher énormément de personnes intéressées par les NFT en quelques messages. Voici une liste de mots clés que vous pouvez utiliser, mais n’hésitez pas à en trouver de nouveaux, peut-être plus confidentiels pour ne pas être noyé dans la masse de contenus :
+#cryptoart
+#cryptoartist
+#digitalart.
+#nft
+#nftanimation
+#nftart
+#nftartist
+#nftcollector
+#nftcommunity
+#nftphotography
+#nfts
+#nftvideo
+Rejoindre les communautés spécialisées en NFT
+Il existe de nombreux groupes Telegram et de serveur Discord où les collectionneurs et passionnés de NFTs se retrouvent. Certains de ces groupes sont plus ou moins privés et vous pouvez y être invité par d’autres utilisateurs. Il existe même des groupes devenus légendaires dans le monde de l’art NFT qui sont exclusivement réservés aux grands collectionneurs. Leur accès est restreint, et ceux qui parviennent à y entrer sont considérés comme l’élite.
+Vous pouvez également vous rendre sur Reddit dans des communautés comme /r/CryptoArt pour faire la promotion (en douceur) de vos NFTs ou tout simplement demander des conseils ou répondre à ceux qui posent des questions, et ainsi vous faire remarquer en tant que Crypto Artiste.
+Explorer les metaverses
+Les metaverses sont des univers 3D accessibles via un navigateur qui vous permettent d’explorer un monde virtuel à l’aide de votre avatar et d’y effectuer différentes actions comme créer votre espace et d’interagir avec d’autres personnes. Dans le monde des NFTs, les plus connus sont Cryptovoxels, Somnium Space et Decentraland. Vous y trouverez des bâtiments appartenant à des collectionneurs et des créateurs de NFT où sont exposées leurs collections, et où les gens se réunissent pour s’amuser, faire des rencontres ou participer à des événements et des expositions.
+Vous trouverez également des événements dédiés aux NFT sur des sites comme AltspaceVR.
+Faciliter le processus d’achat
+Si vous avez déjà une communauté, mais que celle-ci n’est pas sensibilisée au sujet des NFTs, vous allez devoir communiquer à la fois sur vos œuvres NFT, mais également sur la méthode à employer pour acheter votre NFT. Le mieux étant de faire une page ou un site dédié à la vente du NFT expliquant votre démarche et offrir un moyen plus traditionnel (paiement par CB, virement…etc) d’acheter ce NFT sans devoir se former aux cryptomonnaies. Une fois le paiement encaissé, vous pourrez ainsi envoyer un tutoriel à l’acheteur et lui demander de vous communiquer son adresse de wallet pour lui transférer le NFT.
+Lancer des collaborations
+Les collaborations sont un excellent moyen de toucher de nouvelles personnes. Après vous être établi en tant qu’artiste NFT, proposez des collaborations à d’autres artistes. Cela vous permettra d’élargir vos communautés voire de vendre des œuvres communes.
+Comment investir et acheter un NFT ? Les marketplaces crypto (Binance, OpenSea…etc) qui font autorité sur ce marché de l’art / finance.
+Avant tout il faut qu’une œuvre vous touche pour avoir envie de l’acheter. Ou alors que vous mesuriez son potentiel de revente si vous voulez spéculer. Vous pouvez bien sûr parcourir les plateformes que je vais vous donner, mais également Twitter où se cachent de nombreux artistes. En voici une liste, mais elle est non exhaustive.
+Pour acheter un NFT, il vous faudra un wallet comme Metamask par exemple avec un peu de cryptomonnaie dessus. Si vous achetez sur la blockchain Ethereum, vous devrez acheter des ETH sur des plateformes comme Bitpanda ou Binance. J’ai fait toute une liste des plateformes où vous pouvez acheter des cryptomonnaies ici.
+Et une fois qu’elles sont achetées, vous devrez les transférer sur votre wallet metamask ou autre, ce qui vous coûtera des frais qu’on appelle aussi GAS.
+Ensuite, y’a beaucoup de plateformes sur lesquelles vous pouvez faire vos achats d’œuvre d’art, mais en voici une petite sélection :
+OpenSea
+Rarible
+SuperRare
+Makersplace
+Binance NFT Marketplace
+Nifty Gateway
+Foundation
+Axie Marketplace
+BakerySwap
+NFT ShowRoom
+VIV3
+Même Christie’s et Sotheby’s vont de la vente aux enchères de NFTs maintenant…
+Quel crypto NFT acheter ?
+Certains NFTs sont de meilleurs investissements que d’autres car ils ont été mis sur le marché par des artistes dont la cote est élevée. D’autres par des artistes en devenir.
+Enfin, certains collections comme les Cryptopunks ou les PancakeSwap Squad sont volontairement limitées en exemplaires et certains de ces NFTs ont des caractéristiques plus ou moins rares. Difficile donc de vous dire quoi acheter tant il y a de paramètres.
+Mais dans tous les cas, n’achetez jamais sur un coup de tête et prenez en compte le projet dans son ensemble.
+Comment détruire un NFT ?
+Alors pour détruire un NFT, ce n’est pas toujours bien documenté, mais c’est faisable dans une certaine mesure. Évidemment, seul le propriétaire peut effectuer cette action, donc si vous êtes un artiste qui a vendu une œuvre, vous ne pourrez plus la détruire après l’avoir transmise à une autre adresse.
+Dans le jargon de la cryptomonnaie, détruire un NFT se dit « burn » (brûler) et cela signifie simplement l’envoyer à une adresse inaccessible. Il n’est pas possible de supprimer l’ID du jeton (token) de la blockchain, donc un ne peut pas le détruire, mais on peut le rendre irrémédiablement inaccessible.
+Pourquoi les gens feraient une telle chose ?
+Et bien contrairement au monde financier traditionnel dont la valeur augmente lorsque de l’argent est ajouté, le monde de la cryptomonnaie fonctionne de manière inverse. Il y existe un nombre fini de jetons spécifiques disponibles et lorsqu’une partie d’entre eux sont détruits, le nombre total de jetons disponibles sur le marché diminue et, par conséquent, la valeur de chaque jeton individuel peut augmenter.
+Pour brûler un NFT il suffit tout simplement d’envoyer votre NFT (moyennant quelques frais de transactions) à une adresse inaccessible. En général, les gens utilisent celle-ci :
+0x000000000000000000000000000000000000dead
+On peut donc toujours voir ces NFT dans la blockchain. Sur Opensea vous pouvez par exemple consulter la liste des NFT brûlés à cette adresse.
+Conclusion
+Vous l’aurez compris, devenir un crypto artiste et vivre de son art est une combinaison de 3 facteurs indissociables :
+1/ Produire de l’art qui touche les gens.
+2/ Travailler votre marque personnelle
+3/ Faire connaître vos NFTs à un maximum de collectionneurs pour élargir votre communauté.
+Cela demande du temps et de la persévérance, mais vous pouvez y arriver ! J’espère que ce guide vous aura été utile. N’hésitez pas à le recommander à d’autres personnes dans le même cas que vous, cela les aidera à se lancer également.
+Je vous souhaite bonne chance pour la suite de votre vie de crypto artiste.
+Et pour retrouver le reste de mes ebooks et formations dont la formation en vidéo sur les NFTs, c’est sur https://formation.korben.info
+]]> BlobBackup – Un outil de sauvegarde minimaliste pour Windows, Mac ou Linuxhttps://korben.info/?p=125234http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211112_090000_BlobBackup_____Un_outil_de_sauvegarde_minimaliste_pour_Windows__Mac_ou_LinuxFri, 12 Nov 2021 08:00:00 +0000
+Allez, inspirez lentement par le nez… Puis expirez par la bouche bruyamment.
+Ensuite, jetez un coup d’œil à votre collègue pour constater si votre haleine est dérangeante, puis répétez après moi :
+Je ne suis pas un abruti, je fais des sauvegardes, car les sauvegardes c’est INDISPENSABLE.
+Je ne suis pas un abruti, je fais des sauvegardes, car les sauvegardes c’est INDISPENSABLE.
+Je ne suis pas un abruti, je fais des sauvegardes, car les sauvegardes c’est INDISPENSABLE.
+Je ne suis pas un abruti, je fais des sauvegardes, car les sauvegardes c’est INDISPENSABLE.
+Je ne suis pas un abruti, je fais des sauvegardes….
+RAAAAH HORREUR, vous venez de vous rendre compte que vous n’avez pas fait de sauvegardes depuis un moment.
+Shame on you comme dirait Ophélie (Réf de Xenial, t’as capté).
+Alors on fait comment ?
+Pas de panique, il existe un super outil libre et gratuit qui s’appelle BlobBackup qui va vous permettre très facilement de programmer des sauvegardes.
+Au travers d’une interface qui aurait pu être bien pire compte tenu de la licence libre de l’outil, vous allez pouvoir dupliquer vos données les plus précieuses à différents endroits, qu’ils soient locaux ou distants. En effet, BlobBackup vous permet de faire du backup chiffré, incrémental et économe en espace disque vers un autre point de montage, vers un serveur SFTP, ou vers Amazon AWS, Google Cloud, Microsoft Azure, Amazon S3 ou pour les vrais winners, vers Backblaze.
+Une fois la config en place vous pouvez opter pour une sauvegarde programmée ou manuelle avec ou sans rétention de version précédente.
+Ensuite, il y a plus qu’à laisser tourner. Pour l’installer rien de plus simple, il suffit de le télécharger ici pour Windows, macOS ou Linux.
+Si vous avez besoin d’une sauvegarde un peu plus « avancée » techniquement, avec plus de paramètres, je ne peux que vous conseiller le logiciel RClone. Par contre, si vous ne voulez pas vous emmerder avec la technique et les détails et que vos besoins en sauvegarde sont simples, basiques, BlobBackup sera parfait pour vous.
+]]> Formatez votre code automatiquement avec Prettierhttps://korben.info/?p=125152http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211111_090000_Formatez_votre_code_automatiquement_avec_PrettierThu, 11 Nov 2021 08:00:00 +0000
+Si vous êtes développeur, vous savez sans doute que mettre en forme du code, ça peut parfois être pénible. Heureusement, grâce à cette extension, tout ceci ne sera plus qu’un mauvais souvenir.
+Cette extension, c’est Prettier, un outil de formattage du code qui supporte de nombreux langages comme Javascript, HTML, CSS, GaphQL, Markdown, YAML…etc et qui s’intègre à la plupart des éditeurs de code tels que : Visual Studio + Code, Atom, Sublime Text, Emacs, Vim, Espresso, Nova et WebStorm.
+Cela vous permettra de gagner un temps de dingue en laissant Prettier s’occuper de tout et surtout vous libérer de la charge mentale sur la meilleure façon de formater un code.
+Grosse dédicace aux perfectionnistes qui se posent plus de questions qu’ils n’agissent. On est ensemble 🙂
+Si vous voulez tester avant d’opter pour cette extension, les développeurs ont mis un bac à sable sur leur site pour que vous puissiez vous rendre compte de la puissance du machin.
+Pour installer Prettier, rendez-vous sur son site. Et si vous utilisez Visual Studio Code, voici un petit raccourci vers le plugin directement.
+Et si vous souhaitez en apprendre plus sur Visual Studio Code pour le maîtriser à fond, il y a un bon bouquin en anglais qui s’appelle Visual Studio Code Distilled que je vous invite à lire.
+]]> Test du Camera-B-Kit HELO de Stronghttps://korben.info/?p=126664http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211110_095935_Test_du_Camera-B-Kit_HELO_de_StrongWed, 10 Nov 2021 08:59:35 +0000Suite]]>
+— En partenariat avec Strong —
+Il y a quelques mois, j’ai eu le plaisir de recevoir un kit caméra HELO de la marque Strong. Dans la boite 2 caméras wifi plus une base, que je me suis empressé d’installer et de tester. Voici donc mon retour après quelques mois d’utilisation.
+Tout d’abord, en termes d’installation, c’est très simple et très rapide. Il faut tout simplement connecter la base à votre routeur Internet (en wifi ou RJ45), allumer les caméras et installer l’application mobile disponible sous iOS et Android.
+Une fois en place, vous pourrez ainsi consulter en temps réel depuis n’importe où, ce qui se passe chez vous, soit en live en vous connectant aux caméras directement, soit en replay lorsque des mouvements sont détectés. En effet, il s’agit de caméra de surveillance capable de se déclencher automatiquement dès que ça bouge chez vous. Vous recevrez ainsi des alertes directement au travers de l’application.
+Voir c’est une chose, mais vous pourrez également entendre ce qui se passe. Et surtout, vous pourrez également parler au travers de la caméra avec votre téléphone. Ça peut être pratique pour répondre à quelqu’un qui sonne à une porte d’entrée ou comme baby phone.
+Avec l’application, vous pourrez également programmer des scénarios pour par exemple activer la détection automatique des caméras uniquement à certaines heures.
+Concernant la conservation des données, vous pouvez soit prendre un abonnement « cloud » pour tout y stocker, soit tout simplement insérer une carte micro SD dans la base et toutes les photos seront enregistrées dessus. La base peut également accueillir un disque dur externe si vous voulez plus d’espace de stockage.
+Maintenant sur les caméras en elles-mêmes, elles sont sans fil et ont vraiment une bonne portée. Je les ai mises assez loin de leur base (50 mètres environ avec des murs) et aucun souci de connexion. L’angle de vue de 130° est largement suffisant et elles sont fournies avec un support magnétique ce qui permet de les déplacer ou de les retirer facilement.
+Comme elles sont étanches avec une protection IP65, je les ai placés en extérieur, directement sur un piquet en métal et elles sont resté là très longtemps sans que j’aie eu besoin de les recharger. En effet, l’autonomie annoncée est de 180 jours soit 6 mois. Pour ma part, j’ai pu les faire fonctionner un peu plus de 5 mois sans les recharger en les utilisant régulièrement, donc c’est validé. Bref, impressionnant !
+Le niveau de détail des photos et de la vidéo Full HD (1080p) est très bon et la vision nocturne permet de voir jusqu’à 10 mètres.
+En conclusion, je trouve ce kit de caméras grand public très facile d’accès, et plutôt pratique avec cependant un petit bémol sur l’export du flux vidéo en RTMP qui n’est pas possible. Autrement, j’avoue qu’avoir un stockage en local sur une carte SD ou un disque externe est vraiment cool. Ça change des formules 100% cloud et ça fait du bien à la vie privée.
+Vous le trouverez en vente ici sur Amazon pour 159,99 €.
+]]> Real ESRGAN – Améliorez la qualité de vos photoshttps://korben.info/?p=126068http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211110_090000_Real_ESRGAN_____Ameliorez_la_qualite_de_vos_photosWed, 10 Nov 2021 08:00:00 +0000
+J’ai souvent présenté des outils qui permettent d’améliorer la qualité d’une image assez facilement comme le service de MyHeritage ou encore Waifu 2x ici ou là.
+Mais là j’ai encore mieux. Ça s’appelle Real ESRGAN et comme son nom l’indique, ça utilise du deep learning / apprentissage pour restaurer des images.
+L’outil est en python et peut-être utilisé sur Google Colab mais également en ligne de commande sous Windows / Linux et macOS.
+Pour l’utiliser, rien de plus simple. Il suffit d’appeler le soft avec le paramètre -i (pour input) et d’indiquer l’image source, suivie du paramètre -o (output) suivi du nom de fichier sous lequel vous voulez enregistrer la version améliorée. Pas besoin de CUDA ou de PyTorch, ça fonctionnera directement.
+./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png
+J’ai testé sur un logo YouTube tout pixelisé et comme vous pouvez le voir, le résultat est vraiment bluffant.
+Plusieurs modèles sont disponibles. Un modèle GAN par défaut, un modèle NET et surtout un modèle ANIME qui permet d’améliorer les images d’anime / manga.
+Par exemple pour améliorer un manga, vous entrerez la commande suivante :
+./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png -n realesrgan-x4plus-anime
+Et visiblement, les résultats sont meilleurs qu’avec Waifu2X :
+Bref, un bon petit outil à conserver pour améliorer de vieilles photos ou des images pourries téléchargées sur le web.
+Merci à Laurent pour l’info.
+]]> Raccourci clavier (emoji) macOS qui ne fonctionne pas sous Firefoxhttps://korben.info/?p=126040http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211109_090000_Raccourci_clavier__emoji__macOS_qui_ne_fonctionne_pas_sous_FirefoxTue, 09 Nov 2021 08:00:00 +0000Suite]]>
+J’ai identifié un souci dans Firefox sous macOS que vous avez peut-être, qui normalement devrait être corrigé si j’en crois le bugzilla de Mozilla, mais il n’en est rien.
+Donc je vous explique de quoi il en retourne et je vous dis comment corriger ça facilement.
+Si vous avez dans Firefox des problèmes de clavier, de touches qui ne fonctionnent pas, de raccourcis comme celui pour appeler les Emojis (CTRL + Cmd + Espace) qui ne fonctionnent pas ou encore le menu « clic droit » sur les pages qui rame à fond et met 2 min à s’afficher et bien voici l’explication.
+Cela est dû à un problème de localisation de Firefox. En effet, si vous avez un Firefox US et que vous avez activé la langue FR dessus, et bien ça bug.
+Pour résoudre le problème, il faut rester dans la langue d’origine du navigateur. Donc si vous avez un Firefox US, restez en anglais. Si vous voulez du français, allez télécharger directement la version de Firefox en français tel qu’elle est distribuée sur le site de Mozilla.
+Et voilà.
+Ça fait des semaines que je me galérais avec ça et il suffisait simplement d’installer le navigateur dans sa « langue maternelle » et ne pas aller jouer à changer la langue dans les paramètres de celui-ci.
+]]> WASDAQ – La cryptomonnaie des traders qui tiennent à leur qualité de viehttps://korben.info/?p=126545http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211108_090145_WASDAQ_____La_cryptomonnaie_des_traders_qui_tiennent_a_leur_qualite_de_vieMon, 08 Nov 2021 08:01:45 +0000
+Cet article réalisé en partenariat avec WASDAQ n’est en aucun cas un conseil en investissement, mais simplement la présentation d’un projet technique autour de la blockchain.
+Je ne sais pas si vous le savez, mais depuis que les traders se sont mis à la cryptomonnaie ou que les cryptoaddicts se sont mis au trading, plus personne ne dort bien. Tout ce petit monde se couche bien tard pour surveiller ses positions et est obligé de se lever tôt pour s’assurer que le cours de la cryptomonnaie qu’ils possèdent ne s’est pas effondré.
+C’est un marché très volatil qui ne s’arrête jamais et de fortes variations de prix peuvent se produire en peu de temps, y compris la nuit ou le week-end.
+Mais alors comment font les traders pour rester zen ?
+Et bien ils ne peuvent pas.
+Enfin, ils ne pouvaient pas, jusqu’à l’arrivée d’une cryptomonnaie vraiment spéciale lancée en juillet 2021 baptisée le WASDAQ.
+Qu’est-ce que le WASDAQ ?
+Wasdaq est la première cryptomonnaie au monde qu’on peut échanger à des heures prédéfinies. Comme son nom le laisse à penser, le WASDAQ s’inspire du NASDAQ, l’une des grandes bourses, en intégrant nativement dans le code de son smart contract (contrat intelligent baptisé GateKeeper) des horaires d’ouverture et de fermeture.
+Ainsi, le WASDAQ dont le symbole est le $WSDQ ne peut s’échanger que du lundi au vendredi de 13h30 à 20h00 UTC (en France nous sommes en UTC+1 ou UTC+2 selon l’heure d’hiver ou d’été)
+Hors de ces horaires, y compris tous les week-ends (samedi et dimanche), il est impossible de trader le WASDAQ et donc, l’indice du cours de son pool de liquidité est totalement figé. Ainsi, les gens peuvent aller dormir et profiter de leur week-end, ce qui est une grande première sur le marché des cryptos.
+Comment fonctionne le WASDAQ ?
+Techniquement, le WASDAQ repose sur un smart contract cross chain ERC20 / BEP20 et peut donc se trader sur des plateformes compatibles, comme actuellement Trader Joe pour la blockchain Avalanche, ou PancakeSwap pour la blockchain Binance Smart Chain.
+Le WASDAQ dont le contrat est le suivant ne dispose (après un gros burn post-ICO) que de 150 millions de jetons WSDQ en circulation.
+Le bridge WASDAQ
+Le bridge Wasdaq, développé par l’équipe, permet aux détenteurs du WASDAQ d’échanger des jetons entre les 2 réseaux (Avalanche C-Chain et BSC). Les variations de prix entre les réseaux sont régulées par un arbitrage. D’autres blockchains pourront être ajoutées au bridge.
+Et ce qui est sûr, c’est que le de jetons en circulation sur toutes les blockchains ne dépassera pas le total fixé des 150 000 000.
+La communauté WASDAQ
+D’ailleurs la communauté qui s’est créée autour de WASDAQ organise chaque week-end des « Chill Challenge » mettant en avant la qualité de vie retrouvée grâce au WASDAQ. C’est très fun.
+L’avenir de WASDAQ
+WASDAQ souhaite commencer en 2022 le développement d’une plateforme de trading (CEX ou modèle hybride CEX+DEX) avec plusieurs jetons de gouvernance comme le $WSDQ (actuellement pour le marché du Wasdaq). Chacun d’entre eux aura ses propres horaires de trading prédéfinis et représentera donc un marché.
+Cette future plateforme permettra à des sociétés IRLs de se tokéniser sur le marché de leur choix (la plage horaire qu’ils préfèrent) et donc, de pouvoir émettre leurs tokens de façon régulée par les horaires de trading prédéfinis.
+Voici d’ailleurs la roadmap du projet :
+Vous l’aurez compris, le projet a une vision à très long terme puisqu’il permet de répondre au cahier des charges d’une éventuelle régulation du marché de la crypto dans les années à venir. Mais surtout, il répond à un vrai besoin des traders pros et du grand public qui veulent bien mettre un peu d’argent en cryptobourse, mais qui ne veulent pas avoir sans cesse l’esprit accaparé par leur activité ni sacrifier leur vie personnelle et leurs heures de sommeil.
+Comment acheter du WASDAQ ?
+Maintenant si vous voulez acheter vos premiers WSDQ au meilleur prix, vous aurez besoin :
+D’un wallet Metamask ou Trustwallet
+De BNB ou d’AVAX (Allez sur Bitpanda, Binance ou sur LiteBit pour en acheter)
+De transférer ces BNB ou AVAX sur votre wallet (Binance Smart Chain ou Avalanche C-Chain)
+Pour acheter du WSDQ sur Avalanche Chain
+Rendez-vous sur le DEX Trader Joe ici.
+Connectez votre wallet au site (le bouton est en haut à droite du site)
+Puis d’indiquer le montant en AVAX que vous voulez échanger contre des WSDQ
+Reglez le slippage sur 0.5 %
+Puis cliquer sur le bouton « Confirm swap » pour valider l’échange.
+Pour acheter du WSDQ sur la Binance Smart Chain
+Rendez-vous sur le DEX PancakeSwap ici.
+Connectez votre wallet au site (le bouton est en haut à droite du site)
+Puis d’indiquez le montant en BNB que vous voulez échanger contre des WSDQ
+Réglez le slippage sur 0.5 %
+Puis cliquez sur le bouton « Confirm swap » pour valider l’échange.
+Pour voir apparaitre vos WSDQ dans votre wallet, rendez vous dans le menu assets de MetaMask / Trustwallet et ajoutez un jeton personnalisé :
+Adresse du contrat du jeton : 0xafc4d521df3c0566d61931f81f02f1a525bad04d
+Symbol : WSDQ
+Decimal : 9
+Et voilà, vous êtes en possession de WSDQ !
+Le site Internet : https://wasdaq.finance
+Leur Whitepaper : https://wasdaq.finance/wasdaqwhitepaper.pdf
+Et n’oubliez pas, faites vos propres recherches et n’investissez que ce vous êtes prêt à perdre.
+]]> Déverrouiller les articles Mediumhttps://korben.info/?p=126034http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211108_090000_Deverrouiller_les_articles_MediumMon, 08 Nov 2021 08:00:00 +0000Suite]]>
+Si vous aimez lire du contenu sur Medium, vous avez sans doute remarqué qu’après 3 articles lus, certains étaient bloqués. Après faut passer en abonnement payant.
+Toutefois, il est possible de contourner ce léger désagrément en ouvrant l’article en question dans une fenêtre de navigation privée.
+C’est une technique assez connue, mais vous pouvez pousser le niveau de flemme un peu plus loin, en remplaçant simplement le « medium.com » de l’URL par « scribe.rip ».
+Ainsi l’URL
+https://medium.com/USER/titredelarticle-xxxxxxxx
+Devient :
+https://scribe.rip/USER/titredelarticle-xxxxxxxx
+Et voilà !
+Le code source de ce script est disponible ici donc vous pouvez tout à fait monter des services similaires de votre côté, sur votre serveur ou en local.
+Vous pouvez également créer une règle de redirection dans l’extension Redirector qui est très pratique, je vous invite à vous pencher dessus :
+Description: Medium -> Scribe
+Example URL: https://medium.com/@user/post-123456abcdef
+Include pattern: .*medium.com/(.*)
+Redirect to: https://scribe.rip/$1
+Pattern type: ( ) Wildcard (•) Regular Expression
+Bonne lecture !
+]]> Faire une recherche dans l’historique d’un site webhttps://korben.info/?p=125666http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211107_090000_Faire_une_recherche_dans_l___historique_d___un_site_webSun, 07 Nov 2021 08:00:00 +0000
+Si vous cherchez le moment exact où quelque chose de précis (un mot par exemple) a été ajouté à un site web précis, j’ai l’outil qu’il vous faut.
+Cela s’appelle Timefind et ça scanne les archives de Archive.org du site ciblé à la recherche du mot ou de la phrase qui vous intéresse. Et ça vous sort alors une liste d’URL de pages archivées ainsi que la date et l’heure où cela a été enregistré.
+Pour installer Timefind, il suffit de lancer la commande suivante dans votre terminal :
+npm install -g timefind
+Et effectuer une recherche comme ceci :
+timefind URL_DU_SITE MOT_CLÉ
+Timefind ira alors récupérer toutes les archives du site, pour y chercher le mot clé et vous renvoyer le premier snapshot qui comporte ce mot clé.
+À découvrir ici
+]]> Un KVM IP pas cher sur Raspberry Pihttps://korben.info/?p=125966http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211106_090000_Un_KVM_IP_pas_cher_sur_Raspberry_PiSat, 06 Nov 2021 08:00:00 +0000
+Savez-vous ce qu’est un KVM IP ?
+Et bien le KVM IP est une techno qui permet de rendre disponible sur un réseau IP les signaux du clavier, de la carte vidéo et de la souris (KVM = Keyboard, Video, Mouse).
+Ça se présente sous la forme d’un boitier qui se connecte sur n’importe quel ordinateur / serveur et qui permet ainsi à des utilisateurs distants d’accéder physiquement et contrôler une machine depuis n’importe où.
+Par exemple, chez OVH, si vous perdez la main sur votre SSH de serveur, vous pouvez toujours vous y connecter en IP KVM comme si vous étiez physiquement sur la machine.
+Cela offre de nombreux avantages, mais c’est du matos qui coût assez cher, environ 500 euros le boitier. Mais c’était sans compter sur le projet Pi-KVM qui permet à peu de frais de transformer un Raspberry Pi en boitier KVM over IP.
+Ce projet compatible avec le Raspberry Pi Zero, 2, 3 et 4 permet donc de se fabriquer un KVM IP avec support Full HD, clavier, souris, gestion de l’alimentation ATX et stockage en assemblant un peu d’électronique pas cher, et en prenant une demi heure de votre temps pour l’assemblage.
+Une fois connecté, votre Rpi sera alors accessible via une interface web ou VNC et supportera même le « wake-on-lan » pour démarrer ou éteindre une machine à distance.
+Actuellement, le projet fait l’office d’un kickstarter pour ceux qui ne veulent pas mettre les mains dans le cambouis. Et pour les autres, il y a toute la doc DIY ici.
+]]> Un outil pour animer vos spriteshttps://korben.info/?p=125962http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211105_090000_Un_outil_pour_animer_vos_spritesFri, 05 Nov 2021 08:00:00 +0000
+Si vous développez des jeux ou que vous réalisez des animations, voici Spooky Ghost, un outil totalement gratuit qui vous permettra de créer des animations procédurales pour vos sprites et décors.
+De nombreuses propriétés différentes peuvent être animées comme la rotation de l’objet, sa position, sa taille, sa couleur ou encore sa forme et comme le langage derrière c’est du Lua, il est également possible de créer vos propres scripts pour réaliser des animations qui ne pourraient être faites à la souris avec l’interface graphique.
+Spooky Ghost est donc un outil très simple à prendre en main mais également super puissant qui vous permettra de réaliser sans peine vos animations pour ensuite les exporter sous la forme d’une série d’images ou à plat comme image contenant l’ensemble des sprites, selon la manière dont vous souhaitez ensuite les utiliser dans votre projet.
+L’outil est gratuit, mais également sous licence libre MIT et vous pouvez le télécharger ici pour Windows, macOS et Linux.
+Il existe également une version expérimentale pour Android et comble du luxe, une version web pour ceux qui veulent jouer avec sans l’installer.
+Génial !
+Merci à Laurent pour le partage.
+]]> Sourcegraph – Cherchez et corrigez votre code au travers de plusieurs dépôtshttps://korben.info/?p=125947http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211104_090000_Sourcegraph_____Cherchez_et_corrigez_votre_code_au_travers_de_plusieurs_depotsThu, 04 Nov 2021 08:00:00 +0000
+Si vous bossez sur de gros projets avec plusieurs dépôts Git, du code dans tous les sens et différentes équipes, voici un outil qui va bien vous simplifier la vie.
+Cet outil s’appelle Sourcegraph et il indexe tous vos repositories stockés aussi bien sur Gitlab, Github, Bitbucker, Azure… pour vous permettre ensuite de faire des recherches plus ou moins complexes, sur tous types de langages (Java, Python, Go, JS, C#…etc) pour ensuite pouvoir parcourir le code trouvé directement depuis votre navigateur.
+Ainsi, en plus de trouver n’importe quoi dans votre code, créer des tableaux de bord pour suivre l’utilisation de tout ce qui peut-être trouvé avec Sourcegraph ou encore l’interfacer avec des services externes pour par exemple trouver et corriger des failles de sécurité.
+Vous pouvez également automatiser de la modification à grande échelle en changeant du code sur plusieurs dépôts en 1 seule fois.
+Concurrent à OpenGrok, Sourcegraph est un outil que vous pouvez utiliser en ligne directement pour aller farfouiller dans les dépôts publics de logiciels libres ce qui est super cool pour voir et comprendre comment d’autres développeurs implémentent certaines API et fonctions.
+Rassurez-vous, vous pouvez également le déployer sur un serveur pour votre propre usage sur des dépôts privés.
+Pour ce faire, lancez simplement la commande :
+docker run --publish 7080:7080 --publish 127.0.0.1:3370:3370 --rm --volume ~/.sourcegraph/config:/etc/sourcegraph --volume ~/.sourcegraph/data:/var/opt/sourcegraph sourcegraph/server:3.32.0
+Vous trouverez toute la doc ici.
+]]> Streamez vos jeux VR sur votre Oculus sans câblehttps://korben.info/?p=125939http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211103_090000_Streamez_vos_jeux_VR_sur_votre_Oculus_sans_cableWed, 03 Nov 2021 08:00:00 +0000
+Si vous êtes l’heureux propriétaire d’un casque, VR type Oculus Quest, Quest 2 ou Oculus Go, vous allez être content puisqu’avec ALVR (Air Light VR), vous allez pouvoir streamer des jeux VR de votre PC vers votre casque VR directement via le Wi-Fi.
+Pour que cela fonctionne, vous devrez installer SteamVR, puis télécharger l’installateur de ALVR. Lancez-le, installez-le en lui donnant les permissions admin puis dès que c’est terminé, lancez-le.
+Côté casque Oculus, vous devrez installer SideQuest sur votre PC et activer le mode développeur sur votre casque en suivant ce tuto.
+Il ne vous reste plus ensuite qu’à connecter votre casque à Sidequest. Si vous avez un Oculus Quest 1 ou 2, téléchargez l’application ALVR ici, si vous avez un Oculus Go, téléchargez-la ici.
+Quand tout est en place, lancez ALVR sur votre casque et ensuite, cliquez sur « trust » sur l’application PC pour établir la connexion et faire confiance à votre casque. La prochaine fois cette étape sera automatique.
+Et voilà, vous allez pouvoir jouer en wifi. Fini le cassage de gueule dans les cables.
+Je vous laisse avec cette vidéo de VR Gamerz qui vous expliquera tout :
+ALVR est totalement open source et libre et maintenu entièrement par la communauté.
+Plus d’infos ici.
+Merci à Laurent
+]]> Remettez de la vie privée dans vos e-mailshttps://korben.info/?p=125932http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211102_090000_Remettez_de_la_vie_privee_dans_vos_e-mailsTue, 02 Nov 2021 08:00:00 +0000
+Vous le savez, la vie privée c’est important.
+Vous le savez et pourtant vous continuez à utiliser Gmail. Mais en attendant de passer sur une vraie boite mail, voici une extension pour Chrome et Firefox qui va protéger un peu plus votre vie privée en bloquant les trackers dans tous les emails que vous recevez.
+Alors comment ça fonctionne ? Et bien Ugly Email analyse votre boîte de réception et recherche les e-mails contenant des pixels de suivi (tracking). Chaque mail contenant ce genre de pixel sera alors marqué d’une icône en forme de globe oculaire et le pixel de suivi sera bloqué.
+Ça ne fonctionne qu’avec Gmail mais ce n’est déjà pas si mal et Ugly Mail ne conserve pas vos données personnelles. L’outil est gratuit, open source et vous pouvez le télécharger ici pour Chrome et ici pour Firefox qui est je le rappelle le meilleur navigateur de l’univers.
+Et je profite de cette petite news pour vous rappeler que ma newsletter gratuite est toujours disponible rien que pour vous en cliquant ici.
+Merci Lorenper.
+]]> Rejouez à Blues Brothers et Preshistorik 2 avec ce moteur librehttps://korben.info/?p=125911http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211101_090000_Rejouez_a_Blues_Brothers_et_Preshistorik_2_avec_ce_moteur_libreMon, 01 Nov 2021 08:00:00 +0000Suite]]>
+Hey les vieux comme moi, est-ce que vous vous souvenez du jeu Blues Brothers ?
+Et du jeu Prehistorik 2 ?
+Ces deux titres ont été développés à l’époque par Titus Interactive de Hervé et Éric Caen. Titus a sorti depuis le milieu des années 90 tellement de hits, que ce serait dommage de ne pas y rejouer des années après.
+Et c’est ce que permet Blues, un moteur SDL2 totalement réécrit permettant de faire tourner Blues Brothers, Blues Brothers Jukebox Adventure et Prehistorik 2 sur une machine récente.
+Évidemment, il vous faudra les fichiers de la démo ou les fichiers originaux du jeu (DOS ou Amiga) pour pouvoir re-goûter à ce gameplay sur lequel j’ai vraiment passé trop de temps.
+Vous trouverez les sources du moteur ici et des .exe ici.
+]]> Poki – 100% jeux en ligne gratuitshttps://korben.info/?p=125904http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211031_090000_Poki_____100__jeux_en_ligne_gratuitsSun, 31 Oct 2021 08:00:00 +0000
+Vous me connaissez, je ne suis pas trop jeux, mais alors là, j’ai un site dont je suis obligé de vous parler tellement il va vous permettre de faire passer vos trop longues journées à la solde du capitalisme, un peu plus rapidement.
+Ce site c’est Poki, qui regroupe une sélection de mini jeux en ligne absolument géniaux. On peut y jouer seul ou en multi et chaque jeu est jouable gratuitement et sans pub et les jeux sont classés par catégorie ou popularité.
+Jeux de courses, de réflexion, multijoueur, jeu de tir, de société, de sport…etc, vous trouverez forcement quelque chose qui vous plaît et sur lequel vous risquez de passez un peu de temps vu la qualité des jeux.
+Et c’est toujours mieux que de gratter des machins sur l’application FDJ 🙂
+Merci à Laurent.
+]]> L’émulateur PS3 qui améliore la qualité des jeuxhttps://korben.info/?p=125900http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211030_090000_L___emulateur_PS3_qui_ameliore_la_qualite_des_jeuxSat, 30 Oct 2021 07:00:00 +0000
+Si vous aimez jouer à de vieux jeu PS3 sur émulateur, peut-être trouvez vous les graphismes assez décevants par rapport à ce qui se fait maintenant. Dans ce cas, j’ai une solution pour vous.
+Il vous suffit d’installer RPCS3. Il s’agit du tout premier émulateur à supporter la technologie FidelityFX Super Resolution (FSR) d’AMD. Cette technologie permet aux joueurs d’avoir de meilleurs visuels sans impacter le niveau de performance. Il s’agit d’une technique de mise à l’échelle qui a intervient à la fin du rendu en améliorant la qualité de l’image pour qu’elle se rapproche au maximum de la résolution native choisie par le joueur.
+Même si vous avez une carte graphique bas de gamme, le rendu sera incroyable comme vous pouvez le voir sur cette vidéo. Sur certaines séquences c’est subtil, mais sur d’autres, ça change totalement le jeu.
+Je trouve ça génial, car ça donne un second souffle à des jeux qui ont un peu vieilli et ça vous permettra même de redécouvrir certains titres sous un nouveau jour. Par contre, FSR n’est pas parfait et le rendu différera en fonction des jeux.
+Vous pouvez télécharger RPCS3 ici.
+Amusez-vous bien !
+Merci Laurent.
+]]> Authelia – Ajoutez des fonctions d’authentification à votre reverse proxyhttps://korben.info/?p=125893http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211029_090000_Authelia_____Ajoutez_des_fonctions_d___authentification_a_votre_reverse_proxyFri, 29 Oct 2021 07:00:00 +0000
+Si vous êtes développeur et que vous voulez mettre en place un système d’authentification sur votre application, voici Authelia.
+Authelia est un serveur d’authentification et d’autorisation open-source fournissant une authentification à deux facteurs et du single sign-on (SSO) pour vos applications via un portail web.
+Authelia se comporte comme un module compagnon pour votre reverse proxy, que ce soit nginx, Traefik ou HAProxy afin de leur faire savoir si les demandes doivent être autorisées ou redirigées vers le portail d’Authelia pour l’authentification.
+Ce système open source supporte différentes méthodes d’authentification double facteur comme U2F (pour les Yubikey…etc.), ceux basés sur le temps comme ce que propose Google Authenticator ou encore les notifs push comme ce que permet Duo.
+Authelia embarque également différents niveaux de sécurité comme la possibilité d’interdire l’accès automatique dès qu’il y a eu trop d’essais non valides, ou valider uniquement les accès selon certaines règles (sous domaine précis, groupe utilisateur, réseau, type de requête…etc.). Authelia ne fonctionnera que pour les sites web en HTTPS, car le cookie de session ne peut être transmis que via des connexions sécurisées.
+Pour installer Authelia, vous aurez besoin d’un cluster comme Kubernetes pour assurer à l’application un haut niveau de disponibilité et d’évolutivité. Lancez ensuite les commandes suivantes :
+git clone https://github.com/authelia/authelia.git
+cd authelia/examples/compose/local
+git checkout $(git describe --tags 'git rev-list --tags --max-count=1')
+sudo ./setup.sh
+La documentation est vraiment bien faite et se trouve ici.
+Merci Laurent.
+]]> Comment télécharger et utiliser Trust Wallet ?https://korben.info/?p=126403http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211028_090000_Comment_telecharger_et_utiliser_Trust_Wallet__Thu, 28 Oct 2021 07:00:00 +0000
+Cet article n’est en aucun cas un conseil en investissements cryptographiques, mais simplement la présentation d’un projet technique autour de la blockchain.
+Qu’est ce que Trust Wallet ?
+Trust Wallet est dans doute l’une des applications de conservation d’actifs numérique la plus connue, en tout cas sur mobile. A la différence de Metamask, l’application Trust Wallet est un portefeuille pour vos crypto-monnaies qui est multicoin. Cela signifie qu’il prend en charge les principales blockchains de l’écosystème Ethereum, mais également les jetons dérivés de type ERC20, BEP2 et ERC721.
+Il permet également la conservation des crypto-monnaies telles que le Bitcoin, le Litecoin et le Dogecoin ainsi que de tous les actifs numériques reposant sur la Binance Smart Chain.Ainsi, Trust Wallet vous permet d’avoir toujours sur vous, c’est à dire sur votre smartphone, un accès rapide et simple à vos cryptomonnaies.
+Mais vous vous en doutez, Trust Wallet va encore plus loin puisqu’il permet de se connecter au Web3, c’est à dire aux applications décentralisées reposant sur la blockchain telles que PancakeSwap. Ça va donc bien au delà du porte monnaie crypto sécurisé. Cela permet de conserver des NFTs et de se connecter sur tous types de plateformes DeFi DApps ou jeux blockchains.
+Comme tous les wallets, Trust Wallet ne conserve pas à proprement dit les jetons mais plutot la clé privée en sécurité, ce qui vous donne le droit d’intergir avec vos actifs numériques, de les transférer, de les vendre, de les staker…etc
+Quel token crypto peut-on conserver sur Trust Wallet (ERC20 ETH, BEP20, Bitcoin…etc) ?
+Trust Wallet offre donc un portefeuille multicoin sécurisé supportant au total 53 blockchains et plus de 1 million de cryptomonnaies différentes. Voici les principales que vous pouvez ajouter dans Trust Wallet :
+Aeternity (AE)
+Aion (AION)
+Algorand (ALGO)
+Arbitrum (ARETH)
+Avalanche (AVAX)
+Augur (REP)
+Binance Coin (BNB)
+Bitcoin (BTC)
+Bitcoin Cash (BCH)
+Callisto (CLO)
+ChainLink (LINK)
+Cosmos (ATOM)
+Dash (DASH)
+Decred (DCR)
+Digibyte (DGB)
+Dogecoin (DOGE)
+Eco Chain (HT)
+Elrond (eGLD)
+Ethereum (ETH)
+Ethereum Classic (ETC)
+Fantom (FTM)
+Filecoin (FIL)
+Fio (FIO)
+Firo (FIRO)
+GoChain (GO)
+Groestlcoin (GRS)
+Harmony (ONE)
+ICON (ICX)
+IoTeX (IOTX)
+Kava (KAVA)
+Kin (KIN)
+Litecoin (LTC)
+Nano (NANO)
+Near (NEAR)
+Nebulas (NAS)
+Nimiq (NIM)
+Ontology (ONT)
+Optimism (OETH)
+POA Network (POA)
+Polkadot (DOT)
+Polygon (MATIC)
+Qtum (QTUM)
+Ravencoin (RVN)
+Ripple (XRP)
+Smartchain (BNB)
+Solana (SOL)
+Stellar (XLM)
+TRON (TRX)
+Terra (LUNA)
+Tezos (XTZ)
+Theta (THETA)
+Thorchain (RUNE)
+Thunder Token (TT)
+TomoChain (TOMO)
+VeChain (VET)
+Viacoin (VIA)
+Wanchain (WAN)
+Waves (WAVES)
+Zcash (ZEC)
+Zelcash (ZEL)
+Zilliqa (ZIL)
+eGLD
+xDai (Dai)
+Où télécharger l’application Trust Wallet ?
+Alors attention, pour télécharger Trust Wallet, veillez à bien vous rendre sur le site officiel de Trust Wallet ou sur les pages officielles dans les stores Android et iOS (iPhone). Evitez par exemple de récupérer un fichier APK sur un site autre que le site officiel et de l’installer sur votre smartphone. Vous risqueriez de vous disparaître rapidement vos fonds. en cryptomonnaie.
+Si vous avez vraiment besoin d’un APK, c’est par ici (site officiel de Trust Wallet).
+Sur quel site se connecter avec Trust Wallet ? (Binance, PancakeSwap…etc)
+La plupart des sites DeFi comme Beefy, Biswap, PancakeSwap, Binance et bien d’autres supportent Trust Wallet. Ce n’est donc pas un souci. Mais surtout, Trust Wallet intègre au sein de son application des servces de swapping, de staking ou d’alerte sur les cours de la crypto. Il supporte également le standard Wallet Connect qui permet de lier son wallet mobile à un service Web3 en scannant simplement un QR Code.
+Trust Wallet offre aussi de l’achat direct de cryptomonnaies en carte bancaire…etc.
+Comment télécharger Trust Wallet sur PC Windows ou MacOS ?
+Ça n’existe pas alors arrêtez de chercher. Tout ce que vous trouverez, ce sont des malwares ou des escroqueries. Méfiez vous !
+Comment assurer la sécurité de votre Trust Wallet ?
+Concernant la sécurité de votre wallet, ça passe d’abord par la sécurité de votre smartphone. Pensez à mettre une sécurité comme le Touch ID (sur iPhone), un bon code bien long ou la reconnaissance facile pour dévérouiller votre smartphone. Ainsi si vous le perdez ou qu’on vous le vole, vos crypto-actifs numériques ne s’envoleront pas.
+Pensez également à faire les mises à jour et à ne pas faire n’importe quoi avec votre smartphone comme installer des appliations obscures sur Android ou jailbreaker votre iPhone.
+Evidemment, lors de l’installation de Trust Wallet, celui-ci vous générera une phrase de passe qu’on appelle également « seed ». C’est une phrase de plusieurs mots que vous devez absolument conserver. Ainsi, si vous perdez votre smartphone, vous pourrez toujours restaurer l’accès à votre wallet à partir de cette seed. C’est hyper important !
+Mon avis sur l’app de portefeuille crypto : Trust Wallet
+Pour un wallet sur PC, je lui préfère Metamask, mais pour le smartphone, c’est avec SafePal, l’un des applications les plus complète et les plus pratique à utiliser aussi bien pour conserver vos actifs numériques que pour accéder aux plateformes Web3 comme les exchanges DeFi…etc.
+]]> Démarrez n’importe quel OS dans votre navigateurhttps://korben.info/?p=125874http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211027_090000_Demarrez_n___importe_quel_OS_dans_votre_navigateurWed, 27 Oct 2021 07:00:00 +0000
+OnWorks est un site qui propose un tas de machines virtuelles que vous pouvez lancer directement dans votre navigateur. Cela peut vous permettre de tester des outils sans risque ou tout simplement tester une nouvelle distrib Linux sans avoir à l’installer (un peu comme avec Distrotest).
+Ubuntu, Kodi, Windows, Zorin OS…etc., il y en a pour tous les goûts. Et le truc c’est que vous pouvez vraiment les utiliser, car les sessions peuvent être sauvegardées puis restaurées à un autre moment.
+Chaque session est limitée à 5 min et si vous en voulez plus, il faudra payer 5$ par mois. OnWorks se présente comme un hébergeur offrant du remote desktop à ses clients, mais je vous avoue que vu le look du site, je n’irais pas au-delà du test jetable et je ne pense pas que j’y mettrais des documents perso ou que j’en ferais une machine de boulot ^^.
+Merci à Laurent.
+]]> Edito du 26/10/2021https://korben.info/?p=126512http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211026_091859_Edito_du_26_10_2021Tue, 26 Oct 2021 07:18:59 +0000
+Hello les amis,
+Comment allez-vous ?
+Ici c’est le retour du froid dans ma région, mais l’avantage quand on est informaticien, c’est que nos ordis nous réchauffent.
+Je n’avais pas mis à jour cet édito depuis un moment parce que je suis bien occupé à vous écrire de vrais articles. J’ai d’ailleurs plus d’un mois d’avance d’articles programmés et ça c’est cool ! Le Patreon et Twitch m’occupent également plutôt pas mal et c’est surtout par ce biais que je donne des news plus perso.
+Une journée type en ce moment pour moi ?
+Réveil à 6h du matin, et je bosse jusqu’à 12h – Pause déj – 13h reprise du boulot et j’enchaîne sur Twitch (ou encore du boulot) – 16h seconde journée de boulot qui démarre avec les travaux dans la maison – 19h je fais la bouffe – et enfin à 22h je m’écroule sur mon oreiller complètement vidé. Et les weekends ressemblent à peu près à ça aussi.
+Une vie de moine, mais une vie avec le moins de stress possible. En tout cas, j’essaye.
+Bon et vous quoi de neuf ?
+Allez, à dans 2 ans pour le prochain édito 🙂
+]]> Lemmy – Le clone de Reddit libre et fédéréhttps://korben.info/?p=125867http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211026_090000_Lemmy_____Le_clone_de_Reddit_libre_et_federeTue, 26 Oct 2021 07:00:00 +0000
+Voici un projet libre qui va vous intéresser si vous aimez les sites communautaires. Ce projet c’est Lemmy, un script qui se présente comme une alternative à Reddit ou Hackernews et qui permet à chacun de s’abonner à des communautés aux sujets variés.
+Ensuite, comme sur Reddit, vous pouvez publier des liens, engager des discussions, voter pour des contenus ou tout simplement les commenter. Mais là où Lemmy va plus loin, c’est qu’il fonctionne sur un principe de fédération, où chaque Lemmy rejoint un réseau de communautés interconnectées gérées par des personnes ou organisations indépendantes.
+Et tout ceci reste transparent pour l’utilisateur qui consulte les articles de chacune de ces communautés sur une page d’accueil unique où arriveront les nouveaux messages en continu sans avoir besoin de rafraichir quoi que ce soit.
+Il y a peu d’instances disponibles pour le moment et c’est encore un projet rempli de barbu(e)s, mais il ne tient qu’à vous d’en faire quelque chose de plus ouvert en matière de public.
+Pour installer Lemmy, il y a différentes méthodes (from scratch, avec Docker…etc.), mais la méthode la plus simple c’est de passer par Ansible qui gère tout automatiquement y compris la config TLS et la messagerie de votre instance.
+Pour cela, vous devrez installer Ansible ainsi que Docker.
+Puis lancer les commandes suivantes :
+git clone https://github.com/LemmyNet/lemmy.git
+
+cd lemmy/ansible/
+
+cp inventory.example inventory
+Éditez ensuite le fichier inventory pour y spécifier les informations de votre serveur, du domaine à utiliser, de l’email de contact…etc.
+nano inventory
+Puis lancez l’install comme ceci :
+ansible-playbook lemmy.yml --become
+Ensuite pour mettre à jour votre instance, entrez les commandes suivantes :
+git pull origin main
+
+cd ansible
+
+ansible-playbook lemmy.yml --become
+Plus d’infos ici.
+]]> Comment installer Windows 11 sur un vieux PC ?https://korben.info/?p=126450http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211025_090000_Comment_installer_Windows_11_sur_un_vieux_PC__Mon, 25 Oct 2021 07:00:00 +0000Suite]]>
+Vous voulez installer Windows 11 sur votre vieux PC, mais celui-ci n’est pas compatible ?
+Pas de souci, voici une technique simple à mettre en œuvre pour contourner la vérification de TPM 2.0 et SecureCheck et enfin migrer tranquillement vers le nouvel OS de Microsoft.
+Il s’agit d’une astuce simple à base de clé de base de registre à créer lors de l’installation pour justement contourner cela et installer quand même Windows 11 même sur un PC plus ancien.
+Pourquoi se priver ?
+Alors évidemment, Microsoft a réagi à cette technique et ne la recommande pas. Soit disant que cela pourrait provoquer des problèmes « plus tard ». Mais ici, rien à signaler de mon côté et je doute que ça génère le moindre souci.
+Toutefois, faites quand même bien vos sauvegardes avant d’installer Windows 11 de cette manière (ou de n’importe quelle autre manière), on ne sait jamais.
+Les liens
+Pour récupérer la clé de Windows 10 / Windows 7
+Pour télécharger l’ISO de Windows 11
+]]> Mon process pour faire la bouffe dans la joie et la bonne humeurhttps://korben.info/?p=125811http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211024_090000_Mon_process_pour_faire_la_bouffe_dans_la_joie_et_la_bonne_humeurSun, 24 Oct 2021 07:00:00 +0000
+Parmi les nombreuses activités qui occupent ma journée, y’a un truc que j’aime bien faire, c’est cuisiner. Pas de choses trop complexes ni trop longues, mais je trouve l’activité à la fois relaxante et gratifiante.
+Par contre, un truc que je déteste faire c’est préparer les menus et faire les courses. C’est compliqué pour mon petit cerveau.
+Alors jusqu’à maintenant, j’utilisais une application baptisée Youmiam qui permet de générer des menus en fonction de nos goûts et d’ingrédients qu’on aurait déjà. Ça générait ensuite une belle liste de courses qu’il fallait alors recréer dans l’application de votre Auchan Drive ou Carrefour Drive. Donc ça prenait un peu de temps, mais c’était mon process.
+Sauf que voilà, Youmiam rencontre des problèmes dernièrement et donc je me suis retrouvé dépourvu. Après une semaine sans manger, j’ai alors décidé de prendre les choses en main en me plaignant sur Twitter comme je sais bien le faire.
+Et là, l’un d’entre vous m’a gentiment indiqué l’existence d’une autre application : JOW (10 balles offerts sur vos courses en passant par ce lien affilié avec le code 2LE2QR).
+J’étais de retour dans le game !
+Donc je vous en parle, car ça peut aussi vous aider. En gros, vous indiquez le matériel dont vous disposez à la maison (micro-ondes, mixeur, four…etc), le nombre d’adultes, le nombre d’enfants (et leur âge) et les trucs que vous trouvez dégueu (ou pour lesquels vous êtes allergique).
+JOW va alors générer un nombre de repas pour la semaine, que vous pouvez bien sûr changer si ça ne vous convient pas et SURTOUT, il va pondre une belle liste de course.
+Et comme JOW s’interface avec les services de la grande distrib : Auchan, Carrefour, Monoprix, Intermarché, Chronodrive et E.Leclerc Drive.
+Ensuite, je fais évidemment un petit tri. J’enlève les trucs que j’ai déjà, je remplace les trucs trop chers par des produits plus abordables, j’enlève les ingrédients qui ne servent à rien et je rajoute les trucs qui manquent genre du chocolat ou du shampoing.
+Et voilà.
+C’est donc mon nouveau process pour la gestion des repas. En tout cas, ce qu’il me propose convient bien à la famille (les zenfants difficiles), ça ne me demande pas trop de temps et ça allège ma charge mentale.
+Du coup, je prends plaisir à cuisiner, mon casque sur les oreilles, en dandinant devant mon four en sirotant une petite fraise à l’eau. Quel plaisir !
+Vous pouvez télécharger JOW ici (10 balles offerts sur vos courses en passant par ce lien affilié ou avec ce code : 2LE2QR).
+]]> Ajoutez des icônes dans Visual Studio Codehttps://korben.info/?p=125157http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211023_090000_Ajoutez_des_icones_dans_Visual_Studio_CodeSat, 23 Oct 2021 07:00:00 +0000
+Pour rendre un peu plus sympa le look de votre Visual Studio Code, pourquoi ne pas opter pour l’extension VS Code Icons ?
+Ce plugin pour le célèbre IDE de Microsoft permet d’afficher une jolie icône devant chaque fichier et répertoire. Icône qui sera automatiquement choisie en fonction de l’extension du fichier.
+Cela vous permettra de mieux vous y retrouver et surtout viendra égailler vos longues nuits de coding à la seule lueur de la bougie.
+Si vous souhaitez en apprendre plus sur Visual Studio Code pour le maîtriser à fond, il y a un bon bouquin en anglais qui s’appelle Visual Studio Code Distilled que je vous invite à lire.
+]]> Comment flouter les visages facilement ?https://korben.info/?p=125785http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211022_090000_Comment_flouter_les_visages_facilement__Fri, 22 Oct 2021 07:00:00 +0000
+Il arrive qu’on ait besoin de flouter les visages des gens lorsqu’on les filme ou qu’on les prend une photo. Cela peut-être lors de vos fameuses soirées plume-dans-les-fesses ou pendant les journées de (dés)intégration de migrants par les gardiens de la « paix ».
+Le but étant plus pour protéger pénalement le vidéaste amateur que pour préserver l’anonymat de gens déjà vachement anonymes.
+Mais ce genre de chose prend du temps, et si vous optez pour un plugin Adobe Premiere / Final Cut, ça vous prendra également de l’argent.
+Heureusement, il existe une application qui s’appelle Deface et qui fait vachement bien le job, à savoir prendre une vidéo ou une photo et flouter automatiquement tous les visages.
+Le résultat est super bluffant aussi bien pour les photos que pour les vidéos. Concernant les vidéos, vous perdrez le son, mais ce n’est pas grave, un petit passage dans le logiciel de montage et ce sera réglé.
+Pour installer cet outil, ouvrez un terminal et entrez la commande suivante :
+python3 -m pip install 'git+https://github.com/ORB-HD/deface'
+Il vous suffit ensuite de taper la commande deface suivi du nom du fichier à flouter :
+deface mavideo.mp4
+Il est également possible de flouter votre webcam directement. J’ai testé, mais ça n’a pas voulu fonctionner chez moi. Vous aurez peut-être un peu plus de chance.
+Deface propose son lot de paramètre pour régler la forme, la taille, le rayon, l’intensité du floutage. Vous pouvez par exemple mettre des petits carrés noirs partout comme ceci :
+deface exemple.jpg --boxes --replacewith solid -o exemple_anonymized_boxes.jpg
+Notez que si vous avez un GPU compatible CUDA vous pouvez activer l’accélération du traitement avec les bons packages :
+python3 -m pip install onnx onnxruntime-gpu
+Et voilà, plus d’excuse pour ne pas flouter les prochaines violences institutionnelles :-*
+source
+]]> Test de la bande lumineuse (LEDs) Tapo L-900 de TP-Linkhttps://korben.info/?p=126385http://pixellibre.net/streisand-data/autoblog/Korben/index.php?20211022_063912_Test_de_la_bande_lumineuse__LEDs__Tapo_L-900_de_TP-LinkFri, 22 Oct 2021 04:39:12 +0000
+— En partenariat avec TP-Link —
+Maintenant que les travaux dans mon bureau sont terminés, je peux passer un peu à la déco. Et histoire de mettre une petite ambiance là-dedans, TP-Link m’a envoyé son ruban à LED L-900.
+Alors les rubans à LEDs qu’on appelle en bon français « bande lumineuse », vous connaissez sûrement, mais celle-ci a la particularité d’être connectée et donc parfaitement pilotable avec une application smartphone, via le wifi.
+Ce ruban d’une longueur de 5 mètres que vous pouvez couper de la longueur que vous voulez s’installe, très facilement grâce à un adhésif de marque 3M qui se trouve sur toute sa longueur.
+Comme tous les rubans à LEDs, vous pouvez le couper en plusieurs morceaux et lier l’ensemble électriquement avec un peu de fil électrique (noir, ce qui est plus discret) et un peu de soudure. Rien de compliqué, mais je préfère le préciser. Ça permet par exemple de décorer une bibliothèque de 5 ou 6 étagères sans avoir à brancher 5 ou 6 rubans à LEDs.
+Une fois en place et connecté à la prise électrique, la bande lumineuse se met à clignoter comme un sapin de Noël. Il est temps de la connecter au réseau Wifi. Pour cela, TP-Link propose sur les stores applicatifs Android et iPhone, une application baptisée Tapo qui je vous le donne en mille permet de contrôler tous les appareils de sa gamme Tapo. On retrouve dans cette gamme aussi bien des prises connectées que des caméras, et des ampoules.
+Une fois la bande lumineuse configurée et ajoutée à l’application Tapo, il est l’heure de s’amuser un peu avec cette bande lumineuse L-900. La première chose qu’on peut configurer c’est la puissance lumineuse… Que vous souhaitiez éclairer une zone ou simplement créer une ambiance tamisée, c’est totalement possible avec cette bande. En effet, les LED sont beaucoup plus lumineuses que ce qu’on peut trouver classiquement sur le marché des rubans à LEDs et elles sont conçues pour durer plus de 5 ans et demi en étant tout le temps allumées. Et comme on ne les allume pas toute la journée, je vous laisse imaginer la durée de vie des diodes. C’est à peu près 2 fois plus longtemps qu’avec les autres rubans à LEDs.
+Concernant la luminosité, on est à 2100 mcd (millicandela), ce qui très bien pour de la haute luminosité. Disons que vous pouvez parfaitement vous servir de ce ruban comme d’une lampe de chevet pour lire par exemple.
+Avec l’application, vous pourrez également changer les couleurs. Soit opter pour une couleur fixe, soit créer une ambiance en choisissant un de leurs thèmes d’ambiance et faire évoluer les couleurs en boucle.
+Mais attention, avec Tapo vous pouvez aller encore plus loin, car il est possible de tout programmer pour créer différentes ambiances au fil de la journée. Une bonne lumière douce au début puis bien vive le matin pour vous réveiller, ou tout simplement une ambiance douce pour se détendre le soir. Pour ceux qui ont peur du noir, vous pouvez également l’utiliser comme veilleuse. Pourquoi pas ?
+Dès qu’un éclairage vous plaît, vous pouvez également sauvegarder votre configuration pour pouvoir y revenir plus tard.
+TP-Link a pensé à tout puisqu’un mode Absence permet également de simuler une présence chez vous pour indiquer à d’éventuels futurs incarcérés que ce n’est pas la bonne maison à visiter puisqu’il y a du monde.
+Si vous êtes utilisateur d’Amazon Alexa ou de Google Assistant, sachez également que le ruban est pilotable à la voix via ces assistants vocaux.
+Et si vous aimez faire la fête chez vous, bonne nouvelle, le ruban à LEDs se synchronise avec votre musique. De quoi créer une ambiance de folie encore mieux qu’en boite de nuit 🙂 !
+Bref, on a là quelque chose de simple à installer et à utiliser qui mettra tout de suite une ambiance sympa dans votre salon ou votre pièce de gaming et que vous pourrez piloter au doigt et à la voix.

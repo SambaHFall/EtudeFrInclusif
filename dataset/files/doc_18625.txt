@@ -1,0 +1,91 @@
+CMA Imaging présente deux nouvelles solutions logicielles d’épreuvage CMA ColorPortal et CMA ColorControl. Elles visent divers segments du marché de l’épreuvage couleur : l’impression offset et hélio, le marché de l’affichage et de la signalétique, ainsi que les applications d’emballages. CMA ColorPortal comporte un RIP intégré et permet des épreuvages papier, à l’écran et Web à distance. CMA Color-Control est un système de contrôle-qualité de la couleur et de certification basé sur le Web. Il génère des barres de couleur CMJN pour les différentes normes et les standards couleur les plus récents, tels Swop, GRACoL ou Fogra.
+Prix : NC. Distributeur : CMA Imaging.
+Tags: affichage, applications, barres, basé, certification, cma, cma colorcontrol, cma imaging, cmjn, colorcontrol, colorportal, comporte, couleur, deux, deux nouvelles solutions logicielles, différentes normes, distance, distributeur, divers, écran, elles, emballages, épreuvage, épreuvages papier, fogra, génère, gracol, hélio, imaging, impression, intégré, logicielles, logiciels, marché, nouvelles, offset, permet, plus, présente, récents, rip, segments, signalétique, solutions, solutions d'épreuvage, standards couleur, swop, système de contrôle de qualité de la couleur, visent, web
+Tous droits réservés - Copyright © 2018 GLN Médias - Caractere.net
+Cet article par E-mail
+Share on Facebook
+Share on Google Plus
+Share on Twitter
+Share on LinkedIn
+< Précédent Suivant >
+Une seule unité de découpe pour la Speedmaster XL 106-D
+ZPC pour la création de fichiers de découpe
+Portfolio version 4.0
+Fiery Command WorkStation 6.7
+Application cloud PRISMAprepare Go
+Systèmes d’inspection par vision
+Tête d’impression Irix, de Xaar
+Une seule unité de découpe pour la Speedmaster XL 106-D
+Heidelberg annonce que la découpeuse rotative Speedmaster XL 106-D n’a désormais qu’une seule unité de découpe, ce qui permet aux imprimeurs de passer plus facilement, avec des coûts d’investissement moindres, à la production IML (In-Mould Label, ou étiquette dans le moule). Une nouveauté qui fait partie du package IML Performance, proposé par le constructeur. La nouvelle découpeuse, qui prend moins de place et consomme moins d’énergie que la Speedmaster XL 106-DD, convient à la découpe de grandes formes d’étiquettes imbriquées. Grâce à son principe de découpe rotative, la Speedmaster XL 106-D fonctionne à une vitesse deux ou trois fois supérieure à celle des découpeuses à plat. La haute précision résultant de la surface plane du cylindre et de la matrice de coupe uniforme élimine le calage requis lors de l’utilisation du processus à plat, minimisant ainsi le temps d’installation. La pression d’impression peut être réglée par incréments d’un seul micron. Des corrections sont possibles à la fois parallèlement et diagonalement à l’axe du cylindre. Ce réglage précis rend la Speedmaster XL 106-D idéale pour la production d’étiquettes dans le moule sur des matériaux de seulement 50 microns d’épaisseur.
+Distributeur : Heidelberg France.
+ZPC pour la création de fichiers de découpe
+Zünd lance PreCut Center (ZPC) pour la création de fichiers de découpe sur des matériaux non imprimés. Ce logiciel simplifie la préparation et l’édition des données et permet une automatisation adaptée aux besoins. L’utilisateur crée un fichier de découpe imbriquée en quelques étapes seulement et peut procéder aux réglages manuellement ou automatiquement. Il importe les formes de découpe souhaitées dans Zünd PreCut Center et les affecte aux recettes correspondantes. Le logiciel est disponible en versions Basic et Pro. Avec cette dernière version, l’imbrication est réalisée de manière entièrement automatique par simple pression sur un bouton.
+Distributeur : Zünd.
+Portfolio version 4.0
+Extensis a mis à jour son logiciel Portfolio, serveur numérique permettant de gérer des images, vidéos, fichiers audio et documents, facilitant la recherche, l’utilisation et le partage des éléments numériques entre les collaborateurs. La version 4.0 apporte plusieurs nouveautés. Parmi elles, à noter, pour le serveur, la prise en charge d’Active Directory 2019, les mises à jour de LibRaw vers la version 0.20.2 et d’Apache Tomcat vers la version 9.0.43, ou encore la possibilité de désactiver l’option Anglais lorsqu’une autre langue est choisie. En ce qui concerne le web, il est, notamment, dorénavant possible de partager des présentations privées avec d’autres utilisateurs, et, pour NetPublish, l’espace disponible pour les détails dans l’aperçu a été augmenté.
+Distributeurs : Extensis et revendeurs.
+Fiery Command WorkStation 6.7
+EFI (Electronics For Imaging) propose la dernière mise à jour de son outil Fiery Command WorkStation, avec la version 6.7. Elle permet d’améliorer l’automatisation et la gestion des tâches afin de mieux gérer le nombre croissant des impressions en court tirage et ainsi diminuer les délais d’exécution. Parmi les améliorations, on remarque l’étiquetage automatique des tâches à l’aide de préréglages d’impression, les clients pouvant ainsi classer, retrouver et gérer les jobs plus rapidement. De plus, un nouvel outil de recherche permet de retrouver ces derniers sur l’ensemble des serveurs d’impression numérique Fiery connectés.
+Distributeurs : EFI et revendeurs.
+Application cloud PRISMAprepare Go
+Canon présente PRISMAprepare Go, une application cloud de soumission et de préparation des travaux pour les imprimeries à structure légère. Cet outil permet d’accélérer le processus de réception des travaux soumis par les clients, de vérifier rapidement leur conformité et de détecter des problèmes tels que l’inexactitude ou l’absence de formats de page, du formatage, des polices et de la résolution d’image. L’application, accessible via PRISMA Home, prend en charge les imprimantes de production Canon, qu’elles soient pilotées par PRISMAsync, Fiery ou Canon PDL, ainsi que les imprimantes JDF génériques de tiers. PRISMAprepare Go comprend également un portail de soumission des travaux orienté clients, que les prestataires de services d’impression peuvent labelliser comme le leur, ce qui facilite l’envoi des tâches en ligne par les clients.
+Distributeurs : Canon et revendeurs.
+Systèmes d’inspection par vision
+Domino commercialise la Série R, une gamme de systèmes de vision intelligents pour l’inspection et la validation automatiques des codes produits, notamment les dates, les numéros de lot, les codes-barres et les codes imprimés en 2D. Ces systèmes sont conçus pour fonctionner avec les imprimantes Domino, s’intégrant parfaitement aux lignes de production existantes. Les contrôleurs de la Série R peuvent être gérés à partir d’une seule interface homme-machine. Précisons que la Série R est spécifiquement conçue pour les applications de codage et de marquage. Les systèmes sont optimisés pour les polices, les caractéristiques d’impression et les encres Domino, et s’adaptent à la vitesse des imprimantes les plus rapides. Enfin, la Série R comprend trois produits : le modèle haut de gamme R550, le milieu de gamme R350 et l’entrée de gamme R150.
+Distributeur : Domino Printing Sciences.
+Tête d’impression Irix, de Xaar
+Xaar met sur le marché la Xaar Irix, une tête d’impression conçue pour assurer une impression précise, fiable et facile pour le codage et le marquage, l’impression de produits, les fluides fonctionnels (functional fluids en anglais) et les applications d’impression 3D. S’appuyant sur la Xaar 128, la tête Irix est issue de la plateforme ImagineX, qui pilote les innovations jet d’encre et les développements de têtes d’impression de Xaar. Irix permet une grande précision des gouttes d’encre, grâce à un calibrage adéquat de chaque buse, obtenu avec la technologie AcuDrp de Xaar. Elle apporte également une vitesse et un volume de goutte uniformes, autorisant une qualité d’image améliorée sur de longues distances d’impression. Enfin, légère et compacte, elle est simple à utiliser et facile à intégrer.
+Distributeur : Xaar.
+Votre compte
+Se souvenir de moi
+Connexion
+Mot de passe oublié ?
+Identifiant oublié ?
+Nouveaux produitsnouvelles solutions…
+Consommables (313)
+Contrôle (10)
+CTP (3)
+Emballage (2)
+Équipements flexographiques (7)
+Étiquettes (11)
+Finition (105)
+Flux de gestion et de production (14)
+Gestion (13)
+Gestion en finition (1)
+Gravure (11)
+Hardware (1)
+Image (25)
+Impression 3D (5)
+Impression (9)
+Impression bobine (1)
+Impression grand format (150)
+Impression hybride (1)
+Impression hydrique (1)
+Impression numérique (186)
+Impression offset (7)
+Impression jet d'encre (4)
+Impression sur textile (4)
+Imprimantes (16)
+Informatique (1)
+Jet d'encre (11)
+Logiciels (205)
+Manutention (1)
+Mesure-Contrôle (40)
+Numérique grand format (3)
+Numérique jet d’encre (1)
+Numérique toner (1)
+Périphériques (13)
+Prépresse (37)
+Rotative (2)
+Routage (6)
+RIP (2)
+Scanner (6)
+Serveur (2)
+Sérigraphie (3)
+Typo (4)
+Web-to-Print (4)
+TechnologieLes dossiers de Caractère
+L’intelligence artificielle s’invite dans l’offset feuille
+L’automatisation de la chaîne graphique se poursuit, et l’impression offset feuille autonome passe progressivement du rêve à la réalité.	
+L’impression numérique de carton compact
+Ce procédé apporte des solutions pour répondre aux nouvelles attentes des donneurs d’ordre dans l’emballage.	

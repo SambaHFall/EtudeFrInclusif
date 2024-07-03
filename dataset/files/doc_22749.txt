@@ -1,0 +1,73 @@
+SQL Server 2008 Express Edition est une version gratuite, facile à utiliser, légère et intégrable de SQL Server 2008. Gratuit à télécharger, gratuit à redistribuer, gratuit à intégrer et facile à utiliser immédiatement pour les nouveaux développeurs.
+SQL Server 2008 Express Edition présente les avantages suivants :
+Rapide à télécharger et à installer : Il s'agit d'un téléchargement compact, et vous pouvez être opérationnel en 20 minutes seulement.
+Une administration simplifiée : Réglez automatiquement votre base de données pour obtenir des performances optimales. Pour plus de commodité, vous pouvez utiliser Microsoft Update pour recevoir automatiquement les derniers correctifs et mises à jour, ce qui vous permet de bénéficier d'un niveau de sécurité élevé et des dernières fonctionnalités.
+Outil de gestion gratuit : Studio de gestion du serveur SQL : Vous pouvez télécharger le SQL Server Management Studio Express, un outil de gestion simple et efficace pour SQL Server Express. Avec SQL Server Management Studio, vous bénéficiez d'une expérience de gestion cohérente sur toutes les éditions de SQL Server 2008.
+Intégration transparente avec les éditions Visual Studio Express.
+Facile à déployer : Déplacez ou copiez facilement vos bases de données SQL Server Express vers un autre ordinateur ou un serveur hébergé grâce au déploiement XCopy et ClickOnce.
+Publicité
+Technique
+Titre
+SQL Server 2019 Express Edition,15.0.2000.5 pour Windows
+Pré-requis:
+Windows XP,
+Windows 10,
+Windows 8,
+Windows 7,
+Windows Vista
+Langue
+French
+Langues disponibles
+French,
+English,
+German,
+Spanish,
+Italian,
+Japanese,
+Portuguese,
+Russian,
+Chinese
+Licence:
+Gratuit
+Date ajoutée:
+Tuesday, August 7th 2012
+Auteur
+Microsoft Corporation
+http://microsoft.com
+SHA-1:
+333fdbbb45be64cc77b07d273ab2a58d1eaa98be
+SQL Server 2019 Express Edition pour PC
+15.0.2000.5
+Microsoft Corporation(Gratuit)
+Note des utilisateursUser Rating8
+Télécharger la dernière version gratuitement
+Changelog
+Nous n'avons pas encore d'informations sur le changelog pour cette version 15.0.2000.5 de SQL Server 2019 Express Edition. Parfois les développeurs tardent à rendre cette information disponible. Nous vous invitons à consulter l'information à jour d'ici quelques jours.
+Pouvez-vous nous aider?
+Si vous avez des informations de changelog, n'hésitez pas à les partager avec nous. Nous sommes toujours ravis de vous écouter!Page de contactet informez-nous.
+Découvrez des apps
+ELLAROSE
+SQLite Database Recovery
+Firebird
+phpMyAdmin
+PostgreSQL
+Code Compare
+Programme associé
+SQL Server Management Studio 2012 Express
+Microsoft SQL Server Management Studio Express (SSMSE) est un outil de gestion graphique gratuit et facile à utiliser pour gérer SQL Server 2005 Express Edition et SQL Server 2005 Express Edition à l'
+SQuirreL SQL Client
+SQuirreL SQL Client est un client SQL graphique écrit en Java, qui vous permet de visualiser la structure d'une base de données conforme à JDBC, de parcourir les données dans des tableaux et, entre
+dbForge SQL Decrypter
+dbForge SQL Decryptor est un outil de base de données qui est capable de décrypter des procédures stockées cryptées, des vues, des déclencheurs et des fonctions. Il vous offre un certain nombre de f
+dbForge Search for SQL Server
+dbForge Search for SQL Server est un complément puissant de Microsoft SQL Server Management Studio, qui vous permet de rechercher des objets et des données SQL dans vos bases de données. Il peu
+.NET Framework Version 3.0
+Le Microsoft .NET Framework 3 est le nouveau modèle de programmation de code géré pour Windows®. Il combine la puissance de la version 2.0 du .NET Framework avec de nouvelles technologies pour créer d
+MySQL
+MySQL Community Edition is a freely downloadable version of the world's most popular open source database that is supported by an active community of open source developers and enthusiasts. MySQL del
+dbForge Data Generator for SQL Server
+Le générateur de données dbForge pour SQL Server est un outil puissant pour la production de données d'essai significatives. Il comprend plus de 180 générateurs prédéfinis avec des options configura
+Mobile 4 Series Express Chipset Family Driver for Windows 7 Professional 15.17.19.2869
+Ce pack de pilotes de périphériques installera les pilotes de la famille de puces Intel 4 Series Express pour le système d'exploitation Windows 7 Professional.Les produits suivants sont également comp
+HitFilm Express
+HitFilm Express fournira aux monteurs vidéo toute la puissance nécessaire pour "faire quelque chose de cool". Ce logiciel de montage vidéo de démarrage permettra à chacun de faire ses premiers pas ver

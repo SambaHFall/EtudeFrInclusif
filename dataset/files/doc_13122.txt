@@ -1,0 +1,839 @@
+C:geo, comment ça marche ? Je vous avais déjà parlé il y a quelque temps du matériel et logiciel carto / GPS que j’utilise pour mes randonnées et le géocaching. Je vais rentrer un peu plus dans le détail en ce qui concerne la recherche des caches, le mode offline, la navigation… aujourd’hui, le logiciel c:geo !
+Tout ceci tourne sur mon smartphone Samsung Galaxy S2 (oups en 2020, c’est un Galaxy toujours, mais un J5 !), grand écran pour la carto, GPS amélioré par rapport au Galaxy S, et sous Android Du bon matériel.
+c:geo est une très bonne application Android gratuite pour rechercher des géocaches, et opensource. Voici un petit tutoriel, plus pratique que théorique, et basé sur ce que j’utilise souvent. Et non, c:geo n’est pas sur Iphone ! Vous trouverez aussi également sur les pages suivantes comment gérer les caches en local via fichiers GPX et cartes en local ainsi que des astuces et infos diverses sur c:geo.
+Paramètres
+En premier lieu, il faut se connecter à son compte géocaching :
+Menu > Paramètres > Services : ici, vous rentrez votre login et password sur geocaching.com puis appuyez sur « vérification de l »identifiant« .
+Dans les autres paramètres :
+– Twitter envoie un tweet à chaque fois que vous trouvez (ou pas) une géocache.
+– La signature personnalise vos logs (voir Paramètres > Visites), vous pouvez mettre du texte libre, ou automatiquement la date, l’heure ou votre nombre total de caches trouvées. N’oubliez pas de cocher « insérer la signature automatiquement » !
+– Dans Paramètres > Détails de la cache, exclure les caches trouvées, les caches désactivées ou les vôtres, améliore parfois la lisibilité sur les maps 😉
+– Le menu Paramètres > Carte vous donne le choix entre des cartes Google ou différentes types de cartes OSM (OpenStreetMap).
+Paramètres c:geo
+Live Map
+La carte online permet d’afficher à la fois votre position et la position des caches proches.
+La carto affiche les caches que vous avez sauvegardés en offline et les autres, sous format Google maps, plan ou satellite, ou bien OSM en fonction de ce que vous avez configuré sur l’écran d’accueil dans Menu > paramètres > Carte (choix modifiable sur l’écran de la carte active sous Menu > voir carte).
+Vous pouvez alors vous servir de la carte pour vous diriger vers une géocache, zoomer et dézoomer, ou appuyer directement sur une des icônes de caches. Votre position et cap approximatif sont matérialisés par une petite flèche bleue entourée par un cercle qui donne la précision de la géolocalisation. Le petit bouton en haut à droite vous ramène à votre position actuelle si vous avez déplacé la carto ailleurs.
+En appuyant sur une cache, vous obtenez des informations, dont entre autres sa distance, le niveau de difficulté et de terrain. Appuyez sur « plus de détails » !
+Naviguer jusqu’à la cache
+La page de la cache affiche plusieurs onglets :
+détails : notamment la taille, la distance, les attributs du trésor
+description : le texte long expliquant le lieu et éventuellement comment trouver la geocache. Tout en bas, parfois un indice (crypté, appuyer dessus) et une photo spoiler.
+le carnet de bord : les logs précédents et un autre onglet, carnet de bord des amis (ceux que vous avez en « friend » sur votre profil geocaching)
+inventaire : liste des trackables, géocoins ou travel bugs, présents dans la boîte
+waypoints : liste des points intermédiaires, par exemple sur une multi-cache
+Pour naviguer jusqu’à la cache, plusieurs moyens :
+– Utiliser la boussole en cliquant sur le petit rond en haut à droite. Vous avez 2 choix possibles en fonction du contexte, soit la boussole GPS (Menu > utiliser GPS) qui ne marche pas bien si vous êtes immobile car elle calcule votre cap en fonction de plusieurs coordonnées GPS; soit la boussole de votre smartphone (Menu > utiliser boussole) qui fonctionne immobile mais qui peut être perturbée magnétiquement et un peu plus lente à se mettre à jour si vous allez vite. Astuce, quand la flèche ne semble pas dans le bon sens, un 360° sur vous-même aide le smartphone à se repositionner ! (merci Gadl)
+– Aller dans Menu > naviguer et choisir le mode de navigation : radar, carte (comme sur la carte active), cartes statiques (cartes locales avec plusieurs zooms dans la zone de la cache chargées en même temps que la géocache), Locus (j’en reparlerai dans un prochain article), carte externe (Orange Maps par exemple), itinéraire (par Google Maps Navigation, très bien en voiture) ou Google Street View.
+Mon conseil, utiliser la navigation sur la carte tant qu’on est à distance des coordonnées finales, puis avec la boussole dans les dernières dizaines de mètres. Enfin, l’esprit du géocaching reste quand même de prendre plaisir à chercher la caches et ne pas tomber le nez dessus 😉
+Caches proches
+Accessible de l’écran principal de c:geo, ce menu recherche les 20 géocaches les plus proches de votre position actuelle (calculée via GPS s’il est allumé, soit par le réseau 3G). Vous pouvez ensuite les afficher en appuyant sur la petite carte du monde en haut à droite.
+Possibilité de cliquer sur « charger plus de caches« , de les trier par difficulté, distance, terrain, etc (Menu > trier) mais aussi et surtout de les stocker offline en allant dans Menu > Stocker localement.
+Caches stockées en offline
+Afin de pouvoir faire du géocaching même sans réseau Internet, c:geo supporte le stockage de géocaches en local sur votre smartphone. De l’écran principal, le menu « Stockées » donne accès aux données sauvegardées dans une liste par défaut.
+Vous pouvez créer plusieurs listes pour organiser votre gestion de caches offline, via le menu Gérer les listes. Si vous avez chargé localement dans la liste par défaut des caches, et que vous souhaitez les ranger dans une autre liste, il faut d’abord sélectionner les caches (Menu > activer le mode sélection, puis Menu > inverser la sélection, bizarrement le mode par défaut est la dé-sélection !) puis Menu > Gérer les caches > déplacer la sélection.
+D’autres fonctions sont disponibles pour renommer, modifier, supprimer des listes. Egalement une fonction d’importation de fichier GPX, pratique pour charger d’un coup un ensemble de données.
+Et toujours une fonction importante, la petite carte du monde en haut à droite pour localiser sur une map, ou encore Menu > voir sur la carte > Locus pour visualiser les géocaches sur le logiciel de carto Locus, ou > exporter vers Locus pour les stocker dans la base de données de Locus.
+Quelques Tof-listes…
+Ajouter des waypoints (multi-caches, …)
+C’est une question qui revient souvent dans les commentaires, alors je l’ajoute dans l’article directement : Quand on veut enregistrer un point intermédiaire ou le point final d’une multi-cache, mystery ou wherigo, on peut le faire dans c:geo. Allez dans l’onglet tout à gauche « étapes », à gauche de l’onglet « détails ». Dans cet onglet « étapes », il y a un bouton en haut « ajouter une étape ». On y entre ensuite les coordonnées voulues (on peut partir des coordonnées initiales ou des coordonnées actuelles pour les modifier), puis on choisit le type de point (final, intermédiaire, parking…). Enfin, on peut même effectuer une projection en rentrant les degrés (relèvement) et les mètres (distance).
+Autres menus : recherche et filtres
+De l’écran principal de c:geo, vous accédez à une fonctionnalité de recherche, par lieu, par nom de géocache, par placeur, par coordonnées, etc. ainsi qu’à un filtre par type de géocache : traditionelle, mystery, multi, virtual,…
+J’ajoute qu’il y aussi un manuel d’utilisation téléchargeable en allant dans le menu principal Menu > utilitaires > manuel.
+Voir aussi c:geo cartes en offline, infos et astuces c:geo, fonctions pratiques de c:geo, et les nouveautés 2020.
+Bref, c:geo est un très bon logiciel Android pour faire du géocaching, afficher les maps online et offline, les caches avec les spoilers et tous les détails et de gérer des listes. Pas d’équivalent gratuit sous Iphone à ma connaissance…Couplé à des outils de positionnement GPS et A-GPS comme GPS Status, des applis de carto comme Locus et du bon matériel comme un smartphone récent, c’est une très bonne aide à la chasse au trésor moderne !
+N’hésitez pas à poser vos questions dans les commentaires 🙂
+Géocaching France
+Tweet
+WhatsApp
+E-mail
+WordPress:
+J’aime chargement…
+Articles similaires
+appli geocaching, c:geo, géocaching Android, géocaching apk, géocaching gratuit, géocaching waypoint, GPX géocaching	
+Navigation des articles
+Article précédent
+Les géocacheurs optimistes pour le futur
+Article suivant
+10 trucs qui font de vous un mordu de géocaching !
+125 réflexions sur “Tutoriel C:geo – appli géocaching gratuite Android”	
+Nyakus dit :	
+24 février 2012 à 20 h 13 min
+c’est vrai que c’est un bon outil, perso je commence a vraiment préferer locus car il fait le même , bien que lui telecharge 200 caches autour de vous directement, il a une mesure de distance pratique pour calculer le bon ecart entre de cache quand on veux en poser…
+les deux ensembles sont redoutables 🙂
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+24 février 2012 à 22 h 50 min
+Je suis un peu comme toi sur Locus, j’utilisais c:geo jusqu’alors pour la carte en live et locus pour les cartes et guidage, mais si geocaching.com ne leur laisse pas la possibilité de rétablir la map active…
+J’aimeJ’aime
+Répondre
+ghys29 dit :	
+10 novembre 2013 à 17 h 37 min
+Bonjour, gros soucis pour me connecter sur mon galaxi s2, j’ai l’application cgeo et je l’utilise mais je ne peux pas poster un log car je reçois un message hors connexion, pffff comment faire? Une âme geocacheur charitable dur ce blog?? Merci
+J’aimeJ’aime
+TofLaBeuze dit :	
+10 novembre 2013 à 17 h 46 min
+Bonjour Ghys, question bête, tu as bien ta connexion 3G/internet qui fonctionne ? Et aussi quelle version de c:geo as-tu d’installé ? Mieux vaut avoir toujours la dernière au vu des fréquents changements de Groundspeak qui ont un impact sur l’appli.
+J’aimeJ’aime
+Ludo dit :	
+28 octobre 2014 à 12 h 10 min
+http://www.geocaching.com/geocache/GC3KADM_les-planchettes-le-ruisseau?guid=c9a1e378-016c-4d52-b330-6d8f65b8f3e0
+Pour cette cache l’appli ne stocke pas les bons coordonnées GPS. QQ sait il pourquoi ?
+Ludo
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+28 octobre 2014 à 12 h 24 min
+Bonjour,
+je viens d’essayer sur le mien, ça marche bien avec cette cache, il la stocke avec les coordonnées N 47° 55.719 W 001° 55.735.
+Peut-être recharger la dernière version de c:geo si ce n’est pas le cas ?
+J’aimeJ’aime
+C:geo, logiciel de géocaching sous Android « Tof Géocaching | Géocaching et tourisme | Scoop.it dit :	
+26 février 2012 à 9 h 57 min
+Merci à http://www.scoop.it/t/geocaching-et-tourisme pour le lien.
+J’aimeJ’aime
+Répondre
+xmons dit :	
+10 avril 2012 à 20 h 58 min
+Bonjour,
+Juste pour vous dire que vous pouvez faire des captures d’écran avec un terminal android, home+power il me semble!
+bon geocaching!
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+30 mai 2012 à 19 h 49 min
+Merci, je viens juste d’en avoir besoin, ça marche bien !
+J’aimeJ’aime
+Répondre
+chex68280 dit :	
+12 avril 2012 à 22 h 04 min
+Bonjour,
+Je viens de découvrir le géocaching et d’installer cette application sur mon téléphone. Par contre je ne vois pas comment utiliser la boussole.
+Quelqu’un peut-il m’expliquer?
+Merci d’avance.
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+12 avril 2012 à 23 h 24 min
+Salut,
+parles-tu de la boussole intégrée dans c:geo ? Si tu veux, tu peux venir poser tes questions sur ce fil du forum consacré à c:geo, tu y trouveras 2 ou 3 pros de c:geo 😉
+http://france-geocaching.fr/forum/viewtopic.php?f=70&t=1079&start=30
+J’aimeJ’aime
+Répondre
+chex68280 dit :	
+14 avril 2012 à 19 h 56 min
+Merci beaucoup. Bon en fait l’utilisation de la boussole est simple, mais je devais être vraiment fatigué l’autre soir pour ne pas comprendre. Merci quand même pour le lien. On ne sais jamais, ça pourrait servir.
+Merci encore et bon week end!
+J’aimeJ’aime
+Obedie.85 dit :	
+5 mai 2012 à 16 h 36 min
+Salut à tous!
+J’utilise c:géo que je trouve très bien fait. Mais depuis qqs jours voire semaines j’ai un BIG problème: impossible de charger les caches, de les enregistrer ni même de les voir. J’ai testé avec la fonction rechercher avec adresse, geocode, nom de l’owner… IMPOSSIBLE!!! J’ai aussi essayé avec la fonction « proches », ça ne fonctionne toujours pas HELP HELP HELP!!!
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+7 mai 2012 à 13 h 25 min
+Salut Obedie,
+désolé, je rentre tout juste de vacances et valide ton commentaire que maintenant. C:geo avait un problème sur la Live Map depuis quelques semaines à cause d’un changement d’interface de geocaching.com, mais depuis la dernière version, ça remarche mieux. As-tu toujours le problème, et si oui, as-tu essayé de télécharger la dernière mise à jour de c:geo ?
+J’aimeJ’aime
+Répondre
+Obedie.85 dit :	
+7 mai 2012 à 21 h 32 min
+Salut,
+Je suis à l’affut de toute les mises à jour, je les fais systématiquement. J’ai même désinstallé et réinstallé l’appli. Mais toujours le même problème!
+Mon GPS me positionne bien au bon endroit mais quand je fais une recherche ça m’affiche « actuellement aucune cache »…J’ai peut être fait un mauvais paramétrage, mais du coup je suis bien embêtée.
+Je vais continuer à chercher une solution… Merci de ton aide en tout cas.
+J’aimeJ’aime
+toflabeuze dit :	
+7 mai 2012 à 21 h 41 min
+Bizarre, bizarre… et dans les paramètres, tu es bien connectée à ton compte sur geocaching.com (login/mot de passe) ?
+N’hésite pas à venir en parler sur le forum, il y a peut-être des gens qui auront eu le même problème.
+J’aimeJ’aime
+Percherie dit :	
+25 juin 2012 à 16 h 08 min
+Bonjour,
+J’ai exactement le même problème mais cela à fonctionner une fois pour la première utilisation ensuite plus rien.
+J’ai reinitialiser tout mon téléphone et réinstaller l’application. Là encore ça a fonctionner une fois et depuis plus rien du tout.
+Y a t’il pas un blocage de la part de geocaching.com ?
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+27 juin 2012 à 23 h 11 min
+Salut Percherie,
+non il n’y a pas de blocage de geocaching.com. Tu peux venir nous détailler ton problème sur france-geocaching.fr, plusieurs personnes pourront te répondre facilement, et il y a déjà un fil de discussion sur c:geo et les problèmes rencontrés.
+J’aimeJ’aime
+Répondre
+catounette184 dit :	
+15 juillet 2012 à 22 h 52 min
+Bonjour,
+J’ai le même problème que vous et il m’ai impossible d’utilisé mon application alors qu’elle fonctionnait très bien avant. J’ai également tout désinstallé et remis tout bien mais rien n’y fait. En espérant que quelqu’un pourra nous trouver LA solution. Merci a tous
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+16 juillet 2012 à 14 h 39 min
+Bonjour Catounette,
+quelle version de c:geo as-tu ? Elle apparaît dans « Menu>A propos de c:geo »
+la dernière version est la 2012.6.28
+Et quelle version d’Android ?
+J’aimeJ’aime
+Répondre
+catounette184 dit :	
+16 juillet 2012 à 22 h 26 min
+Bonjour toflabeuze,
+oui ma version de c:géo est bien celle que tu as indiqué et ma version d’android du micrologiciel est la 2.1 que je n’arrive pas non plus a faire évoluer !! ;-(
+J’aimeJ’aime
+toflabeuze dit :	
+17 juillet 2012 à 9 h 58 min
+Bizarre, bizarre, je connais pas mal de gens qui l’utilisent sans aucun problème. Et à la fois, quelques personnes pour qui ça ne marche pas du tout. Ca pourrait être la version d’Android, à creuser…
+En attendant, je te conseille COLUMBUS, une appli Android gratuite qui est équivalente !
+J’aimeJ’aime
+catounette184 dit :	
+17 juillet 2012 à 13 h 37 min
+Merci beaucoup pour la réponse, c’est vraiment bizarre effectivement car cette aplication fonctionnait très bien et d’un coup plus rien !!! Vas savoir pourquoi ! Je te remercie pour le conseil de la nouvelle aplli je vais l’essayer !
+Merci
+J’aimeJ’aime
+toflabeuze dit :	
+18 juillet 2012 à 10 h 32 min
+Une autre idée vue sur cgeo.org pour ceux dont la live map freeze, c’est de changer de fond de carte dans les menus (choisir OSM). Mais cela ne résoud à priori pas le bug qui fait qu’aucune cache n’est trouvée.
+J’aimeJ’aime
+Répondre
+phenelid dit :	
+22 août 2012 à 10 h 45 min
+Cette application est vraiment indispensable je ne peux pas m’en passer et je n’y trouve pas de points négatifs… par contre, fonctionne-t-elle avec android ICS ? j’hésite à faire la mise à jour de mon Xperia car un ami n’arrive pas à installer c:geo sur son téléphone avec ICS. Des retours positifs la dessus ? Merci.
+J’aimeJ’aime
+Répondre
+Le défi des 30 jours – Jour 21 : vous saviez que vous pouvez trouver des trésors juste à côté de chez vous … on fait le pari ? | Le blog du Lord dit :	
+4 septembre 2012 à 13 h 44 min
+[…] téléchargeais alors l’application c:geo sur mon smartphone et suivant un petit tutorial très bien fait trouvé sur le net. Par chance, je découvrais que se trouvaient quelques caches à moins de 500 mètres de chez […]
+J’aimeJ’aime
+Répondre
+Arnalia dit :	
+27 octobre 2012 à 11 h 16 min
+Bonjour! J’utilise ce logiciel depuis deux mois et je n’ai toujours pas trouvé comment entrer uniquement des coordonnées gps (dans le cadre d’une mystery par ex)… Avez vous une solution?
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+27 octobre 2012 à 22 h 19 min
+Bonjour Arnalia,
+quand tu ouvre une cache, tu as un onglet tout à gauche ‘etapes’, à gauche de l’ onglet ‘ détails’. Dans cet onglet, tu as un bouton en haut ‘ ajouter une étape’. Et voila 🙂
+J’aimeJ’aime
+Répondre
+Percherie dit :	
+17 décembre 2012 à 22 h 57 min
+Bonsoir,
+Concernant mon problème avec c:geo il c’est résolu en changeant d’opérateur. Il est fortement probable que l’ancien bloquait certains protocoles ou adresse car je n’ai rien changer à part la carte SIM.
+L’ancien opérateur : la poste mobile
+Le nouveau : Free
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+23 décembre 2012 à 18 h 27 min
+Bonjour Percherie,
+très étonnant de la part d’un opérateur, mais merci beaucoup pour avoir partagé l’info !
+J’aimeJ’aime
+Répondre
+ktane84 dit :	
+28 décembre 2012 à 19 h 15 min
+Bonsoir,
+Juste une petite question en tant que novice sur l application c:geo. :-).
+J ai marqué une cache « non trouvée » avec un commentaire. Puis je L ai finalement trouvée le lendemain. Je suis alle sur le site geocatching et j ai trouvée supprimer « le log ». J ai pense que c était cela et j ai eu le message « log supprimé ». Le soucis c est que mon message apparaît toujours sur c:géo.
+Y a t il un délai avant le retrait de mon message ? Merci de votre aide.
+Cordialement
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+28 décembre 2012 à 19 h 26 min
+Bonsoir Ktane84,
+bienvenue dans le monde du géocaching et de c:geo 😉
+As-tu regardé sur un ordi si la page web de la cache avait bien été mise à jour avec ton log « found-it » ? je pense que c’est juste c:geo qui a gardé, en local sur ton smartphone, l’ancien log et ce n’est pas très grave : si tu fais « recharger » sur la cache dans c:geo, l’ancien log devrait disparaître.
+Et de toute façon, ce n’est pas la peine de supprimer un log « non trouvé » sur une cache, au contraire cela peut être utile pour le propriétaire (si la cache avait vraiment disparue) ou pour les autres géocacheurs (pour qu’ils voient qu’elle est peut-être difficile à trouver).
+Amuse-toi bien !
+J’aimeJ’aime
+Répondre
+Pascal35 dit :	
+8 mai 2013 à 19 h 52 min
+Bonjour,
+une question relative à l’écran récapitulatif des caches chargées dans Cgéo.
+Au bout de la ligne, dans la partie droite de l’écran, on aperçoit des carrés de différentes couleurs ( vert, gris, marron, rouge)
+j’ai compris que le chiffre correspond au nb de pt de favoris, mais je n’ai pas trouvé la légende des couleurs.
+Qui peut me dire ?
+J’aimeJ’aime
+Répondre
+toflabeuze dit :	
+8 mai 2013 à 21 h 21 min
+Bonjour Pascal,
+J’ai trouvé dans l’aide c:geo que c’est la moyenne des votes GCVote, de rouge la plus mauvaise à vert la meilleure note. Ca correspond au champ Note sur la page participale de la cache.
+J’aimeJ’aime
+Répondre
+Pascal35 dit :	
+8 mai 2013 à 23 h 12 min
+Merci tof !!
+J’aimeJ’aime
+Babou85 dit :	
+18 juillet 2013 à 15 h 09 min
+Bonjour
+J’utilisais régulièrement l’appli c:geo, or depuis qq semaines, la carte n’indique plus les caches, suis obligée de passer par le site internet geocaching.com pour connaitre les caches autour. c’est galere.
+J’ai désinstaller puis réinstaller l’appli mais rien ne change. qqu’un a t il une solution ?
+merci
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+18 juillet 2013 à 16 h 09 min
+Bonjour Babou,
+bizarre bizarre, c:geo n’a pas de gros souci en ce moment ,je l’ai encore utilisé ce week-end. As-tu bien chargé le dernière version sur le Google Store/Android Market ? (tu vois la version dans « Menu>A propos de c:geo »). Sinon, tu peux installer une appli alternative comme Columbus.
+J’aimeJ’aime
+Répondre
+daisy dit :	
+4 août 2013 à 19 h 52 min
+Bonjour,
+Je viens de découvrir c géo et de l’installer su mon nouvel Android. Je suis membre premium chez geocaching mais lorsque j’utilise c geo, je ne suis pas reconnue comme tellle. De plus, la carte active affiche comme non trouvée des caches déjà trouvée. Pourriez-vous m’indiquer ce que j’ai loupé lors de l’installation ?
+Merci
+Daisy
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+4 août 2013 à 20 h 00 min
+Bonjour Daisy,
+quand tu vas dans les paramètres de c:geo (écran principal, touche gauche bas de ton téléphone peut-être ?), tu dois rentrer tes identifiants geocaching.com et demander l’authentification.
+Tiens nous au courant,
+Tof
+J’aimeJ’aime
+Répondre
+daisy dit :	
+5 août 2013 à 14 h 57 min
+Bonjour,
+Merci pour votre réponse rapide. En fait, j’avais bien rentré l’identifiant et le mot de passe mais je n’avais pas demandé l’authentification. Maintenant tout fonctionne parfaitement, je vais pouvoir découvrir cette super appli plus en profondeur. Merci encore.
+Daisy
+J’aimeJ’aime
+tapioca dit :	
+15 août 2013 à 13 h 48 min
+Bonjour, je viens de rentrer dans le monde d’Android.(à la recherche de l’appli véritablement paperless) ….Après avoir passé pas mal de temps à installer et régler cgeo j’ai fini par tomber sur ton site Ouf !! Ca m’a fait énormément fait progresser en peu de temps mais….. j’ai un problème résiduel: sur certaines caches chargées dans une liste les spoilers apparaissent offline mais pas sur d’autres (qui ont bien sur un spoiler disponible) Comment charger dans toutes les caches d’une liste les spoilers pour les avoir disponibles non connecté. (et éviter des impressions longues et coûteuses) ???
+Encore merci et félicitation pour ton site (c’est pas du tout du fayotage) et je ne peut que regretter de pas l’avoir connu avant!
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+15 août 2013 à 14 h 32 min
+Bonjour Tapioca,
+tout dépend de la façon dont tu as enregistré la cache dans c:geo : si tu l’as fait via un fichier GPX, les spoilers ne sont pas chargés et il faut « recharger »/mettre à jour la cache, bouton sur la page principale de la cache.
+Il existe également un bug de l’appli qui fait que toutes les photos ne sont pas chargés parfois, pour certaines caches. Un géocacheur du forum france-geocaching.fr a levé un problème sur le site de l’équipe c:geo, avec un peu de chance cela devrait se résoudre ! Ne pas hésiter à mettre à jour l’application avec les dernières versions au fur et à mesure.
+Bon géocaching !
+ps : j’ajoute aussi que quand la carte mémoire est pleine, c:geo ne charge bien sûr plus les images, mais n’affiche pas forcément un message d’erreur.
+J’aimeJ’aime
+Répondre
+Akharii dit :	
+17 août 2013 à 15 h 53 min
+Bonjour,
+Tout d’abord je tiens à féliciter Tof pour sont travail vraiment cool.
+Ensuite j’ai un petit soucis avec c:geo.
+Je l’utilise depuis un moment maintenant et il ne ma jamais déçu or depuis mon retour de Savoie, l’application n’arrive plus ce connecter dés que j’ouvre la map cela me notifie comme quoi c:geo est en mode hors ligne alors que pourtant ma connexion internet est bonne.
+J’ai un Samsung GS3 mis a jour, j’ai même remis mon téléphone en usine et toujours ce même souci.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+17 août 2013 à 22 h 09 min
+Bonjour, merci de me lire, c’est sympa !
+As-tu la dernière version de c:geo ?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+18 août 2013 à 8 h 47 min
+Sinon, il y a un paramètre de c:geo qui s’appelle ‘toujours utiliser le mode hors-ligne même si connecté’, vérifie sicette case n’est pas cochée ?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+18 août 2013 à 9 h 17 min
+Il y a aussi un paramètre ‘toujours hors-ligne’ à décocher.
+J’aimeJ’aime
+Répondre
+ghys29 dit :	
+10 novembre 2013 à 18 h 04 min
+Idem, non connecté, j’ai tt essayé snifff, « tjrs hors ligne » je ne trouve pas ds les paramètres pour décocher
+J’aimeJ’aime
+TofLaBeuze dit :	
+10 novembre 2013 à 18 h 11 min
+Ah, vérifie dans Paramètres => Carnet => « Toujours utiliser le mode hors-ligne » que c’est décoché ?
+J’aimeJ’aime
+ghys29 dit :	
+10 novembre 2013 à 18 h 41 min
+Oupsss j’ai reussis, enfin c’était un pb de mot de passe, lol
+J’aimeJ’aime
+HOGA dit :	
+20 octobre 2013 à 10 h 36 min
+Bonjour, comment faire pour supprimer une liste que l’on a créé? Je n’arrive pas à trouver les paramètres… Merci de votre réponse
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+20 octobre 2013 à 10 h 55 min
+Bonjour Hoga, quand tu es dans la liste, menu > gérer > suppression des caches. Cela supprimera aussi la liste.
+J’aimeJ’aime
+Répondre
+deloizy dit :	
+22 octobre 2013 à 20 h 59 min
+Quelqu’un a t il ce problème: les photos spoilers ne se chargent plus !!!
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+23 octobre 2013 à 21 h 28 min
+En effet, geocaching.com modifié des choses. Mais la dernière version de cgeo du 23/10 corrige le problème 🙂
+J’aimeJ’aime
+Répondre
+deloizy dit :	
+24 octobre 2013 à 7 h 32 min
+pas sûr!! je suis à la dernière version et pas plus tard que le 22/10 le problème était toujours là…
+J’aimeJ’aime
+deloizy dit :	
+24 octobre 2013 à 7 h 36 min
+bon erreur, je n’avais pas la dernière version!!! merci de l’info….
+Je vais tester !!!
+J’aimeJ’aime
+Répondre
+JL Jelowi dit :	
+27 décembre 2013 à 17 h 58 min
+comment faire pour retrouver la liste des « logs » enregistrés hors ligne.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+27 décembre 2013 à 18 h 10 min
+Salut Jelowi, il n’existe pas de moyen automatisé mais tu verras une barre rouge à gauche des caches avec log offline dans les listes enregistrées (et verte quand le log a été fait online)
+J’aimeJ’aime
+Répondre
+JL Jelowi dit :	
+27 décembre 2013 à 18 h 48 min
+Merci Tof. Cela va me faciliter l’utilisation combinée du GPS (pour lister toutes les caches tentées FI ou DNF) et du smartphone (pour pré-enregistrer le log).
+J’aimeJ’aime
+TofLaBeuze dit :	
+27 décembre 2013 à 18 h 17 min
+De plus, il y a un filtre «visite sauvée hors-ligne» dans ces mêmes listes. A+
+J’aimeJ’aime
+Répondre
+Marie dit :	
+22 février 2014 à 19 h 12 min
+Bonjour,
+nous utilisons cgeo depuis 8 mois maintenant, application super!!
+Cependant, j’aiune petite question : pour une multi-cache, une fois que l’on a trouvé les bonnes coordonnées gps, comment les modifier sur le portable?
+Merci d’avance pour la réponse et pour le temps passé à dépanner les autres
+😀
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+22 février 2014 à 19 h 25 min
+Hello Marie,
+il faut que tu ajoutes un waypoint avec les coordonnées finales : tu vas dans l’ongle « étapes » (à gauche, donc en faisant glisser le doigt à droite !), puis « ajouter une étape ».
+Bonne multi !
+J’aimeJ’aime
+Répondre
+Marie dit :	
+23 février 2014 à 18 h 53 min
+Super, merci!! On teste dès demain 😀
+J’aimeJ’aime
+TOULZAC dit :	
+19 mai 2014 à 18 h 06 min
+Je dois me rendre aux canaries, et en profiter pour faire du géocaching, en ayant stocké mes caches , comment faire pour les rechercher, sans connexion Internet.
+Merci.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+19 mai 2014 à 19 h 08 min
+Bonjour,
+tu trouveras quelques infos pour géocacher sans internet avec c:geo dans l’article suivant https://geocaching-tof.fr/2013/02/08/cgeo-offline-gpx/
+Ensuite, le GPS de ton portable n’a normalement pas besoin de connexion GSM ou 3G, il doit se positionner sans problème, même si le premier « fix » peut être un peu plus long.
+J’aimeJ’aime
+Répondre
+AnnSo KangsFamily dit :	
+22 mai 2014 à 10 h 45 min
+Vivement une version de c:geo sous windows phone! Nous utilisons beaucoup plus le téléphone de mon mari qui a c:geo que le mien car j’ai l’appli officielle qui n’affiche que les tradis et qui limite à 3 caches. J’ai téléchargé il y a peu une autre appli « geocaching plus » mais quand on est habitué à c:geo on se sent limité!
+Merci pour toutes ces infos encore une fois!
+Vivement ce soir que monsieur rentre du travail pour que j’installe sur son téléphone l’autre appli dont tu parles!
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+22 mai 2014 à 10 h 53 min
+L’équipe (bénévole) c:geo se focalise sur Android et mettent à disposition le code opensource pour ceux qui veulent le porter sur un autre système…. je crois que cela a été fait pour Blackberry mais malheureusement personne n’a pris le relai pour Windows Phone.
+J’aimeJ’aime
+Répondre
+0mega_V dit :	
+23 septembre 2014 à 19 h 18 min
+Salut, voilà, actuellement je suis en voyage à Majorque, du coup je me suis dis, je vais tenter mes premières Geocaches étrangères ! J’ai donc enregistrer les emplacements de plusieures Geocaches dans une liste via le Wi-Fi de mon hôtel. Mais voici ma question, une fois les Geocaches trouvées, je vais dans carnet, met « trouvée », entre un petit commentaire comme quoi je l’ai trouvé, et ça change de statut et ça me met « visite sauvée hors ligne » vu que je n’ai pas d’internet et sur la mal ça la marque avec un petit smiley rouge. Donc j’aimerais savoir comment la passer « en ligne » pour que ça me la comptabilise ?
+Merci d’avance, 0mega_V apprenti Geocacheur.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+23 septembre 2014 à 19 h 29 min
+Bienvenue 0mega_V dans la grande famille des géocacheurs !
+En fait, dès que tu reviens à ton hôtel avec du Wifi, tu peux retourner sur la cache dans c:geo, faire de nouveau « carnet », tu retrouveras ton commentaire mais aussi un bouton supplémentaire qui doit s’appeler « envoyer », et là ça enregistre ton found-it sur geocaching.com !
+N’hésite pas si tu as d’autres questions (ou aussi dans la section c:geo du forum France Geocaching) 😉
+J’aimeJ’aime
+Répondre
+0mega_V dit :	
+23 septembre 2014 à 20 h 03 min
+Super ça marche ! Je te remercie de ta rapidité !
+A bientôt 🙂
+J’aimeJ’aime
+Pascal35 dit :	
+20 octobre 2014 à 13 h 52 min
+Salut Tof ….
+as-tu, par devers toi un petit mode opératoire pour entrer une étape finale dans cgéo ?
+pour les multi, les pystéries
+on me demande cette info et je pense que tu dois déjà avoir celà sous le coude 🙂
+merci encore
+Pascal
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+20 octobre 2014 à 14 h 00 min
+Salut Pascal,
+est-ce sur le sympathique forum brétilien que la question se pose ? 🙂
+Alors 2 façons de faire :
+– pour les mysteries, tu peux le faire d’abord sur le PC, sur la page de la cache (petit crayon à côté des coordonnées)
+– pour tout type de cache sur c:geo, tu crées un waypoint (page la plus à gauche) avec les coordonnées finales qui pourra ensuite s’afficher sur la carte, tu as différentes options pour créer ce point.
+J’aimeJ’aime
+Répondre
+Pascal35 dit :	
+20 octobre 2014 à 14 h 08 min
+Non,
+c’est un néo-géocacheur qui découvre le géocaching et son application sous android : cgéo
+comme je suis sur que cette question t’a été posée 2 ou 300 fois je me doute que tu as une réponse toute prête
+As-tu un tutoriel avec images ( ou captures d’écran) que je pourrais proposer sur ce fabuleux et sympathique forum brétillien ?
+😉
+J’aimeJ’aime
+TofLaBeuze dit :	
+20 octobre 2014 à 14 h 15 min
+Je n’ai pas vraiment de tuto, mais la lecture de ces 3 articles cités au début de cette page https://tofgeocaching.wordpress.com/sommaire/ permet de rentrer dedans progressivement (enfin je crois 🙂 )
+J’aimeJ’aime
+fina18 dit :	
+23 octobre 2014 à 22 h 16 min
+bonjour
+j’ai vu une apli « go 4 cache » dans certain message ancien qui permetait de localiser des géocacheurs sur c:géo ça existe toujours ?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+25 octobre 2014 à 16 h 02 min
+Bonjour Fina,
+le site go4cache.com n’est plus accessible, plus rien dans les paramètres c:geo… je mets à jour l’article, merci pour l’info !
+J’aimeJ’aime
+Répondre
+Clément dit :	
+31 mars 2015 à 16 h 19 min
+Bonjour
+J’ai un soucis avec cgeo
+Est-il possible de rajouter sois même des waypoint d’info perso sur une cache ? et si oui comment ? (comme on peut le faire sur l’appli officielle à coup de : “ajouter un waypoint” sur la carte d’une géocache )
+Je sais pas si j’ai été clair dans mes propos 😉
+C’est vraiment le seul point embêtant que je trouve à cgeo par rapport à l’appli officielle
+Merci 🙂
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+1 avril 2015 à 0 h 27 min
+Hello,
+oui il faut aller sur la page des waypoints tout à gauche de la cache, et faire « ajouter un wp » 🙂
+J’aimeJ’aime
+Répondre
+baoulou dit :	
+16 juillet 2015 à 21 h 36 min
+Bonjour TofLaBeuze,j’ai téléchargé l’appli il y à peu et jusque là,ça marchait très bien sauf que depuis cet après-midi,je vois les caches mais pas la carte derrière,j’ai un fond blanc avec des petits carrés et les caches mais pas de carte en dessous,c’est pas facile de se repérer,aurais-tu une idée de ce que je pourrai faire pour récupérer cette carte???
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+16 juillet 2015 à 21 h 48 min
+Bonjour 🙂
+Si c’est la carte par défaut (google), il faut forcément le réseau pour qu’elle se charge.
+J’aimeJ’aime
+Répondre
+baoulou dit :	
+16 juillet 2015 à 23 h 09 min
+hum,l’informatique et moi ça fait deux,habituellement la carte est là quand je lance Cgéo,ça marchait bien hier et tantôt au milieu des bois je l’avais encore et d’un coup elle est partie,tu me parles de réseau GPS ou du reseau tout court,suis pas blonde,juste un kinder 😉
+J’aimeJ’aime
+TofLaBeuze dit :	
+16 juillet 2015 à 23 h 12 min
+Le réseau 3G (les datas internet)… autre possibilité, si tu avais enregistré les caches hors-ligne (bouton enregistrer), tu as aussi des mini-cartes autour de la cache qui sont sauvegardées.
+J’aimeJ’aime
+baoulou dit :	
+16 juillet 2015 à 23 h 19 min
+alors,j’avais enregistré les caches en étant co en wifi de mon tél et les cartes étaient là 😦 bouh,j’étais contente ça marchait super bien et c’est un bon complément du GPS
+J’aimeJ’aime
+TofLaBeuze dit :	
+16 juillet 2015 à 23 h 28 min
+Alors vérifie dans les paramètres (menu principal->paramètres->détails de la cache je crois) que les cases sont bien cochées : « sauvegarder les cartes hors-ligne » de mémoire…
+J’aimeJ’aime
+baoulou dit :	
+16 juillet 2015 à 23 h 38 min
+tout est bien coché,grrrrr,je vais arrêter là pour ce soir sinon je crois que je vais dire adieu à mon tél il va passer par la fenêtre!!!!
+en tout cas,je te remercie de ton aide!!
+bonne soirée
+J’aimeJ’aime
+riehl dit :	
+24 juillet 2015 à 13 h 42 min
+Bonjour,
+J’ai téléchargé les caches pour pouvoir jouer hors ligne,ce qui est intéressant si il n’y a pas de connexion internet notamment en forêt. Le problème c’est que le signal gps se perd. Est ce que la puce GPS de mon Samsung A3 est assez puissante ? Faut il téléchargé une autre application pour faire fonctionner le GPS?
+Merci pour votre réponse.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+1 août 2015 à 22 h 19 min
+Bonjour,
+le signal GPS peut se perdre en forêt si les arbres sont denses… Je ne connais pas ce smartphone mais comme il est récent et pas low-cost, il devrait en théorie avoir une bonne puce. Tu peux utiliser GPS Status pour faire le « fix » (et avec du réseau 3G, ça va encore plus vite), mais ça n’améliorera pas la qualité de la puce elle-même.
+J’aimeJ’aime
+Répondre
+Lisl dit :	
+10 novembre 2015 à 7 h 50 min
+Bonjour,
+Avec mon galaxy s5 je n’arrive pas à voir la carte quand je suis hors-ligne alors que je l’ai déjà chargée en enregistrant les caches. Avec ma tablette pourtant ça marche : une fois qu’un point a été visualisé on peut le voir en mode hors-ligne. Je précise que j’utilise google maps satellite. Pouvez vous m’aider ?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+10 novembre 2015 à 18 h 17 min
+Comme ça, difficile de te dire… tu parles des mini-cartes centrées autour de la cache ? As-tu la même version de c:geo installée sur tes 2 appareils ?
+J’aimeJ’aime
+Répondre
+Lisl dit :	
+10 novembre 2015 à 20 h 50 min
+Oui, j’avais (j’ai maintenant désinstallé sur ma tablette parce que c’est pas pratique là dessus. )Les cartes restaient affichées comme dans google maps : une fois qu’on a chargé les données de la carte en ligne, on les retrouve en hors-ligne. Mais avec mon smartphone je ne vois même plus la carte autour des caches enregistrées sauf si je reste dans l’application après avoir enlevé la connexion…et encore : si je zoome et dézoome trop souvent ça finit de nouveau par devenir tout gris.
+J’aimeJ’aime
+TofLaBeuze dit :	
+11 novembre 2015 à 13 h 13 min
+Vérifie que tu as les mêmes paramètres c:geo sur tablette et smartphone, notamment Donnée hors-ligne => enregistrer les cartes & enregistrer les cartes pour points intermédiaires.
+Après, ce ne sont en effet que des images, tu ne peux pas bien zoomer. Si on veut une meilleure qualité, il faut installer des cartes OSM comme j’explique ici https://tofgeocaching.wordpress.com/2013/02/08/cgeo-offline-gpx/ ou bien installer l’application maps.me
+J’aimeJ’aime
+dory25 dit :	
+20 décembre 2015 à 21 h 32 min
+bonsoir
+comment entrée des coordonnées gps (exemple multicache) dans son téléphone ? je ne sais pas comment faire merci
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+20 décembre 2015 à 22 h 56 min
+Bonsoir,
+la réponse se trouve dans les commentaires au-dessus, par exemple 20 octobre 2014, 22 février 2014 ou 27 octobre 2012. Je vais l’ajouter dans l’article vu que la question revient sans cesse 🙂
+J’aimeJ’aime
+Répondre
+Eruwill dit :	
+21 janvier 2016 à 17 h 20 min
+Salut Tof!
+Etant passé du iTruc à Android, j’ai installé cette magnifique appli.
+Je l’utilise depuis quelques jours en enregistrant mes visites quotidiennes hors ligne. Quand j’ai voulu reprendre ces visites, horreur, rien dans l’historique et pourtant, j’ai bien le petot smiley rouge à côté des caches visitées… mon soucis, vu mes déplacements; c’est que j’en ai un peu partout… 😦
+As tu une « astuce » pour les retrouvées?
+Je te remercie d’avance!
+Eruwill
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+21 janvier 2016 à 21 h 04 min
+Salut Eruwill !
+Il y a eu un bug récemment qui affecte le login à geocaching.com, il faut donc installer la dernière version d’avant-hier 2016.01.19 et aller dans les paramètres pour vérifier ton identification au site si la mise à jour ne suffit pas.
+Enfin, je suppose que ton problème vient de là, tiens-nous au courant 😉
+J’aimeJ’aime
+Répondre
+schiltz dit :	
+12 mars 2016 à 17 h 12 min
+Bonsoir premiers caches aujourd’hui, comment enregistrer ceux que j’ai trouvé? SVP merci
+beaucoup
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+13 mars 2016 à 10 h 05 min
+Bonjour, le mieux est d’aller sur le site de geocaching.com sur ton PC/Mac/ordi de bureau, plutôt que dans c:geo. Cela te permet de taper facilement un message plus long pour raconter ton aventure que sur un smartphone par exemple. Le propriétaire de la cache recevra ton log et sera content de lire ta trouvaille. Sinon, si c’est menu => signaler votre visite dans c:geo.
+J’aimeJ’aime
+Répondre
+marion dit :	
+12 mars 2016 à 18 h 54 min
+Coucou petite question que signifie les chiffres encadrés à côté de la distance… (lorsque l on est sur une liste de cache). Je ne sais pas mettre de photo mais j espère que ma question est clair?!
+Merci d avance 😊
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+13 mars 2016 à 10 h 06 min
+Hello, c’est expliqué dans un autre article 😉 https://tofgeocaching.wordpress.com/2014/05/24/cgeo-astuces/
+J’aimeJ’aime
+Répondre
+anoukleo dit :	
+20 mars 2016 à 19 h 36 min
+Bonjour, merci pour ce site qui m’ai très utile en tant qie débutante. Je rencontre un problème de nom d’utilisateur avec c:geo. Après quelques temps d’utilisation j’ai changé mon nom d’utilisateur sur geocaching.com et me suis connectée avec celui-ci sur c:geo. Cependant quand je rédige un commentaire pour y faire par de mon passage, c’est mon ancien nom qui est affiché. Savez-vous comment je peux corriger ce problème ?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+20 mars 2016 à 20 h 57 min
+Bonjour Anouk,
+je dirais d’aller dans le menu paramètres => services => Geocaching.com, et de changer ses identifiants et taper sur « vérifier les identifiants » ? Si tu n’as pas déjà fait cette opération, bien sûr.
+J’aimeJ’aime
+Répondre
+anoukleo dit :	
+4 avril 2016 à 17 h 21 min
+Bonjour, il me semble que j’avais déjà fait cette manœuvre, je l’ai recommencé et depuis quelques jours le problème est résolu. C’est bien mon nouveau pseudo qui est apparent. Merci !
+J’aimeJ’aime
+girarel dit :	
+4 avril 2016 à 15 h 05 min
+Bonjour,
+J’ai lu plusieurs messages avec mon problème mais il n’a toujours pas été résolu.
+J’ai un problème de connexion lorsque je fait « vérifier mon identifiant » il me met « erreur de connexion :erreur inconnue » alors que je suis certaine que c’est le bon mot de passe… Je reçois donc constamment le message c:geo est en mode hors ligne (j’ai bien désactivé le bouton « toujours en mode hors ligne »)
+Pouvez-vous m’aider ?
+Merci !
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+4 avril 2016 à 15 h 20 min
+Bonjour,
+2 questions bêtes :
+– tu as bien la dernière version de c:geo ? si non, reprends la dernière.
+– tu as bien mis du réseau 3g ou wifi quand tu vérifies tes identifiants ?
+La FAQ c:geo conseille aussi de :
+– vérifier la date et heure de son smartphone
+– Menu → paramètres → Services et cocher la case « s’identifier comme un navigateur Android »
+– Essayer de se reconnecter, et si ça na marche pas, redémarrer le smartphone et réessayer
+(trouvé ici en anglais : http://www.cgeo.org/faq.html#login-failed)
+Tiens-nous au courant !
+J’aimeJ’aime
+Répondre
+ANNE CRENEGUY dit :	
+23 octobre 2016 à 18 h 40 min
+Hello,
+j’ai chargé l’appli c:geo au printemps et fait qq caches avec mes enfants. on est super contents. mais voilà….. j’ai remis mon tel à zéro (samsung grand prime) et là….. impossible de remettre mon identifiant et mot de passe… grrrrrr… je suis KorrigAnne…. mais je ne me souviens plus de mon mot de passe. Du coup, toutes les géocaches trouvées n’apparaissent pas…. HELLLLP !!!!!
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+23 octobre 2016 à 18 h 42 min
+Hello KorrigAnne 🙂 Ton mot de passe est le même que sur geocaching.com (quand tu te connectes sur le site via navigateur internet).
+J’aimeJ’aime
+Répondre
+Anne dit :	
+23 octobre 2016 à 21 h 32 min
+Merci d’avoir répondu si vite !
+C’est ce que j’ai fais, mais je ne m’en souviens plus…. j’ai donné mon adresse mail pour avoir le mot de passe mais je n’y arrive pas…. pas douée……
+J’aimeJ’aime
+TofLaBeuze dit :	
+23 octobre 2016 à 21 h 50 min
+Normalement, si tu as demandé une réinitialisation du mot de passe, tu aurais dû recevoir un mail… Regarde éventuellement dans le dossier « spam » de ta messagerie ?
+J’aimeJ’aime
+patoche68 dit :	
+30 novembre 2016 à 9 h 08 min
+Bonjour Tof.
+Depuis longtemps, j’ai un soucis sur le site groundspeak. Il se remet régulièrement en anglais alors que le français est sélectionné par défaut. Et puis lors d’un event, j’ai entendu que l’utilisation de c:geo faisait repasser le site de groundspeak en anglais! (j’utilise c:geo depuis plus de 3 ans)
+J’ai fait quelques tests et effectivement après quelques jours avec le site en français, j’ouvre c:geo et hop,le site groundspeak repasse en anglais…
+J’ai bien cherché dans tous les paramètres de c:geo mais rien trouvé qui pourrait supprimer ce problème.
+Y a t’il une solution ou est-ce qu’il faut faire avec…?
+Merci pour ta réponse et ton super site bien pratique 🙂
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+30 novembre 2016 à 9 h 42 min
+Salut Patrice,
+tu as très bien cerné le problème, c’est bien c:geo qui passe geocaching.com en anglais. Et il n’y a pas de solution, à ma connaissance… la raison de ce passage en anglais est que c:geo est une appli non-officielle, qui ne passe pas par l’interface de Groundspeak (API), mais analyse les pages web de geocaching.com pour en extraire les coordonnées, les attributs, le descriptif, etc.. Pour faciliter cette extraction, ils ne le font que dans une seule langue, sinon ils faudrait qu’ils recherchent par exemple « difficulty » quand c’est en anglais, « difficulté » quand c’est en français, etc…
+Et comme sur ce genre d’appli, il n’y pas vraiment de bouton « quitter l’application », ils ne doivent pas savoir quand rétablir la bonne langue ? (là, j’extrapole, je ne sus pas sûr…).
+J’aimeJ’aime
+Répondre
+patoche68 dit :	
+30 novembre 2016 à 13 h 21 min
+Merci Tof pour cette réponse.
+Je savait que c:geo analysait les pages pour récupérer les infos mais je n’avait pas fait le rapprochement.
+Hé bien on fera avec 🙂 mais vu la puissance et l’efficacité de cette appli, ce n’est qu’un moindre mal.
+Encore merci.
+J’aimeJ’aime
+Répondre
+kisskath dit :	
+15 avril 2017 à 15 h 05 min
+bonjour bonjour, j’utilise depuis peu l’application c:geo, trouvé pas mal de caches et laissé beaucoup de commentaires, sauf que, je m’aperçois sur le site géocaching.com que mes commentaires ainsi que mes caches trouvé n’y sont pas enregistrés. J’ai beau cherché de tout les côtés, je ne trouve pas la solution.
+quelqu’un pourrait-il m’aider?
+merci
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+15 avril 2017 à 22 h 59 min
+Bonjour, tu avait bien fait « signaler votre visite », tapé ton commentaire, puis tu l’avais envoyé (flèche en haut à droite) au moment où tu avais du réseau ?
+Et tu es bien identifié(e) à ton compte geocaching.com ? (menu -> paramètres -> services)
+J’aimeJ’aime
+Répondre
+mimh dit :	
+7 mai 2017 à 18 h 03 min
+Salut
+Lorsque l’on ajoute une étape sur C:geo, est ce que ce point est enregistré localement sur la carte SD ou dans la mémoire du téléphone, et est il possible de le retrouver ? mon ancien téléphone est HS et je voudrais récupérer les finales des mysteries que j’avais enregistré.
+Merci d’avance !
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+7 mai 2017 à 18 h 59 min
+Salut Mimh, tu peux tenter Menu->Paramètres->Système->Sauvegarde dans l’ancien tel, récupérer le fichier créé, le recopier dans le nouveau tel et Menu->Paramètres->Système->Restauration (je n’ai jamais fait).
+Sinon, le mieux reste quand même sur le site web de geocaching.com de corriger les coordonnées directement sur la page de la cache (crayon à droite des coordonnées initiales) ou même dans les notes personnes lues par c:geo.
+J’aimeJ’aime
+Répondre
+mimh dit :	
+8 mai 2017 à 17 h 30 min
+Merci Tof pour ta réponse !
+J’aimeJ’aime
+Répondre
+Dorothée dit :	
+16 août 2017 à 11 h 03 min
+bonjour, j’ai un petit soucis avec l’appli c:geo. toues les caches que j’ai déjà trouvé n’apparaisse plus comme enregistré quand j’ouvre l’appli le petit smiley sourire à disparu et la cache apparait comme si je ne l’avais jamais trouvé. Auriez vous une solution à ça car je reprends mes recherches après une année de repos et je ne sais plus ou je me suis arrêté dans mes recherches et ça m’embêterait de refaire des caches que j’ai déjà fait. Merci d’avance pour vos réponses.
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+16 août 2017 à 11 h 08 min
+Bonjour,
+vérifiez si vous êtes toujours connecté à votre compte geocaching : paramètres->services->geocaching.com
+A noter qu’il y a un dysfonctionnement en cours entre geocaching.com et c:geo, ceci explique peut-être le problème.
+J’aimeJ’aime
+Répondre
+Delalieux dit :	
+2 janvier 2018 à 14 h 39 min
+Bonjour,
+Je débute sur c:géo, j’ai trouvé qq caches et puis finalement pour préparer une ballade avec les enfants, en soirée, je prépare et j’avais fait une liste de caches enregistrées dans une liste. Je dois avoir fait une mauvaise manip … je n’ai plus que cette liste de caches enregistrées qui s’affichent sur mon téléphone 😦 comment faire pour en voir d’autres??? Merci!
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+2 janvier 2018 à 14 h 44 min
+Bonjour,
+peut-être en revenant sur la carte active (icône en haut à gauche sur l’écran principal) ?
+J’aimeJ’aime
+Répondre
+Rousseau dit :	
+12 juin 2020 à 15 h 34 min
+Bonjour, peut on creer une geo cash à partir de c:geo?
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+12 juin 2020 à 15 h 39 min
+Bonjour, non, il faut passer par le site internet. C:geo ne permet que de loguer les caches.
+J’aimeJ’aime
+Répondre
+Catherine dit :	
+27 septembre 2020 à 21 h 46 min
+Bonjour,
+J’ai voulu indiquer que je n’avais pas trouvé une cache mais en validant mon passage la cache a été marquée comme trouvée.
+Comment faire pour modifier ce log et remplacer trouvé par non trouvé ?
+Merci d’avance !
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+28 septembre 2020 à 8 h 36 min
+Bonjour Catherine, vous ne pouvez pas dans c:geo, il faut le faire sur le site web, sur votre PC.
+J’aimeJ’aime
+Répondre
+Jerome dit :	
+5 juillet 2021 à 14 h 49 min
+Bonjour,
+Merci pour ces explications.
+Est-il possible de changer les icônes sur la carte ?
+Je trouve les icônes de « résolution » de caches mystères pas très lisible, contrairement au site Geocaching qui représente une pièce de puzzle.
+Merci
+J’aimeJ’aime
+Répondre
+TofLaBeuze dit :	
+5 juillet 2021 à 19 h 20 min
+Bonjour Jérome, je n’ai jamais essayé, mais si tu trouves dans le répertoire de ton téléphone les fichiers correspondant aux icônes, c’est gagné.
+J’aimeJ’aime
+Répondre
+Votre commentaire Annuler la réponse.
+Entrez votre commentaire...
+Entrez vos coordonnées ci-dessous ou cliquez sur une icône pour vous connecter:
+E-mail (obligatoire) (adresse strictement confidentielle)
+Nom (obligatoire)
+Site web
+Vous commentez à l’aide de votre compte WordPress.com.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Google.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Twitter.	( Déconnexion / Changer )
+Vous commentez à l’aide de votre compte Facebook.	( Déconnexion / Changer )
+Annuler
+Connexion à %s
+Avertissez-moi par e-mail des nouveaux commentaires.
+Avertissez-moi par e-mail des nouveaux articles.
+Δ
+Ce site utilise Akismet pour réduire les indésirables. En savoir plus sur la façon dont les données de vos commentaires sont traitées.

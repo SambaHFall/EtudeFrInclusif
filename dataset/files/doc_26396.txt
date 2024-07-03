@@ -1,0 +1,100 @@
+Botte de travail Baron de 6 po (15,2 cm) à protection composite sans métal pour hommes | L’Équipeur k){if(d){d=e.substr(0,k-2);var g=Math.max(d.lastIndexOf(" "),d.lastIndexOf("."),d.lastIndexOf("!"),d.lastIndexOf("?"),d.lastIndexOf(";"));return-1==g||gk.lastIndexOf("/")&&(k=k.substr(0,k.indexOf(".",k.lastIndexOf("/"))));if(e)if(0==e.indexOf("/"))k=e;else{if(d)for(;0==e.indexOf("../");)e=e.substring(3),k=k.substring(0,k.lastIndexOf("/"));e=e.replace("./","");k=k+"/"+e}return k}}}();_g.Sling=_g.shared.Sling;_g.shared.XSS=new function(){return{getXSSPropertyName:function(e){return e?_g.XSS.KEY_REGEXP.test(e)?e:e+_g.XSS.KEY_SUFFIX:""},getXSSRecordPropertyValue:function(e,k,d){var g="";e&&k&&(g=(g=e.get(this.getXSSPropertyName(k)))?g:this.getXSSValue(e.get(k)),d&&!isNaN(d)&&(g=_g.Util.ellipsis(g,d,!0)));return g},getXSSTablePropertyValue:function(e,k,d){var g="";e&&k&&(g=(g=e[this.getXSSPropertyName(k)])?g:this.getXSSValue(e[k]),d&&!isNaN(d)&&(g=_g.Util.ellipsis(g,d,!0)));return g},getXSSValue:function(e){return e?_g.Util.htmlEncode(e):""},updatePropertyName:function(e,k){e&&k&&e[k]&&e.xssProtect&&!e.xssKeepPropName&&(e[k]=this.getXSSPropertyName(e[k]))},xssPropertyRenderer:function(e,k,d,g){return g&&g.dataIndex&&d&&d.data&&d.data[this.getXSSPropertyName(g.dataIndex)]?(e=d.data[this.getXSSPropertyName(g.dataIndex)],g.ellipsisLimit&&!isNaN(g.ellipsisLimit)&&(e=_g.Util.ellipsis(e,g.ellipsisLimit,!0)),e):e?e:""}}};_g.XSS=_g.shared.XSS;_g.XSS.KEY_SUFFIX="_xss";_g.XSS.KEY_REGEXP=new RegExp(_g.XSS.KEY_SUFFIX+"$");_g.shared.I18n=Granite.I18n;_g.I18n=_g.shared.I18n;_g.shared.I18n.getMessage=Granite.I18n.get;_g.shared.I18n.getVarMessage=Granite.I18n.getVar;_g.shared.String=new function(){return{startsWith:function(e,k){return null==e||null==k?null==e&&null==k:k.length>e.length?!1:0==e.toString().indexOf(k.toString())},endsWith:function(e,k){if(null==e||null==k)return null==e&&null==k;if(k.length>e.length)return!1;e=e.toString();k=k.toString();return e.lastIndexOf(k)==e.length-k.length},contains:function(e,k){if(null==e||null==k)return!1;e=e.toString();k=k.toString();return 0<=e.indexOf(k)}}};_g.String=_g.shared.String;_g.shared.ClientSidePersistence=function(e){var k={PERSISTENCE_NAME:_g.shared.ClientSidePersistence.decoratePersistenceName("ClientSidePersistence"),config:{},cache:null,getMode:function(){return this.config.mode},getWindow:function(){return this.config.window||_g.shared.Util.getTopWindow()},debug:function(){if(console){for(var d=this.getMap(),e="[ClientSidePersistence -\x3e mode\x3d"+this.getMode().name+", container\x3d"+(this.config.container||"")+"]\n",k=0,v=new RegExp("^"+this.config.container+"/"),p=0,n=Object.keys(d).sort();p
+Passer au contenu
+Livraison gratuite disponible! Récompenses Triangle 15 $ de rabais en s'inscrivant à l'infolettre Trouvez votre vraie taille
+Connectez-vous
+Créez un compte
+Bonjour,
+le contenu pop-up commence
+Mon compte Se Déconnecter
+le contenu pop-up se termine
+LANGUE
+English
+Main menu
+LANGUE
+en
+fr
+Près
+PANIER D'ACHATS
+Menu principal
+Connectez-vous
+Inscrivez-Vous
+Bonjour,
+Femmes
+Hommes
+Accessoires
+Chaussures
+Enfants
+Vêtements de travail
+Bottes de travail
+Solde
+Nouveaux arrivages
+Exclusives En Ligne
+Le Guide Cadeau
+Mon compte
+Se Déconnecter
+LANGUE
+English
+QUÉBEC, Passez nous voir! Notre équipe sera heureuse de vous servir en magasin Nos heures d’ouverture
+Accueil
+Bottes de travail
+Bottes Et Chaussures De Travail pour Hommes
+Bottes de travail
+Bottes de travail de 6 po
+Terra
+Botte de travail Baron de 6 po (15,2 cm) à protection composite sans métal pour hommes
+Non disponible pour l'achat
+Cet article n'est plus disponible. Parcourez nos recommandations pour un article similaire.
+Voir la description
+Ajouter au panier
+Description
+Ces bottes de travail sans métal sont dotées de semelles extérieures résistantes à la perforation et ultra adhérentes pour une meilleure stabilité sur les chantiers de construction ou autres lieux de travail. Leur tige est faite de cuir pleine fleur imperméable avec tirettes sur les côtés et isolant Thinsulate qui garde au chaud sans ajouter de poids. Munies d’un bout de tige et plaque de semelle en matériau composite, elles comprennent des embouts protecteurs en polyuréthane qui prolongent la vie des bottes.
+Modèle: 2924B
+Caractéristiques
+TIGE EN CUIR PLEINE FLEUR IMPERMÉABLE
+EMBOUTS PROTECTEURS EN POLYURÉTHANE
+ISOLANT THINSULATE 200 GR
+DOUBLURE AEROSPACE PERMÉABLE À L'AIR
+Évacue l'humidité pour garder les pieds au sec
+ASSISE PLANTAIRE TERRA AMOVIBLE EN POLYURÉTHANE DOUBLE DENSITÉ
+SEMELLE INTERCALAIRE LÉGÈRE EN POLYURÉTHANE
+SEMELLE D'USURE EN CAOUTCHOUC ULTRA ADHÉRENT ET ANTI-DOMMAGE PAR CORPS ÉTRANGER
+À LACETS AVEC TIRETTES SUR LES CÔTÉS
+LA SÉCURITÉ AVANT TOUT
+Embout protecteur et plaque de semelle en composite de catégorie 1 CSA, résistants aux chocs électriques, sans métal
+UTILISATION SUGGÉRÉE
+Construction, corps de métier
+JOIGNEZ NOTRE COMMUNAUTÉ!
+OBTENEZ 15 $ DE RABAIS À L’ACHAT DE 50 $ OU PLUS*
+Joindre
+MERCI POUR rejoignant notre communauté!
+Vous avez gagné 15 $ sur votre PROCHAIN ACHAT.
+ACHETEZ MAINTENANT
+MERCI POUR rejoignant notre communauté!
+Vous avez gagné 15 $ sur votre PROCHAIN ACHAT.
+ACHETEZ MAINTENANT
+SUIVEZ-NOUS
+Facebook YouTube Instagram
+En voir plus Voir moins
+MAGASINER
+Hommes Femmes Vêtements de travail Chaussures Marques Dernière circulaire
+En voir plus Voir moins
+Information Sur L’entreprise
+À propos de L'Équipeur Carrières Plan du site Programme d’approvisionnement éthique Quel projet portez vous Conditions d’utilisation Politique de confidentialité Joignez-vous au programme
+En voir plus Voir moins
+Service À La Clientèle
+Communiquez avec nous Trouver un magasin Foire aux questions Solde carte-cadeau Politique de service à la clientèle accessible Plan d’accessibilité pluriannuel
+En voir plus Voir moins
+EXPÉDITION & RETOURS
+Politique sur l’expédition et les retours Renseignements sur la livraison
+En voir plus Voir moins
+L'entreprise
+Canadian Tire Helly Hansen Trio Hockey Mark's Part Source Pro Hockey Life Sport Chek Sports Experts Triangle Rewards
+En voir plus Voir moins
+†L’offre de financement « Aucuns frais, aucun intérêt » pendant 24 mois (sauf indication contraire) n’est accordée que sur demande sous réserve d’une approbation de crédit préalable pour des achats de 150 $ (sauf indication contraire) ou plus (à l’exception des cartes-cadeaux) réglés avec votre carte de crédit Triangle chez Canadian Tire, Sport Chek, Mark’s, L’Équipeur, Atmosphere, Sports Rousseau, Hockey Experts, L’Entrepôt du Hockey et dans les magasins Sports Experts participants. Aucun intérêt ne court pendant la période du programme. Si nous ne recevons pas le montant intégral du paiement minimum dû indiqué sur un relevé dans les 59 jours qui suivent la date de ce relevé ou s’il se produit une situation de manquement (autre que celle de ne pas avoir effectué un paiement) en vertu de votre contrat de titulaire de carte, tous les programmes de modalités spéciales de paiement prendront fin et i) l’intérêt sur le solde impayé de chacun des programmes vous sera facturé au taux annuel courant applicable à compter du jour qui suit la date de votre prochain relevé, et ii) le solde impayé de chaque programme sera ajouté au solde dû pour ce relevé. Les programmes de modalités spéciales de paiement ne comportent aucuns frais. Chaque mois pendant la durée d’un programme de paiements égaux, vous devez payer intégralement, avant la date d’échéance, le montant de la mensualité due pour le programme de paiements égaux en question. Tout montant non reçu avant la date d’échéance ne fera plus partie du programme de paiements égaux, et l’intérêt vous sera facturé sur ce montant à compter du jour qui suit la date de votre prochain relevé au taux annuel courant applicable. Offre sujette à changement sans préavis.
+Renseignements additionnels à l’intention des résidents du Québec seulement :Le taux annuel courant applicable aux personnes demandant la carte Mastercard Triangle ou World Elite Mastercard Triangle est de 21,99 % pour les transactions au comptant et les frais afférents et de 19,99 % pour tous les autres types de débit. Certaines personnes peuvent se voir accorder un taux annuel courant supérieur ou inférieur, selon les résultats de leur évaluation de crédit. Le paiement minimum est la somme (a) du plus élevé des montants suivants, à savoir : (i) les intérêts et les frais figurant sur votre relevé plus 10 $; ou (ii) 5% du nouveau solde, à l’exclusion des montants dus aux termes de programmes de modalités spéciales de paiement; plus (b) tout montant qui excède votre limite de crédit, plus (c) tout montant en souffrance qui n’est pas inclus dans le montant (b) ci-dessus; plus (d) le montant de tous les versements échelonnés en vertu de programmes de paiements égaux alors dus. Un solde inférieur à 10 $ doit être réglé intégralement. Pour les comptes ouverts avant le 13 juin 2019, le taux de 5 % débutera à 2 % et augmentera de 0,5 % chaque 1er août jusqu’à l’atteinte du taux de 5 %. Pour les résidents du Québec, le délai de grâce entre la date du relevé et la date d’échéance du paiement est de 26 jours. La période de facturation couverte par chaque relevé peut aller de 28 à 33 jours. Les cartes Mastercard Triangle et World Elite Mastercard Triangle ne comportent pas de frais annuels. Exemples de coûts d’emprunt (arrondis au cent le plus proche) en supposant que tous les débits portent intérêt au taux annuel courant de 19,99 %, que le mois comporte 30 jours, qu’aucun achat ne fait l’objet d’un programme de modalités spéciales de paiement et qu’aucuns autres frais, paiements additionnels ou changements ne s’appliquent :
+Si votre solde moyen est de : 100$ 500$ 1000$ 2000$
+Le total des frais de crédit mensuels sera de : 1,64$ 8,22$ 16,43$ 32,86$
+MD/MCSauf indication contraire, toutes les marques de commerce sont la propriété de La Société Canadian Tire Limitée et sont utilisées sous licence.
+MD/MCMastercard et World Elite Mastercard sont des marques de commerce déposées et le logo des deux cercles imbriqués est une marque de commerce de Mastercard International Incorporated.
+††Le titulaire de carte doit demander et être approuvé pour une Mastercard Triangle ou une World Elite Mastercard Triangle et effectuer un achat admissible avec sa carte dans les 30 jours suivant l’approbation pour recevoir la prime. Minimum de 50 $ pour le premier achat. La prime de 50 $ sera portée au compte Récompenses Triangle du titulaire de carte dans les 10 jours suivant l’achat admissible en magasin ou en ligne dans les magasins L’Équipeur participants.
+*Primes octroyées sous forme d’Argent électronique Canadian Tire (Argent CTMD). Pour obtenir de l'Argent CT en prime, vous devez pr & eacute; senter une carte ou un porte - cl & eacute; s du programme R & eacute; compenses Triangle, ou utiliser une fa & ccedil; on approuv & eacute; e de payer sans carte au moment de r & eacute; gler un achat avec une carte MastercardMD TriangleMC, World MastercardMD TriangleMC ou World Elite MastercardMD TriangleMC.Vous ne pouvez pas obtenir d & rsquo; Argent Canadian Tire en billet sur les offres de prime.Tout taux multiplicateur de prime est calcul & eacute; selon le taux de base de cumul d & rsquo; Argent CT et sera ajout & eacute; au montant d & rsquo; Argent CT que le membre obtiendrait sans la prime.Certains articles vendus dans les magasins Mark & rsquo; s / L & rsquo;& Eacute; quipeur ne sont pas admissibles & agrave; l & rsquo; octroi des primes en Argent CT.Sous r & eacute; serve de certaines modalit & eacute; s visant l & rsquo; obtention et l & rsquo;& eacute; change des primes.Visitez le site triangle.com pour plus de d & eacute; tails.Le taux offert est exclusif de toute prime, offre promotionnelle ou transaction d & rsquo;& eacute; change.L & rsquo; Argent CT est calcul & eacute; & agrave; partir du montant des achats avant les taxes.L & rsquo; offre prend fin le 16 decembre 2020.

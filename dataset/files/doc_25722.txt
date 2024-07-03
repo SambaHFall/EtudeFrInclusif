@@ -1,0 +1,39 @@
+Données Structurées : mise à jour des guidelines de Google - Search Foresight : Piloter votre Search par la Data
+Contact
+L’AGENCE
+Paris
+Nantes
+STRATEGIE
+SOLUTIONS ET PRODUITS
+SEO : Search Engine Optimisation
+A chaque type de site sa stratégie SEO
+DATA : Machine Learning et Big Data
+CONTENT MARKETING
+PAID
+Stratégie Amazon
+Formations Search Marketing
+BLOG
+Outils
+Rechercher :
+Données Structurées : mise à jour des guidelines de Google
+Ecrit par Marc Grosvalet
+le 24 / 05 / 2017
+SEO
+SEO TECHNIQUE
+PAID
+DATA
+ACTU / EVENT
+AUTRES MOTEURS
+Blog sur l’actualité SEO SEA DATA Données Structurées : mise à jour des guidelines de Google
+Google a mis à jour ses guidelines concernant les Données Structurées. Parmi les nouveautés : Google devient plus tolérant sur le balisage des Critiques (« Reviews »). Ce format permet de baliser une critique d’un produit / service, c’est à dire un article complet publié. Les champs nécessaires sont l’auteur et la date, et vous pouvez désormais vous passer de note. Une critique seulement textuelle est sans doute moins sensible à publier, mais on se passera alors de l’effet visuel des étoiles comme Extrait enrichi (Rich Snippet).
+La documentation de Google sur le marquage des Avis / Critiques
+Google progresse en permanence sur le sujet, en prenant en compte de nouveaux formats de Schema.org. Dans quelques mois arriveront les offres d’emploi et les menus de restaurant dans Google.
+Vos Rich Snippets ne s’affichent pas ?
+Google nous donne des explications sur les raisons d’un non-affichage des extraits enrichis, précisant ses guidelines :
+Le balisage est erronné, d’une manière telle que l’outil de test des Données Structurées n’était pas en mesure de les récupérer. Cette erreur est facilement évitable, sachant que l’outil de test existe justement afin de valider son code avant publication. Les erreurs d’encodage sont courantes, surtout au format JSON-LD
+.
+Les données structurées ne sont pas représentatives du contenu principal de la page, voire sont potentiellement trompeuses. Ce serait le cas d’un prix différent affiché dans la page et dans le balisage produit (afin d’afficher un prix davantage attractif dans les SERP)
+.
+Le contenu balisé est masqué à l’utilisateur et n’est pas visible sur la page. L’intention ici serait d’afficher une page épurée à l’internaute, mais de proposer un maximum de données à Google.
+Attention : dans la Search Console, un rapport existe pour indiquer quelles Données Structurées ont bien été détéctées par Google (Apparence dans les résultats de recherche > Données Structurées). Egalement utile pour détecter d’éventuelles erreurs/oublis de marquage, la bonne détection ne garantit pas pour autant un affichage dans les Résultats de recherche !
+L’épreuve du feu passe par un second rapport : dans le Trafic de Recherche > Analyse de la recherche, filtrez votre rapport par Impressions, puis par Apparence dans les résultats de recherche (-> Résultats enrichis). Si vos Données Structurées sont conformes, vos Impressions de Résultats enrichis devraient représenter un pourcentage élevé de vos Impressions totales, et la courbe devrait être stable. A l’inverse, une courbe faible et instable indiquera un problème, qu’aucun outil ne saura détecter. Heureusement, votre agence SEO est là !

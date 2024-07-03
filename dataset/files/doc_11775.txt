@@ -1,0 +1,72 @@
+Recevez nos derniers articles directement dans votre boîte de réception. Entrez votre adresse électronique dans le champ ci-dessous:
+This field is required.
+This field is required.
+Must be valid email.
+example@yourdomain.com
+*
+J’ai pris connaissance et j’accepte la politique de confidentialité. En savoir Plus
+This field is required.
+Réussir l’intégration de vos collaborateurs à distance avec eXo Platform 6
+Informatique
+Lieu de travail
+Solutions
+eXo
+Tous les thèmes
+Démo
+Réussir l’intégration de vos collaborateurs à distance avec eXo Platform 6
+Fares Laroui
+Écrit par Fares Laroui le 27 octobre 2020 -
+Solutions
+Engager et retenir ses talents sont parmi les défis auxquels les entreprises sont le plus souvent confrontés. Afin d’y parvenir, les responsables RH essayent de combiner outils, processus et bonnes pratiques qui favorisent l’implication et le bien être des collaborateurs.
+Toutefois, le taux de réussite de telles initiatives varie d’une entreprise à l’autre. Le timing y joue un rôle important. Les entreprises les plus agiles ont vite compris qu’un tel processus devrait être déclenché et mis en place d’une manière très précoce dans le cycle de recrutement vu l’importance et la sensibilité de la phase d’intégration dans l’engagement et la rétention des collaborateurs.
+En effet, selon une étude d’Equifax, plus de 40% des départs ont eu lieu durant le premier mois de recrutement, et 10% des collaborateurs quittent l’entreprise au cours de la première année.
+Dans le contexte actuel, l’intégration des nouveaux recrues a de fortes chances de s’effectuer à distance à travers les outils de collaboration et de communication numérique. Cela signifie que les réunions en face à face sont aujourd’hui remplacées par des appels vidéo, que la formation se fait avec des tutoriels vidéo, etc.
+Cette situation a poussé les spécialistes RH ainsi que les managers à repenser leurs processus d’intégration, en prenant en considération les exigences et les préférences des télétravailleurs.
+La digital workplace d’eXo Platform s’inscrit effectivement dans cette logique offrant une large gamme d’outils et de fonctionnalités qui permettent d’améliorer la communication et la collaboration à distance facilitant ainsi d’une manière significative l’intégration et l’expérience des nouveaux talents.
+Dans cet article, nous allons décrire un parcours type d’intégration d’un nouveau collaborateur à distance en utilisant les différentes fonctionnalités de la plateforme eXo.
+Connectez-vous à la digital workplace, explorez la plateforme et complétez votre profil
+Bien qu’on ait du mal à l’admettre, commencer un nouvel emploi est souvent peu intimidant et stressant. Imaginez alors si vous commencez votre première journée à distance.
+La rencontre de nouvelles personnes et la découverte de nouveaux processus peuvent s’avérer accablants. C’est la que eXo Platform 6 entre en jeu.
+Grâce à sa dimension sociale et collaborative, la plateforme guide ses utilisateurs afin d’effectuer des tâches simples comme remplir un profil, poster un message, rejoindre un espace, etc.
+Idéalement, la première étape serait de compléter les informations du profil. Chaque nouveau membre se voit attribuer un profil à enrichir d’informations. Par défaut, les champs de profil disponibles sont le nom, le poste, les coordonnées, les expériences précédentes, les compétences, le département, l’organisation, une section ‘ à propos de moi ‘, etc.
+Une fois le profil complété, les nouveaux membres sont tentés par l’exploration de la plateforme. La nouvelle page d’accueil avec son ‘aperçu’ pourrait les aider à détecter les informations et les sections les plus importantes de la digital workplace. En plus de sa conception simple et conviviale, la page d’accueil contient également des blocs de contenus servant de passerelle vers de nombreuses applications dont les employés peuvent avoir besoin pour démarrer. Ils peuvent également consulter les dernières nouvelles de l’entreprise, accéder à des documents importants tels que les politiques et directives de l’entreprise, rejoindre des espaces, etc.
+Construisez votre réseau d’amis et de collègues
+La clé d’un processus d’intégration réussi est d’amener les nouveaux collaborateurs à faire la connaissance de leurs pairs et à comprendre qui fait quoi. Le nouvel annuaire des personnes contient une liste des membres avec des informations utiles telles que leurs fonctions, leurs expériences professionnelles, leurs compétences, etc.
+L’annuaire peut aider les nouveaux arrivants à s’informer et à trouver leurs repères dans l’entreprise. Il leur suffit de taper le nom de la personne, la liste des compétences, l’équipe ou n’importe quel autre critère pour se connecter immédiatement.
+Apprenez plus sur votre entreprise grâce à des informations ciblées
+La priorité des managers lorsqu’ils accueillent de nouveaux collaborateurs dans leurs équipes est de leur faire découvrir la culture, la vision et les valeurs de l’entreprise et de leur donner le sentiment de faire partie d’une entité. Bien que ce processus puisse prendre des semaines, voire des mois, les premiers jours peuvent jouer un rôle crucial, surtout lorsqu’on parle d’une embauche à distance.
+Pour commencer, il est important que les spécialistes RH et de la communication ainsi que les différents départements créent et diffusent des nouvelles régulièrement.
+L’application ‘News’ est l’une des fonctionnalités récemment introduites qui permet aux utilisateurs ayant des droits d’édition de transmettre, partager et organiser les articles ‘actualités. Les articles peuvent ensuite entre publiées pour l’ensemble de l’entreprise sur la page d’accueil ou bien pour des personnes ciblées au sein de groupes spécifiques.
+Cette nouvelle fonctionnalité peut jouer un rôle important dans l’implication et l’adaptation des nouveaux collaborateurs permettant de véhiculer d’une façon fluide la culture, les valeurs et les messages forts de l’entreprise.
+Cherchez et explorez les espaces
+Une fois que vous avez exploré la plateforme, appris plus sur l’entreprise et commencé à tisser votre réseaux de connaissances il est tout à fait naturel de chercher à joindre les communautés en relations avec vos missions et vos centres d’intérêt. En bref, les espaces sont des zones dédiées ou les équipes, les départements et les communautés peuvent se réunir pour communiquer, collaborer et partager tous types de connaissances. Pour une nouvelle recrue à distance, il est important de rejoindre ces espaces non seulement pour travailler mais aussi pour s’adapter et s’intégrer à la culture de l’entreprise.
+Gérez vos applications grâce au centre d’applications
+Avec l’introduction du nouveau centre d’applications dans eXo Platform 6, vos nouveaux employés peuvent accéder directement à toutes les applications intégrées ainsi qu’aux applications tierces en un simple clic.
+Le lanceur d’applications situé dans le menu de la barre supérieure est un raccourci pour toutes les applications qu’elles soient intégrées comme les documents, wikis, tâches ou tierces telles que les systèmes de gestion d’apprentissage, les outils de vidéoconférences, Google Drive, etc.
+Les utilisateurs ont également la possibilité d’ajouter des applications à leurs favoris en cliquant sur ‘Ajouter aux favoris’.
+Mieux comprendre les rôles, les règles et les processus grâce aux wikis
+Les wikis d’entreprise sont parmi les outils les plus utilisés pour organiser les processus et communiquer les rôles et responsabilités.
+La fonctionnalité Wiki intégrée d’eXo Platform permet aux nouveaux arrivants de découvrir la culture ainsi que les politiques de l’entreprise grâce à des manuels et de connaître leurs rôles au sein de leurs équipes grâce à des lignes directrices.
+Il est par exemple important d’établir des règles claires et des processus internes détaillant les outils et les moyens à utiliser et ce afin de réussir l’intégration à distance. Il est préférable aussi de stocker ce type d’informations dans des wikis accessibles exclusivement aux membres d’une même équipe. De cette façon, les nouveaux embauchés peuvent trouver dans un seul endroit toutes les informations dont ils ont besoin sur la structure de leur équipe.
+Nous avons apporté, dans eXo Platform 6, un certain nombre de modifications aux wikis en termes de flexibilité et de facilité d’utilisation. L’interface utilisateur et l’interface graphique ont été abandonnées pour une conception WYSIWYG ( ce que vous voyez est ce que vous obtenez en français ) plus simple et plus réactive, avec de nouvelles actions donnant aux utilisateurs plus de latitude pour personnaliser leurs wikis.
+Accédez rapidement aux informations grâce à la recherche unifiée
+L’une des expériences les plus complexe pour une nouvelle recrue est de retrouver différents types d’informations et de contenus localisés dans divers endroits, surtout quand on travaille à distance. La recherche unifiée est donc un excellent moyen pour gagner en efficacité grâce à des résultats pertinents qui combinent divers types de données telles que des profils, des espaces, des documents, des wikis, des vidéos, des images…etc.
+Dans eXo Platform 6, nous avons retravaillé l’aspect fonctionnel et ergonomique de cette fonctionnalité afin d’offrir plus de précision et de rapidité dans les résultats mais aussi une meilleure expérience utilisateur.
+En conclusion, la réussite du processus d’intégration consiste à avoir une vision et des objectifs clairs qui aideront par la suite à définir le parcours et l’expérience collaborateur optimale. Les solutions de digital workplace représente une composante essentielle dans une telle démarche avec leur capacité à réunir, mais aussi à assurer la synergie entre ces différents aspects.
+Dans eXo Platform 6, nous avons misé sur la richesse fonctionnelle et la simplicité de l’utilisation afin d’offrir la meilleure expérience dès le premier jour.
+Si vous souhaitez en savoir plus sur eXo Platform 6, n’hésitez pas à télécharger la fiche produit ou de nous contacter directement afin de vous mettre en relation avec nos experts solutions.
+Rate this post
+Postes Connexes
+Les outils de modération dans eXo Platform
+Découvrez les composants Open Source dans eXo Plat...
+Comment nous utilisons eXo Platform pour notre Ser...
+Tags: eXo, Guide Plateforme
+Fares Laroui
+Product Marketing Specialist
+Je suis un spécialiste en marketing produit chez eXo. Mon rôle est de soutenir les équipes marketing et commerciales dans leurs opérations et de faire découvrir notre solution de digital workplace. Je blogue principalement sur les dernières tendances technologiques, la transformation digitale, la communication interne et comment naviguer sur eXo Platform.
+Commentaires
+Laisser une réponse Annuler la réponse
+Votre adresse email ne sera pas publiée.
+Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.
+j’ai pris connaissance et j’accepte la politique de confidentialité En savoir Plus
+Vous pouvez utiliser ces HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong>

@@ -1,0 +1,39 @@
+« LIBERTA ». Dessin (aquarelle, craies grasses et crayons) © Camille Kuntz-Carbo Retirada, 1939, convoi de réfugiés espagnols. Archive © Bettmann-Corbis
+Vue de l'exposition L'instant de plus avec le Local, dirigé par Leïla Couradin, dans l'espace Le Trésor à Reims. Premier plan : Fata Morgana & Fata Bromosa - Ventilateurs métalliques, tôles aluminium, plâtre, bois, verre sablé, mortier, scotch aluminium, lavande, sauge, achillée millefeuille - 87 x 60 x 60 cm, 2021 Second plan : Ton'R - Tournesol, couettes, métal, bois brulé, bois - 354 x 310 x 240 cm, 2021 ©Vincent Gallais
+Résilience(s) - © Mahé Cabel, Valentine Cotte et Zoé Joliclercq
+Béton nostalgique, 2019, performance d’improvisation immersive, 27 min
+Tenant compte des difficultés dans le secteur culturel depuis 2020, la HEAR a exceptionnellement ouvert deux sessions d’appels à projets diplômé·s en 2021. Pour cette 2e session, 17 projets issus des trois sites de l’école ont été déposés. A l’issue de sa séance du 22 octobre, la commission a retenu 5 propositions, pour un montant total attribué de 8000€. Bravo aux lauréat·es !
+« Les Glaneuses »
+de Flora Acquistapace et Marianne Mell (DNSEP 2020 – Design et Design Textile). Sortie de la première collection de l’atelier de design et design textile dé-teintes. Les Glaneuses est une collection d’accessoires textiles responsable, destinée à l’outdoor. Les accessoires (sac à dos, banane, cabas, bob, coussin) sont en fibres naturelles revalorisées teintes à partir de plantes collectées et récoltées.
+Dé-teintes sur Facebook
+Instagram
+Site Dé-teintes
+« LIBERTA »
+de Camille Kuntz (DNSEP 2016 – Scénographie)
+« Traversée renversée des Pyrénées, Liberta, film documentaire de création, retourne sur les pas d’une réfugiée espagnole à l’heure de la ‘’Retirada’’. Fuyant l’Espagne franquiste elle perd son prénom en cours de route. Pourquoi ? Comment ? Quel était-il ? De son acte de (re)naissance, émergé de la poussière des cartons, s’exhume aujourd’hui la promesse qu’elle portait. En quête identitaire ouverte au tricot de matière testimoniale. La bobine s’enroule de rêves et d’utopies.. »
+Instagram
+« L’Instant de plus »
+de Vincent Gallais (DNSEP 2017, Art – site d’arts plastiques de Strasbourg)
+Projet d’enquête, de résidence, de production et de monstration à partir d’une exposition déjà réalisée à Reims. Intitulée « L’instant de plus » cette exposition est le point de départ de cette nouvelle phase du travail de l’artiste. Après une itinérance dans une partie du sud de la France pour enquêter sur certains lieux sacrés, il souhaite mettre en relation cette expérience avec celle de l’urbanité de la ville de Pau lors d’une résidence au Bel Ordinaire.
+Instagram
+« Résilience(s) «
+de Valentine Cotte, Mahé Cabel et Zoé Joliclercq (DNSEP 2020, Art-Objet)
+Exposition itinérante. Résilience(s) est la 1ère étape d’un cycle de recherche et de création autour des notions de soins. Il se matérialise par plusieurs expositions qui accueilleront le travail plastique des artistes ainsi que des tables-rondes / ateliers/ rencontres / lectures/conférences, autour des pratiques d’auto-soin.
+Instagram Valentine Cotte
+Instagram Mahé Cabel
+Instagram Zoé Joliclercq
+« Point Couru au lieu de travers »
+de Dlelim Kim (DNSEP 2021, Art- Hors format)
+Quatre installations de Dlelim KIM seront présentés à Fabrikulture à l’occasion de la Regionale 2022.
+– Épuisement, 2021, Installation, projection des vidéos sur une tapisserie, tapisserie
+108 x 190 cm, vidéo 25h 39 sec
+-PungNyeon-Ga : le chant de travail, 2020-21, performance, 15 performeur.euse.s,
+15 ordis, vers 10 min
+– Béton jardin, 2019-21, installation,12 photos auto-collants, dimensions variables
+– Béton nostalgique, 2019-21, performance, mise en scène, dimensions variables
+Instagram
+La commission du 22 octobre était composée de Sylvia Mesa – chargée de mission relations internationales, coordinatrice des dispositifs d’aide à projets étudiant·es et diplômé·es, Lidwine Prolonge – professeur en art, Frédéric Puysségur – administrateur de l’ensemble de musique contemporaine Linéa et Christine Ritzenthaler – directrice des études.
+Le dispositif d’aide à projets diplômé·es est mis en œuvre grâce au soutien des entreprises mécènes de la HEAR. Le soutien méthodologique et financier apporté par la HEAR à ses ancien·nes diplômé·es souhaitant développer un projet comportant une dimension publique (expositions, performances, concerts, éditions…) se veut un réel accompagnement vers la professionnalisation.
+Dans le cadre de cette année particulière, le budget dédié sur les fonds collectés pour le dispositif d’aide à projets diplômé·es via la Fondation UNISTRA avait été renforcé, passant de 15000 à 18000€. Sur une enveloppe disponible de 10000€ pour cette session, 8000€ ont été attribués.
+Parmi les 10 finalistes auditionné·s lors de cette commission du 22 octobre, les projets non soutenus pour cette session ont été invités à se représenter, méritant d’être développés via un accompagnement proposé par le dispositif APD. De tous jeunes diplômé·es en juin 2021 ont tenté une première candidature à l’APD alors que les diplômé·es de 2016 se saisissaient de cette dernière opportunité de bénéficier d’un soutien dans le cadre de ce dispositif qui est accessible jusqu’à 5 ans après l’obtention du diplôme.
+jQuery(document).ready(function($) { var switch_google = $("#switch-analytics"); if ( switch_google.length > 0 ) { function getCookie(name) { var re = new RegExp(name + "=([^;]+)"); var value = re.exec(document.cookie); return (value != null) ? unescape(value[1]) : null; } function setCookie(name, value) { document.cookie = name + "=" + value; location.reload(); } var consented = getCookie("cookieconsent_status"); if ( consented == "allow" ) { switch_google.find("input").prop( "checked", true ).change(); } switch_google.find("input").change(function() { var checked = $(this).is(":checked"); if ( checked ) { setCookie("cookieconsent_status", "allow" ); } else { setCookie("cookieconsent_status", "deny" ); } }); switch_google.find(".slider").on( "click", function() { switch_google.find("input").prop( "checked", !switch_google.find("input").prop( "checked") ).change(); }); } });

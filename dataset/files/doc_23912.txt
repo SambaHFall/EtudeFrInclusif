@@ -1,0 +1,72 @@
+L'énergie, les transports, la téléphonie mobile sont les principaux secteurs concernés par ces réajustements tarifaires.Par ailleurs, cette date est aussi marquée par l'entrée en vigueur de la réforme des retraites qui voit l'âge légal de départ à la retraite passé de 60 à 62 ans.
+Article rédigé par
+France2.fr avec AFP
+France Télévisions
+Publié le 01/07/2011 14:56
+Temps de lecture : 2 min.
+La facture d'électricité des ménages va augmenter du 2,9% à compter du 1er juillet 2011. (AFP - Mychèle Daniau)
+L'énergie, les transports, la téléphonie mobile sont les principaux secteurs concernés par ces réajustements tarifaires.
+Par ailleurs, cette date est aussi marquée par l'entrée en vigueur de la réforme des retraites qui voit l'âge légal de départ à la retraite passé de 60 à 62 ans.
+La transition se fera graduellement, à raison de quatre mois supplémentaires par an. Les premières personnes concernées sont celles nées après le 1er juillet 1951.
+Les hausses
+Premières mauvaises nouvelles pour les consommateurs qui vont voir leur facture d'électricité grimper de 2,9%. Le prix du gaz augmente de 3,2%, mais uniquement pour les entreprises. Les prix pour les particuliers ont été gelés. La commission de la régulation de l'énergie prône une hausse le 1er octobre.
+Plus généralement, la Nouvelle organisation du marché électrique français (Nome) devient opérationnelle. Elle permet aux fournisseurs alternatifs de se procurer auprès d'EDF de l'électricité nucléaire, dans une limite globale représentant 25% de la capacité de production. Le prix de revente par EDF a été fixé à 40 euros par megawattheure jusqu'à la fin de l'année.
+Les prix des billets SNCF pour les trains Intercités et TER augmente de 10 centimes d'euros à 2,70 euros selon les destinations. A Paris, les forfaits Pass Navigo de la RATP augmentent de 2,7%, sauf pour la zone 5.
+Le prix du timbre poste pour les envois de lettres de moins de 20 grammes passe de 58 à 60 centimes d'euro.
+Enfin, la puce électronique destinée à identifier les animaux de compagnie devient obligatoire pour tout animal qui voyagera hors du territoire français.
+Les baisses
+Bonne nouvelle matière de téléphonie, Le tarif des communications mobiles passées depuis un autre pays européen baisse. Il en coûtera désormais 42 centimes d'euro la minute contre 47 auparavant. Les abonnés des opérateurs métropolitains dans les départements d'outre-mer et les abonnés des opérateurs des Dom en métropole bénéficient également de la baisse des tarifs.
+Par ailleurs, le conseil d'administration de l'Unédic réuni jeudi a approuvé une revalorisation de 1,5% des allocations chômage, effective dès ce vendredi.
+Autres mesures
+L'affichage environnemental entre en vigueur. Cet engagement du Grenelle de l'Environnement a pour but d'informer le consommateur de l'impact économique de ses achats et de le guider vers des produits plus respectueux de l'environnement.
+Plus de 1.000 produits sont concernés, de l'alimentaire aux matériaux de construction en passant par l'hygiène, l'habillement ou les équipements électriques.
+Voir les commentaires
+Partager :
+Partager sur Twitter
+Partager sur Facebook
+Partager par mail
+Partager le lien
+actualités analyses vidéos
+Prolongez votre lecture autour de ce sujet
+tout l'univers France
+articles sur le même thème
+DIRECT. Autonomie de la Guadeloupe : les élus locaux demandent la venue d'une délégation interministérielle
+Route de Salazie : la circulation est rétablie, le bloc de 130 kilos dégagé
+Affaire Nicolas Hulot: le porte-parole de Yannick Jadot, Matthieu Orphelin, mis "en retrait" de la campagne présidentielle
+Témoignages
+L'hôpital public en crise : surmenage, perte de sens, mise en danger des patients... Ils racontent pourquoi ils ont rendu leur blouse
+Toute la moitié sud de La Réunion en vigilance fortes pluies et orages
+les sujets associés
+France
+Vu d'Europe
+Franceinfo sélectionne chaque jour des contenus issus de médias audiovisuels publics européens, membres de l’Eurovision. Ces contenus sont publiés en anglais ou en français.
+contenus sponsorisés
+Commentaires :
+Connectez-vous à votre compte franceinfo pour participer à la conversation.
+Voir les commentaires
+France
+Newsletter
+toute l’actu dès 7h30
+Chaque matin à 7h30, recevez l'actu du jour dans votre boîte mail.
+renseignez votre adresse email
+s'abonner
+France Télévisions utilise votre adresse email afin de vous adresser des newsletters.
+Pour exercer vos droits, contactez-nous.
+Notre politique de confidentialité Contactez-nous
+Twitter (nouvel onglet) Facebook (nouvel onglet) Instagram (nouvel onglet) Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+App store
+Play store
+Télécharger l'application
+Politique de confidentialité
+CGU et mentions légales
+Gérer mes traceurs
+Nous contacter
+Qui sommes-nous?
+Charte déontologique
+Devenir annonceur
+Recrutement
+<",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); // ftvi script usabilla.ts is in charge of usabilla loading with correct ID // window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/[USABILLA_ID].js"); /*]]>{/literal}*/

@@ -1,0 +1,202 @@
+Burguete, Emmanuel (2021). Proposition d’une méthodologie de conception et d’évaluation d’un SPOC en microlearning. Revue Adjectif, 2021 T1. Mis en ligne mardi 2 février 2021 [En ligne] http://www.adjectif.net/spip.php?article547
+Résumé :
+Cet article s’intéresse à une formation à destination d’étudiants en ostéopathie sur le diagnostic d’opportunité ayant été élaborée dans une démarche de type ADDIE (Analyse, Design, Development, Implementation, Evaluation). Une évaluation de l’efficacité pédagogique du dispositif a été réalisée dans le cadre d’une étude expérimentale bicentrique à l’aide d’un essai contrôlé randomisé.
+Les 23 étudiants s’étant inscrits à la plateforme ont significativement davantage progressé entre deux tests sur table sur le plan des connaissances que les 41 n’ayant pas suivi la formation. D’autre part, les 16 étudiants qui se sont inscrits et connectés au moins une fois ont légèrement plus progressé que le groupe s’étant seulement inscrit.
+Malgré un manque de puissance statistique, le dispositif de type SPOC créé en microlearning paraît efficace pour améliorer les connaissances des étudiants, mais n’a pas été adapté pour évaluer les compétences. D’autres sessions utilisant cette méthodologie d’ingénierie pédagogique de granularisation seront nécessaires pour pouvoir en cerner les limites et évaluer d’autres critères de jugements.
+Mots clés :
+Microlearning, DBR, SPOC, ECR en éducation, ADDIE
+1. Introduction
+Afin de décider si un patient doit être réadressé à son médecin traitant ou s’il peut être pris en charge dans des conditions optimales de sécurité, les ostéopathes doivent établir un diagnostic ostéopathique d’opportunité. Pour soutenir cet apprentissage, en tant que formateurs dans des écoles d’ostéopathie, nous avons décidé de nous appuyer sur la recherche en éducation pour proposer une formation de haut niveau. Nous avions précédemment mis en évidence que nos étudiants se formaient dans différents domaines à l’aide de formations de courtes durées appelées aussi microlearning (Burguete et al., 2017). Ainsi, nous avons eu l’envie de nous appuyer sur ces habitudes de formation pour compléter leur enseignement traditionnel synchrone. Du côté des concepteurs et des formateurs, le microlearning peut se concevoir comme une façon de penser la formation en granularisant le contenu pour faciliter à la fois son intégration dans notre quotidien, mais aussi pour le rendre plus facilement assimilable. Notre choix s’est donc porté vers la conception d’un SPOC en microlearning (Small Private Open Course) qui est une adaptation locale et privée d’un MOOC avec un effectif réduit d’apprenants (Fox, 2013).
+Au travers d’une synthèse d’une revue de la littérature, Buchem et Hamelmann (2010) précisent que le concept de microlearning est notamment souvent constitué d’« unités de microcontenu (microcontent) [qui] sont autonomes, car elles peuvent être comprises sans aucune information supplémentaire ; le microcontenu ne peut pas être divisé en morceaux plus petits sans perte de sens » (p.5). Sur ce modèle, de nombreuses formations en microlearning ont été élaborées à l’international dans des domaines variés comme celui de la santé (De Gagne et al., 2019). Cependant, l’ingénierie de formation et les choix méthodologiques de découpage du contenu disciplinaire sous forme de microcontenu sont rarement mis en avant dans ces dispositifs.
+De ce fait, nous profitons de la création de ce SPOC en microlearning pour proposer à la fois une méthodologie de granularisation mais aussi une description d’ingénierie de formation. Sur ce dernier point, au travers d’un processus d’ingénierie de type ADDIE, notre choix s’est orienté vers le Design Based Research (DBR) pour coconstruire autant que possible avec les différents acteurs (étudiants et formateurs) les différents aspects de la formation.
+Notre objectif final sera d’évaluer quantitativement à l’aide d’un essai contrôlé randomisé la qualité du dispositif de formation en microlearning au travers de l’acquisition des connaissances d’une cohorte de 76 étudiants en ostéopathie inscrits en 4ème année dans deux instituts de formation.
+2. Cadre théorique
+2.1 Qu’est-ce que le microlearning ?
+Dans un ouvrage récent dédié à ce type d’apprentissage, Pierre Mongin définit le microlearning comme une modalité qui se présente sous forme de quatre caractéristiques (Mongin et al., 2018). Premièrement, on y trouve un contenu pédagogique « concassé » en plusieurs petites unités ; c’est ce qui définira la granularisation de la formation. Chaque « grain » a une durée courte de 4 à 5 minutes maximum pour que l’effort d’attention soit minime pour l’apprenant. Bien que la forme vidéo semble être aujourd’hui pour lui le « format incontournable », Mongin précise que d’autres formats sont possibles comme la forme textuelle, imagée ou audio. Enfin, le contenu peut être émis avec une diffusion variable comme « au fil de l’eau » ou au contraire délivré en totalité.
+A l’aide d’une ou plusieurs de ces petites unités de formation, la granularisation aurait pour objectif en matérialisant des étapes de favoriser l’apprentissage (Eibl, 2007). Notons qu’une durée minimale entre deux grains présente aussi son importance. Lieury (2015) précise que l’étude de l’apprentissage « distribué » par rapport à l’apprentissage « massé » montre que des périodes de repos limitent l’épuisement des neurones et favorisent leurs interconnexions et donc une consolidation des connaissances. Ce fractionnement ne doit pas pour autant être considéré par les apprenants ou les ingénieurs pédagogiques comme synonyme d’un appauvrissement ou d’une simplification du contenu disciplinaire.
+Le microlearning n’est pas en lui-même un champ totalement nouveau. On retrouve aussi des unités d’instructions très courtes notamment dans les principes de l’enseignement programmé de Skinner en 1954 et plus largement au travers des théories béhavioristes. D’après Théo Hug, il existait déjà des travaux académiques avant 2007 spécifiquement sur le sujet du microlearning (Hug, 2007). Aujourd’hui, pour s’intégrer dans le quotidien parfois surchargé des usagers et afin de tenter de mobiliser au mieux leur attention et leur motivation, il devient fréquent de rencontrer des dispositifs techno-pédagogiques intégrant le microlearning comme modalité préférentielle ou exclusive de formation (Buchem et Hamelmann, 2010).
+Une récente méta analyse portant sur l’utilisation du microlearning en tant que stratégie éducative chez les étudiants des professions de santé permet de mettre en évidence un effet positif en ce qui concerne la réalisation des procédures, la conservation en mémoire des connaissances, l’apprentissage et l’engagement dans les apprentissages collaboratifs (De Gagne et al., 2019).
+Dans notre contexte de conception de formation en ostéopathie, notre objectif est de transformer un contenu disciplinaire complexe et vaste qui est celui du diagnostic d’opportunité ostéopathique en plusieurs éléments plus petits et autonomes afin de faciliter l’apprentissage des étudiants.
+2.2 Holon, holarchie, granularisation et objectifs d’apprentissages basés sur un modèle didactique
+Eichenauer précise que le microlearning permet à l’apprenant d’avancer « étape par étape dans la bonne direction » (2006, p. 37). Pour cela, le contenu doit être « disséqué en unités d’apprentissage » (Eibl, 2007, p. 128) qui représenteront une étape à elles seules ou sous une forme de série de quelques unités. De plus, a priori « avec la très grande variété des besoins possibles de formation, des contenus et des objectifs d’apprentissage, il n’est pas possible de définir la taille de ces unités uniques pour tous les processus de création de formation en microlearning » (Eibl, 2007, p. 128). Eibl pense que ce sont les objectifs d’apprentissages qui permettent de définir cette taille et que chaque unité doit être autonome. Il rajoute quelque chose qui pourrait passer pour une contradiction : « d’un côté, les unités doivent réduire la complexité dans un temps court pour être incorporées dans la vie de tous les jours et de l’autre elles nécessitent d’être suffisamment complètes pour amener l’apprenant à remplir ses objectifs de formation » (Eibl, 2007, p. 129). Pour lui, l’unité de formation du microlearning peut être décrite comme un « holon ».
+Ce concept de holon fût proposé par Arthur Koestler en 1967 pour représenter une entité qui serait en elle-même autonome, tout en faisant aussi partie d’un ensemble plus grand, lui-même toujours autonome, dans un système d’influences réciproques (Koestler, 1967). Ainsi, chaque unité de formation avec son objectif pourrait ainsi être mobilisée par l’apprenant de façon autonome ou en lien avec les autres unités de formation. Ainsi, en décomposant un objectif final en sous-objectifs, on peut laisser apparaître les niveaux de ce que Koestler appelle une « holarchie ». C’est ce processus qui permettrait de définir la granularité d’une formation. On remarque que bien que Buchem et Hamelmann évoquent le concept de microcontent et non celui de holon, il existe une grande proximité conceptuelle entre les deux. On y retrouve en effet aussi cette notion de morceaux ou « chunks » qui « peuvent être compris sans aucune information supplémentaire […] et qui ne peuvent pas être divisés en morceaux plus petits sans perte de sens » (Buchem et Hamelmann, 2010, p. 5).
+Afin d’organiser une progression dans les apprentissages, Eibl propose comme modèle didactique de « projeter » la taxonomie de Bloom sur le contenu proposé à l’apprenant tout en l’adaptant à ce qu’il nomme un « cercle herméneutique », pour préserver sa vision holarchique et itérative de l’apprentissage (Bloom & Krathwohl, 1956 ; Eibl, 2007). Ensuite, afin de limiter les erreurs d’identification des objectifs, il engage à appliquer de façon systématique un processus de « redéfinition – évaluation » plusieurs fois « même si cela peut paraître une perte de temps et non économique » (Eibl, 2007, p. 131). Ce modèle théorique rejoint celui de Tyler et de Shuell repris ensuite par Biggs dans ses théories de l’alignement constructif et de l’alignement pédagogique (Biggs, 1996 ; Shuell, 1986 ; Tyler, 1949).
+L’alignement pédagogique sera lui aussi mis en place par l’enseignant qui s’assurera de la cohérence entre les objectifs, les activités d’apprentissage (et ses moyens) et les modalités d’évaluations mises en place. Ainsi, il faudra que cet alignement soit réalisé systématiquement, à la fois sur chaque holon, mais aussi au niveau de l’holarchie en fin de formation.
+Le référentiel formation des ostéopathes étant orienté vers l’acquisition de compétences, nous avons désiré construire notre démarche d’ingénierie pédagogique dans ce sens.
+2.3 La variabilité des compétences et des situations
+Afin de créer notre formation, nous avons décidé de nous appuyer sur les travaux de Jonnaert (2012) pour construire le processus amenant de la compétence virtuelle à la compétence effective à partir d’objets différents que sont la capacité et l’habileté. Dans le curriculum, une habileté est utilisable dans l’action comme telle, c’est une « unité de matière » dont l’utilisation est décontextualisée. Ce concept d’habileté qui serait l’unité d’une compétence nous fait repenser à celui du « holon » qui est l’unité de matière du contenu en microlearning intégré dans un tout plus grand nommé « holarchie » qui pourrait correspondre à la compétence effective. Dans ce cadre et de façon itérative, la compétence convoquera au moins une capacité, qui elle-même convoquera au moins une habilité dans une démarche en cascade (figure 1).
+Figure 1 : Ingénierie de formation du SPOC
+Nous pensons que si le contenu disciplinaire est trop complexe et en dehors de la zone proximale de développement de l’apprenant (Vygotsky et al., 2015), il sera impossible pour ce dernier de réagir et de construire son apprentissage. Pour cela, on retrouve dans la taxonomie de Bloom et aujourd’hui ses révisions (Anderson & Krathwohl, 2001) une hiérarchisation dans les niveaux d’acquisition de connaissances qui nous paraît être utile pour organiser et hiérarchiser notre contenu. Dans la formation que nous proposons, les étudiants en ostéopathie doivent en fin de formation être « compétents » pour réaliser un diagnostic d’opportunité. Différents contenus disciplinaires sont mobilisés pour y parvenir comme la neurologie, la rhumatologie, la cardiologie, etc. Les habiletés sont spécifiques à ces domaines et décontextualisées en s’orientant sur des opérations de type connaissance et compréhension. La capacité demande à l’étudiant un choix et donc une analyse et une synthèse pour choisir ensuite les bonnes habiletés (unités de compétences). Ces choix de granularisation peuvent maintenant s’intégrer dans une démarche d’ingénierie.
+2.4 Le Design Based Research (DBR) et le processus ADDIE
+Le DBR est un objet frontière entre enseignement et recherche qui s’inscrit dans le courant méthodologique des recherches collaboratives et pragmatiques en éducation (Class & Lombard, 2017). Wang et Hannafin (2005, p. 7) rajoutent à cette approche plusieurs autres dimensions dans ce type de conception : « ancrée, interactive itérative et adaptable, intégrative et contextuelle ». La démarche a pour vocation d’alimenter à la fois la pratique et la théorie en prenant en compte le contexte et sa réalité tant sur le plan écologique que celui de ses acteurs.
+L’étudiant, qui est aussi l’utilisateur final, permet de valider avec les enseignants et les chercheurs certains choix stratégiques pendant toute la démarche d’ingénierie de formation. Ainsi, la création de ce type de dispositif dans une démarche de type DBR pourrait associer ce trio « étudiant, enseignant et chercheur » dans une volonté de recherche de compromis autour des objectifs de formation. Toutefois, cela nécessite de poser des garde-fous pour ne pas mettre en péril le projet en dépassant des délais. À ce sujet, Collins (2004) précise que « l’ampleur des données collectées lors d’un DBR constitue un véritable défi pour le travail de traitement et d’analyse des résultats » (Sanchez & Monod-Ansaldi, 2015, p. 83).
+Pour créer notre formation, nous voulions structurer notre démarche collaborative à l’aide d’étapes. Ainsi, notre choix s’est porté sur le modèle ADDIE. Cet acronyme détaille les étapes clefs d’une démarche de conception. En associant un modèle analytique de type ADDIE à une démarche pragmatique de type DBR, notre objectif était de réaliser par étapes des choix efficients pour concevoir une formation avec un niveau cohérent de granularisation du contenu et adaptée à ses utilisateurs.
+3. Méthodes et déroulement
+3.1 De la création du dispositif à son évaluation à l’aide d’un essai contrôlé randomisé
+La création de cette formation entrait dans le cadre de la réalisation d’une étude pour un mémoire de recherche de master 2 International Francophone en Education et Formation (MIFEF) et de la création d’un dispositif de formation à distance pour le diplôme universitaire CODIFAD (Conception de dispositifs de formation à distance), les deux à l’université de Rouen (France).
+Cette étude en trois parties indissociables s’est déroulée du 27 septembre 2018 au 31 mai 2019 au sein du collège ostéopathique de Bordeaux et de l’institut Eurostéo. La première partie réflexive consistait en l’élaboration d’une méthodologie de granularisation, la deuxième en l’intégration de modules en microlearning dans un dispositif de formation multimodale de type SPOC selon un processus d’ingénierie (ADDIE et DBR). Et enfin, la troisième avait pour objet l’évaluation quantitative des connaissances acquises par les étudiants à l’aide d’un essai contrôlé randomisé.
+À chaque étape du processus ADDIE nous avons intégré le DBR. Ainsi, une question et des hypothèses de recherche étaient posées afin que les objets « recherche » et « développement » s’interrogent mutuellement. Les questions de recherche ont vocation ici à rendre la démarche opérationnalisante et pragmatique pour aider à la prise de décision dans le processus d’ingénierie. De ce fait, bien qu’elles soient liées à la conception de l’objet de recherche, elles ne sont pas à proprement parler intégrées dans la question de recherche principale qui est celle de l’efficacité du dispositif de formation de type SPOC en microlearning. En effet, le critère de jugement principal retenu est l’acquisition de connaissances des étudiants au sujet de l’élaboration du diagnostic d’opportunité ostéopathique.
+Dans le cadre du DBR, nous avons utilisé comme outils d’évaluation le questionnaire, des entretiens semi-directifs et un focus group pour nous permettre de valider ou invalider les hypothèses suivantes.
+En ce qui concerne l’essai contrôlé randomisé, les étudiants étaient convoqués dans les deux écoles à des dates très proches pour réaliser le même examen écrit surveillé qui comportait 50 questions fermées (vrai ou faux). Les questions étaient issues aléatoirement de la base de données qui suivaient chacune des capsules vidéo du SPOC. Le pré-test permettait d’évaluer leurs connaissances avant l’enseignement et le post-test était effectué après la passation du SPOC. Les étudiants étaient informés de leurs notes après le pré-test mais n’avaient pas de correction puisque l’évaluation était la même qu’au post-test.
+3.2 Analyse
+Questionnement : Un complément de cours de type SPOC sur le diagnostic d’opportunité répondrait-il a un besoin des étudiants en ostéopathie ?
+Nous posons les hypothèses suivantes :
+Les étudiants pensent qu’une formation en ligne en plus des cours en présentiel leur permettrait d’améliorer leurs connaissances sur les pathologies.
+Les étudiants pensent qu’une formation en ligne en plus des cours en présentiel leur permettrait d’améliorer leurs compétences concernant la réalisation d’un diagnostic ostéopathique.
+Lors de la phase d’analyse des besoins (première semaine de février 2019), l’ensemble des étudiants de 4e (n = 89) et 5e année (n = 101) des deux écoles a été invité par mail à répondre à un questionnaire figurant dans Google Form composé de 12 questions ouvertes et fermées. Afin de savoir s’ils avaient déjà suivi une formation à distance ; s’ils voyaient l’intérêt d’un complément de cours en ligne sur le diagnostic d’opportunité et éventuellement s’ils avaient des propositions sur le contenu qu’ils souhaiteraient y voir figurer (extrait en annexe 1).
+3.3 La conception
+Questionnement : Comment les enseignants des différentes matières médicales ou les responsables pédagogiques du diagnostic d’opportunité peuvent-ils aider à scénariser un contenu disciplinaire en le granularisant sous forme de microlearning ?
+Nous posons les hypothèses suivantes :
+Les enseignants et les responsables pédagogiques comprennent et participent à la granularisation du contenu nécessaire à la formation à partir de l’analyse des besoins ;
+Les enseignants et les responsables pédagogiques définissent à l’aide du chercheur un holon et une holarchie à partir des besoins des étudiants et des exemples de vidéos pilotes.
+Deux vidéos pilotes ont été créées par le promoteur de l’étude en essayant de suivre au maximum les recommandations de Guo, Kim et Rubin (résumé annexe 2) ; notamment celles concernant la durée des vidéos, le flux de parole rapide et enthousiaste, et les moments où apparaît la figure de l’enseignant aux moments opportuns (Guo et al., 2014). Faute de matériel adapté, nous avons utilisé PowerPoint pour réaliser nos vidéos et non pas la recommandation du dessin sur tablette (Khan-style) qui impliquerait plus l’étudiant.
+Début mars 2019, à la suite d’une demande par mail, deux enseignants de chacune des deux écoles ont accepté de réaliser un entretien semi-directif à l’aide d’une grille d’entretien. Les quatre entretiens qui se sont déroulés au sein des instituts de Bordeaux et d’Aix-en-Provence ont été enregistrés à l’aide d’un smartphone pour être ensuite retranscrits à l’aide du logiciel gratuit Sonal. L’objectif était de coconstruire la scénarisation de la formation en modifiant le projet au fur et à mesure dans une optique opérationnalisante.
+Tout d’abord, avant le début de l’entretien, il leur était présenté le cadre de l’étude, ce qu’était un SPOC, la présentation des résultats de l’analyse des besoins des étudiants et les deux vidéos pilotes accompagnées de leurs syllabus ainsi qu’une proposition graphique de scénarisation. La proposition de scénarisation se déroulait sur un mois, avec un accès progressif au contenu semaine après semaine.
+Ainsi, à partir des différents commentaires des enseignants, cette base avait pour objectif d’être modifiée jusqu’à ce qu’une scénarisation paraisse convenir à tous pour ensuite pouvoir être proposée aux étudiants.
+3.4 Le développement et l’implantation
+Questionnement : Comment les étudiants en ostéopathie peuvent-ils aider à développer et à implanter le contenu disciplinaire médiatisé conçu avec l’aide des enseignants ?
+Nous posons l’hypothèse suivante :
+Les étudiants interrogés ont une vision précise de leurs besoins et savent orienter les choix de développement et d’implantation de la formation.
+En avril 2019, afin de gagner en efficacité en mettant au mieux le temps à profit pour la création de la formation, nous avons décidé d’associer la phase de développement et la phase d’implantation. Pour cela, seule la première semaine de formation a été développée dans un premier temps avec les deux vidéos pilotes pour être implantée directement dans le LMS choisi à la suite de la phase de conception.
+L’évaluation en DBR est réalisée à l’aide d’un Focus Group composé de 3 étudiants du collège ostéopathique de Bordeaux. L’objectif était de recueillir leurs avis sur le développement et sur l’intégration dans la formation de certaines modalités pédagogiques et techniques.
+3.5 L’évaluation
+Question de recherche : Est-ce qu’un SPOC en microlearning sur le diagnostic d’opportunité en ostéopathie permet d’améliorer significativement les connaissances des étudiants qui suivent la formation ?
+Nous posons l’hypothèse suivante :
+Les étudiants du groupe expérimental progressent plus en matière de connaissances que ceux du groupe témoin même s’ils ne s’inscrivent pas sur la plateforme.
+L’évaluation d’une formation peut être réalisée à partir d’un grand nombre de critères de jugements quantitatifs ou qualitatifs en fonction des objectifs de formation. Nous avons fait le choix de réaliser une étude quasi expérimentale bicentrique sans insu à l’aide d’un pré-test et d’un post-test pour évaluer l’amélioration des connaissances d’un petit groupe d’étudiants dans une première phase d’étude en 2019. Des étudiants volontaires de 4e année ont été randomisés dans un groupe expérimental et dans un groupe témoin. Bien qu’ils aient pu suivre la formation, les étudiants de 5e année à quelques semaines de la passation de leur diplôme ont été exclus de l’évaluation par ECR pour ne pas les pénaliser. Seuls les étudiants de 4e année ayant réalisé le pré-test et le post-test ont été inclus dans l’étude. Le traitement statistique a été réalisé à l’aide du logiciel open source « R » selon la méthodologie proposée par Guillaume Broc (Broc et al., 2016).
+4. Résultats
+4.1 Pour l’analyse
+Sur les 190 étudiants contactés, environ un tiers ont répondu au questionnaire (n = 60) de 10 questions fermées et ouvertes. Un peu plus de la moitié des répondants déclare avoir déjà réalisé une formation en ligne et 10 % seulement pensent que passer du temps avec une formation complémentaire ne leur apportera rien de plus en matière de connaissance. Le traitement thématique des questions ouvertes montre que les étudiants aimeraient passer plus de temps en cours pour étudier la pratique et que l’e-learning leur permettrait d’étudier à leur rythme en dehors des espaces contextualisés la théorie. Une minorité pense cependant que le risque est d’être noyé sous trop de théorie en cas d’e-learning et qu’ils pourraient avoir du mal à s’investir s’ils ne sont pas présents. 62% des étudiants pensent qu’une formation en ligne pourrait améliorer leurs compétences pour réaliser un diagnostic d’opportunité.
+4.2 Pour la conception
+À la suite de 4 entretiens semi-directifs d’enseignants, la granularisation sous forme d’une holarchie est définie à partir des objectifs de formation. Le choix du LMS s’est porté sur le script Guru Pro intégré au CMS Joomla pour des considérations techniques qui ont orienté ensuite le développement et l’implantation du SPOC. Comme avec Moodle, Guru Pro intègre la possibilité d’utiliser la norme SCORM pour intégrer du contenu. Ainsi, nous avons pu utiliser le logiciel open source Scenari pour scénariser le début de la formation et proposer à partir d’un SCORM une présentation d’une version pilote de la première semaine de formation avec des affichages différents (annexe 3 et 4).
+4.3 Pour le développement et l’implantation
+Trois étudiants inscrits en 5e année ont participé à un Focus Group. D’un commun accord, ils ont validé l’habillage Sunrise de Scenari et ont désiré avoir accès à l’ensemble du contenu dès le départ et non pas de façon échelonnée par semaine. Leurs autres choix ont porté sur l’accès aux retranscriptions des vidéos dans un format texte modifiable, le moins de texte possible sur le LMS pour ne pas perdre de temps à le lire, un forum plutôt qu’une hybridation de la formation et la possibilité d’avoir une attestation finale de formation à l’issue d’une évaluation. À partir de ces éléments, la scénarisation définitive est arrêtée sur le fond et la forme telle qu’elle apparait sur la figure 2.
+Figure 2 : scénarisation définitive du SPOC
+4.4 Point sur la scénarisation définitive de la formation :
+Sur les 3 premières semaines, 93 vidéos sont créées en Rapid Learning avec PowerPoint puis hébergées sur YouTube. Chaque capsule ou hexagone a un code couleur et correspond à une capsule : vert pour les capacités, violet pour les habiletés et orange pour les cas cliniques. Les capsules vidéo en microlearning durent en moyenne 4 min et 30 s et sont chacune scénarisées avec un quiz et un syllabus puis mises en lien à l’aide du logiciel Scenari. À la fin des trois premières semaines, un cas clinique par domaine est proposé (traumatologie, neurologie centrale, etc.) pour tester en contexte des connaissances. Une évaluation de fin de semaine par QCM était prévue, mais suite au focus group, celle-ci est abandonnée au profit d’une discussion modérée entre pairs sur un forum intégré au site internet (le forum est représenté par une étoile avec un F en son centre sur la fig. 2). Le SPOC étant un complément de cours, l’accès à la totalité des trois premières semaines était proposé dès le début de la formation. Les étudiants avaient le choix de suivre la formation au fil de l’eau semaine après semaine comme dans un MOOC classique ou bien de naviguer vers n’importe quelle capsule. La totalité du SPOC a pu être réalisée deux semaines avant le début de la formation.
+4.5 L’évaluation à l’aide d’un essai contrôlé randomisé (ECR)
+Statistiques descriptives de l’échantillon des étudiants de 4e année
+Les étudiants qui ont finalement passé les deux examens étaient au nombre de 64 personnes au lieu de 76 initialement, sans que l’on puisse en connaître les raisons. La proportion d’hommes (53%) est légèrement supérieure à celle des femmes (47%). L’âge reste sensiblement le même qu’au pré-test.
+Analyse bivariée
+Comparaison des résultats des étudiants du groupe expérimental inscrits à la plateforme entre le pré-test et le post-test
+H0 : Il n’y a pas de différence significative des notes entre le pré-test et le post-test
+Les conditions de validité du t de Student pour échantillons pairés étant remplies, le test met en évidence une différence significative (p= 0,030) entre les deux moyennes des notes du pré-test (μ = 13,50 ; σ = 1,35) et du post-test (μ = 14,17 ; σ = 1,49) (figure 3). Ainsi, p étant inférieur à 0,05 nous pouvons rejeter l’hypothèse nulle et conclure qu’il y a bien une différence significative des notes entre les deux tests.
+Figure 3 : Moyennes et intervalles de confiance des notes des étudiants du groupe expérimental entre le pré-test et le post-test
+Nous calculons la taille d’effet et la puissance du test à l’aide du logiciel R pour définir un critère de performance de la formation. Le d est de 0,48 et la puissance 1- β de 0,597.
+En s’appuyant sur l’échelle des tailles d’effet de la figure 4, on note que le d de Cohen (0,48) se situe dans la zone bleue. On considère alors que l’enseignement de ce SPOC est supérieur à des effets d’enseignement « classiques » qui sont dans la zone verte. Cependant, le test statistique manque de puissance du fait d’un effectif insuffisant puisque 1- β = 0,597 alors que nous aurions voulu atteindre la valeur de 0,80 habituellement admise pour estimer comme satisfaisante la puissance du test.
+Figure 4 : Echelle des tailles d’effets
+Comparaison des résultats des étudiants du groupe expérimental inscrits et connectés au moins une fois supplémentaire à la plateforme entre le pré-test et le post-test
+Les étudiants inscrits en ligne ne se sont pas systématiquement connectés à la plateforme une deuxième fois. On pose ainsi l’hypothèse H0 : Il n’y a pas de différence significative des notes entre le pré-test et le post-test pour les étudiants s’étant inscrits et connectés au moins une fois supplémentaire à la plateforme.
+Les conditions de validité sont également remplies pour effectuer un test t de Student pour échantillon pairé. Il y a une différence significative (p=0,028) entre les moyennes des notes du pré-test (μ = 13,72 ; σ = 1,20) et du post-test (μ = 14,55 ; σ = 1,45) pour les étudiants du groupe expérimental qui se sont connectés au moins une fois sur la plateforme. On peut donc aussi rejeter H0 et conclure que ces étudiants ont un peu plus progressé en matière de connaissance que le précédent échantillon testé.
+La taille d’effet d étant de 0,61 (zone bleue figure 4), on considère que l’enseignement présente un effet dit remarquable. Cependant, le test statistique manque aussi de puissance du fait de l’effectif puisque 1- β = 0,622 est inférieur à 0,80.
+5. Discussion et conclusion
+5.1 En ce qui concerne la construction du dispositif :
+Lors du processus ADDIE, à l’aide du DBR, la phase d’analyse du dispositif nous a appris qu’une majorité des étudiants en ostéopathie pensait qu’une formation en ligne leur permettrait d’améliorer leurs connaissances sur les pathologies et leurs compétences pour effectuer un diagnostic d’opportunité ostéopathique.
+Lors de la conception, les enseignants ont défini à partir de l’étude des besoins des étudiants les objectifs de formations pour aboutir à une granularisation de la formation dont l’unité est un holon (microcontenu).
+Le développement et l’implantation de la formation ont été orientés sur le fond et la forme à l’aide d’étudiants vers un dispositif ouvert en totalité ou chaque capsule vidéo est accompagnée par une retranscription.
+Ainsi, la démarche d’ingénierie a permis d’aboutir à la création d’un dispositif de formation multimodal de type SPOC en microlearning. C’est ce dispositif dont nous avons voulu évaluer quantitativement l’efficacité pédagogique sur le plan de l’amélioration de l’acquisition des connaissances. Notre projet de départ était d’évaluer l’apport du microlearning dans une formation. Cependant, nous nous sommes rapidement rendu compte qu’il était illusoire devant le nombre de variables indépendantes inconnues d’arriver à créer deux formations comparables distinctes, l’une en microlearning, l’autre en macrolearning. Une approche par questionnaire ou bien compréhensive à base d’entretiens serait certainement plus pertinente pour apprécier le vécu des étudiants au sujet du microlearning.
+5.2 En ce qui concerne l’évaluation quantitative du dispositif :
+L’évaluation statistique sous forme d’un essai contrôlé randomisé nous informe que le SPOC comme complément de cours améliore les connaissances des étudiants du groupe expérimental de façon significative entre le pré-test et le post-test. Les étudiants avaient la possibilité de télécharger tous les cours dès leur première connexion pour ne pas regarder les vidéos. Cependant, on note que leurs connaissances s’améliorent un peu plus s’ils se sont connectés plus d’une fois à la plateforme. Bien que la taille d’effet apparaisse comme supérieure à des effets d’enseignement classique. Il faut relever que la puissance statistique de l’ECR est inférieure à 0,8 donc relativement faible. Notons que cette évaluation n’avait pas vocation ni à évaluer les compétences des étudiants à réaliser un diagnostic d’opportunité faute d’utilisation en situation clinique d’un instrument de mesure adapté, ni à évaluer spécifiquement l’efficacité du microlearning. Le choix d’évaluer uniquement les connaissances a été fait d’une part pour ne pas alourdir les contraintes auprès des étudiants et de l’équipe enseignante. Et d’autre part devant la réelle difficulté de trouver des critères de jugements et des instruments de mesure capables d’évaluer efficacement les compétences liées à l’établissement du diagnostic d’opportunité. Nous avons aussi conscience que d’autres modalités d’évaluation de l’efficacité du dispositif comme la satisfaction des utilisateurs auraient été pertinentes à mener, surtout pour évaluer l’intérêt du microlearning.
+Sur le plan méthodologique, nous avons fait le choix de comparer un groupe expérimental bénéficiant d’un SPOC comme complément de cours avec un groupe contrôle ne bénéficiant que de l’enseignement en présentiel. A posteriori, ce choix apparait être en faveur du groupe contrôle puisque le groupe témoin n’a pas du tout progressé entre le pré-test et le post-test même s’ils avaient été informés au cours de la passation du pré-test des difficultés sur lesquelles ils pouvaient s’améliorer. Nous aurions certainement dû mettre à disposition l’ensemble des cours en version papier ainsi que les évaluations et l’accès au forum pour améliorer la comparaison entre les deux groupes. Cela nous aurait aussi permis d’évaluer l’efficacité d’une capsule vidéo versus un cours granularisé sous forme de texte. Cette étude aurait d’ailleurs contribué à savoir si le choix de la vidéo au lieu du simple texte était pertinent pour améliorer les connaissances des étudiants dans les MOOCs ou autres formes d’enseignements privilégiant cette modalité. D’autres recherches avec d’autres critères de jugements et un effectif plus important devront donc être menées pour évaluer d’autres limites de cette méthodologie de conception d’une formation en microlearning.
+6. Références bibliographiques
+Anderson, L. W., & Krathwohl, D. R. (Éd.). (2001). A taxonomy for learning, teaching, and assessing : A revision of Bloom’s taxonomy of educational objectives (Complete ed). Longman.
+Biggs, J. (1996). Enhancing teaching through constructive alignment. Higher Education, 32(3), 347‑364. https://doi.org/10.1007/BF00138871
+Bloom, B., & Krathwohl, D. (1956). Taxonomy of Educational Objectives : The Classification of Educational Goals, by a committee of college and university examiners. Handbook I : Cognitive Domain. New York, Longmans, Green.
+Broc, G., Carlsberg, M., Cazauvieilh, C., Faury, S., Loyal, D., & Atzeni, T. (2016). Stats faciles avec R  : Guide pratique. De boeck supérieur.
+Buchem, I., & Hamelmann, H. (2010). Microlearning : A strategy for ongoing professional development. ELearning Papers, 15.
+Burguete, E., Gorski, L., Scribans, C., & Nourry, J. (2017). Les représentations sociales nouvelles des adultes en formation sur le microlearning. La revue de l’ostéopathie, 19(3), 21‑30.
+Collins, A., Joseph, D., & Bielaczyc, K. (2004). Design Research : Theoretical and Methodological Issues. Journal of the Learning Sciences, 13(1), 15‑42. https://doi.org/10.1207/s15327809jls1301_2
+Eibl, T. (2007). What Size is Micro ? Using a Didactical Approach Based on Learning Objectives to Define Granularity. Didactics of Microlearning : Concepts, Discourses, and Examples, 125‑138.
+Eichenauer, R., & Hug, T. (Éd.). (2006). The complementary character of microlearning. In Microlearning : Emerging concepts, practices and technologies ; proceedings of microlearning 2005 ; learning & working in new media environments (1. ed, p. 223). Univ. Press. https://www.researchgate.net/publication/246822097_Microlearning_Emerging_Concepts_Practices_and_Technologies_after_e-Learning
+Fox, A. (2013). From MOOCs to SPOCs. Communications of the ACM, 56(12), 38‑40. https://doi.org/10.1145/2535918
+Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement : An empirical study of MOOC videos. Proceedings of the First ACM Conference on Learning @ Scale Conference - L@S ’14, 41‑50. https://doi.org/10.1145/2556325.2566239
+Hattie, J. A. C. (2009). Visible Learning : A Synthesis of Over 800 Meta-Analyses Relating to Achievement. Routledge.
+Hug, T. (Éd.). (2007). Didactics of microlearning : Concepts, discourses and examples. Waxmann.
+Jonnaert, P. (2012). Compétences et socioconstructivisme  : Un cadre théorique. De Boeck Université.
+Koestler, A. (1967). The ghost in the machine. Hutchinson of London.
+Lieury, A. (2015). Psychologie cognitive. Dunod.
+Mongin, P., Bertolini, M., & Levious, F. (2018). Former avec le microlearning  : Créer des modules courts et efficaces (Dunod).
+Sanchez, É., & Monod-Ansaldi, R. (2015). Recherche collaborative orientée par la conception. Education & didactique, 9(2), 73‑94.
+Shuell, T. J. (1986). Cognitive conceptions of learning. Review of educational research, 56(4), 411‑436.
+Tyler, R. W. (1949). Basic principles of curriculum and instruction. University of Chicago Press.
+Vygotsky, L. S., Sève, F., Piaget, J., Clot, Y., & Sève, L. (2015). Pensée et langage. La Dispute.
+Wang, F., & Hannafin, M. J. (2005). Design-based research and technology-enhanced learning environments. Educational Technology Research and Development, 53(4), 5‑23. https://doi.org/10.1007/BF02504682
+Annexe 1 : Copie d’écran d’un extrait du questionnaire Google Form
+Annexe 2 : Résumé en anglais des principales conclusions et recommandations de production vidéo de Guo, Kim et Rubin.
+Annexe 3 : Capture d’écran du logiciel Scenari (opale3.7) – choix du type de SCORM et de l’habillage « Sunrise ».
+Annexe 4 : Capture d’écran du logiciel Scenari (opale3.7) – semaine 1
+Emmanuel Burguete
+ARTICLES ANNÉES PRÉCÉDENTES
+2019
+2019 - T1
+2019 - T2
+2019 - T3
+2019 - T4
+2018
+2018 - T1
+2018 - T2
+2018 - T3
+2018 - T4
+2017
+2017 - T1
+2017 - T2
+2017 - T3
+2017 - T4
+2016
+2016 - T1
+2016 - T2
+2016 - T3
+2016 - T4
+2015
+2015 - T1
+2015 - T2
+2015 - T3
+2015 - T4
+2014
+2014 - T1
+2014 - T2
+2014 - T3
+2014 - T4
+2013
+2013 - T1
+2013 - T2
+2013 - T3
+2013 - T4
+2012
+2012 - T1
+2012 - T2
+2012 - T3
+2012 - T4
+2011
+2011 - T1
+2011 - T2
+2011 - T3
+2011 - T4
+2010
+2010 - T1
+2010 - T2
+2010 - T3
+2010 - T4
+2009
+2009 - T1
+2009 - T2
+2009 - T3
+2009 - T4
+2008
+2008 - T1
+2008 - T2
+2008 - T3
+2008 - T4
+2007
+2007 - T1
+2007 - T2
+2007 - T3
+2007 - T4
+Rechercher :
+Articles les plus récents
+Technologies de l’information et de la communication et Sciences de l’éducation
+Le développement professionnel en perspective internationale : un projet de formation hybride entre Europe et Asie
+Enterprise Social Networks and Their Use for Informal Collective Learning
+Informatique et numérique comme objets d’enseignement scolaire en France : entre concepts, techniques, outils et culture
+Quels accompagnements pour l’enseignement de l’informatique à l’Ecole Fondamentale du Burundi ?
+Evaluation des compétences des étudiants de 4ème année de médecine dans la prise en charge des urgences vitales : quelle place pour la simulation ?

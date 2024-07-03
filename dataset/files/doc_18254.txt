@@ -1,0 +1,61 @@
+Question : "J'ai souvent le sentiment que je ne peux faire l'impasse sur rien, que c'est à moi qu'il revient de tout gérer, qu'une journée alors, c'est bien court. Comment en faire moins et avoir plus de temps pour moi ?"Anne, mère au foyer, 35 ans, Nice
+La réponse de Charline Licette : "Pourquoi faites-vous tout cela, Anne ? Et que voulez-vous à la place ? Quels comportements seraient satisfaisants pour vous ?Chacun d'entre nous a sa complexité propre, il garde des mystères?Pourquoi tous ces retards ? Je vous propose quelques hypothèses :Chez certaines personnes, il y a une attitude qui consiste dit-on à "procrastiner", c'est à dire reporter, reporter? "cette réunion a lieu dans deux jours, j'ai le temps, je la préparerai demain " et le lendemain, un nouveau report. Et puis cette préparation devient une urgence. Et là il faut faire vite, il y a une sorte de défi qui stimule. Il y a la sensation d'une grande créativité alors qu'aucune idée n'émergeait la veille.Une autre hypothèse est le manque de motivation. Je n'ai pas envie d'aller à ce rendez-vous, je traîne. Bien sûr cet acte n'est pas vraiment volontaire. Je ne peux pas m'empêcher de tarder.Une autre hypothèse surgit pour vous ?"
+Rédigé par La rédactionPublié le 10/05/2010
+Voir les commentaires
+Partager :
+Partager sur Twitter
+Partager sur Facebook
+Partager par mail
+Partager le lien
+actualités analyses vidéos
+Prolongez votre lecture autour de ce sujet
+tout l'univers Développement personnel
+articles sur le même thème
+Vidéo
+Covid-19 : "Il faut réappliquer avec rigueur toutes les règles sanitaires" en entreprise, avertit la ministre du Travail
+Emploi : de plus en plus d'entreprises recrutent sans CV
+Emploi : avoir un nom d’origine maghrébine rend plus difficile une embauche
+Covid- 19 : pourquoi le gouvernement ne veut pas rendre le télétravail obligatoire
+La Poste condamnée pour faute inexcusable après le suicide d’un de ses salariés
+les sujets associés
+Développement personnel
+Vie-professionnelle
+Carrière
+Emploi
+Eco / Conso
+Vu d'Europe
+Franceinfo sélectionne chaque jour des contenus issus de médias audiovisuels publics européens, membres de l’Eurovision. Ces contenus sont publiés en anglais ou en français.
+contenus sponsorisés
+Commentaires :
+Connectez-vous à votre compte franceinfo pour participer à la conversation.
+Voir les commentaires
+Eco / Conso
+Emploi
+Carrière
+Vie-professionnelle
+Développement personnel
+Newsletter
+toute l’actu dès 7h30
+Chaque matin à 7h30, recevez l'actu du jour dans votre boîte mail.
+renseignez votre adresse email
+s'abonner
+France Télévisions utilise votre adresse email afin de vous adresser des newsletters.
+Pour exercer vos droits, contactez-nous.
+Notre politique de confidentialité Contactez-nous
+Twitter (nouvel onglet) Facebook (nouvel onglet) Instagram (nouvel onglet) Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+App store
+Play store
+Télécharger l'application
+Politique de confidentialité
+CGU et mentions légales
+Gérer mes traceurs
+Nous contacter
+Qui sommes-nous?
+Charte déontologique
+Devenir annonceur
+Recrutement
+<",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); // ftvi script usabilla.ts is in charge of usabilla loading with correct ID // window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/[USABILLA_ID].js"); /*]]>{/literal}*/

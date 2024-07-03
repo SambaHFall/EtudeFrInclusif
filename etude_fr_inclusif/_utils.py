@@ -187,7 +187,10 @@ def sub_merge_sort(anns_a : list[Ann], anns_b : list[Ann]) ->list[Ann] :
 		if sup is None :
 			res_b.append(ann_b)
 		else :
-			sup.metadata["category"] += ann_b.metadata["category"]
+			if "category" in ann_b.metadata :
+				if "category" not in sup.metadata :
+					sup.metadata["category"] = []
+				sup.metadata["category"] += ann_b.metadata["category"]
 
 	return sorted( res_a + res_b , key = lambda it : it.beg )
 

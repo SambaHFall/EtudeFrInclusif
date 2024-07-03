@@ -1,0 +1,188 @@
+L’attitude personnelle et la moralité d’une créature sont symbolisées par son alignement qui peut être : loyal bon, neutre bon, chaotique bon, loyal neutre, neutre, chaotique neutre, loyal mauvais, neutre mauvais ou chaotique mauvais.
+L’alignement est un outil qui permet de développer la personnalité du personnage, ce n’est pas un carcan destiné à le contraindre. Chaque alignement regroupe des caractères, voire des philosophies de vie, fort différents, ce qui veut dire que deux personnages de même alignement peuvent se comporter de manière très différente. Il est bien rare qu’un personnage se comporte toujours comme le voudrait son alignement.
+Toutes les créatures possèdent un alignement qui sert également à déterminer l’efficacité de certains sorts et objets magiques.
+Les animaux et les créatures incapables d’émettre un jugement moral sont neutres. Même les vipères et les tigres mangeurs d’hommes sont neutres car leur intelligence restreinte ne leur permet pas de faire la distinction entre le Bien et le Mal. Les chiens sont peut-être obéissants et les chats individualistes, mais ils n’ont pas les capacités morales nécessaires pour être loyaux ou chaotiques.
+Table des Matières [Cacher/Visualiser]
+Le Bien et le Mal
+La Loi et le Chaos
+Les « étapes » d’alignements
+Les neuf alignements
+Loyal Bon
+Neutre Bon
+Chaotique Bon
+Loyal Neutre
+Neutre
+Chaotique Neutre
+Loyal Mauvais
+Neutre Mauvais
+Chaotique Mauvais
+Changer d’alignement
+Changement d'alignement forcé
+Le Bien et le Mal ¶
+Les personnages et les créatures d’alignement Bon défendent les innocents, tandis que les individus d’alignement Mauvais cherchent à les corrompre ou à les détruire pour le plaisir ou pour le profit.
+Le Bien est synonyme d’altruisme, de respect de la vie et d’égards vis à vis de la dignité des autres êtres intelligents. Les personnages bons sont prêts à faire des sacrifices pour aider les autres.
+Le Mal implique de blesser, d’opprimer et de tuer les autres. Certaines créatures d’alignement mauvais ignorent simplement la compassion et tuent sans remords quand cela les arrange. D’autres cherchent activement à faire le mal, tuent pour le plaisir ou pour obéir à un dieu ou un maître maléfique.
+Les individus qui se disent Neutres par rapport au Bien et au Mal refusent de tuer les innocents mais ne sont pas pour autant disposés à faire le moindre sacrifice pour défendre ou aider leur prochain.
+La Loi et le Chaos ¶
+Les personnages Loyaux ne mentent jamais, ils sont fidèles à leur parole, ils respectent l’autorité, ils sont fidèles aux traditions et ils jugent ceux qui manquent à leur devoir. Au contraire, les personnages Chaotiques obéissent à leur seule conscience, n’apprécient pas qu’on leur dise ce qu’ils doivent faire, préfèrent les idées neuves aux traditions et tiennent leurs promesses quand ils en ont envie.
+La Loi défend l’honneur, la confiance, l’obéissance à l’autorité en place et la fiabilité. En revanche, elle peut provoquer l’étroitesse d’esprit, le réactionisme, l’habitude de juger les autres et le manque d’adaptabilité. Ceux qui défendent la Loi affirment qu’elle seule peut donner naissance à une société où les gens se protègent mutuellement et prennent les bonnes décisions, sûrs que les autres agiront comme le devoir l’exige.
+Le Chaos est synonyme de liberté, d’adaptation permanente et de souplesse et il dérape généralement vers la témérité, l’irresponsabilité, un certain ressentiment contre l’autorité légitime et la propension à se livrer à des actes arbitraires. Ceux qui défendent le Chaos affirment que seule la liberté individuelle permet de s’exprimer pleinement et que ce n’est que si tout le monde en bénéficie que la société peut véritablement tirer profit du potentiel de chacun.
+Les gens Neutres vis à vis de la Loi et du Chaos sont naturellement respectueux de l’autorité, mais leur tempérament ne les pousse pas plus à obéir qu’à se rebeller. Ils sont honnêtes, mais les circonstances peuvent les pousser à mentir à ou à tromper leur prochain.
+Les « étapes » d’alignements ¶
+De temps à autre, les règles emploient le terme d’ « étapes » quand elles traitent des alignements. Dans ce cas, « étape » renvoie au nombre de différences entre deux alignements, comme montré dans le diagramme ci-dessous. Les « étapes » diagonales comptent pour deux. Par exemple, un personnage Loyal Neutre est à une étape d’un personnage Loyal Bon, et à trois étapes d’un personnage Chaotique Mauvais. L’alignement d’un prêtre doit se situer au maximum à une étape de celui de sa divinité.
+Loi Neutre Chaos
+Bien Loyal bon Neutre bon Chaotique bon
+Neutre Loyal neutre Neutre Chaotique neutre
+Mal Loyal mauvais Neutre mauvais Chaotique mauvais
+Les neuf alignements ¶
+Les diverses combinaisons entre le Bien, le Mal, et la Loi et le Chaos donnent naissance à neuf alignements. La description de chacun représente l’adhérent type de cet alignement. N’oubliez pas toutefois que les individus peuvent s’écarter de la norme et qu’un personnage n’est pas contraint de respecter à la lettre les préceptes de son alignement. Utilisez les descriptions suivantes comme un guide, pas comme des règles strictes.
+Les six premiers alignements, de Loyal Bon à Chaotique Neutre, s’adressent généralement aux personnages. Les trois suivants, les alignements maléfiques, sont habituellement réservés aux monstres et autres ennemis des personnages. Avec l’accord du MJ, un joueur peut choisir un alignement Mauvais pour son personnage, bien que de tels personnages sont souvent sources de conflits et de disputes avec les membres du groupe Neutres ou Bons. Avant d’accepter un personnage Mauvais, il est conseillé au MJ de réfléchir avec soin aux implications que cela aura dans sa campagne.
+Loyal Bon¶
+Un personnage Loyal Bon se comporte comme on l’attend d’un défenseur de l’ordre et de la Loi. Déterminé à lutter contre le Mal, il est suffisamment discipliné pour ne jamais cesser le combat. Il dit toujours la vérité, reste fidèle à la parole donnée, aide ceux qui sont dans le besoin et se dresse contre l’injustice. Il déteste voir les coupables impunis et s’élève contre l’injustice.
+L’alignement Loyal Bon mêle honneur et compassion.
+La justice est tout. L’honneur est mon armure. Qui commet un crime en répondra. Sans foi ni loi, il n’est que chaos. Je suis la lumière, la lame de la droiture. Mon ennemi devra payer. Le bien est une force. Mon âme est pure. Ma parole est vérité.
+Concepts de base. Devoir, équité, honneur, propriété, responsabilité, bien, vérité, vertu, mérite.
+Le personnage Loyal Bon croit en l’honneur. Il est guidé par un code ou une foi en lequel (ou laquelle) il croit de toutes ses forces. Il préfèrerait mourir plutôt que de trahir cette foi et les disciples les plus fanatiques de cet alignement seraient prêts (voire heureux) de devenir des martyrs.
+Un personnage Loyal Bon situé à l’extrémité du spectre Loyal-Chaotique peut apparaître sans pitié. Il peut être obsédé par l’idée de rendre la justice et se concentrer uniquement sur la traque d’un ennemi, quitte à poursuivre un dragon malfaisant tout autour du monde ou à pourchasser un diable jusqu’aux Enfers. Il peut apparaître comme un tyran, inflexible dans sa détermination à réaliser ses objectifs, et peut considérer les gens moins dévoués comme des faibles. Bien qu’il puisse sembler austère, voire dur, il est toujours constant, œuvrant en accord avec sa doctrine ou sa religion. Il vit dans un monde d’ordre, obéit à ses supérieurs et il est presque incapable de croire qu’il existe le moindre mal en eux. Ce genre d’imposteurs le dupent plus facilement mais, au final, il veillera à ce que justice soit rendue, par sa propre main si nécessaire.
+Neutre Bon¶
+Un personnage Neutre Bon fait de son mieux pour faire le bien. Il fait son possible pour aider les autres. Il travaille main dans la main avec les rois et les juges mais il ne se sent pas tenu de leur obéir.
+Être Neutre Bon permet de faire le Bien sans être bloqué par le carcan de la Loi.
+Je fais de mon mieux. Vois le bien en chacun. Aide les autres. Œuvre au plus grand bien. Mon âme est bonne, qu’importe mon apparence. Ne jugez jamais un livre à sa couverture. La dévotion à la bonté de la vie ne nécessite aucun assentiment. La charité commence chez soi. Soyez bons.
+Concepts de base. Bienveillance, charité, prévenance, bonté, humanité, gentillesse, raison, bien.
+Le personnage Neutre Bon est bon mais contraint à nul ordre. Il voit le bien où il le peut mais sait que le mal existe, même dans le plus ordonné des lieux. Le personnage Neutre Bon fait tout son possible et travaille avec qui il peut au nom du bien de tous. Il se consacre souvent à devenir quelqu’un de bon et fait tout ce qu’il peut pour y parvenir. Il peut pardonner à un individu Mauvais s’il pense que celui-ci s’est repenti et il croit qu’en chaque être existe une étincelle de bonté.
+Chaotique Bon¶
+Un personnage Chaotique Bon agit selon sa conscience, sans se soucier de ce que les autres pensent de lui. Il se comporte comme il l’entend, mais cela ne l’empêche pas d’être gentil et bienveillant. Il croit à la bonté et au bon droit mais se moque des lois et des règles. Il déteste les gens qui intimident les autres et leur disent comment se comporter. Il suit sa propre morale qui, bien que bienveillante, ne s’accorde pas forcément avec celle de la société.
+L’alignement Chaotique Bon conjugue bonté et esprit libre.
+Mon âme est bonne mais libre. Les lois n’ont nulle conscience. L’ordre aveugle encourage l’anarchie. La bonté ne s’apprend pas simplement dans les livres de prières. La compassion ne porte pas d’uniforme. L’acte de bonté même le plus infime n’est jamais perdu. Récompensez la gentillesse par la gentillesse. Soyez bons avec celui qui est en difficulté : demain, ce sera peut-être à vous que cette bienveillance manquera.
+Concepts de base. Bienveillance, charité, liberté, joie, gentillesse, clémence, cordialité.
+Le personnage Chaotique Bon chérit la liberté et son droit à suivre sa propre voie. Il peut avoir une éthique et une philosophie qui lui sont propres mais elles ne le régissent pas de manière rigide. Il essaye de faire le bien chaque jour, en faisant preuve de gentillesse face à un étranger ou en donnant de l’argent aux malheureux, mais il ne le fait que par pur plaisir. Ces personnages se font leur propre idée de ce qui est bon et bien en s’appuyant sur la vérité et les faits, mais ils savent bien que les actes mauvais n’ont jamais rien de bon. Leur bonté est bienveillante, parfois aveugle, mais toujours bien intentionnée.
+Le personnage Chaotique Bon peut paraître imprévisible, capable de donner l’aumône à un étranger dans la rue tout en refusant de faire une donation à une église. Il fait confiance à ses instincts et peut accorder plus de crédit aux paroles d’un mendiant au regard tendre qu’aux enseignements d’un évêque au regard dur. Il peut voler aux riches pour donner aux pauvres comme il peut dépenser sans compter pour son propre bonheur et celui de ses amis. Dans les cas extrêmes, les personnages Chaotiques Bons peuvent sembler irréfléchis dans leur bienveillance.
+Loyal Neutre¶
+Un personnage Loyal Neutre agit selon la loi, la tradition ou son code de conduite personnel. L’ordre et l’organisation représentent tout pour lui. Il se peut qu’il croit en l’ordre individuel et vive selon un code ou une règle ou qu’il croit en l’ordre général et privilégie un gouvernement fort et organisé.
+Un individu Loyal Neutre est fiable et honorable sans pour autant être fanatique.
+L’ordre engendre l’ordre. Ma parole est promesse. Le chaos détruira le monde. Tenez les rangs. Je ne vis que par mon code et mourrai par lui. La tradition doit perdurer. L’ordre est le fondement de toute culture. Je suis mon propre juge.
+Concepts de base. Harmonie, loyauté, ordre, organisation, rang, règle, système, tradition, parole.
+Le personnage Loyal Neutre admire l’ordre et la tradition ou cherche à vivre selon un certain code. Il craindra sûrement le chaos et l’anarchie et son expérience passée lui aura peutêtre donné de bonnes raisons pour cela. Le Loyal Neutre ne s’inquiète pas tant de savoir qui le dirige tant que ce dirigeant assure sécurité et de celle de ses compatriotes, et il trouve un profond réconfort dans la normalité de la société. Il peut admirer le plus fort des dirigeants et le plus dur des châtiments si cela permet de maintenir l’ordre comme il peut soutenir les guerres lancées contre les autres nations même si son propre pays se pose en violent envahisseur : la droiture de l’action militaire est son seul souci.
+Le Loyal Neutre qui suit son propre code ne l’enfreint jamais délibérément et peut devenir un martyr pour le défendre.
+Neutre¶
+Un personnage neutre fait ce qui lui semble une bonne idée. Il n’a pas vraiment de préférence lorsqu’il s’agit de choisir entre le Bien et le Mal ou entre la Loi et le Chaos (c’est ainsi que le personnage Neutre est parfois qualifié de « Neutre absolu »). Dans la plupart des cas, la neutralité représente une absence de convictions plutôt qu’un véritable dévouement envers la neutralité. Le personnage aurait ainsi plutôt tendance à penser que le Bien vaut mieux que le Mal, car il préfère que ses voisins et ses dirigeants politiques se montrent bienveillants plutôt que malveillants. Cela étant, il ne se sent nullement obligé de défendre la cause du Bien, ni en pratique ni en théorie.
+En revanche, chez certains, la neutralité est un choix philosophique. Pour eux, le Bien, le Mal, la Loi et le Chaos sont partiaux et représentent un danger, comme tous les extrêmes. Ils prônent donc l’équilibre, qui leur paraît être le meilleur choix à long terme.
+Être Neutre permet d’agir naturellement en toute situation, sans se laisser guider par ses préjugés ou ses obligations.
+Nos caprices et désirs n’ont nulle importance au regard de la roue du monde qui ne cesse de tourner. Je suis ce que je suis. Ne faites confiance à nul autre qu’à vos amis et aux vôtres. La roue tourne malgré nous. Les systèmes vont et viennent. Les empires disparaissent. Le temps guérit tout. Les saisons jamais ne changent. Le soleil se fiche du monde sur lequel il se lève.
+Concepts de base. Équilibre, cycles, égalité, harmonie, impartialité, fatalité, nature, saisons.
+Le personnage Neutre est particulier en cela qu’il peut avoir l’une de ces deux philosophies différentes : il peut être Neutre par méfiance ou apathie à l’égard des autres ou parce qu’il souhaite adopter la neutralité la plus parfaite face au monde et rejette tout extrémisme.
+Le personnage Neutre pourrait apparaître égoïste ou désintéressé. Il pourrait être avant tout motivé par l’acceptation du destin et les disciples les plus extrémistes de cet alignement deviennent des ermites qui se cachent des fanatiques du monde. Certains personnages Neutres luttent néanmoins ouvertement pour la neutralité et rejettent toute action penchant de manière trop extrême vers un quelconque alignement. Ces individus s’enorgueillissent de suivre leur voie en évoluant entre la loi et le chaos, le bien et le mal. Ils peuvent avoir une conception fataliste des choses face à la nature et à la puissance fondamentale du jour et de la nuit.
+Chaotique Neutre¶
+Un personnage Chaotique Neutre agit comme bon lui semble. C’est avant tout un individualiste. Il accorde une immense valeur à sa liberté mais il ne cherche pas à protéger celle des autres. Il évite l’autorité, déteste les restrictions et remet toujours la tradition en question. Sa lutte contre la société organisée n’est pas motivée par un désir d’anarchie car cette volonté devrait s’accompagner d’idées nobles (libérer les opprimés du joug de l’autorité) ou mauvaises (faire souffrir ceux qui sont différents de lui). Le personnage est parfois imprévisible mais son comportement n’est pas complètement aléatoire. Il est nettement plus probable qu’il traverse un pont plutôt qu’il en saute.
+Être Chaotique Neutre permet de profiter de la véritable liberté, celle qui ne suit pas les restrictions imposées par la société, et n’oblige pas à faire le bien à tout prix.
+Pierre qui roule n’amasse pas mousse. Aujourd’hui seul existe. Comme le vent, laissez-vous porter là où le sort le décide. Qui lutte contre le destin s’expose à la folie. On ne vit qu’une seule fois. Pouvoir à ceux qui ne cherchent pas le pouvoir. Évitez toute chose portant l’uniforme. Défiez les ordres anciens.
+Concepts de base. Caprice, destin, liberté, individualité, latitude, auto-appartenance, imprévisibilité.
+Le personnage Chaotique Neutre chérit sa propre liberté et sa capacité à faire des choix. Il évite toute autorité et ne craint pas de se démarquer ou d’apparaître différent. Dans les cas extrêmes, il lui arrive d’embrasser un mode de vie complètement adapté à sa personne : il peut vivre dans une grotte près de la ville, devenir un artiste ou défier les traditions de quelque autre manière. Il ne prend jamais rien pour argent comptant, préférant se faire sa propre opinion plutôt que d’accepter aveuglément ce que les autres lui disent de faire ou de penser.
+Loyal Mauvais¶
+Un individu Loyal Mauvais prend tout ce qu’il désire, dans les limites de son code de conduite sans se soucier de ceux à qui il peut faire du mal. Pour lui, les traditions, la loyauté et l’obéissance ont de l’importance, mais pas la liberté ni la dignité ou la vie. Il suit les règles existantes, mais ne montre ni pitié ni compassion. Il accepte la hiérarchie, et, même s’il préfère diriger, il est prêt à obéir. Il condamne les autres, non pas en fonction de leurs actes, mais en fonction de leur race, de leur religion, de leur nationalité ou de leur rang social. Il répugne à violer la Loi ou à trahir sa parole.
+Cette répugnance lui vient en partie de sa nature et en partie de sa dépendance vis à vis l’ordre établi pour se protéger de ceux qui s’opposent à lui sur des questions d’ordre moral. Certains Loyaux Mauvais se fixent eux-mêmes des limites, telles que ne jamais tuer de sang-froid (ils chargent leurs sbires de le faire à leur place) ou ne pas maltraiter les enfants (sauf lorsqu’il est impossible de faire autrement). Ils pensent que ces règles de conduite les placent au-dessus des scélérats sans scrupules.
+Il arrive que des individus ou des créatures se dévouent au mal avec le même zèle que les croisés des forces du Bien. En plus de nuire aux autres par intérêt, ils prennent plaisir à promouvoir la cause du Mal. Il arrive qu’ils fassent le mal pour servir leur dieu ou leur maître.
+L’alignement Loyal Mauvais représente un Mal méthodique, intentionnel et organisé.
+Un jour, je règnerai. Le chef fort suscite l’admiration, le chef faible se fait renverser. J’ai des principes et j’ai raison. Le chaos engendre la mort. Il n’y a que l’ordre et l’oubli dans ce monde. Toute hiérarchie doit être crainte et respectée. Les faibles ne suivront que les dirigeants sûrs. Le péché est satisfaction. Tout le monde a ses vices.
+Concepts de base. Calcul, discipline, malveillance, puissance, châtiment, rationalité, soumission, terreur.
+Le personnage Loyal Mauvais n’est motivé que par ses propres intérêts dans tout ce qu’il fait, mais il sait qu’au final, l’ordre le protège. Il ne cherche qu’à accomplir ses propres objectifs, mais par l’ordre, non par le chaos. Même bouillonnant de colère, il sera plus susceptible de mettre au point une vengeance minutieuse que de risquer sa vie en se lançant dans des actions irréfléchies. Il lui faudra parfois des années avant que sa vengeance ne prenne effet, mais il l’accepte.
+Un personnage Loyal Mauvais poussé à l’extrême se montre fanatique dans ses objectifs et fera tous les sacrifices nécessaires pour les atteindre. Sa philosophie malsaine peut le rendre paranoïaque à l’égard de ses disciples les plus proches, y compris de sa famille et de ses amis. Rien ne l’arrête dans sa quête de contrôle car seul le contrôle peut lui apporter la paix. Mais même la plus puissante et ordonnée des sociétés a des ennemis et seule la destruction de ces ennemis peut apporter satisfaction à un individu Loyal Mauvais. L’ordre est tout, quel qu’en soit le prix.
+Neutre Mauvais¶
+Un individu Neutre Mauvais fait tout ce qu’il veut tant qu’il peut s’en tirer. Il ne pense tout simplement qu’à lui. Il se moque de tuer des gens par profit, pour le plaisir, ou parce que cela l’arrange. Il n’apprécie pas particulièrement l’ordre et pense que le respect de la Loi, d’un code de conduite ou des traditions ne le rendra pas meilleur ou plus noble. Il ne montre pas une nature agitée et n'est pas pour la recherche de conflits caractéristique des êtres Chaotiques Mauvais.
+Certains individus Neutres Mauvais érigent le Mal en idéal et s’y dévouent corps et âme. La plupart du temps, ils se consacrent à un dieu ou à une société secrète maléfique.
+L’alignement Neutre Mauvais représente le Mal à l’état brut, sans honneur ni nuance.
+Je suis l’élément le plus important de la création. Faites ce que bon vous semble, mais ne vous faites jamais prendre. La conscience est pour les anges. Le mal pour le mal. Le vice est sa propre récompense. Le pécheur profite de sa vie. Le mal n’est qu’un mot. Les autres m’envient ma liberté, ma vie sans conscience.
+Concepts de base. Désir, immortalité, besoin, égoïsme, péché, vice, cruauté, vilenie, malice.
+Motivé par ses propres besoins et désirs, le personnage Neutre Mauvais n’a aucune conscience, il n’agit que pour sa propre satisfaction. Il peut très bien se parer des atours des cultes et du mal mais uniquement parce que lui donne accès au péché et à la malice. Là où un individu Loyal Mauvais sera enclin à marchander et où un Chaotique Mauvais sera enclin à se déchaîner, un individu Neutre Mauvais ne s’intéressera qu’à sa propre personne.
+De bien des manières, il incarne le mal puisqu’il ne conçoit aucune loyauté évidente pour autre chose que son intérêt personnel et absolu. Un personnage Neutre Mauvais extrémiste sera souvent un solitaire puisqu’il aura trahi ou tué tous ceux qui auront appris à presque le connaître.
+Chaotique Mauvais¶
+Un individu Chaotique Mauvais suit sa cupidité, sa haine et sa soif de destruction. Il s’énerve facilement, il est sadique, violent et complètement imprévisible. S’il veut quelque chose pour lui, il se montre simplement brutal et impitoyable mais s’il s’est donné pour objectif de répandre le Mal et le Chaos, c’est encore pire. Fort heureusement, ses plans sont désorganisés et les groupes qu’il constitue ou auxquels il se joint sont très mal structurés. La plupart du temps, les êtres Chaotiques Mauvais ne coopèrent que sous la menace et leur chef reste place uniquement tant qu’il survit aux tentatives visant à le renverser ou l’assassiner.
+Les êtres Chaotiques Mauvais représentent la destruction, non seulement de la beauté et de la vie, mais aussi de l’ordre sur lequel cette beauté et cette vie s’appuient.
+Ce que je veux, je le prends. La force est juste. Les forts dirigent les faibles. Respectez-moi ou souffrez. Il n’y a que le moment présent et, aujourd’hui, je prends ce qu’il me faut. La colère fait ressortir ce qu’il y a de meilleur en moi. Je suis le plus fort.
+Concepts de base. Anarchie, colère, amoralité, brutalité, chaos, dépravation, liberté, blasphème, violence.
+Le personnage Chaotique Mauvais est entièrement guidé par sa colère et ses besoins. Il est inconséquent dans ses actions et n’agit que selon ses caprices, quelles que soient les souffrances infligées aux autres. De bien des façons, sa nature le condamne à être imprévisible. Il est semblable au brasier incontrôlé, à l’arrivée de la tempête, à la lame de l’épée qui n’a pas encore été éprouvée.
+Un personnage Chaotique Mauvais extrémiste aura tendance à s’entourer d’individus partageant sa façon de penser, non pas à cause d’un besoin quelconque de compagnie mais pour la familiarité qu’il trouve dans tout ce chaos et il se délecte d’être en parfait accord avec sa vraie nature aux côtés de ceux qui partagent son ravissement.
+Changer d’alignement ¶
+L’alignement est une étiquette bien pratique qui permet de résumer l’attitude générale d’un PNJ, d’une région, d’une religion, d’une organisation, d’un monstre ou même d’un objet magique.
+Certaines classes donnent une liste des conséquences qui se répercutent sur les personnages qui n’adhèrent pas à un alignement spécifique. Certains sorts et objets magiques ont des effets différents en fonction de l’alignement de leur cible mais, en dehors de cela, il n’est pas nécessaire de s’inquiéter outre mesure si une personne ne se comporte pas tout à fait comme son alignement l’exige. C’est au MJ de décider si quelque chose est en accord ou non avec l’alignement donné, en se basant sur la description donnée précédemment et sur sa propre interprétation : le MJ doit uniquement veiller à être cohérent quand il décide de ce qui différencie un Chaotique Neutre d’un Chaotique Mauvais. Il n’existe pas de mécanisme clair et défini pour mesurer un alignement, contrairement aux points de vie, aux rangs de compétence ou à la classe d’armure, c’est une notion que le MJ est seul à contrôler.
+Il vaut mieux laisser les joueurs jouer comme ils l’entendent. Si le personnage d’un joueur se comporte d’une manière que vous, MJ, trouvez en désaccord avec son alignement, dites-lui qu’il n’agit pas selon son alignement et expliquez-lui pourquoi. Mais faites-le de manière amicale. Si un personnage veut changer d’alignement, laissez-le faire. Dans la plupart des cas, cela n’entraîne qu’un changement de personnalité, voire aucun si le changement vise juste à adapter l’alignement afin que celui-ci représente mieux la manière dont le personnage se comporte. Dans certains cas, un changement d’alignement se répercute sur les pouvoirs du personnage (consultez la description des classes). Un sort de pénitence peut être nécessaire pour rétablir un alignement malmené de façon involontaire ou par un changement de personnalité passager.
+Les personnages qui changent souvent l’alignement de leur personnage devraient, en toute logique, jouer des Chaotiques Neutres.
+Règles du Guide de campagne¶
+Les intermèdes
+L'acquisition des capitaux
+Les phases d'intermède
+Les activités d'intermède
+Les gestionnaires
+Salles et employés
+Bâtiments et organisations
+Les évènements d'intermède
+Les systèmes de campagne
+L’alignement
+Le marchandage
+Les compagnons
+Les contacts
+L’exploration (GC)
+L’honneur
+L’investissement
+La lignée
+La création d’objets magiques
+Les relations
+Réputation et renommée
+La retraite
+Le réapprentissage
+La taxation
+Les jeunes personnages
+Les royaumes et la guerre
+Fonder un royaume
+Les responsables gouvernementaux
+Les points de construction
+Un tour de royaume
+Les édits
+La perte d'hexagones
+Les améliorations de terrain
+Les communautés et les quartiers
+Les bâtiments
+Les évènements
+Les règles de royaume optionnelles
+Les bâtiments abandonnés
+Les divinités et les sites sacrés
+Les édits spéciaux
+Gloire et Infamie
+Les différentes formes de gouvernement
+Indépendance et unification
+Les compétences des membres du gouvernement
+Taille de la communauté
+Les divers types de relations diplomatiques
+Développer les modificateurs de communauté
+Le combat de masse
+Les phases d'une bataille
+L'échelle de stratégie
+Attaquer et subir des dégâts
+Les conditions du champ de bataille
+La récupération
+Les personnages joueurs dans les batailles
+Les tactiques des armées
+La victoire, la déroute et la défaite
+Les commandants
+Les ressources des armées
+Les pouvoirs spéciaux
+Exemples d'armées
+Les règles optionnelles du combat de masse
+Avec le temps, il arrive qu’un personnage perde toutes ses illusions et s’engage sur la voie d’un nouvel alignement. Cette partie présente un système optionnel destiné à suivre l’évolution des changements incrémentiels apportés à l’alignement du personnage.
+Chaque personnage se place sur une échelle de 9 points sur l’axe d’alignement Loyal-Chaotique : 1, 2 et 3 représentent le côté Loyal ; 7, 8 et 9 représentent le côté Chaotique ; le reste représente le côté Neutre. De la même manière, chaque personnage s’inscrit sur une échelle similaire sur l’axe d’alignement Bon-Mauvais, 1, 2 et 3 représentant le côté Bon, 7, 8 et 9 représentant le côté Mauvais.
+Le joueur décide de la position de son personnage sur ces échelles d’alignement. Par exemple, un roublard malicieux au grand cœur peut se placer à 7 sur l’axe Loyal-Chaotique et à 2 sur l’axe Bon-Mauvais : c’est un personnage Chaotique Bon davantage bon que chaotique. Un chevalier cruel mais honorable pourrait être à 1 sur l’axe Loyal-Chaotique et à 7 sur l’axe Bon-Mauvais, ce qui en ferait un personnage Loyal Mauvais bien plus loyal que mauvais.
+Quand un personnage effectue une action extérieure à celles indiquées pour son alignement, il appartient au MJ de décider si cette action suffit à faire évoluer son alignement sur l’axe approprié et, si tel est le cas, de combien de points. L’exécution d’un combattant orque fait prisonnier afin que les PJ n’aient pas à le traîner jusqu’à une prison lointaine peut ne constituer qu’un seul pas vers le mal, mais le fait de torturer un otage pour obtenir des informations peut correspondre à deux pas. Pour les infractions mineures, le MJ peut se contenter d’avertir le personnage que d’autres actions similaires modifieront son alignement. Les actes extrêmes et délibérés, comme brûler un orphelinat plein d’enfants pour le seul plaisir de le faire, devraient conduire le personnage aux extrêmes de son alignement, quelle que soit sa position d’origine sur l’axe.
+Quand la position d’un personnage sur un axe d’alignement bascule du côté opposé (passant de 3 à 4 ou de 7 à 6), assignez-lui son nouvel alignement. Le personnage subit un malus de -1 à tous ses jets d’attaque et de sauvegarde ainsi qu’à ses tests de compétences à cause de la culpabilité, des regrets ou de l’infortune associée à l’abandon de ses anciens préceptes moraux. Ce malus disparaît au bout d’une semaine. Notez que le personnage se situe encore « à la limite » de son ancien alignement et que ses actions futures pourraient l’y reconduire, ce qui lui vaudrait de nouveau un malus de -1 pendant une semaine : il est donc dans l’intérêt du personnage, quand son alignement change, d’agir en accord avec celui-ci et d’embrasser ses nouvelles croyances et sa nouvelle philosophie. Ce malus se cumule avec toutes les autres conséquences éventuelles du changement d’alignement (comme, par exemple, devenir un prêtre ou un paladin déchu).
+Techniquement, pour renforcer la position du personnage sur une section donnée de l’axe d’alignement, il faut fournir plus d’efforts que de simplement interpréter le personnage. Quelqu’un qui porte un peu de bien en lui (3) doit travailler dur pour devenir très bon (1) : même une vie d’actes moyennement bons ne suffit pas. Si le personnage fait de gros efforts pour améliorer ou maintenir son alignement, c’est au MJ de décider si cela mérite un changement pour les points « les plus sûrs » de l’axe d’alignement (1, 5 et 9), sur lesquels la plupart des actes hors-alignement ne risquent pas d’entraîner une modification immédiate d’alignement. Ceci permet d’empêcher les joueurs de déjouer le système en compensant les mauvaises actions mineures avec un nombre équivalent de bonnes actions mineures afin de rester dans la bonne tranche de l’axe d’alignement Bon-Mauvais.
+Un changement d’alignement forcé (avec, par exemple, un casque de changement d’alignement) change la position du personnage sur chaque axe d’alignement pour son opposé (1 devient 9, 2 devient 8, etc.) : un personnage parfaitement Neutre passerait aux extrêmes sur les deux axes d’alignement (1/1, 1/9, 9/1 ou 9/9). Contrairement aux changements d’alignement délibérés, un changement d’alignement forcé n’implique pas de malus de -1 pendant une semaine aux jets d’attaque, de sauvegarde et aux tests de compétences.
+L’utilisation d’un sort de pénitence déplace la position du personnage sur l’axe d’alignement du nombre de point minimum requis pour que le personnage retrouve son ancien alignement. Par exemple, un paladin déchu utilisant pénitence pour redevenir Bon se place sur le 3 de l’axe Bon-Mauvais même s’il était à l’origine à 2 ou 1. Ce sort est un moyen d’inverser le pire résultat d’une imprudence, non de bénéficier d’un tampon de sécurité sur une section de l’axe d’alignement. Il pousse le personnage à s’enraciner dans les principes de son alignement restauré. L’utilisation de l’option « inversion magique d’un changement d’alignement » du sort de pénitence n’impose pas à la cible le malus normal du changement d’alignement aux jets d’attaques, de sauvegarde et aux tests de compétences mais l’acceptation de l’option « rédemption ou tentation » si.
+Un MJ qui souhaiterait mener une campagne plus réaliste ou donner plus de souplesse au changement d’alignement peut altérer la taille des sections d’alignement (où tout serait Neutre à l’exception du 1 et du 9), utiliser une échelle à plus de 9 points autorisant une graduation plus large pour la quantification des actes d’alignement ou créer des zones de transition, entre les sections d’alignement, permettant aux personnages de changer peu à peu d’alignement sans subir de malus.
+Changement d'alignement forcé¶
+Quand le changement d’alignement forcé est purement arbitraire (si, par exemple, il résulte d’une malédiction ou d’un objet magique), certains joueurs peuvent le voir comme une occasion d’explorer une nouvelle manière d’interpréter leur personnage, mais la plupart des joueurs préfèrent le concept original de leurs personnages et cherchent à revenir à la normale dès qu’ils le peuvent. Le MJ devrait éviter de faire un usage excessif des changements d’alignement forcés ou alors en faire des situations temporaires (comme un scénario où les personnages seraient dominés par une entité maléfique, pour n’en être libérés qu’une fois que celle-ci a atteint un objectif particulier). N’oubliez pas que si les joueurs voulaient incarner des personnages d’alignement différent, ils auraient demandé à les jouer et que les changements radicaux ruinent nombre de concepts de personnages.
+Certaines classes perdent des pouvoirs de classe quand le personnage change d’alignement. Les changements d’alignement peuvent s’avérer intéressants pour les aventures courtes, comme par exemple libérer un moine de la malédiction d’un dieu singe chaotique, mais ces situations devraient rester exceptionnelles. Dans certains cas, le changement d’alignement peut altérer le personnage comme on détruirait le grimoire d’un magicien ou comme on amputerait un archer de son bras : les cicatrices sont durables, difficiles à effacer et finissent par punir le joueur.
+Le contenu officiel de ce wiki appartient à et a été utilisé avec l'autorisation de Black Book Editions.
+Pathfinder-RPG est une création de Paizo Publishing.
+Vous pouvez réemployer des extraits du texte officiel à condition de mentionner clairement des liens vers Paizo Publishing,Black Book Editions et Pathfinder-FR
+Ce site se base sur les licences Open Game License et Pathfinder Community Use Policy.
+La gamme Pathfinder est une création de Paizo Publishing traduite en français par Black Book Editions.
+Ce site se base sur les licences Open Game License et Pathfinder Community Use Policy et les conditions d'utilisation BBE.

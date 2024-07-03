@@ -1,0 +1,104 @@
+Les gendarmes ont procédé vendredi à une troisième perquisition au conseil général des Bouches-du-Rhône
+Accès au menu d’accessibilité
+aller au contenu principal
+aller au menu de navigation
+aller au moteur de recherche
+aller au direct tv
+aller au direct radio
+franceinfo
+Navigation média
+vidéos
+radio
+jt
+magazines
+TV
+Radio
+Le live
+Rechercher
+Navigation par rubrique
+accueil
+le live
+direct tv
+direct radio
+vidéos
+radio
+jt
+magazines
+Accueil
+politique
+vrai ou fake
+société
+faits-divers
+santé
+éco/conso
+monde
+europe
+culture
+sport
+environnement
+météo
+LE LIVE
+Cet article date de plus de dix ans.
+Les gendarmes ont procédé vendredi à une troisième perquisition au conseil général des Bouches-du-Rhône
+Cette procédure, qui concerne notamment Alexandre Guérini, frère cadet du sénateur socialiste Jean-Noël Guérini, a été menée dans l'enquête visant des marchés publics présumés frauduleux.Alexandre Guérini est mis en examen pour abus de biens sociaux, détournement de biens publics, recel de détournement de fonds publics, corruption active".
+Article rédigé par
+France2.fr avec Reuters
+France Télévisions
+Publié le 17/06/2011 17:20
+Temps de lecture : 1 min.
+La commission d'enquête interne du PS sur les pratiques de Jean-Noël Guérini doit rendre ses conclusions le 28 juin. (AFP / Anne-Christine POUJOULAT)
+Cette procédure, qui concerne notamment Alexandre Guérini, frère cadet du sénateur socialiste Jean-Noël Guérini, a été menée dans l'enquête visant des marchés publics présumés frauduleux.
+Alexandre Guérini est mis en examen pour abus de biens sociaux, détournement de biens publics, recel de détournement de fonds publics, corruption active".
+Les gendarmes ont saisi plusieurs documents relatifs aux conditions de la préemption par le conseil général de terrains jouxtant la décharge du Mentaure à La Ciotat en 2004, selon La Provence.
+L'achat de ces terrains par l'institution départementale avait permis l'extension de la décharge, gérée par la communauté d'agglomération d'Aubagne et exploitée par la SMAE, une société appartenant à Alexandre Guérini.
+Par ailleurs, une conseillère du président du conseil général chargée des questions juridiques a été placée en garde vue, mardi durant plusieurs heures à Marseille, pour être questionnée sur ces questions de préemption.
+Voir les commentaires
+Partager :
+Partager sur Twitter
+Partager sur Facebook
+Partager par mail
+Partager le lien
+actualités analyses vidéos
+Prolongez votre lecture autour de ce sujet
+tout l'univers Politique
+articles sur le même thème
+En raison d'un appel à la grève de l'intersyndicale SNJ et SNJ-CGT, à France Télévisions, le fonctionnement du site franceinfo.fr est perturbé mardi 30 novembre. Nous vous prions de nous en excuser.
+Météo : les prévisions en Bretagne pour le mardi 30 novembre
+Trophées du sport : Thomas Goyard élu sportif de l'année 2021
+Vidéo
+Covid Blues : un documentaire d'Itinéraires
+Covid-19 : un cas positif au variant Omicron confirmé à La Réunion
+les sujets associés
+Politique
+Vu d'Europe
+Franceinfo sélectionne chaque jour des contenus issus de médias audiovisuels publics européens, membres de l’Eurovision. Ces contenus sont publiés en anglais ou en français.
+contenus sponsorisés
+Commentaires :
+Connectez-vous à votre compte franceinfo pour participer à la conversation.
+Voir les commentaires
+Politique
+Newsletter
+toute l’actu dès 7h30
+Chaque matin à 7h30, recevez l'actu du jour dans votre boîte mail.
+renseignez votre adresse email
+s'abonner
+France Télévisions utilise votre adresse email afin de vous adresser des newsletters.
+Pour exercer vos droits, contactez-nous.
+Notre politique de confidentialité Contactez-nous
+Twitter (nouvel onglet) Facebook (nouvel onglet) Instagram (nouvel onglet) Youtube (nouvel onglet)
+le live
+direct tv
+direct radio
+Soyez alerté(e) en temps réel avec l'application franceinfo :
+App store
+Play store
+Télécharger l'application
+Politique de confidentialité
+CGU et mentions légales
+Gérer mes traceurs
+Nous contacter
+Qui sommes-nous?
+Charte déontologique
+Devenir annonceur
+Recrutement
+<",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); // ftvi script usabilla.ts is in charge of usabilla loading with correct ID // window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/[USABILLA_ID].js"); /*]]>{/literal}*/

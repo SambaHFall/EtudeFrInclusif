@@ -1,0 +1,122 @@
+... mais ce serait peut-être l'une des plus grandes opportunités manquées de notre époque si le logiciel libre ne libérait rien d'autre que du code
+4 Juin 2013	
+La nouvelle ère numérique selon Assange : l’âge de la surveillance généralisée ?
+par Goofy | Classé dans : Dégooglisons Internet, G.A.F.A.M. | 2
+ Temps de lecture 9 min
+Deux membres influents de Google (et donc d’Internet), Eric Schmidt et Jared Cohen, ont récemment publié le livre The New Digital Age (La Nouvelle ère numérique).
+Nous vous en proposons ci-dessous la critique cinglante de Julian Assange qui n’hésite pas à affirmer que « l’avancée des technologies de l’information incarnée par Google porte en elle la mort de la vie privée de la plupart des gens et conduit le monde à l’autoritarisme ».
+Lorsque Google s’associe ainsi avec le gouvernement américain, son fameux slogan a du plomb dans l’aile et la menace plane…
+La banalité du slogan de Google « Ne soyez pas malveillant »
+The Banality of ‘Don’t Be Evil’
+Julian Assange – 1er juin 2013 – New York Times
+(Traduction : Goofy, agui, P3ter, godu, yanc0, Guillaume, calou, Asta, misc, Gatitac, Martinien + anonymes)
+« La Nouvelle ère numérique » présente un programme étonnamment clair et provocateur de l’impérialisme technocratique, signé de deux de ses principaux apprentis-sorciers, Eric Schmidt et Jared Cohen, qui élaborent les nouveaux éléments de langage destinés à asseoir la puissance états-unienne sur le monde pour le 21e siècle. Ce langage reflète l’union sans cesse plus étroite entre le Département d’État et la Silicon Valley, incarnée par M. Schmidt, le président exécutif de Google, et par M. Cohen, un ancien conseiller de Condoleezza Rice et de Hillary Clinton, qui est maintenant directeur de Googles Ideas. Les auteurs se sont rencontrés dans le Bagdad occupé de 2009, où ils ont décidé d’écrire ce livre. En flânant parmi les ruines, ils furent excités à l’idée que les technologies de consommation de masse étaient en train de transformer une société laminée par l’occupation militaire des États-Unis. Ils ont décidé que l’industrie des technologies pourrait être un puissant agent de la politique étrangère américaine.
+Le livre fait l’apologie du rôle des technologies dans la refonte du monde des nations et des citoyens en un monde semblable à celui des superpuissances dominantes, de gré ou de force. La prose est laconique, l’argumentaire sans détour, la philosophie d’une banalité affligeante. Mais ce n’est pas un livre destiné à être lu. C’est une déclaration majeure destinée à nouer des alliances.
+« La Nouvelle ère numérique » est, au-delà de toute autre considération, une tentative par Google de se positionner comme incarnant une vision géopolitique de l’Amérique — la seule et unique entreprise capable de répondre à la question « Où doit aller l’Amérique ? ». Il n’est pas surprenant qu’une sélection imposante des plus farouches bellicistes ait été amenée à donner sa bénédiction à la puissance séduisante du « soft power » occidental. Il faut, dans les remerciements, donner une place de choix à Henry Kissinger, qui, avec Tony Blair et l’ancien directeur de la CIA Michael Hayden, a fait à l’avance les éloges du livre.
+Dans celui-ci, les auteurs enfilent avec aisance la cape du chevalier blanc. Un saupoudrage libéral de précieux auxiliaires de couleur politiquement corrects est mis en avant : des pêcheuses congolaises, des graphistes au Botswana, des activistes anti-corruption à San Salvador et des éleveurs de bétail masaïs analphabètes du Serengeti sont tous convoqués pour démontrer docilement les propriétés progressistes des téléphones Google connectés à la chaîne d’approvisionnement informationnelle de l’empire occidental.
+Les auteurs présentent une vision savamment simplifiée du monde de demain : les gadgets des décennies à venir ressembleraient beaucoup à ceux dont nous disposons aujourd’hui : simplement, ils seraient plus cool. Le « progrès » est soutenu par l’extension inexorable de la technologie de consommation américaine à la surface du globe. Déjà, chaque jour, un million d’appareils mobiles supplémentaires gérés par Google sont activés. Google, et donc le gouvernement des États-Unis d’Amérique, s’interposera entre les communications de chaque être humain ne résidant pas en Chine (méchante Chine). À mesure que les produits deviennent plus séduisants, de jeunes professionnels urbains dorment, travaillent et font leurs courses avec plus de simplicité et de confort ; la démocratie est insidieusement subvertie par les technologies de surveillance, et le contrôle est revendu de manière enthousiaste sous le terme de « participation » ; ainsi l’actuel ordre mondial qui s’appuie sur la domination, l’intimidation et l’oppression systématiques perdure discrètement, inchangé ou à peine perturbé.
+Les auteurs sont amers devant le triomphe égyptien de 2011. Ils jettent sur la jeunesse égyptienne un regard dédaigneux et clament que « le mélange entre activisme et arrogance chez les jeunes est universel ». Des populations disposant de moyens numériques impliquent des révolutions « plus faciles à lancer » mais « plus difficiles à achever ». À cause de l’absence de leaders forts, cela aboutira, ainsi l’explique M. Kissinger aux auteurs, à des gouvernements de coalition qui laisseront la place à l’autocratie. Selon les auteurs « il n’y aura plus de printemps » (mais la Chine serait dos au mur).
+Les auteurs fantasment sur l’avenir de groupes révolutionnaires « bien équipés ». Une nouvelle « race de consultants » va « utiliser les données pour construire et peaufiner une personnalité politique. »
+« Ses » discours et ses écrits seront nourris (ce futur est-il si différent du présent ?) « par des suites logicielles élaborées d’extraction d’informations et d’analyse de tendances » alors « qu’utiliser les fonctions de son cerveau », et autres « diagnostics sophistiqués » seront utilisés pour « évaluer les points faibles de son répertoire politique ».
+Le livre reflète les tabous et obsessions institutionnels du Département d’État (NdT : l’équivalent du Ministère des Affaires étrangères). Il évite la critique sérieuse d’Israël et de l’Arabie Saoudite. Il fait comme si, de manière extraordinaire, le mouvement de reconquête de souveraineté en Amérique Latine, qui a libéré tant de pays des ploutocraties et dictatures soutenues par les États-Unis ces 30 dernières années, n’avait jamais existé. En mentionnant plutôt les « dirigeants vieillissants » de la région, le livre ne distingue pas l’Amérique Latine au-delà de Cuba. Et bien sûr, le livre s’inquiète de manière théâtrale des croque-mitaines favoris de Washington : la Corée du Nord et l’Iran.
+Google, qui a commencé comme une expression de la culture indépendante de jeunes diplômés californiens — une culture du respect, humaine et ludique — en rencontrant le grand méchant monde, s’est embarqué avec les éléments de pouvoir traditionnels de Washington, du Département d’État à la NSA.
+Bien que ne représentant qu’une fraction infinitésimale des morts violentes à l’échelle mondiale, le terrorisme est un des sujets favoris des cercles politiques des États-Unis. C’est un fétichisme qui doit aussi être satisfait, et donc « Le Futur du Terrorisme » a droit à un chapitre entier. Le futur du terrorisme, apprenons-nous, est le cyberterrorisme. S’ensuit une série de scénarios complaisants et alarmistes, incluant un scénario haletant de film catastrophe dans lequel des cyber-terroristes s’emparent des systèmes de contrôle aérien américains et envoient des avions percuter des bâtiments, coupent les réseaux électriques et lancent des armes nucléaires. Les auteurs mettent ensuite les activistes qui participent aux manifs virtuelles dans le même panier.
+J’ai une opinion très différente à ce sujet. L’avancée des technologies de l’information incarnée par Google porte en elle la mort de la vie privée de la plupart des gens et conduit le monde à l’autoritarisme. C’est la thèse principale de mon livre, Cypherpunks (traduit en français sous le titre Menace sur nos libertés. Mais, tandis que MM. Schmidt et Cohen nous disent que la mort de la vie privée aidera les gouvernements des « autocraties répressives » à « cibler leurs citoyens », ils affirment aussi que les gouvernements des démocraties « ouvertes » la verront comme une bénédiction permettant de « mieux répondre aux problèmes des citoyens et des consommateurs ». En réalité, l’érosion de la vie privée en Occident et la centralisation du pouvoir qui lui est associée rendent les abus inévitables, rapprochant les « bonnes » sociétés des « mauvaises ».
+La section du livre relative aux « autocraties répressives » décrit nombre de mesures de surveillance répressives qu’elle condamne : les lois dédiées à l’insertion de « portes dérobées » dans des logiciels afin de rendre possibles l’espionnage de citoyens, la surveillance de réseaux sociaux et la collecte d’informations relatives à des populations entières. Toutes ces pratiques sont d’ores et déjà largement répandues aux États-Unis. En fait, certaines de ces mesures, comme celle qui requiert que chaque profil de réseau social soit lié à un nom réel, ont été défendues en premier lieu par Google lui-même.
+Tout est sous nos yeux, mais les auteurs ne peuvent le voir. Ils empruntent à William Dobson l’idée selon laquelle les médias, dans une autocratie, « permettent l’existence d’une presse d’opposition aussi longtemps que les opposants au régime comprennent quelles sont les limites implicites à ne pas franchir ». Mais ces tendances commencent à émerger aux États-Unis. Personne ne doute des effets terrifiants des enquêtes menées sur The Associated Press et James Rosen de Fox News. Reste que le rôle de Google dans la comparution de Rosen a été peu analysé. J’ai personnellement fait l’expérience de ces dérives.
+Le ministère de la Justice a reconnu en mars dernier qu’il en était à sa 3ème année d’enquête criminelle sur Wikileaks. Le témoignage du tribunal fait remarquer que ses cibles incluent « les fondateurs, propriétaires ou gestionnaires de WikiLeaks ». Une source présumée, Bradley Manning, fait face à un procès de 12 semaines à partir de demain, avec 24 témoins à charge qui témoigneront à huis clos.
+Ce livre est une œuvre de très mauvais augure dans laquelle aucun auteur ne dispose du langage pour appréhender, encore moins pour exprimer, le gigantesque mal centralisateur qu’ils sont en train de construire. « Ce que Lockheed Martin était au 20e siècle, les sociétés technologiques et de cybersécurité le seront au 21e siècle », nous disent-ils. Sans même comprendre comment, ils ont mis à jour et, sans accroc, mis en œuvre la prophétie de George Orwell. Si vous voulez une vision du futur, imaginez des lunettes Google, soutenues par Washington, attachées — à jamais — sur des visages humains disponibles. Les fanatiques du culte de la technologie de consommation de masse y trouveront peu de matière à inspiration, non qu’ils en aient besoin visiblement, mais c’est une lecture essentielle pour quiconque se retrouve pris dans la lutte pour le futur, ayant en tête un impératif simple : connaissez vos ennemis.
+Crédit photo : Steve Rhodes (Creative Commons By-Nc-Nd)
+Share on FacebookShare on Twitter	
+Assange, BigBrother, GAFAM, Google, Traduction, ViePrivee
+Article précédent
+Article suivant
+À propos de l'auteur	
+Articles récents	
+Suivre Goofy:
+Goofy
+je lis des livres et mange des nouilles.	
+Articles récents de Goofy
+Apple veut protéger les enfants mais met en danger le chiffrement - 8 août 2021
+Quelques conseils pour télé-enseigner - 27 août 2020
+Solidarités numériques : le Libre se mobilise - 27 mars 2020
+2 Responses	
+Ginko
+5 juin 2013 |
+Sur un sujet très proche (sphère d’influence Google, leurs visions et projets d’avenir), aller jeter un coup d’œil du côté de l’université de la singularité et de sa proximité avec l’écosystème dirigeant de Google.
+J’en avais entendu parlé dans un reportage/documentaire sur Arte au sujet de la place croissante qu’occupe l’informatique dans notre vie (si mes souvenirs sont bons).
+Ces gens là ne cachent presque pas leur intention de préparer le terrain pour placer les élites actuelles aux commandes de l’espéré futur nouvel ordre mondial engendré par l’avènement du transhumanisme – et notamment d’une forme qui permettrait à certains individus (nos élites actuelles, c’est sous-entendu) d’accéder à l’immortalité.
+Le monde continue de se polariser dans sa composante numérique entre États et multinationales alliés contre un activisme cybercitoyen taxé de cyberterrorisme pour pouvoir le torpiller dans l’allégresse de l’ignorance des foules, merci Propagande.
+La subversion de l’Internet va provoquer sa première crise dans les années à venir, le printemps arabe en étant un des signes avant-coureur : le petit tremblement qui annonce le séisme.
+Plus que jamais àmha, l’éducation, notamment aux sciences informatiques sera clé dans le dénouement des événements à venir. (Framasoft, un rôle à jouer ?)
+Ginko, cyberprophète en herbe.
+Goofy
+5 juin 2013 |
+Nous signalons cette autre traduction du même texte, découverte un peu trop tard : http://wikileaksactu.wordpress.com/…
+Articles récents
+PeerTube v4, more power to help you present your videos
+PeerTube v4, prenez le pouvoir pour présenter vos vidéos
+Khrys’presso du lundi 29 novembre 2021
+Mobilizon v2, now matured, like a good French wine
+Mobilizon v2 : la version de la maturité ?
+Archives
+Archives Sélectionner un mois novembre 2021 (15) octobre 2021 (9) septembre 2021 (7) août 2021 (11) juillet 2021 (9) juin 2021 (8) mai 2021 (11) avril 2021 (9) mars 2021 (7) février 2021 (9) janvier 2021 (10) décembre 2020 (16) novembre 2020 (16) octobre 2020 (14) septembre 2020 (11) août 2020 (8) juillet 2020 (6) juin 2020 (8) mai 2020 (13) avril 2020 (25) mars 2020 (15) février 2020 (9) janvier 2020 (6) décembre 2019 (15) novembre 2019 (16) octobre 2019 (13) septembre 2019 (9) août 2019 (7) juillet 2019 (10) juin 2019 (7) mai 2019 (10) avril 2019 (11) mars 2019 (12) février 2019 (9) janvier 2019 (11) décembre 2018 (13) novembre 2018 (12) octobre 2018 (11) septembre 2018 (10) août 2018 (9) juillet 2018 (9) juin 2018 (5) mai 2018 (10) avril 2018 (12) mars 2018 (11) février 2018 (9) janvier 2018 (11) décembre 2017 (6) novembre 2017 (6) octobre 2017 (11) septembre 2017 (8) août 2017 (8) juillet 2017 (6) juin 2017 (9) mai 2017 (7) avril 2017 (8) mars 2017 (10) février 2017 (9) janvier 2017 (7) décembre 2016 (7) novembre 2016 (10) octobre 2016 (20) septembre 2016 (15) août 2016 (10) juillet 2016 (9) juin 2016 (8) mai 2016 (11) avril 2016 (10) mars 2016 (7) février 2016 (3) janvier 2016 (7) décembre 2015 (9) novembre 2015 (3) octobre 2015 (16) septembre 2015 (12) août 2015 (6) juillet 2015 (8) juin 2015 (17) mai 2015 (11) avril 2015 (8) mars 2015 (15) février 2015 (16) janvier 2015 (6) décembre 2014 (6) novembre 2014 (5) octobre 2014 (6) septembre 2014 (13) août 2014 (10) juillet 2014 (6) juin 2014 (15) mai 2014 (13) avril 2014 (17) mars 2014 (24) février 2014 (17) janvier 2014 (23) décembre 2013 (22) novembre 2013 (41) octobre 2013 (28) septembre 2013 (16) août 2013 (23) juillet 2013 (10) juin 2013 (31) mai 2013 (26) avril 2013 (26) mars 2013 (36) février 2013 (37) janvier 2013 (33) décembre 2012 (24) novembre 2012 (23) octobre 2012 (34) septembre 2012 (27) août 2012 (9) juillet 2012 (12) juin 2012 (15) mai 2012 (16) avril 2012 (4) mars 2012 (16) février 2012 (18) janvier 2012 (28) décembre 2011 (28) novembre 2011 (8) octobre 2011 (15) septembre 2011 (21) août 2011 (24) juillet 2011 (3) juin 2011 (5) mai 2011 (18) avril 2011 (14) mars 2011 (16) février 2011 (24) janvier 2011 (39) décembre 2010 (6) novembre 2010 (18) octobre 2010 (20) septembre 2010 (19) août 2010 (27) juillet 2010 (9) juin 2010 (17) mai 2010 (20) avril 2010 (22) mars 2010 (16) février 2010 (28) janvier 2010 (26) décembre 2009 (21) novembre 2009 (19) octobre 2009 (20) septembre 2009 (16) août 2009 (1) juillet 2009 (11) juin 2009 (34) mai 2009 (32) avril 2009 (37) mars 2009 (41) février 2009 (36) janvier 2009 (34) décembre 2008 (27) novembre 2008 (19) octobre 2008 (15) septembre 2008 (25) août 2008 (20) juillet 2008 (3) juin 2008 (21) mai 2008 (20) avril 2008 (21) mars 2008 (15) février 2008 (12) janvier 2008 (7) août 2007 (1) juillet 2007 (6) juin 2007 (10) mai 2007 (23) avril 2007 (17) mars 2007 (17) février 2007 (7) janvier 2007 (3) décembre 2006 (2) novembre 2006 (5) octobre 2006 (30) septembre 2006 (22)
+Catégories
+21 degrés de liberté
+Artiste
+Autonomie numérique
+Carnets
+CHATONS
+Claviers invités
+Communs
+Contributopia
+Dégooglisons Internet
+Des routes et des Ponts
+Désinformation
+Droits numériques
+Éducation
+Ernaut
+Fédération
+Frama c'est aussi
+Framabook
+Framaconfinement
+Framasite
+Framasoft
+Framinetest
+G.A.F.A.M.
+Grise Bouille
+Internet et société
+Interview
+Libertés Numériques
+Libr'en Vrac
+Libre Veille
+Libres Cultures
+Libres Logiciels
+Libres matériels
+Libres Services
+Librologies
+Migration
+Militantisme
+Mobilizon
+Musique
+Non classé
+Open Advice
+PeerTube
+Pouhiou
+Santé
+Tales of Fediverse
+UX-UI
+Wikipédia
+Articles traduits
+English
+Italiano
+Framalang
+`); });
+Étiquettes
+Apple CC Code Communaute CopyFight Debat Degooglisons DRM Economie Entreprise Facebook Framabook GAFAM Geektionnerd Google Hadopi Informatique Innovation Internet Interview Libre Librevolution Linux Livre Marketing Microsoft OpenSource Planet PlanetEdu Politique Projet Revue de web Revue hebdo RezoTIC Stallman Surveillance Traduction Troll Ubuntu veille Video webrevue WeNeedYou Windows Éducation
+Tous les mots-clés
+Suivre le blog
+Flux RSS des articles
+Flux RSS des commentaires
+Licence du Blog
+Sauf mentions contraires (et repérez-les, elles sont nombreuses ^^) le contenu de ce blog est mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International. .

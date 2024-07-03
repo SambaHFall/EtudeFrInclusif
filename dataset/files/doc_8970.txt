@@ -1,0 +1,110 @@
+Certaines informations figurant dans cet article ou cette section devraient être mieux reliées aux sources mentionnées dans les sections « Bibliographie », « Sources » ou « Liens externes » ( juin 2016 ).
+Vous pouvez améliorer la vérifiabilité en associant ces informations à des références à l'aide d'appels de notes.
+végétal
+Nom vulgaire ou nom vernaculaire ambigu :
+l'appellation « végétal » s'applique en français à plusieurs taxons distincts.
+Observation d'un végétal (affiche d'Eugène Grasset)
+Taxons concernés
+Dans les règnes :
+Cyanobacteria
+Thallophyta
+et le sous-règne :
+Tracheobionta
+Voir texte
+modifier
+Selon les classifications scientifiques classiques un végétal est un organisme appartenant à l'une des diverses lignées qui végètent : c'est-à-dire qui respirent, se nourrissent, croissent comme les plantes, selon l'étymologie du terme[1]. Contrairement à une idée largement répandue, le terme végétal ne désigne pas uniquement les plantes. Si l'on définit les plantes comme l'ensemble des organismes couramment reconnus comme les « végétaux verts », elles forment un groupe monophylétique comprenant les algues vertes et les plantes terrestres, constituant le taxon des Chlorobiontes. À ceux-ci, on rajoute les algues rouges, les algues brunes, ainsi que les champignons, pour former les végétaux, au sens « commun ». Toutefois, au sens de la phylogénétique, et dans les classifications modernes, le « règne végétal » avec son contenu traditionnel n'existe plus, dispersé dans plusieurs clades séparés, et le « végétal » est désormais un terme trop vague[2],[3],[4],[5] qui tend à ne plus être employé en botanique[réf. nécessaire].
+Sommaire
+1 Systématique
+2 Une histoire de classification
+3 Le végétal : biomasse planétaire la plus importante (en matière de carbone)
+4 Caractéristiques des végétaux
+5 Notes et références
+6 Voir aussi
+6.1 Articles connexes
+6.2 Bibliographie
+Systématique[modifier | modifier le code]
+Le règne végétal est un assemblage polyphylétique d’organismes photosynthétiques et dont les cellules ont une paroi faite de cellulose. Ce groupe est formé de deux lignées, l’une d’algues, et la seconde de plantes terrestres, qui comprennent notamment les bryophytes (mousses et hépatiques), fougères (ptéridophytes), gymnospermes et angiospermes.
+Cette section doit être actualisée.
+Des passages de cette section sont obsolètes ou annoncent des événements désormais passés. Améliorez-la ou discutez-en.
+La botanique, discipline d'étude des végétaux, a identifié environ :
+10 000 espèces de mousses et 4 000 d’hépatiques ;
+20 000 espèces de fougères, diversifiées depuis le début du Carbonifère ;
+900 espèces de gymnospermes (Conifères, Cycades, Gnétales), diversifiées depuis probablement la fin du Carbonifère ;
+300 000 espèces de plantes à fleurs, diversifiées depuis le Crétacé.
+Les champignons ne sont plus classés dans le règne végétal, et forment le règne identifié des Fungi.
+Les algues forment un ensemble polyphylétique (algues vertes, brunes, etc.).
+Une histoire de classification[modifier | modifier le code]
+La botanique a progressivement écarté le terme « végétal » de son vocabulaire.
+Au début du XXe siècle, on répartissait les végétaux selon les trois grandes catégories suivantes :
+les cyanobactéries ;
+les thallophytes, avec les algues, les champignons et les lichens ;
+les « plantes à tige » ou cormophytes (anciennement appelés végétaux supérieurs).
+En 1969 Robert Harding Whittaker proposait une classification à cinq règnes dans lequel le règne végétal Plantae complétait quatre autres règnes : les protistes (unicellulaires), les monères, les Fungi (champignons), et les animaux[6].
+Cette classification n'est encore retenue de nos jours que pour les organismes multicellulaires (animaux, champignons, plantes).
+Les taxons non valides sont désormais dispersés dans différentes lignées. Les classifications phylogénétiques récentes « admettent que les « végétaux » se répartissent dans six des huit grands groupes reconnus aujourd'hui : Hétérocontes, Alvéolobiontes, Cercozoaires, Opisthocontes, Discicristés et lignée verte, toutes incluant « Champignons » et « Algues », la dernière rassemblant les végétaux « terrestres » dont des « Cryptogames » (Bryophytes et Ptéridophytes) »[7].
+La classification moderne des Eucaryotes évacue le terme de « végétal » car les espèces ainsi réunies forment un groupe polyphylétique[réf. souhaitée]. On lui préfère aujourd'hui les termes plus précis de Chlorobionte (algues vertes et plantes terrestres), algues rouges, algues brunes, etc. qui désignent des groupes monophylétiques aux caractères bien définis.
+Le végétal : biomasse planétaire la plus importante (en matière de carbone)[modifier | modifier le code]
+Selon un article récent de Bar-On et al.[8], les plantes comptent moins d'espèces que le seul groupe des arthropodes ; mais en matière de biomasse, elles sont l'ensemble physiquement le plus « lourd » de la planète, avec 80 % de tout le carbone stocké par des organismes. Selon les estimations de précédentes études et les calculs de ces chercheurs, au début du XXIe siècle, l'ensemble du Vivant terrestre pèserait environ 550 gigatonnes (Gt) de carbone, dont 450 Gt sont des plantes, loin devant les bactéries (70 Gt, soit 13 % de la biomasse) et les champignons (12 Gt soit 2 %), et très loin devant la faune. En effet, la faune, dont l'Homme fait partie, ne compte que pour 2 Gt de carbone (dont 50 % sous forme d'arthropodes), loin devant les humains qui avec 0,06 gigatonnes sont comparables aux termites ou au krill ; cependant, la pression de l'Homme sur le reste de la biomasse terrestre et marine est, depuis 10 000 ans, énorme.
+L'Homme utilise des végétaux pour nourrir ses troupeaux de bovins, porcs et autres animaux domestiques ou de compagnie dont le poids en carbone est aujourd'hui environ 20 fois plus élevé que celui que tous les mammifères sauvages (comme nos volailles domestiquées dépassent en poids l'ensemble des autres oiseaux). Depuis son expansion sur la Planète, l'Homme aurait aussi divisé par deux la biomasse végétale[9].
+Caractéristiques des végétaux[modifier | modifier le code]
+Les végétaux sont des eucaryotes pluricellulaires réalisant la photosynthèse et cela grâce à des organites bien particuliers.
+Les cellules végétales se distinguent des autres cellules eucaryotes par une paroi pectocellulosique faite de cellulose et de protéines et par la vacuole faisant partie de leur vacuome.
+Les végétaux n’ont pas de neurones et donc pas de système nerveux structuré. Ils disposent cependant d'une forme de mémoire (immunitaire notamment) et réagissent à des stimuli au même titre que les animaux. Des informations et des réactions sont transmises par les cellules du liber sous forme de signal électrique[10]. Stefano Mancuso du Laboratoire international de neurobiologie végétale à Sesto Fiorentino (près de Florence), estime que les végétaux ont une « sorte de cerveau » diffus, alors que chez les animaux tout est concentré dans un même organe[11]. Une plante stressée ou attaquée produit des protéines et d'autres molécules d'alertes et/ou de défense (véhiculées par l'acide jasmonique) ; certaines de ces substances (tanins) sont désagréables pour les herbivores, alors incités à aller manger une autre plante. Ainsi certains acacias rendent leurs feuilles provisoirement toxiques et on a constaté que des acacias encore non-touchés avaient déjà rendu leurs feuilles toxiques avant d'être attaqués. Un phénomène similaire a également été constaté chez les érables[réf. nécessaire]. Beaucoup de végétaux émettent des protéines de défense. C'est le cas, par exemple de la tomate (notons qu'il émet du jasmonate méthyle, une forme volatile de l'acide jasmonique), du chou, ou encore du maïs. Cependant, ces deux derniers émettent non pas des protéines, mais des phéromones qui vont attirer les prédateurs des herbivores. Ainsi le maïs va attirer une variété de guêpes qui vont pondre leurs œufs dans la chenille qui attaque le plant de maïs[12].
+Toutes les plantes lors de leur croissance répondent à l'un des quelques modèles de croissance des végétaux (architecture des plantes, qui résulte de la manière dont la dynamique cellulaire et générale des végétaux s'est organisée chez le plantes au cours de l'évolution. Cette architecture est modélisée pour les images de synthèse réalisée au cinéma notamment, mais aussi pour des raisons de recherche scientifiques[13].
+Notes et références[modifier | modifier le code]
+↑ Définitions lexicographiques et étymologiques de « végétal » dans le Trésor de la langue française informatisé, sur le site du Centre national de ressources textuelles et lexicales
+↑ Jean-Louis Morère et Raymond Pujol, Dictionnaire raisonné de biologie , Paris, Frison-Roche, 2003 , 1222 p. [détail de l’édition] (ISBN 2-87671-300-4), « Article Règne végétal »
+↑ Marc-André Selosse, « Les Végétaux existent-ils encore ? », in Les Végétaux insolites, Dossier Pour la Science, no 77, octobre-décembre 2012, p. 8-13.
+↑ Marc-André Selosse, « Que sont devenus Animaux, Végétaux et Champignons ? », in Daniel Prat, Aline Raynal-Roques & Albert Roguenant (dir.), Peut-on classer le vivant ? Linné et la systématique aujourd’hui, Éditions Belin, Paris, 2008, p. 225-233. (ISBN 978-2-7011-4716-1)
+↑ Marc-André Selosse, « Animal ou Végétal ? Une distinction obsolète », Pour la Science, no 350, décembre 2006, p. 66-72.
+↑ (en) Robert Harding Whittaker, « New concepts of kingdoms or organisms. Evolutionary relations are better represented by new classifications than by the traditional two kingdoms », Science, vol. 163, no 3863,‎ 10 janvier 1969 , p. 150-160
+↑ Jean Vallade, L'œil de lynx des microscopistes. La sexualité végétale : l'apport des micrographes depuis le XVIIe siècle , Éditions universitaires de Dijon, 2008 , p. 111.
+↑ (en) Yinon M. Bar-On, Rob Phillips, and Ron Milo (2018) The biomass distribution on Earth ; PNAS 21 mai 2018. 201711842; édité par Paul G. Falkowski, Rutgers, State University of New Jersey, New Brunswick, NJ, publié en licence Creative Commons Attribution-NonCommercial-NoDerivatives License 4.0 (CC BY-NC-ND).
+↑ (en) Penisi E (2018) Plants outweigh all other life on Earth ; Science New, 21 mai 2018, publié dans EarthPlants & Animals ; DOI:10.1126/science.aau2463
+↑ Michel Thellier, Les plantes ont-elles une mémoire ?, Quæ, 2015, p. 66, 67
+↑ Le Monde, Science et techno, 29/02/2016
+↑ Loïc Chauveau, « Les plantes souffrent elles quand on les coupent », Sciences et Avenir,‎ octobre 2017 , p. 110
+↑ Philippe De Reffye, Marc Jaeger, Daniel Barthélémy, François Houllier, coord Préface de Franck Varenne (2018) Architecture des plantes et production végétale ; Les apports de la modélisation mathématique, Edition Quae. 360p
+Voir aussi[modifier | modifier le code]
+Sur les autres projets Wikimedia :
+végétal, sur le Wiktionnaire
+Articles connexes[modifier | modifier le code]
+Plante
+Lignée verte
+Cellule végétale
+Tissu végétal
+Histoire évolutive des végétaux
+Sensibilité des plantes
+Rencontre plantes-insectes
+Liste des plus grands genres d'Angiospermes
+Bibliographie[modifier | modifier le code]
+Jean-Louis Morère et Raymond Pujol, Dictionnaire raisonné de biologie , Paris, Frison-Roche, 2003 , 1222 p. [détail de l’édition] (ISBN 2-87671-300-4)
+Bruno de Reviers, Biologie et phylogénie des algues , vol. 1 : tome 1, Paris, Belin, coll. « Belin Sup Sciences / Biologie », octobre 2002 , 352 p. [détail de l’édition] (ISBN 2-7011-3083-2, ISSN 1158-3762)
+Reece, Jane, et al. Campbell Biologie, Saint-Laurent, Erpi, 2012, 1458p. (ISBN 9782761328562)
+Cornely, Kathleen, et Charlotte Pratt. Biochimie, Bruxelles, Éditions De Boeck Université, 2012, 707p.
+Sauvion, Nicolas, et al. Interactions insectes-plantes, IRD, Quae, 2013, 784p.
+(fr) Lydie Suty, Les végétaux: des symbioses pour mieux vivre, Quae, 2015, 56p. (ISBN 978-2-7592-2305-3)
+Portail de la botanique
+Portail de la biologie
+Portail de l’écologie
+Ce document provient de « https://fr.wikipedia.org/w/index.php?title=Végétal&oldid=186840851 ».
+Catégories :
+Végétal
+Nom de plante ambigu
+Taxon d'eucaryotes obsolète
+Catégories cachées :
+Article avec source à lier
+Article utilisant une Infobox
+Article contenant une infobox de biohomonymie
+Article à référence nécessaire
+Article à mettre à jour
+Article à référence souhaitée
+Portail:Botanique/Articles liés
+Portail:Biologie/Articles liés
+Portail:Sciences/Articles liés
+Projet:Biologie/Pages liées
+Portail:Écologie/Articles liés
+Portail:Environnement/Articles liés
+La dernière modification de cette page a été faite le 3 octobre 2021 à 17:28.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.

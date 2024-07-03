@@ -17,14 +17,16 @@ def detect_inc(doc, proc) -> list[Ann] :
 			continue
 		if 'coo' in proc :
 			if token.lemma == token.head.lemma and different_gender(token, token.head):
-				beg_i = token.idx
-				end_i = token.idx + len(token.text)
-				beg_j = token.head.idx
-				end_j = token.head.idx + len(token.head.text)
-				if beg_j < beg_i:
-					beg_i, beg_j = beg_j, beg_i
-					end_i, end_j = end_j, end_i
-				res.append( [Ann(beg_i, end_j, text=doc.text[beg_i : end_j], metadata={"category" : ["coo"]})] )
+				ind_i = token.i
+				ind_j = token.head.i
+				if ind_j < ind_i:
+					ind_i, ind_j = ind_j, ind_i
+				k = min( max(0, ind_i - (ind_j - ind_i - 1 - 1) ) , 1 )
+
+				beg = doc[k].idx
+				end = doc[ind_j].idx + len(doc[ind_j])
+
+				res.append( [Ann(beg, end, text=doc.text[beg : end], metadata={"category" : ["coo"]})] )
 		if 'fle' in proc : 
 			x_text = sub(token.text)
 			if x_text is not None and x_text != token.text :

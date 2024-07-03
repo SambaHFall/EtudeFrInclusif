@@ -1,0 +1,121 @@
+la Meuse du confluent de la Chiers au confluent de la Semoy (B5) - Bassin versant - Nappes phréatiques | Info-Secheresse.fr
+Fonctionnalités Données de référence Citoyenneté
+Services pro Se connecter
+Carte Stats
+Indicateur sécheresse :
+Eaux souterraines Nappes phréatiques
+Eaux de surface
+Météorologie
+Nappes phréatiques Nappes profondes
+Cours d'eau Ruisseaux
+Pluviométrie des 30 derniers jours Pluviométrie des 3 derniers mois Pluviométrie des 6 derniers mois Température des 7 derniers jours Température des 30 derniers jours Température des 3 derniers mois
+la Meuse du confluent de la Chiers au confluent de la Semoy (B5)
+Nappes phréatiques
+Invalid date
+Nombre de stations d’observations : 0
+Source des données : Hubeau (OFB) / ADES (BRGM)
+Consulter les arrêtés sécheresse sur Propluvia
+Etat du bassin versant - la Meuse du confluent de la Chiers au confluent de la Semoy
+(Nappes phréatiques statistiquement le plus représentatif du bassin versant)
+Etat des stations d’observation
+(Nappes phréatiques des stations)
+Catégorie Niveau très basNiveau basNiveau modérément basNiveau proche de la moyenneNiveau modérément hautNiveau hautNiveau très hautIndéfini
+Probabilité d'occurrence 1 fois tous les 10 ans1 fois tous les 5 ans1 fois tous les 2,5 ansSituation normale1 fois tous les 2,5 ans1 fois tous les 5 ans1 fois tous les 10 ansAbsence de données depuis 15 jours
+Indicateur piézométrique standardisé < -1,28De -1,28 à -0,84De -0,84 à -0,25De -0,25 à 25De 0,25 à 0,84De 0,84 à 1,28> 1,28N/A
+Accéder gratuitement aux données détaillées des départements*
+*INFO SÉCHERESSE est un module gratuit de l’application EMI, dédiée à la protection des ressources en eau et des forages. La création d’un compte gratuit sur EMI est nécessaire pour utiliser INFO SÉCHERESSE.
+Se connecter S'inscrire
+Fonctionnalités
+INFO SÉCHERESSE réunit en continu les principaux indicateurs sécheresse
+Météo
+70 ans de données de pluies et de températures journalières
+Mises à jour quotidiennement
+1022 stations météorologiques.
+Source de données : ERA 5|ECMWF
+Cours d'eau
+Plus de 30 ans de données en moyenne
+Mises à jour quotidiennement
+1480 stations de mesure de débit.
+Source de données : Eaufrance
+Ruisseaux
+9 ans de données
+Mises à jour mensuellement
+3017 stations d'observation.
+Source de données : Onde
+Nappes phréatiques et profondes
+15 ans de données en moyenne
+Mises à jour à fréquence variable (journalière à mensuelle, dépendante des producteurs de données)
+1991 piézomètres.
+Source de données : Eaufrance
+Aperçu
+Avec INFO SÉCHERESSE,
+accédez, visualisez, et téléchargez les données des départements.
+Accédez à <b>plus de 30 ans de données brutes.<b>
+<b>Situez un niveau</b> à un instant T par rapport à des seuils d'alertes calculés selon des règles statistiques conformes aux standards internationaux.
+<b>Affichez la criticité</b> de l'ensemble des niveaux (pluviométrique, cours d'eau, nappes) à l'échelle d'un département, d'un bassin versant ou d'une masse d'eau.
+<b>Visualisez l'état</b> statistiquement le plus représentatif d'un département, d'un bassin versant ou d'une masse d'eau.
+Vocation
+Un outil unique
+d'aide à la décision
+INFO SÉCHERESSE a été conçu :
+Pour faciliter la compréhension et la prise de décision de tous les acteurs concernés par la sécheresse.
+Parce que la sécheresse nécessite une approche multifactorielle, croisant en particulier les indicateurs météorologie, hydrologie et hydrogéologie.
+Parce que les sécheresses sont vouées à devenir plus fréquentes, plus fortes et plus longues, et que le défi du changement climatique impose de généraliser des pratiques durables de gestion et d’exploitation des ressources en eau.
+Données de référence
+Des bases de données « open data » gouvernementales
+INFO SÉCHERESSE est un module gratuit de l'application EMI, qui utilise les bases de données « open data » gouvernementales liées à la sécheresse :
+Météorologie : données ERA 5 de l'ECMWF, centre européen pour les prévisions météorologiques à moyen terme.
+Hydrologie : données provenant de Eaufrance, BanqueHydro pour les historiques, Hubeau hydrométrie pour les données quotidiennes et Onde pour l'étiage des ruisseaux.
+Hydrogéologie : données provenant de Eaufrance, hubeau piézométrie pour les historiques et les données quotidiennes.
+Des règles de calculs conformes aux standards internationaux
+Ces données brutes sont valorisées en indicateurs sécheresse selon des règles de calculs conformes aux standards internationaux :
+Pluviométrie : Indicateur Pluviométrique Standardisé. En savoir +
+Température : Ecart à la moyenne climatique (1980 – 2010) En savoir +
+Cours d’eau : Calcul de la période de retour du VCN3 en cours vis-à-vis des VCN3 mensuels historiques ajustés à une loi de Galton. En savoir +
+Ruisseaux : Modalité d’écoulement des cours d’eau (Sandre 7343). En savoir +
+Hydrogéologie : Indicateur Piézométrique Standardisé. En savoir +
+À l’échelle du département, d’un bassin versant ou d’une masse d’eau : Pour une discipline donnée, indicateur statistiquement le plus représentatif.
+Citoyenneté
+Un service financé par le Groupe Saur via sa filiale IMAGEAU
+INFO SÉCHERESSE est une application d'utilité citoyenne, autofinancée et mise à disposition gratuitement par imaGeau, spécialiste du numérique au service de l’eau, pour aider les acteurs de l’eau à gérer les sécheresses.
+INFO SÉCHERESSE n’a fait l’objet d’aucune subvention.
+INFO SÉCHERESSE s’appuie sur l’application EMI, qui a nécessité plus de 6 000 heures de développement informatique et d’expertise environnementale.
+INFO SÉCHERESSE s’inscrit pleinement dans la mission du groupe Saur : la défense de l’eau. Défendre l’eau, c’est garantir qu’elle soit de qualité, sûre, en quantité suffisante, pour tous, à court comme à long terme. En soutenant les services développés par imaGeau, Saur élargit sa gamme de solutions digitales, dédiée à une connaissance plus fine et partagée des données liées à l’eau et aux pressions qui s’exercent sur cette ressource pour garantir qu’elle reste accessible en quantité suffisante sur tous les territoires.
+FAQ
+La sécheresse en question/réponses
+Qu’est-ce que la sécheresse ?
+En situation hydrique normale et pour un territoire déterminé, le développement de la faune, de la flore, et de tous types d’activités humaines peuvent cohabiter de façon durable.
+Un phénomène de sécheresse correspond à un déficit hydrique par rapport à une situation normalement observée sur la même période dans le passé.
+Les sécheresses se distinguent par leurs :
+intensités : le déficit en eau est plus ou moins important par rapport à une situation moyenne,
+durées : plus le déficit en eau s’inscrit dans la durée plus l’impact de la sécheresse est conséquent,
+fréquences : le déficit en eau est accentué par la répétition plus ou moins rapprochée des épisodes de sécheresses.
+La sécheresse correspond donc à une balance négative entre l’eau apportée par les précipitations sur un territoire et l’eau consommée sur ce même territoire par la faune, la flore et l’activité humaine.
+La sécheresse est un aléa naturel fortement atténué ou exacerbé par les politiques de gestion de l’eau en place à travers le monde.
+Quelles sont les origines de la sécheresse ?
+Deux phénomènes, pouvant se cumuler, conduisent à la mise en place des sécheresses : un déficit de précipitations et la surexploitation des ressources en eau. De fortes températures et de fortes valeurs d’évapotranspiration accentuent également la sévérité des sécheresses.
+Déficit de précipitations :
+Pour une zone donnée la quantité de précipitations dépend à la fois de l’altitude du lieu et de la proximité à l’Océan. Les précipitations moyennes en France métropolitaine varient de 500 mm/an pour les régions les plus sèches (côtes méditerranéennes, Anjou, Bassin parisien) à plus de 1500 mm pour les régions de montagne. Or ces cumuls de précipitations ne représentent qu’une situation moyenne, c’est-à-dire celle qui se produit le plus souvent. Certaines années, sous l’influence de mécanismes climatiques, ces cumuls sont déficitaires. Plus le déficit est important et long, plus l’impact de la sécheresse est fort. Variabilité pluviométrique interannuelle sur un pluviomètre du département de la Manche de 1981 à 2019
+Surexploitation :
+La surexploitation intervient lorsque les volumes extraits d’une ressources en eau (de surface ou souterraine) sont supérieurs aux volumes de réalimentation par les pluies de ces mêmes ressources.
+Un exemple emblématique de surexploitation des ressources en eau est l’assèchement de la mer d’Aral au profit de l’irrigation des champs de cotons. Images satellites de la mer d'Aral en 1989 (à gauche) et en 2008 (à droite)
+Quelles sont les conséquences de la sécheresse ?
+Les sécheresses touchent 1,1 milliards d’individus à travers le monde. Elles ont causé la mort de 22 000 personnes et entraînent des pertes économiques s’élevant à 100 milliards de dollars EU en dommages sur une période 20 ans de 1995 à 2015 (CRED/UNDDR, 2015).
+Les conséquences de la sécheresse en France et dans le monde sont multiples :
+Rupture d’alimentation en eau :
+En l’absence de ressources de substitution sur certaines communes en période de forte sécheresse la quantité d’eau n’est plus suffisante pour alimenter en eau les administrés. Des camions citerne sont alors utilisés pour remplir les châteaux d’eau avec de l’eau provenant de ressources moins impactées par la sécheresse.
+Un exemple ici
+Impact sur la Flore et risque d’incendies accru :
+Lorsqu’une sécheresse s’installe, la teneur en eau dans les premiers mètres du sol diminue. En l’absence d’irrigation, une sécheresse prolongée assèche fortement la végétation. Ceci a pour conséquence de faciliter les départs d’incendies.
+Impact sur la Faune :
+En période de sécheresse certains cours d’eau s’assèchent, ce qui a pour conséquence directe de mettre en danger les espèces de poissons présentes dans le milieu ainsi que la faune environnante dépendante ces points d’eau.
+Détérioration de la qualité de l’eau :
+Au cours d’une sécheresse les capacités de dilution des pollutions au sein des différentes ressources en eau sont moins importantes. Ceci à pour conséquences de concentrer les pollutions potentiellement présentes.
+Détérioration de l’habitat sur les sols argileux :
+La sécheresse accentue le phénomène de « retrait/gonflement des argiles ». La diminution de la teneur en eau dans les argiles en période de sécheresse a pour conséquence de tasser les sols, qui se regonflent ensuite en hivers suite aux précipitations. Ces mouvements de sols entrainent des fissures voir de forts risques d’effondrement de l’habitat.
+En savoir plus : https://www.georisques.gouv.fr/nature-du-phenomene
+Pertes économiques :
+Selon la Fédération Française de l’assurance, « la sécheresse coûte en France chaque année entre 700 et 900 millions d’euros de dégâts assurés » (source : Stéphane Pénet, directeur des assurances de biens et de responsabilité au sein de la Fédération française de l’assurance (FFA)).
+Mouvements de population :
+Dans les régions du monde où la prospérité économique est touchée par les précipitations, les épisodes de sécheresses entraine des vagues de migrations. En 2017, les épisodes de sécheresses ont entrainé le déplacement de 1,3 millions de personne à travers le monde (IDMC, 2018)
+D’ici 2050, la World Bank Group estime que dans les régions sub-saharienne, d’Asie du Sud et d’Amérique Latine, les conséquences du changement climatique et notamment d’accès à l’eau vont entrainer des mouvements de population estimés à 140 millions de personnes. Ce rapport ne prend pas en compte le pourtour méditerranéen et le Moyen Orient également impactés. Les déplacements de populations liés à l’accès à l’eau d’ici les prochaines décennies pourraient dépasser les 200 millions de personnes.

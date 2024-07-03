@@ -1,6 +1,7 @@
 from ._utils import AnnPredModel, Ann
 import pandas as pd
 from etude_fr_inclusif.adv_rule_based import AdvRBModel
+import re
 
 """
 
@@ -60,7 +61,14 @@ class SuperAnnModel(AnnPredModel) :
 					beg = pred["tokens"].idx
 					cat = pred["categories"]
 				elif inproc and pred["annotated"] :
-					cat = cat + pred["categories"]
+					if any( re.match('coo.*', item) for item in cat ) and any( re.match('coo.*', item) for item in pred["categories"] ) : 
+						cat = cat + pred["categories"]
+					else :
+						last = super_df["tokens"][k-1]
+						end = last.idx + len(last.text) 
+						res[-1].append(Ann(beg, end, text=text[beg:end], metadata={"category" : list(set(cat))}) )
+						beg = pred["tokens"].idx
+						cat = pred["categories"]
 				elif inproc and not pred["annotated"]  :
 					last = super_df["tokens"][k-1]
 					end = last.idx + len(last.text) 

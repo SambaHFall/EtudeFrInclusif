@@ -28,11 +28,13 @@ The SuperAnnModel model is a voting system model which bases its predictions on 
 # Install instruction (pip)
 
 ## Repo installation
+
 ```bash
 pip install git+https://github.com/SambaHFall/EtudeFrInclusif.git
 ```
 
 ## spaCy models downloading
+
 ```bash
 python3 -m spacy download fr_core_news_sm
 python3 -m spacy download fr_dep_news_trf
@@ -40,8 +42,8 @@ python3 -m spacy download fr_dep_news_trf
 
 
 # Script for testing
-```python
 
+```python
 from etude_fr_inclusif.super_model import SuperAnnModel
 from etude_fr_inclusif.adv_rule_based import AdvRBModel
 from etude_fr_inclusif.inclure import InclureModel

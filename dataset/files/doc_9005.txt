@@ -1,0 +1,40 @@
+D’accompagner le développement de thérapies focalisées (radiothérapie externe, photothérapie dynamique, ultrasons à haute intensité focalisée…).
+Contexte
+La recherche en cancérologie est un domaine très actif et très compétitif pour lequel sont recherchés des cibles innovantes validées, des compétences pluridisciplinaires pour mieux comprendre la physiopathologie et la biologie du cancer ainsi qu’une combinaison de technologies
+Par ailleurs, le paysage de la recherche française dans le domaine de la cancérologie est régi par l’organisation multidisciplinaire de différents acteurs : des grands organismes de recherche (INSERM, CNRS, CEA, …), des universités, des centres de soins et de recherche (CHRU, CLCC,…) et des industries de santé. La recherche en cancérologie possède une spécificité d’organisation et de financement conférées depuis les années 2000 par les politiques publiques, au travers des deux « plans Cancer » pilotés par l’INCa.
+Cependant sur des sujets innovants, émergents, des difficultés pour le transfert demeurent, du fait du risque qu’ils représentent pour les industriels malgré leur potentiel de retombées thérapeutiques. C’est le cas des deux domaines pluridisciplinaires représentés par l’Epigénétique et Thérapies focalisées, auxquels le DVS va consacrer ces actions.
+La « Chemical Biology » ou l’obtention d’outils pharmacologiques se positionne comme une discipline à l'interface de la chimie, de la biologie et de l'informatique ; elle vise à explorer les espaces chimiques et biologiques et à comprendre leurs interrelations. Cette démarche doit permettre de valider de nouvelles cibles moléculaires pour des applications en thérapie épigénétique, identifiées par des approches de protéomique (ou interactions protéine-protéine, protéine-ADN) ou des criblages phénotypiques. Le bilan d’activité de la « Chemical Biology » en France est déjà significatif et un meilleur soutien est maintenant indispensable pour permettre à la communauté scientifique française de conserver une place centrale en innovation thérapeutique.
+Les approches pluridisciplinaires physique, chimie et biologie représente un gisement d’innovation thérapeutique. Même si la volonté est de recréer une ou des filières académiques de thérapies focalisées sur le plan de projets de recherche, la mise en place d'innovations technologiques se heurte à un certain nombre d'obstacles qui constituent très souvent un véritable parcours du combattant
+Enjeux et attentes industrielles
+Les résultats de la génomique et de la protéomique des cancers et l’identification de cibles innovantes comme les régulations épigénétiques présentent un grand intérêt industriel pour le développement de nouvelles thérapies. Les données biologiques obtenues in vitro et/ou in vivo dans des modèles physiopathologiques doivent s’accompagner d’outils pharmacologiques (Chemical Biology) de validation pour démonter la pertinence de la cible. Dans ce domaine, les sujets émergents, jugés risqués, sont propices aux partenariats publics/privés.
+Les thérapies focalisées sont des méthodes thérapeutiques, utilisant différentes technologies peuvent être appliquées en prévention de rechute, ou en cas de rechute et peuvent être utilisées en combinaisons avec la chirurgie, la chimiothérapie ou les thérapies ciblées. Aujourd’hui peu d’acteurs industriels sont positionnés sur ce secteur et développent principalement des appareillages, des logiciels. Les thérapies focalisées représentent une source d’innovation pluridisciplinaire et ont besoin de faire la preuve de leur efficacité clinique avant de pouvoir être développées.
+Actions envisagées
+VALIDATION DE CIBLES INNOVANTES EN EPIGENETIQUE :
+Cartographier des cibles épigénétiques les plus prometteuses identifiées au sein d’Aviesan
+Proposer une compétence, analyse stratégique (notamment en Propriété Intellectuelle) pour prioriser les meilleures cibles
+Soutenir des projets « early drug discovery » d’intérêt national
+Aider, coordonner et soutenir la communauté scientifique pour la structuration d’une filière « early drug discovery » académique afin d’obtenir de valider les cibles innovantes pour initier des projets de « drug discovery » en collaboration avec des industriels.
+Soutenir et recommander sur la base des analyses stratégiques (PI, benchmark) et de la cartographie des compétences, les projets innovants en vue de l’obtention de financements de maturation SATT, MATWIN, INCa… afin de pour pouvoir initier des partenariats industriels.
+Organiser des rencontres R&D académiques/industriels
+ACCOMPAGNER LE GROUPE D’EXPERTS THERAPIES FOCALISEES
+Le DVS accompagnera un groupe d’expert Thérapies Focalisées afin que ces technologies innovantes puissent avoir un relais industriel et un transfert en clinique.
+Dans un premier temps, le groupe de travail va mettre en place un recensement des forces et déterminer les besoins afin d’y répondre.
+Organisation
+Un comité de pilotage (comité de domaine) sera chargé de fixer les objectifs du DVS, de suivre son évolution et de valider les rapports, études et documents stratégiques produits par le DVS. Il sera constitué de 12 à 15 personnes qui se réuniront 3-4 fois par an. Il comprend:
+Co-coordinateurs du DVS : Christophe Cans (Inserm transfert)/Damien Salauze (Inst. Curie)
+Un chargé de mission : Yoann Schumacher
+Des représentants : CNRS, INCa, Unicancer, CEA, INRIA, ITMO Cancer, CHRU, MATWIN
+Des représentants des industriels ARIIS.
+Deux représentants des SATT
+Un représentant de la cellule de direction du CVT
+Un/des scientifique(s) référent(s) : Présidence : Franck Denat (Univ. de Dijon, CNRS/INC) assisté de D. Guilloteau (Univ. de Tours/Inserm)
+Un groupe de travail épigénétique en charge de proposer une méthodologie et d’effectuer et/ou suivre les actions qui concernent la cartographie des cibles, l’analyse scientifique des cibles, l’analyse de la propriété intellectuelle, l’analyse économique.
+Il sera notamment constitué des membres suivants :
+Coordinateurs DVS, Chargé mission DVS, membres Aviesan.
+Scientifiques Aviesan référents du domaine parmi lesquels : Geneviève ALMOUZNI (CNRS-INSB) Institut Curie, Paola ARIMONDO (CNRS-INC) unité mixte avec Pierre Fabre USR 3388 CNRS/Pierre Fabre – Toulouse, Jean-Paul BORG, (INSERM) CRCM, Institut Paoli Calmette, Université Aix Marseille, coordinateur du groupe de travail « Protéomique et Médicament » ITMO Cancer, Claude Sardet (CNRS-INSB) UMR 5535 IGMM – Montpellier…
+Le groupe sera complété (a) d’experts en propriété des organismes des organismes de recherche pour mener des études et analyses croisées du portefeuille PI des membres d’Aviesan, (b) de spécialistes d’analyse technico-économique pour prioriser les cibles en épigénétique.
+Un groupe de travail Thérapies focalisées en charge d’identifier les verrous et les besoins pour permettre le transfert des techniques innovantes en clinique.
+Il sera notamment constitué des membres suivants :
+Coordinateurs DVS, Chargé mission DVS, membres Aviesan…
+Scientifiques Aviesan référents du domaine parmi lesquels : Marie DUTREIX (Inst. Curie, Université Orsay), Nicolas Foray (Inserm, CLB Lyon), Philippe Giraud APHP, HEGP Paris) Serge Mordon Inserm, Lille), François Guillemin (CLCC Alexis Vautrin, Nancy), Nicole Basset Seguin (APHP Saint Louis, Paris), Jean-Yves Chapelon (Inserm, Lyon), Mickael Tanter (Inserm, ESPCI, Paris)…
+Comme précédemment, ce groupe de travail sera renforcé pour les analyses technico-économiques et l’analyse croisée de la propriété intellectuelle.

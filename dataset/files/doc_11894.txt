@@ -1,0 +1,107 @@
+Le premier câblo-opérateur américain Comcast a ouvert la boîte de Pandore à la fin de l’année dernière en étant le premier FAI au monde à saboter les échanges de fichiers réalisés par ses abonnés avec le protocole BitTorrent. Le fournisseur d’accès, qui a d’abord nié en bloc malgré les preuves accablantes de ses manipulations, semble avoir agi ainsi à la fois pour économiser de la bande passante et pour freiner le P2P de façon à favoriser ses services de vidéo à la demande, contre le piratage. Mais la technique utilisée, loin de n’handicaper que les pirates, bloque l’ensemble des transmissions avec le protocole BitTorrent, y compris celles du service de vidéo à la demande légal Vuze, qui a porté plainte auprès du régulateur des télécommunications américain.
+Suite à des auditions menées à Harvard par la Commission Fédérale des Communications (FCC), le régulateur a fait savoir à Comcast qu’il n’accepterait pas cette violation du principe de la neutralité des réseaux, qui impose à tout transporteur de communication de ne pas interférer avec le contenu véhiculé, et de ne pas les véhiculer de façon discriminatoire. La FCC reproche en plus ouvertement à Comcast d’utiliser des techniques de hackers.
+On pensait alors l’affaire entendue, et bouclée. Mais Comcast tient visiblement beaucoup à son œuvre de sabotage, et montre désormais les crocs devant la Commission. Le vice-président de Comcast David L. Cohen a présenté à la FCC un argumentaire écrit qui conteste la légitimité de la FCC à empêcher le câblo-opérateur de procéder à des « pratiques de gestion du réseau », c’est-à-dire à du filtrage des réseaux P2P. Selon lui, la Commission ne peut rien faire pour empêcher Comcast de faire ce qu’il veut avec ses tuyaux. Au nom du libéralisme. Le législateur et la FCC ont toujours choisi de laisser faire le marché pour parvenir au meilleur service pour les utilisateurs, et selon Comcast « avoir cela en tête devrait écarter le besoin pour la Commission de tester son autorité légale« . Une menace à peine voilée qui signifie que si la FCC décidait de sanctionner Comcast pour lui interdire de saboter BitTorrent, le FAI n’hésiterait pas à porter l’affaire devant les tribunaux pour contester l’étendue des pouvoirs de la Commission.
+Comcast estime en se reposant sur un arrêt de la Cour Suprême qu’à l’inverse d’un opérateur téléphonique, un câblo-opérateur n’est pas soumis au principe de la neutralité du réseau imposée aux « transporteurs ». « Toute tentative de justifier une injonction contre Comcast basé sur une disposition légale qui est explicitement limitée aux transporteurs de droit commun serait une violation du Communications Act et serait arbitraire et capricieuse« , écrit David Cohen. Il conteste également le caractère contraignant d’une déclaration de 2005 de la FCC, qui demandait à ce que les services d’accès à Internet soient opérés « de façon neutre« . Pour Cohen, une telle déclaration n’a pas de force juridique.
+La bataille du filtrage ne fait donc peut-être que commencer aux Etats-Unis.
+Signaler une erreur dans le texte
+BitTorrent
+Comcast
+Filtrage
+Neutralité du net
+P2P
+3 commentaires
+Partager sur les réseaux sociaux
+Tweeter Partager Partager Partager redditer
+Vous aimerez peut-être
+Lire
+2
+Supprimer des contenus terroristes en 1h ? Des ONG dénoncent une fausse bonne idée
+censure
+Filtrage
+Liberté d'expression
+Parlement européen
+Terrorisme
+Union européenne
+26 mars 2021
+Lire
+La loi facilite désormais le blocage des sites miroirs haineux
+Filtrage
+Homophobie
+Justice
+Racisme
+Sexisme
+25 août 2021
+Lire
+Vers plus de contrôle parental par défaut sur tous les appareils ?
+Filtrage
+NSFW
+Pornographie
+Sexe
+15 novembre 2021
+Lire
+Et si le droit à l'accès à Internet était inscrit dans la Constitution française ?
+FAI
+France
+Internet
+Neutralité du net
+Parlement
+Réseau
+16 novembre 2021
+Société : les dernières actualités
+Lire
+7
+3e dose vaccin covid : comment trouver un rendez-vous facilement sur ces sites et apps
+25 novembre 2021
+Lire
+Vaccin covid : 2 astuces pour trouver un RDV facilement en ligne pour votre 3e dose
+25 novembre 2021
+Lire
+« Twitch n'est pas à la hauteur » : les streameuses ne se sentent toujours pas protégées des cyberviolences
+25 novembre 2021
+(Vidéo) Les cyberviolences sont des violences : des femmes streameuses racontent leur calvaire
+Vidéo 25 novembre 2021
+Lire
+Déréférencement : Wish juge la sanction « illégale et disproportionnée », la DGCCRF assume
+24 novembre 2021
+Lire
+2
+Wish effacé du web français : 90 % de ses produits électriques sont jugés « dangereux »
+24 novembre 2021
+Commentaires
+Filtrage du P2P : Comcast défie le régulateur américain
+3 Commentaires
+Inline Feedbacks
+View all comments
+Neuro
+19 mars 2008 13 h 11 min
+« Mais la technique utilisée, loin de n’handicaper que les pirates, bloque l’ensemble des transmissions avec le protocole BitTorrent, y compris celles du service de vidéo à la demande légal Vuze »
+Le contraire aurait été étonnant non ?
+0
+totoffe
+20 mars 2008 11 h 24 min
+Ce que je ne comprends pas, c’est que les pratiques de Comcast, désormais connues, n’aient pas créé un hémorragie d’abonnés vers la concurrence.
+Après tout, c’est le moyen le plus logique de faire reculer Comcast : si la plupart de ses clients commencent à s’en aller à cause du sabotage du P2P, alors Comcast n’aura plus le choix ! A quoi bon filtrer un réseau si les clients se barrent ailleurs…
+Je serais un concurrent, je lancerais une campagne de pub du genre : “Chez nous, on respecte la neutralité des réseaux, on ne filtre pas le P2P de nos clients — Offre spéciale de migration pour les abonnés comcast déçus”. L’impact serait phénoménal.
+0
+ashareth
+22 mars 2008 1 h 52 min
+Réponse à totoffe
+[quote name='Totoffe' post='953991' date='20/03/2008, 11:25']Ce que je ne comprends pas, c’est que les pratiques de Comcast, désormais connues, n’aient pas créé un hémorragie d’abonnés vers la concurrence.
+Après tout, c’est le moyen le plus logique de faire reculer Comcast : si la plupart de ses clients commencent à s’en aller à cause du sabotage du P2P, alors Comcast n’aura plus le choix ! A quoi bon filtrer un réseau si les clients se barrent ailleurs…
+Je serais un concurrent, je lancerais une campagne de pub du genre : « Chez nous, on respecte la neutralité des réseaux, on ne filtre pas le P2P de nos clients — Offre spéciale de migration pour les abonnés comcast déçus ». L’impact serait phénoménal.[/quote]
+Peut-être parce que les gens au courant sont une minorité ?Peut-être aussi parce que, contrairement au mythe populaire, les USA sont TRES TRES mal desservis niveau concurrence pour tout ce qui concerne NET et Cable en dehors des grandes villes, et que tu as souvent le choix entre l’opérateur X et…. l’opérateur X.
+Rajoute a ça que, encore plus que chez nous, il y a des barrires la résiliation vu que tout passe par la au final (téléphone, tv, net, etc etc) et tu as probablement la réponse ta question.
+0
+En cours (3 min) : Filtrage du P2P : Comcast défie le régulateur américain
+3 commentaires
+Tech
+Société
+Pop culture
+Business
+Sciences
+Startups
+Préférences
+À propos
+Contact
+Nous suivre sur les réseaux
+La seule chose dont on soit sûr, après la mort, c'est qu'on aide l'herbe et les fleurs à pousser, tout le reste, ce sont des boniments.

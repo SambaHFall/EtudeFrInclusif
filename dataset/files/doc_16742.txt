@@ -1,0 +1,110 @@
+Baux CommerciauxBaux d'HabitationConflit de VoisinageConseil des prudhommesDivorceDommage Corporel et indemnisation des victimesDroit Administratif et PublicDroit Bancaire et BoursierDroit CivilDroit Commercial - ConcurrenceDroit d'AuteurDroit de l'EnvironnementDroit de l'ImmobilierDroit de l'UrbanismeDroit de l’Expropriation / PréemptionDroit de la ChasseDroit de la ConsommationDroit de la ConstructionDroit de la CopropriétéDroit de la DistributionDroit de la FamilleDroit de la Fonction PubliqueDroit de la Propriété IntellectuelleDroit de la Propriété Littéraire et ArtistiqueDroit de la SantéDroit de la Sécurité SocialeDroit des AffairesDroit des Associations et FondationsDroit des AssurancesDroit des ContratsDroit des ÉtrangersDroit des MarquesDroit des MineursDroit des SociétésDroit des SuccessionsDroit des TransportsDroit DouanierDroit du SportDroit du TravailDroit ÉconomiqueDroit ÉquinDroit FiscalDroit Fiscal InternationalDroit InternationalDroit Numérique - informatique - internetDroit PénalDroit Pénal des AffairesDroit Routier et Permis de conduireDroit RuralDroit SocialIndivisionMédiation et ArbitrageRecouvrement de créance - Saisie - Procédure d’exécutionSurendettement
+RouenChoisir votre ville
+Filtrer par :
+Avocats en ligne
+Accepte l’aide juridictionnelle
+Avocats spécialistes
+Je recherche :
+Un avocat individuel
+Un cabinet d'avocats
+Expérience :
+- 5 ans
+5 à 10 ans
++ de 10 ans
+Langues parlées
+ToutesFrançaisAnglaisEspagnolItalienAllemandArabePortugaisRusseChinoisTurcHébreuCréoleSuédoisLingalaGrecBulgarePolonaisRoumainSerbeLangue des signesWolofSwailiEcossaisHindiPendjabiOurdouArménienDanois
+Accueil
+Avocats Droit de la Famille
+Avocats Rouen
+Avocats Droit de la Famille Rouen
+8 Avocats spécialisés en Droit de la Famille à Rouen
+Filtres
+Maître Charlotte TERSIN
+76000 Rouen25 Rue Beauvoisine, Rouen, France
+Avocat Droit de la Famille
+17 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Charlotte TERSIN est avocate à Rouen et vous représente en droit de la famille ainsi qu’en droit pénal. Maître Charlotte TERSIN vous conseille en droit de la famille pour les dossiers afférents au divorce, à la séparation...
+33232104838
+Contacter cet Avocat
+Maître Lisa LENGLET
+76000 Rouen1 Rue Guillaume le Conquérant, Rouen, France
+Avocat Droit de la Famille
+10 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Lisa LENGLET est avocat à Rouen depuis 2011 et elle exerce principalement dans les matières suivantes : droit pénal, droit du dommage corporel et en droit de la famille. En matière pénale, Maître LENGLET se charge de votre...
+33661832400
+Contacter cet Avocat
+Maître Véronique PARAISO
+76000 Rouen39 Quai du Havre, Rouen, France
+Avocat Droit de la Famille
+18 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Véronique PARAISO vous reçoit à son cabinet situé à Rouen. Cette avocate traite toute affaire relative au droit de la famille, au droit du travail, au droit des étrangers et aux contentieux locatifs. En droit de la...
+33235892316
+Contacter cet Avocat
+Maître Béatrice LHOMMEAU / Cabinet BLG Avocats
+76100 Rouen21 Avenue de Bretagne, 76100 Rouen, France
+Avocat Droit de la Famille
+31 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Béatrice LHOMMEAU est avocat à Rouen et intervient en droit commercial et de la concurrence droit de la famille, des personnes et de leur patrimoine et droit du travail. Elle dispose d'un second cabinet situé à Bourg...
+33232083670
+Contacter cet Avocat
+Maître Clémence ROUSSELET
+76000 Rouen1 Rue Guillaume le Conquérant - 76000 ROUEN
+Avocat Droit de la Famille
+8 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Clémence ROUSSELET, avocat ayant prêté serment au barreau de Rouen en 2013, vous reçoit au sein de son cabinet situé place du Vieux Marché à Rouen, accessible par métro station Palais de Justice ou par bus Théâtre...
+33235004858
+Contacter cet Avocat
+Maître Angélique MACREL
+76000 Rouen51 Boulevard de la Marne, 76000 Rouen, France
+Avocat Droit de la Famille
+9 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Angélique Macrel est avocat à Rouen depuis sa prestation de serment en 2012 et vous reçoit au sein de son cabinet situé au 17 rue des Arsins à proximité de l’hôtel de ville de Rouen . Maître...
+33777310382
+Contacter cet Avocat
+Maître Alice MOSNI
+76000 Rouen7 rue des bonnetiers
+Avocat Droit de la Famille
+7 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Alice MOSNI est avocat depuis 2014, installé à Rouen, elle vous reçoit au sein de son cabinet situé 49 rue aux juifs. Maître Alice MOSNI intervient en droit de la famille, des personnes et du patrimoine. A...
+33235842813
+Contacter cet Avocat
+Maître Marie-Laure LENGLET-FABRI
+76000 Rouen55 rue aux Juifs, 76000 Rouen, France
+Avocat Droit de la Famille
+48 ans d'experience
+Accepte l’aide juridictionnelle
+Maître Marie Laure LENGLET-FABRI est avocat à Rouen et elle exerce en droit de la famille et en droit des successions. Maître LENGLET- FABRI vous accompagne en droit de la famille pour des procédures de divorce à l'amiable...
+33684229597
+Contacter cet Avocat
+'+nbroftags+" Filtres"),submitfilter(),document.querySelector("#find-me").addEventListener("click",geoFindMe),document.getElementById("loader").style.display="none"}); function trackVideoBannerClick(){dataLayer.push({event:"dataLayer.gaEvent", gaEvent:{category:"Search", action:"Online Consultation Banner", label:'click'}});}
+Qui sommes nous ?
+Justifit (ex mon-avocat.fr) est le site expert de la mise en relation entre particuliers, professionnels et avocats.
+Simple d’accès, notre site permet à l’avocat de gérer sa présence numérique et d’accéder à une clientèle plus diverse. Fiche personnalisée, mise en avant et mise en relation simplifiée : tous les outils sont là pour entrer en contact avec votre futur client.
+Articles récents
+Conséquence redressement judiciaire
+Convocation pour délit de fuite : que faire ?
+Lettre de recommandation pour naturalisation
+Quels sont les rôles du RGPD ?
+Délit de fuite et dégâts matériels
+J’ai commis un délit de fuite, que faire ?
+Différence entre délit de fuite et refus d’obtempérer
+Comment nier un délit de fuite ?
+À propos
+Contact presse
+Qui sommes-nous ?
+Notre Comité d’Experts
+Notre ligne éditoriale
+Ils viennent de nous rejoindre
+Questions fréquentes
+Conditions Générales d’Utilisation
+CGV
+Suivez-nous
+© 2021 Justifit - Tous droits réservés
+Nous avons modifié notre site au regard des nouvelles normes relatives au traitement des données personnelles (RGPD), consultez notre politique de confidentialité. Les cookies que nous posons sur ce site servent à vous proposer une navigation adaptée à vos centres d'intérêts et à nous permettre de réaliser des statistiques de visites.

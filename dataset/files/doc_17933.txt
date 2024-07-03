@@ -1,0 +1,63 @@
+Métropole de Lyon (Délégation Développement économique, emploi et savoirs (DEES) / Direction Innovation Numérique et Systèmes d'Information (DINSI) / Service Géomatique et Données Métropolitaines)
+downloadable
+yes
+93 datasets found.
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Toussieu
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Rillieux-la-Pape
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Limonest
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Lyon 8e Arrondissement
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Montanay
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Feyzin
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Craponne
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune d'Albigny-sur-Saône
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Bâtiments construits entre 2012 à 2015 de la Métropole de Lyon
+La couche "CONSTRUCTIONS_2012-2015" représente l’évolution du bâti entre mars 2012 et mai 2015 sur les 59 communes de la Métropole de Lyon. Les entités sont des Polygones 2D représentant des bâtiments (ou des éléments de bâtiments). La valeur de l’attribut HAUTEUR est donnée avec une précision métrique. Elle correspond à la distance entre l’altitude du sol sous le bâtiment et sa gouttière la plus haute. Les éléments de superstructures…
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Saint-Genis-Laval
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Saint-Germain-au-Mont-d'Or
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Francheville
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Fontaines-sur-Saône
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Fleurieu-sur-Saône
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Villeurbanne
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Pusignan
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de La Tour-de-Salvagny
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Lissieu
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Lyon 7e Arrondissement
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).
+License: Licence Ouverte 2.0Last update: unknown
+Classification 2009 des espaces végétalisés et artificialisés de la commune de Rochetaillée-sur-Saône
+Classification des espaces végétalisés et artificialisés (référence : ortho-photographie 2009) en 14 thèmes : du sol nu aux forêts, eau, artificiel, bleu ou piscine, végétal sur toiture. Le fichier de légende des thèmes est fourni avec la fiche (téléchargeable pdf).

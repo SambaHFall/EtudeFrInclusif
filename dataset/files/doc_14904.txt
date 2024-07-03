@@ -1,0 +1,115 @@
+Actuellement en stage dans un réseau de médiathèques, je travaille sur la mise en place de tablettes, en consultation et pour de la médiation.
+Je me pose la question du catalogage des applications dans le SIGB. Cela pourrait permettre au service de gagner en visibilité.
+Est-ce que certains d'entre vous ont catalogué des applications ? Si oui, comment ?
+Merci d'avance pour vos réponses
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+bldine
+Posté(e) le 4 février 2014
+bldine
+Membre
+29
+Share
+Posté(e) le 4 février 2014
+Bonjour,
+De notre côté, les tablettes sont presque prêtes à être mises au public (en consultation sur place). Nous ne catalogons pas les applications, par contre, nous avons catalogué les tablettes en elles-même, pour leur donner une visibilité sur le portail notamment ...
+C'est sûr que l'idéal serait effectivement de cataloguer le contenu mais ce qui semble difficile c'est ensuite de mettre à jour régulièrement le tout (on le fait pour les liseuses, dont le détail est dans le champs "contient" avec titres et auteurs référencés mais ça nous "fige" un peu le contenu tellement c'est fastidieux ...)
+Voilà pour mon expérience, je serais curieuse de savoir comment font les autres ... !
+Blandine
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Padawan
+Posté(e) le 4 février 2014
+Padawan
+Membre
+24
+Île de France
+Share
+Posté(e) le 4 février 2014
+Bonsoir,
+Pas de catalogage d'applications chez nous.
+Pour le matériel, liseuses et tablettes sont cataloguées comme nouveau support (unique). Et les livres numériques sont catalogués comme cela: un titre avec 5 exemplaires qui correspondent chacun à une liseuse. Cela permet de faire un parallèle avec le support papier dans le catalogue et cela évite de multiplier les notes de contenu.
+Aussi ravie de connaître les expérimentations de chacun!!
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Tiphaine
+Posté(e) le 8 février 2014
+Tiphaine
+Membre
+18
+Share
+Posté(e) le 8 février 2014
+Chez nous, pas de catalogage d'applications non plus. Les tablettes sont référencées dans notre SIGB comme un document à part entière. Cela permet de les mettre sur les cartes des utilisateurs pendant la consultation sur place et aussi d'avoir des statistiques de prêt.
+Concernant les liseuses, nous n'en proposons pas.
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+1 month later...
+Floriane
+Posté(e) le 27 mars 2014
+Floriane
+Membre
+1
+Share
+Posté(e) le 27 mars 2014
+Bonjour,
+à l'espace jeunesse, deux tablettes sont en consultation et je commence à réfléchir sérieusement sur le catalogage des applications "A consulter sur-place". J'ai créé un nouveau type de doc (application numérique) et une localisation (tablette tactile jeunesse). L'intérêt effectivement est de gagner en visibilité pour une collection à part entière et complémentaire. Ce sera plus pratique aussi de créer des coups de coeur sur notre portail et de faire des liens. Les codes barres exemplaires sont fictives. Mais j'ai encore quelque problème pour faire remonter un visuel par exemple. Bref, c'est en cours ! et vous ?
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Ben
+Posté(e) le 28 mars 2014
+Ben
+Membre
+55
+Share
+Posté(e) le 28 mars 2014
+Ce qui pourrait être fait c'est de cataloguer la tablette (ou liseuse) et dans la notice créer un "327 note sur le contenu" (ou un autre) et de mentionner les appli que tu as sur la machine. C'est le principe que l'on applique chez nous pour les pistes des Cd
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+bldine
+Posté(e) le 1 avril 2014
+bldine
+Membre
+29
+Share
+Posté(e) le 1 avril 2014
+Bonjour,
+Je rajoute des éléments de réflexion : pour que ce soit pertinent, il faut prendre en compte la lisibilité finale de la notice. si le but est de rendre visible le contenu des tablettes, il faut que visuellement, cela fonctionne ... Et pour que le pavé "contient" ne soit pas trop énorme, il faudrait se limiter à un certain nombre d'applications maximum (autour de 50, c'est déjà pas mal)... Du coup, est-ce pertinent ?
+De plus, les titres des applications sont-ils tous parlants ?
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Tiphaine
+Posté(e) le 2 avril 2014
+Tiphaine
+Membre
+18
+Share
+Posté(e) le 2 avril 2014
+Après avoir bataillé un moment avec un fichier excel qui nous permettait de voir "quelle appli sur quelle tablette ?", nous avons finalement pris le parti de les référencer dans notre catalogue comme suit.
+Chaque tablette est toujours référencée comme un document à part entière mais cette fois-ci nous n'avons plus 1 notice avec autant d'exemplaires qu'on a de tablettes. Nous avons créé une notice mère pour chacune d'entre elles. Et comme sur nos tablettes les applis sont classées dans des dossiers, nous avons fait une notice analytique par dossier, puis nous y avons mis le titre de chaque application en titre de dépouillement. Cela nous permet de rechercher au titre les applis dans notre catalogue et de savoir de suite sur quelle tablette elle est installée. Le classement par dossier permet d'avoir les grandes lignes du contenu ainsi qu'une idée de l'âge auquel les applis sont destinées. Voici un exemple de notice :
+Ce système est beaucoup plus lisible et rapide pour renseigner nos usagers et permet d'intégrer au minimum les applications pour la recherche documentaire. Les titres ne sont effectivement pas toujours parlants mais rien n'empêche d'ajouter une brève précision à côté du titre : ex : "hangman" (jeu de pendu), "diamond esc" (jeu d'énigmes), etc.
+Citer
+Lien vers le commentaire
+Partager sur d’autres sites
+More sharing options...
+Rejoindre la conversation
+Vous pouvez publier maintenant et vous inscrire plus tard. Si vous avez un compte, connectez-vous maintenant pour publier avec votre compte.
+Répondre à ce sujet…
+× Collé en tant que texte enrichi. Restaurer la mise en forme
+Seulement 75 émoticônes maximum sont autorisées.
+× Votre lien a été automatiquement intégré. Afficher plutôt comme un lien
+× Votre contenu précédent a été rétabli. Vider l’éditeur
+× Vous ne pouvez pas directement coller des images. Envoyez-les depuis votre ordinateur ou insérez-les depuis une URL.

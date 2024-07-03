@@ -1,0 +1,248 @@
+Depuis plus de vingt ans, l’État et ses administrations ont recours à l’expérimentation comme méthode de politique publique pour tenter de transformer l’action publique. Éléments de réflexion sur cette pratique de l’expérimentation en France et sur la notion d’administration apprenante pour penser l’État de l’après-covid.
+Résumé
+Pourquoi expérimenter ? Au fondement de l’expérimentation comme méthode de politique publique se trouve le constat des impasses à construire des politiques publiques durables, capables de capitaliser sur des succès ou des échecs de terrain. Ce constat traduit la vision de trois maladies de l’action publique :
+le syndrome de Pénélope qui peut se résumer par la maxime « Faire et refaire, c’est toujours travailler ». La politique de la ville illustre à merveille l’idée que faire des dispositifs est parfois l’opposé de construire des politiques publiques. Un second exemple concerne l’insertion professionnelle des jeunes. Depuis quarante-cinq ans (le premier dispositif date de 1977), plus de quatre-vingts dispositifs différents d’aide à l’emploi des jeunes ont été mis en place ;
+le syndrome du maître-nageur ou l’hyperspécialisation, deuxième mal de l’action publique, qui porte avec lui l’idée que dans la conception même des politiques publiques chacun doit rester dans sa ligne, au risque parfois que le citoyen voit arriver à lui dix athlètes différents et peu coordonnés ;
+le syndrome de la belle endormie, qui est la propension du réformateur à envisager la société française comme un corps inerte auquel il faudrait administrer des potions, ce que je vous propose d’appeler « de la belle endormie ». La transformation publique sera d’autant plus efficace qu’elle reposera sur des boucles d’apprentissage courte, construite dans le contact direct de l’usager.
+Longtemps dévolue à la sphère sociale ou à celle de l’éducation, la promotion des exigences d’évaluation qu’implique le « evidence based policies » (EBP) est devenu un standard commun à l’ensemble de l’action publique.
+Le mot expérimentation est souvent utilisé de façon approximative parfois pour désigner parfois une micro-initiative locale, parfois une mesure mise en œuvre pour une durée de vie limitée. Plutôt que d’envisager des dispositifs lourds et coûteux, il est parfois préférable de tester des approches plus légères et bien ciblées. C’est l’idée selon laquelle une simple « bourrade » (nudge approachs) peut suffire parfois à obtenir des résultats. Concernant les limites à l’approche expérimentation, elles sont de trois types : l’expérimentation n’a pas vocation à s’appliquer à toutes les situations, le recours aux méthodologies d’évaluation qu’implique l’expérimentation se heurte à une très forte inertie, Plus fondamentalement, rien n’est possible si l’administration n’assume pas sa part d’erreur.
+La crise du covid-19 a montré l’intérêt de repenser le pilotage par la donnée des politiques publiques […]. La question des organisations apprenantes pourrait devenir un chantier transversal de la transformation publique pour penser l’État de l’après-covid. Je suis convaincu que ses implications sont multiples notamment dans la gestion des ressources humaines.
+La crise du covid-19 a montré l’intérêt de repenser le pilotage par la donnée des politiques publiques et notamment de résorber la dichotomie existante entre la filière statistique de l’État, principalement axée sur la collecte de donnée « froide » et les projets nombreux qui émergent dans les directions métier autour de l’intelligence artificielle et qui s’appuient principalement sur des données « chaudes », collectées directement auprès des usagers. Dans cette révolution de la donnée figure en germe la capacité d’appréhender en continu la transformation publique. Pour tirer le plein parti de la révolution de la donnée, le concept d’organisation apprenante livre un certain nombre de principes d’action. La question des organisations apprenantes pourrait ainsi devenir un chantier transversal de la transformation publique pour penser l’État de l’après-covid-19 pour aller vers des administrations apprenantes.
+Ancienne est la tradition qui vaut aux Français la réputation de peuple ingouvernable. Elle s’exerce en dehors de nos frontières jusqu’au cliché. La satire des passions françaises est devenue un genre littéraire à part entière à l’étranger, dont le journaliste britannique Stephen Clarke et l’historien Théodore Zeldin ont été les porte-drapeaux. Elle traverse nos élites depuis plusieurs décennies en empruntant successivement le thème de la société bloquée à Michel Crozier, qui l’avait lui-même emprunté à Stanley Hoffman, puis celui de la « société de défiance », illustré par un essai magistral de Pierre Cahuc et Yann Algan1 hélas vieux de dix ans. Chaque fois, un raisonnement circulaire s’installe, qui laisse peu de porte de sortie : la défiance nourrit la défiance.
+Une certaine mythologie s’est installée dans le langage politique selon laquelle la réforme serait le seul remède à cette situation. La presse française est sans doute la seule au monde à admettre le mot « réforme » sans davantage de qualificatif. La vie politique française, la seule où les rengaines « il faut continuer les réformes », « il faut avoir le courage des réformes », « le temps est venu des réformes », paraissent riches de sens. On ne compte plus non plus les clubs de pensée qui considèrent en toute bonne foi que « réformer » suffit à définir leur programme et à fédérer une communauté de pensée.
+Cette tradition a sa scénographie. Les gouvernements montent sur scène en ayant claironné la difficulté qu’ils affrontent. La réforme est une prouesse. Quels que soient son objet, son intention, sa direction, la réforme est positive, car elle est une réforme. Il y aurait un courage intrinsèque à bousculer les instincts conservateurs des Français.
+Le terme est une marque dont la valeur est étroitement associée à la figure du « réformateur », celui qui accepte de penser les problèmes de la société en laissant de côté les idéologies, notamment les idéologies les plus extrêmes. Cette figure est une « mythologie », au sens de Barthes, un discours dans lequel le message signifié prend le pas sur le signifiant. Se dire « prêt à continuer les réformes » pour un homme politique, c’est un peu comme se faire prendre le portrait dans les studios Harcourt pour un acteur des années 1950. C’est une forme de test de respectabilité. Le signal d’une aptitude au pouvoir.
+Les racines de cette mythologie sont aussi anciennes que celle qui font du mot « terre de commandement » un élément de notre identité. Il existe un art de gouverner à la française, qui postule une société inerte. Ce modèle a fait ses preuves. Il sait transformer vite et bien. L’histoire a offert des occasions pour adopter en bloc de grands programmes de transformation : création du franc Poincaré, programme du Front populaire, du Conseil national de la résistance, programme du gouvernement de Pierre Mendès France, réforme des institutions en 1958, rapport du comité Armand Rueff, création de la sécurité sociale en 1967, le programme commun... La mythologie de la réforme a ses heures de gloire et ses héros.
+Depuis le 17 mars 2020, date de démarrage du confinement, une forme de rupture s’est créée qui ne tolère plus le caractère séquentiel de cette mythologie. Évaluer un gouvernement pour ses réformes c’est l’évaluer par à-coup, de façon discontinue, en reliant des décisions et des résultats. La réalité est que la société est un système vivant continu. Avec le covid-19, nous avons pris plus que jamais la mesure d’une autre dimension de l’action publique : répondre aux risques et saisir les opportunités qui émergent dans des écosystèmes complexes, en s’appuyant sur une expertise susceptible d’évoluer extrêmement rapidement.
+Pour le dire d’une autre façon : chaque Français a potentiellement la prétention, lorsqu’il envisage un programme politique, de défendre la mesure magique, la seule, l’unique, qui transformera la société tout entière. La vérité est que cette société est un système, doté d’une très forte entropie, et qui doit d’abord retrouver une capacité à évoluer dans le bon sens. Il n’existe pas de réforme magique, il n’existe qu’une transformation qui elle-même ne devient lisible que s’il existe une vision partagée des tendances de ce système. C’est à travers cette conviction que je voudrais livrer quelques réflexions sur la notion d’expérimentation telle qu’elle s’est développée depuis deux décennies.
+Pourquoi expérimenter ?
+Au fondement de l’expérimentation comme méthode de politique publique se trouve le constat des impasses à construire des politiques publiques durables, capables de capitaliser sur des succès ou des échecs de terrain. Il me semble que ce constat traduit la vision de trois problématiques différentes :
+Le syndrome de Pénélope
+On pourrait résumer ce premier défi de l’action publique par la maxime « Faire et refaire, c’est toujours travailler ».
+Lorsque l’on conçoit les politiques publiques comme une succession de réforme, le risque existe de s’enfermer dans une vision séquentielle de l’action à conduire, qui est elle-même un obstacle au résultat. La politique de la ville en est une illustration de choix : depuis quarante ans et le rapport Dubedout (1983)2, la politique de ville a connu une succession de plans, qui furent autant de sigles : programme de développement social des quartiers (DSQ), opérations ville vie vacances, ateliers santé ville, zones franches, contrat éducatif local (CEL), plan éducatif local (PEL), dispositif TRACE (pour « trajet d’accès à l’emploi »), internats de réussite éducative, groupements de réussite éducative différents contrats aidés, parcours d’accès à la fonction publique (PACTE), plus récemment contrat d’autonomie, emplois francs pour ne citer qu’une partie d’entre eux... La Cour des comptes concluait déjà en 2003 que l’évaluation de la politique de la ville était « rudimentaire ». Les épisodes qui suivront ce rapport ne feront toutefois qu’amplifier le mouvement giratoire de cette lessiveuse : le plan de cohésion sociale en 2004, puis après la crise des banlieues, la loi sur l’égalité des chances, en 2008, le plan Espoir banlieue, etc. La politique de la ville illustre à merveille l’idée que faire des dispositifs est parfois l’opposé de construire des politiques publiques.
+L’économiste britannique Julian Le Grand compare l’organisation des services publics à un jeu d’échec sur lequel se déplaceraient des fous et des cavaliers (selon le type de motivation), des pions et des dames (selon le niveau d’autonomie). Les fous sont animés par la recherche de leur intérêt propre. Les chevaliers sont altruistes. Les dames ont une grande capacité d’adaptation et de déplacement à travers les jeux. Les capacités des pions sont beaucoup plus limitées.
+Un second exemple concerne l’insertion professionnelle des jeunes. Depuis quarante-cinq ans (le premier dispositif date de 1977), plus de quatre-vingts dispositifs différents d’aide à l’emploi des jeunes ont été mis en place. Un quart des emplois occupés par des jeunes sont aujourd’hui des emplois subventionnés par l’État. Cette politique n’a pas amélioré la transition entre la sortie de formation et l’emploi. Au contraire, le taux d’emploi des jeunes s’est réduit, en particulier pour la tranche d’âge 20-24 ans. Il est en France très nettement en dessous de la moyenne OCDE (- 8 points). Les contrats aidés appliqués aux jeunes visent à réduire le coût du travail pour certaines catégories particulières, en général les jeunes sans qualification. Dans le secteur non marchand, les emplois aidés ont un impact direct sur les statistiques de l’emploi mais pénalisent les trajectoires professionnelles de leurs bénéficiaires. À l’inverse, dans le secteur marchand, les emplois aidés ont un bon taux de transformation, mais concernent des jeunes qui auraient de toute manière été embauchés. Ces mécanismes ciblés ont des effets paradoxaux : quand ils concernent les jeunes pas qualifiés, ils pénalisent les jeunes peu qualifiés ou titulaires de diplômes moins recherchés sur le marché du travail.
+On pourrait prendre bien d’autres exemples de politiques publiques qui sont vouées à l’impuissance faute d’une analyse des causes de leur échec et qui sont pourtant réformer, tel l’ouvrage de Pénélope, pour maintenir tendu l’attention que l’État porte à certains de ses concitoyens. Des administrations entières sont chargées de mettre en œuvre ces politiques, de faire chauffer et refroidir des politiques de stop and go autour de nouveaux dispositifs, d’essayer de convaincre les entreprises que leur nouvelle offre est cette fois-ci véritablement supérieure. Ces administrations élargiraient considérablement leurs horizons si on leur demandait de raisonner non pas en fonction de dispositifs, mais en fonction de leurs objectifs, et si elles avaient la possibilité d’expérimenter.
+Le syndrome du maître-nageur
+Un deuxième mal de l’action publique, lorsqu’elle est conçue comme une succession de « réformes », est celui de l’hyperspécialisation. Je l’ai parfois appelé le « syndrome du maître-nageur », car il porte avec lui l’idée que dans la conception même des politiques publiques chacun doit rester dans sa ligne, au risque parfois que le citoyen voit arriver à lui dix athlètes différents et peu coordonnés.
+Il y a souvent du paternalisme dans la tendance à l’hyperspécialisation de l’action publique. Prenons à nouveau l’exemple des politiques à l’égard des jeunes. Beaucoup d’institutions ont une responsabilité et une compétence à l’égard des jeunes, mais aucune n’est pleinement responsable. La tentation est forte de séparer artificiellement les jeunesses selon leur statut d’emploi ou de formation : celle qui travaille, celle qui étudie et celle de l’entre-deux. Chacune appellerait des solutions particulières, alors que cette séparation n’existe pas vraiment dans la vie des jeunes : un étudiant sur sept travaille ; beaucoup de jeunes en emploi sont aussi en formation ; le fait d’être ni en emploi ni en formation ne peut être conçu pour un jeune comme un état, mais comme une situation dont il faut sortir. Spécialiser les politiques publiques est le plus sûr moyen de s’empêcher d’apporter les bonnes réponses aux problèmes de transition qui se posent de façon exponentielle après une année de covid-19.
+Les sciences économiques ont largement théorisé l’idée même selon laquelle tout bon dispositif de politique publique se doit de répondre à un objectif unique : à courir trop de lièvres à la fois, une politique risquerait de n’atteindre aucun de ses objectifs. En politique monétaire, ce principe est connu sous le nom de « règle de Tinbergen » avec pour enjeu principal de répartir le rôle de la politique budgétaire – relancer l’économie – et celle de la politique monétaire – assurer la stabilité des prix. Dans le domaine de la lutte contre la pauvreté, on mesure les impasses de cette logique de spécialisation. Lorsque l’on doit prendre une décision de revalorisation des minima sociaux, on affronte immédiatement les problèmes posés par la conciliation entre des objectifs différents : réduire la pauvreté, augmenter les incitations à travailler et maitriser la dépense publique. L’historien Peter Lindert3 a montré qu’il existe ainsi un « trilemme de l’État providence » (welfare trilemma) qui imposera toujours de faire des choix. Pour lutter contre la pauvreté tout en développant l’emploi, les politiques conduites dans les années 1990 ont tâché de conserve de revaloriser le niveau des minima sociaux, modérer l’évolution du salaire minimum et accroître le niveau des prestations familiales, les trois évolutions aboutissant peu à peu à une situation dans laquelle l’inactivité devient plus rémunératrice que le travail. Et c’est cette situation que l’on essaie de corriger depuis lors, parfois en réduisant le pouvoir d’achat des minima sociaux, parfois en augmentant les primes à l’activité.
+Toute politique publique, dès lors qu’elle est pensée dans son écosystème, pose des problèmes de conciliation entre objectifs. Refuser d’y faire face est l’une des impasses de notre époque et la source de la complexité administrative. Alors que l’État providence a acquis une taille critique, gouverner implique plus que jamais de hiérarchiser les objectifs et de penser des solutions qui ne se neutralisent pas entre elles. Pour sortir de l’hyperspécialisation, l’expérimentation permet d’évaluer les effets combinés de plusieurs décisions et de mettre en place une véritable stratégie de transformation.
+Le syndrome de la belle endormie
+Une troisième maladie de la transformation publique est la propension du réformateur à envisager la société française comme un corps inerte auquel il faudrait administrer des potions, ce que je vous propose d’appeler « de la belle endormie ».
+Dans l’ensemble des démocraties développées. Les citoyens accordent une préférence accrue pour le libre choix et l’autonomie4 dans la construction des services publics. Cette évolution est liée au renouvèlement des générations et à travers elle, à l’évolution de la notion même de « service ». Les générations qui ont grandi dans une économie postérieure au boom économique des Trente Glorieuses ont fait du choix une valeur cardinale de la relation de service. Et celles qui ont grandi dans un monde de commerce en ligne ont fait de la personnalisation de l’offre le point de départ de toute relation.
+L’État est naturellement embarrassé par cette évolution. À tous les âges de la vie, nous accordons systématiquement une préférence pour le dispositif qui ménage le plus de liberté de choix à l’individu et presque toujours : libre choix du mode de garde dans la petite enfance (entre accueil individuel et accueil collectif), libre choix de l’établissement scolaire, libre choix de l’orientation universitaire, libre choix entre hébergement chez les parents ou désaffiliation précoce, libre choix entre un modèle familial mono-actif et un modèle biactif, libre choix dans le retour à l’emploi après un épisode de chômage, libre choix d’une reconversion professionnelle lorsqu’un emploi ne donne plus satisfaction, libre choix du médecin, libre choix des horaires de train, libre choix dans l’âge du départ à la retraite, libre choix entre domicile et établissement quand arrive l’âge de la dépendance, etc. La plupart des progrès sociaux peuvent ainsi être envisagés comme des progrès vers une plus grande autonomie des individus pour s’ajuster aux contraintes qu’implique l’organisation d’un État providence à grande échelle.
+L’économiste britannique Julian Le Grand a livré dans les années 1980 un certain nombre de principes clés pour tirer les conséquences de cette évolution dans le design des politiques publiques5. Il compare l’organisation des services publics à un jeu d’échec sur lequel se déplaceraient des fous et des cavaliers (selon le type de motivation), des pions et des dames (selon le niveau d’autonomie). Les fous sont animés par la recherche de leur intérêt propre. Les chevaliers sont altruistes. Les dames ont une grande capacité d’adaptation et de déplacement à travers les jeux. Les capacités des pions sont beaucoup plus limitées.
+Pour Julian Le Grand, les deux enjeux centraux de l’organisation du service public doivent être :
+d’éviter que les cavaliers ne soient pénalisés et au contraire valoriser leur action, c’est-à-dire rendre la solidarité plus active du côté du fournisseur de service : cela veut dire d’enrichir considérablement la réflexion sur les incitations efficaces dans la production d’un plus grand service public. Un enjeu essentiel à cet égard est d’examiner les circonstances dans lesquelles les incitations non financières (pression par les pairs, valorisation professionnelle) priment sur les incitations financières (paiement à la performance), mais aussi de déterminer les interactions entre ces deux formes d’incitation (les incitations financières tuent souvent les incitations non financières et ne sont efficaces qu’au-delà d’un certain niveau et dans certaines circonstances) ;
+de transformer les pions en reine, c’est-à-dire rendre la solidarité plus active du côté de l’usager, dans un cadre qui garantit une certaine forme de coordination naturelle : il s’agit de donner les moyens aux usagers du service public d’être eux-mêmes acteurs de la production de service, soit sous la forme de services de conseils ou d’accompagnement (c’est, par exemple, le cas des programmes de disease management pour les malades chroniques ou de case management pour les chômeurs de longue durée) ou de mettre l’accent sur des programmes visant à donner davantage d’information à l’usager du service public pour renforcer ses capacités de choix (comme par exemple l’information des patients sur des indicateurs de qualité des soins ou l’information des étudiants sur les taux d’’insertion professionnelle à la sortie des universités, etc.).
+Une des leçons essentielles de Julian Le Grand est que dans la plupart des cas, on ne peut identifier les évolutions nécessaires du service sans fondamentalement tâtonner. La transformation publique sera d’autant plus efficace qu’elle reposera sur des boucles d’apprentissage courte, construite dans le contact direct de l’usager.
+Vers des evidence based policies (EBP)
+Une des caractéristiques fortes des politiques publiques nécessaires à la réponse au covid-19 aura été de devoir créer justement une capacité d’apprentissage rapide, pour s’adapter aux évolutions des conditions de diffusion du virus : à quel moment imposer le port du masque ? Quelle stratégie de vaccination ? Quelles mesures de déconfinement ? Il ne s’est pas passé une semaine depuis un an sans que le gouvernement ne soit amené à recaler sa stratégie en raison d’évolution de la situation épidémique et/ou d’évolution de la science sur le virus.
+Longtemps dévolue à la sphère sociale ou à celle de l’éducation, la promotion des exigences d’évaluation qu’implique le « evidence based policies » (EBP) est ainsi devenu un standard commun à l’ensemble de l’action publique. Avec l’EBP, c’est tout entière la bascule vers des politiques publiques incrémentales qui est recherché.
+Des petites idées aux grandes réformes
+Le mot expérimentation est souvent utilisé de façon approximative parfois pour désigner parfois une micro-initiative locale, parfois une mesure mise en œuvre pour une durée de vie limitée. À titre d’exemple, deux lois, qui ont été initialement prévues à titre temporaire, se sont dites « expérimentales » (loi du 17 janvier 1975 relative à l’interruption volontaire de grossesse6 et du 1er décembre 1988 instituant le revenu minimum d’insertion7).
+Depuis plusieurs décennies, une conception plus rigoureuse s’est imposée qui s’appuie sur des travaux de recherche en sciences humaines. Ces travaux visent à établir des méthodologies pour établir des EBP. Ils ont été, par exemple, au cœur des recherches d’Esther Duflo dans le champ de l’économie du développement8.
+Dans ce cadre, l’expérimentation se définit à partir de quatre éléments :
+Une innovation de politique publique [...] : il peut s’agir de tester un nouveau dispositif d’accompagnement, une incitation financière plus favorable ou un supplément d’information, voire tous ces éléments à la fois ; dans tous les cas, il semble essentiel que l’innovation testée soit porteuse de sens pour les politiques sociales, c’est-à-dire qu’on puisse la situer dans les perspectives d’évolution des politiques sociales, qu’on en connaisse les présupposés et qu’on identifie les questions auxquels elle est susceptible de répondre ; plus l’innovation testée est sophistiquée, plus il sera difficile de déterminer la part relative de chacune de ses composantes dans les résultats obtenus9 ;
+Initiée dans un premier temps à une échelle limitée, compte tenu des incertitudes existantes sur ses effets [...] : l’expérimentation est une mesure transitoire sur un petit groupe de population défini géographiquement ou sur la base d’autres critères ; elle doit aboutir à une décision politique ;
+Et mise en œuvre dans des conditions qui permettent d’en évaluer les effets… : cela suppose que n’existent pas de biais dans la sélection des bénéficiaires et que ces bénéficiaires soient comparables à un groupe de non bénéficiaires ; cela suppose également que le groupe des bénéficiaires ait atteint une taille critique ;
+[...] dans l’optique d’une généralisation : divers mécanismes peuvent limiter l’interprétation que l’on fait des résultats d’une expérimentation, dans l’optique d’une généralisation. Par exemple : le groupe de bénéficiaires peut ne pas être représentatif de la population générale ; le contexte dans lequel il se situe peut ne pas être comparable à l’ensemble de la société ; le fait pour les bénéficiaires de savoir que l’évolution de leur comportement sera mesurée peut biaiser les résultats ; plus généralement, la diffusion de l’information n’est pas identique dans la mise en œuvre d’un nouveau dispositif à une petite échelle et quand le dispositif est national, ce qui peut également biaiser les résultats.
+Plusieurs gouvernements anglo-saxons ont souligné l’intérêt du développement des techniques expérimentales chaque fois qu’il souhaitait promouvoir des comportements plus vertueux des citoyens. Plutôt que d’envisager des dispositifs lourds et coûteux, il est parfois préférable de tester des approches plus légères et bien ciblées. C’est l’idée, théorisée dans un ouvrage à grand succès10, selon laquelle une simple « bourrade » (nudge approachs) peut suffire parfois à obtenir des résultats. Elle a été au cœur du programme de transformation piloté au sein du Cabinet office britannique depuis maintenant dix ans par une petite cellule spécialement dédiée à l’animation d’expérimentations comportementales : la Behavioural Insights Team. Cette équipe a aujourd’hui pas moins de 750 projets à son actif !
+En France, j’ai moi-même contribué à la promotion de la logique expérimentale lors de la création du fonds d’expérimentation pour la jeunesse en 2008. Ce fonds avait été prévu par l’article 25 de la loi généralisant le RSA11. Il s’inspire de plusieurs modèles étrangers12, avec un périmètre limité à l’insertion des jeunes de moins de 26 ans. Son budget était conséquent (150 M€ sur trois ans) le cas échéant complété par des partenaires privés.
+Le fonds a été bien davantage qu’une caisse de financement. Il a endossé trois rôles :
+un rôle d’intermédiaire : pour mettre en relation des acteurs nombreux souvent trop parcellisés pour aboutir à des projets de taille suffisante pour être évalués ; pour mettre également en relation ces acteurs avec les équipes de recherche susceptibles de les évaluer ;
+un rôle d’aiguillon : le fait que la puissance publique conditionne son soutien à l’assurance que les résultats du projet seront correctement évalués est souvent indispensable pour conduire une évaluation digne de ce nom ;
+un rôle de facilitateur : bien souvent la conduite d’une expérimentation implique de déroger à des règles et/ou des pratiques des autorités publiques.
+Un conseil scientifique, composé de dix personnalités qualifiées dans le domaine de l’évaluation, était chargé de garantir la qualité des évaluations mises en œuvre.
+Le retour d’expérience que l’on peut réaliser du fonds d'expérimentation pour la jeunesse (FEJ) révèle un certain nombre de limites aux approches expérimentales.
+Les limites des approches expérimentales
+Le retour d’expérience que l’on peut réaliser du FEJ révèle un certain nombre de limites aux approches expérimentales. Elle me semble être de 3 types :
+L’expérimentation n’a pas vocation à s’appliquer à toutes les situations. Elle ne semble notamment pas pertinente face à une situation d’urgence financière ou sociale, ni quand les éléments pour la décision sont suffisants ou lorsqu’un dispositif ne peut pas être mis en œuvre et évalué à petite échelle, notamment parce que la population des bénéficiaires est mobile ou parce que la situation du territoire d’expérimentation est très évolutive. Les champs dans lesquels l’expérimentation a vocation à se développer n’en restent pas moins très nombreux ;
+Le recours aux méthodologies d’évaluation qu’implique l’expérimentation se heurte à une très forte inertie. Les administrations publiques ont tendance à surestimer les difficultés posées par le tirage au sort aléatoire des bénéficiaires. Si l’État n’impose pas une évaluation de type expérimental, il n’y a quasiment aucune chance que les porteurs de projet puissent y parvenir ;
+Plus fondamentalement, rien n’est possible si l’administration n’assume pas sa part d’erreur. C’est la logique même de l’expérimentation et le début de toute innovation.
+Lors de la création du FEJ, nous avions par exemple voulu tester plusieurs modèles d’incitation au maintien dans le système scolaire, en nous inspirant d’expérimentation à succès conduites outre-manche. Le rectorat de Créteil avait alors travaillé main dans la main avec les équipes de l’école d’économie de Paris (EEP). Cela a abouti à la construction de deux expérimentations, qui conduisaient chaque fois à tirer au sort des classes bénéficiaires par comparaison à des classes témoins : l’une s’appelait « la mallette des parents » et aura été un succès13 tel que le ministère de l’Éducation a très rapidement annoncé sa généralisation, sans d’ailleurs que celle-ci ne soit aujourd’hui en place dix ans après. Une autre expérimentation travaillait la question des incitations financières après 16 ans. Elle a été rapidement caricaturée. Le président de la République de l’époque avait dû s’interposer publiquement contre cette mercantilisation supposée de l’école. L’expérimentation était morte née.
+L’expérimentation est faite pour capitaliser sur les erreurs et sur les succès. Rien n’est possible s’il n’y a pas d’erreur. Nos sociétés ont pourtant besoin de direction. Cela ne disqualifie pas l’expérimentation de mon point de vue, mais impose de lui donner un sens politique plus pérenne.
+Vers des administrations publiques apprenantes
+Le pilotage par la donnée devient l’épine dorsale d’une action publique transformée en continu
+Dans l’urgence, la réponse au covid-19 a montré l’intérêt de repenser le pilotage par la donnée des politiques publiques et notamment de résorber la dichotomie existante entre la filière statistique de l’État, principalement axée sur la collecte de donnée « froide » et les projets nombreux qui émergent dans les directions métier autour de l’intelligence artificielle et qui s’appuient principalement sur des données « chaudes », collectées directement auprès des usagers. Dans cette révolution de la donnée figure en germe la capacité d’appréhender en continu la transformation publique.
+La publication du rapport Bothorel14 marque une rupture de temporalité. La France avait pris le tournant de l’open data depuis une dizaine d’année et la création de data.gouv.fr en 2011. Elle l’a fait pour des raisons militantes en même temps que démocratiques. Elle a pris une longueur d’avance sur le sujet, reconnue à l’échelle européenne : en 2020, l’étude Open Data Maturity conduite par le European Data Portal la positionnait ainsi dans le trio de tête à l’échelon européen, dans la catégorie des « avant-gardiste ». Cette dynamique marque le pas principalement parce qu’elle s’est focalisée sur un horizon trop étroit : la bascule de jeux de données existants vers un modèle ouvert ; le cœur du sujet devient aujourd’hui d’accélérer les dynamiques de collecte des données et de créer des opportunités de partage.
+Le principe d’« ouverture par défaut », consacrée par la loi pour une République numérique de 201615 est encore loin d’être appliqué. Mais plus encore, la formidable surface de contact et d’interaction des administrations publiques et opérateurs n’est pas utilisée pour ceux qu’elle est : l’un des éléments les plus essentiels du patrimoine de l’État, comme acteur de confiance auprès des citoyens. Cela implique de mieux intégrer la dynamique de la transformation publique et le pilotage des projets data.
+La Commission européenne a promu le concept d’écosystèmes de données de confiance ou « european data spaces ». Dans le domaine du tourisme, de l’éducation, de la logistique, de la formation professionnelle et de la rénovation des bâtiments, ce concept devient un levier de politique publique à part entière et un nouveau terrain d’expérimentation.
+La question des organisations apprenantes pourrait devenir un chantier transversal de la transformation publique pour penser l’État de l’après-covid-19.
+Le Data Governance Act et le futur Data Act vont imposer pour les administrations publiques de structurer une véritable fonction de pilotage de l’écosystème de données liées à leur mission. Nous sommes convaincus que la gouvernance des données ne doit plus être déterminée par une frontière hermétique entre la donnée propriétaire et inaccessible et le monde de l’open data. L’enjeu central pour la puissance publique est de favoriser un continuum de solutions en assurant une juste valorisation de l’effort de collecte et de traitement des données, tout en poussant au maximum pour la constitution d’écosystème ouverts.
+S’inspirer des principes des organisations apprenantes
+Pour tirer le plein parti de la révolution de la donnée, le concept d’organisation apprenante livre un certain nombre de principes d’action. Ce concept a été un élément du B-A-BA des nouvelles stratégies industrielles depuis le début des années 199016. Rien n’est plus étonnant que le total hermétisme des administrations publiques à ce concept, notamment pour celles qui ont précisément la charge du développement des apprentissages.
+Il est devenu nécessaire de remettre au centre de l’action publique la question de la conception même des organisations, de penser leur insertion dans des écosystèmes, de les rendre régulièrement productrices d’innovations et de favoriser la capitalisation du savoir.
+De même que le modèle de l’entreprise dirigée par un concepteur unique, détenteur du brevet ultime sur lequel repose le modèle économique d’une activité, a vécu, celui d’une administration centrale totalement dévolue à la mise en œuvre de l’agenda politique fixé par son ministre est devenu trop réducteur.
+La question des organisations apprenantes pourrait ainsi devenir un chantier transversal de la transformation publique pour penser l’État de l’après-covid-1917. Je suis convaincu que ses implications sont multiples notamment dans la gestion des ressources humaines. Six idées maîtresses18 pourraient guider ce chantier :
+concevoir une organisation qui soit réceptive aux informations qui lui viennent de l’extérieur et sache tirer de ces informations des leçons utiles pour améliorer sa performance ;
+prévoir des organisations dynamiques et adaptables pour être capable de répondre rapidement à de nouveaux besoins ;
+apprendre des autres : les comparaisons internationales sont pour les gouvernements ce qui se rapproche le plus de l’espionnage industriel ; elles sont d’autant plus utiles et pertinentes qu’elles mobilisent un savoir ;
+développer l’expérimentation et capitaliser le savoir : lancer un projet, faire une expérience pilote, etc. sont non seulement des ferments pour l’entreprise, mais aussi des occasions d’apprentissage ; capitaliser sur l’évaluation de ce projet doit être un processus collectif ;
+susciter la prise d’initiative de tous les acteurs de la création de valeur et les impliquer dans le processus créatif ; leur donner la faculté de monter en compétence et élargir leurs possibilités d’action ;
+transférer les connaissances : il faut mettre à la disposition de ceux qui en ont besoin un système d’information partagé qui rend accessibles les connaissances utiles.
+La détermination de ces principes gagnerait à s’inspirer de la réflexion initiée par Marianna Mazzucato sous le nom de « État de mission » 19. En définissant pour chaque administration publique une « mission » sous forme de raison d’être, on pourra retrouver une nouvelle forme d’engagement public. On pourra aussi mieux assumer l’échec. Cet « État de mission » implique des organisations agiles et focalisées et disposant d’une véritable capacité d’engagement. Il doit être au service d’une ambition placée si haut qu’elle force la coopération.
+Cahuc P. et Algan Y., La société de défiance. Comment le modèle social français s’autodétruit, 2016, Éditions Rue D’ulm.
+Dubedout H., Ensemble, refaire la ville, rapport au premier ministre du président de la Commission nationale pour le développement social des quartiers, janv. 1983.
+Lindert P., Growing public, 2004, Cambridge university press.
+Voir notamment Inglehart R.F., “Changing Values among Western Publics from 1970 to 2006”, West European Politics janv.-mars 2008, vol. 31, nos 1-2, p. 130-146.
+Le Grand J., Motivation, Agency and public policy, 2006, Oxford University press.
+L. no 75-17, 17 janv. 1975, relative à l’interruption volontaire de la grossesse.
+L. no 88-1088, 1er déc. 1988, relative au revenu minimum d’insertion.
+Voir notamment un article fondateur, Duflo E., “Field Experiments in Development Economics”, NBER janv. 2006, et sa leçon inaugurale au collège de France sur ce sujet.
+D. Greenberg et M. Schroder distinguent ainsi deux types d’expérimentations : le premier teste sur le groupe de bénéficiaire différents degré d’évolution d’un paramètre (par exemple, une incitation fiscale ou un niveau de prestation) pour mesurer la sensibilité des comportements à ce paramètre (responses surfaces experimentations) ; la deuxième teste l’application d’un dispositif complet de politique publique au risque d’introduire des boîtes noires dans l’analyse de ses résultats (black box assessments).
+Thaler R.H. et Sunstein C.R., Nudge : Improving Decisions About Health, Wealth and Happiness, 2000, Penguin.
+L. no 2008-1249, 1er déc. 2008, généralisant le revenu de solidarité active et réformant les politiques d’insertion.
+Aux États-Unis, ce sont principalement des initiatives privées qui ont structuré depuis le milieu des années 1960 un réseau important de porteurs de projets expérimentaux et d’organismes d’évaluation : la Rand corporation, l’Urban institute, le Mathematica Policy Research, la Manpower Demonstration Research Corporation, l’Institute for Fiscal Studies (UK), l’Institute for Research on Poverty en sont les organisations les plus connues. Sur ce développement et ce marché, voir Greenberg D., Schroder M., et Onstott M., “The Social Experiment Market, Journal of Economic Perspectives 1999, p. 45.
+Avvisati F., Gurgand M., Guyon N. et Maurin E. (dir.). Quels effets attendre d’une politique d’implication des parents d’élèves dans les collèges ? Les enseignements d’une expérimentation contrôlée, synthèse, 3 mars 2019, https://www.parisschoolofeconomics.eu/IMG/pdf/Synthese-36p-MALLETTE-PSE.pdf
+Bothorel É., Pour une politique publique de la donnée, janv. 2021, rapport, https://www.vie-publique.fr/rapport/277879-pour-une-politique-publique-de-la-donnee
+L. no 2016-1321, 7 oct. 2016, pour une République numérique.
+Philippe Aghion et Alexandra Roulet illustrent cette réalité dans leur ouvrage (Repenser l’État, pour une nouvelle social-démocratie, 2010, Seuil) en indiquant qu’au lendemain de la guerre, il fallait attendre deux décennies avant qu’un tiers des entreprises de Fortune 500 (le palmarès des 500 entreprises les plus performantes) soit renouvelé alors qu’en 1970 il ne fallait plus qu’une décennie et moins de trois ans dans les années 1990.
+L’historien Mark Harrison a montré comment les formes de l’État moderne ont émergé en réponse aux pandémies. Le Léviathan de Hobbes après la grande peste de Londres, le Prince de Machiavel après la peste de Florence, la France hypercentralisée de Napoléon III à l’heure du choléra et la théorie française du service public dans les vingtièmes rugissants… Il faut donc inventer l’État du post-covid-19.
+Il s’agit de notre propre réinterprétation des principes développés par Senge P., The Fifth Discipline, 1990, Century Business.
+Mazzucato M., Mission Economy : A Moonshot Guide to Changing Capitalism, 2021, Allen Lane.
+Transformation publique Transformation de l'administration Organisation apprenante Transition écologique Transition sociale
+×
+À retrouver dans la revue
+L'expérimentation publique dans tous ses états
+Acheter 29.90 €
+Par
+Étienne Grass
+Directeur Citizen Services
+Capgemini Invent
+Du même auteur
+Quand la digitocratie remplacera la technocratie
+Sur la même thématique État
+L’État doit soutenir les formes hybrides d’innovation
+Arnaud Bontemps et Prune Helfter-Noah : « Il faut libérer la parole des agents publics »
+Adapter le référentiel de l’action publique (ou réapprendre à planifier)
+A lire aussi
+Dossier
+Transformer la société a travers les démarches de R&D sociale : quels défis ?
+Comment soutenir l’émergence et favoriser la diffusion de la recherche et développement (R&amp;D) sociale dans les collectivités territoriales ? Quels...
+Le 29 novembre 2021
+Par Sébastien Palluault et Stéphane Vincent
+Dossier
+LaboMobiles : quand un dispositif d’innovation publique se nourrit de la R&D sociale
+En seulement cinq années, le dispositif des LaboMobiles a muté d’un instrument d’action publique vers une démarche de la recherche et développement (R...
+Le 16 novembre 2021
+Par Sébastien Palluault et Julie Chabaud
+Dossier
+L’égalité des chances, enjeux et défis pour renouveler la fonction publique
+Systématisé par le philosophe américain John Rawls, l’égalité des chances est un enjeu de territoire mais aussi un enjeu d’administration. Avec sa...
+Le 26 octobre 2021
+Par Nadège Baptista et Julien Bidoux Perez
+Découvrez toutes nos offres !
+Abonnement professionnel
+Formule intégrale
+6 numéros par an
++ 4 hors-séries
+10 comptes d'accès au site
+En savoir plus
+Abonnement professionnel
+Formule numérique
+Votre revue 100% numérique
+10 comptes d'accès au site
+En savoir plus
+Abonnement personnel
+Formule intégrale
+6 numéros par an
++ 4 hors-séries
+1 compte d'accès au site
+Offre réservée aux particuliers En savoir plus
+L'achat au numéro
+Envie de compléter votre collection ?
+Faites votre choix parmi les numéros précédemment parus !
+Dans la limite des stocks disponibles.
+Parcourir
+Renseignez votre email afin de suivre l'actualité de la transformation publique.
+Email *
+×
+×
+S'abonner à notre newsletter
+Le plus simple, c'est de se laisser guider...
+Le plus simple, c'est de se laisserguider...
+Le plus simple, c'est de selaisser guider...
+Email *
+Prénom *
+Nom *
+J'accepte que mon email soit collecté pour qu'Horizons publics m'envoie des newsletters (consulter notre Politique de confidentialité).
+Horizons publics
+Accueil
+Numéros
+S'abonner
+Acheter un numéro
+Qui sommes-nous ?
+Rejoindre la communauté
+Rubriques
+L'actualité vue par...
+Ils nous étonnent
+Au-delà des frontières
+Grand entretien
+Dossiers
+Anticipations publiques
+Cartoscopie
+Cultures publiques
+Rubriques (web)
+Actualités
+Expertises
+Tribunes
+Thématiques
+État
+Territoires
+Éducation
+Santé-social
+Numérique
+Management
+Juridique
+Économie
+Vie citoyenne
+Environnement
+International
+Newsletter
+Renseignez votre email afin de suivre l'actualité de la transformation publique.
+Email *
+Nous suivre
+sur Twitter sur LinkedIn sur Youtube
+Pied de page
+La Boutique
+Le Portail Légibase
+Berger-Levrault
+Pied de page 2
+Mentions légales
+Gestion des cookies
+Politique de confidentialité
+Nous contacter
+Réalisé par IDIX
+X
+LES COOKIES SUR HORIZONS PUBLICS
+Au-delà des cookies de fonctionnement qui permettent de garantir les fonctionnalités importantes du site, Horizons publics peut être amené à déposer les 2 catégories de cookies suivantes pour lesquelles nous sollicitons votre consentement.
+Mesure d’audience
+Le site Horizons publics utilise le service Google Analytics pour mesurer son audience. Les cookies déposés par Google Analytics nous permettent d’effectuer des statistiques de consultation et de connaître la façon dont vous accédez à notre site web ainsi que les parcours que vous réalisez.
+Lecture de vidéos
+Le site Horizons publics utilise le service Youtube pour héberger ses vidéos.
+Les cookies déposés par Youtube permettent la lecture des vidéos intégrées sur notre site.
+Politique « Zéro publicité »
+Soucieux de notre indépendance éditoriale et de la protection de vos données personnelles, nous avons fait le choix, sur le site Horizons publics, de ne pas proposer de publicité : vos visites ne génèrent aucun revenu publicitaire, et aucun cookie n’est déposé à cette fin.
+Vous voulez soutenir notre démarche et découvrir nos offres d’abonnement ? C’est par ici !
+Personnaliser mes choix
+Tout refuser
+Tout accepter
+Vous pouvez changer d’avis et modifier votre consentement à tout moment en vous rendant sur la page « Gestion des cookies », accessible dans la partie basse du site Horizons publics.
+X
+PERSONNALISER MES CHOIX EN MATIERE DE COOKIES
+Vous pouvez personnaliser vos choix concernant les cookies relatif à la mesure d’audience et à la lecture de vidéos.
+Mesure d’audience
+Le site Horizons publics utilise le service Google Analytics pour mesurer son audience. Les cookies déposés par Google Analytics nous permettent d’effectuer des statistiques de consultation et de connaître la façon dont vous accédez à notre site web ainsi que les parcours que vous réalisez.
+Lecture de vidéos
+Le site Horizons publics utilise le service Youtube pour héberger ses vidéos. Les cookies déposés par Youtube permettent la lecture des vidéos intégrées sur notre site.
+Enregistrer mes choix
+Tout refuser
+Tout accepter
+Vous pouvez changer d’avis et modifier votre consentement à tout moment en vous rendant sur la page « Gestion des cookies », accessible dans la partie basse du site Horizons publics.
+La fermeture de cette fenêtre revient à refuser certains cookies lors de votre navigation sur Horizons publics. Ces cookies ont pour finalité de réaliser des mesures d’audience afin d’améliorer notre service et de lancer les vidéos mises en ligne sur le site.
+Êtes-vous sûr·e de votre choix ?
+Revenir à l’écran précédent
+Tout refuser
+La fermeture de cette fenêtre revient à refuser certains cookies lors de votre navigation sur Horizons publics. Ces cookies ont pour finalité de réaliser des mesures d’audience afin d’améliorer notre service et de lancer les vidéos mises en ligne sur le site.

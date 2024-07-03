@@ -1,0 +1,287 @@
+Quelle n’a pas été la surprise de ceux qui ont voulu faire un certificat d’immatriculation de moto de plus de dix ans en ce début 2021 : la réduction de 50% n’est désormais plus appliquée par l’ANTS ! On vous explique l’inexplicable !
+C’est une histoire rocambolesque : le tarif du certificat d’immatriculation moto (catégories L3e et L4e), voit sa partie "taxe régionale" (le tarif d’un certificat d’immatriculation comporte 4 taxes additionnées) réduit de moitié pour la même puissance fiscale qu’une voiture, ce qui est logique au vu de la moindre empreinte globale d’un deux-roues motorisé. Ensuite, s’appliquait pour tout le monde une réduction de 50% pour un véhicule de plus de 10 ans, réduction qui se cumulait jusqu’à fin 2020. Mais cette logique disparait désormais si la moto a plus de 10 ans, puisque dans ce cas, l’ANTS tarifie alors le certificat au même tarif que les voitures, selon une "logique" qui nous échappe totalement !
+Les services de l’état se contredisent !
+Si vous allez sur le site service public, la simulation tient compte des deux réductions de 50% cumulées pour une moto de plus de 10 ans ! Mais quand vient le moment de payer, l’ANTS ne tient compte que d’une des deux réductions, comme le montrent les deux fichiers pdf (voir les documents joints en fin d’article) que nous a adressé un motard plus que surpris de ce tarif : l’un, sa simulation, l’autre le tarif demandé par l’ANTS ! Nous avons également fait trois simulations (voir les captures d’écran dans la galerie en fin d’article) : une pour voiture de moins de 10 ans, une pour moto de moins de 10 ans, et une pour moto de plus de 10 ans. Devinez quoi ? Les deux remises de 50% se cumulent là aussi...
+En réalité, les services du ministère de l’Intérieur (qui ne savaient pas nous répondre !) nous ont renvoyé vers les services du ministère des Finances, car c’est dans la loi finances qu’est contenue cette modification, et voici la réalité des différences entre le tarif 2020 et le tarif 2021 telles que ledit ministère les a transmises et commentées (en italiques) :
+En effet, le B de l’article 1012 bis du code général des impôts, applicable depuis le 1er janvier 2021, indique bien que :
+"Le tarif régional est réduit de moitié :
+1° Pour les tracteurs routiers de la catégorie N1 ;
+2° Pour les véhicules des catégories M2, M3, N2 et N3 ;
+3° Pour les véhicules des catégories L3e et L4e ;
+4° Pour les véhicules pour lesquels la première immatriculation est antérieure de dix années ou plus ;
+5° Sur délibération dans les conditions prévues au dernier alinéa du A du présent II, lorsque l’exonération prévue au 8° du III n’est pas appliquée, pour les véhicules mentionnés au même 8°."
+=> Ces conditions ne sont pas cumulatives. Par exemple, un L3e de plus de 10 ans ne se verra appliquer qu’une fois la réduction de 1/2.
+Et effectivement, cela change de l’ancienne rédaction de l’article 1599 sexcedies sur la taxe régionale qui prévoyait que :
+"2. Le taux unitaire prévu au 1 est réduit de moitié en ce qui concerne :
+1° Les véhicules utilitaires d’un poids total autorisé en charge supérieur à 3,5 tonnes ;
+2° Les tracteurs non agricoles ;
+3° Les motocyclettes.
+3. Les taux unitaires prévus aux 1 et 2 sont réduits de moitié pour les véhicules ayant plus de dix ans d’âge (1).
+4. Pour les remorques, les véhicules agricoles et les véhicules immatriculés dans la série spéciale dite TT, il est perçu une taxe fixe dont le montant est égal à une fois et demie le taux unitaire visé au 1."
+=> Effectivement, avant le 1er janvier 2021, une motocyclette de plus de 10 ans se voyait appliquer deux fois le 1/2 tarif soit un tarif à 1/4 (3° du 2. et 3.).
+Le cumul de ces deux réductions de 50% resterait parfaitement logique, car si on considère qu’une moto d’âge équivalent à celui d’une voiture paye moitié de la taxe régionale, cette même logique vaut aussi pour une moto de plus de 10 ans comparée à une voiture de plus de 10 ans !
+Surtout, ce qui est particulièrement agaçant, c’est que ce genre de pratique, dans le privé, vaudrait immédiatement une correction par notre répression des fraudes ! Publicité mensongère, tarif pratiqué supérieur au tarif annoncé,.. Mais quand c’est l’administration, c’est un autre son de cloche dont, trop souvent, seul le citoyen sort perdant.
+Documents joints
+tarif_demande_par_ants-anonyme.pdf
+19 janvier - PDF - 84.2 ko
+simulateur_du_cout_du_certificat.pdf
+19 janvier - PDF - 112.7 ko
+Galerie
+Sécurité Routière : "on s’occupe des vulnérables" ?
+15 décembre 2020 Le blog
+Billet d’humeur : les coordinateurs de la FFMC dénoncent la motophobie !
+11 février Le blog
+60 commentaires
+Qui êtes-vous ?
+Votre nom
+Votre adresse email
+Votre message
+Veuillez laisser ce champ vide :
+Texte de votre message (obligatoire)
+Pour créer des paragraphes, laissez simplement des lignes vides.
+Veuillez laisser ce champ vide :
+Alain Lamotte 2 réponses Permalien 24 avril
+Question :
+Vous faites quoi là FFMC ???
+Votre job n’est pas de vous mettre en colère ???
+Je constate, pour avoir eu à faire sur nombres de salons à vos sbires que, comme toutes les autres associations de defence des consommateurs, à part faire des constats, ça ne va pas plus loins. Des gilets jaunes à moto en somme...
+Serviteur.
+Répondre à Alain Lamotte
+en réponse à Alain Lamotte Permalien 4 mai
+Et toi tu fais quoi ? Tu es adhérant ou simple remue merde qui profites du système
+Pour dire quoi que se soit il faut adhèrer et se batrre
+Répondre
+en réponse à Alain Lamotte 1 réponse Permalien 4 mai
+Et sans ffmc tu payerais ton assurance le prix de ta moto neuve tous les ans au tier, la ffmc a créé la mutuelle des motards
+Répondre
+en réponse à Permalien 4 mai
+Mutuelle qui n assure pas... et ne respecte pas ses engagements.
+Répondre
+Swirczynski Permalien 12 avril
+Bonjour je suis écœuré, l’année dernière pour un vieux 1200 bandit le tarif d’une carte grise était de 97 euros et là 195. Quand on pense que son 1157cc de 100 cv est compté pour 11 chevaux fiscaux alors qu’une voiture de même puissance en fait 5. Depuis 2021 une moto de plus de 10 ans ne bénéficie plus de la réduction de 50% du prix de la carte grise. Donc c’est 4 fois plus cher.
+Répondre à Swirczynski
+guy Permalien 5 avril
+Salut à tous, je suis motard depuis 1993, je roule en idf tous les jours pour travailler... pas fortuné pour autant je n’ai pas les moyens d’acheter une moto neuve . Depuis quelques années je constate quoi ? Et bien c’est simple , je n’ai plus le droit de rentrer dans Paris, je ne peux plus rouler en interfile sans risquer une amende ou bien des problèmes de responsabilité en cas d’accident et en plus je dois payer ma carte grise le double maintenant. C’est quoi la suite , Ils nous détestent ou quoi ?
+Répondre à guy
+Franz6co 1 réponse Permalien 28 janvier
+Et ben là...on s’est bien fait enflé !!! La CG d’une transalp de 90 qui passe d’un jour à l’autre du simple au double...moi qui regardais les HD et leurs 14cv.....600 balles !!!
+Répondre à Franz6co
+christophe B en réponse à Franz6co Permalien 24 mars
+Et oui...
+je viens de faire la cg de min Gsx1400.
+13 CV, le prix à payer est loin d’être celui de ma simulation 2020.
+Dépité.
+Répondre à christophe B
+Ducorroy 1 réponse Permalien 12 mars
+Bonjour.
+Concernant la carte grise moitié prix par rapport à une voiture, c est faux !!
+Il faut revoir les calculs.
+Comparez la cylindrée d une voiture et d une moto, et vous verrez que la puissance fiscale calculée n est pas du tout la même...
+Ce qui revient à payer le même tarif qu une voiture
+En ne bénéficiant même plus de la réduction pour les plus de 10 ans.
+C est une fumisterie
+Répondre à Ducorroy
+christophe B en réponse à Ducorroy Permalien 24 mars
+Bonjour,
+Argument très très pertinent. Vous avez tout à fait raison.
+Répondre à christophe B
+High tech motos Veauche Permalien 17 février
+Des manifestations sont organisées pour défendre la circulation interfile alors que cela ne concerne que certaines grandes villes. La réduction du prix des cartes grises pour les 2 roues de plus de 10 ans concerne une grande partie d’entre nous. Mobilisons nous, il ne faut pas laisser passer ça !
+Répondre à High tech motos Veauche
+Jerome Caillieret 1 réponse Permalien 20 janvier
+Je viens de passer un temps certain au téléphone avec l’ants pour avoir des précisions, étant dans le cas où la simulation ne correspond pas au prix demandé.
+Effectivement la loi a changé au premier janvier... Et le bonus des 50% pour les motos de plus de 10 ans ne s’applique plus.
+Entre le manque de communication, l’absence de correction des simulateurs, c’est ce qu’on peut qualifier d’excroquerie...
+Le pire étant que ma carte grise aurait dû être fait en 2020 si l’ants n’avait pas merdé sur l’administratif et repousser la procédure...
+Bref, comment être encore plus dégouté de l’administration française.
+Répondre à Jerome Caillieret
+SYLVAIN MERAND en réponse à Jerome Caillieret 1 réponse Permalien 20 janvier
+Exactement le même cas de figure que toi si ce n’est que je passe par un mandataire local. Je lui ai fais faire la demande de rectification au même motifs que toi ( application antérieur indépendante de notre volonté !) si action commune (justice ou autre) je me joins a l’action me prévenir svp !
+Répondre à SYLVAIN MERAND
+kamil en réponse à SYLVAIN MERAND 1 réponse Permalien 20 janvier
+Bonjour
+j’ai exactement le même problème.. j’ai fais une demande le 24 décembre 2020 traité après le 1er janvier et le prix est le double de ce à quoi je m’attendais..
+j’ai demandé des explications avant de payer. Aucune réponse depuis bientôt 4 semaines. Que faire ?
+Répondre à kamil
+SYLVAIN MERAND en réponse à kamil 2 réponses Permalien 20 janvier
+j’ai fait une déclaration auprés de mon assurance : la mutuelle des motards cet aprés midi, j’ai eu une personne du juridique qui a dans un premier temps regardé pour me dire a juste titre que cela demandait recherche pour savoir ce qu’il serait bon de faire, j’attends retour et vous dirai mais pas de doute il faudra gueuler vers qui de droit pour faire bouger et ce sera l’affaire de tous !!! c’est pas la peine de pleurer au gouvernement comme je vois sur les réseau sociaux : demandez des comptes à vos élus ; qui écrit a son député pour lui demandé ce qu’il en est ? bouger vous ! si vous ne voulez pas juste raquer !!
+Pour un info réponse reçu FFMc sur ma messagerie (dommage je la vois pas ici...ou probleme de lunette ...enfin j’en ai pas...) :
+Le 20/01/2021 à 16:28, Didier Renoux a écrit :
+>
+> Salut Sylvain,
+> On fait quoi ?
+> Comme d’hab, on défend les intérêts des motards : d’abord avec les services de l’état concernés, ensutie au juridique, et si ça ne suffit aps on en recausera !
+> @micalement :
+> Didier Renoux
+> Chargé de mission communication et logistique
+> FFMC
+> 8 rue Jean-Jacques Rousseau
+> 93100 Montreuil
+> 01.48.18.12.15 (HB)
+C EST MIEUX EN LE NOTANT A TOUS ALLEZ LA FEDE !!!
+Répondre à SYLVAIN MERAND
+lasouque81 en réponse à SYLVAIN MERAND Permalien 24 janvier
+De mon côté j’ai faut de multiples essais pour immatriculer mon véhicule en 2020 sans jamais pouvoir payer à cause d’un bogue de leur site. J’ai contacter l’ants qui m’a juste dit de réessayer puis de téléphoner. Forcément on est arrivé en 2021 et on m’a demandé d’annuler ma demande pour la refaire (je passe les détails mais l’appel ressemblait à un sketch)...et là surprise le prix a doublé (on m’avais pourtant dit que non par téléphone car la date de session ferait fois) . Je rappelle on me dit que c’est normal que le paiement n’est pas fonctionné car mon véhicule a encore une ancienne immatriculée et qu’il faut faire une demande spéciale en précisant que j’ai déjà fait une demande en 2020 pour ne pas payer le surplus. J’ai donc fait une 4ème demande en indiquant toutes mes mésaventure et on ne me répond pas un mots juste de payer les taxes 2021. Je refait un message pour demander à payer les taxes 2020 car je ne doit pas subir leurs problèmes informatiques et on me répond qu’il y a eu une augmentation en 2021 (foutage de gueule...). Du coup nouveau message mais pas de réponse pour le moment...
+Dsl pour le pavé mais je vais faire comme vous et contacter le service juridique de la mutuelle des motards. Dans le privé ça ne se serait pas passé comme ça, c’est inacceptable !
+Répondre à lasouque81
+SYLVAIN MERAND en réponse à SYLVAIN MERAND 1 réponse Permalien 16 février
+Pour suite et fin de mon intervention : déclaration faite via jurimot (il ne s’agit que d’une information) leur retour n’a rien de "fiable" c’est le flou sur le sujet mais ils sont la loi et elle s’applique... pour mener une action via l’Assurance Mutuelle des Motards il faut faire une déclaration écrite et argumenter et blabla blabla et pas sur que cela soit pris en compte et bla bla bla et ....bref je paie (je peux encore donc...) et je passe a autre chose .... et pendant ce temps la je ne vois pas d’action collective menée par la FFMC ...Didier Renoux, tu me fais bien marrer dans ta réponse faite il y a 26 jours :"Comme d’hab, on défend les intérêts des motards : d’abord avec les services de l’état concernés, ensuite au juridique, et si ça ne suffit aps on en recausera !" enfin je ne t’en veux pas, tu fais ton job ...de chargé de mission et com à la FFMC = Fédération Française des Moutons en Colère ? ... je reste seul dans ma pâture...
+Répondre à SYLVAIN MERAND
+lasouque81 en réponse à SYLVAIN MERAND Permalien 17 février
+Déclaration papier effectuée auprès de Jurimotard, et réponse toute fraîche : ils n’interviennent pas car le préjudice est trop faible ! N’étant plus en règle depuis plusieurs semaines je vais donc payer avec le sentiment de mettre bien fait enfiler par l’ANTS...
+Ces escrocs qui ont probablement bloqué les paiements fin décembre pour que l’on soit soumis à l’augmentation en janvier.
+Répondre à lasouque81
+Thierry Permalien 14 février
+Bordel de merde
+Les motards ne sont pas des moutons qui se laissent tondre sans réaction. Enfin je le pensais. Adhérons, liguons nous et faisons savoir notre intention de ne pas nous laisser faire
+Répondre à Thierry
+Bouvier Marc Permalien 13 février
+Même constat pour immatriculer en CI normal une SUZUKI 250 TS de 1974, on me demande 90€ au lieu de 50€ ... et je ne peux même pas payer !!!
+Répondre à Bouvier Marc
+Lionel V Permalien 11 février
+Mais la notion de "non cumul" des conditions de l’Article 1012 bis (Partie B) n’apparait pas.
+N’y a-t il pas là, une précision légale structurante qui mérite d’être portée au Conseil constitutionnel, pour contrer cette loi ?
+Répondre à Lionel V
+Criqui 1 réponse Permalien 26 janvier
+Je suis vraiment déçu de la FFMC ,j ai réclamé à plusieurs reprises ma carte de membre fondateur (50 frs en 1982) et jamais aucune reponse,domage.
+Répondre à Criqui
+en réponse à Criqui Permalien 5 février
+Membre fondateur de la Mutuelle probablement... Ils ont des traces demande leur...
+Répondre
+Franz6co Permalien 5 février
+Que du blabla !!!!!!!!!!!!! Alors le SCANDAAAAALE du port du masque obligatoire alors là oui, là ça a remué dans les brancards et sur FB et dans la press ................et là ???????????????
+Adhérez qu’ils disaient !
+Répondre à Franz6co
+Arnaud Permalien 1er février
+J’ai réalisé un achat d’une moto, et j’ai voulu faire le changement de carte grise sur le site ANTS le 26/12/2020. Mais le site a refusé le paiement. Nous avons essayé 3 CB différentes, mais sans succès... Jai voulu reprendre le paiement en 2021 et la SURPRISE : le double ! j’ai envoyé une demande, sur le site ANTS, mais petsonne n’a répondu, jusqu’à c jour !!
+Que dois-je faire avant de payer ?
+Merci
+Répondre à Arnaud
+Vallet Jean Luc 1 réponse Permalien 31 janvier
+L association ne peut elle pas saisir le tribunal administratif. Il ya peut-être matière d’un arbitrage ? Mais uniquement sur la période où la simulation sera défaillante. Après, c est la pression sur les élus qu’il faudra exercer. Je rappelle que nous sommes tous potentiellement casqués pour circuler avec les mesures barrières. Ca fait Lgt qu’une grosse mobilisation nationale ne s’est pas organisée. Au vu du cumul, les motivations collectives sont peut etres réunies. Jean Luc
+Répondre à Vallet Jean Luc
+lasouque81 en réponse à Vallet Jean Luc Permalien 1er février
+Sur la période où la simulation a été défaillante... ou lorsqu’il était impossible de payer sur le site fin 2020 !
+D’ailleurs est-ce que quelqu’un a réussi à obtenir quelque chose à ce sujet ?
+Répondre à lasouque81
+Gouirand Permalien 29 janvier
+C’est plié, l’ANTS ne veut rien savoir et rejette les demandes de justification de cette hausse http://www.lerepairedesmotards.com/actualites/2021/hausse-cout-carte-grise-certificat-immatriculation-moto.php
+Répondre à Gouirand
+Gouirand Permalien 29 janvier
+C’est plié, l’ANTS ne veit rien savoir et rejette les demandes de justification de cette hausse http://www.lerepairedesmotards.com/actualites/2021/hausse-cout-carte-grise-certificat-immatriculation-moto.php
+Répondre à Gouirand
+Albillo Permalien 28 janvier
+Idem pour les mobylettes cylindrées 49 cc , carte grise gratuite avant, actuellement on paye 33€ soit taxe y1 taxe régionale 22€ et y4 11€ depuis. Les baisees comptaient vous 🤬
+Répondre à Albillo
+hardy teddy Permalien 28 janvier
+Bonjour,
+J’ai contacté un centre d’immatriculation/carte grise près de chez moi qui m’a confirmé que la division des motos de plus de 10 ans n’existait plus depuis le début d’année...
+Répondre à hardy teddy
+gilles rodriguès 2 réponses Permalien 21 janvier
+sacré surprise, 50% d’augmentation 260 balle pour 10cv plus de dix ans,l’année prochaine le CT allé la fête continue. J’espère que la FFMC est aux aguets pour le CT sinon on vas mangé bon
+Répondre à gilles rodriguès
+en réponse à gilles rodriguès Permalien 21 janvier
+Salut Gilles, tu as raison il faut être au aguets, maintenant pour bien être au aguets, et surtout avoir les moyens de se battre, il nous faut chacun prendre une adhésion financière à la FFMC, l’union fait la force et nous crée des moyens. Merci à tous les motards pour lancer cette élan de solidarité pour les combats d’aujourd’hui et de demain comme le CT. Didier✌
+Répondre
+Denis en réponse à gilles rodriguès 1 réponse Permalien 24 janvier
+La FFMC est aux aguets sur le CT depuis toujours. Ca fait plus de 20 ans que les gouvernements successifs essayent de l’imposer et ça fait plus de 20 ans que la FFMC agit contre. L’argumentation n’a pas changé : le CT moto est totalement inutile car il n’y a que très peu d’accident dû à une défaillance mécanique ou à un mauvais entretien de la machine (moins de 1% des accidents).
+Quand le moment sera venu de repartir à la baston, il faudra que les motards répondent présent à l’appel de la FFMC et se mobilisent massivement ...
+Répondre à Denis
+Franz6co en réponse à Denis Permalien 28 janvier
+Sauf que là la ffmc ne fait que constater le désastre !
+Répondre à Franz6co
+Lamiaux Permalien 26 janvier
+Je voudrais sa voir combien coutara la carte grise pour jeune chauffeur
+Répondre à Lamiaux
+Yannick Permalien 26 janvier
+Bonjour ,
+Je suis du 76 près de Rouen je viens de faire un carte grise pour la 600 bandit de 99 , chez nous le prix du cheval est de 35 e , je m en suis sortie avec un cg a 118e j’ ai bénéficier du 50 % car la carte était de 205 hors taxe bien sûr car une taxe plus une taxe bref donc 105 plus 11 de taxe fixe plus l’envoie a 2,78 je leur est quand même demander si c était pas 118 /2 j ai vite compris au prix du cheval que j’ étais dans les rêves voilà
+Répondre à Yannick
+Mangé Permalien 25 janvier
+Pour le mieux c’est de rouler sans faire de carte grise du moment qu’elle a été payés une fois pour que le véhicule puisse circuler sur les routes nationales et départemental
+Répondre à Mangé
+Labarriere-martin Permalien 22 janvier
+En effet je suis en plein dedans.simulateur 158 euro et au moment de payer 316.J’ais évidemment protesté et demandé des explications.Il m’a été répondu c’est comme ca et pas autrement et le simulateur n’a pas été mis à jours. Juste du vol.En plus comme j’ais protesté la cg est bloquée. Cela s’appelle de l’extorction de fond.Affaire en cours.
+Répondre à Labarriere-martin
+jeremy Permalien 21 janvier
+J’ai eu le même problème y’a pas un moyen de faire un recours auprès du tribunal ?
+Répondre à jeremy
+ben Permalien 21 janvier
+Pour pars après 2 passages à la préfecture du 41 ils m’ont bien confirmé le prix de 168 euro. Au moment de payer c’est 262.Apres appel au service concerné ( sur la service pro car en particulier personne ne répond) leur réponse est " c’est juste un problème informatique il faut attendre 3 jours et si vous avez déjà payé faite un mail pour demande le remboursement de la différence) j ecris donc un mail et la réponse est claire... plus de réductions donc 10cv de + de 10 ans c’est 262 au lieu de 138.. pour mon fils moto moins puissante c’est 138 au lieu de 75
+Répondre à ben
+Nicolas Permalien 21 janvier
+Merci Patrick pour cette information mais, en supposant ce que le simulateur de d’état ET l’ANTS ont tord, ce n’est clairement pas suffisant. Ça ouvre un minima un remboursement DE FACTO à des milliers des motocyclistes qui sont en train de se faire arnaquer.
+Mais à mon avis non. Ce n’est pas Rémy le stagiaire qui met à jour ces services et qui interprète les ET et les OU.
+Répondre à Nicolas
+Patrick Fernandez Permalien 20 janvier
+Vous imaginez que si les Cartes Grises avaient réellement doublées de prix, tous les médias seraient déjà sur le coup pour foutre un peu plus le bordel.
+Ce n’est qu’un problème interne à l’ANTS, mauvais paramètrage du simulateur...
+Faite comme moi, contestez, ne payez pas et demandez le texte de loi....
+Legifrance n’a rien publié sur le changement de cout des "cartes grises", donc c’est nul et non avenu.
+Répondre à Patrick Fernandez
+Patrick Fernandez Permalien 20 janvier
+Oh, oh là on ce calme, merci de prendre le temps de lire ma missive. Beaucoup de choses sont dites à torts et à travers sur les réseaux sociaux.
+Dans un premier temps, l’ANTS me demandais le double du prix normal de la carte grise normal, j’ai refusé de payé et porté plusieurs réclamations (en fait une tous les matins depuis le 31/12).
+Sans réponses, j’ai contacté par tèl l’ANTS (3400).J’ai poireauté calmement 35 minutes pour avoir une personne de l’ANTS pour la carte grise de mon 750 S3 de 1975. J’ai réussi à avoir une charmante dame pour lui expliqué que je ne pouvais pas payer une carte grise au double de son prix 2020 car aucun texte de loi n’a été voté ni même publié sur le site de Legifrance.
+J’ai poireauté de nouveau 10 mn et cette charmante même dame est venue me confirmer que j’avais raison et qu’il y avait une erreur du simulateur.
+Donc au final tout rentre dans l’ordre, nous restons bien sur les anciens tarifs. Je vais donc payer 93,96€ pour une moto de 7 cv de 1975 et non 187,52 comme demandé initialement.
+Donc, si vous avez ce type de problème, ne payez surtout pas et portez réclamation. SEULS LES TEXTES DE LOI VOTES SONT VALABLES ET RIEN D’AUTRE. N’hésitez pas a consulter le site de Legifrance.😜
+Répondre à Patrick Fernandez
+MONCLIN Permalien 20 janvier
+Bonjour,
+J’ai fait une carte grise en décembre pour une 125, 17e76 et je viens d’en faire une 34e76 juste le double . Deux choses le cheval uniquement divisé par deux et les frais de gestion sont passés de 4e à 11e alors que l’on fait leur boulot sur ANTS. J’ai fait une réclamation aussi avec la simulation qui est au montant de 24e76, je ne suis pas à 10e près mais multiplier par le nombre de cg ça fait une grosse arnaque. Le prochain sujet c’est le ct pour les motos pour 2022.
+Répondre à MONCLIN
+Guillaume B Permalien 20 janvier
+Je confirme complètement, pour avoir réalisé 2 cartes grises moto de plus de 10 ans a qq jours d’intervalle.
+1 le 28 décembre, l’autre le 10 janvier !
+Personne n’en parle, c’est fait en douce... 🙄
+Répondre à Guillaume B
+Xavier Lumière 2 réponses Permalien 19 janvier
+Voilà, c’est ça qui énerve, tout est fait dans notre dos, rien n’est communiqué, et pendant cette période sanitaire qui les arrangent bien on ne peut pas manifester ni faire pression sur ce changement arbitraire et néfaste pour la communauté moto. Racheter une vieille pétoire va déjà gravement amputer le budget restauration avec sa carte grise... Il y a plein de gens qui ne le feront plus. les belles motos vont devenir plus rare... et le budget du jeune motard augmente...
+La cerise sur le pudding 🍒 :
+Tous les véhicules de plus de 36 cv fiscaux payaient 500€ par cheval supplémentaire. Ils viennent d’enlever cette taxe, donc bonne nouvelle pour ceux qui veulent acheter une Ferrari, ils vont pouvoir faire des économies 😏
+Répondre à Xavier Lumière
+Fouquet en réponse à Xavier Lumière Permalien 20 janvier
+Macron ne favorise pas les riches ! C’est ce que les journalistes nous disent depuis deux ans
+Répondre à Fouquet
+Denis en réponse à Xavier Lumière Permalien 20 janvier
+Qu’est ce qui nous empêche de manifester ? Du moment qu’on soit rentré pour 18h...
+Répondre à Denis
+vic Permalien 20 janvier
+Bonjour à tous ,
+Une petite vidéo à voir sur youtube avec pour titre :
+"Augmentation des taxes de cartes grises motos au 1er Janvier // Fake ?"
+Et courage et patience à ceux qui ont payé plein pot pour se faire rembourser....
+Répondre à vic
+brasseur jérôme 1 réponse Permalien 20 janvier
+Bonjour, une pétition pour contrer se racket de l’état est-elle prévu ? Ou alors une obligation de remise en état des routes, pose de double glissières de sécurité avec l’argent légalement volé ?
+Répondre à brasseur jérôme
+Fouquet en réponse à brasseur jérôme Permalien 20 janvier
+C’est beau le rêve ... Merde ! il est midi passé je ne dors pas !
+Répondre à Fouquet
+PE CHRISTOPHE 1 réponse Permalien 20 janvier
+Après m’être battu pendant 10 jours par message avec les mecs de L’ANTS, j’ai fini par payer, car la dernière réponse était en gros "paye ou annule", je ne décolère toujours pas d’avoir du payer 100€ de plus... Mais que faire face au plus gros arnaqueur qu’est l’état !?
+Répondre à PE CHRISTOPHE
+kamil en réponse à PE CHRISTOPHE Permalien 20 janvier
+Est ce que je suis obligé de payer aussi sachant que j’ai fais la demande en décembre 2020 ? Normalement on prend en compte la date de la demande non ?
+Répondre à kamil
+zo Permalien 20 janvier
+J’étais également étonné du prix. Je les ai appelé et ils m’ont affirmés que c’était un "bug" du site. En effet, le calculateur de prend pas en compte la réduction des 50%. Ils m’on déconseillé d’effectuer les démarches administratives pour le moment, le temps que cette problématique soit réglée.
+Répondre à zo
+SYLVAIN MERAND Permalien 20 janvier
+OK MERCI de l’info de constatation.
+Alors vous faites quoi la FFMC maintenant ??
+Répondre à SYLVAIN MERAND
+xav Permalien 20 janvier
+Bonjour
+Je dois refaire ma carte grise , quoi faire , attendre ...🤷🤷🤷
+Répondre à xav
+Haussin Mickaël Permalien 20 janvier
+Bonjour, merci pour cette information. Je viens tout juste de faire ma carte grise. Je n’ai eu aucune réduction pourtant ma moto a plus de 10 ans, j’ai donc payé plein pot...elle fait 20 cv, ça fait mal. Qu’en est il en définitif ? Dois je faire une réclamation ? Merci d’avance. Mickaël.
+Répondre à Haussin Mickaël
+Motards de France Permalien 19 janvier
+En effet c’est assez embêtant !
+Répondre à Motards de France
+walid H Permalien 19 janvier
+Je me suis fait avoir et je ne comprenais pas merci pour votre enquête !
+Je vient de payer 246€ de carte grise pour une BMW K1100RS de 1996 alors que le prix demandé en 2020 était de 136€. Des relances ont été faites depuis l’espace ANTS mais après 3 tentatives, pas de suites ! Le dossier passe de l’état " en cours d’instruction par nos services" à l’état "Reprise" sans aucun commentaire ou correction apporté au dossier. Du vrai foutage de gueule, je compte bien me faire rembourser.

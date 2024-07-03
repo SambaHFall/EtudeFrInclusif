@@ -1,0 +1,1442 @@
+010612 Les mammifères; vivent, les baleines, les dauphins et les marsouins (mammifères de l'ordre des cétacés); lamantins et dugongs (mammifères de l'ordre des Siréniens); phoques, lions de mer et morses (mammifères du sous-ordre Pinnipedia)
+010613 Les mammifères; vivants, chameaux et autres camélidés (camélidés)
+010614 Les mammifères; vivre, lapins et lièvres
+010619 Les mammifères; vivants, autres que les primates, les baleines, les dauphins, les marsouins (mammifères de l'ordre des cétacés); lamantins, dugongs (mammifères de l'ordre des Siréniens); phoques, lions de mer, morses (mammifères du sous-ordre Pinnipedia), chameaux, autres camélidés, lapins et lièvres
+010620 Reptiles vivant (y compris les serpents et les tortues)
+010631 Des oiseaux; vivre, les oiseaux de proie
+010632 Des oiseaux; vivants, Psittaciformes
+010633 Des oiseaux; vivre, autruches; émeus (Dromaius novaehollandiae)
+010639 Des oiseaux; vivants, autres que les oiseaux de proie, les Psittaciformes, les autruches et les émeus (Dromaius novaehollandiae)
+010641 Insectes; vivre, abeilles
+010649 Insectes; vivant, autre que les abeilles
+010690 Animaux; vivre, n.c.a. au chapitre 01, autres que les mammifères, les reptiles, les oiseaux et les insectes
+02 VIANDES ET ABATS DE VIANDE COMESTIBLES
+0201 Viande de bovins; frais ou réfrigéré
+020110 Moi à; de bovins, de carcasses et de demi-carcasses, fraîches ou réfrigérées
+020120 Moi à; des animaux de l'espèce bovine, découpés avec os (à l'exclusion des carcasses et des demi-carcasses), frais ou réfrigérés
+020130 Moi à; de bovins, découpés désossés, frais ou réfrigérés
+0202 Viande de bovins; congelé
+020210 Moi à; des bovins, des carcasses et des demi-carcasses, congelés
+020220 Moi à; des animaux de l'espèce bovine, découpés avec os (à l'exclusion des carcasses et des demi-carcasses), congelés
+020230 Moi à; de bovins, découpées désossées, congelées
+0203 Viande de porc; frais, réfrigéré ou congelé
+020311 Moi à; de porcs, de carcasses et de demi-carcasses, à l'état frais ou réfrigéré
+020312 Moi à; de porcins, jambons, épaules et leurs morceaux, non désossés, frais ou réfrigérés
+020319 Moi à; de porcs, n.c.a. dans l'article no. 0203.1, à l'état frais ou réfrigéré
+020321 Moi à; de porcs, de carcasses et de demi-carcasses, congelés
+020322 Moi à; de porcins, jambons, épaules et leurs morceaux, avec os, congelés
+020329 Moi à; de porcs, n.c.a. dans l'article no. 0203.2, congelé
+0204 Viande de mouton ou de chèvre; frais, réfrigéré ou congelé
+020410 Moi à; de moutons, carcasses d'agneaux et demi-carcasses, à l'état frais ou réfrigéré
+020421 Moi à; de moutons, de carcasses et de demi-carcasses (à l'exclusion des carcasses et demi-carcasses d'agneaux), à l'état frais ou réfrigéré
+020422 Moi à; de moutons (y compris l'agneau), coupés avec de l'os (à l'exclusion des carcasses et des demi-carcasses), frais ou réfrigérés
+020423 Moi à; de moutons (y compris l'agneau), morceaux désossés, frais ou réfrigérés
+020430 Moi à; de moutons, de carcasses d'agneaux et de demi-carcasses, congelés
+020441 Moi à; de moutons, de carcasses et de demi-carcasses (à l'exclusion des carcasses et des demi-carcasses d'agneaux), congelés
+020442 Moi à; de moutons (y compris l'agneau), coupes avec os (à l'exclusion des carcasses et des demi-carcasses), congelées
+020443 Moi à; de mouton (y compris l'agneau), coupes désossées, congelées
+020450 Moi à; de chèvres, fraîches, réfrigérées ou congelées
+0205 Moi à; de chevaux, ânes, mulets ou bardots, frais, réfrigérés ou congelés
+020500 Moi à; de chevaux, ânes, mulets ou bardots, frais, réfrigérés ou congelés
+0206 Abats comestibles d'animaux de l'espèce bovine, porcine, ovine, caprine, chevaline, asine, mulet ou bardane; frais, réfrigéré ou congelé
+020610 Abats, comestibles; de bovins, frais ou réfrigérés
+020621 Abats, comestibles; de bovins, langues, congelés
+020622 Abats, comestibles; des bovins, des foies, congelés
+020629 Abats, comestibles; des animaux de l'espèce bovine (autres que langues et foies), congelés
+020630 Abats, comestibles; de porcs, frais ou réfrigérés
+020641 Abats, comestibles; des porcs, des foies, congelés
+020649 Abats, comestibles; de porcs, (autres que les foies), congelés
+020680 Abats, comestibles; de moutons, de chèvres, de chevaux, d'ânes, de mulets ou de bardots, frais ou réfrigérés
+020690 Abats, comestibles; de moutons, de chèvres, de chevaux, d'ânes, de mules ou de bardots, congelés
+0207 Viande et abats comestibles de volaille; de la volaille du no. 0105, (c'est-à-dire des volailles de l'espèce Gallus domesticus), frais, réfrigérés ou congelés
+020711 Viande et abats comestibles; de volailles de l'espèce Gallus domesticus, non découpées en morceaux, fraîches ou réfrigérées
+020712 Viande et abats comestibles; de volailles de l'espèce Gallus domesticus, non découpées en morceaux, congelées
+020713 Viande et abats comestibles; de volailles de l'espèce Gallus domesticus, découpées et abats, à l'état frais ou réfrigéré
+020714 Viande et abats comestibles; de volailles de l'espèce Gallus domesticus, coupes et abats, congelés
+020724 Viande et abats comestibles; de dindes, non découpées en morceaux, fraîches ou réfrigérées
+020725 Viande et abats comestibles; de dindes, non découpées en morceaux, congelées
+020726 Viande et abats comestibles; de dindes, découpes et abats, frais ou réfrigérés
+020727 Viande et abats comestibles; de dindes, découpes et abats, congelés
+020741 Viande et abats comestibles; de canards, non découpés en morceaux, frais ou réfrigérés
+020742 Viande et abats comestibles; de canards, non découpés en morceaux, congelés
+020743 Viande et abats comestibles; de canards, foies gras (foie gras), frais ou réfrigérés
+020744 Viande et abats comestibles; de canards, découpes et abats, à l'exclusion des foies gras, frais ou réfrigérés
+020745 Viande et abats comestibles; de canards, découpes et abats, à l'exclusion des foies gras, congelés
+020751 Viande et abats comestibles; d'oies, non découpées en morceaux, fraîches ou réfrigérées
+020752 Viande et abats comestibles; d'oies, non découpées en morceaux, congelées
+020753 Viande et abats comestibles; d'oies, foies gras (foie gras), frais ou réfrigérés
+020754 Viande et abats comestibles; d'oies, découpes et abats, à l'exclusion des foies gras, frais ou réfrigérés
+020755 Viande et abats comestibles; d'oies, découpes et abats, à l'exclusion des foies gras, congelés
+020760 Viande et abats comestibles; de pintades, fraîches, réfrigérées ou congelées
+0208 Viande et abats comestibles, n.c.a. au chapitre 2; frais, réfrigéré ou congelé
+020810 Viande et abats comestibles; de lapins ou de lièvres, frais, réfrigérés ou congelés
+020830 Viande et abats comestibles; de primates, frais, réfrigérés ou congelés
+020840 Viande et abats comestibles; des baleines, des dauphins et des marsouins (mammifères de l'ordre des cétacés); de lamantins et de dugongs (mammifères de l'ordre des Siréniens); des phoques, lions de mer et morses (mammifères du sous-ordre Pinnipedia), frais, réfrigérés ou congelés
+020850 Viande et abats comestibles; de reptiles (y compris les serpents et les tortues), frais, réfrigérés ou congelés
+020860 Viande et abats comestibles; de chameaux et autres camélidés (camélidés), frais, réfrigérés ou congelés
+020890 Viande et abats comestibles; n.c.a. au chapitre 2, frais, réfrigérés ou congelés
+0209 Lard sans graisse, sans viande maigre, et graisse de volailles, non fondus ni autrement extraits, frais, réfrigérés, congelés, salés ou en saumure, séchés ou fumés
+020910 Graisse; graisse de porc, sans viande maigre, non fondue ni autrement extraite, fraîche, réfrigérée, congelée, salée, en saumure, séchée ou fumée
+020990 Graisse; graisses de volaille, non fondues ni autrement extraites, fraîches, réfrigérées, congelées, salées ou en saumure, séchées ou fumées
+0210 Viande et abats comestibles; salés, en saumure, séchés ou fumés; farines et poudres comestibles de viandes ou d'abats
+021011 Moi à; salés, en saumure, séchés ou fumés, de porcins, jambons, épaules et leurs morceaux, avec os en
+021012 Moi à; salés, en saumure, séchés ou fumés, de porcins, de ventres (entrelacés) et leurs morceaux
+021019 Moi à; salés en saumure, séchés ou fumés, de porcins, n.c.a. dans l'article no. 0210.1
+021020 Moi à; salés, en saumure, séchés ou fumés, de l'espèce bovine
+021091 Viande et abats comestibles; salés, en saumure, séchés ou fumés, et farines et poudres, comestibles, de viandes ou d'abats, de primates
+021092 Viande et abats comestibles; salés, en saumure, séchés ou fumés; farines comestibles, farines de viande ou d'abats, de baleines, de dauphins, de marsouins (d'ordre des cétacés); lamantins, dugongs (d'ordre Sirenia); phoques, lions de mer et morses (du sous-ordre Pinnipedia)
+021093 Viande et abats comestibles; salés, en saumure, séchés ou fumés et farines et poudres, comestibles, de viandes ou d'abats, de reptiles (y compris les serpents et les tortues)
+021099 Viande et abats comestibles; salés, en saumure, séchés ou fumés, farines et poudres, comestibles, de viande ou d'abats, autres que primates, baleines, dauphins, marsouins, lamantins, dugongs, phoques, otaries, morses, reptiles (y compris serpents et tortues)
+03 POISSONS ET CRUSTACÉS, MOLLUSQUES ET AUTRES INVERTÉBRÉS AQUATIQUES
+0301 Poisson; vivre
+030111 Poisson; vivant, ornemental, eau douce
+030119 Poisson; vivant, ornemental, autre que l'eau douce
+030191 Poisson; vivants, truites (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache et Oncorhynchus chrysogaster)
+030192 Poisson; vivant, les anguilles (Anguilla spp.)
+030193 Poisson; vivant, carpe (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+030194 Poisson; vivants, thons rouges de l'Atlantique et du Pacifique (Thunnus thynnus, Thunnus orientalis)
+030195 Poisson; vivants, thons rouges du Sud (Thunnus maccoyii)
+030199 Poisson; vivre, n.c.a. dans la position 0301
+0302 Poisson; frais ou réfrigérés, à l'exclusion des filets de poisson et autres chairs de poissons du n ° 0304
+030211 Poisson; frais ou réfrigérés, truites (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache et Oncorhynchus chrysogaster), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles de 0302.9
+030213 Poisson; frais ou réfrigérés, saumon du Pacifique (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou, Oncorhynchus rhodurus), non filets, viande de 0304, et abats comestibles de 0302.9
+030214 Poisson; du saumon atlantique (Salmo salar) et du saumon du Danube (Hucho hucho), à l'exclusion des filets, de la chair de poisson de 0304, et des abats comestibles des sous-positions 0302.91 à 0302.99, frais ou réfrigérés
+030219 Poisson; frais ou réfrigérés, salmonidés, n.c.a. dans l'article no. 0302.1, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030221 Poisson; du flétan (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis), frais ou réfrigéré, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030222 Poisson; de plie (Pleuronectes platessa), à l'exclusion des filets, de la chair de poisson de 0304, et des abats comestibles des sous-positions 0302.91 à 0302.99, frais ou réfrigérés
+030223 Poisson; fraîches ou réfrigérées, sole (Solea spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030224 Poisson; des turbots (Psetta maxima, Scophthalmidae), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030229 Poisson; frais ou réfrigéré, poisson plat, n.c.a. dans l'article no. 0302.2, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030231 Poisson; du thon germon ou du thon à nageoire longue (Thunnus alalunga), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles de poissons des sous-positions 0302.91 à 0302.99
+030232 Poisson; des thons à nageoires jaunes (Thunnus albacares), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030233 Poisson; à l'état frais ou réfrigéré, au listao ou à la bonite à ventre rayé, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030234 Poisson; des Thons obèses (Thunnus obesus), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030235 Poisson; des thons rouges de l'Atlantique et du Pacifique (Thunnus thynnus, Thunnus orientalis), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030236 Poisson; des thons rouges du Sud (Thunnus maccoyii), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030239 Poisson; frais ou réfrigéré, thon, n.c.a. dans l'article no. 0302.3, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030241 Poisson; des harengs (Clupea harengus, Clupea pallasii), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030242 Poisson; des anchois (Engraulis spp.), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030243 Poisson; des sardines (Sardina pilchardus, Sardinops spp.), des sardinelles (Sardinella spp.), des brisures ou des sprats (Sprattus sprattus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030244 Poisson; à l'état frais ou réfrigéré, maquereau (Scomber scombrus, Scomber australasicus, Scomber japonicus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030245 Poisson; frais, à l'état frais ou réfrigéré, chinchard et maquereau (Trachurus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030246 Poisson; frais ou réfrigérés, cobia (Rachycentron canadum), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030247 Poisson; de l'espadon (Xiphias gladius), frais ou réfrigéré, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030249 Poisson; frais ou réfrigéré, n.c.a. dans l'article no. 0302.4, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030251 Poisson; frais ou réfrigérés, de morues (Gadus morhua, Gadus ogac, Gadus macrocephalus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030252 Poisson; aiglefin (Melanogrammus aeglefinus), frais ou réfrigéré, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030253 Poisson; du coquillage (Pollachius virens), frais ou réfrigéré, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030254 Poisson; des merlus (Merluccius spp., Urophycis spp.), à l'exclusion des filets, de la chair de poisson de 0304, et des abats comestibles de poissons des sous-positions 0302.91 à 0302.99, à l'état frais ou réfrigéré
+030255 Poisson; frais ou réfrigérés, lieu jaune de l'Alaska (Theragra chalcogramma), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030256 Poisson; frais, ou réfrigérés, de merlans bleus (Micromesistius poutassou, Micromesistius australis), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles de poissons des sous-positions 0302.91 à 0302.99
+030259 Poisson; frais ou réfrigéré, n.c.a. dans l'article no. 0302.5, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030271 Poisson; tilapias (Oreochromis spp.), frais ou réfrigérés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles de poissons des sous-positions 0302.91 à 0302.99
+030272 Poisson; à l'état frais ou réfrigéré, les poissons-chats (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030273 Poisson; à l'état frais ou réfrigéré, carpe (selon les spécifications de l'OMD), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030274 Poisson; des anguilles (Anguilla spp.), fraîches ou réfrigérées, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030279 Poisson; à l'état frais ou réfrigéré, la perche du Nil (Lates niloticus) et la tête de serpent (Channa spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030281 Poisson; frais ou réfrigérés, aiguillats et autres requins, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030282 Poisson; frais et réfrigérés, raies et raies (Rajidae), à ​​l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030283 Poisson; Légumes frais ou réfrigérés (Dissostichus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030284 Poisson; à l'état frais ou réfrigéré (Dicentrarchus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030285 Poisson; à l'état frais ou réfrigéré, dorade (Sparidae), à ​​l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030289 Poisson; frais ou réfrigéré, n.c.a. dans la position 0302, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0302.91 à 0302.99
+030291 Poisson; frais ou réfrigérés, foies, œufs et laitance
+030292 Poisson; frais ou réfrigérés, nageoires de requin
+030299 Poisson; frais ou réfrigérés, ailerons de poissons (autres que les ailerons de requin), têtes, queues, guillochés et autres abats comestibles
+0303 Poisson; congelés, à l'exclusion des filets de poisson et autres chairs de poissons du no 0304
+030311 Poisson; congelés, saumon du Pacifique, saumon sockeye (saumon rouge) (Oncorhynchus nerka), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030312 Poisson; des saumons du Pacifique (Oncorhynchus gorbuscha / keta / tschawytscha / kisutch / masou / rhodurus) autres que le saumon sockeye (Oncorhynchus nerka), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030313 Poisson; saumon de l'Atlantique (Salmo salar) et saumon du Danube (Hucho hucho), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030314 Poisson; congelés, truites (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache et Oncorhynchus chrysogaster), à l'exclusion des filets, de la viande de 0304 et des abats comestibles de 0303,91 à 0303,99
+030319 Poisson; congelés, salmonidés, n.c.a. dans l'article no. 0303.1, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030323 Poisson; des tilapias (Oreochromis spp.), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030324 Poisson; des poissons-chats (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030325 Poisson; congelés, carpes (selon les spécifications de l'OMD), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030326 Poisson; congelés, anguilles (Anguilla spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030329 Poisson; des perches du Nil (Lates niloticus) et des têtes de serpent (Channa spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030331 Poisson; congelés, flétans (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030332 Poisson; des plies (Pleuronectes platessa), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030333 Poisson; de sole (Solea spp.), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030334 Poisson; congelés, turbots (Psetta maxima, Scophthalmidae), à ​​l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030339 Poisson; congelé, poisson plat, n.c.a. dans l'article no. 0303.3, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030341 Poisson; des thons congelés, germon ou à longues nageoires (Thunnus alalunga), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030342 Poisson; des thons à nageoires jaunes (Thunnus albacares), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030343 Poisson; congelés, listaos ou bonites à ventre rayé, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030344 Poisson; des thons obèses (Thunnus obesus), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030345 Poisson; thons rouges de l'Atlantique et du Pacifique (Thunnus thynnus, Thunnus orientalis), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030346 Poisson; thons rouges du Sud (Thunnus maccoyii), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030349 Poisson; congelé, thon, n.c.a. dans l'article no. 0303.4, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030351 Poisson; des harengs congelés (Clupea harengus, Clupea pallasii), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030353 Poisson; des sardines (Sardina pilchardus, Sardinops spp.), des sardinelles (Sardinella spp.), des brocolis ou des sprats (Sprattus sprattus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030354 Poisson; des maquereaux (Scomber scombrus, Scomber australasicus, Scomber japonicus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030355 Poisson; des chinchards (Trachurus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030356 Poisson; congelés, cobia (Rachycentron canadum), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030357 Poisson; de l'espadon congelé (Xiphias gladius), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030359 Poisson; congelé, n.c.a. dans l'article no. 0303.5, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030363 Poisson; de morue (Gadus morhua, Gadus ogac, Gadus macrocephalus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030364 Poisson; aiglefin congelé (Melanogrammus aeglefinus), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030365 Poisson; congelés, brochets (Pollachius virens), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030366 Poisson; des merlus (Merluccius spp., Urophycis spp.), congelés, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030367 Poisson; congelés de l'Alaska (Theraga chalcogramma), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030368 Poisson; blancs, congelés (Micromesistius poutassou, Micromesistius australis), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030369 Poisson; congelés, de Bregmacerotidae, d'Euclichthyidae, de Gadidae, de Macrouridae, de Melanonidae, de Merlucciidae, de Moridae, de Muraenolepididae, autres que la morue, l'églefin, le cochonnet, le merlu, le lieu jaune, le bleuet, les filets non 0304 et les abats comestibles 0303.9
+030381 Poisson; congelés, aiguillats et autres requins, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030382 Poisson; congelés, raies et raies (Rajidae), à ​​l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030383 Poisson; des légines (Dissostichus spp.), congelées, à l'exclusion des filets, foies, laitances et abats comestibles des sous-positions 0303.91 à 0303.99
+030384 Poisson; des barbecues (Dicentrarchus spp.), à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030389 Poisson; congelé, n.c.a. dans la position 0303, à l'exclusion des filets, de la chair de poisson de 0304 et des abats comestibles des sous-positions 0303.91 à 0303.99
+030391 Poisson; congelés, foies, oeufs et laitance
+030392 Poisson; congelés, nageoires de requin
+030399 Poisson; congelés, nageoires de poissons (autres que les ailerons de requin), têtes, queues, guillochés et autres abats de poisson comestibles
+0304 Filets de poisson et autres chairs de poissons (hachées ou non); frais, réfrigéré ou congelé
+030431 Filets de poisson; frais ou réfrigérés, tilapias (Oreochromis spp.)
+030432 Filets de poisson; poisson-chat frais ou réfrigéré (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+030433 Filets de poisson; frais ou réfrigéré, perche du Nil (Lates niloticus)
+030439 Filets de poisson; frais ou réfrigéré, carpe (selon les spécifications de l'OMD), anguilles (Anguilla spp.) et têtes de serpent (Channa spp.)
+030441 Filets de poisson; frais ou réfrigéré, saumon, Pacifique (Oncorhynchus gerbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou et Oncorhynchus rhodurus), Atlantique (Salmo salar), Danube (Hucho hucho)
+030442 Filets de poisson; frais ou réfrigéré, truite (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache et Oncorhynchus chrysogaster)
+030443 Filets de poisson; poisson plat frais ou réfrigéré (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae et Citharidae)
+030444 Filets de poisson; frais ou réfrigéré, des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae
+030445 Filets de poisson; frais ou réfrigéré, espadon (Xiphias gladius)
+030446 Filets de poisson; légine fraîche ou réfrigérée (Dissostichus spp.)
+030447 Filets de poisson; frais ou réfrigéré, aiguillat et autres requins
+030448 Filets de poisson; frais ou réfrigéré, raies et raies (Rajidae)
+030449 Filets de poisson; frais ou réfrigérés, à l'exclusion des poissons du n ° 0304.4
+030451 Viande de poisson, à l'exclusion des filets, hachée ou non; frais ou réfrigéré, tilapias, poisson-chat, carpe, anguille, perche du Nil et tête de serpent
+030452 Viande de poisson, à l'exclusion des filets, hachée ou non; frais ou réfrigérés, salmonidés
+030453 Viande de poisson, à l'exclusion des filets, hachée ou non; frais ou réfrigéré, des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae
+030454 Viande de poisson, à l'exclusion des filets, hachée ou non; frais ou réfrigéré, espadon (Xiphias gladius)
+030455 Viande de poisson, à l'exclusion des filets, hachée ou non; légine fraîche ou réfrigérée (Dissostichus spp.)
+030456 Viande de poisson; à l'exclusion des filets, hachés ou non; frais ou réfrigéré, aiguillat et autres requins
+030457 Viande de poisson; à l'exclusion des filets, hachés ou non; frais ou réfrigéré, raies et raies (Rajidae)
+030459 Viande de poisson; à l'exclusion des filets, hachés ou non; frais ou réfrigéré, de poisson n.c.a. dans l'article no. 0304.5
+030461 Filets de poisson; congelés, tilapias (Oreochromis spp.)
+030462 Filets de poisson; poisson-chat congelé (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+030463 Filets de poisson; congelé, perche du Nil (Lates niloticus)
+030469 Filets de poisson; congelé, carpe (Cyprinus / Carassius / Ctenopharyngodon idellus / Hypophthalmichthys / Cirrhinus / Mylopharyngodon piceus / Catla catla / Labéo / Osteochilus hasselti / Leptobarbus hoeveni / Megalobrama), anguilles (Anguilla) et têtes de serpent (Channa)
+030471 Filet de poisson; congelé, morue (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+030472 Filets de poisson; congelé, églefin (Melanogrammus aeglefinus)
+030473 Filets de poisson; congelé, le coquillage (Pollachius virens)
+030474 Filets de poisson; congelé, merlu (Merluccius spp., Urophycis spp.)
+030475 Filets de poisson; congelé, lieu jaune de l'Alaska (Theragra chalcogramma)
+030479 Filets de poisson; congelés, des familles des Bregmacerotidae, des Euclichthyidae, des Gadidae, des Macrouridae, des Melanonidae, des Merlucciidae, des Moridae et des Muraenolepididae autres que la morue, l'églefin, le coquillage, le merlu et le lieu jaune de l'Alaska
+030481 Filets de poisson; congelé, saumon, Pacifique (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou, Oncorhynchus rhodurus), Atlantique (Salmo salar) et Danube (Hucho hucho)
+030482 Filets de poisson; congelés, truites (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache et Oncorhynchus chrysogaster)
+030483 Filets de poisson; poissons plats et congelés (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae et Citharidae)
+030484 Filets de poisson; congelé, espadon (Xiphias gladius)
+030485 Filets de poisson; congelé, légine (Dissostichus spp.)
+030486 Filets de poisson; congelés, harengs (Clupea harengus, Clupea pallasii)
+030487 Filets de poisson; congelés, thons (du genre Thunnus), listaos ou bonites à ventre rayé (Euthynnus (Katsuwonus) pelamis)
+030488 Filets de poisson; congelés, aiguillats, autres requins, raies et raies (Rajidae)
+030489 Filets de poisson; congelés, de poisson n.c.a. dans la position 0304.8
+030491 Viande de poisson, à l'exclusion des filets, hachée ou non; congelé, espadon (Xiphias gladius)
+030492 Viande de poisson, à l'exclusion des filets, hachée ou non; congelé, légine (Dissostichus spp.)
+030493 Viande de poisson, à l'exclusion des filets, hachée ou non; congelés, tilapias, poissons-chats, carpes, anguilles, perches du Nil et têtes de serpent
+030494 Viande de poisson, à l'exclusion des filets, hachée ou non; congelé, Alaska Pollack (Theragra chalcogramma)
+030495 Viande de poisson, à l'exclusion des filets, hachée ou non; congelés, des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae, autres que Pollack d'Alaska (Theragra chalcogramma)
+030496 Viande de poisson, à l'exclusion des filets, hachée ou non; congelé, aiguillat et autres requins
+030497 Viande de poisson, à l'exclusion des filets, hachée ou non; congelés, raies et patins (Rajidae)
+030499 Viande de poisson, à l'exclusion des filets, hachée ou non; congelé, n.c.a. dans l'article no. 0304.9
+0305 Poisson, séché, salé ou en saumure; poisson fumé, même cuit avant ou pendant le fumage; farines, poudres et pellets de poisson, propres à l'alimentation humaine
+030510 Poisson; farines, poudres et pellets, propres à l'alimentation humaine
+030520 Poisson; foies, oeufs et laitance de poisson, séchés, fumés, salés ou en saumure
+030531 Filets de poisson; séchés, salés ou en saumure, mais non fumés, tilapias, poissons-chats, carpes, anguilles, perches du Nil et têtes de serpent
+030532 Filets de poisson; séchés, salés ou en saumure, mais non fumés, des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae
+030539 Filets de poisson; séché, salé ou en saumure, mais non fumé, n.c.a. dans l'article no. 0305.3
+030541 Poisson; fumés, même cuits avant ou pendant la fumaison, saumons, pacifiques (Oncorhynchus nerka, gorbuscha, keta, tschawytscha, kisutch, masou, rhodurus), atlantiques (Salmo salar) et danubois (hucho hucho), y compris les filets, mais à l'exclusion des poissons comestibles déchets
+030542 Poisson; fumés, même cuits avant ou pendant le fumage, harengs (Clupea harengus, Clupea pallasii), y compris les filets, mais à l'exclusion des abats comestibles
+030543 Poisson; fumés, même cuits avant ou pendant le fumage, truites (Salmo trutta, Oncorhynchus mykiss / clarki / aguabonita / gilae / apache / chrysogaster), y compris les filets, mais à l'exclusion des abats de poisson comestibles
+030544 Poisson; fumés, même cuits avant ou pendant le fumage, tilapias, poissons-chats, carpes, anguilles, perches du Nil et têtes de serpent, y compris les filets, mais à l'exclusion des abats comestibles de poissons
+030549 Poisson; fumés, même cuits avant ou pendant le fumage, n.c.a. dans l'article no. 0305.4, comprend les filets, mais exclut les abats de poisson comestibles
+030551 Poisson; séchés, même salés mais non fumés, autres que les abats comestibles, la morue (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+030552 Poisson; séchés, même salés mais non fumés, tilapias, poissons-chats, carpes, anguilles, perches du Nil et têtes de serpent
+030553 Poisson; séchés, même salés mais non fumés, poissons des familles Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae et Muraenolepididae, autres que la morue
+030554 Harengs séchés, anchois, sardines, sardinelles, bruns ou sprats, maquereaux (y compris les indiens, crustacés ou équins), seiches, carangues, crevalles, cobia, pomfrets argentés, saury du Pacifique, escouades, capelan, espadon, kawakawa, bonitos, marlins, voiliers, spearfish
+030559 Poisson; séchés, même salés mais non fumés, autres que les abats comestibles, n.c.a. dans l'article no. 0305.5
+030561 Poisson; salés ou en saumure, non séchés ni fumés, autres que les abats comestibles de poissons, le hareng (Clupea harengus, Clupea pallasii)
+030562 Poisson; salés ou en saumure, non séchés ni fumés, autres que les abats comestibles, la morue (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+030563 Poisson; salés ou en saumure, non séchés ni fumés, autres que les abats comestibles, anchois (Engrails spp.)
+030564 Poisson; salés ou en saumure, non séchés ni fumés, autres que les abats comestibles, les tilapias, les poissons-chats, les carpes, les anguilles, les perches du Nil et les têtes de serpent
+030569 Poisson; salés ou en saumure, non séchés ni fumés, autres que les abats comestibles, n.c.a. dans l'article no. 0305.6
+030571 Poisson; abats comestibles, ailerons de requin
+030572 Poisson; abats comestibles, têtes de poisson, queues et gueules
+030579 Poisson; abats comestibles, autres que les ailerons de requins, les têtes de poissons, les queues et les guirlandes
+0306 Crustacés; en coque ou non, vivants, frais, réfrigérés, congelés, séchés, salés ou en saumure; fumé, cuit ou non avant ou pendant le fumage; en coque, cuits à la vapeur ou bouillis, même réfrigérés, congelés, séchés, salés ou en saumure; farines comestibles, repas, pellets
+030611 Crustacés; congelés, langoustes et autres écrevisses de mer (Palinurus spp., Panulirus spp., Jasus spp.), en carapace ou non, fumés, cuits ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030612 Crustacés; homards congelés (Homarus spp.), en coques ou non, fumés, cuits ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030614 Crustacés; congelés, crabes, non décortiqués, fumés, cuits ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030615 Crustacés; congelés, langoustines (Nephrops norvegicus), en coques ou non, fumés, cuits ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030616 Crustacés; crevettes et crevettes congelées d'eau froide (Pandalus spp., Crangon crangon), décortiquées ou non, fumées, cuites ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030617 Crustacés; congelés, crevettes et crevettes, à l'exclusion des variétés d'eau froide, non décortiquées, fumées, cuites ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante
+030619 Crustacés; congelé, n.c.a. dans l'article no. 0306.1, en coque ou non, fumé, cuit ou non avant ou pendant le fumage; en coque, cuit à la vapeur ou à l'eau bouillante; y compris farines, poudres et pellets de crustacés comestibles
+030631 Crustacés; vivants, frais ou réfrigérés, langoustes et autres écrevisses de mer (Palinurus spp., Panulirus spp., Jasus spp.), en carapace ou non
+030632 Crustacés; homards (Homarus spp.) vivants, frais ou réfrigérés, même décortiqués
+030633 Crustacés; vivants, frais ou réfrigérés, crabes, même décortiqués
+030634 Crustacés; vivants, frais ou réfrigérés, langoustines (Nephrops norvegicus), même décortiquées
+030635 Crustacés; des crevettes et des crevettes d'eau froide (Pandalus spp., Crangon crangon), vivantes, fraîches ou réfrigérées, même décortiquées
+030636 Crustacés; vivants, frais ou réfrigérés, crevettes, à l'exclusion des variétés d'eau froide, en coques ou non
+030639 Crustacés; vivant, frais ou réfrigéré, n.c.a. dans l'article no. 0306.3, écossé ou non, y compris farines comestibles, poudres et agglomérés sous forme de pellets de crustacés
+030691 Crustacés; langoustes et autres écrevisses de mer (Palinurus spp., Panulirus spp., Jasus spp.), fumées, cuites ou non, même décortiquées, même cuites avant ou pendant leur fumage
+030692 Crustacés; homards (Homarus spp.), fumés, cuits ou non, même décortiqués, même cuits, avant ou pendant leur fumage
+030693 Crustacés; crabes, fumés, cuits ou non, même décortiqués, cuits ou non avant ou pendant leur fumage
+030694 Crustacés; Langoustines (Nephrops norvegicus), fumées, cuites ou non, même décortiquées, même cuites, avant ou pendant leur fumage
+030695 Crustacés; crevettes, fumées, cuites ou non, même décortiquées, même cuites avant ou pendant leur fumage
+030699 Crustacés; fumé, entier, cuit ou non, n.c.a. dans l'article no. 0306.9, décortiqué ou non, y compris farines comestibles, poudres et agglomérés sous forme de pellets de crustacés
+0307 Mollusques; en vrac ou non, vivants, frais, réfrigérés, congelés, séchés, salés ou en saumure; mollusques fumés, décortiqués ou non, cuits ou non avant ou pendant le fumage; farines, poudres et pellets de mollusques propres à l'alimentation humaine
+030711 Mollusques; huîtres, même décortiquées, vivantes, fraîches ou réfrigérées
+030712 Mollusques; huîtres, même décortiquées, congelées
+030719 Mollusques; huîtres, même décortiquées, séchées, salées ou en saumure, fumées, cuites ou non avant ou pendant le fumage
+030721 Mollusques; coquilles Saint-Jacques, même décortiquées, y compris les coquilles Saint-Jacques, des genres Pecten, Chlamys ou Placopecten, vivantes, fraîches ou réfrigérées
+030722 Mollusques; coquilles Saint-Jacques, même décortiquées, y compris les coquilles Saint-Jacques des genres Pecten, Chlamys ou Placopecten, congelées
+030729 Mollusques; pétoncles, même décortiqués, y compris les pétoncles royaux des genres Pecten, Chlamys ou Placopecten, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage
+030731 Mollusques; moules (Mytilus spp., Perna spp.), même décortiquées, vivantes, fraîches ou réfrigérées
+030732 Mollusques; moules (Mytilus spp., Perna spp.), même décortiquées, congelées
+030739 Mollusques; moules (Mytilus spp., Perna spp.), même décortiquées, séchées, salées, en saumure ou fumées, cuites ou non avant ou pendant le fumage
+030742 Mollusques; seiches et calmars, même décortiqués, vivants, frais ou réfrigérés
+030743 Mollusques; seiches et calmars, même décortiqués, même farines, poudres et pellets de mollusques, propres à la consommation humaine, congelés
+030749 Mollusques; seiches et calmars, même décortiqués, et leurs farines, poudres et boulettes de mollusques, propres à l'alimentation humaine, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage
+030751 Mollusques; poulpe (Octopus spp.), vivant, frais ou réfrigéré
+030752 Mollusques; poulpe (Octopus spp.), congelé
+030759 Mollusques; poulpe (Octopus spp.), séché, salé, en saumure ou fumé, cuit ou non avant ou pendant le fumage
+030760 Mollusques; escargots, autres que les escargots de mer, même décortiqués, vivants, frais, réfrigérés, congelés, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage
+030771 Mollusques; palourdes, coques et coquilles d'arches (familles Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae et Veneridae), en carapace ou non, vivants, frais ou réfrigérés
+030772 Mollusques; palourdes, coques, coquilles d'arques (Arcidés, Arcticidés, Cardiidés, Donacidés, Hiatellidés, Mactridés, Mesodésmatidés, Myidés, Semélidés, Solécurtidés, Solénidés, Tridacnidés et Vénéridés), même décortiqués, congelés
+030779 Mollusques; palourdes, coques, coquilles d'arches (familles Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae, Veneridae), même décortiquées, séchées, salées, en saumure, fumées
+030781 Mollusques; Ormeaux (Haliotis spp.), même décortiqués, vivants, frais ou réfrigérés
+030782 Mollusques; conques stromboïdes (Strombus spp.), même décortiquées, vivantes, fraîches ou réfrigérées
+030783 Mollusques; ormeaux (Haliotis spp.), même décortiqués, congelés
+030784 Mollusques; conques stromboïdes (Strombus spp.), même décortiquées, congelées
+030787 Mollusques; ormeaux (Haliotis spp.), même décortiqués, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage
+030788 Mollusques; conques strombides (Strombus spp.), même décortiquées, contenant des farines, poudres et agglomérés sous forme de pellets de mollusques, propres à l'alimentation humaine, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage
+030791 Mollusques; n.c.a. dans la position 0307, ​​même décortiqué, comprend les farines, les semoules et les pellets de mollusques, propres à l'alimentation humaine, vivants ou frais, réfrigérés
+030792 Mollusques; n.c.a. dans la position 0307, ​​même décortiquées, comprend les farines, les semoules et les pellets de mollusques, propres à la consommation humaine, congelés
+030799 Mollusques; n.c.a. des farines, poudres et agglomérés sous forme de pellets de mollusques, propres à l'alimentation humaine, séchés, salés, en saumure ou fumés, cuits ou non avant ou pendant le fumage, dans la position 0307, ​​même décortiqués
+0308 Invertébrés aquatiques, autres que les crustacés et les mollusques; vivants, frais, réfrigérés, congelés, séchés, salés ou en saumure, fumés, même cuits avant ou pendant le fumage; farines, poudres et pellets propres à la consommation humaine
+030811 Invertébrés aquatiques; concombres de mer (Stichopus japonicus, Holothuroidea), vivants, frais ou réfrigérés
+030812 Invertébrés aquatiques; concombres de mer (Stichopus japonicus, Holothuroidea), congelés
+030819 Invertébrés aquatiques; concombres de mer (Stichopus japonicus, Holothuroidea), séchés, salés ou en saumure, fumés, même cuits avant ou pendant le fumage
+030821 Invertébrés aquatiques; Oursins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), vivants, frais ou réfrigérés
+030822 Invertébrés aquatiques; oursins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), congelés
+030829 Invertébrés aquatiques; oursins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus), séchés, salés ou en saumure, fumés, même cuits avant ou pendant le fumage
+030830 Invertébrés aquatiques; méduses (Rhopilema spp.), vivantes, fraîches, réfrigérées, congelées, séchées, salées ou en saumure, fumées, même cuites avant ou pendant leur fumage
+030890 Invertébrés aquatiques; autres que crustacés, mollusques, oursins, concombres de mer et méduses, vivants, frais, réfrigérés, congelés, séchés, salés ou en saumure, fumés, cuits ou non avant ou pendant le fumage, y compris farines, poudres et pellets
+04 PRODUIT LAITIER; OEUFS D'OISEAUX; MIEL NATUREL; PRODUITS COMESTIBLES D'ORIGINE ANIMALE, NON ÉNUMÉRÉS AILLEURS OU INCLUS
+0401 Lait et crème; non concentré, sans addition de sucre ou d'autres édulcorants
+040110 Produits laitiers; lait et crème, non concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses n'excédant pas 1%
+040120 Produits laitiers; lait et crème, non concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 1% mais n'excédant pas 6%
+040140 Produits laitiers; lait et crème, non concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 6% mais n'excédant pas 10%
+040150 Produits laitiers; lait et crème, non concentrés, sans addition de sucre ou d'autres édulcorants, d'une teneur en poids de matières grasses excédant 10%
+0402 Lait et crème; concentré ou additionné de sucre ou d'autres édulcorants
+040210 Produits laitiers; lait et crème, concentrés ou additionnés de sucre ou d'autres édulcorants, en poudre, en granulés ou sous d'autres formes solides, d'une teneur en matières grasses n'excédant pas 1,5% (en poids)
+040221 Produits laitiers; lait et crème, concentrés, non additionnés de sucre ou d'autres édulcorants, en poudre, en granulés ou sous d'autres formes solides, d'une teneur en matières grasses supérieure à 1,5% (en poids)
+040229 Produits laitiers; lait et crème, additionnés de sucre ou d'autres édulcorants, en poudre, en granulés ou sous d'autres formes solides, d'une teneur en matières grasses excédant 1,5% (en poids)
+040291 Produits laitiers; lait et crème, concentrés, sans addition de sucre ou d'autres édulcorants, autres qu'en poudre, en granulés ou sous d'autres formes solides
+040299 Produits laitiers; lait et crème, additionnés de sucre ou d'autres édulcorants, autres qu'en poudre, en granulés ou sous d'autres formes solides
+0403 Babeurre, lait et crème caillés, yoghourt, kéfir, lait ou crème fermenté ou acidifié, même concentré, additionné de sucre, d'édulcorant, de fruits aromatisés ou additionnés ou de cacao
+040310 Produits laitiers; yoghourt, même concentré ou additionné de sucre ou d'autres édulcorants ou aromatisé ou additionné de fruits ou de cacao
+040390 Produits laitiers; babeurre, lait ou crème caillés, kephir, lait ou crème fermenté ou acidifié, même concentré ou additionné d'édulcorant, d'aromatisant, de fruits ou de cacao (à l'exclusion du yoghourt)
+0404 Lactosérum et produits constitués de constituants naturels du lait; contenant ou non du sucre ajouté ou autres édulcorants, non dénommés ni compris ailleurs
+040410 Produits laitiers; lactosérum, même concentré ou additionné de sucre ou d'autres édulcorants
+040490 Produits laitiers; composants naturels du lait (à l'exclusion du lactosérum), même additionnés de sucre ou d'autres édulcorants, n.c.a. au chapitre 04
+0405 Beurre et autres graisses et huiles dérivées du lait; pâtes à tartiner
+040510 Produits laitiers; dérivé du lait, beurre
+040520 Produits laitiers; pâtes à tartiner
+040590 Produits laitiers; graisses et huiles dérivées du lait (autres que les pâtes à tartiner au beurre ou aux produits laitiers)
+0406 Fromage et caillé
+040610 Produits laitiers; fromage frais (y compris le fromage de lactosérum), non fermenté, et caillebotte
+040620 Produits laitiers; fromage de toutes sortes, râpé ou en poudre
+040630 Produits laitiers; fromage, traité (non râpé ou en poudre)
+040640 Produits laitiers; fromages, veines bleues et autres fromages contenant des veines produites par Penicillium roqueforti (non râpées, en poudre ou transformées)
+040690 Produits laitiers; fromage (non râpé, en poudre ou transformé), n.c.a. dans le n ° 0406
+0407 Oeufs d'oiseaux, en coquille; frais, conservé ou cuit
+040711 Oeufs d'oiseaux, en coquille; oeufs frais, fécondés, destinés à l'incubation, de volailles de l'espèce Gallus domesticus (poules domestiques)
+040719 Oeufs d'oiseaux, en coquille; oeufs frais, fécondés, destinés à l'incubation, autres que les poules de l'espèce Gallus domesticus (poules domestiques)
+040721 Oeufs d'oiseaux, en coquille; frais, non destiné à l'incubation, de volailles de l'espèce Gallus domesticus (poules domestiques)
+040729 Oeufs d'oiseaux, en coquille; frais, non destiné à l'incubation, autres que les poules de l'espèce Gallus domesticus (poules domestiques)
+040790 Oeufs d'oiseaux, en coquille; conservé ou cuit
+0408 Oeufs d'oiseaux, non décortiqués; jaunes d'oeufs, frais, séchés, cuits à la vapeur ou à l'eau dans l'eau, moulés, congelés ou autrement conservés, même additionnés de sucre ou d'autres édulcorants
+040811 Des œufs; oeufs d'oiseaux, jaunes, séchés, même additionnés de sucre ou d'autres édulcorants
+040819 Des œufs; oeufs d'oiseaux, jaunes, frais, cuits à l'eau ou à la vapeur, moulés, congelés ou autrement conservés, même additionnés de sucre ou d'autres édulcorants
+040891 Des œufs; oeufs d'oiseaux (non décortiqués, sauf jaunes), séchés, avec ou sans addition de sucre ou d'autres édulcorants
+040899 Des œufs; Oeufs d'oiseaux (non décortiqués, à l'exclusion des jaunes d'œufs), frais, cuits à la vapeur ou à l'eau dans l'eau, moulés, congelés, conservés, même additionnés de sucre ou d'autres édulcorants
+0409 Mon chéri; Naturel
+040900 Mon chéri; Naturel
+0410 Produits comestibles d'origine animale; non spécifié ailleurs ou inclus
+041000 Produits animaux; comestible, n.c.a. dans ce ou d'autres chapitres
+05 PRODUITS D'ORIGINE ANIMALE; NON ÉNUMÉRÉ AILLEURS OU INCLUS
+0501 Cheveux humains; bruts, même lavés ou récurés; perte de cheveux humains
+050100 Produits animaux; des cheveux, humains, bruts, même lavés ou récurés, et des déchets de cheveux
+0502 Porcs et poils de porc, de porc ou de sanglier; et déchets de ceux-ci
+050210 Produits animaux; poils et soies, de porcins, de porcs ou de verrats et leurs déchets
+050290 Produits animaux; poils de blaireau et autres poils pour faire les cheveux et déchets de ces soies ou poils, n.c.a. dans le n ° 0502 (sans compter le crin de cheval)
+0504 Tripes, vessies et estomacs d'animaux (autres que les poissons); entiers ou en morceaux, frais, réfrigérés, congelés, salés ou en saumure, séchés ou fumés
+050400 Produits animaux; tripes, vessies et estomacs d'animaux (autres que les poissons), entiers ou en morceaux, à l'état frais, réfrigéré, congelé, salé ou en saumure, séchés ou fumés
+0505 Peaux et autres parties d'oiseaux avec des plumes, vers le bas; plumes, duvet et leurs parties; pas plus travaillé que nettoyé, désinfecté, traité pour la conservation; Poudre, déchets et parties de plumes
+050510 Produits animaux; plumes et duvet utilisés pour le rembourrage, simplement travaillés, nettoyés, désinfectés ou traités en vue de leur conservation
+050590 Produits animaux; peaux et autres parties d'oiseaux, plumes et duvet (non conditionnées pour la confection), poudres et déchets de ceux-ci, simplement nettoyés, désinfectés ou traités en vue de leur conservation
+0506 Os et cornillons, bruts, dégraissés, simplement préparés (mais non découpés en forme), traités à l'acide ou dégélatinés; poudre et déchets de ces produits
+050610 Produits animaux; Oséine et os traités avec de l'acide
+050690 Produits animaux; os et cornillons et poudres ou déchets de ces matières, bruts, dégraissés, simplement préparés (non découpés en forme), ou traités avec de l'acide ou dégélatinés, n.c.a. dans le n ° 0506
+0507 Ivoire, écaille de tortue, fanons de baleine et d'autres mammifères marins, cornes, bois, sabots, ongles, griffes et becs, bruts ou simplement préparés, non découpés en forme; déchets et poudres de ces produits
+050710 Produits animaux; ivoire, brut ou simplement préparé, mais non découpé en forme, poudre et déchets d'ivoire
+050790 Produits animaux; écailles de tortue, fanons et fanons de baleine, fanons, cornes, bois, sabots, ongles, griffes et becs, bruts ou simplement préparés, mais non découpés en forme, déchets et poudres de ces produits
+0508 Coraux et matières similaires, bruts ou simplement préparés, coquilles de mollusques, crustacés ou échinodermes et os de seiches, non découpés en poudre et leurs déchets
+050800 Produits animaux; coraux et matières similaires, coquilles de mollusques, crustacés, échinodermes, os de seiches, bruts ou simplement préparés, mais non découpés en forme, poudres et déchets
+0510 Ambre gris, castoréum, civette et musc; cantharides; bile, séchés ou non glandes, autres produits d'origine animale utilisés dans la préparation de produits pharmaceutiques, frais réfrigérés, congelés ou autrement conservés de façon provisoire
+051000 Produits animaux; ambre gris, castoréum, civette, musc, cantharides, glandes biliaires (séchées ou non) et autres produits d'origine animale, à usage pharmaceutique, frais, réfrigérés, congelés ou autrement conservés de façon provisoire
+0511 Produits d'origine animale non spécifiés ou inclus ailleurs animaux morts des chapitres 1 ou 3, impropres à la consommation humaine
+051110 Produits animaux; sperme bovin
+051191 Produits animaux; de poissons ou de crustacés, de mollusques ou d'autres invertébrés aquatiques; animaux morts du chapitre 03, impropres à la consommation humaine
+051199 Produits animaux; n.c.a. au chapitre 5
+06 ARBRES ET AUTRES PLANTES, VIVANTS; AMPOULES, RACINES ET ANALOGUES; FLEURS COUPEES ET FEUILLAGE ORNEMENTAL
+0601 Bulbes, tubercules, racines tubéreuses, cormes, couronnes et rhizomes; dormant, en croissance ou en fleur; plantes et racines de chicorée autres que les racines du n °. 1212
+060110 Les plantes, vivent; bulbes, tubercules, racines tubéreuses, cormes, couronnes et rhizomes, dormants
+060120 Les plantes, vivent; bulbes, tubercules, racines tubéreuses, bulbes, couronnes et rhizomes, en croissance ou en fleur, plantes et racines de chicorée autres que celles du no. 1212
+0602 Les plantes, vivent; n.c.a. dans le n ° 0601 (y compris leurs racines) boutures et glissades; champignon
+060210 Les plantes, vivent; boutures non racinées et glissades
+060220 Les plantes, vivent; fruits comestibles ou noyers, arbustes et buissons, greffés ou non
+060230 Les plantes, vivent; rhododendrons et azalées, greffés ou non
+060240 Les plantes, vivent; roses, greffées ou non
+060290 Les plantes, vivent; n.c.a. dans le n ° 0602
+0603 Fleurs; fleurs et boutons de fleurs, coupés, pour bouquets ou pour ornements, frais, séchés, blanchis, teints, imprégnés ou autrement préparés
+060311 Fleurs, coupées; roses, fleurs et bourgeons des types appropriés pour bouquets ou pour ornements, frais
+060312 Fleurs, coupées; oeillets, fleurs et bourgeons des types appropriés pour bouquets ou pour ornements, frais
+060313 Fleurs, coupées; orchidées, fleurs et bourgeons des types adaptés aux bouquets ou à des fins ornementales, frais
+060314 Fleurs, coupées; chrysanthèmes, fleurs et bourgeons des types appropriés pour bouquets ou pour ornements, frais
+060315 Fleurs, coupées; lis (Lilium spp.), fleurs et boutons de fleurs, pour bouquets ou pour ornements, frais
+060319 Fleurs, coupées; fleurs et bourgeons des types utilisables pour bouquets ou pour ornements, frais, autres que roses, oeillets, orchidées, chrysanthèmes ou lys
+060390 Fleurs, coupées; fleurs et boutons de fleurs, pour bouquets ou pour ornements, séchés, teints, blanchis, imprégnés ou autrement préparés
+0604 Feuillage, branches et autres parties de plantes, sans fleurs ni bourgeons floraux, et herbes, mousses et lichens; Convient pour les bouquets ou à des fins ornementales, fraîches, séchées, teintes, blanchies, imprégnées etc.
+060420 Feuillage, branches et autres parties de plantes, sans fleurs ni bourgeons floraux, et herbes, mousses et lichens; Convient pour les bouquets ou à des fins ornementales, fraîches
+060490 Feuillage, branches et autres parties de plantes, sans fleurs ni bourgeons floraux, et herbes, mousses et lichens; pour bouquets ou pour ornements, séchés, teints, blanchis, imprégnés ou autrement préparés
+07 LÉGUMES ET CERTAINES RACINES ET TUBERCULES; COMESTIBLE
+0701 Patates; frais ou réfrigéré
+070110 Des légumes; pommes de terre de semence, fraîches ou réfrigérées
+070190 Des légumes; pommes de terre (autres que les graines), fraîches ou réfrigérées
+0702 Tomates; frais ou réfrigéré
+070200 Des légumes; tomates, fraîches ou réfrigérées
+0703 Oignons, échalotes, ail, poireaux et autres légumes alliacés; frais ou réfrigéré
+070310 Légumes, alliacés; oignons et échalotes, frais ou réfrigérés
+070320 Légumes, alliacés; ail, frais ou réfrigéré
+070390 Légumes, alliacés; poireaux et autres espèces n.c.a. dans le n ° 0703, frais ou réfrigéré
+0704 Choux, choux-fleurs, choux-raves, choux frisés et autres brassicas comestibles similaires; frais ou réfrigéré
+070410 Légumes, brassica; choux-fleurs et brocolis à tête, frais ou réfrigérés
+070420 Légumes, brassica; choux de Bruxelles, frais ou réfrigérés
+070490 Légumes, brassica; comestible, n.c.a. dans le n ° 0704, frais ou réfrigéré
+0705 Laitue (lactuca sativa) et chicorée (cichorium spp.), Fraîche ou réfrigérée
+070511 Des légumes; chou (tête) laitue (lactuca sativa), fraîche ou réfrigérée
+070519 Des légumes; laitue (lactuca sativa), (autre que la laitue de chou), fraîche ou réfrigérée
+070521 Des légumes; witloff chicorée (cichorium intybus var. foliosum), fraîche ou réfrigérée
+070529 Des légumes; chicorée (cichorium spp.), (autre que chicorée witloof), à l'état frais ou réfrigéré
+0706 Carottes, navets, betteraves à salade, salsifis, céleris-raves, radis et racines comestibles similaires; frais ou réfrigéré
+070610 Légumes, racine; carottes et navets, frais ou réfrigérés
+070690 Légumes, racine; betteraves à salade, salsifis, céleris, radis et racines comestibles similaires, à l'état frais ou réfrigéré
+0707 Concombres et cornichons; frais ou réfrigéré
+070700 Des légumes; concombres et cornichons, à l'état frais ou réfrigéré
+0708 Légumes légumineux; écossés ou non, frais ou réfrigérés
+070810 Légumes, légumineuses; pois (pisum sativum), écossés ou non, frais ou réfrigérés
+070820 Légumes, légumineuses; haricots (Vigna spp., Phaseolus spp.), écossés ou non, frais ou réfrigérés
+070890 Légumes, légumineuses; (autres que les pois et les haricots), écossés ou non, frais ou réfrigérés
+0709 Des légumes; n.c.a. au chapitre 07, frais ou réfrigéré
+070920 Des légumes; asperges, fraîches ou réfrigérées
+070930 Des légumes; aubergines (par exemple, plantes), fraîches ou réfrigérées
+070940 Des légumes; céleri (autre que céleri-rave), frais ou réfrigéré
+070951 Des légumes; champignons du genre Agaricus, frais ou réfrigérés
+070959 Des légumes; truffes et champignons (autres que du genre Agaricus), frais ou réfrigérés
+070960 Des légumes; des fruits du genre Capsicum ou du genre Pimenta, frais ou réfrigérés
+070970 Des légumes; épinards, épinards de Nouvelle-Zélande et épinards (épinards de jardin), frais ou réfrigérés
+070991 Des légumes; artichauts, frais ou réfrigérés
+070992 Des légumes; olives, fraîches ou réfrigérées
+070993 Des légumes; courges, courges et courges (Cucurbita spp.), à l'état frais ou réfrigéré
+070999 Des légumes; comestible, n.c.a. au chapitre 07, frais ou réfrigéré
+0710 Légumes (non cuits ou cuits à la vapeur ou à l'eau dans l'eau); congelé
+071010 Des légumes; pommes de terre, non cuites ou cuites à la vapeur ou à l'eau dans l'eau, congelées
+071021 Légumes, légumineuses; pois (pisum sativum), écossés ou non, non cuits ou cuits à la vapeur ou à l'eau dans l'eau, congelés
+071022 Légumes, légumineuses; haricots (Vigna spp., Phaseolus spp.), écossés ou non, non cuits ou cuits à la vapeur ou à l'eau dans l'eau, congelés
+071029 Légumes, légumineuses; (autres que les pois ou les haricots), écossés ou non, non cuits ou cuits à la vapeur ou à l'eau dans l'eau, congelés
+071030 Des légumes; épinards, épinards de Nouvelle-Zélande et épinards orangés (épinards de jardin), non cuits ou cuits à l'eau ou à la vapeur, congelés
+071040 Des légumes; maïs doux, non cuit ou cuit à la vapeur ou à l'eau dans l'eau, congelé
+071080 Des légumes; non cuit ou cuit à la vapeur ou à l'eau bouillante, n.c.a. dans le n ° 0710, congelé
+071090 Mélanges de légumes; non cuit ou cuit à la vapeur ou à l'eau bouillante, congelé
+0711 Légumes conservés provisoirement; (par exemple, par du dioxyde de soufre, dans de la saumure, dans de l'eau soufrée ou dans d'autres solutions de conservation), mais impropres à l'alimentation en l'état pour consommation immédiate
+071120 Des légumes; olives, conservées provisoirement mais impropres à l'alimentation en l'état
+071140 Des légumes; concombres et cornichons, conservés provisoirement mais impropres à l'alimentation en l'état
+071151 Des légumes; champignons du genre Agaricus, conservés provisoirement mais impropres à l'alimentation en l'état
+071159 Des légumes; champignons autres que ceux du genre Agaricus, conservés provisoirement mais impropres à l'alimentation en l'état
+071190 Légumes et légumes mélangés; n.c.a. dans le n ° 0711, provisoirement conservé mais impropre à cet usage pour consommation immédiate
+0712 Légumes, séchés; entiers, coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés
+071220 Des légumes; oignons, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+071231 Des légumes; champignons du genre Agaricus, entiers, même coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+071232 Des légumes; épis de bois (Auricularia spp), entiers, coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+071233 Des légumes; des champignons de gelée (Tremella spp)), entiers, coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+071239 Des légumes; champignons, autres que le genre Agaricus et truffes, entiers, coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+071290 Des légumes; mélanges de légumes n.c.a. dans le n ° 0712, entiers, coupés en morceaux ou en tranches ou bien broyés ou pulvérisés, mais non autrement préparés, séchés
+0713 Légumes, légumineuses; écossés, même décortiqués ou fendus, séchés
+071310 Légumes, légumineuses; pois (pisum sativum), écossés, même décortiqués ou cassés, séchés
+071320 Légumes, légumineuses; pois chiches (pois chiches), écossés, même décortiqués ou cassés, séchés
+071331 Légumes, légumineuses; haricots de l'espèce vigna mungo (l.) hepper ou vigna radiata (L.) wilczek, écossés, même décortiqués ou cassés, séchés
+071332 Légumes, légumineuses; petits haricots rouges (adzuki) (phaseolus ou vigna angularis), écossés, même décortiqués ou fendus, séchés
+071333 Légumes, légumineuses; haricots communs, y compris les haricots blancs (Phaseolus vulgaris), écossés, même décortiqués ou fendus, séchés
+071334 Légumes, légumineuses; haricots de bambara (Vigna subterranea ou Voandzeia subterranea), écossés, même décortiqués ou cassés, séchés
+071335 Légumes, légumineuses; pois de vache (Vigna unguiculata), écossés, même décortiqués ou cassés, séchés
+071339 Légumes, légumineuses; n.c.a. dans l'article no. 0713.3, écossés, même décortiqués ou cassés, séchés
+071340 Légumes, légumineuses; lentilles, écossées, même décortiquées ou cassées, séchées
+071350 Légumes, légumineuses; féveroles (vicia faba var. major) et féveroles (vicia faba var equina et vicia faba var. minor), écossés, même décortiqués ou fendus, séchés
+071360 Légumes, légumineuses; pois cajan (Cajanus cajan), écossés, même décortiqués ou cassés, séchés
+071390 Légumes, légumineuses; n.c.a. dans le n ° 0713, écossés, même décortiqués ou cassés, séchés
+0714 Manioc, arrow-root, salep, topinambours, patates douces et racines et tubercules similaires à haute teneur en amidon ou en inuline; frais, réfrigérés, congelés ou séchés, même tranchés ou agglomérés sous forme de pellets; moelle de sagou
+071410 Racines et tubercules de légumes; manioc (manioc), à haute teneur en fécule ou en inuline, frais, réfrigérés, congelés ou séchés, même débités en morceaux ou agglomérés sous forme de pellets
+071420 Racines et tubercules de légumes; patates douces, à haute teneur en fécule ou en inuline, fraîches, réfrigérées, congelées ou séchées, même débitées en morceaux ou agglomérées sous forme de pellets
+071430 Racines et tubercules de légumes; ignames (Dioscorea spp.) à haute teneur en fécule ou en inuline, fraîches, réfrigérées, congelées ou séchées, même débitées en morceaux ou agglomérées sous forme de pellets
+071440 Racines et tubercules de légumes; taro (Colocasia spp.) à haute teneur en fécule ou en inuline, frais, réfrigérés, congelés ou séchés, même débités en morceaux ou agglomérés sous forme de pellets
+071450 Racines et tubercules de légumes; yautia (Xanthosoma spp.) à haute teneur en amidon ou en inuline, frais, réfrigérés, congelés ou séchés, même débités en morceaux ou agglomérés sous forme de pellets
+071490 Racines et tubercules de légumes; arrow-root, salep, topinambours et racines et tubercules similaires (non manioc, patates douces, ignames, taros ou yautia), à haute teneur en amidon ou en inuline, frais, réfrigérés, congelés, séchés, tranchés ou non, ou sous forme de granules; moelle de sagou
+08 FRUITS ET NOIX, COMESTIBLES; PEEL D'AGRUMES OU DE MELONS
+0801 Noix, comestibles; noix de coco, noix du Brésil et noix de cajou, fraîches ou sèches, même sans leurs coques ou décortiquées
+080111 Noix, comestibles; noix de coco, desséchées
+080112 Noix, comestibles; noix de coco, dans la coquille intérieure (endocarpe)
+080119 Noix, comestibles; noix de coco, fraîches ou séchées, autres que desséchées ou dans la coquille intérieure (endocarpe)
+080121 Noix, comestibles; noix du Brésil, fraîches ou sèches, en coques
+080122 Noix, comestibles; noix du Brésil, fraîches ou séchées, décortiquées
+080131 Noix, comestibles; noix de cajou, fraîches ou sèches, en coques
+080132 Noix, comestibles; noix de cajou, fraîches ou séchées, décortiquées
+0802 Noix (à l'exclusion des noix de coco, du Brésil et des noix de cajou); frais ou séchés, même sans leurs coques ou décortiqués
+080211 Noix, comestibles; amandes, fraîches ou sèches, en coques
+080212 Noix, comestibles; amandes, fraîches ou sèches, décortiquées
+080221 Noix, comestibles; noisettes ou noisettes (corylus spp.), fraîches ou sèches, en coques
+080222 Noix, comestibles; noisettes ou noisettes (corylus spp.), fraîches ou sèches, écossées
+080231 Noix, comestibles; noix, fraîches ou sèches, en coques
+080232 Noix, comestibles; noix, fraîches ou sèches, décortiquées
+080241 Noix, comestibles; châtaignes (Castanea spp.), fraîches ou sèches, en coques
+080242 Noix, comestibles; Châtaignes (Castanea spp.), fraîches ou sèches, décortiquées
+080251 Noix, comestibles; pistaches, fraîches ou sèches, en coques
+080252 Noix, comestibles; pistaches, fraîches ou sèches, décortiquées
+080261 Noix, comestibles; macadamia, fraîche ou séchée, en coque
+080262 Noix, comestibles; macadamia, fraîche ou séchée, décortiquée
+080270 Noix, comestibles; noix de cola (Cola spp.), fraîches ou sèches, même sans leurs coques ou décortiquées
+080280 Noix, comestibles; noix d'arec, fraîches ou sèches, même sans leurs coques ou décortiquées
+080290 Noix, comestibles; n.c.a. dans le n ° 0801 et 0802, frais ou secs, même sans leurs coques ou décortiqués
+0803 Bananes, y compris les plantains; frais ou séché
+080310 Fruits comestibles plantains, frais ou séchés
+080390 Fruits comestibles bananes, autres que les plantains, fraîches ou sèches
+0804 Dattes, figues, ananas, avocats, goyaves, mangues et mangoustans; frais ou séché
+080410 Fruits comestibles dattes, fraîches ou séchées
+080420 Fruits comestibles figues, fraîches ou séchées
+080430 Fruits comestibles ananas, frais ou séché
+080440 Fruits comestibles avocats, frais ou secs
+080450 Fruits comestibles goyaves, mangues et mangoustans, frais ou secs
+0805 Agrumes; frais ou séché
+080510 Fruits comestibles oranges, fraîches ou séchées
+080521 Fruits comestibles mandarines (y compris mandarines et satsumas), fraîches ou sèches
+080522 Fruits comestibles clémentines, fraîches ou séchées
+080529 Fruits comestibles tangelos, wilkings et similaires hybrides d'agrumes, frais ou secs
+080540 Fruits comestibles pamplemousses, y compris les pomelos, frais ou séchés
+080550 Fruits comestibles citrons (Citrus limon, Citrus limonum), limes (Citrus aurantifolia, Citrus latifolia), frais ou séchés
+080590 Fruits comestibles agrumes n.c.a. dans le n ° 0805, frais ou séché
+0806 Les raisins; frais ou séché
+080610 Fruits comestibles raisins frais
+080620 Fruits comestibles raisins secs
+0807 Melons (y compris les pastèques) et papayes (papayes); Frais
+080711 Fruits comestibles pastèques, fraîches
+080719 Fruits comestibles melons, autres que les pastèques, frais
+080720 Fruits comestibles papayes (papayes), fraîches
+0808 Pommes, poires et coings; Frais
+080810 Fruits comestibles pommes, fraîches
+080830 Fruits comestibles poires, fraîches
+080840 Fruits comestibles coings, frais
+0809 Abricots, cerises, pêches (y compris les nectarines), prunes et prunelles, frais
+080910 Fruits comestibles abricots, frais
+080921 Fruits comestibles Cerises acides (Prunus cerasus), fraîches
+080929 Fruits comestibles cerises, autres que les cerises acides (Prunus cerasus), fraîches
+080930 Fruits comestibles pêches, y compris les nectarines, fraîches
+080940 Fruits comestibles prunes et prunelles, fraîches
+0810 Fruits frais n.c.a. au chapitre 08
+081010 Fruits comestibles fraises, fraîches
+081020 Fruits comestibles framboises, mûres, mûres et groseilles à grappes, frais
+081030 Fruits comestibles groseilles et groseilles noires, blanches ou rouges, fraîches
+081040 Fruits comestibles canneberges, myrtilles et autres fruits du genre 'vaccinium', frais
+081050 Fruits comestibles kiwi, frais
+081060 Fruits comestibles durians, frais
+081070 Fruits comestibles kakis frais
+081090 Fruits comestibles fruits n.c.a. dans le n ° 0801 à 0810, frais
+0811 Fruits et noix; non cuits ou cuits à la vapeur ou à l'eau dans l'eau, congelés, même additionnés de sucre ou d'autres édulcorants
+081110 Fruits comestibles fraises, non cuites ou cuites à la vapeur ou à l'eau dans l'eau, congelées, avec ou sans addition de sucre ou d'autres édulcorants
+081120 Fruits comestibles framboises, mûres, mûres, groseilles à grappes, groseilliers, groseilles à grappes noires, blanches ou grises, non cuites ou cuites, avec ou sans addition de sucre ou d'autres édulcorants
+081190 Fruits comestibles fruits et noix n.c.a. dans le n ° 0811, non cuits ou cuits, congelés, même avec addition de sucre ou d'autres édulcorants
+0812 Fruits et noix conservés provisoirement; par exemple. par du dioxyde de soufre, de la saumure, dans de l'eau soufrée ou dans d'autres solutions de conservation, mais impropres à l'alimentation en l'état pour la consommation immédiate
+081210 Fruits comestibles cerises, conservées provisoirement, mais impropres à l'alimentation en l'état
+081290 Fruits comestibles fruits et noix n.c.a. dans le n ° 0812, provisoirement conservé, mais impropre à cet usage pour consommation immédiate
+0813 Fruits séchés, autres que ceux du n ° 0801 à 0806; mélanges de fruits à coque ou de fruits séchés du présent chapitre
+081310 Fruits comestibles abricots, séchés
+081320 Fruits comestibles pruneaux, séchés
+081330 Fruits comestibles pommes, séchées
+081340 Fruits comestibles fruit n.c.a. dans le n ° 0812, séché
+081350 Noix, comestibles; mélanges de fruits à coque ou de fruits séchés du chapitre 08
+0814 Écorces d'agrumes ou de melons (y compris les pastèques); frais, congelés, séchés ou conservés provisoirement dans l'eau salée, dans l'eau soufrée ou dans d'autres solutions de conservation
+081400 Peler; d'agrumes ou de melons (y compris les melons d'eau), frais, congelés, séchés ou conservés provisoirement dans l'eau salée, dans l'eau soufrée et dans d'autres solutions de conservation
+09 CAFÉ, THÉ, MATE ET ÉPICES
+0901 Café, même torréfié ou décaféiné; des enveloppes et des peaux; succédanés de café contenant du café en toute proportion
+090111 Café; non torréfié ou décaféiné
+090112 Café; décaféiné, non rôti
+090121 Café; rôti, non décaféiné
+090122 Café; rôti, décaféiné
+090190 Café; enveloppes et peaux, succédanés du café contenant du café en toute proportion
+0902 thé
+090210 Thé vert (non fermenté), en emballages immédiats d'un contenu n'excédant pas 3 kg
+090220 Thé vert (non fermenté), en emballages immédiats d'un contenu excédant 3 kg
+090230 Thé noir thé (fermenté) et partiellement fermenté, en emballages immédiats d'un contenu n'excédant pas 3 kg
+090240 Thé noir thé (fermenté) et partiellement fermenté, en emballages immédiats d'un contenu excédant 3 kg
+0903 Camarade
+090300 Camarade
+0904 Poivre du genre piper; fruits séchés ou broyés ou pulvérisés du genre Capsicum ou du genre Pimenta
+090411 Épices; poivre (du genre piper), non broyé ni moulu
+090412 Épices; poivre (du genre piper), broyé ou moulu
+090421 Épices; les fruits du genre Capsicum ou Pimenta, séchés, non broyés ni pulvérisés
+090422 Épices; les fruits du genre Capsicum ou Pimenta, broyés ou moulus
+0905 Vanille
+090510 Épices; vanille, non broyée ni moulue
+090520 Épices; vanille, écrasée ou moulue
+0906 Fleurs de cannelle et de cannelle
+090611 Épices; cannelle (Cinnamomum zeylanicum Blume), non broyée ni moulue
+090619 Épices; fleurs de cannelle et de cannelle, autres que cannelle (Cinnamomum zeylanicum Blume), non broyées ni pulvérisées
+090620 Épices; fleurs de cannelle et de cannelle, broyées ou moulues
+0907 Clous de girofle (fruits entiers, clous de girofle et tiges)
+090710 Épices; clous de girofle (fruits entiers, clous de girofle et tiges), non broyés ni moulus
+090720 Épices; clous de girofle (fruits entiers, clous de girofle et tiges), broyés ou moulus
+0908 Noix de muscade, macis et cardamomes
+090811 Épices; muscade, non broyée ni moulue
+090812 Épices; muscade, concassée ou moulue
+090821 Épices; macis, ni broyés ni moulus
+090822 Épices; masse, concassé ou moulu
+090831 Épices; cardamomes, non broyées ni moulues
+090832 Épices; cardamomes, broyées ou moulues
+0909 Graines d'anis, de badiane, de fenouil, de coriandre, de cumin, de carvi ou de genévrier
+090921 Épices; graines de coriandre, non broyées ni moulues
+090922 Épices; graines de coriandre, broyées ou moulues
+090931 Épices; graines de cumin, non broyées ni moulues
+090932 Épices; graines de cumin, broyées ou moulues
+090961 Épices; graines d'anis, de badian, de carvi ou de fenouil; baies de genièvre, non broyées ni moulues
+090962 Épices; graines d'anis, de badian, de carvi ou de fenouil; baies de genièvre, concassées ou moulues
+0910 Gingembre, safran, curcuma, thym, feuilles de laurier, curry et autres épices
+091011 Épices; gingembre, non broyé ni moulu
+091012 Épices; gingembre, concassé ou moulu
+091020 Épices; Safran
+091030 Épices; curcuma (curcuma)
+091091 Épices; mélanges de 2 produits ou plus de différentes catégories
+091099 Épices; n.c.a. dans le n ° 0910
+10 CÉRÉALES
+1001 Blé et méteil
+100111 Céréales; blé et méteil, blé dur, graine
+100119 Céréales; blé et méteil, blé dur, autres que les graines
+100191 Céréales; blé et méteil, à l'exclusion du blé dur, semences
+100199 Céréales; blé et méteil, autres que le blé dur, autres que les graines
+1002 Seigle
+100210 Céréales; seigle, graine
+100290 Céréales; seigle, autre que la graine
+1003 Orge
+100310 Céréales; orge, graine
+100390 Céréales; orge, autre que la graine
+1004 L'avoine
+100410 Céréales; avoine, graines
+100490 Céréales; avoine, autre que la graine
+1005 Maïs
+100510 Céréales; maïs, semences
+100590 Céréales; maïs (maïs), à l'exclusion des semences
+1006 Riz
+100610 Céréales; riz dans l'enveloppe (paddy ou rugueux)
+100620 Céréales; riz décortiqué (brun)
+100630 Céréales; riz, semi-blanchi ou blanchi, même poli ou glacé
+100640 Céréales; riz cassé
+1007 Sorgho à grains
+100710 Céréales; sorgho à grains, graines
+100790 Céréales; sorgho à grains autres que les graines
+1008 Sarrasin, millet et graines à canaris; autres céréales
+100810 Céréales; sarrasin
+100821 Céréales; millet, graine
+100829 Céréales; millet, autre que la graine
+100830 Céréales; graines de canari
+100840 Céréales; fonio (Digitaria spp.)
+100850 Céréales; quinoa (Chenopodium quinoa)
+100860 Céréales; triticale
+100890 Céréales; n.c.a. au chapitre 10
+11 PRODUITS DE L'INDUSTRIE DU FRAISAGE; MALT, AMIDONS, INULINE, GLUTEN DE BLÉ
+1101 Farine de blé ou de méteil
+110100 Farine de blé ou de méteil
+1102 Farines de céréales; autre que du blé ou du méteil
+110220 Farine de céréales; de maïs
+110290 Farines de céréales; autres que le blé, le méteil et le maïs
+1103 Gruaux de céréales; farine et pellets
+110311 Gruaux et semoules de céréales; de blé
+110313 Gruaux et semoules de céréales; de maïs
+110319 Gruaux et semoules de céréales; n.c.a. dans le n ° 1103
+110320 Granulés de céréales
+1104 Grains de céréales autrement travaillés (mondés, roulés, en flocons, perlés, tranchés ou concassés), à l'exception du riz du n °. 1006; germes de céréales entiers, roulés, en flocons ou moulus
+110412 Graines de céréales; roulés ou en flocons d'avoine
+110419 Graines de céréales; roulés ou en flocons, autres que l'avoine
+110422 Graines de céréales; travaillé (par exemple, décortiqué, perlé, tranché ou concassé) d'avoine
+110423 Graines de céréales; travaillé (par exemple décortiqué, perlé, tranché ou concassé) de maïs
+110429 Graines de céréales; des produits travaillés, autres qu'en rouleaux ou en flocons (mondés, perlés, tranchés ou concassés), de céréales, à l'exclusion de l'avoine et du maïs, et du riz du n ° 1006
+110430 Céréale; germes de céréales, entiers, aplatis, en flocons ou moulus
+1105 Farine, semoule, poudre, flocons, granulés et boulettes de pommes de terre
+110510 Farine, farine et poudre; de pommes de terre
+110520 Flocons, granulés et pellets; de pommes de terre
+1106 Farine, farine et poudre; des légumes à cosse secs du n °. 0713, de sagou ou des racines ou tubercules du n °. 0714 ou des produits du chapitre 8
+110610 Farine, farine et poudre; des légumes à cosse secs du n °. 0713
+110620 Farine, farine et poudre; de sagou ou des racines ou tubercules du n °. 0714
+110630 Farine, farine et poudre; des produits du chapitre 8
+1107 Malt; rôti ou non
+110710 Malt; non rôti
+110720 Malt; rôti
+1108 Amidons; inuline
+110811 Amidon; blé
+110812 Amidon; maïs (amidon de maïs)
+110813 Amidon; Patate
+110814 Amidon; manioc (manioc)
+110819 Amidon; n.c.a. dans l'article no. 1108.11 à 1108.14
+110820 Inuline
+1109 Gluten de blé; si ou non séché
+110900 Gluten de blé; si ou non séché
+12 GRAINES OLEAGINEUSES ET FRUITS OLÉAGINEUX; GRAINS DIVERS, GRAINES ET FRUITS, PLANTES INDUSTRIELLES OU MÉDICINALES; PAILLE ET FOURRAGE
+1201 Graines de soja, même concassées
+120110 Les graines de soja; graines, même brisées
+120190 Les graines de soja; autres que les graines, même cassées
+1202 Arachides; non rôti ni autrement cuit, même décortiqué ou cassé
+120230 Arachides; graines, non grillées ni autrement cuites, même décortiquées ou cassées
+120241 Arachides; autres que les graines, non grillées ni autrement cuites, en coques
+120242 Arachides; autres que les graines, non grillées ni autrement cuites, décortiquées, même concassées,
+1203 copra
+120300 copra
+1204 Graines oléagineuses graines de lin, même concassées
+120400 Graines oléagineuses graines de lin, même concassées
+1205 Graines de colza ou de colza; si cassé ou non
+120510 Graines oléagineuses graines de navette ou de colza à faible teneur en acide érucique, même concassées
+120590 Graines oléagineuses graines de colza ou de navette, autres que faiblement éruciques, même concassées
+1206 Graines de tournesol; si cassé ou non
+120600 Graines oléagineuses graines de tournesol, même concassées
+1207 Graines oléagineuses et fruits oléagineux, n.c.a. au chapitre 12; si cassé ou non
+120710 Graines oléagineuses noix et amandes de palmiers, même concassées
+120721 Graines oléagineuses graines de coton, graines, même concassées
+120729 Graines oléagineuses graines de coton, autres que les graines, même concassées
+120730 Graines oléagineuses graines d'huile de ricin, même concassées
+120740 Graines oléagineuses graines de sésame, même concassées
+120750 Graines oléagineuses graines de moutarde, même concassées
+120760 Graines oléagineuses graines de carthame (Carthamus tinctorius), même concassées
+120770 Graines oléagineuses graines de melons, même concassées
+120791 Graines oléagineuses graines de pavot, même concassées
+120799 Graines oléagineuses et fruits oléagineux; n.c.a. dans le n ° 1207, cassé ou non
+1208 Farines et farines de graines oléagineuses ou de fruits oléagineux; autres que ceux de la moutarde
+120810 Farines et repas; de graines de soja
+120890 Farines et farines de graines oléagineuses ou de fruits oléagineux; à l'exclusion des graines de soja et des graines de moutarde
+1209 Graines, fruits et spores; des types utilisés pour l'ensemencement
+120910 La graine; graines de betteraves à sucre, des types utilisés pour l'ensemencement
+120921 Graines de plantes fourragères; graines de luzerne (luzerne) des types utilisés pour l'ensemencement
+120922 Graines de plantes fourragères; graines de trèfle (Trifolium spp.) des types utilisés pour l'ensemencement
+120923 Graines de plantes fourragères; graines de fétuque, des types utilisés pour l'ensemencement
+120924 Graines de plantes fourragères; Graines de l'herbe bleue du Kentucky (Poa pratensis L.), des types utilisés pour l'ensemencement
+120925 Graines de plantes fourragères; graines de ray-grass (Lolium multiflorum Lam., Lolium perenne L.), des types utilisés pour l'ensemencement
+120929 Graines de plantes fourragères; autres que les graines de luzerne, de trèfle, de fétuque, d'herbe bleue du Kentucky et de ray-grass, des types utilisés pour l'ensemencement
+120930 Graines de plantes herbacées; cultivés principalement pour leurs fleurs, des types utilisés pour l'ensemencement
+120991 Des graines; graines de légumes, des types utilisés pour l'ensemencement
+120999 Des graines; n.c.a. au no 1209, des types utilisés pour l'ensemencement
+1210 Cônes de houblon, frais ou secs, même broyés, moulus ou sous forme de pellets; lupuline
+121010 Cônes de houblon; Ni broyé ni pulvérisé ni sous forme de pellets
+121020 Cônes de houblon; broyés, en poudre ou sous forme de pellets; lupuline
+1211 Plantes et parties de plantes (y compris les graines et fruits) des espèces utilisées principalement en parfumerie, en pharmacie ou à usage insecticide, fongicide ou similaire, fraîches, réfrigérées, congelées ou séchées, même coupées, concassées ou pulvérisées
+121120 Racines de ginseng, des espèces utilisées principalement en parfumerie, en pharmacie ou à usage insecticide, fongicide ou similaire, fraîches, réfrigérées, congelées ou séchées, même coupées, concassées ou pulvérisées
+121130 Feuille de coca; des types utilisés principalement en parfumerie, en pharmacie ou à usage insecticide, fongicide ou similaire, frais, réfrigérés, congelés ou séchés, même coupés, concassés ou pulvérisés
+121140 Paille de pavot; des types utilisés principalement en parfumerie, en pharmacie ou à usage insecticide, fongicide ou similaire, frais, réfrigérés, congelés ou séchés, même coupés, concassés ou pulvérisés
+121150 Ephédra, des espèces utilisées principalement en parfumerie, en pharmacie ou à des fins insecticides, fongicides ou similaires, fraîches, réfrigérées, congelées ou séchées, même coupées, concassées ou pulvérisées
+121190 Plantes et parties (y compris les graines et les fruits) n.c.a. dans le n ° 1211, des types utilisés principalement en parfumerie, en pharmacie ou à usage insecticide, fongicide ou similaire, frais, réfrigérés, congelés ou séchés, même coupés, concassés ou pulvérisés
+12119099 Moringa powder poudre, Drumstick tree, oleifera
+1212 Caroubes, algues et autres algues, betteraves sucrières, cannes à sucre, fraîches, réfrigérées, congelées ou séchées, même pulvérisées; les noyaux de fruits, les amandes et autres produits végétaux (y compris les racines de chicorée non torréfiées) utilisés principalement pour la consommation humaine, n.c.a.
+121221 Algues et autres algues; propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121229 Algues et autres algues; impropres à l'alimentation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121291 Betterave à sucre; propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121292 Caroubes (caroube); propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121293 Canne à sucre; propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121294 Racines de chicorée (Chicorium intybus sativum); propres à la consommation humaine, frais, réfrigérés, congelés ou séchés, même moulus
+121299 Produits de légumes; propre à la consommation humaine, n.c.a. dans le n ° 1212, frais, réfrigérés, congelés ou séchés, même moulus
+1213 Pailles et enveloppes de céréales, non préparées; même haché, moulu, pressé ou sous forme de pellets
+121300 Paille et cosses de céréales; non préparés, même hachés, moulus, pressés ou sous forme de pellets
+1214 Rutabagas, betteraves fourragères, racines fourragères, foin, luzerne, trèfle, sainfoin, choux fourragers, lupin, vesces et produits fourragers similaires, même agglomérés sous forme de pellets
+121410 Luzerne (luzerne) farine et granulés
+121490 Les produits fourragers, y compris les rutabagas, les betteraves fourragères, les racines fourragères, le foin, le sainfoin, le trèfle, le chou fourrager, les lupins, les vesces, etc., granulés ou autrement
+13 LAC; GOMMES, RÉSINES ET AUTRES SUCS ET EXTRAITS VÉGÉTAUX
+1301 Lac; gommes naturelles, résines, gommes-résines et oléorésines (par exemple, baumes)
+130120 La gomme arabique
+130190 Gommes, résines, gommes-résines et oléorésines naturelles, n.c.a. dans le n ° 1301
+1302 Sucs et extraits de légumes; substances pectiques, pectinates et pectates; agar-agar et autres mucilages et épaississants dérivés des végétaux, même modifiés
+130211 Sucs et extraits de légumes; opium
+130212 Sucs et extraits de légumes; de réglisse
+130213 Sucs et extraits de légumes; de houblon
+130214 Sucs et extraits de légumes; d'éphédra
+130219 Sucs et extraits de légumes; n.c.a. dans l'article no. 1302.1
+130220 Substances pectiques; pectinates et pectates
+130231 Mucilages et épaississants; agar-agar, modifié ou non, dérivé de végétaux
+130232 Mucilages et épaississants; modifiés ou non, dérivés de caroubes, de graines de caroubes ou de graines de guarée
+130239 Mucilages et épaississants; modifié ou non, dérivé de produits végétaux, n.c.a. dans l'article no. 1302.3
+14 MATÉRIAUX DE PLANTATION DE LÉGUMES; PRODUITS VÉGÉTAUX NON DÉNOMMÉS NI COMPRIS AILLEURS
+1401 Matières végétales des espèces utilisées principalement pour le tressage; (par exemple bambous, rotins, roseaux, joncs, osiers, raphia, pailles de céréales nettoyées, blanchies ou teintes et écorces de tilleul)
+140110 Bambou utilisé principalement pour le tressage
+140120 Rattans utilisés principalement pour le tressage
+140190 Matières végétales des espèces utilisées principalement pour le tressage; n.c.a. dans le n ° 1401
+1404 Produits végétaux non dénommés ni compris ailleurs
+140420 Produits de légumes; linters de coton
+140490 Produits de légumes; n.c.a. au chapitre 14
+15 GRAISSES ET HUILES ANIMALES OU VÉGÉTALES ET LEURS PRODUITS DE CLIVAGE; GRAISSES ANIMALES PRÉPARÉES; CIRES ANIMALES OU VÉGÉTALES
+1501 Graisse de porc (y compris le saindoux) et graisse de volaille, autres que ceux des nos 0209 ou 1503
+150110 Graisse de porc; saindoux, autres que ceux des nos 0209 et 1503
+150120 Graisse de porc; non saindoux, autres que ceux des nos 0209 ou 1503
+150190 Graisse de volaille; autres que celles des nos 0209 ou 1503
+1502 Graisses des animaux des espèces bovine, ovine ou caprine, autres que celles du no 1503
+150210 Suif; autres que ceux du no 1503
+150290 Graisses de bovins, de moutons ou de chèvres; à l'exclusion du suif, et autres que ceux du no 1503
+1503 La stéarine de lard, l'huile de lard, l'oléostéarine, l'oléo-huile et l'huile de suif; non émulsifié ou mélangé ou autrement préparé
+150300 La stéarine de lard, l'huile de lard, l'oléostéarine, l'oléo-huile et l'huile de suif; non émulsifié ou mélangé ou autrement préparé
+1504 Graisses et huiles et leurs fractions de poissons ou de mammifères marins; même raffiné, mais non chimiquement modifié
+150410 Huiles de poisson; huiles de foie de poisson et leurs fractions, même raffinées, mais non chimiquement modifiées
+150420 Graisses et huiles et leurs fractions; de poisson (à l'exclusion des huiles de foie)
+150430 Graisses et huiles et leurs fractions; des mammifères marins
+1505 Graisse de laine et substances grasses dérivées de celle-ci (y compris la lanoline)
+150500 Graisse de laine et substances grasses dérivées de celle-ci (y compris la lanoline)
+1506 Graisses et huiles animales et leurs fractions; même raffiné, mais non chimiquement modifié, n.c.a. au chapitre 15
+150600 Graisses et huiles animales et leurs fractions; même raffiné, mais non chimiquement modifié, n.c.a. au chapitre 15
+1507 Huile de soja et ses fractions; même raffiné, mais non chimiquement modifié
+150710 Les huiles végétales; huile de soja et ses fractions, brutes, même dégommées, non chimiquement modifiées
+150790 Les huiles végétales; Huile de soja et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+1508 Huile de noix moulue et ses fractions; même raffiné, mais non chimiquement modifié
+150810 Les huiles végétales; huile d'arachide et ses fractions, brutes, non chimiquement modifiées
+150890 Les huiles végétales; huile d'arachide et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+1509 L'huile d'olive et ses fractions; même raffiné, mais non chimiquement modifié
+150910 Les huiles végétales; huile d'olive et ses fractions, vierges, même raffinées, mais non chimiquement modifiées
+150990 Les huiles végétales; huile d'olive et ses fractions, autres que vierges, même raffinées, mais non chimiquement modifiées
+1510 Huiles et leurs fractions n.c.a. au chapitre 15, obtenus exclusivement à partir d'olives, même raffinées, mais non chimiquement modifiées, et mélanges de ces huiles ou fractions avec des huiles ou fractions du no. 1509
+151000 Les huiles végétales; huiles et leurs fractions n.c.a. au chapitre 15, obtenus exclusivement à partir d'olives, même raffinées, mais non chimiquement modifiées, et mélanges de ces huiles ou fractions avec des huiles ou fractions du no. 1509
+1511 Huile de palme et ses fractions; même raffiné, mais non chimiquement modifié
+151110 Les huiles végétales; huile de palme et ses fractions, brutes, non chimiquement modifiées
+151190 Les huiles végétales; Huile de palme et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+1512 Graines de tournesol, de carthame ou de coton et leurs fractions; même raffiné, mais non chimiquement modifié
+151211 Les huiles végétales; huile de graine de tournesol ou de carthame et leurs fractions, brutes, non chimiquement modifiées
+151219 Les huiles végétales; huile de graine de tournesol ou de carthame et leurs fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+151221 Les huiles végétales; l'huile de coton et ses fractions; brut, même dépourvu de gossypol, non chimiquement modifié
+151229 Les huiles végétales; huile de coton et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+1513 Noix de coco (coprah), huile de palmiste ou de babassu et leurs fractions; même raffiné, mais non chimiquement modifié
+151311 Les huiles végétales; huile de coco (coprah) et ses fractions, brutes, non chimiquement modifiées
+151319 Les huiles végétales; huile de coco (coprah) et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+151321 Les huiles végétales; huile de palmiste ou de babassu et leurs fractions, brutes, non chimiquement modifiées
+151329 Les huiles végétales; huile de palmiste ou de babassu et leurs fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+1514 Huile de colza, de colza ou de moutarde et leurs fractions; même raffiné, mais non chimiquement modifié
+151411 Les huiles végétales; huile de colza ou de colza à faible teneur en acide érucique et ses fractions, brutes
+151419 Les huiles végétales; huile de colza ou de colza à faible teneur en acide érucique et ses fractions, autres que les huiles brutes, mais non chimiquement modifiées
+151491 Les huiles végétales; à l'exclusion des huiles de colza ou de colza à faible teneur en acide érucique et leurs fractions, brutes
+151499 Les huiles végétales; à l'exclusion des huiles de colza ou de colza à faible teneur en acide érucique et leurs fractions, autres que les huiles brutes, mais non chimiquement modifiées
+1515 Graisses et huiles végétales fixes (y compris l'huile de jojoba) et leurs fractions, même raffinées; mais pas chimiquement modifié
+151511 Les huiles végétales; huile de lin et ses fractions, brutes, non chimiquement modifiées
+151519 Les huiles végétales; huile de lin et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+151521 Les huiles végétales; huile de maïs et ses fractions, brutes, non chimiquement modifiées
+151529 Les huiles végétales; huile de maïs et ses fractions, autres que brutes, même raffinées, mais non chimiquement modifiées
+151530 Les huiles végétales; huile de ricin et ses fractions, même raffinées, mais non chimiquement modifiées
+151550 Les huiles végétales; huile de sésame et ses fractions, même raffinées, mais non chimiquement modifiées
+151590 Graisses et huiles végétales et leurs fractions; fixe, n.c.a. dans le n ° 1515, même raffiné, mais non chimiquement modifié
+1516 Graisses et huiles animales ou végétales et leurs fractions; partiellement ou totalement hydrogénés, interestérifiés, réestérifiés ou élaïdinisés, même raffinés, mais non autrement préparés
+151610 Graisses et huiles animales et leurs fractions; partiellement ou totalement hydrogénés, interestérifiés, réestérifiés ou élaïdinisés, même raffinés, mais non autrement préparés
+151620 Graisses et huiles végétales et leurs fractions; partiellement ou totalement hydrogénés, interestérifiés, réestérifiés ou élaïdinisés, même raffinés, mais non autrement préparés
+1517 Margarine; mélanges ou préparations alimentaires de graisses ou d'huiles animales ou végétales ou de fractions de différentes graisses ou huiles du présent chapitre, autres que les graisses et huiles alimentaires du no. 1516
+151710 Margarine; à l'exclusion de la margarine liquide
+151790 Mélanges ou préparations alimentaires de graisses ou d'huiles animales ou végétales ou de fractions de différentes graisses ou huiles du présent chapitre, autres que les graisses et huiles comestibles du no. 1516
+1518 Graisses, huiles, fractions, animales ou végétales, modifiées de quelque manière que ce soit, à l'exclusion des nos. 1516; versions non comestibles de graisses animales ou végétales, d'huiles ou de fractions de ce chapitre, n.c.a. ou inclus
+151800 Graisses et huiles animales ou végétales et leurs fractions; oxydés, bouillis ou autrement modifiés chimiquement (à l'exclusion de ceux du n ° 1516), mélanges ou préparations non alimentaires de graisses ou d'huiles
+1520 Glycérol brut; les eaux de glycérol et les lessives de glycérol
+152000 Glycérol brut; les eaux de glycérol et les lessives de glycérol
+1521 Cires végétales (autres que les triglycérides), cires d'abeilles, autres cires d'insectes et spermaceti; si raffiné ou coloré
+152110 Cires végétales (autres que les triglycérides); si raffiné ou coloré
+152190 Cires, autres que végétales, n.c.a. dans le n ° 1521; si raffiné ou coloré
+1522 Degras; résidus provenant du traitement des corps gras ou des cires animales ou végétales
+152200 Degras; résidus provenant du traitement des corps gras ou des cires animales ou végétales
+16 VIANDES, POISSONS OU CRUSTACÉS, MOLLUSQUES OU AUTRES INVERTÉBRÉS AQUATIQUES; PRÉPARATIONS DE CELLES-CI
+1601 Saucisses et produits similaires de viande, d'abats ou de sang; préparations alimentaires à base de ces produits
+160100 Préparations de viande; saucisses et produits similaires, de viande, d'abats ou de sang et préparations alimentaires à base de ces produits
+1602 Préparations et conserves de viande, d'abats ou de sang
+160210 Préparations de viande; préparations homogénéisées de viande, d'abats ou de sang
+160220 Préparations de viande; du foie préparé ou conservé de tout animal (à l'exclusion des préparations homogénéisées)
+160231 Préparations de viande; de dindons, de viande ou d'abats préparés ou conservés (à l'exclusion des foies et des préparations homogénéisées)
+160232 Préparations de viande; de la volaille du no. 0105, (c'est-à-dire de volailles de l'espèce Gallus domesticus)
+160239 Préparations de viande; de volailles (à l'exclusion des dindes), de viande ou d'abats préparés ou conservés (à l'exclusion des foies et des préparations homogénéisées)
+160241 Préparations de viande; de porcins, jambons et leurs morceaux, préparés ou conservés (à l'exclusion des préparations homogénéisées)
+160242 Préparations de viande; de porcins, d'épaules et de leurs morceaux, préparés ou conservés (à l'exclusion des préparations homogénéisées)
+160249 Préparations de viande; de porcins, de viande ou d'abats (y compris les mélanges), préparés ou conservés, n.c.a. dans le n ° 1602
+160250 Préparations de viande; de bovins, de viande ou d'abats, préparés ou conservés (à l'exclusion des foies et des préparations homogénéisées)
+160290 Préparations de viande; de viande, d'abats ou de sang de tout animal, n.c.a. dans le n ° 1602
+1603 Extraits et jus de viande, de poisson ou de crustacés, de mollusques ou d'autres invertébrés aquatiques
+160300 Extraits et jus de fruits de viande, de poisson ou de crustacés, de mollusques ou d'autres invertébrés aquatiques
+1604 Poisson préparé ou conservé; caviar et substituts de caviar préparés à partir d'œufs de poisson
+160411 Préparations de poisson; saumon, préparé ou conservé, entier ou en morceaux (mais non haché)
+160412 Préparations de poisson; harengs, préparés ou conservés, entiers ou en morceaux (mais non hachés)
+160413 Préparations de poisson; sardines, sardinelles et sprats, préparés ou conservés, entiers ou en morceaux (mais non hachés)
+160414 Préparations de poisson; thons, listaos et bonites de l'Atlantique (sarda spp.), préparés ou conservés, entiers ou en morceaux (à l'exclusion des hachés)
+160415 Préparations de poisson; maquereaux, préparés ou conservés, entiers ou en morceaux (mais non hachés)
+160416 Préparations de poisson; anchois, préparés ou conservés, entiers ou en morceaux (mais non hachés)
+160417 Préparations de poisson; anguilles, préparées ou conservées, entières ou en morceaux (mais non hachées)
+160418 Préparations de poisson; ailerons de requin, préparés ou conservés, entiers ou en morceaux (mais non hachés)
+160419 Préparations de poisson; poisson préparé ou conservé, entier ou en morceaux (mais non haché), n.c.a. dans le n ° 1604
+160420 Préparations de poisson; poisson émincé ou sous forme de n.c.a. dans le n ° 1604, préparé ou conservé
+160431 Préparations de poisson; caviar
+160432 Préparations de poisson; substituts de caviar, préparés à partir d'œufs de poisson
+1605 Crustacés, mollusques et autres invertébrés aquatiques, préparés ou conservés
+160510 Préparations de crustacés; crabe, préparé ou conservé
+160521 Préparations de crustacés; crevettes, préparées ou conservées, non emballées dans des récipients hermétiques
+160529 Préparations de crustacés; crevettes, préparées ou conservées, dans des récipients hermétiques
+160530 Préparations de crustacés; homard, préparé ou conservé
+160540 Préparations de crustacés; autres que le crabe, les crevettes, les crevettes et les homards, préparés ou conservés
+160551 Préparations de mollusques; huîtres, préparées ou conservées
+160552 Préparations de mollusques; pétoncles, y compris les pétoncles royaux, préparés ou conservés
+160553 Préparations de mollusques; moules, préparées ou conservées
+160554 Préparations de mollusques; seiche et calmars, préparés ou conservés
+160555 Préparations de mollusques; poulpe, préparé ou conservé
+160556 Préparations de mollusques; palourdes, coques et arkshells, préparés ou conservés
+160557 Préparations de mollusques; ormeau, préparé ou conservé
+160558 Préparations de mollusques; escargots, autres que les escargots de mer, préparés ou conservés
+160559 Préparations de mollusques; n.c.a. dans l'article no. 1605.5, préparations telles que pâtes, saucisses, plats préparés et similaires
+160561 Invertébrés aquatiques; concombres de mer, préparés ou conservés
+160562 Invertébrés aquatiques; oursins de mer, préparés ou conservés
+160563 Invertébrés aquatiques; méduses, préparées ou conservées
+160569 Invertébrés aquatiques; autres que les crustacés, les mollusques, les concombres de mer, les oursins et les méduses, préparés ou conservés
+17 SUCRES ET SUCRE CONFISERIE
+1701 Sucre de canne ou de betterave et saccharose chimiquement pur, sous forme solide
+170112 Sucres; sucre de betterave, cru, à l'état solide, sans addition d'aromatisants ou de colorants
+170113 Sucres; sucre de canne, cru, à l'état solide, tel que spécifié à la note de sous-positions 2 du présent chapitre, ne contenant pas d'arômes ou de colorants ajoutés
+170114 Sucres; sucre de canne, cru, à l'état solide, autre que ceux visés à la note de sous-position 2 du présent chapitre, ne contenant pas d'arômes ou de colorants ajoutés
+170191 Sucres; saccharose, chimiquement pur, à l'état solide, additionné d'arômes ou de colorants
+170199 Sucres; saccharose, chimiquement pur, à l'état solide, sans addition d'aromatisants ou de colorants
+1702 Les sucres, y compris le lactose, le maltose, le glucose ou le fructose sous forme solide; sirops de sucre sans arômes ou colorants ajoutés; miel artificiel, même mélangé avec du miel naturel; caramel
+170211 Sucres; lactose et sirop de lactose, contenant en poids 99% ou plus de lactose, exprimé en lactose anhydre, calculé sur matière sèche
+170219 Sucres; lactose et sirop de lactose, contenant en poids moins de 99% de lactose, exprimé en lactose anhydre, calculé sur matière sèche
+170220 Sucres; sucre d'érable, chimiquement pur, à l'état solide; sirop d'érable, sans addition d'aromatisants ou de colorants
+170230 Sucres; glucose et sirop de glucose, ne contenant pas de fructose ou contenant à l'état sec moins de 20% en poids de fructose, le sirop ne contenant pas d'arôme ou de colorant ajouté
+170240 Sucres; glucose et sirop de glucose, contenant à l'état sec au moins 20% mais moins de 50% en poids de fructose, à l'exclusion du sucre inverti, le sirop ne contenant pas d'arômes ou de colorants ajoutés
+170250 Sucres; fructose, chimiquement pur, sous forme solide
+170260 Sucres; du fructose, à l'exclusion du fructose chimiquement pur, et du sirop de fructose (contenant à l'état sec plus de 50% en poids de fructose), à ​​l'exclusion du sucre inverti
+170290 Sucres; n.c.a. dans le n ° 1702, y compris le sucre inverti et d'autres mélanges de sucre et de sirop de sucre contenant, à l'état sec, 50% en poids de fructose
+1703 Mélasse; résultant de l'extraction ou du raffinage du sucre
+170310 Sucres; mélasse provenant de la canne à sucre, résultant de l'extraction ou du raffinage du sucre
+170390 Sucres; mélasse issue de la betterave à sucre résultant de l'extraction ou du raffinage du sucre
+1704 Sucreries (y compris le chocolat blanc), ne contenant pas de cacao
+170410 Sucreries; chewing-gum, même enrobé de sucre, ne contenant pas de cacao
+170490 Sucreries; (à l'exclusion des chewing-gums, y compris du chocolat blanc), ne contenant pas de cacao
+18 PRÉPARATIONS DE CACAO ET DE CACAO
+1801 Les fèves de cacao; entier ou cassé, cru ou rôti
+180100 Les fèves de cacao; entier ou cassé, cru ou rôti
+1802 Cacao; coquillages, enveloppes, peaux et autres déchets de cacao
+180200 Cacao; coquillages, enveloppes, peaux et autres déchets de cacao
+1803 Cacao; coller; si dégraissé
+180310 Cacao; pâte, non dégraissée
+180320 Cacao; pâte, entièrement ou partiellement dégraissée
+1804 Cacao; beurre, graisse et huile
+180400 Cacao; beurre, graisse et huile
+1805 Cacao; poudre, sans addition de sucre ou d'autres édulcorants
+180500 Cacao; poudre, sans addition de sucre ou d'autres édulcorants
+1806 Chocolat et autres préparations alimentaires contenant du cacao
+180610 Cacao; poudre, additionnée de sucre ou d'autres édulcorants
+180620 Chocolat et autres préparations alimentaires contenant du cacao; en blocs, en plaques ou en barres d'un poids de plus de 2 kg ou en liquide, en pâte, en poudre, en granulés ou en autres formes en vrac dans des emballages ou des emballages immédiats d'un contenu supérieur à 2 kg
+180631 Chocolat et autres préparations alimentaires contenant du cacao; en blocs, en tranches ou en barres, remplis, pesant 2 kg ou moins
+180632 Chocolat et autres préparations alimentaires contenant du cacao; en blocs, dalles ou barres (non remplis), pesant 2 kg ou moins
+180690 Chocolat et autres préparations alimentaires contenant du cacao; n.c.a. au chapitre 18
+19 PRÉPARATIONS DE CÉRÉALES, DE FARINES, D'AMIDONS OU DE LAIT; PRODUITS DE PATISSERIE
+1901 Extrait de malt; farines / gruaux / semoules / amidons / extraits de malt, sans cacao (ou moins de 40% en poids) et préparations alimentaires de produits des positions 04.01 à 04.04, sans cacao (ou moins de 5% en poids), poids calculés sur base totalement dégraissée, nca
+190110 Préparations alimentaires; de farine, de semoule, d'amidon, d'extrait de malt ou de produits laitiers, adaptés aux nourrissons ou enfants en bas âge, conditionnés pour la vente au détail
+190120 Préparations alimentaires; mélanges et pâtes pour la préparation de pain, pâtisserie, gâteaux, biscuits et autres produits de boulangerie
+190190 Préparations alimentaires; de farine, de semoule, d'amidon, d'extrait de malt ou de produits laitiers, à des fins d'utilisation n.c.a. dans le n ° 1901
+1902 Pâtes; cuits ou farcis avec de la viande ou une autre substance ou autrement préparés, spaghettis aux oeufs, macaroni, nouilles, lasagnes, gnocchi, ravioli, cannelloni; couscous, même préparé
+190211 Préparations alimentaires; pâtes, contenant des oeufs, non cuites, non farcies ou autrement préparées
+190219 Préparations alimentaires; pâtes, non cuites (à l'exclusion de celles contenant des oeufs), non farcies ou autrement préparées
+190220 Préparations alimentaires; pâtes farcies (de viande ou d'autres substances), même cuites ou autrement préparées
+190230 Préparations alimentaires; pâtes (à l'exclusion des farces), cuites ou autrement préparées
+190240 Préparations alimentaires; couscous
+1903 Tapioca et ses succédanés préparés à partir d'amidon; sous forme de flocons, grains, perles, criblures ou formes similaires
+190300 Préparations alimentaires; tapioca et ses succédanés, préparés à partir d'amidon sous forme de flocons, grains, perles, tamis ou similaires
+1904 Aliments préparés obtenus en faisant gonfler ou griller des céréales ou des produits céréaliers (par exemple des flocons de maïs); céréales (autres que le maïs) en grains ou sous forme de flocons ou d'autres grains travaillés (à l'exception de la farine et de la semoule), précuites ou autrement préparées, n.c.a.
+190410 Préparations alimentaires; obtenu par gonflement ou grillage de céréales ou de produits céréaliers
+190420 Préparations alimentaires; obtenu à partir de flocons de céréales non grillés ou de mélanges de flocons de céréales non grillés et de flocons de céréales torréfiés ou de céréales gonflées
+190430 Les aliments préparés obtenus par gonflement ou grillage de céréales ou de produits céréaliers (par exemple des flocons de maïs); céréales, non le maïs, en grains ou sous forme de flocons ou d'autres grains travaillés, à base de boulgour
+190490 Préparations alimentaires; produits à base de céréales ou de céréales (à l'exclusion du maïs), en grains, précuits ou autrement préparés
+1905 Pain, pâtisserie, gâteaux, biscuits, autres produits de la boulangerie, contenant ou non du cacao; Gaufrettes de communion, cachets vides pour usage pharmaceutique, cachets de cachetage, papier de riz et produits similaires
+190510 Préparations alimentaires; pain croustillant, même contenant du cacao
+190520 Préparations alimentaires; pain d'épices et similaires, même contenant du cacao
+190531 Préparations alimentaires; biscuits sucrés, même contenant du cacao
+190532 Préparations alimentaires; gaufres et gaufrettes, même contenant du cacao
+190540 Préparations alimentaires; biscottes, pains grillés et produits similaires grillés, même contenant du cacao
+190590 Préparations alimentaires; produits de boulangerie n.c.a. dans le n ° 1605, contenant ou non du cacao; Gaufrettes de communion, cachets vides pour usage pharmaceutique, cachets de cachetage, papiers de riz et produits similaires
+20 PRÉPARATIONS DE LÉGUMES, FRUITS, NOIX OU AUTRES PARTIES DE PLANTES
+2001 Légumes, fruits, noix et autres parties comestibles de plantes; préparé ou conservé au vinaigre ou à l'acide acétique
+200110 Préparations de légumes; concombres et cornichons, préparés ou conservés au vinaigre ou à l'acide acétique
+200190 Préparations de légumes; légumes, fruits et autres parties comestibles de plantes, préparés ou conservés au vinaigre ou à l'acide acétique (à l'exclusion des concombres et des cornichons)
+2002 Tomates; préparé ou conservé autrement qu'au vinaigre ou à l'acide acétique
+200210 Préparations de légumes; tomates entières ou en morceaux, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique
+200290 Préparations de légumes; tomates (autres que entières ou en morceaux), préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique
+2003 Champignons et truffes, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique
+200310 Préparations de légumes; champignons du genre Agaricus, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique
+200390 Préparations de légumes; champignons et truffes, autres que les champignons du genre Agaricus, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique
+2004 Préparations de légumes n.c.a .; préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, congelés, autres que les produits du no. 2006
+200410 Préparations de légumes; pommes de terre, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, congelées
+200490 Préparations de légumes; légumes et mélanges de légumes (à l'exclusion des pommes de terre), préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, congelés
+2005 Préparations de légumes n.c.a .; préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés, autres que les produits du no. 2006
+200510 Préparations de légumes; légumes homogénéisés, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés
+200520 Préparations de légumes; pommes de terre, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, non congelées
+200540 Préparations de légumes; pois (pisum sativum), préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés
+200551 Préparations de légumes; haricots, décortiqués, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés
+200559 Préparations de légumes; haricots (non décortiqués), préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés
+200560 Préparations de légumes; asperges, préparés ou conservés autrement qu'au vinaigre ou à l'acide acétique, non congelés
+200570 Préparations de légumes; olives, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, non congelées
+200580 Préparations de légumes; maïs doux (zea mays var. saccharata), préparé ou conservé autrement qu'au vinaigre ou à l'acide acétique, non congelé
+200591 Préparations de légumes; pousses de bambou, préparées ou conservées autrement qu'au vinaigre ou à l'acide acétique, non congelées
+200599 Préparations de légumes; légumes et mélanges de légumes n.c.a. dans le n ° 2005, préparé ou conservé autrement qu'au vinaigre ou à l'acide acétique, non congelé
+2006 Légumes, fruits, noix, écorces de fruits et autres parties de plantes, confits au sucre (égouttés, glacés ou cristallisés)
+200600 Légumes, fruits, noix, écorces de fruits et autres parties de plantes, confits au sucre (égouttés, glacés ou cristallisés)
+2007 Confitures, gelées de fruits, marmelades, purées de fruits ou de noix et pâtes de fruits ou de noix, en tant que préparations cuites; contenant ou non du sucre ajouté ou d'autres édulcorants
+200710 Confitures, gelées de fruits, marmelades, purées de fruits ou de noix et pâtes de fruits ou de noix; préparations homogénéisées, cuites, même additionnées de sucre ou d'autres édulcorants
+200791 Confitures, gelées, marmelades, purées et pâtes; d'agrumes, préparations cuites (sauf homogénéisées), même additionnées de sucre ou d'autres édulcorants
+200799 Confitures, gelées de fruits, marmelades, purées et pâtes; de fruits ou de noix n.c.a. dans le n ° 2007, préparations cuites (sauf homogénéisées), même additionnées de sucre ou d'autres édulcorants
+2008 Fruits, noix et autres parties comestibles de plantes; préparés ou conservés de façon à servir n.c.a., avec ou sans addition de sucre ou d'autres édulcorants ou d'alcool, non dénommés ni compris ailleurs
+200811 Des noisettes; arachides, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200819 Noix et autres graines; avec ou sans addition de sucre, d'autres édulcorants ou d'alcool (sauf les arachides, sauf en mélanges)
+200820 Fruit; ananas, préparés ou conservés de façon non conforme dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200830 Fruit; agrumes, préparés ou conservés de manière non commerciale. dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200840 Fruit; poires, préparées ou conservées de façon non conforme dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200850 Fruit; abricots, préparés ou conservés de façon à servir n.c.a. dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200860 Fruit; cerises, préparées ou conservées de façon n.c.a. dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200870 Fruit; pêches, y compris les nectarines, préparées ou conservées de façon à obtenir des n.c.a. dans le n ° 2007 et 2008, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200880 Fruit; fraises, préparées ou conservées de façon non certifiée dans le n ° 2007, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200891 Fruits, coeurs de palmier; préparé ou conservé, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200893 Fruit; canneberges (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea), préparé ou conservé, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool
+200897 Fruits, noix et autres parties comestibles de plantes; mélanges (autres que ceux de la sous-position 2008.19); préparé ou conservé de façon à n.c.a. dans les positions 2007 et 2008, avec ou sans addition de sucre ou avec d'autres édulcorants ou spiritueux, n.c.a.
+200899 Fruits, noix et autres parties comestibles de plantes; préparé ou conservé, avec ou sans addition de sucre, d'autres édulcorants ou d'alcool, n.c.a. dans le n ° 2008
+2009 Jus de fruits (y compris les moûts de raisins) et jus de légumes, non fermentés, sans addition d'alcool; contenant ou non du sucre ajouté ou d'autres édulcorants
+200911 Jus; orange, congelée, non fermentée, (sans addition d'alcool), avec ou sans addition de sucre ou d'autres édulcorants
+200912 Jus; orange, non congelé, d'une valeur Brix n'excédant pas 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200919 Jus; orange, non congelé, d'une valeur Brix supérieure à 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200921 Jus; pamplemousses (y compris les pomelo), d'une valeur Brix n'excédant pas 20, non-fermentés (sans addition d'alcool), avec ou sans addition de sucre ou d'autres édulcorants
+200929 Jus; pamplemousses (y compris les pomelo), d'une valeur Brix supérieure à 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200931 Jus; d'agrumes simples (à l'exclusion de l'orange ou du pamplemousse), d'une valeur Brix n'excédant pas 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200939 Jus; d'agrumes simples (à l'exclusion de l'orange ou du pamplemousse), d'une valeur Brix supérieure à 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200941 Jus; ananas, d'une valeur Brix n'excédant pas 20, non-fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200949 Jus; ananas, d'une valeur Brix supérieure à 20, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200950 Jus; Tomates, non fermentées, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200961 Jus; raisins, d'une valeur Brix n'excédant pas 30, non-fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200969 Jus; raisins, d'une valeur Brix supérieure à 30, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200971 Jus; pomme, d'une valeur Brix n'excédant pas 20, non-fermentés, (sans addition d'alcool), avec ou sans addition de sucre ou d'autres édulcorants
+200979 Jus; pommes, d'une valeur Brix supérieure à 20, non-fermentées, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200981 Jus; Jus de cranberry (Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea), non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200989 Jus; d'un seul fruit ou légume n.c.a. dans le n ° 2009, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+200990 Les jus; mélanges de fruits ou de légumes, non fermentés, sans addition d'alcool, avec ou sans addition de sucre ou d'autres édulcorants
+21 PREPARATIONS COMESTIBLES DIVERSES
+2101 Extraits, essences, concentrés de café, de thé ou de maté; préparations à base de ces produits ou à base de café, de thé ou de maté; chicorée torréfiée et autres succédanés torréfiés du café et leurs extraits, essences et concentrés
+210111 Extraits, essences et concentrés; de café, et préparations à base de ces extraits, essences ou concentrés ou à base de café
+210112 Préparations à base d'extraits, d'essences ou de concentrés ou à base de café
+210120 Extraits, essences et concentrés; de thé ou de maté, et préparations à base de ces extraits, essences ou concentrés ou à base de thé ou de maté
+210130 Chicorée, rôti et autres succédanés du café torréfiés; extraits, essences et concentrés de ceux-ci
+2102 Levures (actives ou inactives); autres micro-organismes monocellulaires morts (à l'exclusion des vaccins du n ° 3002); poudres à lever préparées
+210210 Levures; actif
+210220 Levures; inactifs, autres micro-organismes monocellulaires, morts
+210230 Poudres à lever; préparé
+2103 Sauces et préparations pour ces produits; condiments et assaisonnements mélangés, farine et moutarde de moutarde et moutarde préparée
+210310 Sauces; soya
+210320 Sauces ketchup aux tomates et autres sauces tomates
+210330 Farine de moutarde et repas et moutarde préparée
+210390 Sauces et préparations pour ces produits; condiments mélangés et assaisonnements mixtes
+2104 Soupes et bouillons et leurs préparations; préparations alimentaires composites homogénéisées
+210410 Soupes et bouillons et leurs préparations
+210420 Préparations alimentaires composites homogénéisées
+2105 Crème glacée et autres glaces comestibles; contenant ou non du cacao
+210500 Crème glacée et autres glaces comestibles; contenant ou non du cacao
+2106 Préparations alimentaires non dénommées ni comprises ailleurs
+210610 Protéine; concentrés et substances protéiques texturées
+210690 Préparations alimentaires; n.c.a. dans l'article no. 2106.10
+22 BOISSONS, SPIRITUEUX ET VINAIGRE
+2201 Eaux, y compris les eaux minérales naturelles ou artificielles et les eaux gazéifiées, non additionnées de sucre ou d'autres édulcorants ni aromatisées; glace et neige
+220110 Des eaux; minérales et gazeuses, y compris les huiles naturelles ou artificielles (sans addition de sucre ou d'autres édulcorants ni aromatisées)
+220190 Des eaux; autres que minérales et gazeuses, (sans addition de sucre ou d'autres édulcorants ni aromatisés), de glace et de neige
+2202 Eaux, y compris les eaux minérales et gazeuses, additionnées de sucre ou d'édulcorants, aromatisées; autres boissons non alcooliques, à l'exclusion des jus de fruits ou de légumes du no. 2009
+220210 Des eaux; y compris les huiles minérales et gazeuses, additionnées de sucre ou d'autres édulcorants ou aromatisées
+220291 Boissons non alcoolisées; bière sans alcool
+220299 Boissons non alcoolisées; autre que de la bière sans alcool, n.c.a. dans l'article no. 2202.10, à l'exclusion des jus de fruits ou de légumes du no. 2009
+2203 Bière faite de malt
+220300 Bière; fabriqué à partir de malt
+2204 Vin de raisins frais, y compris les vins fortifiés; moûts de raisin autres que ceux du no. 2009
+220410 Du vin; pétillant
+220421 Du vin; toujours dans des contenants de 2 litres ou moins
+220422 Du vin; toujours dans des récipients contenant plus de 2 litres mais pas plus de 10 litres
+220429 Du vin; encore, dans des contenants contenant plus de 10 litres
+220430 Moût de raisin; n.c.a. dans le n ° 2009, n.c.a. dans l'article no. 2204.2
+2205 Vermouth et autres vins de raisins frais, aromatisés avec des plantes ou des substances aromatiques
+220510 Vermouth et autres vins de raisins frais, aromatisés à l'aide de plantes ou de substances aromatiques, en récipients d'une contenance n'excédant pas 2 litres
+220590 Vermouths et autres vins de raisins frais, aromatisés à l'aide de plantes ou de substances aromatiques, en récipients d'une contenance supérieure à 2 litres
+2206 Boissons fermentées, n.c.a. au chapitre 22; (par exemple, le cidre, le poiré, l'hydromel, le saké)
+220600 Boissons fermentées (par exemple, le cidre, le poiré, l'hydromel, le saké)
+2207 Alcool éthylique non dénaturé; d'un titre alcoométrique volumique de 80% vol. ou plus; alcool éthylique et autres eaux-de-vie, dénaturés, de toute concentration
+220710 Alcool éthylique non dénaturé; d'un titre alcoométrique volumique de 80% vol. ou plus
+220720 Alcool éthylique et autres alcools; dénaturé, de toute force
+2208 Alcool éthylique non dénaturé; d'un titre alcoométrique volumique inférieur à 80% volume; spiritueux, liqueurs et autres boissons spiritueuses
+220820 Spiritueux obtenus par distillation de vin de raisin ou de marc de raisin
+220830 Whiskies
+220840 Rhum et autres alcools obtenus par distillation de produits de canne à sucre fermentés
+220850 Gin et Genève
+220860 Vodka
+220870 Liqueurs and cordials
+220890 Spiritueux, liqueurs et autres boissons spiritueuses; n.c.a. dans le n ° 2208
+2209 Vinaigre et succédanés de vinaigre obtenus à partir d'acide acétique
+220900 Vinaigre et succédanés de vinaigre; obtenu à partir d'acide acétique
+23 INDUSTRIES ALIMENTAIRES, RÉSIDUS ET DÉCHETS DE CELLES-CI; FOURRAGE ANIMAL PRÉPARÉ
+2301 Farines, poudres et agglomérés sous forme de pellets, de viande ou d'abats, de poissons ou de crustacés, de mollusques ou d'autres invertébrés aquatiques, impropres à l'alimentation humaine; jambières
+230110 Farines, farines et pellets; de viande ou d'abats, cretons
+230120 Farines, farines et pellets; de poissons ou de crustacés, de mollusques ou d'autres invertébrés aquatiques
+2302 Son, diètes et autres résidus; même sous forme de pellets obtenus par tamisage, mouture ou autre travail des céréales ou des légumineuses
+230210 Son, diètes et autres résidus; de maïs, même aggloméré sous forme de pellets, obtenu par tamisage, broyage ou autre opération
+230230 Son, diètes et autres résidus; de froment, même aggloméré sous forme de pellets, obtenu par tamisage, broyage ou autre opération
+230240 Son, diètes et autres résidus; d'autres céréales, même agglomérées sous forme de pellets, obtenues par tamisage, mouture ou autres opérations
+230250 Son, diètes et autres résidus; de légumineuses, même agglomérées sous forme de pellets, obtenues par tamisage, broyage ou autre opération
+2303 Résidus de fabrication d'amidon, résidus similaires; pulpe de betterave, bagasse et autres déchets de la fabrication du sucre, drêches et déchets de brasserie ou de distillerie, même agglomérés sous forme de pellets
+230310 Résidus d'amidonnerie et résidus similaires que ce soit sous forme de pellets
+230320 Pulpe de betterave, bagasse et autres déchets de fabrication de sucre; que ce soit sous forme de pellets
+230330 Brassage ou distillation des déchets et des déchets; que ce soit sous forme de pellets
+2304 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction de l'huile de soja
+230400 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction de l'huile de soja
+2305 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, de l'extraction de l'huile d'arachide
+230500 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, de l'extraction de l'huile d'arachide
+2306 Tourteaux et autres résidus solides; même broyé ou aggloméré sous forme de pellets, de l'extraction de graisses ou d'huiles végétales autres que celles du no. 2304 ou 2305
+230610 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction d'huiles de graines de coton
+230620 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction des huiles de lin
+230630 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction d'huiles de graines de tournesol
+230641 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction d'huiles de graines de colza ou de colza à faible teneur en acide érucique
+230649 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, de l'extraction des huiles de graines de colza (autres que les colza et les colza à faible teneur en acide érucique)
+230650 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction d'huiles de coprah ou de graines de coprah
+230660 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, de l'extraction des huiles de palme ou des amandes
+230690 Tourteaux et autres résidus solides; même broyés ou agglomérés sous forme de pellets, résultant de l'extraction d'huiles, n.c.a. dans le n ° 2306
+2307 Lecture de vin; Argol
+230700 Lecture de vin; Argol
+2308 Matières végétales et déchets végétaux, résidus végétaux et bioproduits; même aggloméré sous forme de pellets, des types utilisés pour l'alimentation des animaux, non dénommés ni compris ailleurs
+230800 Matières végétales et déchets végétaux, résidus végétaux et sous-produits; même aggloméré sous forme de pellets, des types utilisés pour l'alimentation des animaux, non dénommés ni compris ailleurs
+2309 Préparations des types utilisés pour l'alimentation des animaux
+230910 Nourriture pour chiens ou chats; conditionné pour la vente au détail, utilisé pour l'alimentation des animaux
+230990 Nourriture pour chiens ou chats; (non conditionnée pour la vente au détail), utilisée pour l'alimentation des animaux
+24 TABAC ET SUCCÉDANÉS DE TABAC FABRIQUÉS
+2401 Tabac, non manufacturé; déchets de tabac
+240110 Tabac (non tiges ou dépouillées)
+240120 Le tabac; partiellement ou entièrement tiges ou dépouillées
+240130 Déchets de tabac
+2402 Cigares, cigares, cigarillos et cigarettes; de tabac ou de succédanés de tabac
+240210 Cigares, cigares et cigarillos; contenant du tabac, y compris le poids de chaque bande, enveloppe ou pièce jointe
+240220 Cigarettes; contenant du tabac
+240290 Cigares, cigarillos et cigares; contenant des succédanés du tabac, y compris le poids de chaque bande, enveloppe ou pièce jointe
+2403 Tabac manufacturé et succédanés de tabac fabriqués n.c.a .; tabac homogénéisé ou reconstitué; extraits de tabac et essences
+240311 Le tabac; fumage, pipe à eau, tel que spécifié à la note de sous-position 1 du présent chapitre, contenant ou non des succédanés du tabac en toute proportion
+240319 Le tabac; fumage, à l'exclusion du tabac à pipe, même contenant des succédanés de tabac en toute proportion
+240391 Le tabac; homogénéisé ou reconstitué
+240399 Le tabac; autre qu'homogénéisé ou reconstitué ou fumant
+25 SEL; SOUFRE; TERRES, PIERRE; PLÂTRES, CHAUX ET CIMENT
+2501 Sel (y compris le sel de table et le sel dénaturé); chlorure de sodium pur, même en solution aqueuse; eau de mer
+250100 Sel (y compris le sel de table et le sel dénaturé); chlorure de sodium pur, même en solution aqueuse; eau de mer
+2502 Pyrites de fer; non grillé
+250200 Pyrites de fer; non grillé
+2503 Soufre de toutes sortes; autres que le soufre sublimé, précipité et colloïdal
+250300 Soufre de toutes sortes; autres que le soufre sublimé, précipité et colloïdal
+2504 Graphite; Naturel
+250410 Graphite; naturel, en poudre ou en flocons
+250490 Graphite; naturels, sous d'autres formes, à l'exclusion de la poudre ou des flocons
+2505 Sables de toutes sortes; naturels, même colorés, autres que les sables porteurs de métaux du chapitre 26
+250510 Sables sables naturels, sableux et siliceux, même colorés
+250590 Sables naturels (autres que les sables siliceux et quartzeux), même colorés (à l'exclusion des sables contenant des métaux du chapitre 26)
+2506 Quartz; (autres que sables naturels), quartzites, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+250610 Quartz; autres que les sables naturels
+250620 Quartzite; même dégrossi ou simplement débité, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+2507 Kaolin et autres argiles kaoliniques; si calciné ou non
+250700 Kaolin et autres argiles kaoliniques; si calciné ou non
+2508 Argiles; (à l'exclusion des argiles expansées du n ° 6806), l'andalousite kyanite et la sillimanite, même calcinées; la mullite; chamotte ou terre de dinas
+250810 Argiles (à l'exclusion des argiles expansées du n ° 6806); bentonite, même calcinée
+250830 Argiles (à l'exclusion des argiles expansées du n ° 6806); argile réprimée, même calcinée
+250840 Argiles (à l'exclusion des argiles expansées du n ° 6806); n.c.a. dans le n ° 2508, même calciné
+250850 Argiles (à l'exclusion des argiles expansées du n ° 6806); andalousite, cyanite et sillimanite, même calcinés
+250860 Argiles (à l'exclusion des argiles expansées du n ° 6806); mullite
+250870 Argiles (à l'exclusion des argiles expansées du n ° 6806); terre de chamotte ou de dinas
+2509 Craie
+250900 Craie
+2510 Les phosphates de calcium naturels; Phosphates de calcium et d'aluminium naturels et craie phosphatée
+251010 Les phosphates de calcium naturels, les phosphates aluminocalciques naturels et la craie phosphatée; non moulu
+251020 Les phosphates de calcium naturels, les phosphates aluminocalciques naturels et la craie phosphatée; sol
+2511 Sulfate de baryum naturel (baryte); carbonate de baryum naturel (withérite), même calciné, à l'exclusion de l'oxyde de baryum du n °. 2816
+251110 Sulfate de baryum (baryte); Naturel
+251120 Carbonate de baryum (witherite); naturels, même calcinés, à l'exclusion de l'oxyde de baryum du n °. 2816
+2512 Farines siliceuses fossiles (par exemple kieselguhr, tripolite et diatomite) et terres siliceuses similaires; calciné ou non, d'une densité apparente égale ou inférieure à 1
+251200 Farines siliceuses fossiles (par exemple kieselguhr, tripolite et diatomite) et terres siliceuses similaires; calciné ou non, d'une densité apparente égale ou inférieure à 1
+2513 Pierre ponce; émeri; corindon naturel, grenat naturel et autres abrasifs naturels, même traités thermiquement
+251310 Pierre ponce, même traitée thermiquement
+251320 Emeris, corindons naturels, grenats naturels et autres abrasifs naturels, même traités thermiquement
+2514 Ardoise, même dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+251400 Ardoise; même dégrossi ou simplement débité, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+2515 Marbre, travertin, écaussine et autres pierres calcaires; d'une densité apparente inférieure à 2,5, l'albâtre, qu'il soit coupé par sciage, etc., en blocs, dalles de forme rectangulaire (carrée)
+251511 Marbre et travertin; ayant une masse volumique égale ou supérieure à 2,5, bruts ou dégrossis par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+251512 Marbre et travertin; simplement découpés, par sciage ou autrement, en blocs ou en plaques de forme rectangulaire (y compris de forme carrée), ayant une masse volumique égale ou supérieure à 2,5
+251520 Ecaussine et autres pierres de taille ou de construction calcaires; albâtre, ayant une densité de 2,5 ou plus
+2516 Granit, porphyre, basalte, grès, autres pierres de taille et de construction, même dégrossies, débitées, par sciage, en blocs ou en plaques de forme carrée ou rectangulaire
+251611 Granit; brut ou rogné
+251612 Granit; simplement découpés, par sciage ou autrement, en blocs ou en plaques de forme rectangulaire (y compris carrée)
+251620 Grès;. même dégrossi, coupé, scié, etc., en blocs ou en plaques de forme carrée ou rectangulaire
+251690 Pierre monumentale ou de construction; n.c.a. dans le n ° 2516, même dégrossie ou simplement débitée, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire
+2517 Cailloux, gravier, pierre concassée pour agrégats de béton pour ballast routier ou ferroviaire, bardeau ou silex; macadam de laitier, dross, etc. granules goudronnés, gravillons, poudre de pierres du n °. 2515 et 2516
+251710 Cailloux, gravier, pierre brisée ou concassée; des types généralement utilisés pour les agrégats de béton, pour l'empierrement des routes ou pour le ballast ferroviaire ou autre, les bardeaux et les silex, même traités thermiquement
+251720 Macadam de laitier, de scories ou de déchets industriels similaires; incorporer ou non les matériaux dans l'article no. 2517.10
+251730 Macadam goudronné
+251741 Des pierres; de marbre, en granulés, en éclats et en poudre, même traités thermiquement
+251749 Des pierres; du n ° de 2515 ou 2516 (à l'exclusion du marbre), en granulés, en éclats et en poudre, même traités thermiquement
+2518 Dolomie, même calcinée ou frittée; y compris la dolomite dégrossie ou simplement coupée par sciage ou autrement en blocs ou en plaques de forme carrée ou rectangulaire; mélange de dolomite
+251810 Dolomie, non calcinée ou frittée; y compris la dolomite dégrossie ou simplement coupée par sciage ou autrement en blocs ou en plaques de forme carrée ou rectangulaire
+251820 Dolomie, calcinée ou frittée; y compris la dolomite dégrossie ou simplement coupée par sciage ou autrement en blocs ou en plaques de forme carrée ou rectangulaire
+251830 Mélange à piler Dolomite
+2519 Carbonate de magnésium naturel (magnésite); magnésie fusionnée; magnésie calcinée à mort (frittée), contenant ou non de petites quantités d'autres oxydes ajoutés avant le frittage; oxyde de magnésium, pur ou non
+251910 Carbonate de magnésium (magnésite); Naturel
+251990 Magnésie, fusionnée ou brûlée à mort (frittée); contenant ou non de petites quantités d'autres oxydes ajoutés avant le frittage, autre oxyde de magnésium, même pur, (carbonate de magnésium non naturel)
+2520 Gypse; anhydrite; plâtres (à base de gypse calciné ou de sulfate de calcium), colorés ou non, avec ou sans petites quantités d'accélérateurs ou de ralentisseurs
+252010 Gypse; anhydrite
+252020 Des plâtres; (consistant en gypse calciné ou en sulfate de calcium), même colorés, avec ou sans petites quantités d'accélérateurs ou de ralentisseurs
+2521 Flux de calcaire; pierres calcaires et autres pierres calcaires des types utilisés pour la fabrication de chaux ou de ciment
+252100 Flux de calcaire; pierres calcaires et autres pierres calcaires des types utilisés pour la fabrication de chaux ou de ciment
+2522 Chaux vive, chaux éteinte et chaux hydraulique; autres que l'oxyde et l'hydroxyde de calcium du n °. 2825
+252210 Chaux vive; à l'exclusion de l'oxyde et de l'hydroxyde de calcium du n °. 2825
+252220 Chaux; à l'exclusion de l'oxyde et de l'hydroxyde de calcium du n °. 2825
+252230 Chaux hydraulique; à l'exclusion de l'oxyde et de l'hydroxyde de calcium du n °. 2825
+2523 Ciments Portland, ciment alumineux (ciment fondu), ciment laitier, ciment super-sulfate et ciments hydrauliques similaires, même colorés ou sous forme de clinkers
+252310 Clinker de ciment (même coloré)
+252321 Ciment; Portland, blanc, même coloré artificiellement
+252329 Ciment; portland, autre que blanc, même coloré artificiellement
+252330 Ciment; alumineux (ciment fondu), même coloré ou sous forme de clinkers
+252390 Ciment; types hydrauliques n.c.a. dans le n ° 2523
+2524 Amiante
+252410 Amiante; crocidolite (amiante bleu)
+252490 Amiante; autre que la crocidolite (amiante bleu)
+2525 Mica, y compris les splittings; déchets de mica
+252510 Mica; brut et découpé en feuilles ou en séparations
+252520 Mica; poudre
+252530 Mica; déchets
+2526 Stéatite naturelle; même dégrossi ou simplement débité, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; talc
+252610 Stéatite; naturels (non broyés ou pulvérisés), même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; talc
+252620 Stéatite; naturels, broyés, réduits en poudre, même dégrossis ou simplement débités, par sciage ou autrement, en blocs ou en plaques de forme carrée ou rectangulaire; talc
+2528 Borates naturels et leurs concentrés (même calcinés), à l'exclusion des borates séparés de la saumure naturelle; acide borique naturel ne contenant pas plus de 85% de H3BO3 calculé sur le poids sec
+252800 Borates naturels et leurs concentrés (même calcinés), à l'exclusion des borates séparés de la saumure naturelle; acide borique naturel ne contenant pas plus de 85% de H3BO3 calculé sur le poids sec
+2529 Feldspath; la leucite; la néphéline et la syénite néphélinique; spath fluor
+252910 Feldspath
+252921 Spath fluor; contenant en poids 97% ou moins de fluorure de calcium
+252922 Spath fluor; contenant en poids plus de 97% de fluorure de calcium
+252930 La leucite; néphéline et syénite néphélinique
+2530 Substances minérales non dénommées ni comprises ailleurs
+253010 La vermiculite, la perlite et les chlorites; non expansé
+253020 Kiesérite, epsomite (sulfates de magnésium naturels)
+253090 Substances minérales n.c.a. au chapitre 25
+26 MINERAIS, SCORIES ET CENDRES
+2601 Minerais de fer et concentrés; y compris les pyrites de fer grillées
+260111 Minerais de fer et concentrés; non aggloméré
+260112 Minerais de fer et concentrés; aggloméré (à l'exclusion des pyrites de fer grillées)
+260120 Pyrites de fer; rôti
+2602 Minerais et concentrés de manganèse, y compris les minerais de manganèse ferrugineux et leurs concentrés d'une teneur en manganèse de 20% ou plus, calculés sur le poids sec
+260200 Minerais et concentrés de manganèse, y compris les minerais de manganèse ferrugineux et leurs concentrés d'une teneur en manganèse de 20% ou plus, calculés sur le poids sec
+2603 Minerais de cuivre et leurs concentrés
+260300 Minerais de cuivre et leurs concentrés
+2604 Minerais de nickel et leurs concentrés
+260400 Minerais de nickel et leurs concentrés
+2605 Minerais de cobalt et leurs concentrés
+260500 Minerais de cobalt et leurs concentrés
+2606 Minerais d'aluminium et leurs concentrés
+260600 Minerais d'aluminium et leurs concentrés
+2607 Minerais de plomb et leurs concentrés
+260700 Minerais de plomb et leurs concentrés
+2608 Minerais de zinc et leurs concentrés
+260800 Minerais de zinc et leurs concentrés
+2609 Minerais d'étain et leurs concentrés
+260900 Minerais d'étain et leurs concentrés
+2610 Minerais de chrome et leurs concentrés
+261000 Minerais de chrome et leurs concentrés
+2611 Minerais de tungstène et leurs concentrés
+261100 Minerais de tungstène et leurs concentrés
+2612 Minerais d'uranium ou de thorium et leurs concentrés
+261210 Minerais d'uranium et leurs concentrés
+261220 Minerais de thorium et leurs concentrés
+2613 Minerais de molybdène et leurs concentrés
+261310 Minerais de molybdène et leurs concentrés; rôti
+261390 Minerais de molybdène et leurs concentrés; autre que rôti
+2614 Minerais de titane et leurs concentrés
+261400 Minerais de titane et leurs concentrés
+2615 Minerais de niobium, de tantale, de vanadium ou de zirconium et leurs concentrés
+261510 Minerais de zirconium et leurs concentrés
+261590 Niobium, tantale, vanadium, minerais et concentrés
+2616 Minerais et concentrés de métaux précieux
+261610 Minerais d'argent et leurs concentrés
+261690 Minerais et concentrés de métaux précieux; (excluant l'argent)
+2617 Minerais et concentrés; n.c.a. dans le n ° 2601
+261710 Minerais d'antimoine et leurs concentrés
+261790 Minerais et concentrés n.c.a. au chapitre 26; autre que l'antimoine
+2618 Scories granulées (sable de laitier) issues de la fabrication du fer ou de l'acier
+261800 Laitier granulé (sable de laitier); de la fabrication ou du fer ou de l'acier
+2619 Scories, scories; (autres que les scories granulées), les entartrages et autres déchets de la fabrication du fer ou de l'acier
+261900 Scories, scories; (autres que les scories granulées), les entartrages et autres déchets de la fabrication du fer ou de l'acier
+2620 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier) contenant des métaux, de l'arsenic ou leurs composés
+262011 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant principalement du zinc, du zinc dur
+262019 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant principalement du zinc, autre que du zinc dur
+262021 Scories, cendres et résidus; (ne provenant pas de la fabrication de fer ou d'acier), contenant principalement du plomb; boues d'essence au plomb et boues de composés antidétonants contenant du plomb
+262029 Scories, cendres et résidus; (ne provenant pas de la fabrication de fer ou d'acier), contenant principalement du plomb; à l'exclusion des boues d'essence au plomb et des boues de composés antidétonants contenant du plomb
+262030 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant principalement du cuivre
+262040 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant principalement de l'aluminium
+262060 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant de l'arsenic, du mercure, du thallium ou leurs mélanges, des types utilisés pour l'extraction de l'arsenic ou de ces métaux ou pour la fabrication de leurs composés chimiques
+262091 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant de l'antimoine, du béryllium, du cadmium, du chrome ou leurs mélanges
+262099 Scories, cendres et résidus; (ne provenant pas de la fabrication du fer ou de l'acier), contenant principalement des métaux ou leurs composés, n.c.a. dans le n ° 2620
+2621 Scories et cendres n.c.a. au chapitre 26; y compris les cendres d'algues (varech) et les cendres et résidus provenant de l'incinération des déchets municipaux
+262110 Scories et cendres; cendres et résidus de l'incinération des déchets municipaux
+262190 Scories et cendres n.c.a. au chapitre 26; y compris les cendres d'algues (varech) mais en excluant les cendres et les résidus provenant de l'incinération des déchets municipaux
+27 Combustibles minéraux, huiles minérales et produits de leur distillation; SUBSTANCES BITUMINEUSES; CIRES MINÉRALES
+2701 Charbon; briquettes, ovoïdes et combustibles solides similaires fabriqués à partir de charbon
+270111 Charbon; anthracite, même pulvérisé, mais non aggloméré
+270112 Charbon; bitumineux, même pulvérisé, mais non aggloméré
+270119 Charbon; (autres que l'anthracite et le bitume), même pulvérisés mais non agglomérés
+270120 Briquettes, ovoïdes et combustibles solides similaires; fabriqué à partir de charbon
+2702 Lignite; aggloméré ou non, à l'exclusion des avions à réaction
+270210 Lignite; même pulvérisé, mais non aggloméré, à l'exclusion des jets
+270220 Lignite; aggloméré, à l'exclusion du jet
+2703 Tourbe; (y compris la litière de tourbe), agglomérée ou non
+270300 Tourbe; (y compris la litière de tourbe), agglomérée ou non
+2704 Coca et semi-coke; de charbon, de lignite ou de tourbe, même agglomérée; rétorquer le carbone
+270400 Coca et semi-coke; de charbon, de lignite ou de tourbe, même agglomérée; rétorquer le carbone
+2705 Gaz de houille, gaz à l'eau, gaz de synthèse et gaz similaires, autres que les gaz de pétrole et autres hydrocarbures gazeux
+270500 Des gaz; charbon, eau, gaz de production et gaz similaires (à l'exclusion du pétrole et d'autres hydrocarbures gazeux)
+2706 Goudrons distillés à partir de houille, de lignite, de tourbe et d'autres goudrons minéraux, même déshydratés ou partiellement distillés; y compris les goudrons reconstitués
+270600 Le goudron; distillés à partir de houille, de lignite ou de tourbe, et d'autres goudrons minéraux, même déshydratés ou partiellement distillés, y compris les goudrons reconstitués
+2707 Huiles et autres produits de la distillation du goudron de houille à haute température; produits similaires dans lesquels le poids des constituants aromatiques dépasse celui des constituants non aromatiques
+270710 Huiles et produits de la distillation du goudron de houille à haute température; benzol (benzène)
+270720 Huiles et produits de la distillation du goudron de houille à haute température; toluol (toluène)
+270730 Huiles et produits de la distillation du goudron de houille à haute température; xylol (xylènes)
+270740 Huiles et produits de la distillation du goudron de houille à haute température; naphtaline
+270750 Mélanges d'hydrocarbures aromatiques; n.c.a. dans le n ° 2707, dont 65% ou plus en volume (y compris les pertes) distille à 250 degrés Celsius par la méthode ISO 3405 (équivalente à la méthode ASTM D 86)
+270791 Huiles et autres produits de la distillation du goudron de houille à haute température; huiles de créosote
+270799 Huiles et autres produits de la distillation du goudron de houille à haute température; n.c.a. dans le n ° 2707
+2708 Pitch et pitch coke; obtenu à partir de goudron de houille ou d'autres goudrons minéraux
+270810 Pas; obtenu à partir de goudron de houille ou d'autres goudrons minéraux
+270820 Pitch coke; obtenu à partir de goudron de houille ou d'autres goudrons minéraux
+2709 Huiles et huiles de pétrole obtenues à partir de minéraux bitumineux; brut
+270900 Huiles; huiles de pétrole et huiles de minéraux bitumineux, brutes
+2710 Huiles brutes de pétrole ou de minéraux bitumineux, non brutes; préparations, n.c.a., contenant en poids 70% ou plus d'huiles de pétrole ou de minéraux bitumineux; ceux-ci étant les constituants de base des préparations; huiles usagées
+271012 Huiles brutes de pétrole ou de minéraux bitumineux, ne contenant pas de biodiesel, non brutes, non huiles usagées; préparations, n.c.a., contenant en poids 70% ou plus d'huiles de pétrole ou de minéraux bitumineux; huiles légères et préparations
+271019 Huiles brutes de pétrole ou de minéraux bitumineux, ne contenant pas de biodiesel, non brutes, non huiles usagées; préparations, n.c.a., contenant en poids 70% ou plus d'huiles de pétrole ou de minéraux bitumineux; huiles et préparations non légères
+271020 Huiles brutes de pétrole ou de minéraux bitumineux contenant du biodiesel, non brutes, non des huiles usagées; préparations a.c., contenant en poids 70% ou plus d'huiles de pétrole ou de minéraux bitumineux
+271091 Huiles usagées; de pétrole ou obtenu à partir de minéraux bitumineux, non brut; et préparations n.c.a., poids 70% ou leurs préparations, contenant des polychlorobiphényles (PCB), des terphényles polychlorés (PCT) ou des polybromobiphényles (PBB)
+271099 Huiles usagées; de pétrole ou de minéraux bitumineux, non bruts, et préparations n.c.a., en poids 70% ou leurs préparations, ne contenant pas de biphényles polychlorés (BPC), de terphényles polychlorés (PCT) ou de polybromobiphényles (PBB)
+2711 Gaz de pétrole et autres hydrocarbures gazeux
+271111 Gaz de pétrole et autres hydrocarbures gazeux; gaz naturel liquéfié
+271112 Gaz de pétrole et autres hydrocarbures gazeux; liquéfié, propane
+271113 Gaz de pétrole et autres hydrocarbures gazeux; liquéfié, butanes
+271114 Gaz de pétrole et autres hydrocarbures gazeux; liquéfié, éthylène, propylène, butylène et butadiène
+271119 Gaz de pétrole et autres hydrocarbures gazeux; liquéfié, n.c.a. dans le n ° 2711
+271121 Gaz de pétrole et autres hydrocarbures gazeux; à l'état gazeux, gaz naturel
+271129 Gaz de pétrole et autres hydrocarbures gazeux; à l'état gazeux, autre que le gaz naturel
+2712 Vaseline; paraffine, cire de pétrole microcristalline, gatsch, ozokérite, cire de lignite, cire de tourbe, autres cires minérales, produits similaires obtenus par synthèse, autres procédés; coloré ou non
+271210 Vaseline
+271220 Paraffine; contenant en poids moins de 0,75% d'huile, obtenue par synthèse ou par d'autres procédés, même colorés
+271290 Paraffine; contenant en poids 0,75% ou plus d'huile, obtenue par synthèse ou par d'autres procédés, même colorés
+2713 Coke de pétrole, bitume de pétrole; autres résidus d'huiles de pétrole ou de minéraux bitumineux
+271311 Coke de pétrole; (non calciné), obtenu à partir de minéraux bitumineux
+271312 Coke de pétrole; calciné, obtenu à partir de minéraux bitumineux
+271320 Bitume de pétrole; obtenu à partir de minéraux bitumineux
+271390 Les résidus; d'huiles de pétrole ou d'huiles obtenues à partir de minéraux bitumineux
+2714 Bitume et asphalte, naturel; schistes bitumineux ou pétrolifères et sables bitumineux; asphaltites et roches asphaltiques
+271410 Schistes bitumineux ou pétrolifères et sables bitumineux
+271490 Bitume et asphalte, naturel; asphaltites et roches asphaltiques
+2715 Mélanges bitumineux à base d'asphalte naturel; sur bitume naturel, sur bitume de pétrole, sur goudron minéral ou sur brai de goudron minéral (mastics bitumineux, cut-backs, par exemple)
+271500 Mélanges bitumineux à base d'asphalte naturel, de bitume naturel, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumineux, cut-backs, par exemple)
+28 PRODUITS CHIMIQUES INORGANIQUES; COMPOSÉS ORGANIQUES ET INORGANIQUES DE MÉTAUX PRÉCIEUX; DE MÉTAUX DES TERRES RARES, D'ÉLÉMENTS RADIOACTIFS ET D'ISOTOPES
+2801 Fluor, chlore, brome et iode
+280110 Chlore
+280120 Iode
+280130 Fluor; brome
+2802 Soufre; sublimé ou précipité, soufre colloïdal
+280200 Soufre; sublimé ou précipité, soufre colloïdal
+2803 Carbone; les noirs de carbone et d'autres formes de carbone, n.c.a.
+280300 Carbone; les noirs de carbone et d'autres formes de carbone, n.c.a.
+2804 Hydrogène, gaz rares et autres non-métaux
+280410 Hydrogène
+280421 Gaz rares argon
+280429 Gaz rares autre que l'argon
+280430 Azote
+280440 Oxygène
+280450 Bore; tellure
+280461 Silicium; contenant en poids pas moins de 99,99% de silicium
+280469 Silicium; contenant en poids moins de 99,99% de silicium
+280470 Phosphore
+280480 Arsenic
+280490 Sélénium
+2805 Les métaux alcalins ou alcalino-terreux; métaux des terres rares, scandium et yttrium, même mélangés ou alliés entre eux; Mercure
+280511 Les métaux alcalins ou alcalino-terreux; sodium
+280512 Les métaux alcalins ou alcalino-terreux; calcium
+280519 Les métaux alcalins ou alcalino-terreux; autre que le sodium et le calcium
+280530 Métaux de la Terre, rares; scandium et yttrium, même mélangés ou alliés entre eux
+280540 Mercure
+2806 Chlorure d'hydrogène (acide chlorhydrique); acide chlorosulfurique
+280610 Chlorure d'hydrogène (acide chlorhydrique)
+280620 Acide chlorosulfurique
+2807 Acide sulfurique; oléum
+280700 Acide sulfurique; oléum
+2808 Acide nitrique; acides sulfonitriques
+280800 Acide nitrique; acides sulfonitriques
+2809 Le pentoxyde de diphosphore; l'acide phosphorique et les acides polyphosphoriques
+280910 Pentoxyde de diphosphore
+280920 Acide phosphorique et acides polyphosphoriques
+2810 Les oxydes de bore; acides boriques
+281000 Les oxydes de bore; acides boriques
+2811 Acides inorganiques et autres composés oxygénés inorganiques de non-métaux; n.c.a. dans le n ° 2806 à 2810
+281111 Fluorure d'hydrogène (acide fluorhydrique)
+281112 Cyanure d'hydrogène (acide cyanhydrique)
+281119 Les acides inorganiques; autre que le fluorure d'hydrogène
+281121 Gaz carbonique
+281122 Dioxyde de silicone
+281129 Composés oxygénés inorganiques; de non-métaux, n.c.a. dans l'article no. 2811.2
+2812 Halogénures et oxydes d'halogénure de non-métaux
+281211 Dichlorure de carbonyle (phosgène)
+281212 Oxychlorure de phosphore
+281213 Trichlorure de phosphore
+281214 Pentachlorure de phosphore
+281215 Monochlorure de soufre
+281216 Dichlorure de soufre
+281217 Chlorure de thionyle
+281219 Trichlorure d'arsenic et autres chlorures et oxydes de chlorure, n.c.a. dans l'article no. 2812
+281290 Halogénures et oxydes d'halogénure de non-métaux; sans chlorure
+2813 Sulfures de non-métaux; trisulfure de phosphore commercial
+281310 Disulfure de carbone
+281390 Sulfures de non-métaux (à l'exclusion du carbone); trisulfure de phosphore commercial
+2814 Ammoniac; anhydre ou en solution aqueuse
+281410 Ammoniac; anhydre
+281420 Ammoniac; en solution aqueuse
+2815 Hydroxyde de sodium (soude caustique); hydroxyde de potassium (potasse caustique) peroxydes de sodium ou de potassium
+281511 Hydroxyde de sodium (soude caustique); solide
+281512 Hydroxyde de sodium (soude caustique); en solution aqueuse (lessive de soude ou de la soude liquide)
+281520 Hydroxyde de potassium (potasse caustique)
+281530 Peroxydes de sodium ou de potassium
+2816 Hydroxyde et peroxyde de magnésium; oxydes, hydroxydes et peroxydes de strontium ou de baryum
+281610 Hydroxyde et peroxyde de magnésium
+281640 Oxydes, hydroxydes et peroxydes, de strontium ou de baryum
+2817 Zinc; oxyde et peroxyde
+281700 Zinc; oxyde et peroxyde
+2818 Oxyde d'aluminium (y compris le corindon artificiel); hydroxyde d'aluminium
+281810 Oxyde d'aluminium; corindon artificiel
+281820 Oxyde d'aluminium; autre que le corindon artificiel
+281830 Hydroxyde d'aluminium
+2819 Oxydes de chrome et hydroxydes
+281910 Trioxyde de chrome
+281990 Oxydes et hydroxydes de chrome; à l'exclusion du trioxyde de chrome
+2820 Oxydes de manganèse
+282010 Dioxyde de manganèse
+282090 Les oxydes de manganèse; à l'exclusion du dioxyde de manganèse
+2821 Oxydes et hydroxydes de fer; des couleurs terrestres contenant 70% ou plus en poids de fer combiné évalué en Fe2o3
+282110 Oxydes et hydroxydes de fer
+282120 Couleurs de la terre; contenant en poids 70% ou plus de fer combiné évalué en Fe2o3
+2822 Oxydes et hydroxydes de cobalt; oxydes de cobalt commerciaux
+282200 Oxydes et hydroxydes de cobalt; oxydes de cobalt commerciaux
+2823 Oxydes de titane
+282300 Oxydes de titane
+2824 Les oxydes de plomb; plomb rouge et plomb orange
+282410 Conduire; monoxyde de plomb (litharge, massicot)
+282490 Les oxydes de plomb; n.c.a. dans le n ° 2824
+2825 Hydrazine et hydroxylamine et leurs sels inorganiques; d'autres bases inorganiques; autres oxydes, hydroxydes et peroxydes de métaux

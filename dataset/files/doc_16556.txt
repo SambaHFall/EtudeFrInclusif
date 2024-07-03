@@ -1,0 +1,143 @@
+Caractérisation du gène FAM111B responsable de la Poïkilodermie fibrosante héréditaire, Myopathie rétractile et Fibrose pulmonaire
+par : Sandra Mercier
+Succès
+Campagne réussie
+7 500 € collectés
+Grâce à la générosité de 78 contributeurs, la campagne lancée par Sandra Mercier a atteint son objectif de collecte, le lundi 15 mai 2017.
+×
+Comment ça marche ?
+100% de votre don est reversé.
+Votre don est reversé en intégralité au projet de recherche. Nous travaillons directement avec des centres hospitaliers universitaires (CHU), des universités et des instituts de recherche pour garantir la transparence de gestion de votre don.
+Impact
+Chaque chercheur communique auprès de sa communauté de contributeurs l’avancée de ses travaux et les résultats de son projet.
+Financez directement les chercheurs
+Rejoignez une communauté de personnes, d'associations et d’entreprises qui finance directement la recherche auprès des chercheurs sur les causes qui vous tiennent à cœur.
+Projet
+Actualités (3)
+Commentaires
+Transparence
+À propos de ce projet
+En 2013, notre équipe a découvert une nouvelle maladie rare dont les patients présentent généralement une atteinte de la peau (poïkilodermie, hypotrichose), des muscles (myopathie rétractile), du pancréas (insuffisance pancréatique exocrine) et des poumons (syndrome restrictif, fibrose) (POIKTMP).
+Nous avons identifié le gène responsable de cette pathologie, par l'étude de l'ensemble des gènes de patients (séquençage d’exome). Mais la fonction de ce gène est encore peu connue.
+Nous souhaitons par nos travaux de recherche, comprendre la physiopathologie de cette maladie et mettre au point à l’avenir une stratégie de thérapie génique par transfert de gène (stratégie thérapeutique qui consiste à apporter le gène sain dans les cellules ou les tissus d'un patient) pour soigner cette pathologie grave.
+Contexte
+Nos travaux de recherche ont montré :
+que le gène FAM111B était en cause dans cette pathologie POIKTMP par un séquençage d’exome réalisé chez un patient nantais et dans une famille sud-africaine (Mercier et al., Am J Hum Genet, 2013), puis par séquençage ciblé du gène FAM111B ou exome dans 10 familles indépendantes (Mercier et al., OJRD, 2015).
+que l’atteinte de la maladie était multisystémique c’est à dire qu’elle touche différents tissus et organes : une atteinte cutanée avec une poïkilodermie touchant notamment le visage dès la 1ère année de vie ; une atteinte musculaire pouvant se déclarer dans l’enfance par la présence initialement de rétractions musculaires au niveau des chevilles puis progressant vers une faiblesse musculaire diffuse ; une atteinte pancréatique avec une insuffisance pancréatique exocrine empêchant la bonne digestion des graisses ; une atteinte pulmonaire à type de syndrome restrictif ou de fibrose pulmonaire ensuite à l’âge adulte. (Mercier et al., OJRD, 2015)
+que l’injection d’un transcrit muté du gène FAM111B humain dans des embryons de poisson-zèbre a entrainé un phénotype musculaire et que la co-injection du transcrit muté et sain (en excès) permettait de corriger le phénotype, donc nous permet de retenir cette piste thérapeutique (travaux encore non publiés).
+Objectif
+L’objectif ultime de cette recherche est de pouvoir proposer un traitement aux patients porteurs de cette pathologie, POIKTMP, qui est une pathologie progressive pour laquelle nous n’avons actuellement aucun traitement curatif.
+Dans un premier temps, il nous faut préciser la fonction du gène FAM111B à l’état sauvage et à l’état muté afin de comprendre la physiopathologie de la maladie. Comprendre quels sont les dysfonctionnements qui engendrent cette atteinte de multiples organes pour trouver des stratégies thérapeutiques pour contrer ces effets délétères.
+L’identification de la pathologie était déjà une grande étape pour les patients, mais la recherche d’un traitement est encore plus essentielle. Soutenir notre projet, c’est donner l’espoir à ces familles de pouvoir leur proposer un traitement à l’avenir.
+Etapes
+Le chemin vers la thérapeutique impose des étapes préalables :
+1) Etudes fonctionnelles : pour comprendre la maladie
+- Etude de transcriptome :
+Pour comprendre la fonction du gène FAM111B , nous envisageons un séquençage de transcriptome, appelé RNASeq. Il s'agit de l'étude des transcrits des gènes ce qui nous permet d'avoir une "photographie" de l'ensemble des gènes exprimés. Nous allons réaliser cette étude à la fois chez le poisson zèbre et sur les cellules musculaires de patients ce qui nous permettra de faire des comparaisons entre les deux espèces. Une publication récente montre que le gène FAM111B est exprimé physiologiquement lors de la réplication de l’ADN (Aviner et al., PLoS Genet, 2015). Nous souhaitons confirmer cette donnée et surtout identifier les perturbations d'expression de gènes engendrées par la forme mutée de FAM111B.
+- Etude phénotypique : en cours
+Le modèle de la maladie sur des poissons zèbres, ainsi que des cellules musculaires de patients sont déjà disponibles et vont être étudiés plus précisément sur le plan morphologique, histologique en plus des études transcriptomiques. Ces études sont réalisées en collaboration avec l'équipe de Vincent Mouly à l'Institut de Myologie (Paris) et l'équipe d'Erica Davis au Duke University Medical Center (Durham, USA).
+Nous allons développer un modèle de souris en injectant par voie intramusculaire dans un premier temps le transcrit FAM111B muté via un vecteur viral (AAV). Dans un deuxième temps, nous envisageons de faire des injections systémiques, intraveineuses, pour obtenir un modèle murin de la pathologie.
+2) Stratégies thérapeutiques :
+L'objectif de ces travaux est avant tout de trouver des pistes thérapeutiques, en particulier par thérapie génique (par exemple, par transfert du gène sain), pour proposer un traitement aux patients atteints de cette maladie.
+Concernant toutes les recherches que nous menons et allons mener, nous communiquerons les résultats par des publications dans des revues scientifiques à comité international ou dans des revues à destination de tout public. Nous vous communiquerons bien entendu ces avancées sur le site Thellie.
+Budget : 7 500 €
+Libellé
+Montant
+Etude de RNASeq
+7 500 €
+Le budget de 7 500 euros nous permettra de débuter les études de transcriptome sur le modèle de poisson zèbre et sur cellules musculaires humaines. Ces études seront réalisées sur une plateforme spécifique de séquençage des transcrits (RNASeq) et analysées par notre équipe en collaboration avec une équipe référente dans le domaine aux Etats-Unis (Pr Katsanis, Dr Davis; Center for Human Disease Modelling, Duke University Medical Center).
+Partager sur
+Contributeurs (78)
+M
+M
+R
+N
+C
+P
+B
+C
+L
+P
+L
+C
+R
+F
+M
+F
+P
+N
+J
+G
+K
+C
+M
+M
+N
+M
+P
+A
+R
+A
+J
+P
+C
+A
+R
+B
+B
+G
+N
+A
+S
+S
+R
+F
+C
+L
+C
+C
+C
+B
+B
+M
+S
+P
+R
+O
+H
+C
+M
+C
+I
+L
+N
+H
+S
+M
+A
+Ö
+C
+L
+A
+F
+P
+Etablissement
+CHU de Nantes
+Chercheur
+Voir profil
+Sandra Mercier
+Médecin-Chercheur
+CHU de Nantes
+Approuvé par
+T
+Toutain Annick
+Médecin-Chercheur
+Université de Tours
+Le projet présenté ici concerne une pathologie rare et encore mal comprise sur le plan physiopathologique. La fonction du gène impliqué est peu élucidée. Aucune autre équipe n'est connue pour travailler sur ce sujet. Le travail proposé pour avancer dans cette compréhension est tout à fait pertinent, la méthodologie qui sera utilisée est adaptée aux questions soulevées. Il s'agit d'un travail collaboratif réunissant les compétences et expertises d'équipes complémentaires. Tous ces éléments en font un projet intéressant, pertinent sur le plan scientifique et qui mérite d'être soutenu.
+S
+Sylvie Odent
+Médecin-Chercheur
+CHU de Rennes Hôpital Sud
+Excellent projet avec un bel exemple de recherche translationnelle et des débouchés prometteurs sur des thérapeutiques innovantes sur une maladie ultra-rare et méconnue. C'est cette équipe qui a identifié le gène de la maladie
+Tous les acteurs sont réunis pour la réussite du projet: clinicien expert, laboratoire de diagnostic et recherche fondamentale avec utilisation de modèles animaux et cellulaires préalables à des essais chez l'homme
+100% des dons sont reversés aux chercheurs. Thellie est la plateforme de financement participatif qui permet à chacun de soutenir des projets de recherche proposés directement par des chercheurs.

@@ -1,0 +1,57 @@
+Investing.com – Allemagne: Les marchés actions ont terminé la séance en hausse ce mercredi; la progression des secteurs Technologie, Médias, et Ressources de base a contribué à cette hausse.
+En clôture à Francfort, l’indice DAX a progressé de 0,83%, alors que l’indice MDAX s’est octroyé 1,29%, et l’indice TecDAX a enregistré une hausse de 1,13%.
+La meilleure performance de la séance pour l’indice DAX est à mettre au crédit du titre Fresenius Medical Care AG&Co (DE:FMEG) en hausse de 3,86% soit 2,240 points pour un cours de clôture de 60,320. En seconde position, on retrouve Wirecard AG (DE:WDIG) qui gagne 3,62% soit 5,000 points pour une clôture à 142,950. Le titre Continental AG (DE:CONG) vient compléter ce trio de tête avec une progression de 3,08% soit 3,95 points pour une fin de séance à 132,30.
+Deutsche Bank AG (DE:DBKGn) signe la pire performance de la séance, en perdant 2,77% soit 0,211 points pour un cours de clôture de 7,412. E.ON AG (DE:EONGn) abandonne 1,03% soit 0,093 points et termine à 8,934. Pour sa part, Deutsche Telekom AG (DE:DTEGn) lâche 0,64% soit 0,095 points pour un cours de clôture de 14,770.
+Les meilleures performances de l’indice MDAX reviennent à Wacker Chemie (DE:WCHG) qui s’adjuge 7,79% pour un cours de 86,60, Siltronic AG (DE:WAFGn) en hausse de 5,17% à 80,100 et Salzgitter AG (DE:SZGG) qui gagne 4,43% pour un cours de clôture à 27,600.
+Les valeurs les moins performantes sont Drillisch AG (DE:DRIG) en repli de 6,50% à 43,180 en clôture, Freenet AG NA (DE:FNTGn) qui perd 3,51% à 17,0600 et Telefonica Deutschland Holding AG (DE:O2Dn), en baisse de 3,33% à 3,219 en clôture.
+Les meilleures performances de l’indice TecDAX reviennent à Dr Honle AG (DE:HNLG) qui s’adjuge 9,11% pour un cours de 46,700, JOST Werke AG (DE:JSTG) en hausse de 6,03% à 29,0000 et ADO Properties SARL (DE:ADJ) qui gagne 5,53% pour un cours de clôture à 48,84.
+Les valeurs les moins performantes sont DWS Group GmbH&Co KgaA (DE:DWSG) en repli de 3,09% à 23,02 en clôture, SMA Solar Technology AG (DE:S92G) qui perd 2,71% à 17,230 et Vossloh AG (DE:VOSG), en baisse de 2,59% à 41,450 en clôture.
+Les titres en hausse ont dépassé en nombre les titres en baisse à la Bourse de Francfort par 493 valeurs à 228 et 59 stables.
+Les titres Telefonica Deutschland Holding AG (DE:O2Dn) ont reculé et atteint un plus bas historique, après avoir abandonné 3,33% soit 0,111 points pour un cours de 3,219.
+L’indice DAX New Volatility, qui mesure la volatilité implicite des options de l’indice DAX, a perdu 1,12% atteignant les 20.38.
+D’autre part, l’or pour livraison en février a gagné 0,28% soit 3,55 points, à $1.289,45 l’once troy. Concernant les autres matières premières, le pétrole brut pour livraison en février a progressé de 4,72% soit 2,35 points pour un cours de $52,13 le baril, alors que le Brent pour livraison en mars a gagné 4,21% soit 2,47 points pour un cours de $61,19 le baril.
+La paire EUR/USD a enregistré une hausse de 0,75% à 1,1526, alors que la paire EUR/GBP a pris 0,47% à 0,9034.
+Tags: Bourses Internationales, EUR/USD
+Lire la suite sur TradingView	
+Améliorez vos compétences de trading en vous inspirant des idées de traders du monde entier.	
+LIRE L'ANALYSE COMPLETE	
+Avertissement au risque
+eToro est une plateforme à multi-actifs offrant à la fois des investissements en actions et en crypto-actifs, ainsi que le trading d’actifs sous forme de CFD.
+Veuillez noter que les CFD sont des instruments complexes et présentent un risque élevé de perte rapide de fonds en raison de leur effet de levier. 75 % des comptes de traders particuliers perdent des fonds lorsqu’ils tradent des CFD avec ce fournisseur. Vous devriez vous demander si vous comprenez bien comment les CFD fonctionnent et si vous pouvez vous permettre de prendre le risque important de perdre votre argent.
+Les performances passées ne sont pas une indication des résultats futurs.
+Les crypto-actifss sont susceptibles de subir d’importantes fluctuations de prix et ne sont donc pas appropriées pour tous les investisseurs. Le trading de crypto-monnaies n’est supervisé par aucun cadre réglementaire européen.
+Il y a toujours une correlation entre rendement élevé et risque élevé.
+forex.fr ou toute personne ayant un rapport avec forex.fr n’acceptera aucune responsabilité pour toute perte liée à la spéculation ou tout préjudice lié à la confiance sur les informations contenues sur ce site y compris les données, les cotations, les graphiques et les signaux d’achat et de vente. Veuillez être pleinement informés sur les risques et les coûts liés à la spéculation sur les marchés financiers, c’est l’une des formes de placement les plus risqué.
+Laissez un commentaire!
+Search
+A propos
+Forex.fr est un site d’information sur le marchee des changes. Le contenu n’est pas pas une recommandation d’investissement.
+Facebook
+Twitter
+Youtube
+Medium
+Articles recents
+ETH/BTC – Configuration bullish ! par Glorwyn	
+Read More »	
+space algo par Tradebookmaster	
+Read More »	
+Prochain potentiel mouvement sur ETH 1J par mattRmatt	
+Read More »	
+Marchés financiers par TradingView
+Inscrivez-vous a notre newsletter
+Email
+Send
+En vous inscrivant vous acceptez notre politique de confidentialite.
+Pas de spam, pas de courrier indesirable
+{{ commentData.author.name }} {{ commentData.date.human_diff }}
+{{ options.labels.replyButton }}
+{{ options.labels.cancelButtonLabel }}
+{{ options.labels.submitReplyButton }}
+{{ responseMessage }}
+{{ options.labels.cancelButtonLabel }}
+{{ options.labels.submitReviewButton }}
+{{ messageText }}
+{{ itemData.author.name }} {{ itemData.date.human_diff }}
+{{ itemData.like }}
+{{ itemData.dislike }}
+{{ `${ options.labels.showCommentsButton }(${ itemCommentsCount })` }} {{ `${ options.labels.hideCommentsButton }(${ itemCommentsCount })` }}

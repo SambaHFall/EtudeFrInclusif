@@ -1,0 +1,125 @@
+Je suis entré dans la librairie. J'ai choisi mon livre. J'ai payé. Je suis rentré chez moi. Le livre était à moi. L'auteur, l'éditeur et le libraire avaient fait leurs devoirs (d'écriture, de commercialisation, etc.) et avaient exercé leurs droits (moraux et patrimoniaux, droit de fixer le prix de vente, etc.) J'ai prêté le livre. J'ai brûlé le livre. J'ai photocopié le livre. Je fais ce que je veux. C'est mon livre. Je l'ai payé.
+2
+Je me suis rendu sur le site d'une librairie numérique. J'ai choisi mon livre. J'ai payé. Et tout ça depuis chez moi. Le livre était à moi. Du moins le croyais-je.
+Au-delà des débats sur la reproductibilité du livre numérique, sur la question du piratage, sur la question de son prix (moins cher oui mais de combien par rapport à la version papier), sur la question de sa nature (homothétique, augmenté, diminué ...), sur la question de son modèle économique (quelle part du gâteau pour chacun des acteurs), de sa diffusion, de sa visibilité, de son goût et de sa couleur qui ne se discutent pas vu que les goûts et les couleurs ne se discutent pas, au-delà de tout cela il y a cette fiche technique.
+Poètes, vos papiers, littérateurs, votre fiche.
+Fiche technique aujourd'hui heureusement présente et à peu près compréhensible sur l'essentiel des vendeurs de livres numériques. Ce n'est pas encore le cas partout mais il y a encore à peine un an ce n'était présent quasiment nulle part.La fiche technique d'aujourd'hui est encore incomplète : on ne me dit pas si ce truc bizarre, ce format ePub (avec Pub comme Publicité ?) pourra être lu sur ma liseuse. Oh bien sûr, j'ai un neveu informaticien qui m'a rassuré : "L'ipubeuh est un format standard interopérable lisible sur presque toutes les liseuses". Ah. Et sur la mienne, de liseuse ?
+Hier avec ou sans ces fiches techniques, on en était réduits à acheter à l'aveugle, à consommer à la myope, à rechercher à la borgne. Des potentialités du livre numérique ils n'avaient retenu que la littérature comme potence.
+Aujourd'hui ne vaut guère mieux.
+3
+Aujourd'hui il y a la fiche technique. Celle du livre que je viens d'acheter. Que j'ai payé. Non monsieur l'agent je ne l'ai pas piraté, je l'ai payé. Parfois même assez cher. Parfois même plus cher que le même en papier.
+Aujourd'hui il y a ces droits : droit de copier, droit de prêter, droit de reproduire, droit de photocopier, droit de lire (sur telle liseuse mais pas sur telle autre), droit de transférer, droit d'imprimer, droit d'oraliser (synthèse vocale). Aujourd'hui il y a, en fait il y a toujours eu, une impressionnante augmentation des potentialités offertes par le numérique. Il est tellement navrant de voir que chacune d'entre elles s'accompagne de restrictions que le monde physique n'aurait jamais osé imposer.
+Au-delà de la désintermédiation, de la réintermédiation, de la méditative médiation nécessaire à la compréhension des processus de désintermédiation et de réintermédiation, aujourd'hui il y a ce postulat d'une culpabilité numérique partagée, ce plaider-coupable qu'il nous faut endosser à chaque transaction financière numérique, cette impression diffuse mais tenace de payer le prix d'une Ferrari pour un véhicule avec un moteur de Ferrari mais avec l'engagement préalable à ne jamais sortir du village et de sa limitation à 30 km heure.
+4
+Je me suis rendu sur le site d'une librairie numérique. J'ai choisi mon livre. J'ai voulu payer. Alors soudain on m'a lu mes droits. J'ai plaidé coupable. J'ai jugé que pour le prix, j'aurai un livre mais pas assez de droits. Alors j'ai fermé le site. Et avec lui un peu de la littérature. Avec un sentiment de ratage plus que de rature. Un manque d'air, une raréfaction devant d'innombrables et si futiles mais incessantes ratifications préalables empêchant d'attaquer la lecture du moindre prologue. S'engager à ceci, promettre de ne pas faire cela. J'ai foutu le camp.
+5
+D'autres en sont déjà à demain. Il existe un moyen simple de leur témoigner notre reconnaissance. Leur acheter un livre. N'importe lequel. Vous choisirez. Vous pourrez le prêter, le lire partout, faire du copier-coller, vous pourrez même le brûler, le déchirer, l'intermédier, le désintermédier, l'oublier, le reprendre, l'oublier encore. Vous pourrez surtout ne jamais vous poser la question de ce que vous pouvez en faire, et comment, et combien de fois, et pendant combien de temps, et avec qui, et pourquoi. Parce que vous, ce que vous voulez, c'est juste acheter un livre. Pour le lire peut être.
+Rédigé à 18:20 dans Document numérique, Livre numérique | Lien permanent
+Reblog (0)
+Commentaires
+bien conscient de ces problèmes – et hâte qu'on puisse avancer – pense que l'effet paradoxal c'est la masse de commandes qui nous viennent depuis Amazon ou iTunes plutôt que par le site direct
+ceci non pas pour les DRM mais pour l'obligation de dépôt de données personnelles lors de l'achat – pas pour ça qu'on y va voir, mais bien forcés lorsqu'il y a une histoire de SAV...
+on aura été compagnons de préhistoire
+Rédigé par : F Bon | 23 avr 2012 à 18:29
+...l'issue d'une issue est entre les mains des (e)lecteurs. C'est lui qui doit demander l'accessibilité des données. Par contre, augmenter un livre à un coût, un travail qu'il ne faut pas négliger.
+Rédigé par : anonymouse | 23 avr 2012 à 22:25
+je la refais : ...l'issue d'une issue est entreS les mains des (e)lecteurs.
+C'est EUX qui doivent demander l'accessibilité des données.
+Par contre, augmenter un livre A un coût, un travail qu'il ne faut pas néglige
+sorry !
+Rédigé par : anonymouse | 23 avr 2012 à 22:32
+Je voulais lire le dernier Trône de fer sur ma liseuse. Saga grand public, depuis peu en format numérique, le dernier tome vient de sortir... Je suis donc allé sur Immatériel : http://librairie.immateriel.fr/fr/ebook/9782756405865 , carte bleue en main. Malgré le prix. Malgré les restrictions d'usage. Mais voilà : "Vous devez impérativement installer Adobe Digital Editions pour lire ce livre". Et Adobe Digital Editions ne peut être installé sous Linux.
+Alors je suis allé sur Google : http://lmgtfy.com/?q=B%C3%BBcher+d%27un+roi+epub+download . Et c'est moi le voleur.
+Rédigé par : Pierre | 24 avr 2012 à 11:20
+En allant un petit peu plus loin dans l'achat on découvre le pire. L'éditeur du livre nous a vendu à son fournisseur de DRM qui nous oblige d'une part à télécharger sur notre ordinateur une application qui lui appartient et en plus il nous demande de lui fournir notre identité pour que nous puissions dans l'avenir utiliser un autre ordinateur pour profiter de notre achat en cas de désastre.
+Cet aspect lamentable du modèle est rarement dénoncé...
+Rédigé par : Richard Timsit | 24 avr 2012 à 12:21
+Si si, dénoncé par beaucoup, mais pas relayé ...
+Rédigé par : TheSFReader | 24 avr 2012 à 13:13
+Question pour "Pierre, Richard" : Avez-vous un compte facebook ?
+Rédigé par : Anonymouse | 24 avr 2012 à 20:30
+L'utilisation des commentaires est désactivée pour cette note.
+"Mais quiconque affirme qu’il y a de l’argent à faire avec un stock d’ARTICLES SCIENTIFIQUES est soit un idiot, soit un menteur."
+Lawrence Lessig. 12 Janvier 2013.
+Le blog d'un maître de conférences en sciences de l'information.
+Réflexions, analyses, signalements, opinions.
+"Where is the Life we have lost in living?
+Where is the wisdom we have lost in knowledge?
+Where is the knowledge we have lost in information?" T.S. Eliot, in Choruses from The Rock (1934)
+Where is the information we've lost in Google ?
+Botte de foin
+Catégories
+Agenda (78)
+Anne Frank (11)
+Appels à communication (6)
+Archives Ouvertes (60)
+Au commencement (1)
+Biblio"Tech" (254)
+Big Data (132)
+Classiques connectes (3)
+Cloud Computing (39)
+Community Management (8)
+Congrès, colloques et conférences (110)
+Coronavirus (38)
+Cuisine interne (62)
+DADVSI (24)
+Document numérique (421)
+Documents et ressources pédagogiques (119)
+Domaine Public (7)
+Ecologie de l'info (866)
+Fables connectées (3)
+Fake News (9)
+fleurs du mal connecte (1)
+Folksonomies, Social Bookmarking, Glocalisation (110)
+Francoblogsciences (55)
+Gilets Jaunes (10)
+Google Print/Books (141)
+HDR (228)
+In English (1)
+in English (1)
+Intelligence artificielle (20)
+Internet des Objets (30)
+KM, Gestion des connaissances (13)
+Livre numérique (31)
+Moteurs et autres engins (606)
+Métier (263)
+Open Access (126)
+Outils chauds, tièdes et froids. (10)
+Ouvrages et parutions (71)
+Politique des algorithmes (207)
+Polyphonies2007 (7)
+Polyphonies2008 (5)
+Privacy (96)
+Rubrique à brac (365)
+Réseaux sociaux (388)
+Screencast maison (1)
+Semantic web, ontologies (23)
+Sérendipité (59)
+Technologies (P2P, Grid ...) (18)
+Veille & Recherche d'info (93)
+Web 2.0 (118)
+Weblogs, Wikis & RSS (228)
+Wikipedia (101)
+See More
+POUR CITER UN ARTICLE
+Style Hypotheses.org
+Ertzscheid Olivier, « Titre du billet », Affordance.info, ISSN 2260-1856. Date de publication. [En ligne] http://affordance.typepad.com/adresse-du-billet.html
+Style APA
+Ertzscheid, Olivier (date de publication du billet). “Titre du billet”. Affordance.info [carnet de recherche]. ISSN 2260-1856. Date de consultation. http://affordance.typepad.com/adresse-du-billet.html
+Style MLA
+Ertzscheid, Olivier “Titre du billet”. Affordance.info (souligné) ISSN 2260-1856. Date de publication. [carnet de recherche]. Date de consultation. http://affordance.typepad.com/adresse-du-billet.html
+Les commentaires récents
+Chre sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+JP sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+Thatoo sur Les lunettes et l'entrave
+Thomas sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+jean-yves sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+stef sur Je n'ai pas eu le temps de faire plus court.
+Benoit sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+Bisounours sur Jean-Michiel Blanquier : le ministre de l'éducation en guerre contre les dictionnaires.
+Jacques (aussi à vélo) sur Jean-Michiel Blanquier : le ministre de l'éducation en guerre contre les dictionnaires.
+jo le clodo sur #MonOrdiAuLycée : le cadeau empoisonné de Christelle Morançais
+Tous les contenus de ce blog sont sous licence Creative Commons. Vous pouvez donc les reproduire, les distribuer ou les communiquer à condition :
+de citer l'auteur
+de ne pas en faire d'utilisation commerciale
+d'appliquer ces mêmes conditions à toute création qui résulterait d'une modification, transformation ou adaptation d'éléments tirés de ce blog.

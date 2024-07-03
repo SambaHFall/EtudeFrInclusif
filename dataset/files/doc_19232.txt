@@ -1,0 +1,724 @@
+Lorsque je veux envoyer des bitcoin, à l'etape de la validation pour authentifier la transaction sortante il y a un problème: -via smartphone, rien n'arrive sur le smartphone -via la carte de sécurité, aucune valeur n'est en surbrillance et je ne sais pas rentrer de caractère.
+donc je ne sais pas faire de transaction, mes bitcoins sont bloqués.
+Voici 4 mois que j’ai contacté le service technique via mail après un bref échange de mail où ils m ont demandé de leurs envoyer mes logs extraits de mon ledger wallet, Je n’ai plus eu de nouvelles. Je les aie relancé plusieurs fois par mail mais jamais de reponse de la société ledger.
+Il est impossible de rentrer en contact avec la société ledger autrement que par mail. Les messages sur Facebook ils ne les reçoivent pas. Sur Twitter on sait pas leur envoyer un message. Ici nous sommes la première semaine de janvier je commence à téléphoner sur le numéro que j ai trouvé dans les pages jaunes. Jamais de réponse. Je lache pas l affaires je vais sonner tout les jours! J’ai aussi recherché le nom de personne qui travaille pour la société, aucune de ses personnes n’est joignable via réseaux sociaux (LinkedIn, Facebook, Twitter, mail) On dirait que tout est cadenassé! Je pense à me rendre a leur bureau à Paris. Mais habitant à l étrangers je devrait venir sur mes congé sans aucune assurance que cella ferai avancé mon dossier.
+Je possède aussi un ledger wallet nano s où je ne stock plus de cryptomonaie car je n’ai plus confiance au produit de la société Ledger Wallet.
+Je ne trouve aucun cas similaire sur le web. Je suis complètement désespéré car je ne sais plus quoi faire ni vers qui me retourner. J ai aussi contacté la maison du bitcoin qui ont ete très gentil mais n’ont pas su m’aider. J’espère que la communauté sera m'aider
+submitted by apoiid to BitcoinFrance [link] [comments]
+Reçu une tentative de chantage avec mon email/vieux mdp
+Je voulais juste partager vite fait une histoire de cybersécurité qui m'a bien fait stresser pendant 5 minutes...
+J'ai reçu ceci pendant la nuit:
+sujet: vieux mot de passe [ça fait flipper quand même au départ]
+I know ( Password)is one of your password on day of hack..
+Lets get directly to the point.
+Not one person has paid me to check about you.
+You do not know me and you're probably thinking why you are getting this email?
+in fact, i actually placed a malware on the adult vids (adult porn) website and you know what, you visited this site to experience fun (you know what i mean).
+When you were viewing videos, your browser started out operating as a RDP having a key logger which provided me with accessibility to your display and web cam.
+immediately after that, my malware obtained every one of your contacts from your Messenger, FB, as well as email account.
+after that i created a double-screen video. 1st part shows the video you were viewing (you have a nice taste omg), and 2nd part displays the recording of your cam, and its you.
+Best solution would be to pay me $1xxx.
+We are going to refer to it as a donation. in this situation, i most certainly will without delay remove your video.
+My -BTC -address: xxxxx
+[case SeNSiTiVe, copy & paste it]
+You could go on your life like this never happened and you will not ever hear back again from me.
+You'll make the payment via Bitcoin (if you do not know this, search 'how to buy bitcoin' in Google).
+if you are planning on going to the law, surely, this e-mail can not be traced back to me, because it's hacked too.
+I have taken care of my actions. i am not looking to ask you for a lot, i simply want to be paid.
+if i do not receive the bitcoin;, i definitely will send out your video recording to all of your contacts including friends and family, co-workers, and so on.
+Nevertheless, if i do get paid, i will destroy the recording immediately.
+If you need proof, reply with Yeah then i will send out your video recording to your 8 friends.
+it's a nonnegotiable offer and thus please don't waste mine time & yours by replying to this message.
+Le temps de ressortir un PC non vérolé et de googler "malware blackmail threat", le premier résultat google est:
+https://www.consumer.ftc.gov/blog/2020/04/scam-emails-demand-bitcoin-threaten-blackmail
+C'est donc une tentative très commune, et pas personnalisée. Ouf !
+Ceci étant:
+1/ A qui envoyer une copie du message pour signalement ? 2/ Je vais en profiter pour dé-véroler mes machines (windows 10). Quel meilleur site/app pour ce faire ?
+3/ on ne le rappellera jamais assez les gens: mdp aléatoire unique pour chaque site important + machin truc SMS de signalement de nouvelle connexion systématique (je sais plus le nom)
+submitted by RedditTipiak to france [link] [comments]
+Le stable coin USDC débarque au sein de la blockchain BSV et s'envoie avec les frais les plus faibles du marché, en moyenne 0.0007€ par transaction
+RelayX, un des portefeuilles BitcoinSV les plus populaires, vient d'ajouter l'USDC en tant que token de dollar américain sur BitcoinSV soutenu 1 à 1 par l'USDC (ERC20). Pour commencer, les utilisateurs peuvent s'inscrire à ce service en convertissant leurs BSV pour des USDC. Ils peuvent ensuite envoyer leurs USDC avec les frais les plus faibles du marché, en moyenne 0.0007€ par transaction grâce à la blockchain BSV !
+L'USDC-SV est émis sur le protocole de smartcontracts de la blockchain BSV. Le développement de protocoles de jetons sur BSV s'accélère rapidement, y compris RUN, Tokenized, sCrypt, Bayesian, Elas, Bitcoin Computer, et plus encore avec l'innovation au niveau de la couche 2 mais aussi de la couche 1.
+Le lancement de l'USDC-SV est une étape majeure en tant que premier jeton ouvert et accessible au public sur Bitcoin SV. Largement considéré par la communauté crypto en général comme une impossibilité, nous pensons que c'est le début d'une explosion de jetons sur Bitcoin. Une pièce stable a longtemps été souhaitée par de nombreuses applications et utilisateurs de l'écosystème BSV pour des cas d'utilisation tels que les médias sociaux, les jeux, le trading, les services financiers, etc.
+RelayX lance aussi un Échange BSV / USDC-SV
+Parallèlement à la sortie de l'USDC-SV, RelayX lance également des swaps bidirectionnels BSV / USDC-SV, permettant à quiconque d'échanger quasi-instantanément entre les deux cryptomonnaies sur la blockchain BSV.
+Le trading BSV / USDC-SV permet aux commerçants, aux entreprises et aux utilisateurs de couvrir le risque de fluctuation du prix du BSV en échangeant instantanément leurs BSV contre des USDC sans jamais quitter Bitcoin. La négociation de BSV ne sera plus limitée à des échanges centralisés, souvent avec des délais de confirmation de bloc extrêmement conservateurs de 20 ou plus pour les dépôts et les retraits.
+Plus intéressant encore, on peut imaginer un avenir où la devise que vous utilisez sur les applications Bitcoin comme Twetch ou Streamanity ne devient qu'un paramètre. Un spectateur pourrait verser 10 cents en USDC, tandis que le créateur de contenu reçoit les fonds sous forme de BSV.
+L'USDC (ERC20) - émis par Circle et Coinbase, est le stablecoin à la croissance la plus rapide, soutenu par des centaines de sociétés fintech dans leurs produits et services. L'USDC a enregistré plus de 50 milliards de dollars de volume de transactions et de règlements sur les blockchains publiques. Ces derniers mois, en raison de l'augmentation de la demande mondiale de dollars numériques, l'USDC a connu une croissance significative, avec une augmentation de plus de 200% de l'USDC en circulation par rapport aux niveaux pré-pandémiques, avec plus de 2,2 milliards de dollars en circulation. Mais l'explosion des frais Ethereum à rendu son utilisation couteuse.
+À propos de RelayX
+Un Superwallet Bitcoin SV permettant aux consommateurs, aux développeurs et aux entreprises d'accéder à la blockchain. RelayX est utilisé par des milliers de personnes dans le monde et intégré aux principales applications Bitcoin SV, notamment Twetch, Streamanity, Baemail, Dimely, ShaWars, BitPic et bien d'autres.
+Si vous vous sentez prêt à faire le premier pas dans le futur, rejoignez nous et tester les meilleurs applications du Metanet sur https://metastore.app/apps?sort=money
+Le site le plus populaire du Metanet à ce jour est Twetch une version de twitter incensurable sur la blockchain, allez jeter un oeil !
+_______________
+image : https://imgur.com/a/FaSqUfO
+submitted by zhell_ to BitcoinSVFrance [link] [comments]
+Voici LA chronique à découvrir, intitulée: La guerre contre Bitcoin. Idéal pour comprendre certains tenants et aboutissants
+Voici LA chronique à découvrir, intitulée: La guerre contre Bitcoin. Idéal pour comprendre certains tenants et aboutissants… Bonne découverte.
+La guerre contre Bitcoin
+Bitcoin est peut-être le meilleur outil de liberté économique de cette génération, et peut-être depuis plusieurs générations. Malheureusement, Bitcoin a été furieusement étouffé par une guerre civile brutale depuis environ cinq ans maintenant; menée par des ingénieurs sociaux professionnels de certaines des entreprises les plus puissantes de l'espace des médias sociaux. Leur talent dans l'art et la science de la manipulation a permis aux "Bitcoiners" de se battre largement entre eux plutôt que de chercher à créer des modèles commerciaux innovants basés sur les données qui pourraient révolutionner l'économie mondiale via Bitcoin.
+À la suite de la guerre civile de Bitcoin, trois versions concurrentes de Bitcoin ont vu le jour (BTC, BCH et Bitcoin SV ), mais il en est de même pour environ 3000 autres projets et jetons de « crypto-monnaie » se faisant passer pour des entreprises légitimes - jusqu'à un "exit scam" presque garantie, le fait de disparaitre du jour au lendemain avec tout l'argent des utilisateurs. Le principal bienfaiteur de la guerre civile Bitcoin a été Ethereum: une machine à états mondiale qui permet un déploiement facile de tokens et de contrats intelligents, mais le protocole Ethereum ne peut pas évoluer, et parmis les milliers de projets lancés, seule une poignée pourrait même être présentée comme avoir les ingrédients nécessaires pour devenir des entreprises légitimes. La plupart des autres sont des stratagèmes de Ponzi ou des émissions d'actions illégales - enrichissant les développeurs et escroquant les investisseurs amateurs.
+C'est dans ce contexte que les défenseurs de BTC et de BCH, les porte-parole d'Ethereum et les altcoiners de tous bords s'alignent pour attaquer sans cesse le protocole Bitcoin préservé uniquement par le réseau BSV. Une industrie composée presque entièrement de criminels, de fraudes et d'arnaqueurs s'est unie contre BSV citant (et c'est là l'ironie) une prétendue fraude et arnaque présumée qui est l'existence même de BSV.
+Nous devons nous demander pourquoi ?
+Quel est le différenciateur clé de BSV?
+Pourquoi tous les arnaqueurs se sont-ils unis contre lui?
+Je suis fermement convaincu que pour la plupart, la motivation est la peur de la capacité de BSV à absorber l'économie mondiale et tous les autres projets «crypto» qui vont avec. Pour les autres, ou ceux qui ne comprennent pas le pouvoir du Bitcoin, ils sont entraînés dans une guerre culturelle qu'ils ne comprennent pas. Il est essentiel de comprendre les pouvoirs en jeu et leurs implications pour Bitcoin et l'économie mondiale.
+Une histoire brève
+Bitcoin a été lancé avec un "livre blanc" sur la liste de diffusion de cryptographie en 2008. Le pseudonyme « Satoshi Nakamoto » a déclaré une solution au problème de la double dépense. Or le problème de la double dépense de tous les précédents systèmes de paiement électronique était le seul facteur limitant l'adoption d'une monnaie électronique fonctionnelle. Il était impossible de prouver exactement qui possédait quelles unités d'argent sur leurs registres distribués, de sorte que les systèmes ne pouvaient pas faire confiance, et ces projets mourraient assez vite. Bitcoin a résolu ce problème avec un concept appelé « preuve de travail». Il poste la question: qui a brûlé le plus de puissance de calcul pour résoudre des énigmes arbitraires afin de rendre compte de l'état du registre d'une manière qui coûte de l'argent, de sorte qu'il y ait une incitation économique à tenir un compte honnête des avoirs de chacun. Ce processus est souvent appelé « exploitation minière » car les nœuds honnêtes qui maintiennent l'état du registre sont récompensés pour leur travail avec des Bitcoins toutes les dix minutes - un peu à la même manière d'un mineur d'or qui est récompensé par de l'or en échange de son travail.
+Étant donné que Bitcoin n'avait aucune valeur lors de son lancement, il était extrêmement facile à miner et également gratuit d'envoyer des tonnes de transactions. En théorie, il s'agissait d'un vecteur d'attaque par déni de service (DoS). Une attaque DoS ou DDoS se produit lorsque les nœuds sont inondés de plus de données qu'ils ne peuvent en gérer et qu'ils plantent. Sur un jeune réseau Bitcoin, un crash comme celui-ci aurait été considéré comme un échec du réseau, donc un plafond de 1 Mo de données pour chaque dix minutes de temps de transaction a été codé en dur dans le logiciel - semant la première graine de la guerre civile Bitcoin . De 2009 à 2017, cette limite de 1 Mo sur le total des transactions était l'aspect technique le plus controversé du bitcoin.
+Pourquoi est-ce important?
+Une seule et simple transaction Bitcoin est relativement petite du point de vue des données, donc 1 Mo toutes les dix minutes donne environ trois à sept transactions par seconde avant que le réseau ne devienne trop encombré. Satoshi Nakamoto a plaidé pour un nombre de transactions au niveau de Visa, ainsi que son successeur direct en tant que développeur principal du projet, Gavin Andresen! Certains des premiers Bitcoiners influents comme Mike Hearn et Jeff Garzik ont ​​également plaidé pour plus de données par bloc pour permettre à Bitcoin de se développer pour rester un simple système de paiement électronique. Ils étaient pour des «gros blocs» contrairement au camp des «petits blocs» qui préconisaient une permanence de la limitation de 1 Mo de Bitcoin.
+Le camp des "petits blocs" estiment que Bitcoin n'est pas un réseau de paiement, mais plutôt qu'il s'apparente davantage à une banque décentralisée conçue pour stocker des Bitcoins qui ne bougent jamais: une sorte de coffre-fort d'or numérique. Ils voulaient que la limite de taille des blocs de 1 Mo reste permanente sous les auspices de chaque personne exécutant un «nœud bitcoin complet» sans avoir à payer trop d'espace sur le disque dur. Cela signifierait qu'en période de congestion, les frais de transaction deviendraient absurdement élevés, mais cela n'aurait pas d'importance car le bitcoin ne devrait pas être négocié sauf en grosses quantitées de toute façon. L'autre problème est que s'il est bon marché de rejoindre la gouvernance de Bitcoin, alors le réseau est facile à attaquer par sybil, et je dirais que BTC est régi par des sybilles à ce jour.
+Le camp des "gros-blocs" estime que tout le monde sur terre devrait être en mesure d'échanger et de faire ses affaires sur Bitcoin.
+Les "petits-blocs" pensent que tout le monde devrait être en mesure de gérer soi-même le registre mondial chez soi, mais que seules certaines personnes très riches devraient pouvoir effectuer des transactions.
+Après des années de querelles, en 2017, Bitcoin s'est scindé en deux chaînes distinctes, et en 2018, il s'est à nouveau divisé.
+Alors quelle est la différence entre ces versions ?
+BTC est actuellement la version qui a le prix le plus élevé, avec la plus petite taille de bloc et la plus grande puissance de calcul. Malheureusement, il est régi par des développeurs de logiciels et des sybilles qui contrôlent le consensus grâce à une utilisation intelligente de logiciels malveillants appelés «soft-fork» qui leur permet de saper les règles du Bitcoin. Ils utilisent ce pouvoir pour changer les règles des transactions en mentant aux nœuds et en leur disant de les valider quand même. Toute la culture BTC consiste à acheter du BTC afin de le conserver jusqu'à un moment dans le futur où il sera vendu. Les paiements avec BTC ou les transactions de toute nature sont méprisés.
+BCH est un réseau basé sur Bitcoin qui pense que les blocs devraient être à peine légèrement plus grands, mais ils ont également des développeurs en charge des règles, tout comme BTC, et ils pensent que Bitcoin devrait être catégorisé pour être utilisé uniquement pour le commerce de détail, mais rien de plus. Le réseau change de règles tous les six mois. Les transactions non commerciales sont en général méprisées.
+BSV est la version restaurée du protocole Bitcoin original avec tous les paramètres ouverts afin que les nœuds honnêtes puissent s'engager dans un consensus conformément au livre blanc de Bitcoin - par preuve de travail ! Le protocole est gravé dans la pierre afin que les développeurs de logiciels ne puissent pas bricoler les règles. Cela permet aux entreprises de planifier des décennies d'utilisation du réseau et d'investir en toute confiance. En tant que seul réseau bitcoin totalement sans autorisation, le commerce de toute nature est encouragé sur BSV. Tout, allant des réseaux sociaux aux expériences de science des données météorologiques ou aux tests de disponibilité du réseau, est encouragé. Paiements de détail, tokenisation, ou tout autre type de contrat intelligent est simple à déployer sans limitations. Bitcoin SV n'a aucun limite sauf l'esprit humain et l'esprit d'entreprise.
+Et c'est la racine de la haine envers BSV.
+Les "petits-blocs" ont investi toute leur réputation et leurs moyens de subsistance sur la notion que le bitcoin est incapable de s'adapter. Pendant des années, des experts présumés ont convaincu de nombreuses personnes que les limites de taille de bloc de 2 Mo, 8 Mo ou 22 Mo casseraient littéralement Bitcoin. Ils ont furieusement mis en jeux leur réputation sur ces fausses notions. Et ensuite, BSV a eu de nombreux blocs de plus de 100 Mo. En fait, il y en a même eu quelques-uns de plus de 300 Mo! prouvant que les petits-blocs se trompent sur les limites du réseau. Mais cette prise de conscience est une menace pour l'hégémonie du récit de Bitcoin. Depuis 2015, lorsque le Dr Craig Wright est apparu sur les lieux pour expliquer que le bitcoin avait en réalité ZERO limitations, il a créé un tollé massif parmi l'intelligentsia des petits-blocs. Les leaders d'opinion de l'époque étaient payés pour prendre la parole lors de conférences où ils expliquaient à tort que Bitcoin n'était rien d'autre qu'une réserve de valeur rare sans autre utilité. Le Dr Wright parlait de l'échelle illimitée du réseau, de son exhaustivité de Turing et d'autres notions inconcevables (à l'époque) sur Bitcoin. Sa passion et ses connaissances se sont heurtées à des calomnies et des railleries. Ils se sont concentrés sur l'attaque de son personnage au lieu de discuter de Bitcoin!
+C'est devenu l'une des principales méthodes d'attaque des petits-blocs. Lorsque de gros-blocs parlent des capacités de Bitcoin, ils sont ridiculisés en tant qu'escrocs et le sujet est toujours dirigé très loin de la discussion technique, car les petits-blocs savent bien qu'ils sortiraient perdants. Ils fouillent les dossiers personnels et cherchent des moyens de faire taire les gens du camp des grands-blocs de Bitcoin de la même manière que les guerriers de la justice sociale s'engagent dans la culture d'annulation contre leurs ennemis politiques.
+Qui est le Dr Craig Wright et que fait-il?
+Si vous ne le savez pas, Craig Wright est le scientifique en chef d'une société de recherche sur Bitcoin au Royaume-Uni appelée nChain : une société de 150 à 200 informaticiens. Craig dirige l'équipe qui étudie les possibilités de Bitcoin et de ses applications dans le monde. Il est l'un des experts en criminalité numérique les plus reconnus au monde avec les certifications SANS et GIAC ainsi que les titres GSE CISSP, CISA, CISM, CCE, GCFA, GLEG, GREM et GSPA. En outre, il est un polymathe multidisciplinaire de troisième cycle: un doctorat en informatique, économie et théologie et titulaire d'une maîtrise en statistique et en droit commercial international.
+En 2015, il a également été exposé par une publication conjointe de WIRED et Gizmodo en tant que Satoshi Nakamoto, le créateur de Bitcoin. Quelques jours après cette révélation, les gens qui le soutenaient ont vu leurs clés d'accès au code révoquées, et de nombreux autres ont été instantanément bannis. Craig a été mis sous enquête par le bureau des impôts australien pour ce qu'il considérait être une erreur de comptabilisation probable de ses bitcoins. Les retombées ont été agressives et rapides, avec une gigantesque armée de petits-blocs, organisée sur Reddit et autres forums, et nouvellement financée par l'argent de la startup pro-petits-blocs appelée «Blockstream». Leur message était clair: Bitcoin doit garder de petits blocs. Le Bitcoin ne peut pas évoluer, et toute personne proche de Craig Wright sera harcelée pour se conformer à une armée de comptes Twitter anonymes et sans visage.
+Au cours des années suivantes, Ira Kleiman, frère du défunt Dave Kleiman, a poursuivi Craig Wright pour sa part du prétendu «Partenariat Satoshi Nakamoto», affirmant que Dave était plus impliqué qu'il ne l'était réellement, et l'affaire est en cours actuellement, jusqu'à courant 2021. Ira Kleiman pense que Craig est Satoshi et a investi une fortune incalculable et a obtenu l'argent d'investisseurs extérieurs pour poursuivre sa poursuite. Il est clair que les bailleurs de fonds d'Ira pensent que Craig est également Satoshi.
+Les critiques qualifient souvent la révélation publique et le procès public de Wright de ternir énormément sa réputation, mais il convient de noter que les deux sont arrivés à Wright et qu'il ne souhaitait clairement pas être pris dans l'une ou l'autre situation.
+Au lieu de cela, Craig est un défenseur passionné de la vision d'un Bitcoin avec de gros blocs, appelant à la professionnalisation, à la légalisation et à l'utilisation mondiales de Bitcoin pour une utilisation à tous les niveaux du commerce. La réponse à la passion de Craig et à ses affirmations a été d'attaquer sa réputation et d'endosser Internet avec le surnom de «Faketoshi». Lorsque de simples brimades ont échoué contre le Dr Wright, des attaques ont été intensifiées pour remettre en question ses divers diplômes, des pétitions aux universités pour enquêter sur lui pour plagiat dans divers travaux, y compris des thèses de doctorat, etc. Wright a même revendiqué des menaces contre la vie des membres de sa famille et il y a plus qu'une petite preuve que, selon Ian Grigg, une des légendes de la cryptographie: «des gens sont morts pour Bitcoin, vraiment, des gens sont morts».
+Les attaques en cours
+Cela ne peut être assez souligné: la communauté des petits-blocs est construite autour de tactiques d'ingénierie sociale professionnelle. Gregory Maxwell, co-fondateur de la société Blockstream, a été formé à la pratique de l'ingénierie sociale et l'a utilisé de manière si subversive comme un outil de propagande pendant son mandat en tant que modérateur rémunéré de Wikipedia, qu'il a finalement été démis de ses fonctions avec les journaux d'administration citant une litanie d'infractions, notamment:
+«Gmaxwell s'est engagé dans la création de faux comptes en masse…» - Alhutch 00:05, 23 janvier 2006 (UTC)
+«Menaces, insultes grossières, usurpations d'identité d'un administrateur», -Husnock 03:18, 25 janvier 2006 (UTC)
+«Son comportement est scandaleux. Franchement, il est hors de contrôle à ce stade. Son comportement d'intimidation doit cesser.» - FearÉIREANN 19:36, 22 janvier 2006 (UTC)
+«Sa liste de contributions est hors de propos. C'est du vandalisme. C'est un comportement auquel je m'attendrais d'un éditeur en furie, ce que, franchement, Gmaxwell est.» - Splashtalk 20h00, 22 janvier 2006 (UTC)
+«Prétend être un administrateur, menaçant de bloquer les personnes qui ne sont pas d'accord avec lui, fait régulièrement des attaques personnelles» - SlimVirgin (talk) 12h22, 22 janvier 2006 (UTC)
+Il passe beaucoup de temps sur Reddit et d'autres forums à semer la peur sur les dangers des gros blocs, et il a été surpris en train de faire semblant d'être plusieurs comptes à la fois en train d'avoir de très longues discussions techniques sur Reddit destinées à submerger les nouveaux arrivants avec ce qui ressemble à un débat intellectuel.
+Qui d'autre est attaqué?
+L'autre cible commune de la machine de guerre anti-BSV est Calvin Ayre: le milliardaire à la tête de l'empire du groupe Ayre. Calvin est un entrepreneur canadien et antiguais qui a lancé un incubateur Internet à Vancouver au tout début du boom Internet. Fils d'un éleveur de porcs, Ayre est surtout connu en dehors de l'économie Bitcoin pour la création et la professionnalisation de l'industrie du jeu d'argent sur Internet. Plus particulièrement, sous la marque Bodog, Ayre a aidé à moderniser les lois financières américaines compliquées et obsolètes en poussant les limites dans les marchés gris qui existent où les dollars américains sont utilisés à travers les frontières pour s'engager dans un commerce juridiquement compliqué comme le jeu d'argent. Son travail dans ce domaine lui a valu une petite fortune et un passage sur une liste des «plus recherchés» pour blanchiment d'argent. C'est un point sur lequel les petits-blocs aiment se concentrer, mais ils le sortent complètement de son contexte. Calvin a finalement plaidé coupable à une accusation de délit, mais a été le fer de lance de la modernisation des lois et règlements américains qui existent aujourd'hui sur les marchés complètement ouverts et fonctionnels. Il est respecté pour son travail dans l'industrie du jeu, les médias et la philanthropie. Calvin est certainement le bienvenu aux États-Unis malgré la critique souvent citée et dépassée selon laquelle il est une sorte de hors-la-loi.
+Calvin Ayre
+Dans l'économie Bitcoin, Ayre est une figure de proue dans la gestion de nœuds Bitcoin honnêtes pendant plusieurs années sous les marques CoinGeek et TAAL, et il est un investisseur dans nChain ainsi que plusieurs startups dans l'espace BSV. Bien qu'il soit probablement le plus gros investisseur, il n'est pas le monolithe que les petits-blocs laisseraient croire aux critiques. Il est important de comprendre que des segments entiers de l'écosystème BSV existent complètement en dehors de son influence.
+Twetch, par exemple, est une entreprise indépendante appartenant à l'écosystème BSV, célèbre pour ses attaques contre les médias sociaux centralisés. Ils sont même connus pour se moquer des entreprises qui acceptent l'argent d'Ayre, en plaisantant que Calvin possède tout sauf Twetch. Bien sûr, ce n'est pas vrai. Un autre excellent exemple est l'investisseur / entrepreneur indépendant Jack Liu : ancien dirigeant de Circle et OKEX. Liu possède la marque de hackathons CambrianSV ainsi que des propriétés précieuses dans l'espace BSV telles que RelayX, Streamanity, Output Capital, FloatSV et Dimely.
+Les autres acteurs clés sont MatterPool Mining et leur écosystème Mattercloud: une joint-venture entre des acteurs indépendants de l'écosystème BSV, avec des connexions directes aux protocoles BoostPOW et 21e8 et des relations avec des développeurs BSV indépendants.
+Bien sûr, il existe également des marques précieuses financées par Ayre. Il s'agit notamment de la propriété partielle via l'investissement dans HandCash, Centi, TonicPow et Unwriter's Planaria Corp.
+Une autre mesure importante à prendre en compte est la distribution de la puissance de hachage. Alors qu'à un moment de l'histoire, les entreprises appartenant à Ayre représentent une quantité importante de hachage sur bitcoin, BSV est aujourd'hui en grande partie exploité par des mineurs concurrents de Binance, F2Pool, OKEX et ViaBTC - dont aucun n'est «ami» de BSV ou d'Ayre, mais beaucoup sont ennemis. Ces mineurs soulignent cependant la nature ouverte et sans permission de BSV pour permettre à quiconque de participer.
+Ayre est un acteur important, mais en aucun cas un contrôleur de la direction de la blockchain ou des entreprises indépendantes dans l'économie BSV.
+Mais pourquoi Craig poursuit-il tout le monde en justice ?
+Tout d'abord, et c'est crucial, le procès le plus important de Craig est l'affaire Kleiman. Les autres cas existent uniquement à cause de la diffamation publique du Dr Wright. Le hashtag #CraigWrightIsAFraud circule largement, poussé en grande partie par un mélange de personnages anonymes sur Twitter. Plus particulièrement Magnus Granath AKA «Hodlonaut» a été averti qu'une accusation publique de fraude courait à son encontre. La carrière du Dr Wright est en informatique et en criminalistique numérique, donc le déclarer publiquement une fraude cause un préjudice financier au Dr Wright dans son domaine d'expertise commerciale. Puisque «Hodlnaut» a refusé de cesser, on lui a envoyer une requête pour être vu au tribunal. Cela a causé le célèbre podcasteur de petits-blocs Peter McCormack à mendier d'être poursuivi aussi - en augmentant la rhétorique diffamatoire contre le Dr Wright. À la demande de McCormack, il a lui aussi été attaqué en justice pour être vu au tribunal.
+Cette ère de service a engendré la campagne #DelistBSV menée en grande partie par «CZ», le PDG charismatique de Binance Exchange. Divers autres échanges comme Shapeshift et Kraken ont publié des sondages publics demandant s'ils devaient emboîter le pas, et des petits-blocs bien organisés ont voté en masse pour retirer BSV de leurs échanges - citant la toxicité du Dr Wright pour avoir intenté des poursuites en diffamation contre Hodlonaut et McCormack. Finalement, BSV a été retiré de Binance, ShapeShift et Kraken. Il a également été noté publiquement par Coinbase et Gemini qu'ils ne soutiendraient pas du tout cette version de bitcoin à la suite du drame public.
+Au fur et à mesure que les choses progressaient, le fondateur de Bitcoin.com, Roger Ver, a également réalisé une vidéo publique déclarant Wright comme arnaqueur. C'était après avoir travaillé sournoisement avec les développeurs Bitcoin ABC pour coder des points de contrôle dans le logiciel ABC de Bitcoin Cash, divisant de manière permanente le réseau Bitcoin pour la deuxième et dernière fois - un acte pour lequel Roger est également poursuivi par d'autres parties privées en Floride. Roger Ver a été averti que des problèmes juridiques similaires se présenteraient à sa porte pour avoir diffamé le Dr Wright, mais les critiques publiques ont persisté jusqu'à ce que Roger soit également entendu devant le tribunal et fournisse la preuve de la fraude de Wright, sous peine de sanctions pour diffamation publique. Son cas est en instance à Antigua-et-Barbuda, où il est récemment devenu citoyen.
+Et ensuite il se passe quoi ?
+Nous avons établi l'histoire du Bitcoin, de la guerre civile, des attaques publiques contre Wright, Ayre et BSV. Au moment d'écrire ces lignes, nous pouvons revenir sur les attaques contre Thomas Lee, Tim Draper et Jimmy Wales pour avoir eu une proximité avec BSV. Malgré la pression sociale, le rapport Fundstrat de Lee a rendu un examen élogieux du protocole fixe et de l'évolutivité infinie de BSV. Lee et son équipe étaient heureux de prendre la parole lors des événements précédents de CoinGeek, même après le tollé public.
+Pour la conférence CoinGeek 2020 à New York, McCormack, Hodlonaut, « Arthur Van Pelt » et d'autres acteurs tels que le Dan Held de Kraken et une cacophonie de trolls anonymes sur Twitter ont mis à profit leur expérience de la culture d'annulation à la bolchevique pour faire pression sur les orateurs Gary Vaynerchuk , et d'autres orateurs prévus afin de les forcer à annuler leur participation à la conférence. Cette attaque sociale contre BSV, Dr. Wright, Ayre et les autres entreprises qui utilisent le réseau BSV pourrait être un cas gigantesque de fraude à la consommation. Ils trompent activement les gens en leur faisant croire que le protocole fixe et l'évolutivité infinie de Bitcoin SV sont en quelque sorte dangereux, alors qu'en fait, le protocole et le réseau sont imperméables à toutes les attaques, à l'exception de leur ingénierie sociale.
+Bitcoin SV s'est développé professionnellement avec un portefeuille de brevets de classe mondiale. Il est utilisé par des entreprises indépendantes pour réaliser des profits et il est exploité sur le marché libre par un groupe décentralisé de nœuds honnêtes qui se font concurrence. Le réseau est fixe, sécurisé et en croissance grâce aux investissements de petites entreprises et de gestionnaires de capitaux mondiaux. Les mensonges au contraire sont basés sur une campagne massive de dénigrement perpétrée par les communautés d'autres cryptomonnaie qui craignent l'adoption mondiale de BSV comme outil de commerce et ce que cela signifiera pour eux. L'histoire ne sera pas gentille avec ces manipulateurs et leurs réseaux qui sont financés par les fraudes probables des échanges de crypto-monnaies off-shore, le (très probablement) frauduleux Tether Stablecoin, et l'économie de "pump-and-dump" qui sous-tend 95% du volume de négociation de l'ensemble de l'économie cryptomonnaie actuelle.
+C'est une guerre civile. Il y aura toujours des victimes, mais alors que BTC et BCH se concentrent sur les ragots et les affaires illicites, BSV veut que le monde entier soit plus libre, plus souverain et plus capable de coopérer sur le registre mondial de la vérité afin que les entrepreneurs du monde puissent s'engager dans les grandes entreprises ou de simples nano-services sont rendus possibles uniquement par Bitcoin. Bitcoin est un test d'intelligence. Au fil du temps, les personnes intelligentes pourront voir à travers le brouillard de distorsion de la réalité créé pour confondre les innocents et reconnaître cela pour ce que c'est, une attaque coordonnée pour tenter de supprimer une technologie supérieure qui les rendrait obsolètes.
+​
+Des exemples d'applications Bitcoin que vous pouvez essayer dès aujourd'hui gratuitement ?
+Si vous vous sentez prêt à faire le premier pas dans le futur vous êtes libres de tester les meilleurs applications du Metanet sur https://metastore.app/apps?sort=money
+Le site le plus populaire du Metanet à ce jour est bit.ly/twetchapp, une version de twitter incensurable sur la blockchain, allez jeter un oeil !
+​
+_______________________
+sources: traduit et inspiré de https://coingeek.com/the-war-on-bitcoin/
+image : https://imgur.com/1Yb0Yle
+submitted by zhell_ to BitcoinSVFrance [link] [comments]
+Nasdaq.com: Twetch lance la messagerie cryptée avec paiements directement dans le chat sur la blockchain BSV
+Twetch, un réseau social basé sur les micropaiements qui fonctionne sur la blockchain Bitcoin SV, a introduit une fonction de messagerie cryptée qui permet aux utilisateurs de s'envoyer de l'argent directement dans le chat.
+Sorti mercredi, Twetch Chat ajoute une couche de confidentialité et de sécurité à l'alternative à Twitter et s'inscrit dans la tendance vers des communications plus privées qui ont été un point central des entreprises ces dernières années. La contrepartie est que vous avez besoin d'un portefeuille de cryptomonnaie pour profiter de la fonctionnalité, qui servira à gérer les clés de chiffrements de vos messages ainsi qu'a envoyer et recevoir vos bitcoins.
+"Contrairement aux services Internet existants, Twetch décharge la gestion des clés sur le compte de l'utilisateur, qui est un portefeuille Bitcoin SV" a déclaré Josh Petty le PDG de Twetch dans un communiqué. "C'est une étape vers la rupture du monopole qu'on les GAFA sur nos données"
+Pour utiliser Twetch, vous avez besoin d'un portefeuille Moneybutton ou RelayX pour stocker et envoyer des BSV. Moneybutton et Relayx utilisent tous deux le protocole PayMail, qui crée un identifiant de type e-mail comme [[email protected]](mailto:[email protected]) au lieu de la chaîne de chiffres et de caractères généralement associée à un portefeuille bitcoin. Lors de la configuration d'un compte Twetch, le service génère de manière aléatoire une phrase de 12 mots associée à la clé publique de chaque portefeuille unique. Cette phrase est ensuite chiffrée et stockée dans la base de données de Twetch. Chaque fois que vous souhaitez vous connecter, vous déchiffrer la graine pour prouver votre identité et y accéder.
+La norme de cryptage AES utilise la même clé pour crypter et décrypter. Ainsi, lorsque vous souhaitez discuter sur Twetch, l'initiateur du chat crée un chiffrement AES, ou code, pour le chat. Ce chiffrement est ensuite utilisé par les deux participants pour envoyer et lire des messages chiffrés, et même Twetch ne peut pas les lire!
+Le chiffrement lui-même est chiffré par la graine / clé de l'utilisateur et stocké par Twetch dans ses serveurs afin que l'utilisateur puisse le déchiffrer plus tard, et seuls les participants au chat peuvent lire et envoyer des messages.
+Pour illustrer, lorsque vous souhaitez discuter, vous trouvez la personne avec laquelle vous souhaitez communiquer et convenez d'une pièce dans la maison. La personne qui initie le chat crée un verrou et une clé spéciaux à partir de sa clé et de celle de son partenaire, de sorte que personne d'autre que lui ne peut entrer dans la pièce et donc dans la conversation.
+Twetch Chat est destiné à être utilisé pour les affaires ainsi que pour les interactions sociales. Dans le chat, les utilisateurs peuvent négocier des accords en privé et se payer dans le cadre de la même interaction, sans jamais quitter le chat. On utilise pour cela simplement la commande "/pay".
+"La messagerie est une fonctionnalité clé pour tout réseau social", explique Josh Petty. «La plupart des applications que les gens utilisent actuellement ne sont pas chiffrées et encore moins vous donnent accès aux données comme nous le faisons. Nous définissons aujourd'hui la norme de fonctionnement de toutes les applications de demain: une sécurité solide et une monnaie fiable intégrés par défaut.»
+Vous êtes libres d'essayer Twetch dès maintenant, tant qu'il reste des invitations sur ce lien: https://twet.ch/inv/zhell
+_____________
+article NASDAQ: https://www.nasdaq.com/articles/twetch-launches-encrypted-messaging-in-chat-payments-on-bsv-blockchain-2020-09-09
+illustration: https://imgur.com/a/NrXWmLO
+submitted by zhell_ to BitcoinSVFrance [link] [comments]
+Dans une conférence en ligne, le gouverneur de la banque centrale britannique (BoE) Andrew Bailey s’est livré à l’exercice d'un discours anti-Bitcoin mais pro-stablecoin
+Aujourd'hui le gouverneur de la banque centrale d’Angleterre s’est livré à l’exercice d'un discours anti-Bitcoin mais pro-stablecoin, c'est-à-dire en faveur des monnaies d'états numériques.
+Evidemment les stablecoins n'amélioreraient pas du tout la situation actuelle en encourageant la disparition du cash en faveur d'une monnaie encore plus facile à contrôler et tracer par des entités constituant un point de défaillance centralisé.
+Mais surtout cela révèle une faille majeure dans la stratégie de la version de Bitcoin la plus connue à ce jour nommée BTC: il faut arrêter de croire que les gouvernements vont accepter Bitcoin comme monnaie aussi facilement! Cette approche était déjà morte et c'était prévisible depuis le début.
+Le seul moyen d'assurer l'adoption c'est de construire une utilité massive et non monétaire qui le rend impossible à interdire comme monnaie par la suite. Des sites comme bit.ly/baemail ou bit.ly/twetchapp, dont je parle plus bas et régulièrement sur cette page.
+COMMENT EN EST-ON ARRIVÉ LÀ ?
+Bitcoin a été conçu dès le début avec la capacité d'inclure des données (jusqu'à 4 gigas par transaction!) et un langage de programmation propre permettant de coder un nombre infini d'applications. De plus peu de gens savent que le code original de Bitcoin contenait une place de marché et un client de poker, montrant bien l'objectif de l'utiliser comme base pour des applications dans l'économie numérique!
+Aujourd'hui la version la plus connue, nommée BTC, a abandonné ces objectifs en limitant volontairement la capacité du réseau à 3 transactions par seconde, en retirant la capacité d'inclure des données dans les transactions, et en désactivant le langage de programmation original. Avec des frais de 4€/transaction en moyenne, peu de gens peuvent se permettre de l'utiliser, et BTC est donc devenu facile à stopper par des entités corrompues.
+Mais alors que faire ?
+La seule stratégie gagnante est de développer un maximum d'applications utiles pour que les gens et les entreprises utilisent Bitcoin au quotidien pour d'autres utilisations qu'une monnaie. C'est la stratégie poursuivie par la version de Bitcoin nommée BSV, qui a également retiré toutes les limites imposées sur BTC: remise en place des 4 gigas de données par transaction, réactivation du langage de programmation propre, et suppression de toute limite de débit, atteignant déjà les 3500 par secondes avec des frais moyens de 0.0001€ par transaction. Mais ce n'est pas tout !
+L'élément le plus important est le développement massif d'un écosystème d'applications innovantes: emails permettant d'envoyer de l'argent comme bit.ly/baemail, réseaux sociaux incensurables et rémunérateurs comme bit.ly/twetchapp, site de vidéos permettant de vendre à la minute regardée comme http://streamanity.com, pour n'en citer que quelques uns.
+Vous les retrouverez tous sur https://metastore.app/apps?sort=money alors mettez cette page en favoris pour plus tard !
+MAIS SURTOUT !...
+et c'est le plus important: grâce à ces applications les nouveaux utilisateurs peuvent gagner des bitcoins sans jamais avoir à en acheter, et ceux qui en possèdent peuvent les dépenser directement dans l'économie bitcoin sans avoir à les revendre.
+Un tel écosystème est non seulement vertueux mais en plus impossible à stopper car tout à fait légal, décentralisé et va devenir de plus en plus important dans l'économie des pays.
+Vous voulez gagnez des bitcoins sans avoir à en acheter ? voici les applications qui vous permettent de le faire: https://metastore.app/earn
+Vous avez des questions ou remarques ? dites moi tout en commentaire!
+Et pensez à suivre la page pour être tenu au courant des dernières nouvelles et applications que vous pouvez déjà utiliser pour améliorer votre vie !
+article d'origine: https://cryptoactu.com/paroles-de-regulateur-bitcoin-a-la-trappe-stablecoins-a-considere
+submitted by zhell_ to BitcoinSVFrance [link] [comments]
+Liste d'opportunités pour gagner de l'argent en France
+Liste de sites, applications mobiles et logiciels pour arrondir vos fins de mois disponibles en France ET dans la plupart des pays du monde.
+PayPal est la méthode la plus utilisée pour être payé donc si vous n'avez pas de compte, je vous conseille d'en créer un ici.
+Généralement, votre adresse email PayPal doit être la même que celle utilisée lors de l'inscription aux sites dont je vais vous parler.
+Je vous montrerai mes preuves de paiements, bonus d'inscription, options de paiement suivi par ce que vous devez faire pour gagner de l'argent.
+La liste sera en 3 parties.
+Partie 1 : Enquêtes, études, regarder des vidéos, jouer etc.
+Partie 2 : Applications mobiles Android et IOS
+Partie 3 : Revenus passifs pour applications mobiles et Windows/Linux/Mac
+Partie 1: Enquêtes, études, regarder des vidéos, jouer etc.
+Swagbucks | Cliquez ici pour obtenir 300 points (l'équivalent de 3$) lors de l'inscription Sachez que vous devez gagner 300 points supplémentaires dans les 30 premiers jours pour obtenir ces 300 points.
+Options de paiement : PayPal, cartes cadeaux Amazon etc.
+Swagbucks preuves de paiement 1 | 2
+Répondez à des enquêtes (si vous ne qualifiez pas, vous obtenez 1 point)
+Astuces pour gagner plus :
+Ajoutez le SwagButton : https://www.swagbucks.com/extension
+Cela vous permettra de récupérer des points lorsque vous faites des achats sur Internet. 1 point récupéré par euro dépensé.
+Allez dans la section "Découvrir" et faites les offres qui vous sont proposées. Téléchargeinstaller des jeux, ils payent généralement entre 50 et 2000 points (0.50$ à 20$). Obtenez 1000 points lors de votre première inscription à Disney + pour 1 an (l'équivalent de 10$) etc.
+Les offres changent régulièrement.
+Survey Time | Cliquez ici pour vous inscrire
+Options de paiement : PayPal, cartes cadeaux Amazon et Bitcoin
+SurveyTime preuves de paiement 1 | 2 | 3 | 4 | 5
+Chaque enquête prend environ 10 minutes et vous gagnerez généralement 1$ (parfois 0.50$ mais ils vous l'informent avant de commencer).
+Paiement instantané (en quelques minutes avec PayPal).
+Prolific | https://app.prolific.co/register * Option de paiement : PayPal * Preuve de paiement 1 / Preuve de paiement 2
+Ce site est un de mes favoris. Vous obtiendrez des "Études" très aléatoire qui dépendront des questions que vous avez prérempli lors de l'inscription (vous pouvez changer les questions a n'importe quel moment)
+Si vous parlez plus d'une langue, vous aurez des études différentes dans plusieurs langues.
+Voici quelques exemples d'études que j'ai eues :
+Étude des Sciences du Comportement: Cette étude étudiait le comportement des sujets politiques en France, en particulier pour les gens de gauche et de droite.
+Une étude sur la flexibilité émotionnelle: Cette étude m'a montré des images et je devais indiquer si oui ou non elles contenaient des humains.
+Produit alimentaire: Dans celle-ci, ils m'ont simplement demandé d'écrire les 10 premiers mots qui me venaient à l'esprit avec le mot "Orange".
+J'ai fait bien plus d'études que les 3 ci-dessus, mais c'est juste pour vous donner une idée du genre d'études que vous pouvez éventuellement recevoir.
+OfferNation | Cliquez ici pour vous inscrire
+Bonus d'inscription : 0.25$
+Options de paiement : PayPal et Skrill
+Preuves de points | PayPal preuve de paiement | Email preuve de paiement
+Grande sélection d'enquêtes
+Vous devrez peut être envoyer une preuve d'identité après inscription. Je leur ai envoyé une facture de mon fournisseur d'accès Internet lorsque je me suis inscrit.
+Paiement presque instantanément car vous pouvez retirer une fois que vous avez 1$
+FeaturePoints | https://featu.re/9BGX93
+Bonus d'inscription : 50 points
+Options de paiement : PayPal, cartes cadeaux Amazon, cartes cadeaux Visa gift card, Bitcoin etc.
+Entrez le code 9BGX93 pour obtenir les 50 points si vous telechargez l'application directement depuis votre mobile.
+Similaire concept que Swagbucks.
+PrizeRebel | https://www.prizerebel.com/index.php?r=6400413
+Options de paiement : PayPal, cartes cadeaux Amazon etc.
+Similaire concept que Swagbucks.
+Partie 2 : Applications mobiles Android et IOS
+AttaPoll (Android and IOS) | Cliquez ici pour télécharger AttaPoll
+Options de paiement : PayPal, Revolut et Ethereum
+AttaPoll preuve de paiement
+Enquêtes courtes. Généralement entre 1 à 10 minutes.
+Poll Pay (Android et IOS) | Android | iPhone
+Bonus d'inscription : 0.23€ lorsque vous utilisez ce code N6D2DC84BB
+Options de paiement : PayPal, App Store/iTunes et Spotify Premium
+Enquêtes courtes. Généralement entre 5 à 10 minutes.
+CashKarma (Android et IOS) | Cliquez ici pour télécharger CashKarma * Bonus d'inscription : 300 points Karma lorsque vous entrez weaselbusters tout en haute a droite de l'application. * Options de paiement : PayPal, Google Play, Xbox Live et Steam * Enquêtes, installer et jouer sur votre mobile, s'inscrire à des sites etc.
+Lucky Cash (Android et IOS) | Cliquez ici pour télécharger Lucky Cash. On dirait que le lien pour Android ne fonctionne plus, j'ai installé cette application sur mon Android il y a quelques semaines, je viens de contacter le support et je mettrai à jour le lien quand j'aurai une réponse. * Options de paiement : PayPal et cartes cadeaux Amazon. * Bonus d'inscription : 500 crédits si vous utilisez ce code KBCY7 Répondre à des enquêtes, regarder des vidéos, installer des jeux etc.
+BeMyEye (Android and IOS) | Android | IOS * Bonus d'inscription : 1€ lorsque vous rentrez ce code j5z6pk et complétez votre première mission. * Options de paiement : PayPal et virement bancaire. * Cette application vous permet de gagner de l'argent en complétant des missions. Ces missions incluent de prendre des photos dans des endroits spécifiques près de chez vous, répondre à des questions et suivre les instructions qui vous sont donnés.
+Partie 3 : Revenus passifs pour applications mobiles et Windows/Linux/Mac
+Money SMS (Android) | Cliquez ici pour télécharger Money SMS
+Bonus d'inscription : 0,25€ lorsque vous utilisez ce code MZ2GLM24
+Options de paiement : PayPal
+Application mobile où vous êtes payé pour recevoir des sms (jusqu'à 2 par jour). Vous gagnerez 0.02€ par sms.
+La fréquence des sms que vous recevrez est très aléatoire et vous n'avez pas besoin de les lire.
+Il y a des jours où je ne reçois aucun sms et d'autres où je reçois 2 sms d'affilé.
+Totalement passif car vous avez juste besoin de télécharger l'application et d'attendre.
+McMoney (Android) | Depuis votre mobile, allez sur https://mcmoneyapp.com/ * Cliquez sur "Download APK" et installez l'application. * Bonus d'inscription : 0,25$ lorsque vous utilisez ce code V6TM2KP5 * Options de paiement : PayPal * Même concept que Money SMS * Ils payent 0.05$ par sms (environ 2 fois + que Money SMS mais j'utilise quand même les 2 sur mon mobile).
+Sweatcoin (Android et IOS) | Cliquez ici pour télécharger Sweatcoin * Cette application vous paye pour marcher. (il n'est actuellement pas possible de changer les points contre de l'argent réel à moins d'avoir environ 20,000 points, ce qui peut prendre énormément de temps à avoir). * Vous n'avez pas besoin d'ouvrir l'application car les points sont automatiquement convertis dans l'application lorsque vous marchez. * Les offres changent souvent, vous pouvez convertir vos points pour des réductions lors de certains achats ou 20,000 points pour une TV ou 1000$ par exemple.
+HoneyGain (Windows, Mac et Android) | Cliquez ici pour vous inscrire et réclamer vos 5$ * Option de paiement : PayPal * Vous devrez installer leur logiciel sur votre ordinateur et le laisser ouvert. * Ce logiciel partage une partie du trafic de votre connexion Internet. * Vous n'avez absolument rien à faire car une fois installé, il se lancera automatiquement au démarrage de votre ordinateur.
+PacketStream (Windows, Linux et Mac) | Cliquez ici pour vous inscrire * Option de paiement : PayPal * Même concept que HoneyGain
+LoadTeam (Windows) | Cliquez ici pour vous inscrire et réclamer vos 0.20$ * Option de paiement : PayPal * Comme pour les 2 précédents, vous devez installer leur logiciel et le laisser ouvert. * Ce logiciel "récolte" une partie de la puissance de votre ordinateur non utilisé. * Je vous recommande d'utiliser ce logiciel seulement si vous utilisez votre ordinateur en même temps, car laisser ce logiciel ouvert simplement pour gagner de l'argent pourrait vous couter plus en électricité que les gains. * Une fois installé, vous pouvez voir combien d'argent vous pouvez potentiellement gagner, car cela dépend des performances de votre ordinateur.
+submitted by Lettuceforlife64 to beermoneyfrench [link] [comments]
+Bitcoin est-il trop difficile à comprendre ?
+J’ai passé une grande partie des trois dernières années à expliquer Bitcoin au grand public et la résistance la plus courante qu’on m’a opposée c’est que « Bitcoin est trop compliqué » et que « les masses ne comprendront jamais ».
+C’est un argument valable. Bitcoin est compliqué et si vous voulez obtenir à une vision complète du panorama, il faudra d’abord connaitre l’Histoire de la monnaie puis comprendre le fonctionnement des réseaux peer-to-peer et de la cryptographie.
+C’est pour cette raison que je trouve étrange d’entendre des amis affirmer que Bitcoin est « inévitable ». On semble croire qu’un jour le grand public comprendra soudainement les mérites de Bitcoin et l’adoptera par lui-même. Ce n’est certainement pas ce qui m’est arrivé. Pour comprendre Bitcoin j’ai dû passer des heures à lire des articles, des livres, à écouter des podcasts, à regarder des vidéos et à débattre des concepts sous-jacents sur des forums. Peut-être que si Andreas Antonopolous n’avait pas mis en ligne 500 vidéos ou que Nathaniel Popper n’avait pas écrit Digital Gold, je ferais aujourd’hui partie de ceux qui considèrent que Bitcoin est une escroquerie.
+La croyance inverse c’est que Bitcoin est tout simplement trop compliqué pour que de simples mortels le comprennent, et que l’adoption de masse ne se produira que lorsque Bitcoin et le Lightning Network sont si simples que les grand-mères pourront l’utiliser. Dans The Gates of Bitcoin, John Carvalho appelle cela « l’erreur du rasoir de grand-mère » : la croyance qu’une culture élitiste doit envelopper tout nouvelle technologie pour « protéger » les gens d’eux-mêmes. Il souligne également : « Heureusement, les humains ont démontré leur capacité à comprendre n’importe quoi quand ils ont une motivation suffisante pour le faire. »
+Nous avons vu cela se reproduire encore et encore dans les 11 ans d’histoire de Bitcoin. En 2011, Wikileaks a appris à utiliser Bitcoin très rapidement quand Visa, MasterCard, PayPal et Western Union ont suspendu ses comptes sous la pression du Sénat américain. Bien que Satoshi Nakamoto lui-même ait demandé à Wikileaks de NE PAS utiliser Bitcoin [NdT : pour ne pas attirer l’attention sur un projet qui lui semblait encore immature], Wikileaks l’a quand même fait et on estime que l’organisation a reçu environ 4000 BTC de dons. Non seulement ça a maintenu Wikileaks en vie malgré l’effort coordonné pour le tuer financièrement, mais ça lui a constitué un trésor qui lui permet de subsister aujourd’hui encore.
+Un autre exemple, mon préféré, date de 2014. La Women’s Annex Foundation (WAF) en Afghanistan a utilisé Bitcoin pour payer ses membres pour leurs travaux de rédaction, de développement de logiciels et de montage vidéo. C’était sous le régime taliban et les femmes n’étaient pas autorisées à posséder des comptes bancaires, à gagner leur vie par elles-mêmes ou même à aller à l’école.
+La motivation est une chose puissante. Quand c’est une question de vie ou de mort, les gens découvrent soudain qu’il n’est pas si difficile de télécharger une application mobile et de copier-coller une adresse. Bitcoin ne devient soudainement beaucoup plus simple.
+Je veux revenir un peu plus sur la complexité de Bitcoin. Il y a des nuances à établir. Bitcoin est certainement difficile à comprendre, mais cela ne veut pas dire qu’il est difficile à utiliser. La plupart des gens peuvent conduire une voiture ou envoyer un email sans comprendre le moteur à combustion interne ou le protocole SMTP (Simple Mail Transfer Protocol). Et les deux sont sans doute considérés comme « trop compliqués » pour les masses.
+L’idée même de « difficulté » peut être analysée. Je vais la décomposer en deux concepts : la difficulté technique et la difficulté perçue.
+La difficulté technique est la compétence requise pour exécuter quelque chose, comme télécharger une application, conduire une voiture ou jouer du violon. Vous devez apprendre à utiliser l’outil. Les concepteurs peuvent (partiellement) réduire les compétences requises en créant des outils conviviaux, mais on ne peut s’en passer complètement. Pourtant, lorsque nous regardons le nombre de personnes qui peuvent conduire des voitures et utiliser les médias sociaux, nous voyons que des millions de gens, y compris des mamies, sont prêts à apprendre des opérations complexes si en échange ils peuvent se rendre au centre commercial ou débattre avec des anonymes sur Twitter.
+La difficulté perçue est l’obstacle psychologique, c’est-à-dire la croyance que quelque chose est difficile. C’est quand on renonce à essayer de comprendre quelque chose parce que cela semble trop difficile. La difficulté perçue est omniprésente. Les gens prétendront qu’il est « trop difficile » de suivre un régime ou d’étudier pour un examen lorsque, même lorsque du point de vue de la difficulté technique, les choses sont faciles : Ne pas manger le gâteau, aller dans sa chambre et étudier. Le problème, ce sont les incitations. Les gens ne veulent pas étudier et veulent bouffer le gâteau. Les amener à changer de comportement n’a rien à voir avec la difficulté technique et tout à voir avec la motivation.
+J’ai rencontré plusieurs fois ce type de difficultés dans Bitcoin. Les gens me disent souvent, par exemple, qu’ils ont acheté des bitcoins mais qu’ils les ont laissés sur un exchange. Et à chaque fois que j’expliquais que c’était une mauvaise idée [et que je leur suggérais de détenir eux-même leurs bitcoins], ils me répondaient : « C’est trop compliqué ». Cela m’a incité à écrire non pas un, mais deux articles. L’un pour expliquer pourquoi garder Bitcoin sur un exchange est une mauvaise idée, et l’autre pour expliquer comment configurer un portefeuille, en faisant aussi court et simple que possible. J’ai envoyé les deux articles à l’une de ces personnes. Finalement, elle a cédé, elle a téléchargé un wallet, sauvegardé sa phrase de récupération et a retiré ses bitcoins de l’exchange. « Ok, ce n’était pas si difficile », a-t-elle finalement convenu.
+Avec Lightning, nous pourrions éventuellement être en mesure de réduire complètement la difficulté technique liée à l’utilisation de Bitcoin. Sur le Lightning Network, vous n’avez pas besoin de penser aux blocs, aux confirmations ou aux frais. À mesure que le réseau mûrit, vous n’aurez peut-être plus à vous soucier des canaux ou de leur capacité. Et avec des produits comme Strike, vous n’aurez peut-être même pas besoin de savoir que vous utilisez Lightning. L’ambition de Lightning est de fournir à terme une expérience utilisateur extrêmement simple tout en conservant la liberté et l’autonomie qui font l’intérêt et la réputation de Bitcoin. Mais même si cette situation était possible dès demain, la difficulté perçue resterait.
+La bonne nouvelle est que la difficulté perçue est finalement une culture. Quand j’étais enfant, l’utilisation d’un ordinateur était considérée comme tellement ardue que vous aviez besoin d’un cours d’informatique pour être apte à en utiliser un. Aujourd’hui, vous êtes considéré comme fonctionnellement analphabète si vous ne pouvez pas utiliser un ordinateur à l’âge de dix ans. Mais les habitudes ne changent pas d’elles-mêmes. Nous devons être proactifs si nous voulons que Bitcoin devienne tout ce qu’il pourrait être pour ceux qui en ont besoin. Nous devons modifier sa perception et aligner les incitations.
+submitted by PlasticQueasy6873 to u/PlasticQueasy6873 [link] [comments]
+Sortie de c-lightning 0.9.0
+L’équipe de c-lightning vient d’annoncer la version 0.9.0 de c-lightning, l’implémentation du Lightning Network conçue par Blockstream. Cette nouvelle version intègre plusieurs améliorations majeures :
+– Intégration du Multi-Part Payments qui permet de segmenter les transactions et d’envoyer des paiements d’un montant supérieur à la taille des canaux empruntés tout en renforçant la confidentialité,
+– Intégration de Keysend qui permet d’envoyer un paiement vers un noeud à partir de son ID sans que ce noeud ait à générer de requête de paiement (transaction push),
+– Amélioration de la prise en charge des Watchtowers qui permettent de déléguer à un tiers la surveillance de la blockchain lorsque le noeud n’est pas connecté,
+– Pour la partie « on-chain », adoption du format PSBT (Partially Signed Bitcoin Transaction Format – BIP 174) qui permet aux signataires hors ligne de signer des transactions sans avoir besoin d’un accès direct à l’ensemble UTXO et sans risque de fraude.
+submitted by PlasticQueasy6873 to u/PlasticQueasy6873 [link] [comments]
+Ethereum
+Imaginé par Vitalik Buterin, qui publie une première description de son projet en décembre 2013, Ethereum est une blockchain publique permettant la création de contrats intelligents. La première version du logiciel, appelée Frontier, a été publiée le 30 juillet 2015. En mars 2016, la nouvelle version du logiciel prend le nom de Homestead. Les prochaines versions : Metropolis suivie de Serenity sont en cours de développement.
+Ethereum est une plateforme décentralisée sur laquelle tournent des smart contracts : des applications qui s’exécutent exactement comme elles ont été programmées, sans possibilité de temps mort, de censure, de fraude ou d’interférence d’un tiers. L’ambition derrière les smart contracts est de fournir un niveau de sécurité d’exécution supérieur à celui proposé actuellement par le droit des contrats en diminuant les frais de transactions et les coûts légaux liés à la formalisation d’obligations contractuelles.
+Ethereum possède son propre token, ou unité de compte appelée l’ether qui doit être dépensé au fur et à mesure de l’exécution du smart contract, avec une facturation progressive par le réseau du nombre d’opérations de calcul utilisées par le smart contract.
+La blockchain Ethereum enregistre les contrats, exprimés comme un ensemble d’instructions de bas niveau, et dans un langage Turing-complet. Un contrat est un programme qui tourne sur tous les nœuds du réseau Ethereum. Les contrats portés par Ethereum peuvent stocker des données, envoyer ou recevoir des paiements, stocker des ethers et exécuter un ensemble infini d’actions de calcul, en opérant comme des agents décentralisés autonomes.
+Le procédé de minage, actuellement de type Proof-of-Work, passera au Proof-of-Stake avec la version Serenity afin de limiter la consommation d’électricité du réseau. Cette mise à jour comportera également des changements concernant l’émission des ethers. La question du nombre total d’ethers ou du taux d’inflation définitif n’est pas encore tranchée.
+submitted by Usefmohamed to u/Usefmohamed [link] [comments]
+Pour dresser l’état-civil de Bitcoin
+Bien des exposés sur le bitcoin commencent par des considérations sur la monnaie qui, sous prétexte de questionner, risquent de perturber les tranquilles certitudes de l’auditoire (de la monnaie, bien des gens instruits se contentent de savoir qu’ils n’en ont pas assez) ou par l’exposé de prouesses cryptographiques qui sont aussi indifférentes aux honnêtes gens que les mérites respectifs des chlorofluorocarbones et des hydrofluorocarbones pour réfrigérer leur apéritif.
+De l’euro, on ne se demande guère « ce qu’il est ». On sait qu’il est né en 2002 avec moult messieurs en cravate autour de son berceau, et on croit qu’il est fabriqué à Francfort, personne n’attachant la moindre importance aux petits symboles des souverainetés nationales résiduelles sur les pièces. Sur ce qui lui donne sa valeur, personne ne philosophe puisqu’il est lui-même l’étalon de la valeur de toutes choses au supermarché et le moyen de se les procurer.
+Le Bitcoin, en comparaison, ressemble à un orphelin de milieu louche et pas trop bien vu des gens puissants. Cela lui pose des problèmes identitaires, car on cherche toujours l’origine des gens ou des choses avant d’accorder sa confiance, et ce n’est pas une démarche idiote.
+Peut-être faut-il donc chercher à lui donner une sorte d’état civil (nom, prénom date et lieu de naissance, domicile, profession, nationalité).
+Son nom vient de l’anglais « bit » : unité d’information binaire et « coin » : pièce de monnaie. C’est terriblement banal. Comme Tintin. C’est un nom où chacun peut mettre un peu de lui et se projeter .
+Pour ce qui est de son géniteur, en revanche, on est bien dans le romanesque. Le plus raisonnable est de penser que c’est un cypherpunk américain (ou un groupe de cypherpunks) qui a trouvé en fin 2008 le « truc » que beaucoup de gens cherchaient depuis des années.
+Pour le moment, ou pour toujours, il faut faire avec ce « père absent ». On peut quand même se laisser aller à dire que d’autres grands fondateurs sont inconnus, en définitive : qui a écrit la Bible ? qui a fondé Rome ? qui étaient les ancêtres de Clovis ?
+Mais comme nous ne vivons plus à une époque aristocratique mais dans un temps mercantile, la question de la paternité se transforme vite en question de propriété : à qui ça appartient, le bitcoin ? Ma réponse, que je livre ici, est la suivante. Le protocole le plus connu de tous, c’est l’alphabet. Nul n’en connaît précisément l’origine, et moins encore le « père ». L’alphabet est à tous, gratuitement, et il est généralement sensé de se servir de l’alphabet commun pour être compris. Mais ce que vous en faites, ce que vous écrivez (lettre, livre…) est à vous (défense de la vie privée, de la propriété intellectuelle…).
+Et ceci conduit à la question de la profession : « ça fait quoi ? ». Bitcoin est un truc pour échanger. Comme l’alphabet pour s’écrire, les chiffres pour faire les comptes, l’infrastructure téléphonique pour se causer ou… les protocoles http ou smtp (quand l’interlocuteur a de l’instruction !) pour surfer et s’envoyer des mails. Comme je l’ai écrit sur mon blog, dans le billet intitulé «complètement timbré», ce à quoi un bitcoin ressemblerait, pour l’usage, ce serait à une lettre (recommandée, et qui arriverait vraiment, dans les temps, et qu’il ne faudrait pas aller chercher au bureau de poste).
+Mais cette lettre, à peine reçue, on pourrait s’en resservir pour la renvoyer à quelqu’un d’autre. Et mettre dedans ce qu’on veut : une lettre, une image, une musique ou… de l’argent (hum… lire l’échange ci-dessous en commentaire avec Marco). Donc cette enveloppe magique, on serait d’accord pour l’acheter, assez chère, non ? C’est pour cela que certains acceptent de payer leurs bitcoins à un certain prix. Surtout que cette enveloppe magique, personne d’autre ne peut l’ouvrir que son destinataire. Alors que les mails, les sms, les virements bancaires, tout est ouvert, lu, archivé, que cela vous plaise ou non…
+La plus délicate question, selon moi, dans l’état civil de Bitcoin, est celle de son domicile. « Il est où le bitcoin ? » Ici, mieux vaut être rassurant. Répondre « il est dans le Cloud » risque de ne rassurer que les geeks. Et parler des data centers échauffe les écolos. Le bitcoin, il est en vérité comme les euros de la mère Michel : dans un livre. C’est juste le livre qui, au lieu d’être à la Banque Pop (où il n’y a pas d’or, d’ailleurs demandez-leur de l’or, ou même des dollars, vous verrez : il n’y a rien !) est conservé en plusieurs milliers d’exemplaires par des membres actifs de la communauté. Et ces exemplaires-là sont identiques et infalsifiables, alors que la Banque, à défaut de se « tromper » a tout de même tendance à passer des écritures dans votre compte sans trop demander votre avis.
+Oui, oui, mais ils sont où le bitcoin et le livre du bitcoin ? Il est en France ? en Europe ? Votre interlocuteur travaille sans doute pour les douanes… Là on entre dans un débat intéressant. Formellement vos euros sont en France parce qu’ils sont inscrits sur un livre tenu par la Caisse d’Épargne de Romorantin ou la Poste de Belleville. S’ils sont inscrits sur un livre chez Reyl et Cie à Genève, vous êtes en délicatesse avec la douane. Les bitcoins sont sur plusieurs milliers de livres, partout dans le monde. Il est donc raisonnable de penser qu’ils sont partout à la fois, à l’étranger, où que vous les ayez achetés et où que vous soyez. Des billets de banque, des lingots d’or, vous pouvez les avoir « sur vous ». Pas des bitcoins. Même dans les clés USB les mieux protégées, vous n’avez pas vos bitcoins, mais seulement la clé privée de leur adresse dans le registre. Ils seraient sur la lune ou sur la tête à Mathieu que ce serait pareil.
+Dans un article publié sur le Cercle des Echos, j’ai parlé des limites de la pensée à ce sujet. Nous continuons de penser, le plus souvent, avec nos sens. L’espace c’est souvent, implicitement, un territoire. Une large part de notre droit civil et de notre fiscalité est élaborée sur les savoir-faire de l’arpenteur et du conservateur des hypothèques. La « police de l’air et des frontières » se fait toujours sur le plancher des vaches.
+L’espace où s’inscrit le bitcoin n’est pas un territoire. À la différence des valeurs listées par la douane, le bitcoin ne voyage pas. Qu’on l’encaisse ou qu’on le décaisse, il ne franchit en réalité aucune frontière terrestre, maritime ou aérienne. Sa vitesse de circulation ne provient d’ailleurs que de ce qu’en fait il ne voyage pas, du moins pas avec nous ni dans le même espace.
+La meilleure comparaison pour parler de son espace, c’est peut-être de chercher quelque chose comme un terrain de jeux.
+Par exemple celui du Monopoly. On s’y déplace, on y fait des transactions, avec une monnaie ad hoc. Mais « Rue de la Paix » n’est pas plus en France que « Boardwalk » (la même case) n’est en Amérique. On peut d’ailleurs jouer à plusieurs, répartis sur différents continents et régler par virement dans le monde virtuel du jeu.
+📷
+Il est à qui le bitcoin ? Bitcoin, bien sûr, n’est pas un Monopoly. Notre interlocuteur sait bien qu’avec des bitcoins, on peut acheter dans notre monde physique des objets que l’on possède vraiment alors. Mais que veut dire pour lui posséder des bitcoins qu’il ne lui est pas possible d’enfermer dans un support matériel ? Peut-on posséder un bien immatériel quand pour ce bien il n’y a pas de certificat d’authenticité nominatif ? Il faut bien avouer que, comme pour la question du « lieu », la question du « lien » est difficile à appréhender sur la base de nos seuls sens. Notre langage lui-même ne semble pas adapté encore pour cette situation.
+Est-ce à dire que Bitcoin n’a point de nationalité ? Evidemment non. Bitcoin est la monnaie de l’Internet. A ce jour il est prématuré de transposer dans l’univers du web les concepts politiques territoriaux. Mais Bitcoin a une langue, qui est évidemment l’américain, même si sa devise (vires in numeris) est latine, ce qui est d’ailleurs typiquement américain !
+Ce que l’on peut localiser dans notre espace à nous (sur le globe, pour faire simple) ce sont seulement ses points de contact (les exchanges, où le dollar intervient dix fois plus que l’euro semble-t-il) et les points d’appui de l’univers bitcoin dans notre univers physique. A cet égard on pourrait suggérer que Bitcoin est américain à proportion du nombre de nœuds situés aux USA (40%), ou bien majoritairement chinois car le hashrate pour sécuriser le protocole est majoritairement effectué dans les fermes de minage chinoises… Cela donne une « géographie politique » du Bitcoin. Mais la crise actuelle autour du fork XT montre que la politique du bitcoin est encore balbutiante.
+Voici donc quelques éléments d’état-civil, tel qu’on pourrait le tracer en famille, devant des gens qui ne sont pas coutumiers de la chose ou familiers des meet-ups. Il reste à pouvoir donner une représentation de Bitcoin. J’essayerai dans mon prochain billet.
+submitted by MarinaUlyse to u/MarinaUlyse [link] [comments]
+Maxthon publie la version 6 bêta de son navigateur basé sur BitcoinSV avec 670 Millions d'utilisateurs
+Maxthon publie la version 6 bêta de son navigateur basé sur Bitcoin SV avec 670 millions d'utilisateurs.
+La façon dont nous utilisons Internet évolue - et il existe de nouvelles façons plus faciles de tirer parti de ce «nouvel» Internet
+La société de logiciels basée à San Francisco, Maxthon, a publié la version bêta 6 de son navigateur, évoluant vers de nouvelles fonctionnalités Internet disponibles en utilisant la monnaie numérique Bitcoin SV. Ses navigateurs sont installés sur plusieurs plateformes pour plus de 670 millions d'utilisateurs.
+Maxthon entend que ce navigateur soit la première étape pour les utilisateurs d'accéder au Metanet - le «nouvel Internet». Le Metanet promet de donner aux utilisateurs la propriété de leurs données et contenus au lieu de les transmettre aux fournisseurs de services en ligne.
+Les utilisateurs pourront monétiser leurs données, leur contenu, leurs activités en ligne et leur identité, et éliminer la publicité intrusive, actuellement omniprésente sur Internet.
+Il promet également d'inhiber les bots et le fishing et d'encourager un contenu de meilleure qualité, permettant aux utilisateurs de se créer une identité globale qui peut être utilisée sur les sites Web et les applications.
+Cela semble être une grande question. Mais comme la mise à niveau de Genesis a permis de stocker des transactions dans des blocs jusqu'à 2 Go , une évolutivité plus élevée garantira que des volumes de données plus importants peuvent être traités, y compris des micropaiements pour alimenter les activités Internet.
+La version bêta de Maxthon 6 comprend un gestionnaire d'identité blockchain appelé VBox. Cela permettra aux utilisateurs de créer leur propre identité singulière sur la blockchain, qui peut être utilisée pour se connecter à toutes leurs applications, effectuer des paiements et enregistrer leurs données et contenus sur la blockchain.
+Vous n'aurez pas besoin de créer une nouvelle identité pour chaque demande en ligne ou d'utiliser votre identifiant Google ou Facebook pour accéder à d'autres sites.
+Le nouveau Metanet permettra aux utilisateurs d'être payés pour les interactions en ligne et les données qu'ils fournissaient auparavant gratuitement aux plateformes sociales.
+Le navigateur comprendra deux nouveaux protocoles: TX (utilisé pour afficher les données associées à la transaction blockchain) et NB (pour visiter des sites Web qui ont été construits sur la blockchain Bitcoin SV).
+Jeff Chen, PDG de Maxthon, a déclaré:
+"Je pense que l'avenir nécessitera de réinventer Internet d'une manière qui permette aux utilisateurs de conserver la propriété et le contrôle - et en fait de monétiser - leurs propres données, contenus, activités en ligne et identité. Le navigateur Maxthon 6 fournit les premières étapes vers cette nouvel avenir puissant, qui n'est possible que sur la blockchain Bitcoin SV. "
+L'utilisation des services de blockchain n'est pas gratuite. Les utilisateurs paieront un montant minime - un micropaiement - pour utiliser le Metanet. Ces micropaiements BSV sont généralement d'une fraction d'un cent par article, comme des commentaires sur des éléments de la blockchain.
+De cette façon, vous pouvez payer pour récompenser le bon contenu, recevoir le paiement de votre contenu et forcer les trolls à payer pour vous envoyer du spam. Vous pouvez également utiliser une variété d'applications pour stocker votre contenu ou dépenser votre monnaie numérique dans des magasins physiques.
+Auparavant domaine des développeurs hard-core et des investisseurs sérieux, ces nouvelles applications Metanet permettent aux utilisateurs ordinaires d'utiliser plus facilement la blockchain et le bitcoin pour leurs activités Internet quotidiennes.
+La possibilité de minimiser les publicités intrusives, de limiter les trolls et les spammeurs et d'être payé pour votre propre contenu, qu'est-ce qui ne vous plaît pas? Et oui, vous vous demanderez pourquoi vous avez attendu si longtemps.
+Article d'origine sur ZDNET
+submitted by zhell_ to BitcoinSVFrance [link] [comments]
+[French] Community Points FAQ
+Note importante:
+La version bêta du programme Community Points est sur le réseau Rinkeby. Si vous ne savez pas ce que cela signifie - ne supprimez pas vos jetons de points de communauté Reddit de votre coffre-fort Reddit en essayant d'intégrer d'autres portefeuilles Ethereum ou en les envoyant à des contrats intelligents.
+Que sont les points communautaires
+Les points communautaires sont une nouvelle initiative de Reddit. Ce sont des points qui représentent la propriété d'un subreddit.
+Chaque communauté obtiendra ses propres points de communauté qu'elle pourra nommer et concevoir.
+Où sont stockés les points communautaires?
+Les points de communauté sont un type de "jeton" "Ethereum" qui est stocké sur une "blockchain" - tout comme Bitcoin!
+Cela signifie qu'une fois que vous avez gagné les jetons, vous les possédez.
+Vous pouvez les stocker dans votre "Reddit Vault" ou un portefeuille Ethereum traditionnel.
+Combien y a-t-il de points communautaires?
+Il y a un total de 250 millions de chaque type de point communautaire.
+Ainsi, le sous-crédit / r / Crypto-monnaie aura un maximum de 250 millions de jetons "$ MOON", mais un autre sous-crédit aura un maximum de 250 millions de son propre jeton.
+Les 250M jetons / points sont-ils tous libérés immédiatement?
+Non. Pour commencer, il n'y aura que 50M de chaque jeton. Ceux-ci seront attribués aux utilisateurs en fonction des messages qu'ils ont déjà publiés dans le sous-programme.
+Les autres jetons 250M seront lentement attribués sur une base hebdomadaire.
+Le montant attribué chaque semaine est-il le même?
+Non. Le nombre de jetons attribués diminuera chaque semaine, cela durera jusqu'à ce que les 250 millions de jetons aient été créés. La date estimée pour cela est en 2050.
+Comment puis-je gagner des points / jetons communautaires?
+Vous gagnerez les jetons en fonction de vos contributions au subreddit.
+Lorsque vous publiez un message ou un commentaire qui fait l'objet d'un vote positif, vous gagnez une partie des jetons distribués par le système cette semaine-là.
+D'autres utilisateurs peuvent également vous "donner un pourboire". Cela signifie qu'ils vous donneront certains des jetons qu'ils ont gagnés.
+À quoi puis-je utiliser des points / jetons communautaires?
+Vous pouvez utiliser les jetons pour acheter des "adhésions spéciales" pour chaque sous-crédit individuel.
+Ces adhésions vous donnent des fonctionnalités spéciales sur le subreddit. Ceux-ci inclus:
+Une nouvelle couleur pour votre nom d'utilisateur.
+Badges et icônes spéciaux à côté de votre nom d'utilisateur.
+La possibilité d'acheter des badges exclusifs.
+La possibilité d'utiliser des emojis animés.
+La possibilité de répondre aux commentaires de Reddit à l'aide de gifs.
+Combien coûte l'adhésion spéciale?
+Le "Membre spécial" pour un subreddit variera en coût entre différents jetons.
+Sur le sous-crédit / r / Crypto-monnaie, l'adhésion coûte 1000 MOONS par mois.
+Qu'advient-il des points / jetons de la communauté que j'utilise pour l'adhésion spéciale?
+Lorsque vous utilisez vos jetons pour l '"adhésion spéciale", ces jetons seront "brûlés" - ce qui est de l'argot de crypto-monnaie à détruire.
+Cela signifie qu'il y aura toujours moins de 250 millions de jetons car ils continueront d'être utilisés en heures supplémentaires.
+Puis-je utiliser des points / jetons communautaires pour autre chose?
+Oui.
+Vous pourrez également utiliser les jetons que vous avez gagnés pour voter dans des sondages pondérés ou pour envoyer un pourboire à d'autres utilisateurs.
+Enfin, comme il s'agit d'un jeton ERC-20 Ethereum, vous pouvez le transférer vers d'autres sites Web et l'intégrer dans d'autres produits. Cela vous permet d'acheter, de vendre, d'échanger et d'utiliser le jeton où vous le souhaitez.
+Qu'est-ce que le coffre-fort Reddit?
+Le "Reddit Vault" est une section spéciale de l'application mobile de Reddit qui vous permet de vous connecter à un portefeuille propulsé par Ethereum. Dans cette section, vous pourrez réclamer vos jetons, voir vos soldes de jetons et échanger les jetons.
+Votre coffre-fort Reddit peut parfois également être appelé un "portefeuille" car il s'agit de la terminologie courante dans l'industrie de la blockchain.
+Comment créer un coffre-fort Reddit?
+Vous pouvez créer votre coffre-fort Reddit dans l'application Reddit sur iOS et Android.
+Vous cliquez sur votre profil et sélectionnez «Vault» et il vous guidera à travers les étapes.
+Si vous avez besoin d'instructions plus détaillées, vous pouvez consulter les instructions détaillées
+Dois-je utiliser Reddit Vault comme portefeuille?
+Non. Vous n'êtes pas obligé d'utiliser Reddit Vault comme portefeuille - mais cela vous permet de sauvegarder votre portefeuille sur Reddit.
+Si vous souhaitez utiliser un autre portefeuille Ethereum tel que MetaMask ou Brave Browser, vous pouvez importer votre `` phrase source '' à partir de la création de ce portefeuille.
+Ceci n'est recommandé que pour les utilisateurs expérimentés de crypto-monnaie.
+Vous pouvez trouver les instructions pour importer votre portefeuille existant dans votre coffre-fort Reddit ici
+Si je crée un portefeuille à l'aide de Reddit Vault, puis-je utiliser ce portefeuille ailleurs?
+Oui.
+Si vous créez votre premier portefeuille de crypto-monnaies à l'aide de Reddit Vault, oyu peut vouloir importer ce portefeuille dans un autre logiciel tel que MetaMask ou 'Brave Browser'.
+Vous pouvez suivre ces instructions:
+Pour ajouter votre portefeuille Reddit Vault dans Brave Browser
+Pour ajouter votre portefeuille Reddit Vault dans MetaMask
+Assurez-vous de configurer votre portefeuille MetaMask ou votre portefeuille Brave Browser pour utiliser le réseau de test Rinkeby.
+Qu'est-ce que la "Phrase de semence"?
+Une phrase de départ est un ensemble de 12 mots aléatoires que les logiciels de portefeuille utilisent pour générer notre "clé publique" et notre "clé privée" qui composent votre portefeuille.
+La phrase de départ est le seul moyen de récupérer un portefeuille de crypto-monnaie si vous perdez notre clé privée.
+Où dois-je stocker ma phrase de départ?
+Votre phrase source doit être stockée dans un endroit sûr. Idéalement, vous ne devriez pas conserver la phrase de départ dans une image (sur votre téléphone) ou dans un fichier téléchargé ou un bloc-notes numérique.
+Il est préférable d'écrire votre phrase de départ ou d'utiliser un gestionnaire de mots de passe tel que LastPass pour le stocker en toute sécurité.
+Si je perds ma phrase source, Reddit peut-il récupérer mes points de communauté?
+Non.
+Si vous perdez votre phrase de départ et n'avez pas votre clé privée, personne ne peut vous aider à récupérer votre portefeuille ou vos jetons. Ils sont perdus à jamais.
+Puis-je perdre des points de mon solde?
+Non.
+Une fois que vous avez réclamé, vous avez réclamé vos points dans votre portefeuille sur la blockchain Ethereum. Personne ne peut vous retirer ces points. Pas même le personnel de Reddit.
+Vous ne perdrez pas de points pour les downvotes sur vos commentaires ou sur vos messages. Vous n'apprendrez qu'un plus petit pourcentage de jetons dans la distribution de la semaine prochaine.
+Qu'est-ce qu'une clé publique?
+Votre clé publique (également appelée parfois votre "adresse de portefeuille") est votre adresse sur la blockchain. Elle est similaire à une adresse postale en ce qu'elle vous identifie de manière unique et permet aux gens de vous envoyer des transactions blockchain, de la même manière que quelqu'un pourrait envoyer du courrier à votre adresse personnelle.
+Tout comme une adresse personnelle, les informations ne sont pas privées, mais elles sont sensibles. Vous ne voulez probablement pas que tout le monde ait l'adresse.
+Votre clé publique sera une longue piqûre de chiffres et de lettres, mais sur Ethereum, elle commencera toujours par "0x"
+Qu'est-ce qu'une clé privée?
+Une clé privée est comme votre mot de passe. Ce sont des informations privées qui doivent être sécurisées.
+Vous ne pouvez jamais modifier votre clé privée. Donc, s'il est compromis même une fois, vous devrez créer un nouveau portefeuille.
+Ne partagez jamais votre clé privée avec qui que ce soit. Déjà.
+Le personnel de Reddit aura-t-il besoin de connaître ma phrase de départ ou ma clé privée?
+Non jamais.
+Puis-je acheter / vendre des points / jetons Communit?
+Il n'y a aucun échange pour ces jetons car ils sont actuellement sur le réseau de test de Rinkeby.
+submitted by AdamSC1 to CommunityPointsHelp [link] [comments]
+Contrats d'exécution consensuels de VDS et processus du téléchargement à la chaîne
+Résumé des contrats d’exécution consensuels
+Le concept de base du contrat d’exécution consensuels
+Contrats d’exécution consensuels, connu sous le nom de contrat intelligent dans l'industrie de la blockchain, mais l'équipe de VDS estime que ce terme est trop marketing, car nous n'avons pas trouvé à quel point la technologie de programmation contractuelle est intelligente jusqu'à présent, il s'agit simplement d'un système décentralisé dans le réseau distribué, la procédure prédéfinie de comportement consensuel formée par l'édition de code. Dans l'esprit de rechercher la vérité à partir des faits, nous pensons qu'il est plus approprié de renommer le contrat intelligent en tant que contrat d'exécution de consensus. Lorsque les humains combineront la technologie blockchain avec la technologie d'intelligence artificielle de AI à l'avenir, les obstacles à la compréhension des noms sont éliminés.
+Le contrat d'exécution consensuel peut être appliqué à de nombreuses industries, telles que la finance, l'éducation, les systèmes administratifs, l'Internet des objets, le divertissement en ligne, etc. Grâce à la technologie de la blockchain, dans un réseau distribué spécifique, un script d'exécution qui est formé par l'édition de pré-code sans aucune intervention de tiers et le comportement de consensus des deux parties ou de plusieurs parties impliquées dans le protocole. Il garantit l’exécution sûre, stable et équitable des droits et intérêts de tous les participants au contrat.
+Le contrat d'exécution consensuel a joué un rôle dans l'accélération de l'atterrissage de diverses applications pour le développement de l'industrie de la blockchain et a incité davantage de développeurs à y participer activement, révolutionnant l'expérience réelle des produits de la technologie de la blockchain. Tout découle des contributions exceptionnelles de l'équipe Ethereum, ouvrant une nouvelle porte à l'ensemble de l'industrie.
+Structure de base et jonction
+L’intégration de EVM
+La machine virtuelle Ethereum (EVM) utilise un code machine 256 bits et est une machine virtuelle basée sur la pile utilisée pour exécuter les contrats d'exécution consensuels d'Ethereum. Étant donné que l'EVM est conçu pour le système Ethereum, le modèle de compte Ethereum (Account Model) est utilisé pour la transmission de valeurs. La conception de la chaîne VDS est basée sur le modèle Bitcoin UTXO. La raison de cette conception est, d'une part, c'est en raison de la nécessité de réaliser la fonction d'échange de résonance de VDS et la fonction d'échange inter-chaîne unidirectionnelle de bitcoin à chaîne VDS, qui peuvent réaliser la génération de deux adresses différentes de bitcoin et VDS avec une clé privée. D'autre part, l'équipe VDS estime que la structure sous-jacente des transactions Bitcoin est plus stable et fiable grâce à 10 ans de pratique sociale. Par conséquent, VDS utilise une couche d'abstraction de compte (Account Abstraction Layer) pour convertir le modèle UTXO en un modèle de compte qui peut être exécuté par EVM. De plus, VDS a ajouté une interface basée sur le modèle de compte, afin qu'EVM puisse lire directement les informations sur la chaîne VDS. Il convient de noter que la couche d'abstraction de compte peut masquer les détails de déploiement de certaines fonctions spécifiques et établir une division des préoccupations pour améliorer l'interopérabilité et l'indépendance de la plate-forme.
+Dans le système Bitcoin, ce n'est qu'après la vérification du script de déverrouillage (Script Sig) et du script de verrouillage (Script Pub Key) que la sortie de transaction correspondante peut être dépensée.
+Par exemple, le script de verrouillage verrouille généralement une sortie de transaction sur une adresse bitcoin (la valeur de hachage de la clé publique). Ce n'est que lorsque les conditions de configuration du script de déverrouillage et du script de verrouillage correspondent, que l'exécution du script combiné affiche le résultat sous la forme True (la valeur de retour de système est 1), de sorte que la sortie de transaction correspondante sera dépensée.
+Dans le système distribué de VDS, nous soulignons l'opportunité de l'exécution du contrat d'exécution consensuel. Par conséquent, nous avons ajouté les opérateurs OP_CREATE et OP_CALL au script de verrouillage. Lorsque le système de VDS détecte cet opérateur, les nœuds de l'ensemble du réseau exécuteront la transaction. De cette façon, le rôle joué par le script Bitcoin est plus de transférer les données pertinentes vers EVM, pas seulement en tant que langage de codage. Tout comme Ethereum exécute un contrat d'exécution de consensus, le contrat déclenché par les opérateurs OP_CREATE et OP_CALL, EVM changera son état dans sa propre base de données d'état.
+Compte tenu de la facilité d'utilisation du contrat d'exécution du consensus de la chaîne VDS, il est nécessaire de vérifier les données qui déclenchent le contrat et la valeur de hachage de la clé publique de la source de données.
+Afin d'éviter que la proportion d'UTXO sur la chaîne de VDS ne soit trop importante, la sortie de transaction de OP_CREATE et OP_CALL est t conçue pour être dépensée. La sortie de OP_CALL peut envoyer des fonds pour d'autres contrats ou adresses de hachage de clé publique.
+Tout d’abord, pour le contrat d'exécution consensuel créé sur la chaîne VDS, le système généreraune valeur de hachage de transaction pour l'appel de contrat.Le contrat nouvellement libéré a un solde initial de 0 (les contrats avec un solde initial ne sont pas 0 ne sont pas pris en charge). Afin de répondre aux besoins du contrat d'envoi de fonds, VDS utilise l'opérateur OP_CALL pour créer une sortie de transaction. Le script de sortie du contrat d'envoi de fonds est similaire à :
+1: the version of the VM
+10000: gas limit for the transaction
+100: gas price in Qtum satoshis
+0xF012: data to send to the contract (usually using the solidity ABI)
+0x1452b22265803b201ac1f8bb25840cb70afe3303:
+ripemd-160 hash of the contract txid OP_CALL
+Ce script n'est pas compliqué et OP_CALL effectue la plupart du travail requis. VDS définit le coût spécifique de la transaction (sans tenir compte de la situation de out-of-gas) comme Output Value, qui est Gas Limit. Le mécanisme spécifique du Gas sera discuté dans les chapitres suivants. Lorsque le script de sortie ci-dessus est ajouté à la blockchain, la sortie établit une relation correspondante avec le compte du contrat et se reflète dans le solde du contrat. Le solde peut être compris comme la somme des coûts contractuels disponibles.
+La sortie d'adresse de hachage de clé publique standard est utilisée pour le processus de base des transactions de contrat, et le processus de transaction entre les contrats est également généralement cohérent. En outre, vous pouvez effectuer des transactions par P2SH et des transactions non standard (non-standard transactions). Lorsque le contrat actuel doit être échangé avec un autre contrat ou une adresse de hachage de clé publique, la sortie disponible dans le compte du contrat sera consommée. Cette partie de la sortie consommée doit être présente pour la vérification des transactions dans le réseau de VDS, que nous appelons la transaction attendue du contrat (Expected Contract Transactions). Étant donné que la transaction attendue du contrat est générée lorsque le mineur vérifie et exécute la transaction, plutôt que d'être générée par l'utilisateur de la transaction, elle ne sera pas diffusée sur l'ensemble du réseau.
+Le principe de fonctionnement principal de la transaction attendue du contrat est réalisé par le code OP_SPEND. OP_CREATE et OP_CALL ont deux modes de fonctionnement. Lorsque l'opérateur est utilisé comme script de sortie, EVM l'exécute, lorsque l'opérateur est utilisé comme script d'entrée, EVM ne sera pas exécuté (sinon il provoquera une exécution répétée). Dans ce cas, OP_CREATE et OP_CALL peuvent être utilisés comme Opération sans commandement. OP_CREATE et OP_CALL reçoivent la valeur de hachage de transaction transmise par OP_SPEND et renvoient 1 ou 0 (c'est-à-dire il peut être dépensé ou pas). Il montre l'importance de OP_SPEND dans la transaction attendue de l'intégralité du contrat. Plus précisément, lorsque OP_SPEND transmet la valeur de hachage de transaction à OP_CREATE et OP_CALL, OP_CREATE et OP_CALL comparent si la valeur de hachage existe dans la liste des transactions attendues du contrat. S'il existe, renvoyez 1 pour dépenser, sinon retournez 0, ce n'est pas pour dépenser. Cette logique fournit indirectement un moyen complet et sûr de garantir que les fonds du contrat ne peuvent être utilisés que par le contrat, ce qui est cohérent avec le résultat des transactions UTXO ordinaires.
+Lorsque le contrat EVM envoie des fonds à l'adresse de hachage de clé publique ou à un autre contrat, une nouvelle transaction sera établie. À l'aide de l'algorithme de Consensus-critical coin picking, la sortie de transaction la plus appropriée peut être sélectionnée dans le pool de sortie disponible du contrat. La sortie de transaction sélectionnée sera utilisée comme script d'entrée pour exécuter un seul OP_SPEND, et la sortie est l'adresse cible des fonds, et les fonds restants seront renvoyés au contrat, tout en modifiant la sortie disponible pour la consommation. Ensuite, la valeur de hachage de cette transaction sera ajoutée à la liste des transactions attendues du contrat. Lorsque la transaction est exécutée, la transaction sera immédiatement ajoutée au bloc. Une fois que les mineurs de la chaîne ont vérifié et exécuté la transaction, la liste des transactions attendues du contrat est à nouveau parcourue. Une fois la vérification correcte, la valeur de hachage est supprimée de la table. De cette façon, l'utilisation de OP_SPEND peut effectivement empêcher l'utilisation de valeurs de hachage codées en dur pour modifier le coût de la sortie.
+La couche d'abstraction des comptes VDS élimine la nécessité pour l'EVM d'accorder trop d'attention à coin-picking. Il lui suffit de connaître le solde du contrat et peut échanger des fonds avec d'autres contrats ou même des adresses de hachage de clé publique. De cette façon, seule une légère modification du contrat d'exécution du consensus Ethereum peut répondre aux exigences de fonctionnement du contrat VDS.
+En d'autres termes, tant que le contrat d'exécution consensuel peut être exécuté sur la chaîne Ethereum, il peut s'exécuter sur la chaîne VDS.
+Achèvement de AAL
+La conception de la chaîne VDS est basée sur le modèle Bitcoin UTXO. La plate-forme générale de contrat d'exécution de consensus utilise le modèle de compte. Étant donné que le contrat en tant qu'entité nécessite un logo de réseau, ce logoest l'adresse du contrat, de sorte que le fonctionnement et la gestion du contrat d'exécution consensuel peuvent être effectués par cette adresse. La couche d'abstraction de compte est ajoutée à la conception du modèle (Account Abstraction Layer, AAL) de chaîne de VDS, qui est utilisée pour convertir le modèle UTXO en un modèle de compte qui peut être exécuté par le contrat.
+Pour les développeurs qui exécutent des contrats par consensus, le modèle de compte de la machine virtuelle est relativement simple. Il prend en charge l'interrogation des soldes des contrats et peut également envoyer des fonds pour d'autres contrats. Bien que ces opérations semblent très simples et basiques, toutes les transactions de la chaîne VDS utilisent le langage de script Bitcoin, et il est plus compliqué que prévu d'être implémenté dans la couche d'abstraction de compte de la chaîne VDS basée sur le modèle Bitcoin UTXO. AAL a donc élargi sa base en ajoutant trois nouveaux opérateurs :
+OP_CREATE est utilisé pour effectuer la création de contrats intelligents, transmettre le code d'octet transmis via la transaction à la base de données de stockage de contrats de la machine virtuelle et générer un compte de contrat.
+OP_CALL est utilisé pour transférer les données pertinentes et les informations d'adresse nécessaires pour appeler le contrat et exécuter le contenu du code dans le contrat. (Cet opérateur peut également envoyer des fonds pour des contrats d'exécution consensuels).
+OP_SPEND utilise la valeur de hachage de ID de contrat actuel comme transaction d'entrée HASH ou transaction HASH envoyée à l'UTXO du contrat, puis utilise OP_SPEND comme instruction de dépense pour créer un script de transaction.
+Utilisation des Contrats et processus du téléchargement à la chaîne
+Rédiger les contrats
+Il est actuellement possible d'utiliser le langage Solidity pour rédiger des contrats d'exécution de consensus.
+Utilisez Solidity Remix ou un autre Solidity IDE pour l'écriture et la compilation de code.
+solidity remix（https://remix.ethereum.org/）
+Il est recommandé d'utiliser le mode homestead pour compiler.
+Il est recommandé d'utiliser la version solidité 0.4.24 (si d'autres versions sont utilisées, cela peut provoquer des erreurs ou des échecs).
+La syntaxe Solidity peut être référencée（https://solidity.readthedocs.io/en）
+Compiler et déployer les contrats
+Fonctionnement du contrat intelligent de vdsd
+Examiner les variables de fonctionnement de l'environnement
+vdsd -txindex=1 -logevents=1 -record-log-opcodes=1 -regtest=1
+> Les tests sous contrat sont effectués dans l'environnement de test. Il est recommandé de tester après avoir atteint une hauteur de 440 blocs.
+440 blocs hautement achevés l'opération de retour de fonds après les événements anormaux du contrat (refund) et (revert).
+La commande de contrat de déploiement est :
+```vds-cli deploycontract bytecode ABI parameters```
+- bytecode (string, required) contract bytecode.
+- ABI (string, required) ABI String must be JSON formatted.
+- parameters (string, required) a JSON array of parameters.
+Cette fonction est utilisée pour l'exécution du constructeur du contrat avec les paramètres entrants pour obtenir le ByteCode qui est finalement utilisé pour le déploiement.
+(Cette méthode consiste à associer le bytecode à ABI et à le stocker localement pour l'enregistrement. Il peut appeler des méthodes internes localement et renvoyer le bytecode approprié)
+```vds-cli createcontract bytecode (gaslimit gasprice senderaddress broadcast)```
+- bytecode (string, required) contract bytecode.
+- gaslimit (numeric or string, optional) gasLimit, default is DEFAULT_GAS_LIMIT, recommended value is 250000.
+- gasprice (numeric or string, optional) gasprice, default is DEFAULT_GAS_PRICE, recommended value is 0.00000040.
+- senderaddress (string, optional) The vds address that will be used to create the contract.
+- broadcast (bool, optional, default=true) Whether to broadcast the transaction or not.
+- changeToSender (bool, optional, default=true) Return the change to the sender.
+La valeur de retour est : txid, éxpéditeur, hachage de l'expéditeur160, adresse du contrat
+Consulter si la commande a été exécutée avec succès :
+```vds-cli gettransactionreceipt txid```
+La valeur de retour de txid pour les transactions non contractuelles est vide
+La valeur de retour est : Les informations pertinentes de txid sur la BlockHash Hachage du bloc
+- blockNumber Hauteur de bloc
+- transactionHash Hachage de transaction
+- transactionIndex La position de l'échange dans le bloc
+- from Hachage de l’adresse de l’expéditeur 160
+- to Le destinataire est l'adresse du contrat, le lieu de création de la transaction contractuelle est 00000000000000000000000000000
+- cumulativeGasUsed Gas accumulé
+- gasUsed Gaz réellement utilisé
+- contractAddress Adresse du contrat
+- excepted Y a-t-il des erreurs
+- exceptedMessage Message d'erreur
+-
+Il convient de noter que le champ excepted n'est pas None, ce qui indique que l'exécution du contrat a échoué. Bien que la transaction puisse être vérifiée sur la chaîne, cela ne signifie pas que le contrat a été exécuté avec succès, c'est-à-dire que les frais de traitement pour l'exécution de ce contrat ne sont pas remboursables. Les frais de traitement ne seront remboursés que si la méthode revert est entrée dans le contrat, et les frais de méthode ne seront pas remboursés pour la méthode assert.
+Appel des contrats
+```vds-cli addcontract name contractaddress ABI decription```
+- name (string required) contract name.
+- contractaddress (string required) contract address.
+- ABI (string, required) ABI String must be JSON formatted.
+- description (string, optional) The description to this contract.
+Cette fonction est utilisée pour ajouter le contrat ABI à la base de données locale.
+```vds-cli getcontractinfo contractaddress```
+- contractaddress (string required) contract address.
+Cette fonction est utilisée pour obtenir les informations du contrat ajouté.
+```vds-cli callcontractfunc contractaddress function parameters```
+- contractaddress (string, required) The contract address that will receive the funds and data.
+- function (string, required) The contract function.
+- parameters (string, required) a JSON array of parameters.
+Cette fonction renverra le résultat de l'exécution lors de l'appel de la méthode constante ordinaire, comme l'appel de la méthode d'opération de données de contrat retournera la chaîne de format hexadécimal du script d'opération.
+```vds-cli sendtocontract contractaddress data (amount gaslimit gasprice senderaddress broadcast)```
+- contractaddress (string, required) The contract address that will receive the funds and data.
+- datahex (string, required) data to send.
+- amount (numeric or string, optional) The amount in " + CURRENCY_UNIT + " to send. eg 0.1, default: 0
+- gaslimit (numeric or string, optional) gasLimit, default is DEFAULT_GAS_LIMIT, recommended value is 250000.
+- gasprice (numeric or string, optional) gasprice, default is DEFAULT_GAS_PRICE, recommended value is 0.00000040.
+- senderaddress (string, optional) The vds address that will be used to create the contract.
+- broadcast (bool, optional, default=true) Whether to broadcast the transaction or not.
+- changeToSender (bool, optional, default=true) Return the change to the sender.
+Cette fonction est utilisée pour envoyer le script d'opération de contrat au contrat spécifié et le faire enregistrer sur la blockchain.
+Consultation des résultats d’exécution des contrats
+```vds-cli gettransaction txid```
+Cette commande est utilisée pour afficher les heures de confirmation de la transaction de portefeuille actuelle.
+```vds-cli gettransactionreceipt txid```
+Cette commande est utilisée pour vérifier les résultats d'exécution de la création de contrat et des transactions d'appel, s'il y a des exceptions levées et des consommations réelles de GAS.
+`${datadir}/vmExecLogs.json` enregistrera les appels de contrat sur la blockchain. Ce fichier servira d'interface externe pour les événements de contrat.
+Interface d'appel des contrats
+l Interface de création de contrat createcontract
+l Interface de déploiement de contrat deploycontract
+l Interface d'ajout ABI addcontract
+l Interface d’appel des contrats avec l’opération des fons sendtocontract
+l Interface de lecture des informations sur les contrats callcontractfunc
+l Interface d'acquisition d'informations sur l'exécution des transactions contractuelles gettransactionreceipt
+L’expliquation des coûts d’expoitation des contrats
+Les coûts de fonctionnement de la création d'un contrat sont toutes des méthodes estimées, et un succès d'exécution à 100% ne peut pas être garanti, car gas limit a une limite supérieure de 50000000, et les contrats dépassant cette limite entraîneront un échec. La chaîne de VDS utilise une méthode de rendre la monnaie, ce qui signifie que même si beaucoup de gaz est envoyé, le mineur n'utilisera pas tout le gas et restituera le gas restant. Alors ne vous inquiétez pas de dépenser trop de gas.
+Le coût de création d'un contrat est approximativement de la taille du Byte Code * 300 comme gas limit, le gas price minimum est de 0.0000004, gas price * gas limit est le coût de création d'un contrat.
+En ce qui concerne l'exécution de la méthode dans un contrat, le gas requis est estimé. En raison de la congestion du réseau, l'estimation ne garantit pas que 100% peuvent être téléchargés avec succès dans la chaîne. Par conséquent, je crains de tromper et de demander au développeur de vérifier les résultats.
+submitted by YvanMay to u/YvanMay [link] [comments]
+Brave.
+Brave est un navigateur blockchain type Open source qui met la vie privée des utilisateurs en tête et bloque par défaut les publicités et les trackers. Il dispose d'un cryptage de bout en bout des données et d'un client VPN/TOR intégré, il vous permet de travailler avec des torrents et des liens magnet, il prend en charge des applications décentralisées ... et, en plus, il paie les utilisateurs pour chaque affiche des publicités avec des Basic Attention Tokens natifs. Pour ce faire, la portefeuille de crypto-monnaie est intégré dans le navigateur, qui prend en charge des BAT.
+​
+Basic Attention Token n'est pas une sorte de noname sur la ligne 2000 de CoinMarketCap. Ceci est une crypto-monnaie, qui est à la place 30 en termes de capitalisation, elle est à vendre sur toutes les plus grandes bourses, telles que Binance, et elle est soutenue par tous les portefeuilles de crypto-monnaie populaires.
+​
+À ce jour Brave est considéré comme l'un des meilleurs navigateurs pour le Web 3.0.
+​
+Le navigateur blockchain Brave a été introduit en 2015 pour la première fois. Le fondateur du projet est Brendan Eich, co-fondateur de Mozilla Project et créateur de JavaScript. Sabge fonctionne sur la base de Chromium de Google, et son code source est entièrement ouvert. Il y a des versions pour Windows, MacOS, Linux, IOS et Android.
+​
+Le fait intéressant: en 2018, Brave Software Inc. a fini à la douzième place dans le classement des entreprises technologiques les plus prometteuses à surveiller, selon le Wall Street Journal. En outre, Brave est devenu le navigateur par défaut dans le smartphone blockchain HTC EXODUS.
+​
+Les trucs essentiels du navigateur:
+​
+- la possibilité de gagner des Basic Attention Tokens (BAT) pour regarder des publicités, créer du contenu, participer à airdrops et effectuer des tâches simples (nous en parlerons plus en détail ci-dessous);
+​
+- bloquer les publicités, les bannières, les pop-ups, les trackers et les cookies de tiers par défaut (vous pouvez également désactiver les boutons des réseaux sociaux et les messages intégrés dans les paramètres);
+​
+- cryptage de bout en bout des données, VPN et TOR intégrés, HTTPS forcé (par exemple, en plus de la fonction trés connue « ouvrir l'onglet privé », il y a aussi une fonction « ouvrir l'onglet privé avec TOR »);
+​
+- portefeuille crypto-monnaie intégrée avec le soutien de Basic Attention Tokens, Bitcoin, ethereum et lightcoin, qui vous permet de travailler avec des applications décentralisées basées sur ethereum et ETH-nodes. L'icône pour accéder au portefeuille se trouve juste à côté de la barre d'adresse, et l'interface ressemble à MetaMask. Pour trouver votre adresse et recharger votre portefeuille, cliquez sur Add funds. Pour obtenir SEED à restaurer, appuyez sur l'engrenage.
+​
+- système de micropaiement Brave Payments intégré. En bref, vous pouvez effectuer de petits paiements en faveur de vos sites préférés que vous visitez le plus souvent : dans les paramètres, il suffit de spécifier le montant en BAT ou d'une autre crypto monnaie que vous êtes prêt.e.s à dépenser dans un mois, et le navigateur lui-même divisera l'argent entre les ressources que vous choisissez proportionnellement au nombre de vos visites;
+​
+NB: les identifiants de portefeuilles et toutes les transactions sont anonymes, donc personne, même Brave lui-même, ne sait qui à qui et combien de BAT il envoie.
+​
+- possibilité d'envoyer des dons directement aux créateurs de contenu, tels que les blogueurs qui ont leur propres sites ou les utilisateurs de YouTube, Twitch et Twitter. Par ailleurs, le navigateur détermine lui-même les créateurs de la vidéo, indépendamment du site sur lequel la vidéo est publiée.
+​
+- prise en charge des fichiers torrent et des liens magnet.
+​
+En plus, puisque le navigateur est basé sur Chromium, vous pouvez synchroniser rapidement vos données, signets, histore et onglets.
+​
+Les analystes confirment la perspective prometteuse du navigateur Brave — même si l'utilisateur n'est pas intéressé par une publicité de qualité, il va avoir un excellent navigateur rapide pour accéder l’Internet. De son coté, les annonceurs reçoivent un outil d'analyse offrant des données pertinentes sur l'activité des utilisateurs.
+Télécharger https://brave.com/vad601
+submitted by vadim77top to u/vadim77top [link] [comments]
+Faites péter la thune maintenant !
+Bonjour
+Je suis un hacker qui a accès à ton système d'exploitation.
+J'ai aussi accès à ton compte.
+Je t'ai observé pendant quelques mois.
+Le fait est que tu as été infecté par un virus sur un site porno que tu as visité
+​
+Si tu n'es pas habitué, je vais t'expliquer.
+Les chevaux de troye me donnent un accès complet sur un ordinateur ou autre.
+Cela veut dire que je peux voir tout sur ton écran, activer la caméra ou le micro, mais tu n'en sais rien.
+J'ai aussi accès à tous tes contacts et tes correspondances.
+​
+Pourquoi ton antivirus n'a pas détecté le virus
+Réponse: mon virus utilise le pilote, et je mets à jour ses signatures toutes les 4 heures pour que ton antivirus la ferme.
+​
+J'ai fait une vidéo montrant comment tu te pognes le jonc dans la moitié gauche de l'écran, et dans la moitié droite on voit la vidéo que tu étais en train de regarder.
+Avec un simple click de souris, je peux envoyer cette vidéo à tout tes contacts.
+Je peux aussi publier tous tes identifiants des messageries et des réseaux sociaux que tu utilises.
+Si tu veux empêcher ça,
+transfère le montant de 5,219,281.82$ à mon adress bitcoin (si tu ne sais pas comment faire, écris à google: "Acheter bitcoin")
+Mon adresse bitcoin (BTC Wallet) est: MaBiteDansTonCulTuLaSens?
+Après avoir reçu le payment, je supprimerai la vidéo et tu n'entendras plus jamais parler de moi.
+Je te donne 50 heures (plus de 2 jours) pour payer.
+J'ai un avis de reception concernant la lecture de ce texte, et le compte à rebours a déjà commencé.
+Déposer plainte n'a aucun sens car ce poteau ne peut pas être tracké, tout comme mon portefeuille bitcoin.
+Je ne fais jamais d'erreurs.
+Si je me rends compte que tu as partagé ce message with quelqu'un d'autre, la vidéo sera immédiatement distribuée.
+Meilleurs regards.
+submitted by zbouboutchi to rance [link] [comments]
+Hive Bitcoin wallet now available in French!
+submitted by grabhive to Bitcoin [link] [comments]
+IMPORTANT! Vous avez été enregistré ʍasturbant! J'ai ********.mp4!
+POUR: ********@gmail.com
+​
+Salut,
+​
+La dernière fois que vous avez visité un site Web
+Ƿornographίque avec des adolescents, vous avez
+téléchargé et installé le logiciel que j'ai développé.
+​
+Mon programme a allumé votre appareil photo et
+enregistré le processus de votre ʍasturbation.
+​
+Mon logiciel a également récupéré toutes vos listes
+de contacts par courrier électronique et une liste
+de vos amis sur Facebook.
+​
+J'ai le - ********.mp4 - avec vous
+pour vous ʍasturber jusqu'aux adolescents
+ainsi qu'un fichier avec tous vos contacts sur mon
+ordinateur.
+​
+Vous êtes très pervers!
+​
+​
+Si vous voulez que je supprime les deux fichiers
+et que je garde le secret, vous devez m'envoyer le
+paiement Bitcoin.
+Je vous donne 72 heures pour le paiement.
+​
+Si vous ne savez pas comment payer avec Bitcoin,
+visitez Google et effectuez une recherche.
+​
+Envoyez 2.000 EUR (0.444217 BTC) à cette
+adresse Bitcoin dès que possible:
+​
+********
+(copier et coller)
+​
+1 BTC = 4.580 EUR, actuellement, envoyez donc exactement 0.444217 BTC
+à l'adresse indiquée ci-dessus.
+​
+​
+​
+N'essayez pas de me tromper!
+Dès que vous ouvrez cet email, je saurai que
+vous l'avez ouvert.
+Je suis en train de suivre toutes les actions sur votre
+appareil.
+​
+Cette adresse Bitcoin n’est liée qu’à vous.
+Je saurai donc quand vous enverrez le montant exact.
+Lorsque vous payez en totalité, je vais supprimer les deux
+fichiers et désactiver mon programme.
+​
+Si vous n'envoyez pas le paiement, j'enverrai votre
+vidéo de ʍasturbation à tous vos amis et associés
+à partir de vos listes de contacts que j'ai piratées.
+​
+Voici à nouveau les détails du paiement:
+​
+​
+Envoyer 2.000 EUR (0.444217 BTC)
+à cette adresse Bitcoin:
+​
+***********************************************
+********
+​
+(copier et coller)
+***********************************************
+​
+​
+Vous pouvez rendre visite à la police mais personne
+ne peut vous aider. Je sais ce que je fais.
+Je ne vis pas dans votre pays et je sais rester anonyme.
+​
+N'essayez pas de me tromper - je le saurai
+tout de suite - mon logiciel espion enregistre tous les
+sites Web que vous visitez et toutes les touches sur
+lesquelles vous appuyez.
+Si vous le faites, je vais envoyer cet enregistrement
+moche à tous ceux que vous connaissez,
+y compris votre famille.
+​
+​
+Ne me trompe pas!
+N'oubliez pas la honte et si vous ignorez ce message,
+votre vie sera ruinée.
+​
+J'attends votre paiement Bitcoin.
+Il vous reste 72 heures.
+​
+​
+Pirate Anonyme
+submitted by username_choose_a to rance [link] [comments]
+Les pieces stables
+Que sont les pièces stables? USDT, TUSD, GUSD, USDC et USDQ
+Que sont les pièces stables? USDT, TUSD, GUSD, USDC et USDQ
+Dans cet article, Slava Mikhalkin parle de l' USDQ , un stablecoin entièrement algorithmique offrant fiabilité et facilité de sécurisation pour Bitcoin. Travaillant en tant qu'architecte de chaînes de blocs avec PLATINUM ENGINEERING, Slava collabore avec l'équipe de + 200 employés pour développer des solutions innovantes dans les portefeuilles en marque blanche , les STO et les plates-formes de collecte de fonds des IEO.et des modèles commerciaux à cycle complet pour les projets de chiffrement. Une proposition de valeur clé, apportée par PLATINUM ENGINEERING, est une approche holistique, dans laquelle un pool de talents polyvalent aide les startups à renforcer leurs capacités en informatique, en marketing et en droit. L'USDQ, unique et décentralisé, présente divers algorithmes de stabilisation des prix, un système complexe d'incitations pour les traders et un module d'analyse prédictive basé sur l'IA. Ce roman de stablecoin est à noter tant qu'il est en train de prendre de la vitesse.
+Avant-propos
+Il est clair que les cryptomonnaies entrent progressivement dans l’économie mondiale et se rapprochent de l’adoption massive. Les crypto-monnaies offrent un certain nombre d'avantages - décentralisation et confiance, réduction des commissions et désintermédiation - qui permettent aux utilisateurs d'effectuer plus facilement leurs transactions quotidiennes. Tout le monde peut transférer de la valeur dans le monde entier, en gagnant du temps de traitement rapide.
+En comparaison, envoyer de la valeur au-delà des frontières via des systèmes financiers traditionnels nécessite de longues périodes d'attente et des frais, tout en contraignant les utilisateurs à suivre des processus extrêmement complexes. Par exemple, si une personne du Japon veut envoyer de l'argent en Angleterre, les frais peuvent varier de 5% à 10%, selon le système utilisé. En outre, il y aura des frais de conversion de devise. Il semble que les joueurs centralisés, qui manquent actuellement de concurrence, fixent les frais et les commissions comme ils le souhaitent.
+Et ce sont les commerçants qui effectuent des transactions transfrontalières qui trouvent le plus pénible de travailler avec des institutions de financement traditionnelles. Ils continuent à perdre de gros montants de leurs bénéfices potentiels, ne faisant que payer des frais aux processeurs de paiement. Cela incite les entreprises à augmenter leurs prix et à répercuter ces dépenses sur les consommateurs ordinaires. Crypto propose un changement de paradigme, apportant à la table une vitesse fulgurante et des frais réduits. Bien que les cryptomonnaies retiennent de plus en plus l'attention des marchands du monde entier, il existe encore de nombreux obstacles à une adoption plus large, parmi lesquels la volatilité des prix, les limitations en matière d'évolutivité et autres.
+La volatilité est certes le plus gros obstacle qui empêche les entreprises d’utiliser davantage de cryptomonnaies. Bitcoin peut connaître d’énormes fluctuations en quelques heures, voire quelques minutes. En outre, des pièces majeures comme Bitcoin et Ethereum posent des problèmes d’évolutivité, ce qui entraîne un temps de traitement élevé. Un commerçant, qui doit traiter des centaines de paiements quotidiennement, ne pourrait pas gérer ses affaires efficacement si les transactions se trouvaient bloquées plusieurs jours de suite. En plus de cela, il est extrêmement difficile pour les adoptants de convertir les crypto-monnaies en fiat via les banques et les autres agents financiers avec lesquels ils travaillent habituellement.
+Les crypto-monnaies cherchent à offrir des solutions à tous ces problèmes.
+Qu'est-ce que stablecoin?
+Un stablecoin est une crypto-monnaie, dont l'architecture permet à son prix d'être toujours égal au prix d'un autre actif. La plupart des pièces en dollars sont indexées sur le dollar américain. Les plus grands noms des crypto-monnaies sont Tether, Dollar Gemini, USDQ, TUSD et autres.
+Comment les Stablecoins parviennent-ils à être aussi stables?
+Contrairement aux autres pièces qui flottent librement, les crypto-monnaies stables exigent que chaque unité soit adossée à une unité de la monnaie fiduciaire. Par exemple, Tether (USDT) fixe 1 USDT à 1 USD sur une base individuelle. De cette manière, les pièces de monnaie sont quelque part entre les crypto-monnaies et les fiats ordinaires. Tether est basé sur sa propre blockchain construite sur les systèmes Bitcoin, Litecoin et Ethereum.
+Bien que Tether soit la plus grande caisse stable, son fonctionnement soulève un certain nombre de problèmes. Le plus important est la controverse persistante sur les réserves en fiat, que l'émetteur est censé stocker sur un ratio de un pour un par rapport au nombre d'unités Tether émises. La société a déclaré que la vérification serait effectuée dans un proche avenir, mais il y a quelques semaines à peine, elle a commencé à affirmer qu'il ne s'agissait pas uniquement de liquidités, mais également de prêts à d'autres sociétés pouvant être enregistrés en tant que réserves fiduciaires. Ces déclarations ont entraîné une méfiance croissante parmi les passionnés de cryptographie.
+Un autre projet est TrueUSD (TUSD). Il se fixe également à USD. La différence avec Tether réside dans l'ouverture aux audits et à la transparence. La société est ouverte aux audits tiers, elle publie les rapports dûment vérifiés sur les réserves fiduciaires qu'elle détient. De plus, les utilisateurs bénéficient de protections légales.
+USDC est un autre stablecoin créé par le fameux Cercle de crypto-monnaie d'échange. Tout comme TUSD, si offre la conformité réglementaire et la transparence. Le gros problème de tous ces systèmes est le fait qu’ils permettent aux autorités de saisir les fonds des utilisateurs, ce qui va totalement à l’encontre de l’idée même de décentralisation et de lutte contre la censure, sur laquelle repose la crypto.
+USDQ est différent des autres monnaies stables puisqu'il ne s'appuie pas sur la devise fiduciaire, mais sur le bitcoin et les 10 autres crypto-monnaies du futur. Cela permet à l'écosystème d'éviter de traiter avec les systèmes financiers traditionnels. Grâce au processus de surdimensionnement, USDQ transforme des crypto-monnaies très volatiles en USDQ indexé en USD, ce qui est parfait pour stocker de la valeur et traiter des transactions dans l’économie externe sans aucun risque de variation de prix. La pièce est développée par PLATINUM ENGINEERING et la petite communauté grandit lentement autour du projet.
+Pourquoi avons-nous besoin de Stablecoins?
+Les Stablecoins ont évolué en tant que nouvelle itération sur les crypto-monnaies, permettant de résoudre des problèmes tels que la forte volatilité et les interactions avec les systèmes financiers traditionnels.
+Des pièces comme USDQ s’assurent que divers mécanismes sont utilisés afin de stabiliser les prix à la parité USD. Les traders peuvent facilement convertir leurs Bitcoins en USDQ et éviter ainsi l’impact négatif sur les variations de prix indésirables. Les pièces Stablecoins sont très faciles à utiliser, ce qui est une aubaine pour les utilisateurs non avertis. Toute personne de partout dans le monde peut rapidement convertir une propriété en monnaie stable, sans avoir à se préoccuper des futurs changements de prix et sans s'inquiéter des risques potentiels de perte de fonds. En règle générale, vous trouverez toujours divers billets de banque sur les échanges cryptés, ce qui permet aux traders de se déplacer rapidement autour des écuries et autres cryptos.
+Comme nous l'avons dit plus haut, les paiements transfrontaliers sont ceux qui gagnent le plus avec l'utilisation des stablecoins. Cette espèce hybride entre fiat et crypto contribuera à ouvrir la valeur cachée du commerce mondial, représentant des milliards de dollars de profits pour les parties prenantes.
+USDQ est un stablecoin décentralisé , qui utilise des algorithmes pour offrir une stabilité et une fiabilité accrues . Entièrement en chaîne et surveillé par des robots d’intelligence artificielle à grande vitesse, l’écosystème offre des défenses fiables contre les attaques et les actes malveillants. Première ligne de fabrication de pinces fiat, l'USDQ est présenté par l'équipe PLATINUM ENGINEERING, qui cherche à trouver des solutions innovantes en matière de garantie, en utilisant des mécanismes de stabilisation et des oracles pour les pièces de grande endurance. Entièrement anonyme, USDQ dépasse les limites de ce monde hérité.
+PLATINUM ENGINEERING partage ouvertement son développement et ses vecteurs de croissance, permettant aux parties prenantes d’en apprendre davantage sur les solutions de pointe dans le domaine des chaînes de blocs / cryptage. PLATINUM ENGINEERING a déjà permis à plus de 150 projets de cryptographie de se développer grâce à l’économie émergente de la blockchain. Les entreprises seraient émerveillées par les nouvelles capacités qu’elles peuvent obtenir grâce à la reconnaissance de leurs modèles commerciaux, à l’automatisation des processus opérationnels habituels et à l’attrait des investisseurs sur les marchés de la cryptographie. L'équipe invite la communauté à contacter directement via les groupes officiels de Telegram , Facebook ou LinkedIn . Les lecteurs apprendront à obtenir de nouveaux avantages concurrentiels en exploitant la blockchain de leur blog .
+submitted by leonce1998 to u/leonce1998 [link] [comments]
+Crypto-banque.com: Enorme Arnaque, à éviter absolument, en cas de doute, n'hésitez pas à poser la question à la communauté
+Eviter ces sites crypto-banque.com / cryptobanque.eu / trade.crypto-banque.com et partagez à votre entourage.
+==> N'importe quel "courtier de crypto-monnaies et autres crypto-assets" vous promettant un % garanti sur votre investissement VOUS MENT et veut profiter de vous. Je connais personnellement une personne ayant perdu entre 50K et 100K à crypto-banque.com.
+En cas de doute, posez la question sur ce sub-reddit ou encore mieux, sur les Reddit-anglophones (CryptoCurrency, Bitcoin, ethereum, cardano etc...) bien plus matures et qui connaissent toutes les arnaques. Si vous ne parlez pas anglais, utilisez Google Translate pour traduire votre message.
+Il est temps que les gens comprennent que le principe même des crypto-monnaies est d'éviter tous les intermédiaires, de court-circuiter banques et courtiers etc... Avec les cryptos, votre argent est envoyé directement de particulier à particulier sans passer par un tiers. Vous devenez votre propre banque, et êtes responsable de la sécurité de vos fonds. C'est très facile en respectant des règles simple. Si vous savez envoyer un mail, vous êtes capable de le faire :)
+La communauté est là pour vous aider et répondre à vos interrogations, n'hésitez pas à poser des questions!
+submitted by ReportFromHell to BitcoinFrance [link] [comments]
+COMMENT UBRICOIN FAIT SUR LE MARCHÉ
+Qu'est-ce que l'ubricoin?
+Ubricoin est une application décentralisée (DApp) construite sur le protocole Ethereum. C'est un jeton d'utilité d'égal à égal qui incitera n'importe qui dans le monde à faciliter la production de produits de santé.
+Pourquoi Ubricoin?
+Ubricoin agira comme une réserve de valeur, il perdra de la valeur, tout comme le font les actions ordinaires. Ubricoin peut ainsi être considéré comme un instrument d’investissement. Nous avons vu d’autres crypto-monnaies prendre énormément de valeur. Ce pouvoir intrinsèque de la crypto-monnaie à la hausse de valeur (comme ce qui s’est passé avec le bitcoin) leur confère les caractéristiques du métal précieux, tel que l’or. Comme vous le savez, le prix de l’or change avec le temps.
+Les personnes avec des actions peuvent accéder à l'écosystème de l'ubrica comprenant:
+Soko Janja
+Centres cliniques de vente au détail
+Ubrica Parcs scientifiques et
+technologiques Cité industrielle biomédicale
+Ubricoin est livré avec un programme d'incitation intégré pour l'excellence. Les gens recevront des récompenses / points de fidélité pour faire le bien.
+Les acheteurs de Soko Janja recevront des récompenses: si vous achetez quelque chose qui est produit localement sur soko janja, vous recevrez des points de fidélité qui peuvent être convertis en espèces ainsi que des articles à prix réduit.
+Comment se porte l'ubricoin sur le marché
+Ubricoin se porte très bien. UBN sera une devise phare pour les services médicaux, la recherche et le développement, l'innovation, la traduction et la commercialisation de la connaissance. Les médecins et les professeurs d'université sont enthousiastes à l'idée d'apprendre les UBN et de les recevoir en paiement de leurs services.
+Services médicaux
+Tous les médecins membres de la Kenya Medical Association (KMA) sont éligibles pour recevoir 500 UBN afin de faciliter l'apprentissage du travail avec les devises numériques. Ces connaissances incluent la création de portefeuilles numériques, la protection des portefeuilles avec une phrase générique, une clé privée et des mots de passe. Ils apprendront également à utiliser leur portefeuille pour envoyer ou recevoir de l'argent.
+Recherche et développement
+La recherche et développement (R & D) cible les étudiants universitaires et leurs chargés de cours / professeurs. Cette population est enthousiasmée par le fait que, pour la première fois dans l’histoire du Kenya, il disposera d’une monnaie (de l’argent) pour appuyer ses travaux de recherche et développement.
+Grâce à vous, chaque Noël chez Ubrica est plus agréable que le précédent. Vous nous aidez à faire une meilleure organisation. Merci pour votre confiance et votre confiance en nous. Nous sommes impatients de vous servir l'année prochaine.
+Pour plus d'informations, contactez Tel +254755844017 ou écrivez-nous à [email protected]
+submitted by Ubricoin to u/Ubricoin [link] [comments]
+Les bitcoins sont un type de monnaie virtuelle utilisée dans un système de pair à pair (P2P). Ils sont créés en passant par un processus appelé « minage » et il est possible d'en acheter sur des plateformes d'échange en ligne. Une fois que vous les avez gagnés ou achetés, vous pouvez les envoyer et en recevoir en utilisant un programme spécial. Dans cet article, nous allons vous accompagner pour déposer vos bitcoins sur Kraken.Cette démarche n'est soumis à aucun frais de la part de Kraken. Cela dit, l'exchange ou le wallet à partir duquel vous allez envoyer vos BTC peut éventuellement vous faire payer des frais. Premièrement, connectez-vous sur Kraken.Dirigez-vous ensuite dans l'onglet Funding. Nebeus bank: La banque cryptographique de l’Afrique qui permet d’envoyer des bitcoins à des africains. Pour le moment Nebeus bank fonctionne uniquement au Nigeria, Ghana, Rwanda et Afrique du Sud. On attend encore l’implantation dans les pays francophones. Comment envoyer des Bitcoins sur Binance 1. Votre inscription sur Binance. Pour pouvoir envoyer des bitcoins avec Binance, vous devrez d’abord vous inscrire sur cette plateforme. Cependant, ce n’est vraiment pas difficile. Pour commencer, il vous suffit de cliquer sur le drapeau de la langue dans laquelle vous voulez que la plateforme soit ... Pourquoi trader plutôt qu’acheter Bitcoin pour des rendements rapides. Vous n’avez pas besoin d’un portefeuille: Vous tradez sur les mouvements de prix du coin sans avoir besoin de l’acheter et de le stocker.; Vous pouvez utiliser des méthodes de paiement standards: Tous les brokers régulés acceptent des méthodes de paiement populaires telles que les cartes de débit/crédit et ...
+[index] [211] [3619] [7035] [6883] [7292] [4667] [1870] [4551] [3876] [3621]
+Comment puis-je transférer mes cryptos? - YouTube
+Cette vidéo traite de la propriété des cryptomonnaies sur eToro et de la façon dont, à l'avenir, nous vous permettrons de transférer des crypto-monnaies à vo... 🔴 Petit Guide que je recommande pour commencer à bien gagner avec les Bitcoins : http://bit.ly/GuideBitcoinSimple 💰 (prendre l'option standard) Lien du site ... Liens des faucets présentés ️ https://bit.ly/2QVsr3k ⬅️ ️ https://bit.ly/2wJ6Hkk ⬅️ Liens du micro wallet ️ https://bit.ly/3bA1Sst ⬅️ 2 nouveaux faucets p... Un portefeuille Bitcoin c'est là où vous pouvez stocker, recevoir et envoyer des bitcoins. C'est comme votre propre «compte en banque». Pour gagner les BTC gratuitement

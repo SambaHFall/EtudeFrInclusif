@@ -1,0 +1,128 @@
+Pour bénéficier de notre offre spéciale découverte, vous devez vous inscrire en choisissant un pseudo et un mot de passe.
+Votre numéro de carte bancaire vous sera également demandé afin de vérifier votre majorité.
+Au-delà de cette période d'essai, vous pourrez acheter des crédits avec cette carte bancaire si vous le souhaitez. Il ne s'agit pas d'un abonnement.
+Vous pouvez également acheter des crédits via SMS.
+Comment faire pour recréditer mon compte ?
+Pour acheter des crédits, vous devez tout d'abord vous connecter avec vos identifiants. Vous serez ensuite directement dirigé vers la page vous permettant d'acheter des packs de crédits.
+Mon paiement est refusé. Pourquoi ?
+Si votre paiement est refusé, veillez à utiliser les données correctes et à ne pas appuyer malencontreusement sur CAP-LOCK et NUM-LOCK. Contrôlez aussi qu'il n'y a pas de problème avec la carte de paiement que vous utilisez. Si le problème persiste, n'hésitez pas à nous contacter ou à essayer une des autres options de paiement.
+Je souhaite plus d'information sur un débit bancaire
+Pour obtenir plus d'information sur un débit bancaire, connectez-vous sur www.dnxpay.com.
+Je ne vois aucune option de paiement. Pourquoi ?
+Nous essayons de proposer dans chaque pays les modes de paiement les plus utilisés. Malheureusement, nous n'en proposons pas encore dans votre pays pour l'instant.
+?Votre compte
+J'ai oublié mes identifiants
+Pour récupérer vos identifiants, allez sur la page d'entrée en connexion et cliquez sur le lien 'login/mot de passe oublié'. Ensuite, complétez votre nom d'utilisateur ou votre adresse électronique. Vos identifiants seront envoyées sur votre boîte de messages électronique. Ceci peut durer 1 à 2 minutes.
+Comment supprimer mon compte ?
+Pour supprimer votre compte, vous devez tout d'abord vous connecter avec vos identifiants. Ensuite, allez dans "Mon compte" (en bas de la page). Cliquez ensuite sur "Supprimer mon compte".
+Comment fonctionnent les notifications de navigateur ?
+Vous pouvez être notifié par une petite pop-in navigateur quand vos modèles favoris se connectent, quand vous recevez un message ou lors d'une promo saisonnière. Vous pouvez accepter cela en cliquant sur "Autoriser" quand on vous demande d'autoriser ou bloquer les notifications navigateur. Si vous voulez désactiver les notifications déjà actives, faites le dans les paramètres de votre navigateur. Les notifications navigateur sont gérées par OneSignal, une compagnie tierce. Nous n'envoyons pas vos données privées à OneSignal. Veuillez noter que les notifications apparaissent même quand vous n'êtes pas sur notre site, que ce soit sur mobile ou ordinateur de bureau. Si vous avez cliqué sur "Ne pas autoriser" par accident, vous pouvez changer cela dans les paramêtres de votre navigateur.
+Vous pouvez également activer ou désactiver les notifications du navigateur depuis la page des paramètres de votre compte.
+?Problèmes techniques
+L'image de la webcam est de mauvaise qualité
+Les images live de nos modèles webcam sont envoyées par internet. La connexion internet des modèles webcam détermine donc la qualité des images.
+Ma webcam ne fonctionne pas
+Dans un premier temps, nous vous invitons à vérifier si votre webcam fonctionne bien dans un autre programme (Skype, Msn...).
+Si elle fonctionne, merci de cliquer droit dans la zone où l'image de votre webcam devrait apparaitre et sélectionnez votre webcam.
+Vérifiez qu'aucun autre programme n'utilise votre webcam en ce moment.
+Si malgré ces vérifications, le problème persiste, merci de réinstaller le logiciel de votre webcam. Vous le trouverez sur le site internet de la marque de votre webcam.
+Mon navigateur se bloque continuellement
+Merci de désinstaller et de réinstaller Adobe Flash Player.
+Pour les utilisateurs de Windows VISTA:
+Si le problème se présente encore après la réinstallation de Flash, il peut également être causé par un problème d'autorisation de Microsoft Windows Vista.
+Cliquez sur le bouton Windows, puis sélectionnez la fonction recherche:
+Go to: C:\Windows\System32\Macromed\Flash\
+Cliquez droit de la souris sur le fichier: FlashUtil9b.exe ou FlashUtil9e.exe
+Sélectionnez 'Exécuter comme Administrateur' et installez la mise à jour
+Redémarrez votre ordinateur.
+J'ai un message d'erreur: Loading preferences failed ... Probably firewall issue (port 1935). Que dois-je faire ?
+La plate-forme de chat live par webcam utilise différents 'ports' de votre connexion internet.
+Si un de ces ports est bloqué, vous ne pourrez pas établir de connexion avec le modèle webcam. Vous pouvez essayer de désactiver votre firewall ou antivirus. Ensuite, si vous arrivez à vous connecter à notre plate-forme, essayez de réactiver le firewall et d'autoriser explicitement le port 1935 et le port 80.
+Contrôlez également si les ports 80 et 1935 ne sont pas bloqués par votre système d'exploitation:
+http://support.microsoft.com/kb/308127 (PC)
+http://ctlt.jhsph.edu/help/index.cfm/go/faq.display/faqID/105/ (MAC)
+Si vous avez désactivé votre firewall et que cela ne fonctionne toujours pas, contrôlez si vous utilisez un 'routeur' sur votre réseau. Sur certains routeurs, des firewalls configurés peuvent bloquer les ports 1935 et 80. Vérifiez que ce n'est pas le cas.
+Si tous les conseils ci-dessus ne vous aident pas à remédier à la situation, prenez contact avec notre service d'assistance en direct.
+Le modèle webcam ne m'entend pas. Que faire ?
+Vérifiez que vous êtes en private et que votre webcam est activée. Votre microphone est normalement activé automatiquement. Sinon, vérifiez les paramètres:
+Cliquez avec le bouton droit de la souris dans la fenêtre de chat.
+Vous obtenez alors un menu, où vous devez cliquer sur l'option "Settings..." (Paramètres).
+Votre écran principal devient gris, vous obtenez le menu "Macromedia Flash Player Settings/Paramètres" (voir ci-dessous).
+Cliquez en bas sur l'onglet avec le petit microphone, choisissez dans la liste déroulante le microphone que vous voulez activer, réglez le volume et choisir "Reduce Echo".
+Cliquez sur "Close" pour enregistrer vos paramètres.
+iPad: dépannage des réseaux et des connexions Wi-Fi
+Vous pouvez trouver plus d'informations à ce sujet via le site de support de Apple.
+?Show VIP
+C'est quoi le Show VIP ?
+Grâce à notre fonction Show VIP,vous aurez toute l'attention du modèle rien que pour vous. Dès-lors que vous entrez dans une session Show VIP, les autres personnes ne pourront plus chatter avec elle. Ils ne verront plus que l'image, et vous serez le seul à pouvoir encore converser avec elle.
+En plus de cela, au lieu de chatter avec elle, vous pourrez lui parler directement.
+Ce que vous devez savoir:
+C'est le modèle lui-même qui décide d'offrir ce service ou non, et à quel tarif. Le tarif est toujours mentionné dans la page show privé de la fenêtre du chat.
+Le show VIP est uniquement disponible pour les personnes ayant un compte. Les personnes payant par téléphone ne pourront pas utiliser cette fonctionnalité.
+Lorsque vous démarrez une session show VIP, le modèle doit d'abord accepter. Mieux vaut donc lui demander avant si elle est prête à vous offrir ce service spécial.
+Je ne peux pas chatter avec un modèle. Pourquoi ?
+Lorsque l'un de nos modèles est occupé dans une session privé; vous ne serez alors plus capable de chatter avec elle. Mais vous pourrez bien sûr continuer à regarder son show.
+Je ne vois pas le bouton Show VIP. Pourquoi ?
+Il peut y avoir différentes raisons:
+Le modèle n'offre pas ce service. Chacune d'elles peut décider d'offrir ce service ou non. Demandez-lui de l'activer pour pouvoir profiter d'un show VIP.
+Vous payez par téléphone. L'option Show VIP n'est disponible que si vous disposez d'un compte. Vous pouvez en créer un en quelques secondes et après, vous pourrez profiter de toutes nos fonctionnalités.
+Le modèle est déjà dans une session Show VIP avec une autre personne. Vous pouvez uniquement continuer à la regarder mais vous devrez attendre la fin de la session Show VIP en cours pour en démarrer une à votre tour.
+?WhatsApp
+Chattez avec votre fille préférée sur WhatsApp !
+Vous avez remarqué ? Votre fille webcam préférée a dorénavant un numéro de whatsapp personnel, pour rester en contact avec vous !
+C'est facile à utiliser : vous lui envoyez un premier message et à partir de là, vous êtes connecté avec elle, c'est aussi simple que ça ! Vous pouvez lui envoyer des nouvelles, des photos quand vous voulez, et bien sûr, elle fera la même chose.
+Vous recevez tous ses messages GRATUITEMENT, et quand vous lui envoyez quelque chose, le message est à 1 crédit seulement.
+FAQ / Contact Service Client
+Si vous ne trouvez pas de réponse dans la FAQ, n'hésitez pas à nous contacter.
+Notre équipe support est disponible pour vous du lundi au vendredi de 09h30-13h00 à 14h00-17h00.
+Vous pouvez nous joindre en live chat sur cette page our par email
+For visitors from USA or Canada, Billing Support via www.epoch.com
+Compatible smartphone
+iPhone, Android, Windows Phone, etc.
+Meilleur programme d'affiliation
+Augmentez vos revenus en devenant modèle sur notre réseau.
+Webmasters
+Meilleur programme d'affiliation
+Newsletter
+Inscrivez-vous et gagnez des minutes gratuites!
+OK
+Besoin d'aide ?
+FAQ / Contact Service Client
+Les meilleures webcam coquines du net vous sont proposées par CokinCokine Rencontres
+Catégories
+Brown
+Blonde
+Black
+Red
+Other
+A-B
+C-D
+E-F
+S
+M
+L
+XL
+French
+English
+Spanish
+German
+Italian
+Dutch
+European
+Asian
+Latin
+African
+Arab
+Heterosexual
+Bisexual
+Lesbian/gay
+Femme
+Men
+Women+Women
+Women+Men
+Trans
+Liens
+Cokincokine
+Webcam de filles
+Cokine Lesbi
+Ce site utilise des cookies afin d'analyser le site web, pour le rendre plus convivial et pour vous offrir des produits adaptés à vos besoins.

@@ -1,0 +1,79 @@
+Dans les sections précédentes, nous avons examiné divers points de vue sur la traduisibilité extrapolés de la pensée de linguistes, philosophes, sémioticiens, et culturologistes. À travers leurs opinions souvent divergentes, il est difficille de faire une synthèse débouchant sur une position commune nous permettant de prendre en considération une conclusion temporaire quant aux études en traduction qui traitent du concept de la "traduisibilité".
+Le seul élément qui a émergé clairement de tous les essais cités pourrait être que la notion de "traduction" est indéfinie. Nous avons trouvé plusieurs perspectives quant aux relations langage/culture, langage/pensée. Nous avons constaté que, selon Lotman, la vie grouillante dans la sémiosphère est formée d’un fourmillement de traductions. Dans cette perspective, la traduisibilité est une sorte de chlorophyle pour la photosynthèse de la vie culturelle, sans laquelle la culture cesserait d’exister.
+Du moment qu’une personne comprend une notion, dans la dynamique de la communication linguistique-textuelle-culturelle, nous pouvons considérer une telle action comme un phénomène radical en traduction. Mais si, d’une part, chacun peut comprendre (traduire) un phénomène à sa propre façon, en donnant une contribution personnelle originale à la sémiosphère, d’autre part il existe une sorte de "perception standard", un mode standard, indéfini dans lequel un texte est lu (interprété) et dans lequel une partie de sa culture et de sa connotation textuelles sont perçues1.
+Au-delà de la possibilité d’interpréter librement tout élément culturel, laquelle interprétation qui peut être menée jusqu’aux extrêmes qu’ Eco appelle "décodage aberrant", il y a aussi:
+la culture en lieu d’éducation, de mémoire et de perception par le lecteur de tout nouveau texte dépendant de son expérience culturelle et de sa façon de le percevoir, à tel point que dans un certain sens tout texte dans les mains d’un lecteur a déjà été lu; en d’autres mots, le texte est immédiatement assujéti à des règles coutumières, certaines de ses particularités sont neutralisées et la nouveauté est perdue. Alors qu’à l’extrémité opposée, nous retrouvons, enfermé dans le texte même, une image de l’audience, laquelle représente la possibilité d’une perception optimale donnée2.
+Selon Torop, comme il ne peut y avoir qu’une approche unique à la traduisibilité, il est posssible d’en isoler trois aspects distincts:
+a):	la traduisibilité en tant qu’aspect culturel-linguistique et poétique du texte: l’approche qui incite une personne à voir le spectre traduisitilité/non-traduisibilité le long des axes des textes, de leurs particularités intrinsèques, indépendamment de l’interaction entre un texte et un lecteur unique, i.e. une réalisation simple;
+b): la traduisibilité de la perception ou de l’unité conceptuelle du texte: nous retrouvons la même perspective que dans l’argument précédent, mais ici le texte est considéré comme étant formé de morceaux, et non comme un tout;
+c):	la traduisibilité en tant que pré-définition de la réception d’un texte dans une culture donnée; dans ce cas la relation est accentuée entre un texte donné et une culture donnée et les interactions potentielles sont analysées.
+Les traducteurs peuvent choisir un des ces aspects en les considérant comme des dominants différents dans leur approche au texte qui doit être traduit.
+Au-delà de ce groupe de dominants possibles, en prenant le texte en considération, le prototexte, le traducteur, ou la culture cible peuvent aussi être des dominants de la traduction.
+Dans le premier cas, le texte original lui-même dicte sa traduisibilité optimale.
+Dans le second cas, le traducteur, à titre de personalité créative, réalise lui-même par ses choix de la méthode de traduction, et cette méthode de traduction détermine le niveau de la traduisibilité.
+Dans le troisième cas, le traducteur fonde sa stratégie en se référant au lecteur possible du métatexte, ou sur des règles culturelles (sociales, politiques); en d’autres mots, il définit le degré de traduisibilité en se basant sur les conditions de sa perception.
+Ce sont les trois types généraux de la traduisibilité3.
+De plus, Torop isole cinq paramètres de traduisibilité, chacun jumelant une stratégie de traduction différente. Regardons la table qui décrit les paramètres individuels dans la colonne de gauche et dans la colonne de droite, les stratégies de traduction correspondantes4:
+TRADUISIBILITÉ DE LA CULTURE
+Paramètres de traduisibilité
+Stragégies de traduction
+Langage:
+Grammaire catégories
+realia
+conversation etiquette
+associations
+monde image
+propos
+Nationalisation
+(naturalisation)
+trans-nationalisation
+dénationalisation
+mélange
+Temps:
+Historique
+auteur
+de l’événement
+culturel
+Archivage
+historique
+modernisation
+neutralisation
+Espace:
+Social
+geographique
+psychologique
+Perceptif concrétisation:localisation
+visualisation
+naturalisation
+exotisation
+neutralisation
+Texte:
+Genre signaux
+chronotopique niveaux
+narrateur et narration
+aura expressif, aura du personnage
+lexique de l’auteur et syntaxe
+système d’expression du media
+Preservation/non-préservation de la structure (élément et niveau de la hiérarchie)
+préservation/non-préservation de la cohésion
+Travail:
+Métatexte complémentarité
+(livre):
+présupposition
+interprétation
+réaction des lecteurs
+Lecteurs version
+intratextuelle clarification
+interlinéaire commentaires
+commentaires particuliers à la fin
+commentaires généraux systematiques
+compensation métatextuelle
+Manipulation socio-politique:
+Normes et tabous (editio purificata)
+tendance de la traduction
+(tendencieux) purification des textes
+orientation du texte
+Dans la prochaine section, nous examinerons, un par un, chacun de ces paramètres et leur stratègie correspondante.
+Bibliographical references
+ECO U. Interpretation and Overinterpretation. Umberto Eco with Richard Rorty, Jonathan Culler, Christine Brooke-Rose; edited by Stefan Collini. Cambridge, Cambridge University Press, 1992. ISBN 0521402271 (hard) 0521425549 (pbk.).
+TOROP P. La traduzione totale. Ed. by B. Osimo. Modena, Guaraldi Logos, 2000. ISBN 88-8049-195-4. Or. ed. Total´nyj perevod. Tartu, Tartu Ülikooli Kirjastus [Tartu University Press], 1995. ISBN 9985-56-122-8.

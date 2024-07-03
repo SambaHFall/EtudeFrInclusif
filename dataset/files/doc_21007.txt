@@ -1,0 +1,81 @@
+Les boutiques sur Cocote Quoi de neuf ? Eco-responsable bio Idée cadeau Pro Alimentation & gastronomie recettes Crowdplanting Noël Beauté & Soins Les partenaires de Cocote cocote Consommation responsable
+Menu
+facebook
+twitter
+instagram
+pinterest
+cocote
+Abonnez-vous!
+Abonne-toi aux caquètements !
+[Update Cocote] Donnez du poids à vos achats !
+16 December 2021 Cocote Team Quoi de neuf ?
+Le poulailler grandit un peu plus vite chaque jour et on s'est dit que vous seriez intéressé-e par une petite mise à jour de ce qui se trame dans le poulailler !
+Côté UX
+Vous avez pu le remarquer (on l'espère), pas mal d’améliorations UX (expérience utilisateur) ont été récemment appliquées au niveau de l’interface (desktop/mobile) rendant la navigation plus agréable, fluide et intuitive.
+Nous vous invitons à y jeter un oeil et sommes friands de retours positifs ou négatifs dans une optique d’amélioration ✨
+Ces améliorations sont principalement d’ordre cosmétique mais loin d’être mineures car le rendu est tout aussi important que le fonctionnel pour une application publique. Certaines améliorations sont aussi d’ordre fonctionnel, vous trouverez notamment :
+Des filtres facettes images
+Une navigation par catégories
+L’ajout au panier depuis la liste offres
+Un chat marchand
+L'intégration des guides d‘achats
+Une meilleure intégration des modes de collectes (livraison, retrait, achat sur place)
+Un switch achat marketplace / comparateur
+Une meilleure intégration du Green mode
+L'amélioration des temps de chargements images
+Et d’autres fonctionnalités à découvrir 😉
+Côté marchand
+Le rythme d’onboarding Marchand sur la marketplace continue à être soutenu et sera d’ici la fin d’année plus simplifié et automatisé nous permettant d'accélérer l’ajout des marchands tout en gardant un process contrôle qualité rigoureux.
+Certaines fonctionnalités clés attendus par les marchands sont aussi en cours de mise en place :
+Ajout des variantes/déclinaisons produits via le plugin CMS avec commandes/produits en temps réel (API)
+Outils de promotion Marchand (ex: concours marchands, ventes privées...)
+Ajout des points retraits marchands / livraison locale par le marchand
+Gestion des produits packagés (ex : coffret à composer), produits personnalisés et abonnement sur Cocote (Cocote aura aussi sa propre box mensuelle composée des produits de ses marchands ainsi que sa carte cadeau en coco 😉)
+Statistiques dashboard par canal et de ventes
+Abonnement aux marchands pour être notifié des nouveaux produits et promotions réelles détectées
+Notre ambition : devenir une plateforme One Stop Shopping
+Le one stop shopping fait partie des fondamentaux du projet Cocote. Les prochaines étapes dans cette logique sont :
+Paye ton shopping
+L’activation de la vente sur le réseau de site Paye ton shopping va permettre à Cocote d’être à la fois une marketplace horizontale (généraliste) et verticale (chaque rubrique de produit aura son site de vente dédié (exemple: paye ton thé !), tout cela branché sur les API Cocote et transparent pour les marchands).
+Une horizontale avec des verticales qui évoluent dans la même proportionnalité, cela génère un cube et fait donc de Cocote la première marketplace “Cube” en terme de typologie 🙂
+Le CtoC & le BtoB
+L’ouverture du service Cocote en C2C (petites annonces), vous permettra en tant que particulier de vendre vos produits et être réglé en CB (paiement sécurisé) ou en cocos avec le green cashback qui rythme avec une logique de reconsommation.
+Et également l'ouverture du BtoB avec l'activation des remises pro, la modération pro et la fidélité client.
+En tant qu’acheteur, la gestion du BtoC, CtoC, BtoB sera transparente et interopérable à partir du même site Cocote, vous pourrez ainsi avoir dans votre panier des offres de différents types avec un seul règlement associé.
+Côté Golden Coco
+Il y a 100M de Golden Cocos (smart contract) et il n’y en aura pas un de plus !
+Le versement (airdrop) des Golden Cocos a récemment commencé. Pour gagner des Golden Cocos, il suffit de gagner des cocos, c’est aussi simple que cela ! Les premiers possesseurs seront privilégiés (déflationniste).
+Tout comme le Coco, le Golden Coco vous permettra de régler vos commandes, avec un avantage en cashback et de profiter d’autres avantages (ventes privées, vote gouvernance etc...)
+On parle de nous !
+E-commerce le mag- le magazine leader sur l'information e-commerce en France
+Maddyness - le magazine sur les entrepreneurs, des nouvelles technologies et de l'innovation
+L'ADN - Le magazine des tendances
+Medialem - Une agence de développement de marketplaces
+Design l'air de rien - Une agence de communication
+kryll - Le magazine sur les cryptomonnaies
+France Num - L’initiative gouvernementale pour la transformation numérique
+SiaPartners - Une agence de consulting
+Ethikdo - le carte cadeau responsable (un marchand inscrit sur Cocote)
+Coinaute - Le magazine des cryptomonnaies et de la blockchain
+Oney - La solution de paiement
+Côté Stratégie
+L'idée de Cocote est d'avoir un outil :
+Répondant à un besoin
+Fonctionnel, pragmatique et agréable à utiliser
+Innovant
+C'est la base pour toute start-up qui se développe organiquement.
+Nous nous rapprochons de cette base à chaque release/nouveau marchand et pourront dans un futur proche enlever le “bêta” du logo Cocote. Cela a pris plus de temps que prévu mais mieux vaut les faire les choses doucement et sûrement que confondre vitesse et précipitation #doingitright
+Cocote est toujours en “pô(u)le position” en termes de positionnement sur l'avènement prochain des marketplaces locales/commerces de proximité, c’est une question de temps avant que ce nouveau type de marketplace fasse partie de notre quotidien (même Amazon s’y met avec la sortie d’Amazon Local Selling...).
+Ce qui fera la différence dans cette course, c’est le produit et l'éthique avant même le marketing même si ce dernier est très important et donne un avantage de poids à certains acteurs notoires.
+Google est le parfait exemple de croissance exponentielle à partir d’une technologie disruptive (grâce à son algorithme innovant).
+Le socle que nous développons est 100% fait maison, a demandé des années d’effort et a été conçu pour devenir une alternative sérieuse à Amazon, cet objectif laisse peu de place à l’improvisation et demande un engagement maximal et une innovation forte.
+Cette base, cela dit, est un préliminaire et le marketing reste essentiel pour faire connaître Cocote. Sur l’aspect marketing, Cocote n’est pas en manque d’inspiration/outils :
+Parrainage à vie,
+Cashback auprès de milliers de marchands,
+Crypto (utility token),
+Chasse aux oeufs,
+Bounty,
+Loterie,
+Cocote search (avec une nouvelle version à suivre),
+Concours influenceurs qui seront fortement mis à contribution une fois la base produit cible atteinte (hard launch).
+Un jeu (application mobile disponible sur android/ios) en cours de développement vous permettra de gagner des cocos directement crédités sur votre compte Cocote. Mais on ne vous en dit pas plus à ce stade #spoiler, rendez-vous en 2022 😉

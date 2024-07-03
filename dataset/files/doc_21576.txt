@@ -1,0 +1,78 @@
+L’image ci-contre représente la diminution du territoire de ceux que l’on appellent les américains natifs sur la période de 1776 jusqu’à 1930. Cette perte de territoires profita en fait au pays qui allait devint les États-Unis d’Amérique.
+Voici le commentaire de Maitreya Raël à ce sujet qui compare la conquête des États-Unis à la conquête de la Palestine.
+« Une énorme similitude avec le rétrécissement du territoire palestinien. Cela peut expliquer pourquoi les américains soutiennent l’impérialisme israélien. »
+– Maitreya Raël – Juin 74aH*/ 2020
+L’impérialisme américain face à l’impérialisme israélien
+Concernant le rétrécissment du territoire palestinien, voici une planche de quatre image représentant ce qui c’est passé entre 1920-1930 et 2020 en Palestine puis en Israël.
+Les territoires perdus par les palestiniens le sont au bénéfice de l’état d’Israël.
+Lire aussi :
+– Sommes-nous proches d’une libération de la Palestine?
+– Protéger les palestiniens des attaques d’Israël ?
+– Israël ne serait plus la « Terre Promise » ?
+– La beauté des peuples autochtones d’Amérique du Nord !
+– Génocide des hommes qui vivaient en Amérique du Nord
+– Découvrir ou conquérir l’Amérique ?
+74aH* : Le 6 août, date anniversaire de l’explosion de la bombe atomique sur Hiroshima marque l’entrée de l’Humanité dans l’âge de la révélation. C’est aussi le début du calendrier raélien : depuis le 6 août 2019, nous sommes en 74aH, 74 après Hiroshima. (Lire plus à ce propos)
+Partager
+$('#twitter').sharrre({ share: { twitter: true }, template: '
+', enableHover: false, enableTracking: true, buttons: { twitter: {via: ''}}, click: function(api, options){ api.simulateClick(); api.openPopup('twitter'); } }); $('#facebook').sharrre({ share: { facebook: true }, template: '
+', enableHover: false, enableTracking: true, buttons:{layout: 'box_count'}, click: function(api, options){ api.simulateClick(); api.openPopup('facebook'); } }); $('#pinterest').sharrre({ share: { pinterest: true }, template: '
+', enableHover: false, enableTracking: true, buttons: { pinterest: { description: 'L’impérialisme américain et l’impérialisme israélien',media: 'https://www.raelfrance.fr/wp-content/uploads/2020/06/conquete-usa.jpg' } }, click: function(api, options){ api.simulateClick(); api.openPopup('pinterest'); } }); // Scrollable sharrre bar, contributed by Erik Frye. Awesome! var $_shareContainer = $(".sharrre-container"), $_header = $('#header'), $_postEntry = $('.entry'), $window = $(window), startSharePosition = $_shareContainer.offset(),//object contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(), topOfTemplate = $_header.offset().top, topSpacing = _setTopSpacing(); //triggered on scroll shareScroll = function(){ var scrollTop = $window.scrollTop() + topOfTemplate, stopLocation = contentBottom - ($_shareContainer.outerHeight() + topSpacing); $_shareContainer.css({position : 'fixed'}); if( scrollTop > stopLocation ){ $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: contentBottom - $_shareContainer.outerHeight(), left: startSharePosition.left, } ); } else if (scrollTop >= $_postEntry.offset().top - topSpacing){ $_shareContainer.css( { position:'fixed',top: '100px' } ); $_shareContainer.offset( { //top: scrollTop + topSpacing, left: startSharePosition.left, } ); } else if (scrollTop < startSharePosition.top + ( topSpacing - 1 ) ) { $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: $_postEntry.offset().top, left:startSharePosition.left, } ); } }, //triggered on resize shareMove = function() { startSharePosition = $_shareContainer.offset(); contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); topOfTemplate = $_header.offset().top; _setTopSpacing(); }; /* As new images load the page content body gets longer. The bottom of the content area needs to be adjusted in case images are still loading. */ setTimeout( function() { contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); }, 2000); function _setTopSpacing(){ var distanceFromTop = 20; if( $window.width() > 1024 ) { topSpacing = distanceFromTop + $('.nav-wrap').outerHeight(); } else { topSpacing = distanceFromTop; } return topSpacing; } //setup event listeners $window.on('scroll', _.throttle( function() { if ( $window.width() > 719 ) { shareScroll(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); $window.on('resize', _.debounce( function() { if ( $window.width() > 719 ) { shareMove(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); });
+Étiquettes : Colonialisme
+Article suivant La bonne réaction contre les Tribunaux médiatiques ?
+Article précédent Interview de Leon Mellul
+Vous aimerez aussi...
+Démonter les symboles de la colonisation espagnole
+10/11/19
+par RaelFrance · Published 10/11/19 · Last modified 18/10/20
+Victimes du colonialisme américain sur toute la planète ?
+08/11/16
+par raelfrance · Published 08/11/16 · Last modified 07/01/21
+Risques internationaux et ingérence américaine au Venezuela
+05/10/17
+par raelfrance · Published 05/10/17 · Last modified 02/11/20
+Suivre :
+Rechercher :
+Rejoins le groupe raelfrance
+Ebooks
+Catégories
+Catégories Sélectionner une catégorie Actualités internationales (139) Actualités nationales (199) Actualités Raël-Science (184) Communiqués de presse (92) Éditoriaux des évêques raéliens (52) Enseignement de Raël (216) Académie-64aH (17) Académie-69aH (5) Académie-70aH (7) Académie-71aH (9) Académie-72aH (13) Guides Honoraires Raéliens (95) Interviews – Podcasts (16) Mis en avant (12) Raël-commentaires (873) Vidéos d’actualité (25)
+Archive mensuelle des articles
+Archive mensuelle des articles Sélectionner un mois décembre 2021 (1) novembre 2021 (41) octobre 2021 (35) septembre 2021 (25) août 2021 (31) juillet 2021 (26) juin 2021 (10) mai 2021 (26) avril 2021 (43) mars 2021 (33) février 2021 (33) janvier 2021 (48) décembre 2020 (36) novembre 2020 (33) octobre 2020 (39) septembre 2020 (37) août 2020 (46) juillet 2020 (18) juin 2020 (23) mai 2020 (29) avril 2020 (21) mars 2020 (10) février 2020 (23) janvier 2020 (26) décembre 2019 (33) novembre 2019 (30) octobre 2019 (18) septembre 2019 (22) août 2019 (20) juillet 2019 (11) juin 2019 (19) mai 2019 (25) avril 2019 (25) mars 2019 (25) février 2019 (19) janvier 2019 (27) décembre 2018 (30) novembre 2018 (28) octobre 2018 (26) septembre 2018 (28) août 2018 (27) juillet 2018 (31) juin 2018 (32) mai 2018 (27) avril 2018 (24) mars 2018 (42) février 2018 (17) janvier 2018 (17) décembre 2017 (19) novembre 2017 (14) octobre 2017 (29) septembre 2017 (32) août 2017 (8) juillet 2017 (8) juin 2017 (24) mai 2017 (39) avril 2017 (26) mars 2017 (10) février 2017 (7) janvier 2017 (22) décembre 2016 (20) novembre 2016 (34) octobre 2016 (27) septembre 2016 (18) août 2016 (15) juillet 2016 (19) juin 2016 (6) mai 2016 (11) avril 2016 (34) mars 2016 (20) février 2016 (7) janvier 2016 (4) décembre 2015 (4) novembre 2015 (8) octobre 2015 (2) septembre 2015 (4) août 2015 (10) juillet 2015 (4) juin 2015 (2) mai 2015 (7) avril 2015 (4) mars 2015 (4) janvier 2015 (1) novembre 2014 (1) octobre 2014 (4) septembre 2014 (1) juillet 2014 (1) avril 2014 (1) janvier 2014 (1) décembre 2013 (1) novembre 2013 (2) octobre 2013 (1) juillet 2013 (2) mai 2013 (2) septembre 2012 (1) août 2012 (3) juillet 2012 (2) juin 2012 (1) avril 2012 (1) mars 2012 (2) décembre 2011 (2) octobre 2011 (1) juin 2011 (3) mai 2011 (2) mars 2011 (3) février 2011 (1) décembre 2010 (2) septembre 2010 (4) juillet 2010 (1) mai 2010 (1) août 2009 (1) mai 2009 (1) mars 2009 (1) octobre 2008 (1) septembre 2008 (2) janvier 2008 (1) décembre 2007 (1) octobre 2007 (1) mai 2007 (1) avril 2007 (1) février 2007 (1) janvier 2007 (1) décembre 2006 (1) novembre 2006 (1) août 2006 (2) juin 2006 (2) mars 2006 (2) février 2006 (1) janvier 2006 (2) novembre 2005 (1) octobre 2005 (2) juillet 2005 (1) février 2005 (1) janvier 2005 (2) décembre 2004 (1) novembre 2004 (1) octobre 2004 (2) juillet 2004 (2) avril 2004 (1) mars 2004 (1) février 2004 (1) décembre 2003 (1) juillet 2002 (1) août 1992 (1) mars 1992 (1) avril 1991 (1)
+Articles récents
+Le temple du Mont Fanjing et le Fujiyama en arrière-plan ?
+Vive la science au service des êtres humains (vidéo)
+Une plante préhistorique ?
+Rassemblements du 13 Décembre 2021
+Des bactéries pour nous guérir de l’intérieur ?
+Recherchez le positif, bien plus répandu que le négatif !
+Évènements à venir	
+Déc	13	
+14:00 - 17:00	
+13 décembre 76a.H / 2021 – Rencontrez les Raéliens	
+Jan	8	
+19:00 - 19:30	
+Méditation planétaire pour la paix en ligne, Janv. 2022	
+Mar	12	
+19:00 - 19:30	
+Méditation planétaire pour la paix en ligne, Mars 2022	
+Mai	14	
+19:00 - 19:30	
+Méditation planétaire pour la paix en ligne, Mai 2022	
+Juil	9	
+19:00 - 19:30	
+Méditation planétaire pour la paix en ligne, Juillet 2022	
+Voir le calendrier	
+Enseignement de Raël / Mis en avant
+Raël : Nous sommes nés pour le plaisir (vidéo)
+26 Nov, 2021
+Étiquettes
+Académie-64aH Académie du Bonheur Afrique Ambassade extraterrestre Amour Armes nucléaires Bonheur Censure Chine Colonialisme Colonisation Coronavirus Dissuasion nucléaire Désarmement nucléaire Extraterrestre(s) Gotopless Guerres américaines Guides honoraires Intelligence artificielle Israël Liberté Liberté fondamentale Médias Méditation Méditer pour la Paix Nucléaire OVNI Palestine Paradisme Raéliens Religion Réchauffement climatique Résumés Raëlscience Révolution mondiale Santé Science Société Supra-conscience Surpopulation Swastika Technologie Tribune Éducation à la Sexualité États-Unis Être soi-même
+Galerie
+Elohim, créateurs de l&#039;Humanité
+Réunion en Méditerrannée (Octobre)
+Manifestation pour la Liberté à Nantes (Juillet)
+Méditation en Mai à Nice
+Visitez la Galerie
+Le Mouvement Raélien est une religion athée qui diffuse à travers le monde un Message à propos de l’origine de la Vie sur Terre.
+Raël, le Dernier des Prophètes nous explique dans ce Message que les Elohim ont créé scientifiquement toute forme de vie présente sur terre…

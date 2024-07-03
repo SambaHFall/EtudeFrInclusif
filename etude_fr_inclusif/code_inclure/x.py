@@ -7,7 +7,7 @@ import re
 import spacy
 from spacy.lang.fr import French
 
-from .common import Path, CLI, SEP, preproc, LETTER
+from .common import SEP, preproc, LETTER #, Path, CLI
 
 
 spacy.prefer_gpu()
@@ -145,7 +145,7 @@ def exclure_batch(texts, sentencizer, model, detect_filter=False):
             training_pairs.append(training_pair)
     return training_pairs
         
-    
+'''  
 def main(input_path_root: Path, output_path_root: Path, detect_filter: bool = False):
     """Generate inclusive to standard french sentence pairs from a large corpus (e.g. OSCAR)"""
     output_path_root.mkdir(exist_ok=True)
@@ -163,7 +163,8 @@ def main(input_path_root: Path, output_path_root: Path, detect_filter: bool = Fa
         training_pairs = exclure_batch(texts, sentencizer, model, detect_filter=detect_filter)
         with open(output_path, 'wt') as file:
             json.dump(training_pairs, file)
-        
-        
+'''       
+"""        
 if __name__ == "__main__":
     CLI(main, description=main.__doc__)
+"""

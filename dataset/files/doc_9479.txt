@@ -1,0 +1,326 @@
+sbs bonjour. Comment envoie-t-on un seul ordre de mise à jour de cible depuis l'interface MOBILE VLM ?
+Edited September 7, 2020 by jmeme
+Quote
+Link to comment
+2 months later...
+PYves
+Posted November 10, 2020
+PYves
+Tavernaute
+27
+Position:Neuchâtel, Suisse
+VLM name: PYves
+Share
+Posted November 10, 2020
+Bonsoir,
+Après pas mal d'années d'absence, j'ai décidé le week-end passé de refaire un tour sur VLM. Le départ du Vendée Globe et le semi confinement version Suisse romande y sont pour quelque chose.
+J'ai commencé par essayer de réinstaller FrogTools mais sans succès sur Ubuntu. Après quelques essais infructueux j'ai réussi à faire démarrer mon pixel avec l'ancienne interface. Puis j'ai commencé à explorer la nouvelle interface que je trouve très réussie soit dit en passant. J'ai juste un petit soucis avec l'affichage des autres concurrents si je ne choisis pas toute la flotte, une erreur Javascript se produit. Je l'ai documenté ici https://github.com/v-l-m/vlm/issues/1117.
+Merci pour le bon boulot.
+Quote
+Link to comment
+farangfrog
+Posted November 10, 2020
+farangfrog
+Admin
+1.2k
+Position:Nantes
+VLM name: farangfrog
+Share
+Posted November 10, 2020
+@PYves merci pour le ticket !
+Quote
+Link to comment
+2 weeks later...
+droopyNJ
+Posted November 22, 2020
+droopyNJ
+Admin
+3.3k
+Position:Pennsylvania, USA
+Share
+Posted November 22, 2020
+Probleme d'affichage de la porte de glace WP7 sur le Vent des Globes acr a cheval sur l'ante-meridien.
+Quote
+Link to comment
+Piliph
+Posted November 28, 2020
+Piliph
+Tavernaute
+70
+Share
+Posted November 28, 2020
+Bravo pour cette nouvelle interface.
+J'avais lâché VLM après la disparition de mes outils favoris TCV et frogtools mais je retrouve le plaisir de naviguer.
+Quelques remarques quand même : j'aimais bien voir l'estime à 1, 2, 3 vacations et cela me manque un peu.
+La lecture des polaires n'est pas très facile avec l'échelle qui change constamment.
+Mais c'est juste pour chipoter.
+Quote
+Link to comment
+sbs
+Posted November 28, 2020
+sbs
+Moderateur
+1.6k
+Position:Rhone-Alpes
+Share
+Posted November 28, 2020
+Il y a 9 heures, Piliph a dit :
+Bravo pour cette nouvelle interface.
+J'avais lâché VLM après la disparition de mes outils favoris TCV et frogtools mais je retrouve le plaisir de naviguer.
+Quelques remarques quand même : j'aimais bien voir l'estime à 1, 2, 3 vacations et cela me manque un peu.
+La lecture des polaires n'est pas très facile avec l'échelle qui change constamment.
+Mais c'est juste pour chipoter.
+Est-ce que tu as essayé via le dialogue "affichage":
+Tu peux choisir le nombre de vacs pour l'affichage de la polaire. Couplé avec l'estime, ça donne normalement une bonne idée de ou tu va et ou tu seras.
+Si tu bouge la souris le long de l'estime, ça anime ta position, ainsi que la polaire à la position et la date donnée.
+++
+Quote
+Link to comment
+Piliph
+Posted November 29, 2020
+Piliph
+Tavernaute
+70
+Share
+Posted November 29, 2020
+Merci pour ta réponse.
+J'ai exploré à peu près toutes les possibilités.
+C'est vrai que la fonction Estime est très pratique.
+Par contre ce matin, pas moyen de fixer un WP sur une de mes courses. Ca marche bien sur les deux autres.
+Quote
+Link to comment
+8 months later...
+Hippocampe Bleu
+Posted August 16
+Hippocampe Bleu
+Tavernaute
+72
+Position:_Lac Kir
+Interests:_aquariophilie
+VLM name: Hippocampe Bleu
+Share
+Posted August 16
+Bonjour,
+J'utilise VLM beta (faute d'avoir fait l'effort de commercer par VLM...). J'ai crée un bateau et je n'ai pas l'impression que l'on m'ai proposé de choisir le pseudo qui du coup est "P13518B__000". C'est normal ? J'ose pas réessayer.
+J'ai trouvé comment faire sur VLM historique. Pour un 3ème bateau "Hippocampe 2". J'ai bien vu ensuite ce qui apparait dans qtvlm, le mode spectateur et le classement. Mais sinon, avant que je crée un autre bateau, à quoi ça sert d'avoir un nom de bateau et un pseudo de bateau qui sont différents ? Sinon qu'on a du mal parfois à retrouver de qui il s'agit.
+Quote
+Link to comment
+droopyNJ
+Posted August 16
+droopyNJ
+Admin
+3.3k
+Position:Pennsylvania, USA
+Share
+Posted August 16
+3 hours ago, Hippocampe Bleu said:
+Bonjour,
+J'utilise VLM beta (faute d'avoir fait l'effort de commercer par VLM...). J'ai crée un bateau et je n'ai pas l'impression que l'on m'ai proposé de choisir le pseudo qui du coup est "P13518B__000". C'est normal ? J'ose pas réessayer.
+J'ai trouvé comment faire sur VLM historique. Pour un 3ème bateau "Hippocampe 2". J'ai bien vu ensuite ce qui apparait dans qtvlm, le mode spectateur et le classement. Mais sinon, avant que je crée un autre bateau, à quoi ça sert d'avoir un nom de bateau et un pseudo de bateau qui sont différents ? Sinon qu'on a du mal parfois à retrouver de qui il s'agit.
+Puisque VLM 2.0 (beta) affiche le nom du bateau et non le pseudo, le developpeur a decidee de creer un pseudo generique aurtomatiquement (le pseudo doit etre unique dans la base de donnees VLM) du styp P (pour player) puis player ID puis B__ (pour boat) et 000, 001, 002, ... mais comme d'autres outils (e.g. FT) continuent d'afficher ce que VLM classic faisait il est preferable d'avoir pseudo=nom de bateau. Le nom de bateau peut etre modifie a tout moment par l'utilisateur alors que le pseudo ne peut etre change que par un admin. J'ai reorganise un peu des 2 nouveaux bateaux, si ca ne te convient pas envoie moi les instructions par MP.
+Quote
+Link to comment
+Hippocampe Bleu
+Posted August 17
+Hippocampe Bleu
+Tavernaute
+72
+Position:_Lac Kir
+Interests:_aquariophilie
+VLM name: Hippocampe Bleu
+Share
+Posted August 17 (edited)
+Il y a 10 heures, droopyNJ a dit :
+... il est preferable d'avoir pseudo=nom de bateau. Le nom de bateau peut etre modifie a tout moment par l'utilisateur ...
+Merci droopyNJ. Du coup si l'on veut être classé LMNH ou autre particularité, est ce qu'il faut créer un pseudo contenant LMNH ou modifier un nom existant suffit ? (avec la bannière ad oc bien sûr)
+Edited August 17 by Hippocampe Bleu
+Quote
+Link to comment
+marano590
+Posted August 17
+marano590
+Tavernaute
+3.2k
+Position:N 48.74 E 002.24
+Interests:(char à) cerf-volant, (char à) voile, monocycle électrique, VLM
+Share
+Posted August 17
+il y a une heure, Hippocampe Bleu a dit :
+Du coup si l'on veut être classé LMNH ou autre particularité, est ce qu'il faut créer un pseudo contenant LMNH ou modifier un nom existant suffit ? (avec la bannière ad oc bien sûr)
+S'il s'agit simplement de pouvoir figurer dans le classement LMNH de @pousspouss, il suffit que les caractères "LMNH" figurent dans le nom du bateau ou bien dans son pseudo pour que cela fonctionne. Et l'adoption ou non du pavillon LMNH n'intervient pas, à ce niveau.
+Quote
+Link to comment
+pousspouss
+Posted August 17
+pousspouss
+Tavernaute
+888
+Position:Courbevoie
+Share
+Posted August 17
+Il y a 7 heures, marano590 a dit :
+S'il s'agit simplement de pouvoir figurer dans le classement LMNH de @pousspouss, il suffit que les caractères "LMNH" figurent dans le nom du bateau ou bien dans son pseudo pour que cela fonctionne. Et l'adoption ou non du pavillon LMNH n'intervient pas, à ce niveau.
+En revanche, il est important d'avoir un bateau dédié au mode LMNH et pas de renommer un bateau en ajoutant ou supprimant les lettres "LMNH" au grès des courses: le script qui génère les classements ne regarde le nom qu'une fois et ne verra donc pas les changements…
+Quote
+Link to comment
+Hippocampe Bleu
+Posted August 17
+Hippocampe Bleu
+Tavernaute
+72
+Position:_Lac Kir
+Interests:_aquariophilie
+VLM name: Hippocampe Bleu
+Share
+Posted August 17 (edited)
+Merci pour les explications. Donc, même si je m'éloigne un peu du fil, je résume ce que je retiendrai (pour moi) :
+- Je crée un bateau dédié pour être classé en LMNH, et tant qu'à faire je met "LMNH" dans le nom et le pseudo.
+- Pour simplement me signaler dans un mode quelconque autre que normal, je peux changer de bannière, mais si je ne veux pas tricher sur l'historique il ne faut pas changer de bannière entre les courses (logique ?), donc je crée aussi un bateau dédié tout pareil qu'en LMNH.
+- Enfin : JE CREE MES BATEAUX DANS VLM CLASSIQUE pour ne pas avoir à demander à un admin de changer le pseudo ensuite
+Correct ? En espérant que ce résumé pourra être utile à d'autres
+18/8 21h : Corrigé suite intervention ci-dessous de @pousspouss
+Edited August 18 by Hippocampe Bleu
+Quote
+Link to comment
+pousspouss
+Posted August 18
+pousspouss
+Tavernaute
+888
+Position:Courbevoie
+Share
+Posted August 18
+Il y a 19 heures, Hippocampe Bleu a dit :
+Merci pour les explications. Donc, même si je m'éloigne un peu du fil, je résume ce que je retiendrai (pour moi) :
+- Je crée un bateau dédié pour être classé en LMNH, et tant qu'à faire je met "LMNH" dans le nom et le pseudo.
+- Pour simplement me signaler dans un mode quelconque autre que normal, je peux changer de bannière, mais si je ne veux pas tricher sur l'historique il ne faut pas changer de bannière entre les courses (logique ?), donc je crée aussi un bateau dédié tout pareil qu'en LMNH.
+- Enfin : JE CREE MES BATEAUX DANS VLM CLASSIQUE pour ne pas avoir à demander à un admin de changer le pseudo ensuite
+Correct ? En espérant que ce résumé pourra être utile à d'autres
+Correct, sauf que tu peux changer de drapeau quand tu veux sans problème. C'est vrai qu'en LMNH on met généralement le drapeau dédié, mais c'est surtout pour pouvoir se retrouver plus facilement et suivre les autres, ça n'affecte pas le fonctionnement du jeu ni les classements.
+Quote
+Link to comment
+Souffleur vert
+Posted August 18
+Souffleur vert
+Tavernaute
+1
+Position:Lille
+VLM name: Souffleur vert
+Share
+Posted August 18
+Juste deux petites remarques négatives:
+- sauf erreur de ma part, il n'y a pas de mise à jour automatique des positions sur la carte. C'est dommage.
+- Pas d'échelle dispo sur la carte comme sur la version originelle. Dommage car assez pratique pour avoir une idée des distances.
+Du positif malgré tout. L'outil estimation est top et le graphisme sobre mais sympa. Les polaires qui apparaissent vraiment sympa...
+La suite au prochain numéro...
+Quote
+Link to comment
+Hippocampe Bleu
+Posted August 18
+Hippocampe Bleu
+Tavernaute
+72
+Position:_Lac Kir
+Interests:_aquariophilie
+VLM name: Hippocampe Bleu
+Share
+Posted August 18
+Il y a 2 heures, pousspouss a dit :
+ça n'affecte pas le fonctionnement du jeu ni les classements.
+Merci, au temps pour moi 🙂
+J'ai regardé le classement du VDG alors que j'ai changé le drapeau de mon bateau (pour "Bourgogne" qui me semblait plus prestigieux...). Lorsque je regarde le classement de cette course mon drapeau n'a pas changé. Donc je me faisais une idée fausse.
+Il faut vraiment enquêter et vous tirer les vers du nez pour tout comprendre ! Je vais corriger mon post en conséquence. Encore merci, mais d'autres questions suivront 😉
+Quote
+Link to comment
+pousspouss
+Posted August 18
+pousspouss
+Tavernaute
+888
+Position:Courbevoie
+Share
+Posted August 18
+Il y a 1 heure, Hippocampe Bleu a dit :
+Merci, au temps pour moi 🙂
+J'ai regardé le classement du VDG alors que j'ai changé le drapeau de mon bateau (pour "Bourgogne" qui me semblait plus prestigieux...). Lorsque je regarde le classement de cette course mon drapeau n'a pas changé. Donc je me faisais une idée fausse.
+Il faut vraiment enquêter et vous tirer les vers du nez pour tout comprendre ! Je vais corriger mon post en conséquence. Encore merci, mais d'autres questions suivront 😉
+C'est encore plus drôle que ça:
+Si tu regardes sur l'ancienne interface VLM, le classement est régénéré dynamiquement à partir de la base de données à chaque demande, donc tu as bien le drapeau "Bourgogne": https://v-l-m.org/races.php?type=arrived&idraces=20201108
+Sur VLM2 le classement est mis à jour dans un fichier à chaque vac tant que la course est ouverte, et c'est ce fichier qui est utilisé pour afficher le classement → une fois la course finie, le fichier n'est plus mis à jour (sauf intervention d'un admin) donc les changements ne sont plus pris en compte et tu as toujours le drapeau "ONU": https://v-l-m.org/jvlm/?RaceRank=20201108
+Sur les classements des séries les infos sont récupérées à partir du fichier de VLM2 de la première course où le bateau a participé et ne sont plus mises à jour par la suite même quand la série est encore en cours et que les classements sont régénérés régulièrement → donc si tu changes de nom ou de drapeau en cours de série, le changement ne sera pas pris en compte (et a fortiori une fois que la série est terminée et son classement figé). Par exemple dans la ROF-3, tu as toujours le drapeau "ONU": http://pousspouss.virtual-winds.org/global/ring_of_fire_3.html
+Évidemment tout ça n'est documenté nulle part, et avec l'historique des évolutions du code ce n'est pas toujours cohérent partout
+Quote
+Link to comment
+2 months later...
+Kiralamure
+Posted November 9
+Kiralamure
+Tavernaute
+13
+Share
+Posted November 9
+Bonsoir,
+un bug dans le tableau du classement: les longitudes (actuellement pour la Jacques Vabre) sont fausses: elles sont suffixées avec un E alors que les bateaux sont à l'Ouest.
+Quote
+Link to comment
+Prev
+25
+26
+27
+28
+29
+30
+Next
+Page 30 of 30
+Join the conversation
+You can post now and register later. If you have an account, sign in now to post with your account.
+Reply to this topic...
+× Pasted as rich text. Paste as plain text instead
+Only 75 emoji are allowed.
+× Your link has been automatically embedded. Display as a link instead
+× Your previous content has been restored. Clear editor
+× You cannot paste images directly. Upload or insert images from URL.
+Insert image from URL
+×
+Desktop
+Tablet
+Phone
+Submit Reply
+Followers 15
+Go to topic listing
+All Activity
+Home
+Virtual Loup de Mer
+VLM - Navigation tools
+VLM 2.0
+Language
+English (USA) (Default)
+Français (FR)
+Privacy Policy
+Contact Us
+Virtual Winds.org _/) _/) _/)°°° La Taverne Powered by Invision Community
+×
+Existing user? Sign In
+Sign Up
+Browse
+Back
+Forums
+Provisional race calendar
+Active regular races
+Active record races
+Staff
+Online Users
+Activity
+Back
+All Activity
+My Activity Streams
+Unread Content
+Content I Started
+Search
+Chatbox
+Member Map
+Community Map
+×
+Create New...
+Important Information
+We have placed cookies on your device to help make this website better. You can adjust your cookie settings, otherwise we'll assume you're okay to continue.

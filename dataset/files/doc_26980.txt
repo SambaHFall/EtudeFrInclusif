@@ -1,0 +1,64 @@
+profil [infobulle_prononciationprononciationbloc prononciationprononciation400 VOIR le tableau de l’alphabet phonétique international.VOIR les principes de la transcription phonétique.VOIR l'article thématique : La prononciation du français québécois.VOIR l'article thématique : L’origine de la prononciation québécoise traditionnelle. pʀɔfil] infobullenom_n_n.n.nom250Informations lexicogrammaticalesinfoLexicoAbréviation de nom.n. infobullegenre_m_m.m.masculin250Informations lexicogrammaticalesinfoLexicoAbréviation de masculin.m.
+infobullenum_macro_sens_num_macro_sensnum_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance1 Contours, traits d’un visage vu par un de ses côtés. infobullerenvoi_hyper__⇑ ⇑ renvoi de type hyperonyme250Renvois analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement apparenté, mais de sens plus général. ⇑ contourstraits. Peindre le profil de qqn. « Napoléon leva la tête de ses albums et scruta le profil anguleux de Théophile » noticeRoger_Lemelin.bio.xmlRoger_Lemelin_bio_xmlRoger LemelinLes PlouffeMontréal, Éditions Alain Stanké, 1987, 409 p. (Collection Québec 10/10). [1re éd., 1948] javascript:return naviguerVers('')(R. Lemelin, 1948). infobullenum_macro_sens_num_macro_sensnum_nuanceI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒ Profil grec. infobullenum_macro_sens_num_macro_sensnum_nuanceI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ‒ infobulleliste_technolectal_artsartsartsarts250Indicateurs de domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient à ce domaine spécialisé.arts Profil perdu : représentation d’un visage vu de côté, légèrement de l’arrière, et aux trois-quarts caché par l’arrière de la tête. infobullenum_macro_sens_num_macro_sensnum_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance2 infobulleadverbe_adv_complexe_adv._complexeadv. complexeadverbe complexe250Informations lexicogrammaticalesinfoLexicoAbréviation de adverbe complexe. L'adverbe complexe est appelé locution adverbiale en grammaire traditionnelle.Adv. complexeinfobullebulle_gram_trad_adverbe_complexeadv._complexe_bulleGTGrammaire traditionnelleGrammaire traditionnelle350L'adverbe complexe est appelé locution adverbiale en grammaire traditionnelle. et infobulleadjectif_adj_complexeadj._complexeadj. complexeadjectif complexe250Informations lexicogrammaticalesinfoLexicoAbréviation de adjectif complexe.L'adjectif complexe est appelé locution adjectivale en grammaire traditionnelle.adj. complexeinfobullebulle_gram_trad_adjectif_complexeadj._complexe_bulleGTGrammaire traditionnelleGrammaire traditionnelle350L'adjectif complexe est appelé locution adjectivale en grammaire traditionnelle. de profil. Vu de côté. Dessiner qqn de profil. Des photos de profil. « Vu de profil, le rocher Percé a l’air d’un immense château » noticeJean_Royer.bio.xmlJean_Royer_bio_xmlJean RoyerLa main ouverteMontréal, Éditions de l'Hexagone, 1996, 262 p. (Collection Itinéraires). javascript:return naviguerVers('')(J. Royer, 1996). infobullenum_macro_sens_num_macro_sensnum_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance3 Représentation d’un objet vu d’un de ses côtés seulement. infobullerenvoi_syn__⇒ ⇒ renvoi synonymique250Renvois analogiquesrenvoisLa flèche horizontale ( ⇒ ) renvoie à un ou à des synonymes, c'est-à-dire à un ou à des mots qui présentent le même sens ou à peu près le même sens. ⇒ silhouette. Le profil d’une église, d’une montagne. « Il crut discerner au loin le profil d’un voilier » noticeMadeleine_Ouellette-Michalska.bio.xmlMadeleine_Ouellette-Michalska_bio_xmlMadeleine Ouellette-MichalskaL'été de l'île de GrâceMontréal, Éditions Typo, 2002, 476 p. [1re éd., 1993] javascript:return naviguerVers('')(M. Ouellette-Michalska, 1993). infobullenum_macro_sens_num_macro_sensnum_sous_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈ infobulleliste_technolectal_archit_archit.archit.architecture250Indicateurs de domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient à ce domaine spécialisé.archit. Coupe perpendiculaire d’un bâtiment ou de tout autre ouvrage de maçonnerie. infobullerenvoi_hyper__⇑ ⇑ renvoi de type hyperonyme250Renvois analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement apparenté, mais de sens plus général. ⇑ coupe. Le profil d’une lucarne. infobullenum_macro_sens_num_macro_sensnum_sous_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈ infobulleliste_technolectal_géol_géol.géol.géologie250Indicateurs de domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient à ce domaine spécialisé.géol. Coupe géologique d’un terrain, d’un élément du relief. infobullerenvoi_hyper__⇑ ⇑ renvoi de type hyperonyme250Renvois analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement apparenté, mais de sens plus général. ⇑ coupe. Le profil d’un cours d’eau, d’un terrain. Profil de sol : ensemble des horizons d’un sol donné. infobullenum_macro_sens_num_macro_sensnum_sous_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈ infobulleliste_technolectal_techn_techn.techn.technique250Indicateurs de domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient à plusieurs domaines spécialisés.techn. Coupe faisant apparaître les rampes et les paliers. infobullerenvoi_hyper__⇑ ⇑ renvoi de type hyperonyme250Renvois analogiquesrenvoisLa flèche vers le haut ( ⇑ ) renvoie à un mot étroitement apparenté, mais de sens plus général. ⇑ coupe. Le profil d’une route, d’une voie de chemin de fer. infobullenum_macro_sens_num_macro_sensnum_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance4 infobulleliste_rhetorique_fig_fig.fig.figuré250Précisions rhétoriquesprecisionRhetoriqueIndicateur utilisé dans le cas d'un mot qui prend ou qui a une signification seconde, souvent produite par une métaphore (par opposition au sens propre).fig. Ensemble des traits psychologiques et des aptitudes professionnelles d’une personne. Dresser le profil de qqn. Avoir, posséder le profil de l’emploi. Elle a le profil d’une scientifique. « Ma formation est trop loin du profil recherché pour la prochaine étape du devis ministériel » noticeMonique_LaRue.bio.xmlMonique_LaRue_bio_xmlMonique LaRueLa gloire de CassiodoreMontréal, Éditions du Boréal, 2002, 296 p. javascript:return naviguerVers('')(M. LaRue, 2002). infobullenum_macro_sens_num_macro_sensnum_sous_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈ infobulleliste_technolectal_psychol_psychol.psychol.psychologie250Indicateurs de domainesIndicateursDomaineCette marque indique que le mot ou le sens appartient à ce domaine spécialisé.psychol. profil psychologique : représentation graphique révélant la « physionomie mentale » d’une personne, obtenue grâce aux résultats de divers tests. infobullenum_macro_sens_num_macro_sensnum_sous_sensI, II, III…structuration de l'article250IMacrosensAMésosens1Sens◈Sous-sens‒Nuance ◈ Adopter un profil bas (de l’anglais to keep a low profile) : adopter une attitude modérée, discrète, réservée, se faire oublier. infobulleremarque_emprunt_REM_REM.REMremarque250Abréviation de remarque.REM. L’emploi de l’expression adopter un profil bas est parfois critiqué comme synonyme non standard de adopter une attitude discrète, se faire oublier, se faire discret.
+infobulledef_sous_entree_in_TLFin_TLFin TLFiin Trésor de la langue française informatisé400profilCet article s'appuie sur certaines données du TLFi. Rechercher « ###_entree_### » dans le TLFiLe Centre d’analyse et de traitement informatique du français québécois (CATIFQ)* a établi une convention de collaboration scientifique avec le Centre national de la recherche scientifique (CNRS), l’ATILF et le Trésor de la langue française, Université de Nancy. Dans le cadre de cette collaboration scientifique, l'équipe FRANQUS peut s'appuyer :sur des définitions du Trésor de la langue française concernant les mots ou sens très généraux de la francophonie, ne comportant pas de spécificité québécoise;sur la partie étymologique du Trésor de la langue française;sur des citations issues de Frantext pour les auteurs littéraires français.* Ce centre porte depuis 2016 le nom de Centre de recherche interuniversitaire sur le français en usage au Québec.
+infobulle_étymologieétymologierubrique étymologiquerubrique étymologique400La rubrique étymologique, s’il y a lieu, peut contenir les ou un des éléments suivants :la date de la 1re attestation du mot en entrée;l’étymon, c’est-à-dire la forme à l’origine du mot de l’entrée;la langue ou le dialecte d’où provient l’étymon;le sens de l’étymon;la source d’où proviennent les informations de la rubrique étymologique, sous une forme abrégée;un complément d’information encyclopédiqueVOIR La rubrique étymologique, principes généraux.ÉTYMOLOGIE17e s.; de l’italien profilo.
+ORTHOGRAPHE
+nom masculin
+profil
+singulier
+pluriel
+profil
+profils
+orthographe
+MEES - AC
+étymologie
+Précautions d'emploi
+⚠ adopter un profil bas
+⇒ adopter une attitude discrète
+⇒ se faire oublier
+⇒ se faire discret
+Synonymes
+⇒ coupe
+⇒ section
+⇒ silhouette
+⇒ tranche
+Afficher plus de synonymes
+Mots apparentés
+⇑ contours
+⇑ coupe
+⇑ traits
+Afficher plus de mots apparentés
+Sous-entrées
+adopter un profil bas
+de profil
+profilgrec
+profil de sol
+profil perdu
+profil psychologique
+Afficher plus de sous-entrées
+Voisinage
+professionnalisme
+professionnel, professionnelle
+professionnellement
+professoral, professorale
+professorat
+profil
+profilage
+profilé, profilée
+profiler
+profit
+profitable
+Auteurs : Hélène Cajolet-Laganière, Pierre Martel et Chantal‑Édith Masson, avec le concours de Louis Mercier, professeurs, Université de Sherbrooke
+USherbrooke.ca/usito | Contactez-nous | Conditions d'utilisation
+Tous droits réservés © Université de Sherbrooke | Dernière mise à jour du contenu : 2021-12-02
+accès directs
+Citer
+Ce contenu
+Usito
+Partager
+Le lien suivant a été copié dans le presse-papiers :
+url
+MEES - #liste#
+Ministère de l’Éducation et de l'Enseignement supérieur
+#listeNomComplet#
+Ce mot fait partie de la liste orthographique du primaire (#listeNomComplet#) du ministère de l’Éducation et de l'Enseignement supérieur (MEES) du Québec, élaborée en collaboration avec le Centre d’analyse et de traitement informatique du français québécois (CATIFQ) de l’Université de Sherbrooke.

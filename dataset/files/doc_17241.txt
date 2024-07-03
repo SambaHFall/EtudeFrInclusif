@@ -1,0 +1,29 @@
+AI Techniques for Game Programming porte sur les difficiles sujets que sont les algorithmes génétiques et les réseaux neuronaux, les expliquant dans un anglais standard. Plus de tortueuses équations mathématiques et exemples abstraits que l'on trouve dans les autres livres. Chaque chapître vous amènera à travers la théorie, pedans vos jeux et applications.
+Après un rapide tour de la programmation sous Windows pour les lecteurs ayant besoin de se rafrapichir la mémoire, vous apprendre comment utiliser les algorithmes génétiques pour l'optimisation, la recherche de chemin et l'évolution de séquences de contrôles de vos agents de jeu. Après l'apprentissage de la base des réseaux neuronaux, AI Techniques for Game Programming vous démontrera comment vous pourrez faire évoluer un contrôleur de mouvement neuronal, et comment ils peuvent être utilisés pour l'évitement d'obstacles et l'exploration de cartes. Vous apprendrez ce qu'est la backpropagation ou propagation arrière et la reconnaissance de motif et découvrirez comment entraîner un réseau pour de la reconnaissance de gestes à la souris. Enfin, vous apprendrez des techniques à la pointe pour créer des réseaux de neurones avec des topologies dynamiques.
+Chaque chapître est complété avec du code source documenté et la plupart vous propose des exercices et problèmes amusants pour vous entraîner avec votre nouvelles connaissances.
+II. Table des matières
+Windows Programming
+In the Beginning, There Was a Word, and the Word Was Windows
+Further Adventures With Windows Programming
+Genetic Algorithms
+An Introduction to Genetic Algorithms
+Permutation Encoding and the Traveling Salesman Problem
+Building a Better Genetic Algorithm
+Moon Landing Made Easy
+Neural Networks
+Neural Networks in Plain English
+Giving Your Bot Senses
+A Supervised Training Approach
+Real-Time Evolution
+Evolving Neural Topology
+III. Critique : Intéressant
+Il s'agit en fait du premier livre de Matt Buckland, le deuxième étant Programming Game AI by Example. Au début, je n'étais pas très enthousiaste par ce livre, mais après une deuxième lecture, mon avis a changé. D'accord, une partie est consacrée à la programmation sous Windows, et franchement, ça n'a pas sa place dans un livre sur l'intelligence artificielle dans les jeux...
+Passé ce chapître, on aborde les algorithmes génétiques, et effectivement les explications n'ont rien à envier à un livre spécialisé, au contraire. La simplicité des exemples alliée à leur clareté fait qu'on comprend facilement. On aborde aussi des techniques plus évoluées, et c'est bien.
+En fait, le livre parle surtout des algorithmes génétiques. On a une "pause" avec les réseaux de neurones, là, le niveau est plus simple, et tant mieux étant donné qu'on ne sait pas trop ce qu'on fait avec un tel réseau, mais il y a bien les panneaux des dangers de ces réseaux. Et après, on mélange les réseaux avec les algorithmes génétiques, et c'est bien, on va encore plus loin, on montre bien ce qu'on peut en faire. Bon, naturellement, ça ne nous donne pas directement la solution à notre problème devant les yeux, mais au moins on a compris comment ces 2 techniques orthogonales - l'une peut être utilisée avec ou sans l'autre - fonctionnent et si on peut les appliquer à notre problème, le reste, c'est à nous de le faire.
+IV. Liens annexes
+Critique sur la page de livres Jeux
+Achat sur Amazon.fr
+Lien vers le site de l'éditeur
+Version PDF (Miroir) Version hors-ligne (Miroir)
+phpMyVisites | Open source web analytics
+Copyright © 2006 Matthieu Brucher. Aucune reproduction, même partielle, ne peut être faite de ce site ni de l'ensemble de son contenu : textes, documents, images, etc. sans l'autorisation expresse de l'auteur. Sinon vous encourez selon la loi jusqu'à trois ans de prison et jusqu'à 300 000 € de dommages et intérêts.

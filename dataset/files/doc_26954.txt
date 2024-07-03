@@ -1,0 +1,97 @@
+ACCUEIL DES PRODUITS ECFANGRID Rideaux d'air VIDÉOS NOUVELLES TÉLÉCHARGEMENTS CONTACTS (905) 565-1038
+« Retour aux produits
+ECOFIT Ventilateurs incurvés vers l'arrière EC
+Télécharger la spécification complète Regarder la vidéo À propos de la technologie EC
+Caractéristiques et construction
+Les roues centrifuges incurvés vers l’arrière ont un rendement élevé et peuvent être utilisés sans carter en spirale. Si nécessaire, ils peuvent être installés dans des logements circulaires, rectangulaires ou en forme de spirale, à condition que le dégagement par rapport au mur latéral soit suffisant. Toutes les données de performance contenues dans ce document concernent des mesures effectuées avec les conditions d'entrée et de sortie standard ECOFIT. Toute modification apportée à l'entrée ou à la sortie entraînera des modifications des données de performance. Des constructions spéciales avec des bagues d’entrée pré assemblées sont présentées ici.
+Les moteurs ECOFIT peuvent être réglés en fonction de la vitesse en fonction de la tension, mais les contrôleurs électroniques, lorsqu'ils sont utilisés, doivent être conçus pour des moteurs électriques et compatibles avec les produits ECOFIT. Les condensateurs doivent être du type "moteur" et avoir la valeur, la tension nominale et la durée de vie recommandée.
+Le client doit tester la température totale du moteur dans l'application, avec les pires conditions de fonctionnement du moteur. ECOFIT devrait ensuite valider les résultats du test.
+Roue arrière en plastique ou en acier galvanisé,
+Diamètre de la roue de 192 à 337 mm,
+Moteur à rotor externe EC 230V50 / 60Hz et 120V50 / 60Hz,
+Roue motorisée (RRE) ou module avec cône d'admission intégré (RRM),
+Électronique intégrée,
+Débit maximum de 780 à 3300 m3 / h, pression maximale de 450 à 700 Pa, marquage CE, UL,
+Options: taille de la roue, signal d'alarme, cône d'entrée.
+Le moteur ECOFIT EC est un moteur synchrone conçu pour être alimenté en 230V 50 / 60Hz (115V en option avec un adaptateur spécial). Contrairement au moteur asynchrone à courant alternatif, le moteur EC ne présente pas de glissement, donc moins de pertes et un rendement plus élevé.
+Par rapport aux ventilateurs AC standard, la vitesse de rotation des ventilateurs EC n'est pas limitée par la fréquence d'alimentation, mais uniquement par la puissance maximale du moteur.
+Les ventilateurs EC sont faciles à contrôler avec une tension 0-10VDC ou un signal PWM. Une sortie 10 V CC est intégrée à l’électronique pour le contrôle du ventilateur.
+ECOFIT a une gamme étendue de ventilateurs incurvés vers l’arrière, de soufflantes centrifuges à double entrée et à une entrée avec la combinaison d’un nouveau moteur à technologie EC.
+Disponibles avec des turbines de diamètre 192, 220 et 225, 250, 280 et 315mm, ces ventilateurs offrent un rendement supérieur grâce au moteur EC. Ces turbines motorisées sont bien adaptées au fonctionnement à l'air libre mais peuvent également être installées dans des boîtiers circulaires, rectangulaires ou en forme de spirale. La plage de flux d'air varie entre 390 CFM et 1475 CFM.
+La technologie EC est également disponible pour les ventilateurs centrifuges incurvés vers l'avant: diamètre d'entrée simple 140 mm, 160 mm et diamètre d'entrée double 146 mm, 160 mm. Le principal avantage du ventilateur centrifuge incurvé vers l’avant est le contrôle de «pression constante» ou de «flux d’air constant» sans capteur.
+Caractéristiques principales des moteurs EC:
+Tension nominale: 24VDC (18-36VDC); 48VDC (36-60VDC)
+Protection contre l'inversion de polarité
+Démarrage en douceur
+Protection de rotor verrouillée
+Sortie tachymètre (collecteur ouvert)
+Signal 0-10VDC contrôlé (potentiomètre) ou PWM
+IP44
+Description des constructions:
+Télécharger la spécification complète
+« Retour aux produits
+ECFanGrid Retrofit Kit
+Nom du contact
+Contact phone
+Company name
+Email du contact
+Votre message
+ENVOYER
+Rideaux d'air
+Nom du contact
+Numéro du contact
+Nom de l'entreprise
+Email du contact
+Votre message
+ENVOYER
+ROSENBERG FANS CANADA
+High-quality industrial fans,blowers, and motors
+Rosenberg Fans Canada Ltd. offers intelligent solutions to move air efficiently. No matter whether it is hot or cold. Since 2005, Rosenberg Fans Canada Ltd., located in Mississauga, Ontario, has been the sales office and warehouse of the Rosenberg Group in Canada. We provide sales, stock, local assembly, engineering, and after-sales solutions to our customers in the Greater Toronto Area and Canada nationwide.
+Conditions générales de vente
+Liens rapides:
+Ventilateurs Axiaux Ventilateurs «Plug» Ventilateurs centrifuges Fans incurvés en arrière Ventilateurs “plénum" Ventilateurs spéciaux Ventilateurs EC Ventilateurs AC
+Navigation:
+ACCUEIL DES PRODUITS ECFANGRID Air curtains VIDÉOS NOUVELLES TÉLÉCHARGEMENTS CONTACTS
+Contactez-nous:
+info@rosenbergcanada.com
+(866) 565-1038 (Toll-free)
+(905) 565-1038 (Siège social, ON)
+(514) 592-7462 (QC, NS, NB, NF)
+(403) 992-6042 (SK, AB, BC)
+Rosenberg Fans Canada Ltd. © 2018
+by Gold Carrot
+À propos de la technologie EC
+Rosenberg: Ouvrir la voie avec la technologie EC à haut rendement énergétique
+Nos moteurs EC à économie d'énergie sont développés et fabriqués exclusivement sur notre ligne de production moderne à notre siège principal à Künzelsau. En combinant savoir-faire et technologie de fabrication innovante, nous atteignons une qualité répondant aux normes les plus strictes.
+Les moteurs EC (à commutation électronique ou à commande électronique) sont des moteurs électriques dotés d'aimants permanents sur le rotor et utilisant une électronique permettant de contrôler la tension et le courant appliqués au moteur
+Les moteurs EC n'ont pas de balais, évitant donc les étincelles et la courte durée de vie des moteurs à balais. Comme ils disposent de composants électroniques contrôlant le stator et ne gaspillant pas de puissance induisant le champ rotorique, ils offrent de meilleures performances et une plus grande contrôlabilité, ainsi qu’un fonctionnement plus froid que les moteurs à induction (pour les petits moteurs, au moins: les moteurs à induction triphasés de grande puissance peuvent être vraiment efficace). Les moteurs EC sont aujourd'hui utilisés dans de nombreuses applications à puissance réduite, dans lesquelles un rendement, une fiabilité et / ou une contrôlabilité élevés du moteur sont souhaités.
+Avantages:
+Les moteurs EC ont un rendement très élevé et maintiennent un rendement élevé à une vitesse partielle. Cela signifie que dans la plupart des cas, ils utilisent entre un tiers et la moitié de l'électricité utilisée par les moteurs à induction traditionnels à bague de déphasage utilisés dans les industries de la ventilation et de la réfrigération, ce qui se traduit par une réduction des coûts d'exploitation et des délais de récupération courts.
+Le rendement élevé des moteurs EC signifie également que les moteurs fonctionnent «à froid» et réduit considérablement la quantité de chaleur perdue produite. La réduction de la chaleur perdue au niveau du moteur de l'évaporateur se traduit également par une réduction du fonctionnement au niveau du compresseur, ce qui permet des économies d'énergie supplémentaires. En outre, le fonctionnement du refroidisseur améliore la durée de vie des pièces de moteur fortement sollicitées telles que les enroulements et les roulements.
+Les moteurs EC ont également une plage de fonctionnement plus large que les moteurs à induction traditionnels, ce qui signifie qu'un moteur ECM peut remplacer plusieurs modèles de moteurs à induction. De cette manière, le nombre de modèles requis par un client typique est considérablement réduit, ce qui diminue et simplifie les stocks. C'est la raison principale pour laquelle les gammes de produits ECM incluent généralement moins de modèles de moteurs que leurs homologues à induction.
+En termes de contrôle de vitesse et de fonctionnalités, le moteur étant commandé par logiciel, les moteurs EC permettent aux clients d’optimiser et d’intégrer le moteur, le ventilateur et le contrôleur à l’application, ainsi que des fonctionnalités telles que la communication de données, le contrôle de volume constant et la vitesse variable. etc.
+Les moteurs EC sont également plus silencieux que les moteurs inefficaces traditionnels, ont une durée de vie plus longue et nécessitent moins de maintenance.
+Regarder la vidéo
+La qualité est rentable. Les coûts d'investissement légèrement supérieurs à ceux des moteurs conventionnels sont généralement amortis en un temps de fonctionnement réduit en raison d'une consommation d'énergie moindre et d'une plus grande facilité d'installation. Aucun contrôleur de transformateur, commutateur de surcharge de moteur, thermomètre à thermocouple, VFD ou contrôleur de angle de phase n'est nécessaire.
+RoVent 10: Logiciel de sélection de ventilateurs
+RoVent 10 avec des outils, une interface et des fonctionnalités améliorés!
+Notre logiciel de sélection de ventilateurs, conçu par les ingénieurs de Rosenberg, sélectionne les produits Rosenberg pour vos applications spécifiques. Avec RoVent 10, vous entrez le point de fonctionnement souhaité dans le programme et celui-ci effectue une recherche dans la base de données de milliers de modèles de ventilateurs de Rosenberg. Il vous montre une liste de produits qui répondront à vos spécifications.
+Avec notre nouveau logiciel de sélection de ventilateurs RoVent10, une sélection de ventilateurs spécifique au point de fonctionnement peut être effectuée rapidement et facilement à partir de plus de 2 900 modèles de ventilateurs. Le logiciel est tenu à jour au moyen de mises à jour automatiques régulières. Vous devrez enregistrer votre RoVent10 après l’installation pour pouvoir utiliser toutes les fonctionnalités. En sélectionnant parmi les éléments énumérés, vous pouvez examiner les détails d’un maximum de 10 éléments à la fois
+Télécharger RoVent 10
+Ajouts et améliorations significatifs:
+«EasyFind»: La simple introduction au monde des fans de Rosenberg. Trouvez le bon ventilateur, étape par étape.
+«DirectFind»: vous permet de trouver directement le ventilateur en saisissant le numéro ou le type de l'article.
+Documentation produit: Toute la documentation requise sur les ventilateurs et les accessoires. Pour votre planification, cela se présente également sous la forme de textes d'appel d'offres (DOC ou TXT), qui peuvent être insérés sous forme de texte libre sans mise en forme dans votre programme de planification. La limite de caractères par ligne peut être personnalisée pour la sortie.
+Un guide vidéo détaillé
+sur l'installation et l'utilisation de RoVent 10 est disponible sur notre chaîne YouTube.
+Regarder la vidéo
+Les solutions de mise à niveau du CVAC
+Les solutions de mise à niveau du CVAC de Rosenberg:
+Rosenberg fabrique des ventilateurs EC éconergétiques pour les projets de modernisation de systèmes de CVAC, y compris les applications commerciales, industrielles et résidentielles. Que votre projet implique la mise à niveau de ventilo-convecteurs verticaux dans des suites ou de travaux plus importants, tels que le remplacement de ventilateurs dans des unités de traitement d'air (UTA) ou des unités d'air d'appoint (UAA), nous avons une solution pour vous.
+Kit de rénovation ECFanGrid
+Le kit de rénovation ‘’ECFanGrid’’ de Rosenberg comprend tous les composants dont vous avez besoin pour faire de votre prochain projet de rénovation du système de CVAC un succès. Indiquez le débit d’air et la pression statique requise, ainsi que les dimensions intérieures du cabinet existant. Notre personnel compétent vous recommandera le kit adapté à votre application.
+Le kit ’’ECFanGrid’’ comprend:
+Modules de ventilateurs EC
+Panneaux de remplissage en tôle selon le besoin
+Cadre de support réglable
+Certification UL, un cabinet électrique pré-câblé pour les connexions de câblage d'alimentation et de contrôle certifié UL

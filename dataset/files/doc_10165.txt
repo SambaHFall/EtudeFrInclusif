@@ -1,0 +1,379 @@
+Durée Toutes les durées Moins d'une semaine 1 semaine à 4 semaines 1 mois à 3 mois 3 mois à 6 mois Plus de 6 mois / en cours Non spécifié
+Concours
+à
+Type
+Travaux locaux
+Emplois à la une
+Emplois recruteur
+Emplois à temps plein
+Compétences
+saisir les compétences
+Langues
+entrer les langues
+État du travail
+Tous les travaux ouverts Tous les travaux ouverts et fermés
+Appliquer le filtre
+Les plus récents en premier Les budgets les plus bas en premier Les budgets les plus hauts en premier Offres/propositions les moins chères Offres/propositions les plus élevées
+543,759 mobile antivirus open source travaux trouvés au tarif de EUR
+First 1 2 3 4 Next Last
+Je cherche un développeur mobile Expert en Flutter pour l'intégration d'une nouvelle maquette 2 jours left
+VERIFIÉ
+Bonjour, J'ai acheté un code sur Envato, nous avons déjà commencé à intégrer le nouveau design depuis Sketch mais il reste encore des chose à faire. J'aimerai avoir un développeur Flutter qui parle français afin qu'il puisse comprendre la logique de l'application qui est en français. Pour la phase 1 il n'y aura que de l'intégration du design. La phase 2 sera pour le développement des fonctionnalités manquantes. Merci de faire une offre UNIQUEMENT si vous avez de la disponibilité actuellement car la mission est urgente.
+Android Dart Flutter iOS Development Mobile App Development
+€422 (Avg Bid)
+€422 Offre moyenne
+14 offres
+Faire une offre maintenant
+Développement PWA and mobile App S&#039;est terminé left
+voici les informations pour la demande d'offre pour le développement d'une une PWA ou une application mobile native. Fournis par nos soins: - Design de l'application - Maquette front-end et Backend de l'application - plan de toutes les fonctionnalités et cas spécifiques Nous aimerions recevoir 2 offres ou fourchette de prix, une pour le développement d'une PWA et une seconde pour une application mobile native pour la même solution. Nous avons maquetté un péprojet de l'ensemble des écrans de la solution, que vous trouverez via le lien suivant: Voici quelques explications supplémentaires qui pourront compléter votre compréhension de la solution additionnelleme...
+Conception graphique HTML5 Mobile App Development Interface Utilisateur / IA Design de site internet
+€510404 (Avg Bid)
+€510404 Offre moyenne
+9 offres
+Faire une offre maintenant
+MODIFICATION SUR UN PROGRAMME JAVA OPEN SOURCE S&#039;est terminé left
+J'aimerais faire des modifications sur un programme pos java .
+Java JavaScript MySQL PHP Architecture Logicielle
+€146 (Avg Bid)
+€146 Offre moyenne
+7 offres
+Faire une offre maintenant
+application mobile Android de gestion de restaurant S&#039;est terminé left
+application Android de gestion de restaurant (la caisse - les commandes ......)
+Android App Development
+€26 (Avg Bid)
+€26 Offre moyenne
+4 offres
+Faire une offre maintenant
+développeur d'application mobile S&#039;est terminé left
+Application de télémédecine traditionnelle africaine. Je souhaiterais trouver un développeur pour publier l'application sur les stores et faire de la maintenance. L'application a été développée surf lutter et utilise Firebase.
+Android HTML5 iPhone Mobile App Development PhoneGap
+€299 (Avg Bid)
+€299 Offre moyenne
+6 offres
+Faire une offre maintenant
+Développer une application mobile S&#039;est terminé left
+Nous souhaiterons développer une application mobile pour notre société de livraison de colis.
+Android Conception graphique HTML5 iPhone Mobile App Development
+€26 / hr (Avg Bid)
+€26 / hr Offre moyenne
+40 offres
+Faire une offre maintenant
+developper une application mobile S&#039;est terminé left
+un marcher comme le Ecommerce
+Google Firebase Java JavaScript
+€18 (Avg Bid)
+€18 Offre moyenne
+5 offres
+Faire une offre maintenant
+Application web +mobile , blockchain S&#039;est terminé left
+Bonjour Je suis à la recherche d’un développeur d’application web et mobile . Il y aura de la géolocalisation, intégration d’API de aurons à intégrer aussi de la blockchain. Le cahier de charge précis sera partagé avec le consultant
+Android Blockchain HTML Mobile App Development Design de site internet
+€445 (Avg Bid)
+€445 Offre moyenne
+10 offres
+Faire une offre maintenant
+Refonte mobile en Xamarin S&#039;est terminé left
+Nous proposons une solution permettant aux hopitaux et cliniques de continuer le suivi des patients à distance. Notre projet consiste à refondre nos applications ios et android développées en swift et java, pour avoir une seule source de code en xamarin. L'équipe sera formée par une UX designeuse, une Product Owner, un directeur technique, un référent technique (ios) et un developpeur mobile.
+Android Programmation C# iPhone Mobile App Development Xamarin
+€36 / hr (Avg Bid)
+€36 / hr Offre moyenne
+12 offres
+Faire une offre maintenant
+réparation mobile S&#039;est terminé left
+je peux donner des conseille pour la réparation de voter téléphone
+Mobile Development Mobile Repair Mobile Sales
+€201 (Avg Bid)
+€201 Offre moyenne
+1 offres
+Faire une offre maintenant
+Recherche dévelopeur application mobile S&#039;est terminé left
+Nous sommes Artenders, une jeune structure évoluant dans le monde de l'art français. Depuis plus d'un an, notre objectif est de démocratiser la scène artistique parisienne grâce à une application mobile que nous avons déjà réalisée par le biais du no code. Nous souhaitons désormais, développer notre projet à une autre échelle et notamment passer par une véritable plateforme codée. C'est pourquoi nous recherchonsun profil créatif et rigoureux pour nous accompagner dans cette concrétisation.
+Développeur d'application App Development Mobile App Development
+€1162 (Avg Bid)
+€1162 Offre moyenne
+30 offres
+Faire une offre maintenant
+Ajout d'une fonction "envoi d'audio" sur App Mobile S&#039;est terminé left
+Pour une application mobile native déjà existante (ios/android) nous avons besoin d'ajouter une page d'envoi d'audio avec quelques champs à remplir (Nom Email Genre etc), l'audio devra être réceptionné. Cordialement
+Android iOS Development iPhone Mobile App Development
+€9919 (Avg Bid)
+€9919 Offre moyenne
+9 offres
+Faire une offre maintenant
+Technical Writer : Documentation d'une librairie logicielle open-source S&#039;est terminé left
+Bonjour, Nous développons une librairie python open-source de manipulation de données, en particulier pour les produits d'observation de la terre. C'est une refonte de la version existante que nous avions développée en Java et le but de est de présenter les concepts et les fonctionnalités pour la future communauté d'utilisateurs (développeurs, data scientists, etc.) de la librairie, avec une approche top-down (vue macroscopique transversale puis détaillée par sous-composants), avec des exemples, des cas d'utilisations, etc. La documentation doit être écrite en anglais, et déclinable si possible en français. Nous recherchons donc un(e) rédacteur(rice) ...
+Article Writing Orthographe anglaise Java Python Architecture Logicielle
+€27 / hr (Avg Bid)
+€27 / hr Offre moyenne
+5 offres
+Faire une offre maintenant
+Mettre à jour notre application mobile S&#039;est terminé left
+Notre application mobile doit être mise à jour. Elle est montée en React Native Elle fonctionne toujours.. mais sur Android... les gens ne peuvent plus acheter la version complète... juste télécharger la version gratuite... Mais il faut des mises à jour complète sur Apple et Android.. À vous !
+Android HTML5 iPhone Mobile App Development React Native
+€23 / hr (Avg Bid)
+€23 / hr Offre moyenne
+31 offres
+Faire une offre maintenant
+application mobile S&#039;est terminé left
+Je souhaite créer une application où les gens postent des vidéo par catégories et chaque semaine il y a des votes pour les plus primés.
+Android iPhone JavaScript Mobile App Development PHP
+€847 (Avg Bid)
+€847 Offre moyenne
+53 offres
+Faire une offre maintenant
+Application mobile Design UI and Ux S&#039;est terminé left
+J'ai besoin de faire le design complet d'une application mobile et avoir des personnes expérimentée en UI et UX
+App Design Conception graphique Mobile App Development Interface Utilisateur / IA UX / User Experience
+€1119 (Avg Bid)
+€1119 Offre moyenne
+42 offres
+Faire une offre maintenant
+J'ai besoin d'une application de gestion de planning et de personnels. -- 3 S&#039;est terminé left
+Une application web déployée sur serveur Glassfish Open Source version 3.1.2.2 (build 5) pouvant gérer des utilisateurs et la mise en place d'un planning.
+CSS Java SQL Interface Utilisateur / IA
+€612 (Avg Bid)
+€612 Offre moyenne
+15 offres
+Faire une offre maintenant
+Vinted.fr complète clone web et mobile S&#039;est terminé left
+Nous souhaitons développer un projet de type (web et applications mobiles) soit avec un projet nocode, flutter, ou autre type de dev moins couteux en temps et argent.
+Conception graphique Mobile App Development PHP Website Build Design de site internet
+€1347 (Avg Bid)
+€1347 Offre moyenne
+49 offres
+Faire une offre maintenant
+application mobile S&#039;est terminé left
+Créer une application Android XCIPTV modifier pour avoir mon url cacher et lire vod et notifier pour mise a jour raccorder avec epg
+Android Java Mobile App Development Nginx PHP
+€48 (Avg Bid)
+€48 Offre moyenne
+4 offres
+Faire une offre maintenant
+Développement d'application mobile pour TPE S&#039;est terminé left
+Bonjour, J'ai besoin d'un développeur android Java/Kotlin pour développement d'une application mobile qui sera installé sur les TPE myPOS
+Android Java Mobile App Development
+€500 (Avg Bid)
+€500 Offre moyenne
+20 offres
+Faire une offre maintenant
+gestion application mobile S&#039;est terminé left
+Je recherche une personne pour debuger et gérer deux applications mobiles : android et iOS. Début: Dès que possible Durée: Moins d'1 semaine
+Android iPhone Mobile App Development PhoneGap PHP
+€229 (Avg Bid)
+€229 Offre moyenne
+17 offres
+Faire une offre maintenant
+Application mobile de mise en relation transporteur routier/client et un site web vitrine S&#039;est terminé left
+Cher développeur, Je souhaite créer une application sur Mac et Android pour la mise en relation de transporteurs routiers avec des clients. Un client peut poster une annonce car il recherche un camion pour livrer sa marchandise. Un transporteur peut poster une annonce car il dispose de place libre dans son camion. Le transporteur pourra ainsi remplir son camion et éviter de partir à vide. Le projet consiste : -	Une application web pour Mac et Android : -	Un site vitrine pour expliquer au client l'utilité du projet Délai du projet : dès que possible Freelancer d'un pays francophone de préférence ONGLET : CLIENT Le client s’inscrit lors de sa première connexion. 1/ Le client demande une livraison via ...
+Mobile App Development Design de site internet
+€2670 (Avg Bid)
+€2670 Offre moyenne
+32 offres
+Faire une offre maintenant
+Création d'un jeu vidéo (mobile) S&#039;est terminé left
+Je cherche une personne pouvant m'aider à réaliser ce projet gratuitement (en échange d'une part des gains). Je souhaiterais créer un jeu dispo sur Android et éventuellement IOS.
+Design de jeux Développement de jeux Conception graphique Windows Mobile
+€27 (Avg Bid)
+€27 Offre moyenne
+3 offres
+Faire une offre maintenant
+Application de paiement mobile S&#039;est terminé left
+Création d'un site web et une application de paiement mobile permettant aux utilisateurs de créer un compte en ligne de recharger et de retirer de l'argent en utilisant leur empreinte digitale. Les différentes fonctions: 1- Création du profil de l'agent ( création d'identifiant agent qui autorise le dépôt-retrait dans les points de vente Paytou) 2-Création du profil d'utilisateur (création d'identifiant d'utilisateur Paytou en un clic en enregistrant son empreinte digitale et son pièce d'identité) 3-Création des unité de valeur électronique par l'administrateur (UVE) 4-Tous retrait d'argent dans le compte d'un utilisateur doit ...
+Financial Software Development HTML PHP Python Design de site internet
+€474 (Avg Bid)
+€474 Offre moyenne
+14 offres
+Faire une offre maintenant
+Open Data. S&#039;est terminé left
+Un travail en Open Data à faire en Excel et en français.
+Saisie de Données Traitement de Données Excel
+€104 (Avg Bid)
+€104 Offre moyenne
+29 offres
+Faire une offre maintenant
+Construire une application mobile S&#039;est terminé left
+bonjour je voudrais une application mobile pour le domaine agricole un exemple : marketyard en arab et francais est ce que vous pouvez le faire ?
+Android Mobile App Development
+€9 (Avg Bid)
+€9 Offre moyenne
+1 offres
+Faire une offre maintenant
+creéz moi un site web et application mobile qui suis avec S&#039;est terminé left
+une plateforme de vente en ligne et livraison par geolocalisation de fruit et legume
+Conception graphique HTML HTML5 PHP Design de site internet
+€472 (Avg Bid)
+€472 Offre moyenne
+7 offres
+Faire une offre maintenant
+création site et application mobile S&#039;est terminé left
+création site web et application mobile plus vidéo publicitaire et aussi des publication a publier sur les réseau sociaux
+Adobe Experience Manager Mobile App Development Design de site internet
+€828 (Avg Bid)
+€828 Offre moyenne
+11 offres
+Faire une offre maintenant
+La Patate Mobile S&#039;est terminé left
+Bonjour, Je suis à la recherche d'un logo pour mon foodtruck (friterie). Nous epluchons et coupons nous même nos pomme de terre pour en faire des frites. Est-il possible de créer un logo pour notre foodtruck ? Voici une de nos idées : une patate (un personnage) qui tiens un cornet de frites ou qui l'entoure avec un bras en montrant le cornet du doigt avec son autre bras... Le nom 'La Patate Mobile' juste en dessous ou au dessus . Nous sommes ouverts à toute autre idée. Merci d'avance, Chloé Blavier
+Design de bannières Conception graphique Illustrator Design de logo Photoshop
+€46 (Avg Bid)
+€46 Offre moyenne
+22 offres
+Faire une offre maintenant
+Developer mon site internet et application mobile S&#039;est terminé left
+Bonjour je suis un chef d’entreprise Grossisste en bonbon ,mon concept est simple ,je charge mon camion avec mes produits et je fais de la vente direct chez les clients ,je le montre les produits que j’ai dans mon camion il fais ces choix,puis je le facture manuellement sur une facture papier ,je veux une application mobile avec des codes barres qui me facilite les choses et me faire gagner du temps ,et faciliter le côté gestion de facture et gestion de stock
+CSS HTML PHP Design de site internet WordPress
+€1153 (Avg Bid)
+€1153 Offre moyenne
+9 offres
+Faire une offre maintenant
+Développement d'applications Web et mobile S&#039;est terminé left
+Nous sommes l'entreprise LBTECH basée en Côte d'Ivoire. Nous recherchons un développeur Web et mobile freelance afin de produire plusieurs applications dont : - une application web et mobile de gestion école - une application Web et mobile de gestion assurance
+Java MySQL Oracle PHP
+€1382 (Avg Bid)
+€1382 Offre moyenne
+10 offres
+Faire une offre maintenant
+Café Sestrel S&#039;est terminé left
+Bonjour. Une femme veut ouvrir un cafe a Montreal. ce sera un café tres "francais de France", avec tour Efel etc. Nous aurions besoin de la voir danser sur une guingette et nous faire rire par quelques mots bien accrocheurs. voir video sur le Sestrel puisque le café s'appellera Café Sestrel de Montrél. ______________________________________________________________________ Hello. A woman wants to open a cafe in Montreal. it will be a very "French of France" café, with an Efel tower etc. We would need to see her dance on a tavern and make us laugh with a few catchy words. see video on Sestrel since the café will be called Café Sestrel de Montrél.
+Traducteur en français Édition de vidéos Services Vidéo Vidéographie
+€1235 (Avg Bid)
+€1235 Offre moyenne
+1 offres
+Faire une offre maintenant
+developper une application mobile S&#039;est terminé left
+développer une application mobile pour android et ios
+Android iPhone Mobile App Development PhoneGap PHP
+€6254 (Avg Bid)
+€6254 Offre moyenne
+21 offres
+Faire une offre maintenant
+application mobile S&#039;est terminé left
+bjr tout le mande je veux une application mobile pour ios et android comme fonctionnalité réseau de livraison express donc l'utilisateur inscrire comme veut livré quelque chose et autre un livreur inscrit pour livrer quelque chose comme ce lui la merci d'avance
+Mobile App Development
+€717 (Avg Bid)
+€717 Offre moyenne
+11 offres
+Faire une offre maintenant
+développer une application mobile connectée à un site wordpress S&#039;est terminé left
+Bonjour, nous souhaitons développer une app mobile IOS, Android compatible avec wordpress woocommerce et le theme suivant Toutes les données doivent être synchronisée sur dashboard wordpress (commandes woocommerce, restaurant, menu etc...) dans les deux sens Veuillez nous dire tarif pour réalisation complète merci
+CSS HTML Mobile App Development PHP WordPress
+€174 (Avg Bid)
+€174 Offre moyenne
+4 offres
+Faire une offre maintenant
+J'ai besoin d'un développeur pour mon application mobile et mon site internet S&#039;est terminé left
+Nous souhaitons créer une plateforme qui sera à la fois un réseau social, une plateforme d'achat, d'échange et d'enchère sur un type de produit en particulier.
+App Design Mobile App Development Prototype Design Web Development Design de site internet
+€4723 (Avg Bid)
+€4723 Offre moyenne
+13 offres
+Faire une offre maintenant
+Trophy icon Création d logo S&#039;est terminé left
+Hello, I would like to have a logo made for my "Aïby" business, specializing in the sale of elegant clothing for women. It is the combination of two symbols: a giraffe and a partridge. I am open to two types of logo: - one with both or one of the two animals, - a very refined sober, elegant. Bonjour, Je souhaite faire réaliser un logo pour mon commerce " Aïby", spécialisé dans la vente de vêtements élégant pour femmes. C'est la combinaison de deux symbole : une girafe et une perdrix. Je suis ouverte à deux types de logo : - un avec les deux ou l'un des deux animaux, - un très raffiné sobre, élégant Cdt
+Design en 3D Conception graphique Illustrator Design de logo Photoshop
+€75 (Avg Bid)
+Garanti
+€75
+290 propositions
+Participez dès maintenant
+simulation robot mobile matlab/solide works S&#039;est terminé left
+bonjour je suis entrain de programmé un robot mobile a deux roues j ai déjà le modèle du robot fonctionnel sur matlab mais il suit une ligne bien definie donc j devrais ajouter un regulateur PID pour qu il soit reel,,, j ai aussi sa conception sur solideworks la je voudrais effecteur une connexion entrer matlab et solideworks pour une simulation 3d, le robot doit éviter les obstacles et passer d'une chambre a une autre dans un hospitale le travaille et fait a 60%
+Matlab and Mathematica Solidworks
+€231 (Avg Bid)
+€231 Offre moyenne
+4 offres
+Faire une offre maintenant
+Menu Wordpress (theme Divi) S&#039;est terminé left
+Je suis en train de développer un site pour un de mes clients mais j'aurais besoin d'un devis pour la création de la barre de navigation. J'utilise le plugin Divi, je peu...maximum de la maquette au fond de ce mail (hélas). Voici les contraintes : Le menu primaire (qui sommes nous, des services etc) ne renvoie pas sur une page, seulement le menu déroulant permet de naviguer d'une page à l'autre Le séparateur de couleur différente entre chaque menu, sauf le premier et dernier. La typo : Open sans condensed pour le menu primaire, open sans normal pour le menu déroulant Chaque menu déroulant aura une couleur de fond différente Prévoir une version mobile ressemblante La...
+CSS HTML WordPress
+€189 (Avg Bid)
+€189 Offre moyenne
+18 offres
+Faire une offre maintenant
+Recherche d'un mentor unity pour une application mobile de jeu S&#039;est terminé left
+Nous sommes à la recherche d'un mentor expérimenté en mesure d'accompagner notre développeur dans la réalisation d'une application mobile de jeu sous Unity. Les problématiques principales sont : La performance, la responsivité, l'intégration de plugins, les animations. L'application sera disponible sur mobile et sur tablette. Nécessaire d'avoir des connaissances en C# ainsi qu'en apps android / iOs
+Android Programmation C# iPhone Mobile App Development Unity 3D
+€29 / hr (Avg Bid)
+€29 / hr Offre moyenne
+10 offres
+Faire une offre maintenant
+Game Developer pour Jeu mobile simple S&#039;est terminé left
+Nous souhaitons créer un petit jeu mobile pas très sophistiqué et rapide à coder à l'occasion d'une semaine de campagne BDE. Son architecture sera à discuter directement avec la personne intéressée car nous avons très peu de temps pour le réaliser (10 jours) donc nous sommes très flexible sur ce point. Le prix est négociable directement avec nous.
+App Design Conception graphique Design de logo Mobile App Development Design de site internet
+€205 (Avg Bid)
+€205 Offre moyenne
+9 offres
+Faire une offre maintenant
+Application Mobile de Quizz S&#039;est terminé left
+J'aimerai avoir une application à travers laquelle les utilisateurs peuvent jouer à des quizz, challenger d'autre joueur à travers le monde et acheter des tokens. La partie réseau social de l'application n'est pas nécessaire.
+Android iPhone Mobile App Development
+€271 (Avg Bid)
+€271 Offre moyenne
+11 offres
+Faire une offre maintenant
+Développer une application web et mobile ( Back-end : Laravel ; Front-end : Reactjs ; Middleware : API REST ) S&#039;est terminé left
+Nous souhaitons établir un site Internet pour promouvoir des offres, permettons à nos clients de rechercher facilement des voyages qui correspondent à leurs attentes et ensuite de les commander en ligne. Nous voulons avoir la possibilité́ de mettre à jour facilement nos voyages, de contacter facilement nos clients et de gérer aisément les réservations faites par ses clients. Il faut donc développer un site pour répondre à ces besoins, grâce à des interactions entre les clients et le site pour récupérer les données nécessaires.
+Laravel PHP React.js Design de site internet
+€246 (Avg Bid)
+€246 Offre moyenne
+12 offres
+Faire une offre maintenant
+Développement d'une application mobile multi langue S&#039;est terminé left
+Besoin d'une application de géolocalisation de stationnement permettant de signaler aux autres utilisateurs sa position.
+Android iPhone Mobile App Development
+€491 (Avg Bid)
+€491 Offre moyenne
+8 offres
+Faire une offre maintenant
+Xibo CMS Mobile App Creation S&#039;est terminé left
+...uk/manual/api). Dans la version 1 de l'appli mobile les fonctionnalités indispensables sont : - Accès à la mediathèque pour ajouter ou suprimer du contenu. - Ouvrir une mise en page - Selectionner une region pour : * Remplacer l'image si c'est un widget image ou la vidéo si c'est un widget video par un contenu de la médiathèque. - enregistrer ses modifications et publier. - Acceder au "schedule" et planifier des mises en pages par afficheur. VisualCom is a company specializing in Digital Signage. For some of our clients, we use xibo as a white label and wish to offer our users an optimized interface for smartphones dedicated to updating content. Xibo has a very well documented API (). In version 1 ...
+Flutter HTML JavaScript PHP Design de site internet
+€2878 (Avg Bid)
+€2878 Offre moyenne
+14 offres
+Faire une offre maintenant
+faire une video pour promouvoir une application mobile S&#039;est terminé left
+bonjour, mon projet s'articule sur une vidéo pour application mobile .Cette application mobile va être en phase de lancement, la vidéo doit être en motion desgin et ne dépasse pas 25 secondes avec voix off française obligatoirement .je veux un bon rapport qualité prix ..
+After Effects Animation Édition de vidéos Production de vidéos Services Vidéo
+€292 (Avg Bid)
+€292 Offre moyenne
+13 offres
+Faire une offre maintenant
+Developpeur Application Mobile Xamarin S&#039;est terminé left
+Nous recherchons, en urgence, un developpeur app Mobile Xamarin pour la refonte d'une de nos applications. L'application devra s'interfacer avec des périphériques bluetooth (imprimante et terminal de paiement mobile) Le projet est estimé à environ 2 - 3 mois de travail full time. Le télétravail est accepté, même si quelques rencontres seraient préférables. A votre disposition pour préciser le besoin. PS : Nous sommes une société installée à Rabat, appartenant à un grand groupe international.
+Android App Design Développeur d'application Local Job Mobile App Development Test d'applications mobiles Mobile Development Web Development Xamarin
+€27269 (Avg Bid)
+Local
+€27269 Offre moyenne
+4 offres
+Faire une offre maintenant
+realiser une video de 60 min max pour illustrer l'utilisation d'une application mobile S&#039;est terminé left
+Je suis développeur d'application. J'ai une application mobile destinée à la population et au services de la protection civile. l'application permet d'alerter les secouriste en cas de probleme et elle permet aussi aux secouristes d'alerter la population
+After Effects Animated Video Development Conception graphique Édition de vidéos Services Vidéo
+€247 (Avg Bid)
+€247 Offre moyenne
+6 offres
+Faire une offre maintenant
+Création site internet E-commerce + application mobile S&#039;est terminé left
+Bonjour, Je souhaite être mise en relation avec un développeur freelance pour la création d'un site internet (e-commerce + application mobile) pour ma future marque.
+e-Commerce Conception graphique HTML PHP Design de site internet
+€891 (Avg Bid)
+€891 Offre moyenne
+24 offres
+Faire une offre maintenant
+Recherche d'un freelance pour développer une application mobile S&#039;est terminé left
+Bonjour, Je souhaite créer une application mobile sur les chevaux avec un système de recherche d'équidés en fonction de critères, ainsi que le développement d'un planning pour le cheval. Mon idée est précise mais je souhaite la budgétiser et voir avec vous combien de temps ça prendrait. Merci d'avance pour votre réponse, A bientôt, Alyssa
+Android iPhone Mobile App Development
+€2342 (Avg Bid)
+€2342 Offre moyenne
+35 offres
+Faire une offre maintenant
+Montrer 1 jusqu'à 50 de 543,759 propositions
+Résultats par page
+20 50 75 100
+First 1 2 3 4 Next Last
+Autres emplois correspondant à mobile antivirus open source
+open source mobile sip phone , open source mobile phone shop , mobile pda sugarcrm open source , symbian open source mobile sip , open source sip simple mobile client , open source sip client mobile handsets , mobile sip open source , windows mobile gps open source , mobile comics open source , symbian mobile dialer open source , xmpp mobile client open source , mobile chat open source blackberry , voip mobile tunneling open source , mobile phone open source ocr application , mobile banking open source , jquery mobile app open source , joomla mobile template open source , magento mobile app open source , mobile cms open source , opencart mobile app open source , wordpress mobile app open source , lms mobile app open source , ecommerce mobile app open source , network antivirus open source , woocommerce mobile app open source , e-commerce mobile app open source
+Besoin d'embaucher un freelance pour un travail ?
+L'inscription est gratuite, saisissez ce dont vous avez besoin & recevez des devis gratuits en quelques secondes

@@ -1,22 +1,20 @@
-Nombre d'entrées : 889
+Nombre d'entrées : 3943
 ----------
-Nombre de documents : 407
-Proportion par rapport au nombre de documents visités : 7.34 %
-Nombre de document avec l'extension com : 366  (37.5 %)
-Nombre de document avec l'extension fr : 317  (32.48 %)
-Nombre de document avec l'extension org : 64  (6.56 %)
-Nombre de document avec l'extension net : 47  (4.82 %)
-Nombre de document avec l'extension ca : 34  (3.48 %)
-Nombre de document avec l'extension be : 25  (2.56 %)
-Nombre de document avec l'extension ch : 22  (2.25 %)
-Nombre de document avec l'extension pl : 14  (1.43 %)
-Nombre de document avec l'extension eu : 14  (1.43 %)
-Nombre de document avec l'extension info : 11  (1.13 %)
-Nombre de document avec l'extension nl : 10  (1.02 %)
-Nombre de document avec une autre extension : 52  (5.33 %)
+Nombre de documents : 1836
+Proportion par rapport au nombre de documents visités : 1.24 %
+Nombre de document avec l'extension com : 648  (35.29 %)
+Nombre de document avec l'extension fr : 586  (31.92 %)
+Nombre de document avec l'extension org : 194  (10.57 %)
+Nombre de document avec l'extension ca : 87  (4.74 %)
+Nombre de document avec l'extension net : 71  (3.87 %)
+Nombre de document avec l'extension ch : 57  (3.1 %)
+Nombre de document avec l'extension be : 54  (2.94 %)
+Nombre de document avec l'extension info : 33  (1.8 %)
+Nombre de document avec l'extension eu : 19  (1.03 %)
+Nombre de document avec une autre extension : 87  (4.74 %)
 ----------
-Nombre d'annotations : 1046
-Nombre d'annotations de catégorie fle : 648  (61.95 %)
-Nombre d'annotations de catégorie coo : 229  (21.89 %)
-Nombre d'annotations de catégorie fem : 171  (16.35 %)
-Nombre d'annotations de catégorie neu : 5  (0.48 %)
+Nombre d'annotations : 4692
+Nombre d'annotations de catégorie fle : 2334  (49.74 %)
+Nombre d'annotations de catégorie coo : 1301  (27.73 %)
+Nombre d'annotations de catégorie fem : 963  (20.52 %)
+Nombre d'annotations de catégorie neu : 137  (2.92 %)

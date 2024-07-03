@@ -1,0 +1,42 @@
+Comment afficher le calendrier Google dans le calendrier Windows Live Mail - Calendrier | Décembre 2021
+Internet Et Réseaux Sociaux
+Android
+Gadgets
+Les Fenêtres
+Ios
+Gaming
+Mac
+Principal
+Les Fenêtres
+Mac
+Android
+Internet Et Réseaux Sociaux
+Gadgets
+Gaming
+Ios
+Articles Populaires
+Apple Music ne lit pas les morceaux téléchargés: essayez ces 8 correctifs
+Meilleures banques d'énergie solaire pour iPhone en 2021
+Les meilleures utilisations (et par défaut) des touches de fonction (F1, F2… F12) sous Windows
+Blackbox: le jeu iPhone incroyablement difficile qui n'utilise pas le toucher
+Comment installer et utiliser YouTube Music en dehors des États-Unis sur Android
+Google Tasks vs Todoist: comparaison approfondie des applications de gestion des tâches
+4 façons les plus rapides de planifier une réunion sur mobile et Web
+2 façons simples de blanchir les dents dans Photoshop CS6
+Meilleures coques Case-Mate pour iPhone 11 Pro Max en 2021
+L'écran de l'iPhone ne tourne pas ? Voici comment y remédier
+Comment afficher le calendrier Google dans le calendrier Windows Live Mail
+Windows Vista avait un calendrier Windows qui n'était pas inclus dans Windows 7. Si vous manquez cet outil Vista après la mise à niveau vers Windows 7 et que vous souhaitez gérer votre calendrier et vos événements sur le bureau, vous pouvez alors installer le logiciel gratuit Windows Live Mail (WLM) client de messagerie fourni avec le Windows Live Essentials suite et dispose d'un calendrier intégré. Des avantages et des fonctionnalités supplémentaires suivront.
+Cependant, il ne possède pas la fonctionnalité d'abonnement que Windows Calendar avait, et je ne vois aucun moyen direct de synchronisation d'autres calendriers comme Google Agenda avec ça. Mais, si vous avez un enregistrement avec Live / Hotmail ID, vous serez heureux de savoir qu'il existe un moyen de faire de même.
+Étapes pour synchroniser Google Calendar avec le calendrier Windows Live Mail
+Avant de continuer, vous devez vous assurer d'avoir Live / Hotmail compte, ont installé WLM et la connectivité associée entre eux.
+Étape 1: Connectez-vous à votre compte Google et suivez les Calendrier languette. Dans le volet gauche, appuyez sur la flèche déroulante contre le calendrier que vous souhaitez partager et accédez à Paramètres du calendrier.
+Étape 2: Faites défiler vers le bas de la page où vous trouverez Adresse privée section. Faites un clic droit sur ICAL et copiez l'emplacement du lien.
+Étape 3: Connectez-vous à votre compte Hotmail / Live et rendez-vous sur son Calendrier fonctionnalité.
+Étape 4: Parmi les onglets de fonctionnalités, choisissez l'option Souscrire pour un autre calendrier.
+Étape 5: Coller dans le URL d'agenda que vous aviez copié à l'étape 2. Il devrait toujours être dans votre presse-papiers si vous ne vous êtes pas détourné de cet article. Donnez-lui également un nom et choisissez un thème de couleur et / ou sélectionnez un charme.
+Étape 6: (Facultatif) Votre calendrier Google est maintenant synchronisé avec votre calendrier Hotmail / Live. Vous pouvez le trouver dans le volet gauche de la page d'accueil du calendrier. Cette étape est facultative au cas où vous voudriez vérifier l'ajout de votre calendrier.
+Étape 7: Ouvrez WLM sur votre bureau et attendez une session de mise à jour automatique ou actualisez immédiatement les choses. En dessous de Envoyer recevoir prendre l'option en disant Tous les calendriers. Assurez-vous que vous êtes connecté à votre compte Hotmail / Live.
+Étape 8: Votre calendrier apparaît maintenant dans WLM. Trouvez votre calendrier parmi d'autres sur le volet gauche. L'image ci-dessous montre un événement du calendrier Google sous le 23 (couleur différenciée).
+Conclusion
+Si vous cherchez un moyen direct de le faire à partir de WLM, laissez-moi vous dire qu'il n'y en a pas. Je souhaite qu'il soit accompagné d'une option d'abonnement et j'espère en voir une à l'avenir. Jusque-là, c'est le meilleur que j'ai pu trouver. Connaissez-vous un autre moyen?

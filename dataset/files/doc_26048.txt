@@ -1,0 +1,26 @@
+INDIGLU est un association qui oeuvre contre le diabète, au profit des personnes atteintes. Le site web d'Indiglu a pour vocation d’aider les diabétiques à calculer leurs doses nécessaire d’insuline en se basant sur l’indice glucidique du repas. C’est une façon innovante qui change l’approche de l’alimentation pour les diabétiques. Sa fonction principale est donc de permettre aux utilisateurs de pouvoir connaître le taux d’insuline nécessaire après création d’un repas sur le site même. Le site est également utile pour toutes personnes suivant un régime alimentaire spécifique ou voulant manger de façon équilibrée. En effet, après création d’un repas, les utilisateurs peuvent voir le taux de glucide du repas, ainsi que d’autres nutriments tels que les protéines, ou encore les lipides. Ces repas peuvent être enregistrés et partagés et les autres utilisateurs ont la possibilitée d'accéder à une rubrique spécialement dédiée aux repas partagés par la communauté.
+Calculer
+Indiglu s’occupe de calculer les nutriments de votre repas pour vous. Ces nutriments sont calculés grâce à une riche base de données prenant en compte chaque élément déposé dans votre assiette.
+Partager
+Partagez et échangez vos idées avec les autres utilisateurs. Faites-nous part de toutes vos expériences. Demandez-nous de nouvelles fonctionnalités et nous les développeront pour vous.
+Profiter
+Profitez de votre repas. Retrouvez tous les glucides qu’il contient, ainsi que la dose d’insuline qu’il vous sera nécessaire. Toutes ces informations sont déjà répertoriées sur la page “Repas”.
+Comment utiliser le calculateur ?
+Pour utiliser le calculateur, il faut dans un premier temps se connecter sur le site INDIGLU, accéder ensuite à la page “Préparer mon repas”, sélectionner des aliments ainsi que des quantités et cliquer sur ajouter. Il faut ensuite ouvrir la page “Mon assiette”. Dans cette page, il y a tous les aliments sélectionnés, les quantités sélectionnées ainsi que un récapitulatif de tous les apports cumulés des aliments (IG, calories, lipides, protéines, sucre). De ce fait, vous pourrez maintenant préparer et manger vos repas tout en suivant à bien votre alimentation spécifique.
+Préparer mon repas
+Partenaires
+Contact
+contact@indiglu.com
+Commentaires récents
+accordéon et DIABÈTE : baisser sa glycémie - indiglu dans Musique, diabète et triceps : composition de Myra Antonowycz
+Constance Lenoir dans accordéon et DIABÈTE : baisser sa glycémie
+Gg dans Diabète et triceps
+Newsletter
+Veuillez laisser ce champ vide
+Vérifiez votre boite de réception ou votre répertoire d’indésirables pour confirmer votre abonnement.
+ShopIsle propulsé par WordPress
+Politique de confidentialité
+Mentions légales
+Le lien vers la page de gestion d’abonnement est disponible uniquement pour les abonnés aux mailing listes.
+0
+Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait.OkNonPolitique de confidentialité

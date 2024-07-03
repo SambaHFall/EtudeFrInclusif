@@ -1,0 +1,52 @@
+Cette journée d'étude vise à débattre du rôle des médias sociaux et de la place de la cartographie participative dans la gestion des crises et des urgences, pour discuter des effets territoriaux de ces outils et pratiques, ainsi que de de la place des citoyens dans la gestion des crises.
+Announcement
+Argumentaire
+Le Master Géomatique organise une journée d'étude Médias Sociaux en Gestion d'Urgence et cartographie participative #MSGU le mardi 28 février 2017 à l'Université de Cergy-Pontoise en articulant des interventions de professionnels, des services de l’État, des collectivités, de la société civile et d'enseignants-chercheurs. Le public visé correspond aux étudiant·e·s en master et doctorat, chercheuses·eurs en géographie, environnement, communication, sciences politiques, ainsi que les praticiens.
+Cette journée d'étude vise à débattre du rôle des médias sociaux et de la place de la cartographie participative dans la gestion des crises et des urgences. En cas d'alerte, de crise ou de catastrophe, l'information en temps réel et sa diffusion à un large public sont des éléments cruciaux pour savoir comment se mettre en sécurité, trouver de l'aide ou être rassuré sur le traitement de l’urgence par les autorités. Depuis le tremblement de terre de Christchurch en 2011 en Nouvelle-Zélande et la catastrophe de Fukushima en 2011 au Japon, les médias sociaux sont utilisés en complément des dispositifs institutionnels d'information des populations. De plus, les personnes présentes sur place produisent souvent de l'information géolocalisée, images, vidéo, commentaires, ne serait-ce que pour informer leurs proches : ces remontées d'information peuvent être précieuses pour les secours et les gestionnaires. D'autres citoyens, par exemple après le séisme au Népal en 2015, participent à la collecte et au tri, la cartographie et la diffusion de ces informations aux services de secours. Mais en permettant à tout.e.s de s’exprimer librement, les réseaux sociaux ont tendance à rendre le contrôle de l’information plus difficile pour les autorités, avec de fausses rumeurs, des confusions ou des fuites d’information. La présence des autorités et des gestionnaires sur les réseaux sociaux sert alors aussi à démentir les rumeurs, dénouer les confusions et assurer la circulation d'une information cohérente et de qualité. Ce sont ces trois dimensions, diffusion de l'information, remontée d'information citoyenne, démenti des rumeurs, qui sont regroupées sous le terme de Social Medias in Emergency Management depuis 2011, Médias Sociaux en Gestion d'Urgence (MSGU) depuis 2012.
+En France, il existe depuis 2013 un nombre croissant d'applications smartphone dédiées à l'information et à l'alerte et en 2016 le Ministère de l’Intérieur a lancé l’application Système d’alerte et d’information des populations (SAIP). Les usages sont variés en France, et soulèvent de nombreuses questions. Alors que les applications dédiées nécessitent d'être installées avant la crise, dans une démarche d'anticipation, le recours aux réseaux sociaux existants ouvre sur un public plus large, mais avec des outils moins spécialisés. L'ensemble de ces outils est tributaire des réseaux d'électricité et de télécommunication, même s'il est possible de faire des smartphones des relais pour établir un réseau « pair-à-pair », alors que ces réseaux sont vulnérables en cas de crise. Par ailleurs, tous les territoires ne sont pas couverts et toute la population n'est pas équipée, ce qui pose la question d'un service « à deux vitesses », accentuant les inégalités sociales et territoriales. Les autorités et gestionnaires ne sont plus les seuls détenteurs de l'information et ne déterminent plus toujours le contenu ni même la temporalité de la diffusion, tout le monde a accès voire peut participer aux flux d’information. Enfin se pose la question de la complémentarité des différents outils, des ressources accordées, des articulations entre approche descendante, la diffusion d'information, et approche montante, la transformation des citoyens en capteurs, voire en lanceurs d’alerte. Cette journée est notamment destinée à discuter des effets territoriaux de ces outils et pratiques, ainsi que de de la place des citoyens dans la gestion des crises.
+Programme
+Matinée : Amphi Tour, Université de Cergy Pontoise, Tour des Chênes (participation libre)
+9h café de bienvenue
+9h30 Introduction de la journée, Samuel Rufat, Université de Cergy Pontoise
+9h40 MSGU vs Cell Broadcast, les enjeux de l'information et de l'alerte en France, Gilles Martin, VISOV
+10h00 Remontée d'information et la cartographie MSGU à Paris, Victor Santoni, Préfecture de Police de Paris
+10h20 MSGU et exercice de simulation de tsunami – Carib'Wave, Gaël Musquet, OSM France / CxLinks
+10h40 Discussions autour d'une pause café
+10h50 MSGU et application SAIP, l'alerte des populations en France, Noria Souab, Ministère de l'Intérieur
+11h10 Cartographie de l'information sur les risques, #HackRisque et MSGU, Jean-Jacques Richard, Ministère de l'environnement
+11h30 MSGU en Belgique, Benoit Ramacker, Service Public Fédéral Intérieur (Belgique)
+11h50 MSGU et cartographie collaborative pendant les inondations en Méditerranée, Johnny Douvinet, Université d'Avignon
+12h10 Discussion avec la salle
+12h30 – 14h : poursuite des débats autour d'un déjeuner convivial (sur réservation)
+Après-midi : atelier pratique en salles informatique 120 et 133, Université de Cergy Pontoise, site Chênes 2 (participation libre)
+14h Exercice de mise en pratique en salle informatique avec VISOV volontaires numériques en gestion d'urgence
+17h30 conclusion de la journée
+Subjects
+Geography (Main subject)
+Society > Sociology
+Society > Ethnology, anthropology
+Society > Geography > Geography: politics, culture and representation
+Society > Geography > Nature, landscape and environment
+Society > Geography > Applied geography and planning
+Mind and language > Epistemology and methodology > Digital humanities
+Places
+Tour des Chênes - Université de Cergy-Pontoise - 33 bvd du Port
+Cergy-Pontoise, France (95)
+Date(s)
+Tuesday, February 28, 2017
+Keywords
+crise, risque, catastrophe, urgence, gestion, réseaux sociaux, cartographie, SIG, citoyens
+Contact(s)
+Samuel Rufat
+courriel : samuel [dot] rufat [at] u-cergy [dot] fr
+Reference Urls
+Université de Cergy-Pontoise - Master Géomatique
+Information source
+Samuel Rufat
+courriel : samuel [dot] rufat [at] u-cergy [dot] fr
+To cite this announcement
+« Social media in emergency management and particpatory cartography », Study days, Calenda, Published on Monday, January 30, 2017, https://calenda.org/391801
+Print Report this document
+Archive this announcement
+Revues.org
+Sitemap | About us | Submit an event | Credits | Legal information | FAQs | Calenda RSS feeds | Restricted access

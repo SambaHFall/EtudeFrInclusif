@@ -1,0 +1,256 @@
+Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose. Tout particulièrement destiné aux geeks et aux férus de high tech, de low tech et d'informatique, le podcast est également très accessibles aux simples curieux, par son approche très pédagogique et son soucis permanent de se mettre à la portée du plus grand nombre.
+Année : 0
+Épisodes : 58
+Durée : 30 minutes
+Thématique : Ecologie
+Format : Interview
+Accessibilité au grand public :
+Analyse des modèles dominants :
+Proposition de modèles alternatifs :
+Saison 1
+#58 - Fanny Verrax : on n'arrête pas le progrès ?
+60 min - 25 novembre 2021
+Philosophe de formation, Fanny Verrax est enseignante, chercheuse indépendante et consultante auprès de différentes institutions, dont le Ministère de la Transition écologique. Co-auteure du livre « Quelle éthique pour l’ingénieur ».
+16 écoutes
+#57 - Frédéric Sitterlé : face aux crises, la technologie fait-elle partie de la solution ?
+49 min - 12 novembre 2021
+Frédéric Sitterlé est Directeur Général de HETIC, une école qui forme des experts aux métiers de la tech et du numérique. Nous allons parlé du rôle des formations d'ingénieurs quant aux enjeux actuels, environnementaux, sociaux, sociétaux.
+22 écoutes
+#56 - Françoise Berthoud : au-delà des impacts environnementaux directs du numérique
+46 min - 22 octobre 2021
+Françoise Berthoud est ingénieure de recherche en informatique au CNRS, membre et ancienne directrice du GDS, groupement de service EcoInfo Pour une informatique éco-responsable. Pourquoi les impacts environnementaux du numérique ont été pendant longtemps ignorés voire éludés ? Pourquoi est-ce difficile de mesurer les impacts environnementaux du numérique ?
+32 écoutes
+#55 - Gaël Musquet : se préparer aux catastrophes naturelles et technologiques
+1h 7min - 05 octobre 2021
+Gaël Musquet est un hacker citoyen, un fervent ambassadeur des logiciels libres et open source notamment OpenStreetMap. Il met les technologies au service de la prévention des risques naturels et pour une meilleure résilience face aux chocs.
+256 écoutes
+#54 - Laurianne Vagharchakian : sciences comportementales et transition écologique
+40 min - 14 septembre 2021
+Laurianne Vagharchakian est chercheuse en sciences comportementales. Son travail consiste à mieux prendre en compte le comportement humain afin de mieux façonner les politiques publiques. Par exemple, comment adapter nos comportements face au réchauffement climatique ?
+52 écoutes
+#53 - Yang Hong and Richard Kim : introduction to Climate Justice
+1h 4min - 13 juillet 2021
+In this podcast, we talk and learn about Climate Justice with Richard Kim and Yang Hong from the community Work on Climate Some of the topics we’ll be discussing include: - The “Work on Climate” community and its goal - The guide “Climate Justice 101” and the reasons for creating it - The different definitions of climate justice - The risk that technology perpetuates climate injustice.
+30 écoutes
+#52 - Mellie La Roque et Karl Pineau : L'éthique dans le design
+56 min - 05 juillet 2021
+Mellie Laroque est UX researcher et Karl Pineau, doctorant en sciences de l'information et de la communication coprésident l'association Designers Éthiques.
+27 écoutes
+#51 - Guillaume Mandil : l'écoconception ne suffit pas
+50 min - 25 mai 2021
+Guillaume Mandil est enseignant chercheur en science pour l’ingénieur à l’Université Grenoble Alpes, enseignant du master Design of Anthropocene et membre de l’équipe INRIA STEEP depuis 2018. Tu es docteur en génie mécanique et génie industriel.
+55 écoutes
+#50 - Romain Boucher : data sciences, techno-libéralisme et désertion de l’ingénierie
+1h 9min - 11 mai 2021
+Romain est ingénieur, spécialisé dans les data sciences. Il a travaillé en tant que consultant data scientist pendant 3 ans, avant de démissionner en mars 2020. Il publie il y a quelques semaines une lettre ouverte ainsi qu’un rapport intitulé « D’un peu de lucidité sur les ravages du techno-libéralisme ».
+91 écoutes
+#49 - Camille Bardou et Victor Estienney : Réduire la fracture numérique, réutiliser du matériel
+30 min - 26 avril 2021
+Nous allons à la rencontre de Camille Bardou, chef de projet lacollecte.tech et Victor Estienney, responsable national des opérations de Emmaüs Connect. Parmi les sujets abordés, illectronisme et fracture numérique, implantation locales dans des villes moyennes ou encore, réutilisation les équipements du secteur public.
+51 écoutes
+#48 - Natalie Hollier: sustainable IT, views on product teams, cloud and IT for Green
+45 min - 13 avril 2021
+Natalie has been working in Digital Sustainability for a few years at ThoughtWorks, and recently joined Microsoft to work on Sustainability Product Innovation. In this podcast we learn about her career path in Product Development and Sustainability, and she talks about different strategies for Digital Sustainability. Natalie has worked with teams moving to the Cloud and talks about how the Cloud can help reduce the CO2 impact.
+8 écoutes
+#47 - Stratégie et design pour l'Anthropocène avec Alexandre Monnin et Emmanuel Bonnet
+58 min - 05 avril 2021
+Alexandre Monnin est directeur de la Recherche d'Origens Medialab, Co-fondateur de l'initiative Closing Worlds. Avec Emmanuel Bonnet, ils sont tous les deux enseignants dans le Master of Science (MSc) Stratégie et Design pour l'Anthropocène à l'ESC Clermont BS.
+86 écoutes
+#46 - Fabrice Flipo : l’impératif de la sobriété numérique et l’enjeu des modes de vie
+55 min - 15 mars 2021
+Fabrice Flipo est professeur de philosophie sociale et politique, philosophie des sciences et techniques à l'Institut Mines-Télécom et chercheur au Laboratoire de changement social et politique à l’Université de Paris. Il est l'auteur de L’impératif de la sobriété numérique, L’enjeu des modes de vie. Comment a évolué le sujet du numérique et l'écologie depuis le livre écris en 2009 ?
+64 écoutes
+#45 - Nicolas Nova : anthropologie du smartphone et culture de la réparation
+48 min - 08 mars 2021
+Nicolas Nova est anthropologue des technologies et designer-chercheur à Genève, et cofondateur du cabinet de conseil The Near Future Laboratory spécialisé dans les pratiques de design-fiction. En 2007 débarque l'iphone et là plus rien ne sera plus comme avant. Le mobile devient smartphone et se greffe quasiment à notre corps tellement il devient indispensables dans nos vies urbaines et connectées.
+55 écoutes
+#44 - Alizée Colin : Documenter un numérique plus responsable
+22 min - 02 février 2021
+Etudiante dans le secteur du numérique, Alizée Colin aspire à travers son blog à recentrer le web et ses outils dans un objectif de bien commun, tant bien environnemental que social.
+82 écoutes
+#43 - Entreprise sociale de service numériques au Sénégal avec Marion, Mame Daba et Sébastien
+41 min - 21 janvier 2021
+Nous partons en Afrique rencontrer les membres de IT4Life, une entreprise de services numériques installée à Dakar, au Sénégal. Nous avons avec nous Sébastien Kuznier, fondateur de IT4life, Marion Schruoffeneger, business developer et Mame Daba Diouf, responsable pôle développement. Aurélie Baton, UX Designer nous accompagne durant cet épisode.
+99 écoutes
+#42 - Yannick Morel : Transition écologique et solidaire dans l'enseignement supérieur
+1h 5min - 14 janvier 2021
+Yannick Morel est le cofondateur de l'association Latitudes qui accompagne et encourage l'utilisation des technologies au service de l'intérêt général. Il nous raconte comment vivent les étudiants et les enseignants la crise sanitaire actuelle. Et comment l'enseignement supérieur est en train de se transformer pour répondre à une indispensable transition écologique.
+65 écoutes
+#41 - Nick Lewis : Sustainable development viewed from England
+32 min - 11 janvier 2021
+On bascule de l'autre côté de la Manche pour parler avec Nick Lewis qui a initié le site https://the-sustainable.dev Pour commenter cet épisode, vous pouvez le faire sur la plateforme Imago ou sur le slack de Techologie.
+31 écoutes
+#40 - Adèle Chasson : Lutter contre l'obsolescence programmée et promouvoir la durabilité
+35 min - 21 décembre 2020
+A la suite de l'instauration du délit d'obsolescence programmée dans le Code de la consommation en 2015, est née l'association HOP, Halte à l'obsolescence programmée, créée par Laëtitia Vasseur, Emile Meunier, et Samuel Sauvage. Pour parler d'obsolescence programmée et d'indice de réparabilité, nous avons le plaisir de recevoir Adèle Chasson, chargée des relations publiques de l'association Hop.
+166 écoutes
+#39 - Deux ans de Techologie, que retenir et quel futur ?
+1h 22min - 16 décembre 2020
+Pour les deux ans du podcast, un épisode spécial en public pour marquer le coup
+146 écoutes
+#38 - Marion Graeffly : Un opérateur télécom coopératif et engagé dans la transition écologique
+24 min - 20 novembre 2020
+Marion Graeffly est cofondatrice de Telecoop, et chargée de la communication, des partenariats et du sociétariat. Au programme, la présentation de Telecoop et pourquoi avoir choisi le statut de coopérative, l'impact environnemental du numérique et des télécoms, la 5G, les téléphones reconditionnés, mais aussi, en quoi Telecoop permet de réduire mon impact ou encore, et les garanties sur la pérennité de Telecoop !
+98 écoutes
+#37 - Yaël Benayoun et Irénée Régnauld : Technologie partout, démocratie nulle part
+49 min - 15 octobre 2020
+Yaël Benayoun est diplômée en philosophie politique et en sciences sociales. Irénée Régnauld est diplômé en sciences politiques et consultant en innovation et en transformation numérique. Auteur du blog et compte twitter technocritique « Mais où va le web ? ». Tous les deux, ont créé l'association Le Mouton Numérique qui met en lumière les enjeux sociaux, politiques et environnementaux du numérique.
+83 écoutes
+#36 - Pierre Beyssac : concilier progrès technique et urgence climatique
+55 min - 24 septembre 2020
+Informaticien depuis les années 1980, porte-parole du parti pirate, cofondateur de Gandi et eu.org, actif sur les débats tech, nous recevons Pierre Beyssac pour parler de l'impact environnemental du numérique et de la 5G. Au programme, présentation de Pierre et du parti pirate, l'impact du numérique, effets rebond, sobriété, 5G et objets connectés !
+92 écoutes
+#35 - Caroline Vateau : évaluer la performance environnementale des services numériques
+50 min - 23 juin 2020
+Caroline Vateau est directrice département Numérique Responsable de APL Data Center et secrétaire générale de l'association Alliance Green IT. On parle de son parcours dans le domaine de l'énergie, de sa création de son entreprise Neutreo dans le domaine du numérique responsable, de l'association Alliance Green IT, du projet NegaOctet et des impacts environnementaux du numérique notamment ceux des data center.
+121 écoutes
+#34 - Vincent Courboulays : un institut pour promouvoir un numérique responsable
+36 min - 05 juin 2020
+Vincent Courboulay est maitre de conférences à La Rochelle Université et directeur scientifique de l'Institut du Numérique Responsable. Au programme : qu'est ce que l'Institut du Numérique Responsable ? StopCovid, un sujet du numérique responsable ? Objectifs de l'INR, les outils, la charte, le label. Sujets environnementaux mais aussi sociétaux ? Numérique responsable compatible avec des enjeux de croissance ?
+147 écoutes
+#33 - Peio Roth : Covid-19, produire plus de respirateurs pour sauver des vies
+36 min - 21 avril 2020
+Pierre Roth (dit Peio) est développeur chez Eove, une entreprise qui produit des respirateurs, installée à Pau. Il nous parle de son quotidien qui a été bouleversé par l'arrivée du Covid-19, comment il s'est adapté pour améliorer rapidement le produit. Il a également son avis sur les initiatives de makers, l'utilisation des masques de plongée ou autres respirateurs bricolés. Il partage sa vision, son feeling sur le monde d'après.
+25 écoutes
+#32 - Cyril Desmidt : économie circulaire, innovation sociale et réemploi de smartphones
+51 min - 13 avril 2020
+Rencontre avec Cyril Desmidt avec qui nous parlons logiciels libres, innovation sociale, réemploi d'équipements électroniques, transition numérique et écologique, économie circulaire, recylcage, low-tech, écoconception, épuisement de ressources et même sérendipité. Tout un programme ! J'espère que vous aurez autant de plaisir à écouter cet épisode que nous à le faire. Entretien réalisé début décembre 2019.
+148 écoutes
+#31 - Nicolas (Imago) : une plateforme vidéo dédiée à la transition
+45 min - 11 mars 2020
+131 écoutes
+#30 - Stéphanie Matharet : conspiration positive pour futurs souhaitables
+27 min - 03 mars 2020
+61 écoutes
+#29 - La 5G, impact environnemental et pertinence économique
+36 min - 25 février 2020
+357 écoutes
+#28 - Un écosyndicat qui concilie transition écologique et justice sociale
+31 min - 12 février 2020
+65 écoutes
+#27 - Gauthier Roussilhe : design et numérique en temps de crise environnementale
+39 min - 03 février 2020
+58 écoutes
+#26 - Maël Thomas : évaluer l'impact environnemental des gestes du quotidien
+35 min - 22 janvier 2020
+104 écoutes
+#25 - Antoine Trouche : pour un réveil écologique
+43 min - 03 janvier 2020
+48 écoutes
+#24 - Coco, Ruxandra et audrey : agir pour la biodiversite marine en adoptant un corail
+25 min - 16 décembre 2019
+29 écoutes
+#23 - Anthropocène et futurs souhaitables
+50 min - 19 novembre 2019
+68 écoutes
+#22 - Adrien Montagut : un smartphone éthique, réparable et en location !
+52 min - 06 novembre 2019
+149 écoutes
+#21 - Maxime Efoui Hess : l'insoutenable usage de la vidéo en ligne
+57 min - 29 octobre 2019
+Maxime Efoui-Hess est ingénieur et chef de projet au sein du Shift Project sur les questions numériques. Nous l'avons rencontré lors des ateliers du Shift fin septembre 2019.
+101 écoutes
+#20 - Frédéric Bordage : sobriété numérique, les clés pour agir
+18 min - 22 octobre 2019
+Frédéric Bordage est un expert green IT, éco-conception et la conception responsable des services numériques. Nous l'avions déjà rencontré lors d'un précédent épisode. Il nous parle cette fois de son livre Sobriété numérique, les clés pour agir sorti le 10 septembre 2019.
+81 écoutes
+#19 - Romain Chanut : une vie engagée et un ordinateur low tech mais pas bidon
+36 min - 11 octobre 2019
+Romain Chanut, nomade depuis quelques mois, se décrit comme facilitateur et DJ. Il est aussi le cofondateur de Jerry Do it together, un ordinateur dans un bidon fait à base d'éléments récupérés. On y parle de low tech, un peu de politique mais aussi d'Extinction Rebellion.
+74 écoutes
+#18 - Agnès Crépet : un smartphone éthique et réparable
+37 min - 23 septembre 2019
+Agnès Crépet est développeuse chez Fairphone, membre des Duchess France, une association pour valoriser les femmes développeuses et cofondatrice de la conférence MIX-IT.
+121 écoutes
+#17 - Solenne Maître : la tech pour redonner du pouvoir aux agriculteurs
+27 min - 16 septembre 2019
+Solene est cofondatrice et directrice produit de Perfarmer, une application mobile qui permet aux agriculteurs de vendre au bon moment.
+57 écoutes
+#16 - Nathaniel Richand : s'inspirer de la permaculture dans la vie en entreprise
+31 min - 29 août 2019
+Nathaniel Richand, ancien développeur, est maintenant coach agile. En voulant sortir de sa bulle, il découvre un peu par hasard la permaculture. Il nous raconte cette rencontre et comment il a assez vite fait le lien entre permaculture et pratiques agiles.
+123 écoutes
+#15 - Laure Wagner : le rapprochement domicile / travail pour réduire l'empreinte carbone
+21 min - 11 juillet 2019
+Laure Wagner travaille dans la mobilité depuis plus de 10 ans notamment chez Blablacar. Elle lance 1km à Pied, pour démocratiser la réalisation de diagnostic mobilité sur la base de fichiers RH et pour identifier des solutions de réduction des trajets, ce qui est à la fois bénéfique pour les entreprises, les salariés et l'environnement.
+68 écoutes
+#14 - Marie Gauthier : développer un service de streaming musical coopératif
+16 min - 27 juin 2019
+Marie Gauthier est développeuse et contribue depuis 2016 au lancement du service de streaming musical Resonate. Cette coopérative appartient aux musiciens, labels indépendants, fans et développeurs.
+31 écoutes
+#13 - Frédéric Bordage : le numérique responsable, outil de résilience
+42 min - 22 mai 2019
+Frédéric Bordage a été développeur, directeur technique, consultant et journaliste. En 2004, il a créé le blog greenit.fr afin de rassembler une communauté autour du green IT, ensuite sur l'éco-conception et la conception responsable des services numériques.
+64 écoutes
+#12 - Julien Hamilius : recycler les déchets d'entreprises
+39 min - 17 mai 2019
+Julien est ingénieur et a cofondé Urbyn, une startup dont l'objectif est de réduire l'impact environnemental des entreprises en accélérant leur transition vers l'économie circulaire. Et cela passe par une meilleure gestion des déchets et de leur recyclage.
+20 écoutes
+#11 - Olivier Philippot : mesurer la consommation énergétique des apps et sites web
+23 min - 15 avril 2019
+Olivier Philippot est développeur depuis 20 ans, dans différentes technologies, embarquées et mobile notamment. Lors de ses années universitaires, il a fait de la recherche sur les batteries et la gestion de l'énergie. Aujourd'hui il est cofondateur de Greenspector, une startup installée à Nantes. Nous allons parler de comment mesurer la consommation énergétique de nos sites web et applications.
+67 écoutes
+#10 - Yannick Morel : nuit du code citoyen et la tech au service de l'intérêt général
+34 min - 22 mars 2019
+Dans cet épisode, on est à la Nuit du Code citoyen à Paris qui s'est tenue le vendredi 15 mars 2019. On est avec Yannick Morel, co-fondateur de Latitudes, association loi 1901 qui accompagne et encourage l'utilisation des technologies au service de l'intérêt général.
+21 écoutes
+#9 - Jean-Baptiste Dusseaut : les cryptomonnaies sont-elles réellement énergivores ?
+38 min - 13 mars 2019
+Jean-Baptiste Dusseaut est eXtreme programmeur depuis plus de 16 ans, architecte logiciel chez LGO, co-fondateur d'Arpinum, co-organisateur de l'Agile Tour Bordeaux et également enseignant. Nous abordons le sujet de la consommation d'énergie des cryptomonnaies notamment le BitCoin mais aussi les usages de la Blockchain, le bullshit marketing, la spéculation et les idées reçues autour de cette technologie.
+64 écoutes
+#8 - Geoffrey Dorne : design pour une résilience face à l'effondrement
+32 min - 07 mars 2019
+Geoffrey Dorne est designer indépendant depuis 2005 et fondateur de Design & Human, agence de design à vocation sociale et qui vise l’indépendance. Il a donné une conférence très inspirante à BlendWebMix 2018, « Pour un design de l’indépendance ». Il nous parle des métiers de la conception et de comment préparer la population à plus de résilience numérique.
+105 écoutes
+#7 - Bela Loto : se sensibiliser au numérique responsable
+34 min - 01 mars 2019
+Bela a fondé l'association Point de M.I.R, Maison de l'Informatique Responsable qui organise des ateliers et évènements autour de cette thématique.
+33 écoutes
+#6 - Jean-François Fourmond : pour un manifeste écologique des professionnels de l'informatique
+17 min - 12 février 2019
+Jean-François Fourmond est développeur Java indépendant. Il souhaite s'engager pour limiter le réchauffement climatique en lançant un manifeste dédié aux professionnels de l'informatique. Il a besoin d'aide pour finaliser ce manifeste et communiquer.
+32 écoutes
+#5 - Xavier Verne : pour une sobriété numérique
+44 min - 24 janvier 2019
+Xavier Verne est directeur projet à la SNCF, agrégé de mathématiques et membre du think tank The Shift Project. Il nous parle du rapport publié en octobre dernier « Pour une sobriété numérique », l’impact environnemental du numérique et les leviers d'action.
+68 écoutes
+#4 - Richard Hanna : coder, designer pour quel futur ?
+17 min - 16 janvier 2019
+Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j'ai présenté ce sujet et parler du podcast.
+45 écoutes
+#3 - Nicolas Bétheuil : permaculture et agilité
+34 min - 28 décembre 2018
+Nicolas Bétheuil est développeur. Il a appris simultanément la permaculture dans sa vie personnel et l'agilité dans sa vie professionnelle. Il a remarqué de nombreuses similitudes entre agriculture respectueuse de la nature et l'agilité en entreprise, notamment les pratiques Scrum et XP, Extreme Programming.
+157 écoutes
+#2 - Raphaël Lemaire : impact écologique, que faire en tant que professionnel du web
+29 min - 13 décembre 2018
+Raphaël Lemaire est développeur et sensibilisé depuis des années à l'éco-conception. Que faire en tant que développeur ou professionnel du web pour réduire l'impact de nos produits sur l'environnement et la consommation énergétique ?
+95 écoutes
+#1 - Marie-Cécile Paccard : coder et designer pour un futur incertain
+43 min - 13 décembre 2018
+Marie-Cécile Paccard est designer et auteure des articles S'éveiller à l'effondrement et Design pour un futur incertain. On parle d'effondrement et d'éco-conception dans le design et le développement web ou logiciel.
+266 écoutes
+Vous aimerez aussi
+Dans la tête des paumés
+Fiction - 10 podcats (5 min)
+Le podcast des utopies réalistes
+Interview - 37 podcats (45 min)
+Ils ont osés basculer
+Interviews - 74 podcats (50 min)
+#
+< /> intégrer copier
+Se connecter Publier Modifier Supprimer
+Je fais un don
+euro(s) Donner Promettre Vous disposez de 10 euro(s)
+Merci pour votre promesse !
+N'oubliez pas de recharger votre compte pour concrétiser votre don.
+Merci pour votre don !
+C'est une aide précieuse à la création.
+Recharger
+J'ai déjà un compte sur imago :
+Pseudo ou email :
+Mot de passe :
+Rester connecté(e)
+Se connecter Attention à bien respecter majuscules et minuscules Je n'ai pas encore de compte sur imago : Créer compte
+Confimez-vous votre demande ? Oui Non
+Imago utilise les iframes de players vidéos externes. Ceux-ci peuvent utiliser des cookies. En poursuivant votre navigation, vous en acceptez l'usage.

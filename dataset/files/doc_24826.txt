@@ -1,0 +1,112 @@
+var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-28644221-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://' : 'https://') + 'stats.g.doubleclick.net/dc.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.data-privacy-src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '657321001035400'); fbq('track', 'PageView');
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.data-privacy-src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js'); qp('init', '51637d02ab6d4503a68c7c6893d1f4fe'); qp('track', 'ViewContent');
+_linkedin_data_partner_id = "48118";
+(function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})();
+var google_tag_params = { dynx_itemid: 'REPLACE_WITH_VALUE', dynx_itemid2: 'REPLACE_WITH_VALUE', dynx_pagetype: 'REPLACE_WITH_VALUE', dynx_totalvalue: 'REPLACE_WITH_VALUE', };
+/* */
+Skip to content
+Search for:
+Produit
+Tarifs
+Solutions
+Équipes créatives et marketing
+Équipes de développement
+Travailleur autonome
+Toutes les équipes Agile
+Connexion
+Inscription
+FR
+EN
+ES
+PT
+Search for:
+21	01, 2020	
+Les 5 nouveaux challenges d’un chargé de projet
+Gallery	
+Les 5 nouveaux challenges d’un chargé de projet	
+Gestion de projet Agile, Management de projet
+Les 5 nouveaux challenges d’un chargé de projet
+Marie-Eve Trempe2020-01-21T19:48:31+00:00	
+Que vous soyez un chargé de projet novice ou vétéran, votre entreprise sera appelée à s’adapter aux nouvelles réalités du marché. Dans les prochaines années, il est même possible que votre équipe ne soit plus la même. Vous devrez alors vous aussi vous adapter à ces changements. Pour vous préparer face à cette éventualité, nous [...]
+Les 5 nouveaux challenges d’un chargé de projetMarie-Eve Trempe2020-01-21T19:48:31+00:00	
+26	09, 2019	
+Gestion de tâches : les avantages du tableau collaboratif en ligne
+Gallery	
+Gestion de tâches : les avantages du tableau collaboratif en ligne	
+Collaboration, Gestion de projet Agile, Management de projet
+Gestion de tâches : les avantages du tableau collaboratif en ligne
+Marc Guévin2019-09-26T14:46:29+00:00	
+La gestion de tâches est plus compliquée qu’on ne le croit. Naturellement, si votre équipe s’agrandit, l’organisation se complexifie. Heureusement, il existe des outils pour simplifier votre gestion de projet. Alors que le tableau physique a fait ses preuves au travail, découvrez aujourd’hui les avantages du tableau collaboratif en ligne. Un tableau collaboratif en ligne [...]
+Gestion de tâches : les avantages du tableau collaboratif en ligneMarc Guévin2019-09-26T14:46:29+00:00	
+12	09, 2019	
+Surmonter les obstacles de votre conduite de projet
+Gallery	
+Surmonter les obstacles de votre conduite de projet	
+Gestion de projet Agile, Management de projet
+Surmonter les obstacles de votre conduite de projet
+Marie-Eve Trempe2019-09-26T14:46:21+00:00	
+Le gestionnaire de projet est une personne importante dans toute organisation. Il assure à la fois la supervision et la conduite de projet, du début à la fin. En résumé, il agit comme un chef d’orchestre. Si vous êtes gestionnaire, vous devez être conscient de certains obstacles qui se présenteront à vous et à votre [...]
+Surmonter les obstacles de votre conduite de projetMarie-Eve Trempe2019-09-26T14:46:21+00:00	
+15	01, 2019	
+Terminé la confusion avec la refonte complète des profils de sécurité
+Gallery	
+Terminé la confusion avec la refonte complète des profils de sécurité	
+Gestion de projet Agile, Nouveautés Nutcache
+Terminé la confusion avec la refonte complète des profils de sécurité
+Marie-Eve Trempe2019-04-05T15:18:16+00:00	
+Les derniers mois de 2018 ont été une période fort occupée chez Nutcache, car notre équipe poursuit sa mission de rendre l’application la plus conviviale possible. La plus récente mise à jour de Nutcache en témoigne d'ailleurs puisqu'elle s'est attardée à simplifier la gestion des profils de sécurité et à faciliter et accélérer la création [...]
+Terminé la confusion avec la refonte complète des profils de sécuritéMarie-Eve Trempe2019-04-05T15:18:16+00:00	
+11	12, 2018	
+Weighted Shortest Job First (WSJF)
+Gallery	
+Weighted Shortest Job First (WSJF)	
+Gestion de projet Agile, Gestion de projet Scrum
+Weighted Shortest Job First (WSJF)
+Marc Guévin2019-04-05T15:22:11+00:00	
+L'un des rôles du product owner est d'alimenter le product backlog avec les fonctionnalités que l'équipe technique va devoir développer. L'autre, sans aucun doute plus complexe, est de définir la priorité des tâches à réaliser. Comment choisir quelle fonctionnalité doit être développée avant les autres ? La résolution de ce problème peut rapidement devenir un [...]
+Weighted Shortest Job First (WSJF)Marc Guévin2019-04-05T15:22:11+00:00	
+3	12, 2018	
+Fiche métier Scrum Master
+Gallery	
+Fiche métier Scrum Master	
+Gestion de projet Agile, Gestion de projet Scrum
+Fiche métier Scrum Master
+L'équipe éditoriale2019-05-28T15:24:13+00:00	
+Scrum est sans aucun doute l'une des méthodologies de gestion de projet agile les plus utilisées dans le domaine du développement informatique. Le Scrum Master est le garant de la mise en place et de l'application de la méthodologie Scrum au sein de l'équipe projet. Il veille également à ce que l'équipe puisse être autonome [...]
+Fiche métier Scrum MasterL'équipe éditoriale2019-05-28T15:24:13+00:00	
+26	11, 2018	
+La vélocité Agile : définition, calcul et bonne utilisation
+Gallery	
+La vélocité Agile : définition, calcul et bonne utilisation	
+Gestion de projet Agile, Gestion de projet Scrum
+La vélocité Agile : définition, calcul et bonne utilisation
+Marc Guévin2019-04-05T14:55:44+00:00	
+Souvent associée à la méthodologie Scrum, la vélocité agile peut être un outil précieux lorsqu'il s'agit de suivre le travail réalisé par une équipe de développement lors d'un sprint et d'aider à la prédictibilité du suivant. En revanche, mal utilisée, comme un indicateur de performances pour le management par exemple, elle peut s'avérer totalement contre-productive. [...]
+La vélocité Agile : définition, calcul et bonne utilisationMarc Guévin2019-04-05T14:55:44+00:00	
+21	11, 2018	
+Coding Dojo
+Gallery	
+Coding Dojo	
+Gestion de projet Agile, Management de projet
+Coding Dojo
+Marc Guévin2019-04-05T14:31:31+00:00	
+Le premier « coding dojo » est né du constat que la plupart des développeurs n'avaient que leur travail, leurs réalisations professionnelles, pour améliorer leurs connaissances et leurs techniques de développement. L'idée était alors de les sortir de leur environnement habituel de travail et de les amener à collaborer ensemble sur un thème précis ou [...]
+Coding DojoMarc Guévin2019-04-05T14:31:31+00:00	
+14	11, 2018	
+Une mise à jour pour améliorer votre expérience utilisateur
+Gallery	
+Une mise à jour pour améliorer votre expérience utilisateur	
+Gestion de projet Agile, Nouveautés Nutcache
+Une mise à jour pour améliorer votre expérience utilisateur
+L'équipe éditoriale2019-05-28T15:24:14+00:00	
+Chez Nutcache, notre but ultime est de vous faire vivre la meilleure expérience utilisateur possible. Avec ce nouveau release, nous nous rapprochons un peu plus de cet objectif en rendant disponibles plusieurs superbes fonctionnalités qui vont, à n’en pas douter, fortement améliorer votre expérience de l’application. Davantage de flexibilité pour gérer votre compte Jusqu’à [...]
+Une mise à jour pour améliorer votre expérience utilisateurL'équipe éditoriale2019-05-28T15:24:14+00:00	
+20	09, 2018	
+Speed boat agile – un outil efficace de rétrospective agile
+Gallery	
+Speed boat agile – un outil efficace de rétrospective agile	
+Gestion de projet Agile
+Speed boat agile – un outil efficace de rétrospective agile
+Marc Guévin2019-04-08T15:30:31+00:00	
+Lorsqu'un projet est géré à l'aide d'une méthode agile, comme scrum par exemple, la fin d'une itération de développement est conclue par une réunion de rétrospective, permettant de dresser le bilan. Les membres de l'équipe doivent pouvoir s'exprimer librement. Il n'est pas toujours facile de recueillir suffisamment d'informations structurées pour que la rétrospective soit pleinement [...]

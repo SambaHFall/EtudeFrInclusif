@@ -1,0 +1,114 @@
+Premium : comment utiliser une particularité de la perception visuelle pour faire une (bonne) carte, comment utiliser les probabilités pour détecter la tromperie, et deux actualités.
+Sommaire
+1. Dove vs. Barbie : pourquoi les mannequins sont fauxtoshoppés
+Un effet Barbie ?
+Réduire l’estime de soi
+Les déclencheurs
+2. Perception visuelle : Comment faire une bonne carte (Premium)
+3. Comment détecter (simplement) la tromperie par les mathématiques (Premium)
+4. Actualités (Premium)
+La Lettre Neuromonaco a 2 ans !
+Cette deuxième année, 43 Lettres (46 à 88) ont été envoyées, soit 178 sections.
+Les Abonnés Premium* ont reçu en plus 84 sections dont 60 actualités (dont 21 uniquement par courriel, non archivées sur Neuromonaco.com).
+La lettre la plus lue en ligne cette année est comme l’année précédente la 19 (“Management : Comment contrer le Principe de Peter ?“), mais elle est maintenant suivie de la 52 (“Comment avoir plus de chance ?“).
+Merci aux abonnés !
+*: Les sections Premium ont été ajoutées à partir de la Lettre 73 (27 mai 2013 : “Mensonge et dominance“).
+1. Dove vs. Barbie : pourquoi les mannequins sont fauxtoshoppés
+Depuis la célèbre campagne Dove, de nombreuses vidéos sont venues montrer que les mannequins en photo ne sont pas réelles, qu’elles ne sont que des créations artistiques réalisées à grands renforts de Photoshop.
+Il n’y a pas que les vidéos : Katie Halchishick, co-fondatrice de l’organisation Healthy Is The New Skinny (“la santé a remplacé la maigreur”) avait posté en août 2012 sur Twitter une comparaison entre ses proportions et celles de Barbie (photo ci-contre).
+Il peut sembler logique que des femmes ne correspondant pas aux critères de beauté en vigueur essaient d’en imposer d’autres plus à leur image. Candace Bushnell s’en était moqué[1] :
+“Winnie pense beaucoup à son poids (trop, sans doute. Elle devrait se concentrer sur des choses plus importantes, comme les idées. Mais c’est plus fort qu’elle). C’est une farouche adversaire des magazines féminins qui se servent de jeunes mannequins osseuses. C’est une de ses bêtes noires (elle a écrit un article à ce sujet, un article en deux parties, intitulé “la peau sur les os, ça n’a rien de sexy”. A la suite de quoi elle est passée dans deux débats télévisés, où elle a démoli son interlocutrice, la rédactrice en chef d’un magazine de mode). Mais elle ne voudrait pour rien au monde être “grosse” (elle se sent mal lorsqu’elle remarque qu’une de ses amies a pris du poids. Elle se sent supérieure – uniquement, bien sûr, parce qu’elle sait que les femmes qui grossissent sont malheureuses).”
+Cette hypocrisie a bien sûr engendré beaucoup de moqueries, dont celle-ci qui reprend précisément le message originel :
+(Traduction : A gauche : “Femmes, ceci n’est pas attirant“, à droite : “Ceci est attirant” et en bas : “Les vrais hommes ont des vraies formes“)
+D’autres retours apparaissent plus agressifs, comme la “Fat shaming week” (semaine de honte des grosses, en cours actuellement) qui est dénoncée par Les Inrocks.
+On peut également remarquer que si les poupées Barbie (et autres) sont accusées de conditionner la vie des femmes, les figurines de super-héros masculins ne sont pas accusées du moindre effet sur les hommes.
+Un effet Barbie ?
+Ces messages anti-minceur présupposent tous que les photos retouchées auraient un effet sur les hommes et les femmes en modifiant l’estime de soi de celles-ci et les goûts de ceux-là, et que cet effet pourrait être inversé avec d’autres photos.
+La première affirmation est partiellement valide : les images en photos font partie de l’environnement et sont des références de comparaison. L’estime de soi des femmes face à une femme plus belle est bien atteinte, et voir une femme plus belle a bien un impact sur les attentes des hommes. Par exemple, David Buss avait cité une étude où des hommes en couple avaient trouvé leur couple moins solide et affirmé qu’ils étaient moins engagés s’ils avaient auparavant consulté des magazines féminins (avec des photos de femmes belles) que s’ils avaient consulté des magazines économiques (sans ces photos).
+Il y a quand même une restriction importante : l’influence n’existe que sur l’axe de la beauté, laquelle correspond à des critères largement prédéterminés. Les retouches montrées sur toutes ces vidéos vont toutes dans le sens d’un ratio taille/hanche (WHR) plus proche de 0,7, d’extrémités (jambes, bras, mains) plus longues (signe de croissance prolongée), de visage et de corps plus symétriques, d’yeux plus grands (signe de jeunesse), de peau plus lisse et homogène (résistance aux parasites), etc. Ce sont toujours les mêmes critères.
+Et même si la préférence pour la minceur apparaît bien influencée par les conditions environnementales, le principal facteur est celui de la richesse (comme indiqué Lettre Neuromonaco 43) : il faudrait un changement d’environnement pas forcément souhaité pour changer les goûts.
+Ces photos peuvent donc augmenter la compétition mais ne peuvent pas changer ses critères.
+Réduire l’estime de soi
+C’est cette augmentation du niveau de compétition qui est recherchée en publicité. Plusieurs études ont montré qu’il faut d’abord attaquer l’estime de soi des femmes pour ensuite vendre des produits qui les rassurent et/ou leur offrent un moyen d’atteindre l’idéal.
+Par exemple, Apaolaza-Ibáñez et al. (2011) ont montré que les femmes sont intéressées par les marques de cosmétiques qui leur proposent des produits qui les rassurent… et qu’elles se sentent plus rassurées quand elles ont d’abord subi une perte d’estime de soi provoquée par des photos de femmes plus belles.
+Les déclencheurs
+Pour que les femmes se sentent rassurées, il faut qu’elles puissent croire qu’elles vont pouvoir ressembler à la personne en photo. C’est ce qu’ont montré Knobloch-Westerwick & Romero (2011) qui ont trouvé qu’il faut accompagner les photos d’articles expliquant comment faire : tous les articles sur comment perdre du poids et autres sujets du genre qui remplissent les magazines sont nécessaires[2].
+La limite semble donc être cette possibilité d’atteindre l’idéal : un mannequin trop parfait paraîtra trop lointain et cassera l’effet. Cette limite est cependant elle-même compensée par une des caractéristiques des déclencheurs : comme indiqué Lettre Neuromonaco 53, ils ont parfois besoin d’exagération pour être efficaces.
+Les mannequins en photo ne sont pas des femmes normales, mais des supports exagérés servant de déclencheurs : des armes pour baisser l’estime de soi des femmes, afin que celles-ci aient besoin de se rassurer en achetant les produits conseillés.
+Les tops ne sont pas des femmes normales mais des supports exagérés servant de déclencheurs
+Click To Tweet
+Notes
+Extrait de : Bushnell, Candace (2001) : 4 blondes. Albin Michel, Livre de poche, 15402. (Trans. Dorothée Zumstein).
+Autres extraits sur Evopsy.
+Le fait que le poids ne soit pas figé renforce l’effet : tout le monde peut croire facilement qu’il/elle peut maigrir. Mais le même principe est utilisable pour tout : par exemple pour vendre de la chirurgie esthétique.
+Liens
+““Fat shaming week”, l’odieux lâchage des machos américains“. Par Mélanie Mendelewitsch. Les Inrocks. 03 novembre 2013
+“Woman Turns Into Another Woman.” By Geoffrey Ingersoll. Business Insider. Oct. 30, 2013
+“Do we buy cosmetics because they are useful or because they make us feel good?” PsyPost. July 21, 2011
+Lettres Neuromonaco :
+34 : “De la beauté au design“
+43 : “Les buts de la mode“
+53 : “Déclencheurs : le besoin d’exagérer“
+Références
+Apaolaza-Ibáñez, V., Hartmann, P., Diehl, S., & Terlutter, R. (2011). Women satisfaction with cosmetic brands: The role of dissatisfaction and hedonic brand benefits. African Journal of Business Management, 5(3), 792–802.
+Knobloch-Westerwick, S., & Romero, J. (2011). Body Ideals in the Media: Perceived Attainability and Social Comparison Choices. Media Psychology, 14(1), 27–48. doi:10.1080/15213269.2010.547833
+2. Perception visuelle : Comment faire une bonne carte (Premium)
+La suite de cette section est réservée aux Abonnés Premium
+Si vous êtes abonné : connectez-vous pour avoir accès à toutes les archives ;
+Sinon : Utilisez le formulaire de commande en haut à droite de chaque page pour recevoir cette lettre intégrale par email.
+3. Comment détecter (simplement) la tromperie par les mathématiques (Premium)
+La suite de cette section est réservée aux Abonnés Premium
+Si vous êtes abonné : connectez-vous pour avoir accès à toutes les archives ;
+Sinon : Utilisez le formulaire de commande en haut à droite de chaque page pour recevoir cette lettre intégrale par email.
+4. Actualités (Premium)
+Cette section premium signale quelques découvertes récentes (qui feront peut-être l’objet de futures lettres) et autres liens intéressants.
+Cette semaine : l’impact de la beauté sur la confiance et une évolution démographique importante aux USA.
+La suite de cette section est réservée aux Abonnés Premium
+Si vous êtes abonné : connectez-vous pour avoir accès à toutes les archives ;
+Sinon : Utilisez le formulaire de commande en haut à droite de chaque page pour recevoir cette lettre intégrale par email.
+Citation de cette page :
+Gouillou, Philippe (2013) : "Lettre Neuromonaco 89: La minceur : Effet Barbie ou Déclencheur ?". (04 Nov 2013) Neuromonaco. Retrieved from http://neuromonaco.com/lettres/lettre89.htm on 20 Dec 2014. 1542 words.
+[Lettre Neuromonaco 89: La minceur : Effet Barbie ou Déclencheur ?](http://neuromonaco.com/lettres/lettre89.htm). Philippe Gouillou. _Neuromonaco_. 04 Nov 2013
+2 Responses to “89: La minceur : Effet Barbie ou Déclencheur ?”
+Scoop.it : mediacritique says:	
+November 10, 2013 at 3:21 pm	
+[…] Faut-il détruire l'estime de soi des femmes pour vendre des cosmétiques ? […]
+89: La minceur : Effet Barbie ou Dé... says:	
+November 20, 2013 at 3:47 pm	
+[…] Faut-il détruire l'estime de soi des femmes pour vendre des cosmétiques ? […]
+Abonnement
+COMMANDE LETTRE
+Pour recevoir par courriel la version intégrale d'une Lettre (7,20 €).
+♦
+ABONNEMENT GRATUIT
+Pour recevoir les alertes Neuromonaco.
+(vous recevrez un email avec un lien à cliquer pour confirmer votre inscription)
+Archives Lettres
+Sommaire détaillé des 135 Lettres
+135: Changement de format !
+134: Extorsion et Hiérarchie
+133: Décision : l’Effet Einstellung
+132: Viralité : les 3 degrés d’influence
+Tags
+Beauté Biais Cognitif Branding Confiance Conformité Cortex Créativité Debunking Design Déclencheurs Démographie Embodied Cognition Evolution Femmes Fidélisation Formation Génétique Handicap Hormones IDP Illusion Internet Management Maths Meteo Microbiote Musique Médias Mémétique Neuromarketing Neurosciences Ocytocine Perception Persuasion Priming Propagande Publicité Segmentation Sexe Statut Storytelling Stratégies Subliminal Succès Webmarketing
+Social Medias
+Facebook
+Twitter
+Evopsy
+Pourquoi les Femmes des Riches sont Belles : 3ème Edition 2014
+A quoi sert le sexe ? A transmettre les gènes du microbiome...
+Psychologie de la persuasion : Conférence Ecobiz
+Trois systèmes neuraux différents pour la reproduction humaine selon Helen Fisher
+L'Evopsy rapidement expliquée par l'histoire d'une vie
+Pourquoi…
+Contact
+NEUROMONACO
+DIMENSION MONACO
+Tour Odéon
+36, Av. de l'Annonciade
+MC 98000 Monaco
+Email
+© Philippe Gouillou 2011 - 2014 • Design by Frédéric Serva
+Read more:
+90: L’effet célébrité
+Acheter un produit parce qu'une star en a fait la pub n'est pas ridicule : c'est appliquer dans le monde moderne...

@@ -1,0 +1,85 @@
+Je développe depuis l’adolescence. Je suis spécialisé sur l’utilisation et l’extension de frameworks ou CMS comme Prestashop et WordPress.
+Connaissances techniques
+langages web :
+PHP , MYSQL, HTML5, CSS3
+JS, JQUERY, AJAX
+Expert Prestashop et WordPress
+GIT, Mercurial, Tortoise, principe DRY
+Up to Date
+A jour sur les dernières technologies du web
+Respect des normes W3C
+Intégration multi-plateformes et responsive design
+Ils nous font confiance
+Vous voulez travailler avec nous ?
+Parlez nous de votre projet
+Outils
+Patrick Gasselin
+Le travail de graphisme effectué par Alan Dedobbeler (AD-Creatif) tant pour nos documents papier que pour nos outils numériques a parfaitement répondu à nos attentes, avec à chaque fois de bonnes surprises. Le travail de création est remarquable, le souci d'efficacité n'est jamais négligé, les délais et les devis sont toujours respectés.
+Marie-Charlotte Palot
+On m'a recommandée à plusieurs reprises d'avoir un site web/blog à mon image via lequel je pourrais partager un peu de moi sur les réseaux sociaux.Un site qui me ressemble, c'est un défi qu'aucun autre aurait relevé avec autant de brio, de sérieux et de créativité. Plus que de me fournir des pages,Alan fait un réel travail en amont pour synthétiser au mieux ce qui marcherait, ce qui me ressemble, et ce qu'il faut éviter. En bref,une véritable expertise au service de ce qu'il fait de mieux : la communication. Comme quoi, on peut vraiment s'amuser en réfléchissant. Je vous le recommande!
+Charles Gimenez
+Alan est consciencieux et passionné, efficace et à l'écoute.
+Il s'est totalement occupé de la réalisation de mon site. et à su me transmettre toutes les clés pour le gérer de manière autonome. (mise en page que le référencement, community management...)
+Christine Casiez
+Alan a rapidement compris ce que je souhaitais pour mon site web. Il a parfaitement intégré ma charte graphique et réalisé le site dans les délais prévus. J'ai beaucoup apprécié ses conseils.
+Ghislaine Pierquet
+De la créativité, du professionnalisme, de l'écoute et du sérieux. Que vous ayiez besoin d'un site professionnel, modulable, avec un sav qui suit ou d'une formation pour gérer intelligemment tout ce qui s'y rapporte, AD-CREATIF est à même de vous l'amener. Il vous est proposé des solutions personnalisées, qui colleront parfaitement à vos besoins. Un Webmaster et une équipe réactifs qui ne déçoivent pas. 🙂
+Compétences et Outils
+Développement, formation, intégration et infographie,
+PHP / HTML / CSS / JS et Prestashop / WordPress. Depuis 2009
+Print / Intégration
+Identité visuelle, études sémiotique et concurrentielle,
+UX design
+branding, targeting, wording.
+Suite Adobe : Photoshop, Illustrator, Flash, InDesign,
+Bridge, After Effect, Dreamweaver, Flash Builder, Adobe Premiere
+Suite Microsoft Office : Word, Excel, Outlock, Powerpoint
+LANGAGES : Css3 - Html5 - JQuery - JS - SASS
+Développement
+Développement d’extensions et fonctionnalités pour CMS,
+Création de site, animations et applications web dynamiques
+Intégration valide selon les standards W3C,
+optimisation du poids des images,
+balisage optimisé pour le référencement naturel.
+LANGAGES : Php, Mysql, JS, JQuery, ajax, AS3
+Outils
+Frameworks :
+Prestashop, WordPress, Joomla, Website Baker, Magento
+Librairies :
+Mootols, Bootstrap,
+Autre :
+3ds MAX, audacity, VirtualDub, Cubase, PC/MAC
+Dev : SVN, GIT, tortoise, phpStorm, Notepad ++, putty
+3752
+Lignes de code
+36+
+Tasses de café
+97h
+Heures de musiques
+Tombé dans la marmite du Web et de la technologie internet depuis tout petit, j’ai créé ma structure de graphiste/développeur en 2010. Une passion personnelle, complété par une formation spécifique à l’ESMA, pour créer le réseau ad-creatif est spécialisée dans la création et la réalisation de stratégies de communication sur mesure.
+Petite structure, aux profils complémentaires, notre relation client est basée sur l’écoute, le dialogue et l’efficacité. Comprendre vos besoins et les attentes d’un secteur d’activité, nous permets de concevoir et mettre en oeuvre des solutions personnalisées fiables et pérennes.
+Conception graphique, gestion de contenus dynamique (CMS), bases de données, utilisation des derniers standards et technologies… Nous mettons à votre disposition toutes nos compétences et savoir-faire pour vous accompagner dans la réussite de votre projet internet !
+Une équipe passionnée
+ad-creatif, c’est également 3 associés et 5 prestataires à votre service et à votre écoute chaque jour.
+Et chaque jour : de nouveaux clients contents de nos services. Notre équipe polyvalente de graphistes, de conseillers, de photographes, de techniciens réseau, de formateurs, de développeurs, commerciaux sont nos ingrédients de réussite…
+Notre force, c'est le sur-mesure
+Fatigués de voir des voleurs, qui se disent expert en communication mais qui ne font que vous vendre un produit et non une création. Nous réalisons une prestation selon vos besoins et votre budget. C’est pourquoi avant tout chiffrage, ou toute production, nous nous imprégnons de votre entreprise, évaluons ses points forts, nous étudions votre potentiel ainsi que la demande et les besoins de vos cibles.
+Nous, on aime les gens !
+Si vous avez un projet, n’hésitez pas à nous en faire part pour profiter de notre expertise et nos conseils.
+Laissez nous un mail pour parler de votre projet
+Remplissez le formulaire si dessous, votre réponse arrivera dans moins de 48h.
+Mentions légales
+Stagiaires ? Etudiants ? Reconversion ?
+E-SHOW
+ad-creatif over the world !
+Print / PAO
+ARTICLES RECENTS
+Follow On Twitter	
+Follow On Google Plus	
+Join us on Facebook	
+Consultant, Formateur, Développeur
+Spécialisé sur e-commerce et de nombreux framework. Je peux intervenir directement en entreprise ou en télétravail. Pour des missions courtes et moyennes.
+>>> Alan DEDOBBELER
+contact@ad-creatif.com 92000 NANTERRE SIRET : 52096270500023
+© 2015, ad-creatif, tous droits réservés
+<script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-10574909-4', 'auto'); ga('send', 'pageview'); </script>

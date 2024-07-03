@@ -1,0 +1,282 @@
+Suspension homogène stable dépourvue d'émulsifiant, son procédé de préparation et son utilisation dans des compositions alimentaires
+Nom du demandeur :
+COMPAGNIE GERVAIS DANONE
+Nom de l'opposant :
+Raisio Nutrition Ltd.
+Unilever N.V.
+McNeil-PPC, Inc.
+Chambre :
+3.3.09
+Sommaire :
+-
+Dispositions juridiques pertinentes :
+European Patent Convention Art 54
+European Patent Convention Art 56
+European Patent Convention Art 83
+European Patent Convention Art 104
+Mot-clé :
+Requête déposée tardivement (admissible)
+Modifications: examen de clarté - non
+Exposé: suffisant - oui
+Nouveauté et activité inventive - oui
+Répartition des frais - non
+Exergue :
+-
+Décisions citées :
+T 0585/95
+T 0381/02
+T 1277/05
+T 1459/05
+T 0608/07
+T 0656/07
+Décisions dans lesquelles
+la présente décision est citée :
+G 0003/14
+Exposé des faits et conclusions
+I. La demande de brevet européen numéro 99907661.5 déposée comme demande internationale PCT/FR99/00496 le 4 mars 1999 a donné lieu le 8 mai 2002 (Bulletin 2002/19) à la délivrance du brevet européen nº 1 059 851 sur la base de vingt deux revendications. La titulaire du brevet est la COMPAGNIE GERVAIS-DANONE. Le libellé des revendications indépendantes 1, 8, 9, 17, 21 et 22 s'énonçait comme suit :
+"1. Suspension homogène stable dépourvue d'émulsifiant, d'au moins une substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC, et d'un épaississant, dans un milieu aqueux."
+"8. Procédé de préparation d'une suspension homogène stable selon l'une quelconque des revendications 1 à 7, dans lequel:
+- on prépare une solution présentant une viscosité de 0,05 Pas à 0,15 Pas, en mélangeant une solution aqueuse avec un épaississant,
+- on additionne à la solution visqueuse obtenue à l'étape précédente une substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC, à une concentration telle que la concentration dans la solution visqueuse soit de 0,1% à 30% p/v
+pour obtenir une suspension homogène stable dépourvue d'émulsifiant."
+"9. Composition alimentaire dans laquelle la teneur en eau est d'au moins 60%, caractérisée en ce qu'elle comprend une suspension homogène stable, selon l'une quelconque des revendications 1 à 7, à raison de 0,5% à 30% notamment à raison de 1% à 25%, et une composition fluide contenant au moins 60% d'eau et ne contenant pas plus de 18% des matières grasses, à raison de 75% à 99,5%."
+"17. Procédé de préparation d'une composition alimentaire selon l'une des revendications 9 à 16, comprenant les étapes suivantes:
+- on prépare une suspension homogène stable par mélange d'une solution aqueuse, d'une substance hydrophobe et/ou présentant un point de fusion supérieur à 130ºC, et d'un épaississant,
+- on mélange la suspension homogène stable avec une composition fluide dont la teneur en eau est d'au moins 60% et ne contenant pas plus de 18% de matières grasses, à une température de 60ºC à 80ºC,
+- on soumet le mélange obtenu à l'étape précédente à une homogénéisation sous une pression de 50 à 500 bar pour obtenir une dispersion homogénéisée stable dans laquelle les particules constituant la substance, hydrophobe et/ou dont le point de fusion est supérieur à 130ºC, sont broyées à une taille de 50my à 100my."
+"21. Composition alimentaire susceptible d'être obtenue par le procédé selon l'une des revendications 17 à 20."
+"22. Composition alimentaire dépourvue d'émulsifiant, contenant moins de 20%, et de préférence moins de 18% de matière grasse, et de 0,001 à 7,5%, de préférence de 0,05 à 4%, et plus particulièrement de 0.005 à 2,5% de substance dont le point de fusion est supérieur à 130ºC et/ou hydrophobe, notamment choisi parmi les phytostérols, les phytostanols et leurs dérivés estérifiés respectifs."
+Les revendications 2 à 7, 10 à 16, et 18 à 20 étaient des revendications dépendantes.
+II. Trois oppositions ont été formées à l'encontre du brevet européen précité par les sociétés RAISIO BENECOL LTD. (maintenant Raisio Nutrition Ltd.), opposante 01, Unilever N.V., opposante 02, et Mc-Neil-PPPC, Inc., opposante 03.
+Les trois opposantes ont requis la révocation du brevet au titre des motifs énoncés à l'article 100a) CBE, en invoquant l'absence de nouveauté et d'activité inventive, ainsi qu'au titre de l'article 100 b) CBE car, selon elles, le brevet n'exposait pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter.
+III. Les documents suivants, cités au cours des procédures d'opposition et/ou de recours, restent pertinents pour la présente décision :
+D6 : GB 934686;
+D19 : Compte rendu d'essais de la société Raisio Benecol Ltd. daté du 3 Février 2003;
+D21 : GB 2 180 733;
+D24 : WO 95/00158 A1;
+D32 : US 4 938 983
+D39 : "Cookery Book", Edited by Gill Edden, EBURY PRESS, London, 1982, page 204;
+D45 : Rapport de la société ADRIA DEVELOPPEMENT daté du 25 septembre 2003;
+D47 : Compte rendu d'essais daté 5 octobre 2004;
+D53(or X5) : "Thickening and Gelling Agents for Food"; Edited by Alan Imeson, Second Edition 1997, pages 124, 284-295 and back cover;
+D63 : Mesures des viscosités des solutions selon l'invention produites avec la lettre du 20 septembre 2010;
+D64 : Essais de la société Unilever N.V. datés du 24 avril 2012;
+D65 : Essais de la société RAISIO datés du 16 mai 2012; et
+D66 : Essais de la Compagnie Gervais-Danone produits avec la lettre du 21 mai 2012.
+IV. Par décision prononcée à l'issue de la procédure orale du 17 septembre 2009 et signifiée par voie postale le 29 octobre 2009 la division d'opposition a décidé que, compte tenu des modifications apportées par la titulaire du brevet au cours de la procédure d'opposition, le brevet et l'invention qui en constitue l'objet satisfaisaient aux conditions énoncées dans la Convention.
+La décision était basée sur un jeu de quinze revendications selon la requête principale déposée pendant la procédure orale. Le libellé des revendications 1, 4 et 5 s'énonçait comme suit
+"1. Suspension homogène et stable dépourvue d'émulsifiant,
+- d'au moins une substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC choisie parmi les phytostérols, les phytostanols et leurs dérivés estérifiés respectifs, et notamment les composés choisis parmi: 5,7,22-cholestatrienol, 7-de-hydrocholesterol, 22-dehydrocholesterol, 24-dehydrocholesterol, zymosterol, Delta**(7)-cholesterol, 7-coprostenol, cholestanol, coprostanol, epicoprostanol, cerebrosterol, 22-alpha-oxycholesterol, 22-dihydroerogosterol, 7,24(28)-erogostadienol, campesterol, neospongosterol, 7-ergostenol, cerebisterol, corbisterol, stigmasterol, focosterol, alpha-spinasterol, sargasterol, 7-dehydrocryonasterol, poriferasterol, chondrillasterol, beta-sitosterol, cryonasterol (gamma-sitosterol), 7-stigmasternol, 22-stigmastenol, dihydro-gamma-sitosterol, beta-sitostanol, 14-dehydroergosterol, 24(28)-dehydroergosterol, ergosterol, brassicasterol, 24-methylenecholesterol, ascosterol, episterol, fecosterol et 5-dihydroergosterol, et leurs mélanges et est avantageusement le beta-sitostérol, le beta-sitostanol, le beta-sitostanol ester, le campesterol ou le brassicasterol,
+- d'un épaississant choisi parmi: la gomme xanthane, les carraghénanes, les pectines, l'amidon, notamment gélatinisé, la gomme gélane, ou la cellulose et ses dérivés à une concentration telle que la viscosité de la suspension est de 0,05 Pas à 0,15 Pas, notamment de 0,05 Pas à 0,1 Pas, et
+- des lipides en quantité inférieure à 5%,
+dans un milieu aqueux."
+"4. Procédé de préparation d'une suspension homogène stable selon l'une quelconque des revendications 1 à 3, dans lequel:
+- on prépare une solution présentant une viscosité de 0,05 Pas à 0,15 Pas, en mélangeant une solution aqueuse avec un épaississant,
+- on additionne à la solution visqueuse obtenue à l'étape précédente une substance hydrophobe et/ou dont le point de fusion est supérieur à 130 ºC, à une concentration telle que la concentration dans la solution visqueuse soit de 0,1 % à 30% p/v
+pour obtenir une suspension homogène stable dépourvue d'émulsifiant."
+"5. Composition alimentaire dans laquelle la teneur en eau est d'au moins 60%, caractérisée en ce qu'elle comprend une suspension homogène stable, selon l'une quelconque des revendications 1 à 3 contenant de 0,01 à 10% d'épaississant, à raison de 0,5% à 30% notamment à raison de 1% à 25%, et de 0,1% (p/v) à 30% (p/v) de substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC et une composition fluide contenant au moins 60% d'eau et ne contenant pas plus de 18% de matières grasses, à raison de 75% à 99,5%, et dans laquelle les particules constituant la substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC, sont broyées à une taille de 50 my a 100 my par homogénéisation sous pression de 50 à 500 bars, la composition contenant en outre des hydrates de carbone à raison de 4 à 20% et des protéines en quantité inférieure à 10%, notamment à 4%."
+Le jeu incluait aussi deux revendications dépendantes de la revendication 1 (revendications 2 et 3), cinq revendications dépendantes de la revendication 5 (revendications 6 à 10), quatre revendications dirigées sur un procédé de préparation de la composition alimentaire selon la revendication 5 (revendications 11 à 14) et une revendication dirigée sur une composition alimentaire susceptible d'être obtenue par le procédé de la revendication 11 (revendication 15).
+Dans sa décision la division d'opposition a conclu que l'invention telle que revendiquée était exposée de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter, car une méthode de préparation des suspensions était décrite dans la revendication 4, dans laquelle l'homme du métier trouvait toutes les indications pour la préparation d'une suspension ayant la viscosité souhaitée. De plus, l'absence de définitions précises de la notion de viscosité et de stabilité n'empêchait pas l'homme du métier d'exécuter l'invention du brevet car ses connaissances générales seraient suffisantes pour pallier cette absence.
+La division d'opposition a considéré que les suspensions selon la revendication 1 n'étaient pas antériorisées par les documents D6 et D24 car les essais fournis par la titulaire du brevet montraient que les suspensions divulguées par D6 et D24 n'avaient pas la viscosité ou la stabilité requise par la revendication 1.
+Quant à l'activité inventive, la division d'opposition a considéré que le problème technique à résoudre par le brevet par rapport à l'état de la technique le plus proche, D6, résidait dans la mise à disposition de compositions stables, pompables et versables. La solution à ce problème selon la revendication 1 ne découlait pas d'une manière évidente de l'art antérieur cité, car les opposants n'avaient pas montré de façon convaincante l'existence d'un lien entre l'enseignement de D6, d'un part, et l'enseignement de D32 et/ou D21, d'autre part.
+V. Le 29 décembre 2009, l'opposante 02 (requérante 02) a formé un recours à l'encontre de cette décision de la division d'opposition. La taxe de recours a été acquittée le même jour.
+Le mémoire exposant les motifs du recours a été déposé le 1 mars 2010. La requérante 02 a demandé l'annulation de la décision de la division d'opposition et la révocation du brevet. Avec ce mémoire la requérante 02 a déposé sept documents additionnels.
+VI. Le 7 janvier 2010, les opposantes 01 et 03 (requérantes 01 et 03) ont aussi formé un recours à l'encontre de la décision de la division d'opposition. Les taxes de recours respectives ont été aussi acquittées le 7 janvier 2010.
+Les mémoires exposant les motifs du recours ont été déposés le 8 mars 2010. Les requérantes 01 et 03 ont aussi demandé l'annulation de la décision de la division d'opposition et la révocation du brevet. Avec leurs mémoires les requérantes 01 et 03 ont soumis dix documents additionnels et un rapport d'essais.
+VII. Dans ses écritures en réponse aux mémoires de recours datées du 20 septembre 2010, la titulaire du brevet (intimée) a exposé ses commentaires sur les mémoires de recours et a contesté l'argumentation des requérantes. L'intimée a fourni aussi les résultats d'essais additionnels (D63, voir point III ci-dessus).
+VIII. Dans une communication en date du 31 janvier 2012 annexée à la citation à la procédure orale fixée au 24 et 25 mai 2012, la chambre a indiqué les points à discuter pendant la procédure orale.
+IX. De nouvelles écritures ont été fournies par toutes les parties à peu près un mois avant la procédure orale. La requérante 02 a produit aussi les résultats de tests basés sur l'enseignement du document D6 (D64, voir point III ci-dessus).
+X. Un nouvel échange d'écritures a eu lieu entre l'intimée et la mandataire commune des requérantes 01 et 03 dans lesquelles toutes les parties ont présenté de nouveaux résultats expérimentaux et l'intimée a produit sept jeux subsidiaires de revendications (requêtes subsidiaires I à III produites avec la lettre du 9 mai 2012 et requêtes subsidiaires IV à VII produites avec la lettre du 21 mai 2012).
+XI. Pendant la procédure orale devant la chambre, l'intimée a défendu d'abord son brevet sur la base des revendications de la requête principale, c'est-à-dire, les revendications 1 à 15 acceptées par la division d'opposition (voir point IV). Lors du premier jour de la procédure orale les objections soulevées à l'encontre des revendications indépendantes 1 et 5 ont été discutées. À la fin de la journée, la chambre a informé les parties que l'objet de la revendication 1 satisfaisait aux exigences de la CBE et que les modifications introduites dans la revendication 5 pendant la procédure d'opposition manquaient de clarté.
+Etant donné que l'objection contre la revendication 5 de la requête principale se présentait aussi dans les requêtes subsidiaires I à VII, l'intimée a produit au début du deuxième jour de la procédure orale quatre nouveaux jeux de requêtes subsidiaires (requêtes subsidiaires VIII à XI) en supprimant cette revendication et en adaptant les autres revendications, en particulier la revendication concernant le procédé de préparation de la composition alimentaire selon la revendication 5 de la requête principale. Les requérantes ont contesté la recevabilité des requêtes subsidiaires VIII à XI.
+La chambre exerçant le pouvoir d'appréciation dont elle dispose a décidé pendant la procédure orale de ne pas admettre les requêtes subsidiaires VIII et IX car les modifications introduites présentaient des éléments de complexité de nature à retarder la décision qui, sans ces nouvelles requêtes, pouvait être prise à l'issue de la procédure orale (voir article 13(3) du règlement de procédure des chambres de recours).
+En outre, la chambre a décidé d'admettre les requêtes subsidiaires X et XI dans la procédure car ces requêtes incluent seulement des revendications déjà dans la procédure, notamment des revendications acceptées par la division d'opposition et discutées par les parties au cours de la phase écrite de la procédure.
+Le libellé des revendications 1 et 4 de la requête subsidiaire X est identique au libellé des revendications 1 et 4 de la requête principale devant la division d'opposition (voir point IV supra), avec pour seule modification la suppression du mot "et" dans la première ligne de la revendication 1.
+Après une pause d'une demi-heure requise par la mandataire commune des requérantes 01 et 03, les requérantes ont formulé leurs objections contre l'objet de la revendication indépendante 4, laquelle n'avait pas été discutée le premier jour de la procédure orale.
+Après délibération, la chambre a indiqué que la requête subsidiaire X était admissible et toutes les parties ont demandé que la description soit adaptée aux revendications devant la chambre de recours.
+À la fin de la procédure orale, la titulaire a maintenu comme seule requête la requête subsidiaire X produite pendant la procédure orale.
+XII. Les arguments pertinents pour la présente décision développés par les requérantes, au cours de la phase écrite de la procédure et lors de la procédure orale peuvent être résumés comme suit :
+- La chambre devrait rejeter la requête subsidiaire X comme irrecevable. La présentation de cette requête par l'intimée au dernier moment, pendant la procédure orale, n'était pas justifiée car l'intimée était déjà au courant des objections soulevées par les requérantes contre la requête principale. Elle aurait dû produire cette requête avant la procédure orale.
+- La nouvelle revendication 1 manquait de clarté. Bien que la revendication 1 résultait d'une combinaison des revendications du brevet tel que délivrée, dans le cas présent l'objet de la revendication était si obscur qu'on ne pouvait pas définir l'objet de la revendication. Elles ont cité les décisions T 1459/05 et T 656/07 à l'appui de leurs arguments pour réexaminer la clarté de la revendication 1.
+- Le brevet n'exposait pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter. En particulier, il n'était pas indiqué la méthode pour déterminer la viscosité des suspensions laquelle, en plus, variait avec la température. De plus, le brevet ne divulguait aucun mode de réalisation, l'homme du métier ne savait pas comment transformer un échec en succès et ne pouvait pas savoir s'il travaillait dans les zones interdites de la revendication.
+- L'invention telle que définie dans la revendication 1 n'était pas nouvelle au vu du document D6.
+- L'objet revendiqué dans les revendications 1 et 4 manquait d'activité inventive en partant des connaissances générales de l'homme du métier (D53, D39), ou des documents D6 et/ou D32. En fait, l'homme du métier n'aurait aucun problème à fournir des suspensions homogènes et stables de stérols ou stanols, l'utilisation d'épaississants pour préparer les telles suspensions étant bien connu dans le domaine.
+XIII. Les arguments de l'intimée peuvent en substance être résumés ainsi :
+- Les nombreux essais fournis pendant la procédure, en particulier D45, montraient que l'invention pouvait être reproduite sans effort particulier.
+- Il était bien connu de l'homme du métier dans le domaine alimentaire que la viscosité devrait être mesurée à la température ambiante. De plus, la température ambiante de 20ºC ou 25ºC n'avait que très peu d'influence sur la viscosité comme il avait été montré dans D66. Il avait été montré aussi dans D63 que pour différents cisaillements la viscosité des solutions n'était que peu affectée. De plus, pour un épaississant donné, l'homme du métier n'avait qu'une seule action à effectuer : c'était de verser l'épaississant dans l'eau tout en mesurant la viscosité et d'arrêter lorsque celle-ci était comprise entre 0,05 Pas et 0,15 Pas, ce qui ne représentait pas un effort très important à accomplir.
+- Le document D6 ne détruisait pas la nouveauté car les essais effectués par l'intimée et par la requérante 02 montraient que les préparations de D6 présentaient une viscosité différente de la gamme de viscosité revendiquée. De plus, les suspensions aqueuses du brevet étaient constituées uniquement d'eau tandis que celles de D6 contenaient du sucre.
+- Concernant l'activité inventive, l'intimée a signalé que le problème technique à résoudre était l'incorporation de phytostérols et phytostanols à des compositions alimentaires ayant une grande quantité d'eau. L'art antérieur utilisait bien des lipides, des émulsifiants et ne donnait aucune indication sur les suspensions revendiquées.
+XIV. Les requérantes ont demandé l'annulation de la décision contestée, la révocation du brevet européen nº 1 059 851 et la répartition des frais.
+L'intimée a demandé le maintien du brevet sur la base des revendications 1 à 4 de la requête subsidiaire X et la description adaptée, toutes soumises pendant la procédure orale.
+Motifs de la décision
+1. Le recours est recevable.
+REQUÊTE SUBSIDIAIRE X (unique requête)
+2. Recevabilité
+2.1 Comme indiqué ci-dessus au paragraphe XI la requête subsidiaire X a été déposée le 25 mai 2012 pendant le deuxième jour de la procédure orale. L'introduction de cette requête dans la procédure a été contestée par les requérantes qui la considèrent comme tardivement présentée.
+2.2 Bien que déposée lors de la procédure orale, la chambre considère cette requête recevable pour les raisons qui suivent :
+2.2.1 La seule modification substantielle introduite dans les revendications, par rapport au jeu de revendications selon la requête maintenue par la division d'opposition (requête principale abandonnée pendant la procédure orale devant la chambre) est la suppression des revendications 5 à 15. Cette modification qui vise à répondre aux objections de clarté soulevées par les requérantes a pour effet de restreindre l'objet revendiqué. Il s'ensuit qu'une telle requête ne saurait à ce stade surprendre les requérantes qui pouvaient la prévoir comme réponse à leurs objections et ne nécessite de leur part aucune préparation particulière pour en discuter le bien fondé car les revendications 1 à 4 avaient déjà était attaquées par les requérantes au cours de la phase écrite de la procédure.
+2.2.2 De plus, dans la revendication 1 l'expression "suspension homogène et stable" a été remplacée par l'expression "suspension homogène stable" pour surmonter une objection selon la règle 80 CBE soulevée par les requérantes. Cette modification, qui reprend l'expression du brevet délivré, ne modifie pas non plus l'objet de la revendication 1.
+2.3 Pour ces raisons la chambre a donc décidé que la requête subsidiaire X est recevable.
+3. Modifications (articles 84 et 123 CBE)
+3.1 La revendication 1 est essentiellement une combinaison des revendications 1, 2, 3, 4, et 7 telles que délivrées. En outre, le cholestérol a été éliminé de la liste de phytostérols et phytostanols utilisés.
+3.2 Selon les requérantes l'objet de la revendication 1 ne satisfaisait pas aux exigences de l'article 123(2) CBE car la revendication 4 telle que déposée était indépendante et ne pouvait pas être combinée avec la revendication 1. De plus, l'objet de la revendication 1 n'était pas clair et partant contraire à l'article 84 CBE, en particulier parce que le brevet ne donne pas d'information sur la façon de mesurer la viscosité.
+3.3 Pour ce qui concerne l'article 123(2) CBE, il est noté que la modification précisant la nature de l'épaississant est supportée par la demande telle que déposée (paragraphe à la page 5, lignes 13 à 15). Cette modification définit l'épaississant à utiliser dans les suspensions de l'invention au vu de la description telle que déposée et n'est donc pas contraire aux exigences de l'article 123(2) CBE. De plus, la chambre note que l'article 100c) CBE n'a pas été soulevé comme motif d'opposition par les requérantes.
+3.4 Pour ce qui concerne la clarté de la revendication 1, selon la jurisprudence constante des chambres de recours (voir par exemple T 381/02 en date du 26 août 2004, non publiée dans le JO OEB, point 2 des motifs), la chambre ne peut examiner une objection sur le fondement de l'article 84 CBE que dans la mesure où l'objection porte sur des modifications introduites dans le brevet tel que délivré. Dans ce contexte une revendication n'est pas considérée comme "modifiée" lorsqu'elle résulte d'une revendication délivrée complétée par des caractéristiques émanant d'autres revendications délivrées sans outrepasser la portée de la version délivrée résultant de l'interdépendance des revendications délivrées. Dans ce sens la revendication 1 de la présente requête ne peut pas être considérée comme modifiée car elle représente une combinaison des revendications 1 à 4 et 7 du brevet délivré et son objet correspond précisément à l'objet de la revendication 7 tel que délivré. Par conséquent, il n'est pas possible pour la chambre d'examiner la clarté des revendications.
+3.5 Les requérantes ont signalé que les décisions T 1459/05 (en date du 21 février 2008, non publiée au JO OEB) et T 656/07 (en date du 6 mai 2009, aussi non publiée au JO OEB) ne suivaient pas la jurisprudence développée jusqu'alors et ont donc requis que la clarté soit aussi examinée dans la présente affaire.
+3.6 La chambre note que dans l'affaire T 656/07 le manque de clarté résultait au moins en partie des modifications apportées après la délivrance du brevet. La chambre avait estimé qu'une objection de manque de clarté pouvait être soulevée au cours de la procédure d'opposition puisque celui-ci découlait des modifications effectuées au cours de cette procédure, et ce bien que la caractéristique contestée en tant que telle avait déjà été présentée dans les revendications du brevet délivré, mais dans une autre combinaison (voir point 2.2 de la décision). Cette décision suit donc la jurisprudence établie.
+3.7 Dans l'affaire T 1459/05 la chambre avait jugé nécessaire de pouvoir exercer son pouvoir d'appréciation et de s'écarter, à titre exceptionnel, de la pratique générale qui interdit de procéder à un examen au titre de l'article 84 CBE lorsque des modifications sont apportées sous forme de combinaisons de revendications délivrées. En particulier la clarté d'une revendication pourrait exceptionnellement être examinée au vu d'une caractéristique particulière contenue dans une des revendications combinées si l'examen du texte modifié du brevet -par exemple quant à la nouveauté et l'activité inventive au titre de l'article 100a) CBE- serait rendu plus difficile voire même impraticable (voir point 4.3.5 de la décision).
+Toutefois la présente chambre relève que ce n'est pas la "pratique générale" qui interdit de procéder à un examen au titre de l'article 84 CBE mais que l'article 84 CBE ne constitue pas un motif d'opposition au sens de l'article 100 CBE. De plus, une situation où il ne serait pas possible d'examiner la nouveauté ou l'activité inventive n'apparait pas dans la présente affaire (voir ci-dessous), il n'est donc pas nécessaire d'analyser cette décision plus loin.
+3.8 Par conséquent, il n'entre pas dans la compétence de la chambre de vérifier si les conditions de clarté énoncées à l'article 84 CBE sont remplies ici.
+3.9 Enfin, les modifications limitent incontestablement la protection conférée par le brevet tel que délivré et satisfont aussi aux exigences de l'article 123(3) CBE.
+4. Interprétation de la revendication 1
+4.1 Comme signalé supra (voir point 3.8), dans la présente affaire il n'entre pas dans la compétence de la chambre de vérifier si les conditions de clarté énoncées à l'article 84 CBE sont remplies. Il semble donc approprié d'indiquer tout d'abord comment l'objet de la revendication 1 doit être interprété.
+4.2 La revendication 1 a pour objet une suspension aqueuse présentant les caractéristiques suivantes :
+- a) suspension homogène et stable,
+- b) dépourvue d'émulsifiant,
+- c) d'au moins une substance hydrophobe et/ou dont le point de fusion est supérieur à 130ºC choisie parmi
+- c1) les phytostérols, les phytostanols et leurs dérivés estérifiés respectifs,
+- c2) et notamment les composés choisis parmi : 5,7,22-cholestatrienol, ..., et 5-hydroergosterol, et leurs mélanges,
+- d) un épaississant choisi parmi
+- d1) la gomme xanthane, les carraghénanes, les pectines, l'amidon, notamment gélatinisé, la gomme gélane, ou la cellulose et ses dérivés,
+- d2) à une concentration telle que la viscosité de la suspension est de 0.05 Pas à 0.15 Pas, et
+- e) des lipides en quantité inférieure à 5%,
+- f) dans un milieu aqueux.
+4.3 Selon un principe d'application générale quand on lit une revendication telle que délivrée, il faut la lire avec un esprit constructif. En cas de doute dans l'appréciation de certains termes ambigus ou peu clairs, on peut se servir comme aide de la description. Toutefois, la description ne sert pas à délimiter des revendications très larges, techniquement correctes.
+4.4 En l'espèce, la chambre interprète la revendication 1 de la façon suivante :
+4.4.1 Le libellé de la revendication 1 telle que rédigée n'exclut pas la présence d'autres constituants dans la suspension et le milieu aqueux peut par conséquent contenir du sucre. Toutefois la revendication exclut la présence d'autres substances hydrophobes et/ou autres épaississants différents de ceux définis dans les caractéristiques c1) et d1).
+4.4.2 Le terme "stable" utilisé dans la caractéristique a) a un caractère fonctionnel. Contrairement aux définitions structurelles avec des limites concrètes et absolues, il est normal que les définitions fonctionnelles aient en général des limites relatives. Comme l'utilisation de définitions fonctionnelles est habituelle dans le domaine alimentaire, il faut leur attribuer le sens général donné par l'homme du métier. La suspension selon la revendication 1 ne doit en aucun cas être stable indéfiniment mais stable jusqu'à son utilisation pour la fabrication d'une composition alimentaire.
+4.4.3 L'expression "dépourvue d'émulsifiant", caractéristique b), est suffisamment claire pour l'homme du métier. De plus, il est implicite qu'elle ne peut pas concerner les substances spécifiquement citées comme composants de la suspension revendiquée, ce qui a été correctement signalé par la division d'opposition (voir dernier paragraphe de la page 7 de la décision).
+4.4.4 Pour ce qui concerne la caractéristique c), l'objet de la revendication 1 est limité aux substances énumérées dans la caractéristique c1). De plus, il doit être solide pour donner lieu à une suspension.
+4.4.5 Il n'y a pas d'indication des pourcentages pour tous les composants présents dans la suspension revendiquée. La quantité de l'épaississant est donnée d'une manière indirecte, par référence à la viscosité de la suspension (caractéristique d2)).
+4.4.6 La quantité de lipides est inférieure à 5% ce qui indique que sa présence n'est pas obligatoire (caractéristique e)).
+5. Suffisance de l'exposé de l'invention (article 83 CBE)
+5.1 La revendication 1 porte sur une suspension d'un phytostérol ou phytostanol et d'un épaississant à une concentration telle que la viscosité de la suspension est de 0,05 Pas à 0,15 Pas, dans un milieu aqueux. La chambre a déjà indiqué que la clarté des revendications ne peut pas être examinée dans la présente affaire (point 3.8) et a aussi indiqué la manière d'interpréter les expressions qui pourraient être considérées comme ambigües (point 4.4).
+5.2 Les requérantes ont soulevé plusieurs objections concernant la suffisance de l'exposé de la revendication 1. En particulier, les requérantes ont soulevé des objections concernant les questions de savoir :
+a) si le brevet indique au moins un mode de réalisation;
+b) si l'homme du métier peut exécuter l'invention dans toute sa portée sans effort excessif et s'il sait comment transformer un échec en succès; et
+c) si l'homme du métier sait lorsqu'il travaille dans des zones interdites de la revendication.
+5.3 La chambre se penche sur les aspects suivants pour répondre à ces questions :
+- instructions données dans le brevet (point 5.3.2 ci-dessous);
+- résultats des essais (point 5.3.3); et
+- mesure de la viscosité (point 5.3.4).
+5.3.1 Il est tout d'abord rappelé que pour qu'un brevet expose une invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter, il suffit que l'homme du métier, faisant appel à ses connaissances générales, puisse comprendre l'enseignement technique de l'invention revendiquée et le mettre en oeuvre.
+5.3.2 La description du brevet indique dans le paragraphe [0035] un procédé général de préparation des suspensions revendiquées. De plus le paragraphe [0036] donne plus de détails sur la façon d'obtenir la suspension. Il indique la température à laquelle on prépare la solution aqueuse avec un épaississant, comment mesurer la viscosité et les conditions pour ajouter la poudre de phytostérol en lui ajoutant progressivement et sous agitation, en prenant soin de ne pas incorporer d'air.
+Ainsi le paragraphe [0036] du brevet indique de manière précise un mode de réalisation de l'invention. La réponse à la question a) est donc affirmative.
+5.3.3 Concernant la question b), c'est-à-dire concernant le point de savoir si on peut exécuter l'invention dans toute sa portée, il est signalé tout d'abord qu'il n'y a pas d'éléments de preuve dans le dossier du fait qu'il n'est pas possible de préparer une suspension telle que revendiquée.
+Les requérantes 01 et 03 ont fourni pendant la procédure écrite des essais en montrant qu'il n'était pas possible de préparer les suspensions revendiquées (cf. D19 en utilisant phytostérol ester et D65 en utilisant phytostanol ester). Toutefois, pendant la procédure orale les requérantes elles-mêmes ont signalé que ces reproductions d'exemples avaient été faites avec des stérols fondus et ne tombaient donc pas dans le domaine revendiqué.
+Par ailleurs, l'intimée a aussi produit des résultats d'essais faits par elle-même (voir D63 et D66) et par une société extérieure (voir D45 et D47) qui montrent que l'invention peut être reproduite sans effort particulier et que sa viscosité peut être mesurée.
+Concernant l'objection tirée de ce que l'homme du métier ne sait pas comment transformer un échec en succès, la chambre note que le brevet contient aussi des informations spécifiques concernant les quantités des composants de la suspension (paragraphe [0031]) et la taille des particules à utiliser (paragraphe [0022]). Ainsi, le brevet donne l'information nécessaire pour préparer les suspensions dans le domaine revendiqué. L'homme du métier, pour un épaississant donné, n'a qu'une seule action à effectuer pour transformer un échec en succès, il doit ajouter de l'épaississant ou de l'eau jusqu'à ce qu'il arrive à une suspension ayant la viscosité requise.
+La chambre conclut donc que l'homme du métier peut exécuter l'invention dans toute sa portée sans effort excessif et qu'il sait comment transformer un échec en succès.
+5.3.4 Les autres objections des requérantes énoncées concernant le point de savoir si l'homme du métier sait s'il travaille dans les zones interdites de la revendication sont de fait liées à des ambiguïtés supposées présentes dans le libellé de la revendication 1, et en particulier l'ambiguïté concernant la mesure de la viscosité.
+Toutefois, il a été établi dans la décision T 608/07 (en date du 27 avril 2009, non publiée au JO OEB) qu'une telle ambiguïté normalement n'entraînait pas un manque de suffisance de la description au sens de l'Article 83 CBE mais est liée à l'Article 84 CBE, qui n'est pas un motif d'opposition comme déjà signalé ci-dessus. Pour qu'une ambiguïté relève de l'Article 83 CBE il est nécessaire d'établir qu'elle prive l'homme du métier des promesses de l'invention, parce que l'ambigüité est telle qu'elle rend impossible à un homme du métier d'exécuter l'invention.
+Dans le cas d'espèce, la chambre constate que la description donne au paragraphe [0027] une méthode pour mesurer la viscosité ("la viscosité peut être mesurée par des méthodes connues de l'homme du métier et notamment par un rhéomat 108 (Marque Gontraves) à un cisaillement de 1290 s**(-1)"). Si bien qu'il est certain que pour une mesure correcte de la viscosité la température de mesure doit être donnée; la chambre accepte l'argument de l'intimée qu'il est connu de l'homme du métier dans le domaine alimentaire que lorsqu'une température n'est pas précisée, il s'agit de la température ambiante (20-25ºC). De plus, l'intimée a montré que la température de 20ºC ou 25ºC n'a que très peu d'influence sur la viscosité des suspensions selon l'invention (voir D66 où la viscosité des suspensions telles que décrites dans le brevet est mesurée).
+Si bien qu'il reste une certaine ambiguïté aux frontières de la revendication, car l'homme du métier peut mesurer la viscosité à 20 ou à 25ºC cette ambiguïté ne l'empêche pas de réaliser comme prévu l'invention. Autrement dit, cette ambiguïté n'équivaut pas à une impossibilité de réaliser ou de reproduire une mesure au sens de l'article 100b) CBE.
+5.4 La chambre conclut donc que l'invention a été exposée de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter. Aucun effort au-delà des compétences ordinaires de l'homme du métier pour la mettre en oeuvre n'est nécessaire. Le brevet en litige n'est pas contestable au titre de l'article 100b) CBE.
+6. Nouveauté (article 54 CBE)
+6.1 Les requérantes ont contesté la nouveauté de l'objet de la revendication 1 sur la base du document D6.
+6.2 Le document D6 décrit des préparations de sitostérol destinées à être administrées par voie orale, contenant du sitostérol, de la gélatine ou de la méthyle-cellulose et du sucre comme substance de remplissage (voir revendication 1). En faisant varier la quantité d'eau utilisée on peut obtenir une suspension liquide légère ou une pâte (voir page 2, lignes 19-24). Dans les exemples 1 et 2 on agite un mélange de sitostérol et de sucre avec une solution contenant de la gélatine ou de la méthyle-cellulose, du sucre, de l'acide sorbique, une solution alcoolique et de l'eau pour obtenir une masse homogène.
+6.3 Toutefois, il est noté que le document D6 ne mentionne pas du tout la viscosité des préparations décrites (caractéristique d2) de la revendication 1).
+6.4 Les requérantes ont signalé que D6 détruirait quand même la nouveauté, car les suspensions décrites auraient implicitement une viscosité dans la gamme revendiquée. Elles justifiaient cette objection par l'observation à la page 2, lignes 22-23 de D6 où il est indiqué qu'on pourrait obtenir une suspension liquide légère ou une pâte.
+6.5 La chambre signale que cette description générale ne peut pas antériosirer les valeurs spécifiques de viscosité maintenant revendiquées. De plus, il y a dans le dossier deux répétitions de l'enseignement de D6 qui montrent que les préparations de D6 ont une viscosité élevée :
+6.5.1 L'intimée a préparé une suspension selon l'enseignement de l'exemple 2 de D6 et a obtenu une pâte homogène qui ne s'écoule pas (voir suspension S3 dans D47).
+6.5.2 De plus, l'intimée a signalé que la requérante 02, dans le cadre de l'affaire T 1277/05 (en date du 20 octobre 2009, non publiée au JO OEB), avait aussi reproduit les exemples 1 et 2 du document D6 et est arrivée à la conclusion que le produit de l'exemple 2 de D6 présentait une viscosité élevée, ce qui confirme que la composition décrite dans D6 ne possède pas la viscosité requise de la suspension selon la revendication 1 du brevet.
+6.6 Pour ces raisons, les objections concernant l'absence de nouveauté sont dénuées de fondement.
+7. Activité inventive (article 56 CBE)
+7.1 Le brevet litigieux concerne l'incorporation de phytostérols et phytostanols et leurs dérivés estérifiés dans des compositions alimentaires. Ces stérols ont une activité hypocholestérolémiante et sont utilisés à des fins diététiques, en vue de diminuer le taux de cholestérol sanguin.
+7.2 L'état de la technique le plus proche
+7.2.1 Comme signalé dans l'introduction du fascicule de brevet, les deux approches envisagées dans l'état de la technique pour l'incorporation de phytostérols et leurs dérivés dans des compositions alimentaires ou pharmaceutiques font appel respectivement à la solubilisation de phytostérols dans les phases lipidiques d'un milieu à teneur élevée en matière grasse et/ou à l'utilisation d'agents émulsifiants (voir paragraphe [0005]).
+7.2.2 L'état de la technique inclut plusieurs documents qui divulguent l'incorporation de ces composés dans des compositions ayant une teneur élevée en matière grasse (voir paragraphes [0006]-[0008]) et des compositions les contentant sous forme stabilisé par la présence d'émulsifiants (voir paragraphes [0010]-[0011]). Les documents cités dans ces paragraphes de la description représentent donc l'état de la technique le plus proche.
+7.3 Problème et solution
+7.3.1 Selon l'intimée, l'incorporation de ces composés dans un produit laitier fini à forte teneur en eau et faible teneur en matière grasse, tout en préservant leurs propriétés, n'était pas possible avant la date de dépôt du brevet (voir paragraphe [0013]). Cette affirmation n'a pas été contestée par les requérantes et la chambre n'a pas raison d'en douter.
+7.3.2 En conséquence, le problème technique à résoudre par le brevet en litige est de proposer une méthode alternative pour l'introduction dans des compositions alimentaires à forte teneur en eau et faible teneur en matière grasse de substances hydrophobes, phytostérols ou phytostanols, tout en préservant leurs propriétés et sans avoir recours à certains adjuvants tels que des émulsifiants.
+7.3.3 La solution proposée par le brevet consiste dans les suspensions selon la revendication 1. Ces suspensions aqueuses de phytostérols ou phytostanols sont homogènes, stables et renferment un épaississant à une concentration telle que la viscosité de la suspension soit comprise entre 0.05 Pas et 0.15 Pas. Ces suspensions peuvent alors être introduites dans un mélange à base de lait.
+7.3.4 Au vu des essais dans le brevet ainsi que des essais fournis pendant la procédure déjà discutés ci-dessus au point 5.3.3, la chambre considère qu'il a été démontré de manière convaincante que le problème technique a bien été résolu.
+7.4 Evidence
+7.4.1 Il reste à déterminer si, pour l'homme du métier, cette solution est suggérée par les documents de l'état de la technique cités.
+7.4.2 Des nombreux documents cités par les requérantes dans la procédure en relation avec l'activité inventive, seulement le document D6 concerne l'incorporation de sitostérol dans un milieu aqueux.
+7.4.3 Comme déjà signalé ci-dessus dans la discussion de la nouveauté, D6 décrit des préparations aqueuses de sitostérol contenant de la gélatine ou de méthyle-cellulose et du sucre comme substance de remplissage (voir point 6.2). Toutefois, l'objet de D6 est bien différent de l'objet de la présente invention dont l'objet est de fournir une méthode avec l'aide de laquelle il est possible de produire des préparations administrables de sitostérol, avec le degré de finesse requis par l'organisme, d'une manière techniquement lucrative (page 1, lignes 48-53). Ce problème est résolu en utilisant du sitostérol finement broyé, du sucre et deux épaississants dans des proportions bien précises car au-delà de 4% pour la gélatine et 2% pour le méthyle cellulose on obtient un gel lequel n'est pas approprié pour résoudre le problème (page 2, lignes 34-41).
+De plus, D6 ne reconnait pas l'importance de travailler dans la gamme de viscosité revendiquée. En effet, comme indiqué dans les paragraphes [0028] et [0029] du fascicule de brevet, si la viscosité est inférieure à 0.05 Pas, la solution ne présente pas suffisamment de viscosité pour maintenir les particules en suspension et si elle est supérieure à 0.15 Pas la solution devient visqueuse et on ne peut pas garantir un écoulement.
+Par conséquent, une interprétation de l'enseignement de D6 tendant à trouver dans ce document une quelconque relation avec l'utilisation d'une suspension aqueuse telle que revendiquée pour être utilisée dans des produits alimentaires ne peut être faite qu'en connaissance de l'invention selon le brevet litigieux.
+7.4.4 Pour ce qui concerne les autres documents cités par les requérantes, il est à noter que :
+- D21 concerne du lait fortifié par le phosphate de calcium et un agent stabilisant (voir revendication 1);
+- D32 divulgue l'effet stabilisant de xanthane et d'une gomme de caroube sur des suspensions de particules (voir revendication 1); les particules mises en suspension sont des pigments, des abrasifs, des minéraux, des excipients, etc. (colonne 2, lignes 21-27);
+- D39 décrit la préparation d'une sauce au chocolat ou d'une sauce confiture; et
+- D53 (et X5) comparent dans la figure 3.11 les propriétés d'une suspension de sable dans des solutions d'hydro colloïdes, notamment des solutions de xanthane, gomme guar, d'hydroxyéthylcellulose, etc.
+Par contre aucun de ces documents ne mentionne les stérols ou stanols et leur incorporation dans des produits alimentaires. L'enseignement de ces documents seuls ou en combinaison avec D6 ne peut donc conduire l'homme du métier de façon évidente à l'objet de la revendication 1.
+7.5 Il s'ensuit que l'objet de la revendication 1 satisfait aux exigences de l'article 56 CBE. Les revendications dépendantes 2 et 3 et la revendication indépendante 4 laquelle concerne un procédé de préparation de la suspension selon la revendication 1 satisfont a fortiori aussi les exigences de l'article 56 CBE.
+7.6 Les arguments des requérantes
+7.6.1 L'argument principal développé par les requérantes part de ce que la revendication 1, étant une revendication de produit per se, n'a aucune limitation quant à son utilisation. En conséquence, pour elles, l'objet de l'invention serait donc simplement de préparer une suspension homogène stable de phytostérols ou phytostanols. À leur avis la solution de ce problème serait évidente pour l'homme du métier, car il connaît bien l'utilisation des épaississants pour faire des suspensions de composés semblables et il connaît aussi comment modifier la viscosité de la suspension pour la rendre pompable.
+Cette approche relève bien plutôt d'une analyse a posteriori du brevet en litige et non d'une utilisation correcte de l'approche problème-solution. En effet, comme indiqué par la chambre ci-dessus (voir 7.3.2) la présente invention vise à résoudre le problème de l'introduction dans un milieu aqueux d'une substance hydrophobe sans utiliser d'émulsifiants.
+Affirmer, par contre - comme le font les requérantes - que la présente invention a pour but de préparer une suspension homogène stable de phytostérols ou phytostanols n'est pas correct, car une telle formulation du problème à résoudre empiète sur la solution elle-même. En effet, l'idée d'introduire les phytostérols dans des compositions alimentaires en utilisant des suspensions homogènes contenant un épaississant est l'élément essentiel de l'enseignement de l'invention en cause, qui s'est concrétisé dans la solution du problème posé. Les suspensions de phytostérol ou phytostanol sont donc une partie de la solution, qui ne peut, selon la jurisprudence des chambres de recours, être incorporée dans le problème posé.
+7.6.2 Les requérantes ont également argué qu'il n'avait pas été démontré que l'effet technique d'une suspension stable, pouvait être atteint sur toute la portée de l'invention.
+La chambre note qu'il n'est pas nécessaire pour l'intimée de donner des exemples pour tous les épaississants et à toutes les concentrations, que les exemples dans la procédure montrent que le problème technique a bien été résolu et que les requérantes n'ont pas soumis de preuve expérimentale qu'un mode de réalisation revendiqué ne peut pas résoudre ledit problème.
+7.6.3 Enfin, les requérantes ont aussi contesté l'activité inventive de la revendication 4 au vu du document D6.
+La revendication 4 concerne un procédé de préparation d'une suspension homogène stable selon les revendications 1 à 3. La chambre note qu'il est bien établi (voir la Jurisprudence des Chambres de recours de l'OEB 6**(e) édition 2010, chapitre I.D.8.18) que les procédés par analogie sont brevetables dans la mesure où ils fournissent un produit nouveau et inventif. Ainsi, la chambre n'a pas besoin de déterminer si l'objet de la revendication 4 découle d'une manière évidente de l'enseignement de D6, car en tout cas il serait inventif eu égard au fait qu'il concerne la préparation d'une suspension nouvelle et inventive.
+8. Pour l'ensemble de ces raisons l'objet des revendications 1 à 4 satisfait les exigences de la CBE.
+9. Pendant la procédure orale, la description a été adaptée à la nouvelle rédaction des revendications. Après une discussion intensive des modifications, les requérantes n'ont plus eu d'objections à l'encontre de la description modifiée.
+10. Requêtes en répartition des frais (article 104 CBE)
+10.1 La chambre observe que, selon l'article 104 CBE, chacune des parties supporte les frais qu'elle a exposés, sauf décision prescrivant, dans la mesure où l'équité l'exige, une répartition différente des frais. Selon la jurisprudence constante, la répartition différente des frais n'est justifiée que si la procédure d'opposition ou de recours présente un caractère abusif (voir à titre d'exemple, la décision T 585/95 du 10 décembre 1996, non publiée dans le JO OEB, point 5.6 des motifs).
+10.2 En l'espèce, l'intimée a présenté la requête subsidiaire X pendant la procédure orale, à la suite de la décision négative prise par la chambre sur la requête principale. Toutefois, le seul fait de présenter tardivement certaines requêtes ne peut à elle seule être constitutive d'un abus de procédure de la part de l'intimée.
+Les requérantes ne démontrent pas avoir subi des frais supplémentaires du fait de l'introduction de ladite requête dans la procédure, les trois requérantes ayant fait elles-mêmes une requête pour la tenue d'une procédure orale.
+10.3 S'agissant de l'argument des requérantes selon lequel la chambre aurait pu révoquer le brevet sans procédure orale, car l'intimée n'avait pas requis une audience, la chambre note que selon l'article 116 de la CBE, il est recouru à la procédure orale, soit d'office lorsque l'Office européen des brevets le juge utile, soit sur requête d'une partie à la procédure. Dans un cas comme dans le présent recours, où les requérantes ont produit dans leurs mémoires exposant les motifs de recours dix-sept nouveaux documents et des nouveaux résultats expérimentaux, une procédure orale devant la chambre aurait dû de toute façon avoir lieu, même sans requête des parties, pour discuter de la pertinence de ces nouvelles preuves. De plus, il n'appartient pas aux requérantes de juger si une procédure orale est ou non utile.
+10.4 Il n'existe donc aucune raison pour ne pas appliquer le principe selon lequel chacune des parties supporte ses propres frais. Les requêtes en répartition des frais doivent donc être rejetées.
+DISPOSITIF
+Par ces motifs, il est statué comme suit :
+1. La décision attaquée est annulée.
+2. L'affaire est renvoyée à la division d'opposition avec l'ordre de maintenir le brevet sur la base des documents suivants :
+- revendications 1 à 4 soumises comme requête subsidiaire X pendant la procédure orale du 25 mai 2012;
+- description pages 2, 3, 3a, 4-7 soumises pendant la procédure orale du 25 mai 2012; et
+- Figure 1 du fascicule de brevet.
+3. Les requêtes en répartition des frais sont rejetées.
+Quick Navigation
+Page d'accueil [Alt] + 0
+Aller au contenu [Alt] + 1
+Plan du site [Alt] + 8
+Accessibilité [Alt] + 9
+Découvrez-nous
+Service et activités
+Gouvernance
+Qualité
+Emplois
+Achats
+Offices nationaux
+National Offices Centre
+Services et ressources
+FAQ
+Publications
+Commande
+Formulaires
+Jours fériés
+Forums
+Glossaire
+Flux RSS
+Contact
+Nous écrire
+La lettre d'information
+L'OEB dans les médias sociaux
+Facebook: Des nouvelles, des photos, des vidéos et des annonces de l'OEB
+Facebook: Vacances d'emplois actuelles, interviews
+Twitter: Des nouvelles et des annonces de l'OEB
+Twitter: Vacances d'emplois actuelles, interviews
+LinkedIn: Rencontrez l'OEB
+LinkedIn: Rencontrez notre équipe de recrutement
+YouTube: Vidéos sur nous et sur inventeurs, clips d'événements clés
+Instagram: Portraits d’inventeurs et leurs inventions, évènements et actualité de l’OEB
+Plan du site
+Adresse bibliographique
+Conditions d’utilisation
+Protection des données
+Accessibilité
+Sécurité
+Dernière MAJ: 21.09.2012
+Consultez nos ressources de formation sur la recherche de brevets
+Comment déposer une demande de brevet
+Un guide pour vous accompagner tout au long de la procédure de délivrance
+En savoir plus
+Payer des taxes et demander un remboursement
+En savoir plus
+Journal officiel – alertes par e-mail
+Les derniers numéros envoyés directement dans votre boîte de réception
+S'abonner
+Coronavirus (COVID-19
+Informations continuellement mises à jour destinées aux clients, aux partenaires extérieurs et aux les visiteurs potentiels de l'OEB.

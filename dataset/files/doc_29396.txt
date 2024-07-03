@@ -1,0 +1,747 @@
+Actualité, Tips, Articles sur l'ensemble des Technologies Microsoft (SCCM/SMS, EMS, Microsoft Intune, Microsoft Azure, Windows 10, SCOM, MDOP...)
+Options
+Home
+About
+Contact author
+Subscribe by email
+Posts RSS
+Atom
+More
+Cancel
+Related Tags
+Application Virtualization
+APP-V
+Azure
+Certification
+cloud
+configmgr
+Data Protection Manager
+déploiement
+DPM
+EMS
+Enterprise Mobility + Security
+Exchange
+MDT
+Messagerie
+Microsoft Azure
+Microsoft Intune
+Office
+Operations Manager
+OpsMgr
+orchestrator
+patch tuesday
+SCCM
+SCO
+SCOM
+SCSM
+SCVMM
+Sécurité
+SQL Server
+System Center
+System Center Configuration Manager
+System Center Orchestrator
+System Center Service Manager
+System Center Virtual Machine Manager
+Windows 10
+Windows 7
+Windows 8
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Blog - Monthly Archive List
+November 2021 (26)
+October 2021 (2)
+September 2021 (27)
+August 2021 (35)
+July 2021 (18)
+June 2021 (23)
+May 2021 (8)
+April 2021 (11)
+March 2021 (14)
+February 2021 (1)
+January 2021 (29)
+December 2020 (76)
+November 2020 (30)
+October 2020 (5)
+September 2020 (26)
+August 2020 (5)
+July 2020 (9)
+June 2020 (19)
+May 2020 (60)
+April 2020 (57)
+March 2020 (22)
+December 2019 (33)
+November 2019 (51)
+October 2019 (75)
+September 2019 (64)
+August 2019 (57)
+July 2019 (44)
+June 2019 (51)
+May 2019 (19)
+April 2019 (17)
+March 2019 (25)
+February 2019 (46)
+January 2019 (50)
+December 2018 (20)
+November 2018 (48)
+October 2018 (11)
+September 2018 (43)
+August 2018 (57)
+July 2018 (26)
+June 2018 (26)
+May 2018 (21)
+April 2018 (26)
+March 2018 (26)
+February 2018 (41)
+January 2018 (56)
+December 2017 (55)
+November 2017 (47)
+October 2017 (61)
+September 2017 (59)
+August 2017 (39)
+July 2017 (51)
+June 2017 (62)
+May 2017 (65)
+April 2017 (62)
+March 2017 (63)
+February 2017 (64)
+January 2017 (64)
+December 2016 (63)
+November 2016 (56)
+October 2016 (69)
+September 2016 (76)
+August 2016 (44)
+July 2016 (20)
+June 2016 (31)
+May 2016 (51)
+April 2016 (56)
+March 2016 (65)
+February 2016 (57)
+January 2016 (51)
+December 2015 (65)
+November 2015 (61)
+October 2015 (65)
+September 2015 (73)
+August 2015 (73)
+July 2015 (82)
+June 2015 (47)
+May 2015 (88)
+April 2015 (70)
+March 2015 (78)
+February 2015 (60)
+January 2015 (53)
+December 2014 (50)
+November 2014 (66)
+October 2014 (61)
+September 2014 (60)
+August 2014 (54)
+July 2014 (59)
+June 2014 (68)
+May 2014 (25)
+April 2014 (71)
+March 2014 (62)
+February 2014 (56)
+January 2014 (62)
+December 2013 (94)
+November 2013 (77)
+October 2013 (84)
+September 2013 (63)
+August 2013 (69)
+July 2013 (77)
+June 2013 (65)
+May 2013 (26)
+April 2013 (80)
+March 2013 (47)
+February 2013 (68)
+January 2013 (88)
+December 2012 (48)
+November 2012 (63)
+October 2012 (73)
+September 2012 (80)
+August 2012 (44)
+July 2012 (62)
+June 2012 (88)
+May 2012 (46)
+April 2012 (91)
+March 2012 (57)
+February 2012 (40)
+January 2012 (37)
+December 2011 (30)
+November 2011 (37)
+October 2011 (51)
+September 2011 (48)
+August 2011 (33)
+July 2011 (39)
+June 2011 (67)
+May 2011 (73)
+April 2011 (62)
+March 2011 (54)
+February 2011 (46)
+January 2011 (59)
+December 2010 (38)
+November 2010 (57)
+October 2010 (18)
+September 2010 (53)
+August 2010 (52)
+July 2010 (48)
+June 2010 (66)
+May 2010 (57)
+April 2010 (50)
+March 2010 (61)
+February 2010 (50)
+January 2010 (37)
+December 2009 (16)
+November 2009 (35)
+October 2009 (38)
+September 2009 (31)
+August 2009 (45)
+July 2009 (40)
+June 2009 (22)
+May 2009 (2)
+Home » Blogueurs » Jean-Sébastien DUCHENE Blog's » January, 2018
+Tags
+About
+Contact author
+Subscribe by email
+More
+Cancel
+By date By view count By comment count Descending Ascending
+[SCCM 1706+] Point sur la fonctionnalité de Pre-Caching de contenu
+Jean-Sébastien DUCHÊNE
+A plusieurs reprises, j’ai eu des échanges qui ont révélé une incompréhension de la fonctionnalité de Pre-Caching de contenu intégrée dans System Center Configuration Manager 1706. Cette fonctionnalité prometteuse permet de pré-télécharger le contenu nécessaire à une séquence de tâches avant que cette dernière soit exécutée (souvent à la demande). Le pré-téléchargement doit filtrer le contenu qui est véritablement nécessaire. Le scénario principal s’adresse aux entreprises qui veulent utiliser des séquences de tâches pour faire la mise à niveau de Windows 10.
+Avec les échanges que j’ai eus, je me suis rendu compte qu’il fallait quelques précisions sur le comportement attendu :
+Le Pre-Caching télécharge tout ce qui est référencé dans la séquence de tâches excepté pour les tâches Upgrade Operating System qui sont filtrées en fonction de la langue et de l’architecture sur le système d’exploitation.
+Les conditions spécifiées sur les différentes de la séquence de tâches, ne sont pas évaluées par la fonctionnalité de Pre-Caching. Le client utilise ce qui est spécifié sur le package de mise à niveau (OS Upgrade Package). Par conséquent si vous avez 40 packages de drivers, la fonctionnalité télécharge les 40 packages de drivers.
+Des messages d’état sont renvoyés pour spécifier quel contenu est téléchargé.
+17/1/2018
+[Intune] Datalert! : Aperçu de la solution de gestion des dépenses Telecom (TEM) (configurations préliminaires du tenant et déploiement de l’application)
+Jean-Sébastien DUCHÊNE
+Microsoft s’est associé avec Saaswedo, une entreprise française qui fournit une solution de gestion des dépenses télécom (TEM). C’est une problématique commune à toutes les entreprises : Comment gérer les flottes de forfait et éviter les surprises lors de la facturation ? La solution Datalert de Saaswedo répond à ce besoin en collectant la consommation de données en fonction des emplacements géographique du périphérique. Cette dernière s’intègre à Microsoft Intune pour éventuellement bloquer la consommation de données en fonction de stratégie. La solution vient en sus de Microsoft Intune sous la forme d’un abonnement par périphérique par mois. Elle a notamment été choisie par Gartner comme 2017 Gartner Cool Vendor in Mobile & Wireless Analytic.
+Saaswedo et sa solution Datalert! offre les services suivants :
+Supervision des connexions (WiFi, 3G/4G, etc.) et données mobiles
+Analyser les coûts d’itinérance par zone géographique
+Afficher l’état de la consommation de données à l’échelle de l’entreprise
+Envoi automatique d’alertes et de notifications personnalisées.
+Gestion des connexions et de l’itinérance
+Définition des limites de consommation quotidienne, hebdomadaire et mensuelle des données par utilisateur ou par groupe
+Blocage de l’itinérance/connexion en fonction des limites définies
+Note : Il est nécessaire de ne pas confondre Datalert! de Saaswedo et la solution DatAlert de Varonis. Cette dernière est une solution de sécurité sur les données entrantes dans l’entreprise.
+Aujourd’hui la solution est disponible pour les périphériques iOS et Android.
+Le but de cette série d’articles est de faire un tour d’horizon de l’intégration entre Microsoft Intune et Datalert avec les phases de mise en œuvre et d’exploitation :
+Datalert! : Aperçu de la solution de gestion des dépenses Telecom (TEM) (configurations préliminaires du tenant et déploiement de l’application)
+Datalert! : Configuration de la solution de gestion des dépenses Telecom (TEM)
+Datalert! : Enregistrement des périphériques iOS & Android et utilisation du service
+Avant de démarrer, vous devez disposer d’un abonnement Microsoft Intune. A date d’écriture de cet article (Décembre 2017), Datalert s’intègre uniquement à une configuration Microsoft Intune en mode autonome.
+Préparation du tenant
+Lors l’interconnexion du service Datalert! à Microsoft Intune, vous devez récupérer l’identifiant du tenant Azure Active Directory.
+Ce dernier peut être récupéré via le portail Azure en naviguant dans Azure Active Directory – Properties. Vous trouverez l’identifiant dans le champ Directory ID :
+Configuration de l’interconnexion Datalert/Microsoft Intune
+Vous recevrez un email avec le lien vers le portail du service Datalert!. Connectez-vous avec le compte utilisateur administrateur de la solution et naviguez dans Settings puis MDM configuration.
+Sélectionnez Microsoft Intune et renseignez l’identifiant du tenant Azure Active Directory puis cliquez sur Connection.
+Une fenêtre s’ouvre visant à lancer la procédure qui donne les droits au service Datalert! sur Microsoft Intune. Cliquez sur le logo pour ouvrir la fenêtre d’autorisation à Microsoft Azure.
+Connectez-vous avec un compte disposant des droits sur le tenant Microsoft Intune et acceptez la page visant à donner les autorisations nécessaires au service Datalert!.
+Une page vous annonce la configuration avec succès de l’interconnexion puis le retour sur le portail Datalert valide les étapes d’autorisation Azure AD, de validation de la connexion et d’enregistrement. L’état doit remonter comme actif.
+Avant de continuer, validez que le MDM Server est à On dans le portail Datalert!
+Déploiement de l’application Datalert sur les périphériques
+Il existe différentes manières d’aborder le déploiement de l’application Datalert sur les périphériques de votre entreprise :
+Soit vous gérez uniquement des périphériques d’entreprise et vous pouvez déployer globalement l’application sur tous les périphériques enregistrés ou tous les utilisateurs. Dans ce cas, vous devez bloquer l’enregistrement de périphériques personnels (BYOD) via les options adéquates dans le service Microsoft Intune.
+Soit vous créez une catégorie de périphériques que l’utilisateur pourra choisir lors de l’enregistrement et qui viendra peupler un groupe de périphériques qui se verra déployer l’application.
+Soit l’action de catégorisation est faite manuellement par l’administration ou par pré-enregistrement du périphérique.
+Procédez donc à la création d’un groupe qui sera utilisé pour cibler l’application en ouvrant le portail Azure puis en naviguant dans Azure Active Directory – Users and groups – All Groups et en sélectionnant New group. Dans les deux derniers cas, vous pouvez utiliser un groupe peuplé avec l’attribut Ownership pour filtrer les périphériques d’entreprises ou personnels.
+Une fois la stratégie définie pour votre contexte, vous pouvez déployer l’application via le portail Azure et le service Microsoft Intune. Naviguez dans Mobile Apps – Apps et cliquez sur Add.
+Choisissez le type d’application Android store app ou iOS store app.
+Cherchez ensuite l’application Datalert dans le store via l’assistant intégré du portail Azure :
+Validez les informations prérenseignée par l’assistant puis procédez à l’ajout en cliquant sur Add.
+Vous pouvez ensuite assigner l’application au groupe précédemment créé en naviguant dans Assignments en sélectionnant un groupe et en choisissant le type de déploiement Required
+Vous pouvez répéter l’opération pour Android. Deux solutions s’offrent à vous :
+Soit vous gérez vos périphériques Android via Android for Work et vous pouvez donc déployer l’application Datalert via le Google Play for Work. Dans ce cas, vous devez avoir bien entendu configurer l’interconnexion avec Android for Work.
+Soit vous gérez une partie de vos périphériques sans Android for Work et dans ce cas, vous pouvez utiliser la procédure précédente. Pour Android, il n’existe pas de moyen de chercher l’application, vous devez renseigner l’adresse vers l’application dans le Google Play Store ainsi que l’ensemble des informations demandées (Nom, description, éditeur, système d’exploitation minimum, etc.)
+Les versions iOS et Android doivent donc être déployées en fonction des plateformes que vous supportez :
+Déploiement de l’application Microsoft Authenticator sur les périphériques iOS
+Datalert! offre un service d’authentification spécifique avec Azure Active Directory pour les utilisateurs iOS, vous devez pour cela déployer l’application Microsoft Authenticator via le portail Azure et le service Microsoft Intune. Naviguez dans Mobile Apps – Apps et cliquez sur Add. Choisissez le type d’application Android store app ou iOS store app. Cherchez ensuite l’application Datalert dans le store via l’assistant intégré du portail Azure :
+Validez les informations pré-renseignée par l’assistant puis procédez à l’ajout en cliquant sur Add.
+Vous pouvez ensuite assigner l’application au groupe précédemment créé en naviguant dans Assignments en sélectionnant un groupe et en choisissant le type de déploiement Required
+Une fois l’application déployée, vous pouvez passer à la configuration du service Datalert !.
+16/1/2018
+[Intune] L’accès conditionnel et les stratégies MAM requièrent l’authentification moderne pour Skype for Business
+Jean-Sébastien DUCHÊNE
+L’équipe Microsoft Intune a publié un billet qui rappelle qu’il est nécessaire d’activer l’authentification moderne pour Skype for Business de manière à bénéficier l’accès conditionnel d’Azure Active Directory. Le support de l’authentification moderne a été apporté en mai 2017 par une mise à jour cumulative sur Skype for Business Server 2015.
+Outre l’accès conditionnel, ce sont les stratégies de protection d’application qui nécessite aussi l’authentification moderne. Ces stratégies présentes dans Intune App Protection, permettent d’empêcher la perte de données.
+Plus d’informations sur : https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Hybrid-Modern-Authentication-for-Skype-for-Business/ba-p/134751
+Source : https://blogs.technet.microsoft.com/intunesupport/2018/01/11/support-tip-intune-app-protection-requires-modern-authentication-enabled-for-skype-for-business/
+16/1/2018
+[Windows 10] Windows 10 1709 passe le statut de Semi-Annual Channel (Broad) ou Current Branch for Business
+Jean-Sébastien DUCHÊNE
+Microsoft a annoncé que Windows 10 1709 (Fall Creators Update) est maintenant pleinement disponible pour tout le monde incluant les entreprises. Ceci signifie que la version a passé le statut de Semi-Annual Channel (Broad) ou Current Branch for Business (CBB).
+Les médias seront publiés sur Windows Update, Windows Update for Business, WSUS et Microsoft Volume License Center à partir du 22 Janvier.
+Plus d’informations sur les versions de Windows 10 sur : http://aka.ms/win10releaseinfo
+Source : https://blogs.windows.com/windowsexperience/2018/01/11/windows-10-fall-creators-update-1709-fully-available/
+15/1/2018
+Point et bonnes pratiques sur Spectre et Meltdown !
+Jean-Sébastien DUCHÊNE
+Il y a une semaine, le monde passait 2018 avec l’information que la majorité des périphériques équipés d’un processeur Intel, AMD ou ARM, étaient vulnérables à de nouvelles failles de sécurité. Même IBM est concerné par cette problématique. Ceci est valable quel que soit le système d’exploitation (Windows, Linux, macOS, AIX, IBM i, iOS, Android, etc.). En effet, les deux failles en question : Spectre et Meltdown, touchent l’architecture même du processeur. Ceci demande à l’éditeur de modifier le kernel du système d’exploitation afin d’adapter les appels processeur pour que la faille ne puisse pas être exploitée.
+Encore une fois, Google a pris tout le monde de cours en révélant la faille quelques jours avant que la mise à jour de sécurité ne soit publiée. A noter qu’Intel vient de publier un autre bulletin de sécurité à propos de son contrôleur de gestion AMT.
+Je souhaitais faire un article pour résumer les nombreuses informations que l’on retrouve sur Internet. Je vais me concentrer sur les environnements Microsoft même si vous devez porter une attention particulière pour des machines Linux, macOS ou des périphériques iOS ou Android.
+Que faut-il appliquer pour que mon système ne soit pas vulnérable ?
+Il existe différents niveaux de mises à jour :
+Le système d’exploitation doit être mis à jour en fonction des indications de l’éditeur.
+January 3, 2018–KB4056897 (Security-only update)
+January 9, 2018–KB4056894 (Monthly Rollup)
+January 3, 2018–KB4056888 (OS Build 10586.1356)
+January 3, 2018–KB4056892 (OS Build 16299.192)
+January 3, 2018–KB4056891 (OS Build 15063.850)
+January 3, 2018–KB4056890 (OS Build 14393.2007)
+January 3, 2018–KB4056898 (Security-only update)
+January 3, 2018–KB4056893 (OS Build 10240.17735)
+January 9, 2018–KB4056895 (Monthly Rollup)
+Notez que Microsoft ne mettra pas à jour Windows XP, Windows Vista, Windows WES 2009, Windows POSReady 2009.
+Le firmware de la machine doit être mis à jour. Microsoft a par exemple publié des mises à jour pour les périphériques Surface encore supportés. Notez que pour certaines mises à jour de firmware, il est recommandé de désactiver BitLocker avant d’installer. Vous pouvez pour cela utiliser une séquence de tâches avec les actions suivantes :
+Disable BitLocker
+Install Application
+Restart Computer
+Pour voir la liste des firmwares publiés en prévision de publication, rendez-vous sur le site des éditeurs :
+Dell PCs and Thin Client
+Dell EMC Server, Dell Storage and Networking products
+Lenovo
+HP Client
+HP Server
+Acer
+Asus
+Fujitsu
+Panasonic
+Supermicro
+Toshiba
+VAIO
+Certaines applications doivent être mises à jour lorsqu’elles font des appels processeurs sur une machine physique. C’est par exemple le cas de toutes les versions de SQL Server (exceptées celles qui fonctionnent sur Itanium…) mais aussi d’autres moteurs de base de données (PostgreSQL, etc.). Ainsi des mises à jour sont disponibles excepté pour les versions non supportées (SQL server 2000 et 2005) :
+Security Update for SQL Server 2008 SP4 (KB4057114)
+Security Update for SQL Server 2008 R2 SP3 (KB4057113)
+Security Update for SQL Server 2016 RTM CU (KB4058559)
+Security Update for SQL Server 2016 RTM(KB4058560)
+Security Update for SQL Server 2016 SP1 (KB4057118)
+Security Update for SQL Server 2016 SP1 CU (KB4058561)
+Security Update for SQL Server 2017 RTM (KB4057122)
+Security Update for SQL Server 2017 CU (KB4058562)
+SQL Server 2016 SP1 CU7
+SQL Server 2017 CU3
+Il existe un risque accru si le serveur physique exécute Hyper-V, Remote Desktop Services Hosts (RDSH) ou du code non connu comme des conteneurs, des extensions pour les bases de données, des sites web non connus, etc. Dans ce cas, il est recommandé d’activer la protection sur le serveur via des clés de registre décrite dans cet article : Windows Server Guidance to protect against the speculative execution side-channel vulnerabilities
+Les différentes mises à jour relatives à Microsoft peuvent être déployées via Microsoft Update, Windows Update for Business, WSUS et bien entendu System Center Configuration Manager. Ceci inclus les mises à jour de firmware à destination des périphériques Surface.
+A noter que pour ces dernières et System Center Configuration Manager, les firmwares devraient apparaître dans la console d’administration dans les jours qui viennent.
+Voici tous les articles de recommandation de Microsoft :
+Windows Client Guidance for IT Pros to protect against speculative execution side-channel vulnerabilities
+Windows Server Guidance to protect against the speculative execution side-channel vulnerabilities
+SQL Server Guidance to protect against speculative execution side-channel vulnerabilities
+Microsoft Cloud Protections Against Speculative Execution Side-Channel Vulnerabilities
+Surface Guidance for Customers and Partners: Protect your devices against the recent chip-related security vulnerability
+Azure Stack guidance to protect against the speculative execution side-channel vulnerabilities
+Exchange Server guidance to protect against speculative execution side-channel vulnerabilities
+Comment appliquer la mise à jour Windows ?
+Le changement sur le kernel peut engendrer des incompatibilités avec les applications qui effectuent des appels non standards ou qui ne passent pas par les APIs standards. C’est le cas des Antvirus !
+C’est pourquoi, Microsoft a créé un mécanisme spécial pour l’application de la mise à jour de sécurité. Cette dernière ne s’applique que si la clé suivante a été créée :
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\QualityCompat
+Valeur : cadca5fe-87d3-4b96-b7fb-a231484277cc
+Type : REG_DWORD
+Donnée : 0x00000000
+En fonction de l’antivirus et de sa version, la clé a pu être créée automatiquement par ce dernier. C’est le cas pour les antivirus suivants :
+Windows Defender
+System Center EndPoint Protection
+Microsoft Security Essentials
+Sophos
+Kaspersky
+McAfee VirusScan Enterprise 8.8 ou plus et Endpoint Security (ENS) 10.0.2 ou plus
+ESET
+Note : La création de la clé de registre requiert que les mises à jour de définition soient faites et à jour.
+Voici la liste des antivirus compatibles :
+McAfee
+Sophos
+Kaskersy
+Stormshield Endpoint Security
+ESET
+Vous pouvez cliquer sur les liens pour obtenir la liste des versions. Voici une liste non officielle des antivirus et leur compatibilité.
+C’est donc à vérifier que votre antivirus et la version que vous utilisez, a créé la clé nécessaire ou que la version est compatible. Dans ce dernier cas de figure, vous devez créer la clé vous-même.
+Plus d’informations sur : Important: Windows security updates released January 3, 2018, and antivirus software
+Quid du Cloud ?
+Les différents fournisseurs Cloud effectuent ou ont effectué des mises à jour des différentes briques. C’est le cas de Microsoft avec les machines virtuelles et les hôtes sur ses Datacenter Microsoft Azure.
+Comment vérifier si le système est vulnérable ?
+Microsoft a publié un module PowerShell SpeculationControl permettant de vérifier si les machines sont vulnérables à cette faille de sécurité.
+Il existe de nombreux moyens d’exécuter le script :
+Via la gestion de conformité de System Center Configuration Manager. Microsoft a publié une baseline pour ce besoin.
+Via la fonction d’exécution des scripts qui est apparue dans System Center Configuration Manager 1706.
+L’article de l’equipe produit ConfigMgr détaille comment mettre en œuvre cette vérification.
+Vous pouvez en apprendre plus sur le script et notamment la signification des éléments renvoyés via l’article de la base de connaissances : Understanding the output of the Get-SpeculationControlSettings PowerShell script
+En outre, il existe des solutions communautaires qui offre un rapport en interrogeant les différentes machines.
+Quels sont les problèmes connus ?
+Il est à noter que pour l’heure, la mise à jour de sécurité provoque des problèmes avec les périphériques AMD engendrant des écrans bleus sans capacité de restauration des systèmes :
+Unbootable state for AMD devices in Windows 8.1 and Windows Server 2012 R2
+Unbootable state for AMD devices in Windows 7 and Windows Server 2008 R2
+Existe-t-il un impact sur les performances ?
+Malheureusement, il y a belle et bien un impact qui dépend de nombreux paramètres : Le système d’exploitation, l’application, et la configuration de l’environnement (nombre d’utilisateurs, action effectuée, etc.). Difficile de donner des statistiques exactes, certaines applications sont touchées (Ex : Remote Desktop Services, etc.) alors que d’autres ne le sont pas ou peu.
+Chaque fabricant ou éditeur de solution publie (ou ne le fait pas) des informations sur le sujet. Microsoft s’attache en ce moment à évaluer l’impact au cas par cas.
+Focus sur System Center Configuration Manager
+Vous le savez, j’ai une attache particulière à Configuration Manager et par conséquent, il me parait important de donner des recommandations sur l’impact sur ce produit. La mise à jour n’a pas d’impact en termes de compatibilité sur le produit. L’impact sur les performances est négligeable.
+Veillez à ne pas suivre les recommandations pour l’application des KB SQL Server en ne désactivant pas la CLR et les linked servers.
+Des recommandations spécifiques sont disponibles sur : Additional guidance to mitigate speculative execution side-channel vulnerabilities
+15/1/2018
+[Windows 10] Microsoft répond à vos questions sur Windows Analytics
+Jean-Sébastien DUCHÊNE
+Microsoft va proposer un événement de questions/réponses. Cet évènement aura lieu le mardi 16 janvier de 18h à 19h ou 1h à 2h (heure française). Ask Microsoft Anything est une belle opportunité pour poser des questions sur les services Windows Analytics Upgrade Readiness, Update Compliance et Device Health.
+Pour s’inscrire : https://techcommunity.microsoft.com/t5/Windows-Analytics-AMA/bd-p/WindowsAnalyticsAMA
+14/1/2018
+[Windows] Mise à jour de l’outil de téléchargement USB/ISO de Windows
+Jean-Sébastien DUCHÊNE
+Microsoft a mis à jour son outil permettant de télécharger et créer une clé USB ou une ISO de Windows.
+Télécharger Windows USB/DVD Download Tool
+14/1/2018
+[Intune] Testez la nouvelle interface du portail d’entreprise sur iOS
+Jean-Sébastien DUCHÊNE
+Microsoft a publié un billet à propos de la nouvelle version du portail d’entreprise (Company Portal) de Microsoft Intune à destination d’iOS. Cette version comprend un retravaille complet du design.
+Vous pouvez tester cette version en avant-première via le lien suivant : https://aka.ms/intune_ios_cp_testflight
+Vous devez pour cela avoir les prérequis suivants :
+Un tenant Intune avec un le certificat Apple Push Notification Service (APNs) configuré
+Un périphérique iOS de test.
+Fournir des retours sur l’expérience.
+Pour plus d’informations et obtenir un aperçu du rendu graphique : https://blogs.technet.microsoft.com/intunesupport/2018/01/11/coming-soon-user-experience-update-to-the-intune-ios-company-portal-app/
+13/1/2018
+Un tableau comparatif de Skype for Business et Teams
+Jean-Sébastien DUCHÊNE
+Luca Vitali (MVP) a créé un tableau comparatif très intéressant sur les fonctionnalités présentes dans Skype for Business On-Prem, Online et Teams. Vous obtenez une vue synthétique de ce qui est déjà présent, sur la roadmap ou non encore planifié.
+Source : https://lucavitali.wordpress.com/2017/10/01/sfb-teams-features-comparison-table/
+13/1/2018
+[Intune] La gestion des périphériques mobiles (MDM) ne sera disponible qu’à partir du portail Azure
+Jean-Sébastien DUCHÊNE
+NOTE : La date de fin de vie a été déplacée au 31 août 2018
+A partir du 2 avril 2018, Microsoft ne permettra plus la gestion des périphériques mobiles (MDM) dans l’ancien portail Microsoft Intune en Silverlight. En lieu et place, il sera nécessaire d’utiliser le portail Intune dans Microsoft Azure.
+Ainsi, seule la gestion classique des PCs avec l’agent Intune restera dans le portail Silverlight.
+Vous devez vérifier que la migration de votre tenant s’est bien passé en validant les stratégies, les messages dans le centre Office Message Center.
+A noter que pour les entreprises qui utilisent Microsoft Intune dans mode hybride couplé à System Center Configuration Manager, la configuration d’Android for Work et des solutions de Mobile Threat Defense se feront toujours depuis le portail Silverlight.
+Source : https://blogs.technet.microsoft.com/intunesupport/2018/01/03/plan-for-change-use-intune-on-azure-now-for-your-mdm-management/
+12/1/2018
+Publication de PowerShell Core 6 version finale
+Jean-Sébastien DUCHÊNE
+Microsoft a publié la version finale de PowerShell Core 6. Cette version est proposée comme une solution OpenSource cross-plateforme. Le but est d’adresser des besoins et changements demandés par les clients dans des délais plus courts que ce qui a été le cas avec Windows PowerShell. Il n’y a plus de dépendance sur le Framework .NET.
+Pour rappel, Microsoft a renommé l’exécutable PowerShell en pwsh.exe pour PowerShell Core 6. Les versions précédentes et les extensions de fichiers ne sont pas impactées.
+Les plateformes supportées sont les suivantes :
+Windows 7, 8.1, et 10
+Windows Server 2008 R2, 2012 R2, 2016
+Windows Server Semi-Annual Channel
+Ubuntu 14.04, 16.04, et 17.04
+Debian 8.7+, et 9
+CentOS 7
+Red Hat Enterprise Linux 7
+OpenSUSE 42.2
+Fedora 25, 26
+macOS 10.12+
+On retrouve aussi des packages et versions non supportées pour :
+Arch Linux
+Kali Linux
+AppImage
+Windows sur ARM32/ARM64
+Raspbian (Stretch)
+Plus d’informations sur : https://blogs.msdn.microsoft.com/powershell/2018/01/10/powershell-core-6-0-generally-available-ga-and-supported/
+Télécharger
+PowerShell Core 6.0 sur Windows
+PowerShell Core 6.0 sur macOS et Linux
+12/1/2018
+Desktop App Converter/Desktop Bridge : Déployez vos applications converties (APPX) via Microsoft Intune
+Jean-Sébastien DUCHÊNE
+Avec l’arrivée de Windows 10, Microsoft a travaillé son système d’exploitation pour offrir un nouvel écosystème aux développeurs. La promesse est grande, la plateforme universelle Windows doit offrir une expérience commune quelque soit le périphérique (fonction, taille, écran, etc.). En outre, ce modèle doit révolutionner dont les applications sont proposées, déployées, maintenues etc. L’objet de cet article est d’aborder les applications converties en applications universelles (APPX) via Desktop Bridge ou Desktop App Converter
+Avant d’aller plus loin, je vous invite à lire la première partie de cette série qui traite de la conversion d’une application.
+Une fois convertie, il existe différents moyens de déployer l’application :
+Microsoft Store : Ceci revient à publier l’application dans le Microsoft Store. Seuls les développeurs peuvent être concernés par cette méthode.
+Microsoft Store for Business : Ceci permet aux entreprises qui ont développé des applications métiers de les publier et déployer via le Microsoft Store for Business.
+Package de provisionnement via Windows Imaging and Configuration Designer (WICD). Cette méthode reste artisanale mais peut être intéressante pour des périphériques en mode Kiosk.
+Des solutions d’administration comme System Center Configuration Manager ou Microsoft Intune.
+Manuellement via AppInstaller ou les outils PowerShell
+Déploiement de l’application manuellement
+Une fois convertie, vous pouvez déployer manuellement l’application via AppInstaller inclus dans Windows 10 mais vous devez pour cela autoriser le chargement d’applications dans l’application Settings (Paramètres) – Update & Security – For Developers. Sélectionnez Sideload apps :
+Vous n’avez plus qu’à double cliquer sur l’AppX pour lancer l’installation :
+Note : Le certificat qui a signé l’application doit être délivré par une autorité de confiance et/ou déployé dans le store Trusted People ou Trusted Root Certification Authorities.
+Les applications sont installées dans le dossier C:\Program Files\WindowsApps\<Nom du Package>. On y retrouve l’exécutable et le fichier manifest (AppxManifest.xml)
+Une fois installée, l’application peut ensuite être désinstaller par l’utilisateur via le menu démarrer :
+Déploiement de l’application via Microsoft Intune
+L’installation manuelle n’est clairement pas envisageable dans le monde de l’entreprise. En lieu et place, nous allons détailler comment déployer l’application via Microsoft Intune. Notez que le processus similaire peut être adopté avec System Center Configuration Manager.
+Si vous avez utilisez un certificat autosigné, vous devez le déployer sur les périphériques. Il en est de même si vous avez utilisé un certificat provenant de votre autorité de certification interne. Vous devez alors déployer le certificat de l’autorité racine.
+Note : Cette opération n’est pas nécessaire si vous avez utilisé un certificat de signature de code provenant d’une autorité publique.
+Commencez par ouvrir le portail Microsoft Intune puis naviguez dans Device configuration puis Profiles. Faites Create profile.
+Renseignez le nom du profil et la description. Sélectionnez la plateforme Windows 10 and later. Choisissez le type de profil : Trusted Certificate.
+Enfin sur la page de configuration, renseignez le fichier du certificat (.cer) et le magasin de destination : Computer certificate store – Root.
+Cliquez sur OK puis Create.
+Une fois le profil créé, assignez-le à un groupe contenant les périphériques Windows 10.
+Note : Ce groupe doit être créé par vos soins. Je vous invite à lire mon article sur le sujet.
+Maintenant que le profil du certificat est déployé, vous pouvez déployer l’application. Pour ce faire sur le portail Microsoft Intune, naviguez dans Mobile Apps – Apps. Cliquez sur Add. Sélectionnez le type d’application Line-of-business app et renseignez le fichier d’application APPX.
+Sur l’écran App Information, renseignez les informations de l’application :
+Nom
+Description
+Editeur,
+Catégorie
+URL d’information
+URL de vie privée
+Cliquez sur Ok puis Add.
+Vous pouvez suivre l’upload de l’application via la partie notifications du portail :
+L’application créée, vous pouvez compléter la partie Assignments pour choisir à qui et comment déployer l’application. Sélectionnez le groupe cible puis la façon dont elle doit être mise à disposition : De manière obligatoire ou en libre-service.
+Expérience utilisateur via la gestion moderne
+Maintenant que vous avez déployé le certificat et l’application, jetons un coup d’œil à une machine Windows 10 enregistrée dans Microsoft Intune. Après synchronisation des stratégies, on peut voir apparaître le certificat dans le magasin Trusted Root Certification Authorities :
+Rappel : Ceci n’est pas nécessaire avec un certificat provenant d’une des autorités listées dans ce magasin (Ex : GeoTrust, GlobalSign, Entrust, Digicert, etc.)
+Dès lors que la machine est gérée par Microsoft Intune et qu’une application universelle a été chargée sur le poste, Microsoft Intune se charge de passer le paramètre de chargement des applications à la valeur adéquate :
+L’application déployée apparaît dans le Menu Démarrer :
+Elle peut être démarrée de manière transparente :
+Dépannage du déploiement par Microsoft Intune
+De manière à déployer le déploiement d’une application universelle (APPX), vous pouvez ouvrir l’observateur d’événements (EventViewer) et naviguez dans Applications and Services Logs - Microsoft – Windows. Vous retrouvez les trois catégories :
+AppXDeployment
+AppXDeployment-Server
+AppxPackagingOM
+Vous retrouverez dans ces journaux des informations sur le déploiement, l’enregistrement, la maintenance des applications universelles (APPX).
+En outre à partir de Windows 10 1709, vous pouvez générer un rapport de diagnostic à partir de l’application Settings (Paramètres) – Accounts – Access work or school en cliquant sur le compte puis Info. Dans la section Connection Info, vous pouvez choisir Create Report puis Export. Un fichier MDMDiagReport.html est exporté dans C:\Users\Public\Documents\MDMDiagnostics.
+11/1/2018
+[Intune] Intune ne supportera plus que mac OS X 10.11 minimum
+Jean-Sébastien DUCHÊNE
+Par le biais d’un message (MC#125098), Microsoft a communiqué qu’à partir de février 2018, Microsoft Intune ne supportera plus que l’enregistrement des périphériques macOS X 10.11 et plus. Les versions de mac OS X 10.10 (Yosemite) et 10.9 (Mavericks) ne pourront plus être enregistrées mais continueront d’être gérées si elles ont déjà été enregistrées avant. L’utilisateur accédera encore au site web du portail d’entreprise.
+Cependant si vous avez activé l’accès conditionnel (CA), l’accès aux ressources de l’entreprise pour les périphériques mac OS X 10.9 et 10.10 sera bloqué.
+Pour identifier ces versions, vous pouvez :
+Vous connecter au portail Azure
+Naviguer dans Devices > All Devices
+Filtrer sur la version du système d’exploitation.
+11/1/2018
+[Windows 10] Configurer Windows 10 Enterprise pour être conforme HIPAA
+Jean-Sébastien DUCHÊNE
+Microsoft a publié un livre blanc permettant de configurer Windows 10 Enterprise de manière à être conforme et supporter HIPAA. Cette version du livre blanc ajoute les éléments relatifs à Windows 10 1709. Pour rappel, Health Insurance Portability and Accountability Act (HIPAA) garantit que les particuliers ont certaines protections pour leurs renseignements personnels et le droit de conserver une copie de leur propre dossier de santé et exige que les "entités couvertes" et leurs "associés" se conforment aux règles de sécurité, de confidentialité et de notification des atteintes à la vie privée. Cette loi est un standard américain mais qui peut s’appliquer à votre entreprise si elle est internationale.
+Télécharger : HIPAA Compliance with Microsoft Windows 10
+10/1/2018
+[PowerShell] Microsoft répond à vos questions sur PowerShell
+Jean-Sébastien DUCHÊNE
+L’équipe PowerShell et Jeffrey Snover vont proposer un événement de questions/réponses. Cet évènement aura lieu le jeudi 11 janvier de 18h à 19h (heure française). Ask Microsoft Anything est une belle opportunité pour poser des questions sur PowerShell avec une réponse directe.
+Vous devez être membre de Tech Community pour poster vos questions via l’adresse : http://aka.ms/community/Windows10
+Pour s’inscrire : https://aka.ms/PowerShellAMA.
+10/1/2018
+Desktop App Converter/Desktop Bridge : Transformez/Convertissez vos applications en applications universelles (APPX)
+Jean-Sébastien DUCHÊNE
+Avec l’arrivée de Windows 10, Microsoft a travaillé son système d’exploitation pour offrir un nouvel écosystème aux développeurs. La promesse est grande, la plateforme universelle Windows doit offrir une expérience commune quelque soit le périphérique (fonction, taille, écran, etc.). En outre, ce modèle doit révolutionner dont les applications sont proposées, déployées, maintenues etc. L’objet de cet article est de traiter de la transformation ou modernisation des applications existantes en applications universelles (APPX) via Desktop Bridge ou Desktop App Converter
+Dans les faits, les applications universelles de Windows 10 offrent les bénéfices suivants :
+Elles sont toujours à jour via le système intégré au Microsoft Store et via Windows Update. Si le développeur met à disposition une nouvelle version alors l’application de l’utilisateur est mise à jour sans nécessiter d’actions particulières.
+Réutilisation de l’existant : Les applications universelles offrent des ponts qui permettent de ne pas retravailler l’application en intégralité.
+Protection des données : Les données sont stockées dans un conteneur dédié. Le conteneur contrôle aussi l’accès au matériel et aux données (Microphone, Camera, Emplacement, Contacts, Notifications, etc.)
+Simplification du développement : Microsoft propose un seul développement permettant de cibler tous les périphériques qui exécutent une version de Windows 10. Ceci inclut la partie Desktop, Mobile, Team (Surface Hub), Holographic (Hololens), ou IoT.
+L’expérience utilisateur: Evolution de l’expérience utilisateur de manière à s’intégrer pleinement dans le système d’exploitation et ses fonctions (Cortana, Partage, etc.).
+Le principal bénéfice dont nous allons parler ici est la fiabilité liée au mode de packaging et au déploiement des applications universelles. Si on reprend les applications Win32, on retrouve différentes solutions de packaging (MSI, InstallShield, etc.) demandant plus de complexité dans le déploiement de ces applications.
+Les applications universelles offrent une solution bien plus robuste de packaging :
+Le système d’exploitation gère l’installation, la mise à jour et la désinstallation
+Les applications sont installées pour les utilisateurs – Adieu les problématiques pour des machines multi utilisateurs multi profils.
+L’état de l’application est géré et sécurisé par le système d’exploitation.
+Toutes les applications sont signées par une autorité de confiance.
+Un versioning formel.
+Tout est présent dans un fichier unique (appx ou appxbundle)
+D’un point de vue déploiement, c’est le graal pour tous les administrateurs :
+Une installation et désinstallation totalement propre.
+Des applications toujours à jour (lorsque déployées via le store)
+Aucune élévation de privilèges n’est nécessaire pour installer l’application.
+Un impact réduit sur le système.
+Optimisation de l’espace disque avec une seule instance de fichiers stockées à travers les applications et utilisateurs.
+Des mises à jour différentielles au niveau du block.
+Une protection contre la falsification.
+Le système gère l’application (lancement, mise en pause, reprise, arrêt)
+Chaque application est identifiable avec une identité UWP permettant de la détecter facilement.
+En théorie, il faut développer l’application avec le Framework Universal Windows Platform pour bénéficier de tous les avantages cités plus haut. Néanmoins, Microsoft a créé Desktop App Converter (nom de code Centennial) pour convertir des applications Desktop (Win32) existantes.
+Pour plus d’informations sur le processus de conversion, vous pouvez lire : Behind the scenes of the Desktop Bridge
+Un des bénéfices cible principalement la gestion moderne via Microsoft Intune. Par défaut, Windows 10 ne permet le déploiement que des applications au format MSI (un seul fichier) ou des applications universelles. Avec Desktop App Converter, il devient possible de déployer la majorité des applications bien que le poste ne soit pas géré que de façon moderne (sans Co-Management avec Microsoft Intune).
+Notez que Microsoft Intune propose Intune Management Extension permettant d’exécuter des scripts PowerShell et par conséquent d’exécuter l’installation d’applications. Néanmoins, cette solution ne propose pour l’instant pas la gestion de repository de sources et doit être couplée avec des serveurs locaux ou des solutions de gestion de sources (Chocolatey).
+Aujourd’hui des milliers d’applications ont déjà été converties et sont proposées au travers du Microsoft Store. C’est par exemple le cas d’Office 365 Personal.
+Les prérequis de la conversion sont les suivants :
+L’application doit fonctionner avec le .NET Framework 4.6.1.
+L’application doit pouvoir s’installer de manière silencieuse (sans action d’un utilisateur). Note : Les outils tiers permettent de packager des applications qui ne peuvent être installée de manière silencieuse.
+L’application ne doit pas nécessiter d’élévation de privilèges.
+L’application ne doit pas installer de drivers ou de service.
+L’application ne doit pas utiliser AppData pour communiquer avec d’autres applications.
+L’application ne doit pas écrire dans le répertoire d’installation.
+Préparation de la machine de référence
+Maintenant que nous avons planté le décor, nous allons pouvoir passer dans le vif du sujet en commençant par préparer une machine de référence. Je vous recommande l’utilisation d’une machine dédiée qui répond aux prérequis suivants :
+Windows 10 1607 (Anniversary Update) ou plus en édition Pro ou Enterprise. Pour bénéficier des dernières avancées, je vous invite à utiliser Windows 10 1709 (Fall Creators Update).
+Un processeur 64-bit (x64)
+Une machine ayant les instructions de virtualisation matériel et supportant la technologie Second Level Address Translation (SLAT)
+Récupérez la Windows Software Development Kit (SDK) for Windows 10 et procédez à l’installation :
+Passez les différents écrans et validez que l’ensemble des composants sont installés :
+Une fois le SDK installé, vous devez télécharger et installer l’application Desktop App Converter depuis le Microsoft Store.
+Vous devez ensuite télécharger l’image de base correspondant à la version de Windows 10 que vous utilisez pour Desktop App Converter. Sauvegardez l’image dans un dossier sur votre disque. Par exemple : C:\DesktopAppConverter\Images\
+Une fois ces prérequis validés, vous pouvez ouvrir le menu démarrer puis localiser Desktop App Converter. Cliquez droit faire More (Plus) puis Run as administration (Exécuter en tant qu’administrateur). Ceci est primordial pour permettre de réaliser les opérations nécessaires avec l’outil.
+Une fois l’outil lancé, vous devez installer l’image téléchargée. Cette opération installera notamment les fonctionnalités Windows dont notamment Containers.
+Pour ce faire, exécutez la commande : DesktopAppConverter.exe -Setup -BaseImage <CheminVersLimage>\<Image>.wim
+Un redémarrage peut être initié pour activer la fonctionnalité Containers, vous devez alors vous reconnecter. Une fenêtre PowerShell apparaîtra puis disparaîtra une fois l’opération terminée.
+Conversion de l’application
+Votre environnement est maintenant prêt à convertir/packager des applications. Vous devez donc récupérer les sources des applications que vous souhaitez packager. Dans le cadre de ce billet, j’ai pris l’exemple d’Adobe Reader. Vous devez cibler une application qui doit pouvoir s’installer de manière silencieuse et répondre aux prérequis précédents.
+Lancez Desktop App Converter en tant qu’administrateur. Exécutez la commande suivante :
+DesktopAppConverter.exe -Installer <CheminVersLapplication> -InstallerArguments "<Arguments>" -Destination <DossierUtiliserPourStockerLePackage> -PackageName "<NomDuPackage>" -PublisherName "CN=<Nom de l’entreprise>" -Version <VersionSur4Digit> -MakeAppx -Sign -Verify
+Note : Desktop App Converter ne prend pas en charge Unicode ; ainsi, aucun caractère chinois ou caractères non-ASCII ne peut être utilisé avec l'outil.
+Desktop App Converter fait le travail de conversion en spécifiant un certain nombre de validations. Une fois terminé, il a généré le fichier APPX, les fichiers de journalisation et le certificat autosigné utilisé pour signer l’application.
+Dans le dossier PackageFiles, vous retrouvez les éléments essentiels du package dont notamment :
+Le fichier AppxManifest.xml déclare les comportements de l’application : Dépendances, Logos, raccourcis, associations de fichiers, exceptions pare-feu, intégration avec l’explorateur de fichiers etc. Pour plus d’informations, je vous invite à lire : Integrate your app with Windows 10 (Desktop Bridge)
+Le fichier Registry.dat contient la ruche avec les informations normalement créées dans la base de registre.
+Le dossier VFS contient le système de fichiers tel qu’il aurait été créé par l’application.
+Le dossier Assets contient les éléments essentiels comme le logo, etc.
+Note : Desktop App Converter adopte une approche très conservatrice. Si vous le souhaitez, vous pouvez consulter le dossier VFS et supprimer tous les fichiers dont votre installateur n'a pas besoin. Vous pouvez également consulter le contenu de Registry. dat et supprimer toutes les clés qui ne sont pas installées/nécessaires à l'application. Vous devrez alors regénérer le fichier APPX via la commande MakeAppx.
+Considération importante : Comme avec Microsoft Application Virtualization (App-V), vous devez supprimer tous les comportements inclus dans l’application et modifiant sa structure d’installation. Ainsi si l’application inclut un mécanisme de mise à jour automatique (AutoUpdater, etc.), il doit être neutralisé via les arguments d’installation. Dans le cas contraire, cela pose deux problèmes :
+L’application demandera à l’utilisateur d’avoir les droits d’administration pour installer la mise à jour.
+L’application installer/mettra à jour l’application dans le chemin d’installation par défaut. Elle ne mettra donc pas à jour l’application universelle.
+Vous devez donc gérer les mises à jour des versions indépendamment en repackageant l’application et en déployant la nouvelle version.
+Nous avons vu comment créer une application de manière simplifiée avec un certificat autogénéré. Cette solution n’est clairement pas idéale pour le monde de l’entreprise et doit être substituée à l’une d’elle (par ordre de préférence) :
+Achat d’un certificat de signature de code à une autorité publique (Exemple : Symantec, Digitcert, GlobalSign, etc.). Cette méthode est préférée car l’application est par défaut jugée fiable par le système dès lors que la machine dispose des autorités de certification racines publiques. Elle est donc déployable en l’état après signature.
+Utilisation d’une autorité de certification d’entreprise (Exemple : Active Directory Certificate Services, etc.) pour générer le certificat de signature de code nécessaire. Cette méthode permet de s’affranchir de l’achat du certificat publique. L’application est jugée fiable par le système dès lors que la machine dispose du certificat racine de l’autorité de certification de l’entreprise dans son magasin. Celui-ci peut être déployé par défaut par Active Directory ou Microsoft Intune (en mode moderne).
+Génération d’un certificat autosigné unique utilisé pour signer toutes les applications. Cette méthode doit être considérée en dernier recours. Vous pouvez générer un certificat de signature de code unique qui sera utilisé à chaque fois que vous devez convertir une application. Vous pouvez ensuite le déployer via Active Directory ou Microsoft Intune pour que les applications soient jugées fiables par le système.
+Quelle que soit la méthode ci-dessus, nous reviendrons sur la façon permettant de déployer le certificat par Microsoft Intune dans l’article suivant.
+Si vous souhaitez partir sur la 3ème méthode, voici comment générer un certificat autosigné avec le SDK de Windows 10 :
+Naviguez dans le répertoire d’installation du SDK : C:\Program Files (x86)\Windows Kits\10\bin\<Version>\x64
+Exécutez la commande : exe /n <Nom de l’organisation> /r /h 0 /eku"1.3.6.1.5.5.7.3.3,1.3.6.1.4.1.311.10.3.13" /e <DateDExpiration> /sv MyKey.pvk MyKey.cer
+Renseignez le mot de passe utilisé.
+Exécutez ensuite la commande pour créer le fichier PFX :
+Pvk2Pfx /pvk MyKey.pvk /pi <Mot de Passe précédent> /spc MyKey.cer /pfx MyKey.pfx /po <Mot de Passe pour le PFX>
+Une fois votre certificat de signature de code acquis ou généré, vous pouvez maintenant convertir l’application sans la signer avec la ligne de commande :
+DesktopAppConverter.exe -Installer <CheminVersLapplication> -InstallerArguments "<Arguments>" -Destination <DossierUtiliserPourStockerLePackage> -PackageName "<NomDuPackage>" -PublisherName "<CN COMPLET du certificat>" -Version <VersionSur4Digit> -MakeAppx -Verify
+Note : J’attire votre attention sur le PublisherName qui doit correspondre au nom commun complet du certificat qui sera utilisé pour signer l’application. Par exemple : CN = MicrosoftTouch Company, O = MicrosoftTouch, L = LYON, S = France, C = FR. Si ce n’est pas le cas, la signature échouera avec l’erreur : « Error : SignerSign() failed. " (-2147024885/0x8007000b) "
+Outre les paramètres que nous avons vu jusqu’à maintenant, Desktop App Converter propose aussi :
+-InstallerValidExitCodes <Int32> : Permet de spécifier un code de retour spécifique si l’application ne respecte pas les codes de retour de référence.
+-AppFileTypes <String> : Permet de spécifier les extensions de fichiers à associer à l’application.
+-AppDescription <String> : Permet de spécifier la description de l’application.
+-PublishComRegistrations : Analyse tous les enregistrements COM faits par l’installeur et publie ceux qui sont valides dans le fichier Manifest.
+Si vous souhaitez packager une application qui n’a pas d’assistant d’installation et qui ne correspond qu’à un exécutable, voici la ligne de commande : DesktopAppConverter.exe -Installer <CheminVersLapplication> -AppExecutable MyApp.exe -Destination <DossierUtiliserPourStockerLePackage> -PackageName "<NomDuPackage>" -PublisherName "<CN COMPLET du certificat>" -Version <VersionSur4Digit> -MakeAppx -Verify
+Une fois le fichier APPX généré, vous pouvez le signer avec votre certificat via la procédure suivante :
+Naviguez dans le répertoire d’installation du SDK : C:\Program Files (x86)\Windows Kits\10\bin\<Version>\x64
+Exécutez la commande : exe sign /fd SHA256 /debug /a /f <CheminVersLeCertificat.pfx> <CheminVersL’Application.appx>
+Pour en apprendre plus, je vous invite à consulter le blog suivant : http://aka.ms/AppInstaller
+On retrouve des solutions payantes :
+InstallShield par flexera
+WiX par FireGiant
+Advanced Installer par caphyon
+InstallAware APPX Builder
+Embacadero RAD, Builder
+Cloudhouse
+Vous pouvez maintenant passer au déploiement de cette application convertie.
+9/1/2018
+Fin de support pour OCS 2007, DPM 2007 et SCVMM 2007
+Jean-Sébastien DUCHÊNE
+Aujourd’hui, 9 janvier 2018 signe la fin du support des produits suivants :
+Office Communications Server 2007
+Office Communications Server 2007 R2
+Windows 10 Mobile (Publié en Nov. 2015)
+System Center Data Protection Manager 2007
+System Center Virtual Machine Manager 2007
+9/1/2018
+[Azure AD] Une série de Webinars sur Azure Active Directory
+Jean-Sébastien DUCHÊNE
+Microsoft va procéder à des Webinars sur Azure Active Directory.
+Manage Your Enterprise Applications with Azure AD
+January Live Webinar Option 1; Quand : 9 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 9 Janvier 2018 20h à 21h (Heure Française)
+January Live Webinar Option 3; Quand : 9 Janvier 2018 6h à 7h (Heure Française)
+Voir les enregistrements à la demande pour cette session
+Getting Ready for Azure AD
+January Live Webinar Option 1; Quand : 10 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 10 Janvier 2018 20h à 21h (Heure Française)
+January Live Webinar Option 3; Quand : 10 Janvier 2018 6h à 7h (Heure Française)
+Voir les enregistrements à la demande pour cette session
+Secure Your Identities with Azure Multi Factor Authentication
+January Live Webinar Option 1; Quand : 11 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 11 Janvier 2018 20h à 21h (Heure Française)
+January Live Webinar Option 3; Quand : 11 Janvier 2018 6h à 7h (Heure Française)
+Voir les enregistrements à la demande pour cette session
+Intro to Azure AD B2C: Make it easy for your customers to securely Sign In and Sign Up to your applications
+January Live Webinar Option 1; Quand : 16 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 16 Janvier 2018 20h à 21h (Heure Française)
+Streamlining Password management Using Azure AD
+January Live Webinar Option 1; Quand : 17 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 17 Janvier 2018 20h à 21h (Heure Française)
+Voir les enregistrements à la demande pour cette session
+Azure AD Identity Protection and Privileged Access Management
+January Live Webinar Option 1; Quand : 18 Janvier 2018 16h à 17h (Heure Française)
+January Live Webinar Option 2; Quand : 18 Janvier 2018 20h à 21h (Heure Française)
+Voir les enregistrements à la demande pour cette session
+Accessing Your Organization’s Internal Applications via Azure AD App Proxy
+Les dates arrivent plus tard
+Voir les enregistrements à la demande pour cette session
+Azure AD Connect Health
+Les dates arrivent plus tard
+Voir les enregistrements à la demande pour cette session
+8/1/2018
+Retrouvez-moi dans Office Café le 16 Janvier 2018 pour parler de la gestion moderne
+Jean-Sébastien DUCHÊNE
+Retrouvez-moi dans Office Café le 16 Janvier 2018 pour parler de la gestion moderne de Windows 10 et des bénéfices qu’elle apporte. J’aurais l’occasion de donner mon avis sur ce changement majeur dans la gestion du poste de travail.
+Office Café, c’est quoi ?
+Votre rendez-vous mensuel en ligne pour découvrir les nouvelles solutions digitales qui vont booster l’efficacité de votre entreprise.
+Episode 4 : Comment simplifier la gestion de parc informatique tout en favorisant la créativité des collaborateurs ?
+72% des collaborateurs estiment que leur réussite au travail dépend de leur capacité à être créatif. Pour répondre aux attentes des collaborateurs de votre entreprise tout en bénéficiant d’une gestion simplifiée de votre parc informatique nous vous proposons de vous faire découvrir une nouvelle façon de gérer votre IT de façon plus intégrée et plus sécurisée. En effet avec les dernières offres Microsoft on constate une réduction de 20% du temps dédié à la gestion informatique.
+Microsoft vous présentera une démonstration de l’intégration d’un employé du premier allumage de son PC à son utilisation des outils de bureautique.
+Vous aurez la possibilité par la suite de regarder cette vidéo à la demande sur aka.ms/officecafe
+Inscrivez-vous à cet épisode
+8/1/2018
+Mise à jour (v7.0) de l’outil Sysmon de SysInternals
+Jean-Sébastien DUCHÊNE
+Microsoft a mis à jour (v7.0) le célèbre outil Sysmon de SysInternals. Cette version apporte les changements suivants :
+Journalise les informations de version de fichiers
+Une option pour créer un dump d’un vieux schéma.
+Une option pour créer un dump de tout l’historique des schémas.
+Télécharger Sysmon v7.0
+7/1/2018
+Le Correctif Cumulatif 8 pour Exchange Server 2016 est disponible
+Jean-Sébastien DUCHÊNE
+L’équipe Exchange vient de publier le 8ème Cumulative Update (CU8) (15.01.1415.002) pour Exchange Server 2016. Microsoft a changé la stratégie d’assistance sur le cycle de vie d’Exchange ne nécessitant plus l’application des derniers Cumulative Update pour être supporté.
+Ce correctif cumulatif ajoute :
+Le support de .NET Framework 4.7.1. Il est à noter que ce dernier commencera à être un prérequis à l’installation des correctifs cumulatifs à partir de Juin 2018.
+Le support de l’authentification moderne hybride.
+Il apporte les changements suivants :
+Ce Rollup contient un correctif pour un problème important affectant la coexistence entre Exchange Server 2010 et Exchange Server 2016. Le guide de déploiement indique que lorsque ces versions sont déployées ensemble, les adresses IP privées des load balancers peuvent (doivent) être dirigées vers des serveurs exécutant Exchange Server 2016. Exchange Server 2016 se charger des appels proxy vers une version de serveur appropriée en fonction de l'emplacement de la boîte aux lettres à laquelle vous accédez. Une condition peut permettre aux appels EWS d'accéder à des boîtes aux lettres sur le serveur 2010 auxquelles un utilisateur ne devrait pas avoir accès.
+4056329 Impossible d'accéder aux EWS à partir des add-ins Outlook/OWA via makeEwsRequestAsync dans Exchange Server 2016 et Exchange Server 2013
+4054516 Erreur "Your request can’t" lors de l'accès à une boîte aux lettres d'archive via OWA dans Exchange Server 2016.
+4055953 Le paramétrage du destinataire ne fonctionne pas pour les domaines frères dans Exchange Server 2016
+4055435 Aucune interface réseau MAPI n'est trouvée après l'installation d'Exchange Server 2016 CU7
+4056609 L’identifiant d’événement 4999 est généré et le service mailbox transport delivery ne démarre pas après l'installation du serveur Exchange Server 2016 CU7.
+4045655 Description de la mise à jour de sécurité pour Microsoft Exchange: 12 décembre 2017
+4057248 De nombreux rapports Watson pour StoragePermanentException dans Exchange Server 2016
+Enfin, on retrouve un Changement de comportement en ce qui concerne la configuration des paramètres TLS et de cryptographie. Les mises à jour cumulatives précédentes écrasent la configuration existante d'un client. En raison des commentaires des clients, Microsoft a modifié le comportement du produit pour configurer les paramètres TLS et de cryptographie uniquement lorsqu'un nouveau serveur Exchange est installé. L'application d'une mise à jour cumulative n'écrasera plus la configuration existante du client.
+Télécharger :
+Cumulative Update 8 for Exchange Server 2016 (KB4035145)
+Exchange Server 2016 CU8 UM Language Packs
+6/1/2018
+[SCCM] Support de TLS 1.2 et désactivation de SSL 3.0/TLS 1.0/1.1
+Jean-Sébastien DUCHÊNE
+On commence à voir fleurir des questions et problématiques sur les forums à propos de TLS 1.2 et la désactivation de SSL 3.0/TLS 1.0/1.1 avec System Center Configuration Manager.
+Je souhaitais rappeler que le support de TLS 1.2 et la désactivation de SSL 3.0/TLS 1.0/1.1 n’est assuré qu’à partir de System Center Configuration Manager 1702 avec l’Update Rollup (KB 4019926).
+Si vous utilisez une version antérieure et vous devez mettre à niveau cette version sur un environnement où les algorithmes précédents (SSL 3.0/TLS 1.0/1.1) ont déjà été désactivés, vous devez les réactiver !
+Dans le cas contraire, vous rencontrerez des erreurs comme suit :
+*** [08001][18][Microsoft][ODBC SQL Server Driver][Shared Memory]SSL Security error3000 (0x0BB8)
+*** [01000][1][Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionOpen (SECCreateCredentials()).
+*** Failed to connect to the SQL Server, connection type: SERVERNAME.DOMAIN MASTER.
+*** [08001][18][Microsoft][ODBC SQL Server Driver][Shared Memory]SSL Security error
+*** [01000][1][Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionOpen (SECCreateCredentials()).
+*** Failed to connect to the SQL Server, connection type: SERVERNAME.DOMAIN.
+Lire Comment activer TLS 1.2 sur System Center Configuration Manager ?
+6/1/2018
+Le Correctif cumulatif 19 pour Exchange Server 2013 est disponible
+Jean-Sébastien DUCHÊNE
+L’équipe Exchange vient de publier le 19ème Cumulative Update (CU19) (15.00.1365.001) pour Exchange Server 2013. Pour rappel, Microsoft a changé la stratégie d’assistance sur le cycle de vie d’Exchange ne nécessitant plus l’application des derniers Cumulative Update pour être supporté.
+Ce correctif cumulatif ajoute :
+Le support de .NET Framework 4.7.1. Il est à noter que ce dernier commencera à être un prérequis à l’installation des correctifs cumulatifs à partir de Juin 2018.
+Le support de l’authentification moderne hybride.
+Il apporte les changements suivants :
+4046316 MAPI over HTTP ne peut pas supprimer les sessions client en temps opportun si l'utilisation d'OAuth et la ressource a un compte maître dans Exchange Server 2013
+4046205 W3wp engendre une forte utilisation du CPU dans Exchange Server 2013
+4046182 Les identifiants des événements 4999 ou 1007 sont générés en cas de plantages répétés du service de diagnostic dans Exchange Server 2013
+4056329 Impossibilité d'accéder aux EWS à partir des add-ins Outlook/OWA via makeEwsRequestAsync dans Exchange Server 2016 et Exchange Server 2013
+4045655 Description de la mise à jour de sécurité pour Microsoft Exchange : 12 décembre 2017
+Enfin, on retrouve un Changement de comportement en ce qui concerne la configuration des paramètres TLS et de cryptographie. Les mises à jour cumulatives précédentes écrasent la configuration existante d'un client. En raison des commentaires des clients, Microsoft a modifié le comportement du produit pour configurer les paramètres TLS et de cryptographie uniquement lorsqu'un nouveau serveur Exchange est installé. L'application d'une mise à jour cumulative n'écrasera plus la configuration existante du client.
+Télécharger :
+Cumulative Update19 for Exchange Server 2013 (KB4037224)
+Exchange Server 2013 CU19 UM Language Packs
+5/1/2018
+Rollup 19 disponible pour Exchange Server 2010 SP3
+Jean-Sébastien DUCHÊNE
+L’équipe Exchange vient de publier le 19ème Rollup (KB4035162) pour Exchange Server 2010 SP3 (version 14.03.0382.000).
+Ce Rollup contient un correctif pour un problème important affectant la coexistence entre Exchange Server 2010 et Exchange Server 2016. Le guide de déploiement indique que lorsque ces versions sont déployées ensemble, les adresses IP privées des load balancers peuvent (doivent) être dirigées vers des serveurs exécutant Exchange Server 2016. Exchange Server 2016 se charger des appels proxy vers une version de serveur appropriée en fonction de l'emplacement de la boîte aux lettres à laquelle vous accédez. Une condition peut permettre aux appels EWS d'accéder à des boîtes aux lettres sur le serveur 2010 auxquelles un utilisateur ne devrait pas avoir accès.
+Télécharger Update Rollup 19 For Exchange 2010 SP3 (KB4035162)
+5/1/2018
+Mise à jour de l’outil BGInfo de SysInternals
+Jean-Sébastien DUCHÊNE
+Microsoft a mis à jour (v2.24) le célèbre outil Bginfo de SysInternals. Cette version corrige des régressions introduites dans la version 4.23.
+Il est à noter que les fichiers bgi créés avec la version v4.23 ne sont pas compatibles avec cette version.
+Télécharger Bginfo v2.24
+4/1/2018
+<>
+2021 - MicrosoftTouch
+Site indépendant de passionnés
+La communauté fournit le site et le contenu "tels quels" et ne donne aucune garantie quant au site et à ses contenus.

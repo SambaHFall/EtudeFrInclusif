@@ -1,0 +1,3 @@
+Ce plug-in est un égaliseur paramétrique 3 bandes, simple d’emploi, qui rappelle les égaliseurs des mixettes de DJ. Ce plug-in permet d’appliquer rapidement plusieurs types d’égalisation.
+Low Freq/Mid Freq/High Freq
+Ces paramètres permettent de régler le niveau d’atténuation ou d’amplification des bandes basse, moyenne et haute.

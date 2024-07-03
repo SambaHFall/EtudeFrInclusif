@@ -1,0 +1,292 @@
+{{#format-currency}}{{oldprice}}{{/format-currency}} {{#price}} {{#format-currency}}{{price}}{{/format-currency}} {{/price}}
+{{/price}}
+{{/results}} {{/total}} {{^total}}
+{{#translate}}Sorry, no results found.{{/translate}}
+{{/total}}
+114 conseillers disponibles pour vous répondre le samedi
+Aide | Suivre ma commande | Mon compte
+Fitness Nutrition sportive Protéines Musculation
+114 magasins
+Un réseau à votre service
+Fitness Nutrition sportive Healthy Food Minceur Musculation Cross Training Marques Coach Pro
+Tapis de Course
+Best sellers Tapis de course pliable Tapis de course professionnel Grande surface de course Super Runners Tapis de course compact Tous les Tapis de Course
+Vélo elliptique
+Best sellers Roue à l'avant Vélo elliptique professionnel Super Crosstrainers Vélo elliptique compact Tous les vélos elliptiques
+Rameur
+Best sellers Magnétique - Electromagnétique Rameur professionnel Résistance Air - Eau Rameur en bois Super Rowers Tous les rameurs
+Vélo de biking
+Vélo d'appartement
+Best sellers Vélo droit Vélo professionnel Vélo semi-allongé Vélo ergomètre Super Bikes
+Accessoires Fitness
+Electrostimulation
+Balance - impédancemètre
+Step et Stepper
+Bien être
+Librairie/Musique
+Coaching
+Vêtements et Chaussures
+Aqua Fitness
+Plateforme vibrante
+Montre et Objet connecté
+Protéines
+Protéine Native Whey Protéine Whey Isolate Whey Hydrolysée Whey Concentrée Protéine Végétale Caséine Barre Protéinée Encas Protéiné Boisson Collagène
+Acides Aminés
+BCAA EAA Amino Récupération Post-Workout L-Glutamine L-Carnitine L-Arginine
+Prise de masse
+Lean Gainer Gainer Hard Gainer
+Brûleur de graisse - Sèche
+Protéine de Sèche Brûleur L-Carnitine CLA - Oméga 3 Détox - Draineur Contrôle d'Appétit
+Endurance
+Glucide - Gel Boisson Encas Energétique Confort Articulaire
+Énergie - Booster
+Pré-Workout - Booster Pré-Workout - Congestion NO Créatine Caféine L-Carnitine BCAA Vitamines et Minéraux Booster Masculin Encas Energétique
+Shakers - Gourdes
+Encas Protéiné
+Barre Protéinée Gaufre, Crêpe Gâteau, Muffin Snack Salé Prêt à Boire Thé, Infusion
+Petit Déjeuner
+Pancake Flocons d'Avoine Granola, Muesli, Bowl Pâte à Tartiner Beurre de Cacahuètes Amandes à Tartiner Smoothie, Boisson
+Alimentation Saine
+Prêt à Manger Prêt à Cuisiner Superfood Barre Protéinée Sirop, Coulis et Confiture Pâte à Tartiner Sauce, Tartinable et Topping
+Cuisine
+Prêt à Cuisiner Produit Bio Régime Vegan/Végétarien Régime sans Gluten Produit Brut Céréale
+Perte de Poids
+Protéine de Sèche Barre Protéinée Substitut de Repas Brûleur de Graisse L-Carnitine CLA Détox - Draineur Contrôle d'Appétit
+Santé et Bien-être
+Oméga 3 Vitamines et Minéraux Superfood Probiotique Antioxydant Confort Articulaire Immunité Beauté
+Low Carb - Low Fat
+Barre Protéinée Pâte à Tartiner Petit Déjeuner Sauce Arôme et Sucralose Boisson
+Aliment Fonctionnel
+Barre Protéinée Petit Déjeuner Chocolat Thé, Infusion Boisson
+Banc de musculation
+Banc Multi-Positions Banc Pro Banc et chandelles Banc Seul Tous les bancs de musculation
+Smith Machine et Squat
+Smith Machine Cage à squat Rack à squat
+Chaise Romaine
+Appareil de musculation
+Presse à charge guidée Multiposte Presse pro Cross - Over Tous les appareils de musculation
+Poste isolé
+Poste pectoraux épaules Poste dos lombaires Poste cuisses mollets Postes biceps triceps Poste abdominaux
+Accessoire Musculation
+Appareil abdominaux Appareil pectoraux Espalier - Barre de traction Musclet Gants - Ceinture d'entraînement Tous les accessoires musculation
+Accessoire de tirage
+Barres et poids 28mm
+Barre diamètre 28mm Disque diamètre 28mm
+Barres et poids 51mm
+Barre diamètre 51mm Disque diamètre 51mm
+Haltères
+Kettlebell
+Range disque - Rack
+Préparation Physique
+Cordes à sauter Gants et Straps Maniques. Cordes ondulatoires Sangles de suspension Sacs lestés Echelles de vélocité Gilets lestés Plots et Cônes Equipements Terrains Protections de sol
+Pack accessoires
+Massage et Récupération
+Accessoires fitness
+Circuit Training Haltères vinyles Tapis de sol Protections de sol Bandes de resistance - Elastibands Cordes à sauter Médecine Balls - Gym Balls Accessoires Agilité Bandes lestées Gants et Straps Maniques. Steps Vêtements de sudation Tous les accessoires Fitness
+Accessoires musculation
+Espaliers - Barres de traction Roues Abdominales Planches Abdominales Accessoires abdominaux Ceintures lombaires Barres - Kit Body Pump Gants et Straps Maniques. Musclets Push up barres Gilets lestés Haltères Accessoires de Tirage Sac de Frappe Tous les accessoires musculation
+Accessoire fitness
+Préparation physique Cross training Tapis de sol - Tapis de protection Produit Lesté Médecine Ball - Gym Ball Elastique et bande de résistance Agilité - Equilibre Sudation Packs accessoire
+Accessoire Musculation
+Appareil abdominaux Appareil pectoraux Espalier - Barre de traction Musclet Gants - Ceinture d'entraînement Sac de Frappe Packs accessoire
+Poids et Haltères
+Standard 28mm Olympique 51mm Kettlebell Range disque - Rack
+Marques
+Objectifs
+Pro
+Magasins
+Accueil
+Fitness
+Rameur
+Rameur
+Le Rameur est un excellent moyen de prendre soin de sa santé et de son physique. Un rameur d'appartement va vous permettre de développer votre cardio tout en tonifiant l'ensemble des groupes musculaires. Du rameur pliable pour un rangement facile, à une machine à résistance à air pour un maximum de sensation, vous aurez l'embarras du choix à tous les budgets.
+Complet, le rameur permet de reproduire les mouvements de l'aviron. Les bienfaits du rameur sont .. Lire la suite nombreux : sans impact sur les articulations et adapté à tous les sportifs, débutants comme experts, vous serez séduit par sa facilité d'utilisation. Suivez les nombreux programmes d'entraînement pré-enregistrés sur la console utilisateur afin de viser une remise en forme, un entretien physique, une perte de poids ainsi qu'un travail musculaire complet.
+Comment choisir son Rameur ?
+Qu'est-ce qu'un Rameur ?
+Quels sont les bienfaits du Rameur ?
+Catégorie
+Rameur Magnétique - Électromagnétique (1)
+Rameur Air - Eau (12)
+Rameur en Bois (1)
+professionnel (14)
+super Rowers (0)
+bestseller (0)
+Marques
+Heubozen (4)
+Waterrower (3)
+Concept2 (1)
+Endurance (1)
+EVO (2)
+First Degree (1)
+Matrix (1)
+SpiritFitness (1)
+Fitness Doctor (0)
+Moovyoo (0)
+Kettler (0)
+Bh fitness (0)
+Care (0)
+Horizon (0)
+Nordictrack (0)
+PureDesign (0)
+Sole (0)
+Xterra Fitness (0)
+Plus de choix Moins de choix
+Prix
+Promotions (0)
+Rameur : les trois points clé techniques pour mieux faire son choix
+Le type de tirage du rameur : il permet de définir le type de mouvement que vous allez effectuer.
+Le système de résistance : Il peut être à air, à vérins, magnétique, électromagnétique et à eau.
+L’interactivité de la console : Les consoles équipant la plupart des rameurs du marché français indiquent, le temps d’entraînement, la fréquence cardiaque, les calories brûlées et le nombre de coups de rames. Sur les rameurs haut de gamme, vous aurez également la possibilité de participer à des courses en réseau via une connexion Internet.
+Trustpilot
+Trier par :
+Popularité
+Prix
+Aide
+Royal Generator - RAMEUR
+Heubozen
+- 16 avis
+1 499€
+Nouveauté
+Blackelite - RAMEUR
+Heubozen
+- 1 avis
+1 199€
+Mercury - RAMEUR
+Heubozen
+- 19 avis
+1 499€
+RowErg noir avec écran PM5 - RAMEUR
+Concept2
+- 24 avis
+1 110€ 1 299€ -15%
+M1 HiRise avec moniteur S4 - RAMEUR
+Waterrower
+1 899€
+CRW800H2O - RAMEUR
+SpiritFitness
+1 095€
+Club Sport avec moniteur S4 - RAMEUR
+Waterrower
+- 4 avis
+1 599€
+R300 - RAMEUR
+Endurance
+- 4 avis
+1 295€
+Air Rower Classic - RAMEUR
+EVO
+1 395€
+Air Rower Pro - RAMEUR
+EVO
+1 495€
+En stock
+1 499€
++ d'infos ...
+Royal Generator - RAMEUR
+Heubozen
+Le rameur auto-alimenté professionnel Royal Generator combine une résistance Air + Magnétique motorisée ! Ergomètre indication en watts, 24 niveaux de résistance, console 10 fonctions, 42 programmes, poutre aluminium, roulements renforcés, sangles de traction en Nylon de haute qualité.
+- 16 avis
+En stock
+1 199€
++ d'infos ...
+Nouveauté
+Blackelite - RAMEUR
+Heubozen
+Rameur robuste, équipé d'un tirage central par chaine, résistance à air sur 9 niveaux, console Bluetooth rétro-éclairée et réglable avec 8 boutons pour une navigation rapide, 8 programmes, porte téléphone, compatible Kinomap, stockage vertical pour un gain de place, roulettes de déplacement.
+- 1 avis
+En stock
+1 499€
++ d'infos ...
+Mercury - RAMEUR
+Heubozen
+Résistance Air sur 10 niveaux, tirage central par chaîne, ceinture thoracique incluse, rail en aluminium, poignée de tirage ergonomique, compteur, structure robuste, montage facile et rapide.
+Un entrainement complet pour travailler plus de 80% de votre masse musculaire en un minimum de temps ! Il est idéal pour vos séances de Cross training.
+- 19 avis
+-15%
+En stock
+1 299€ 1 110€
++ d'infos ...
+RowErg noir avec écran PM5 - RAMEUR
+Concept2
+Très robuste (poids maxi 135 kg), résistance à air, poutre en aluminium, grand confort, pliable, le rameur RowErg est aussi équipé de la nouvelle console PM5.
+Type de mouvement : Central
+Pliable : Oui
+Résistance : Air
+- 24 avis
+En stock
+1 899€
++ d'infos ...
+M1 HiRise avec moniteur S4 - RAMEUR
+Waterrower
+Le WaterRower M1 HiRise offre un entraînement hyper réaliste, très proche des sensations sur l'eau.
+Type de mouvement : Tirage central
+Résistance : Eau
+En stock
+1 095€
++ d'infos ...
+CRW800H2O - RAMEUR
+SpiritFitness
+Résistance à eau sur 6 niveaux, cuve inclinée à 45 degré, écran LCD inclinable de 14 cm avec 5 programmes d'entrainement, structure en acier, doubles rails en aluminium, siège ergonomique, stockage vertical.
+En stock
+1 599€
++ d'infos ...
+Club Sport avec moniteur S4 - RAMEUR
+Waterrower
+Rameur-ergomètre à résistance à eau pour un mouvement plus réaliste.
+Type de mouvement : Tirage central
+Pliable : Oui
+Résistance : Eau
+- 4 avis
+En stock
+1 295€
++ d'infos ...
+R300 - RAMEUR
+Endurance
+Résistance à air, 8 programmes, repose-pieds réglables, auto-généré, support téléphone, roulettes de transport, rameur silencieux et robuste.
+- 4 avis
+En stock
+1 395€
++ d'infos ...
+Air Rower Classic - RAMEUR
+EVO
+Résistance manuelle sur 8 niveaux, double ventilateur de 2,8 kg en acier, écran LCD avec 8 programmes, pliable, repose-pieds surdimensionnés, poignées ergonomiques.
+En stock
+1 495€
++ d'infos ...
+Air Rower Pro - RAMEUR
+EVO
+Résistance magnétique sur 16 niveaux, double ventilateur de 2,8 kg en acier, écran LCD avec 8 programmes, pliable, repose-pieds surdimensionnés, poignées ergonomiques.
+Plus de produits (10 / 14)
+Découvrez quelles parties du corps fait travailler le rameur, comment maigrir grâce aux rameurs et leurs nombreux autres intérêts ci-dessous ou en les essayant dans l’un de nos 110 magasins Fitness Boutique. Livraison rapide et installation à domicile.
+Comment bien choisir son rameur fitness ?
+Acquérir un rameur le plus adapté à vos besoins est indispensable pour en profiter toute l'année. Dans l'un de nos guides d'achats rameur, nous évoquions "comment bien choisir son rameur ?"
+Parmi les principaux critères pour le choix d'un rameur, nous retenons :
+- Système de résistance,
+- Interactivité de la console,
+- Poids de la roue d'inertie,
+- Fréquence d'utilisation,
+- Taille de la machine (longueur du rameur),
+- Poids max utilisateur.
+Vous recherchez un rameur discret ? Pour les petits espaces, l'idéal est d'opter pour un rameur d'appartement. Les rameurs pliables sont une excellente stratégie pour faire du sport sans encombrer son salon. Équipé de roulettes, le rameur d'appartement permet un rangement facile après utilisation.
+Vous recherchez un rameur pour toute la famille ? Un rameur à résistance magnétique offre un excellent rapport qualité / prix. Conçu pour une utilisation régulière, cet appareil de fitness apportera satisfaction à tous les sportifs quel que soit votre budget. Le choix d'un tel rameur s'avère pertinent.
+Vous souhaitez un rameur performant et robuste ? Outre le poids de la roue d'inertie qui doit être important, un rameur avec un système de résistance électromagnétique est conçu pour une utilisation intensive année après année. Silence, fluidité, précision et longévité sont les maîtres mots. Certains modèles possèdent un design unique pour allier beauté et performance.
+Enfin, pour un maximum de sensation, un rameur à eau est parfait. Grâce à une résistance autorégulée, vous aurez l'impression de réaliser des coups de rame sur un plan d'eau.
+Quels muscles travaillent avec le rameur ?
+Quasiment tous les muscles sont sollicités sur cet appareil de fitness. Le mouvement d'aviron, par le biais des coups de rame, aide au renforcement musculaire sur l'ensemble du corps.
+Les abdominaux et les lombaires participent à l'équilibre et à la retransmission des forces entre le bas et le haut du corps. Cette partie des muscles est donc constamment gainée et sous tension.
+Les dorsaux, trapèzes, deltoïdes, biceps et triceps sont sollicités lors de la phase de tirage. En phase concentrique comme excentrique, les quadriceps, ischio-jambiers, fessiers et mollets travailleront efficacement.
+De fait, les muscles du haut du corps et du bas du corps sont mis à l'épreuve lors des coups de rame répétés.
+Enfin, n'oublions pas le myocarde ou muscle cardiaque. A la salle de sport ou à domicile, de nombreux utilisateurs s'orientent vers le rameur afin de gagner en endurance et ainsi développer son endurance cardiovasculaire.
+Est-ce que le rameur fait maigrir ?
+Oui, inévitablement. Le rameur, associé à un mode de vie sain, fait maigrir rapidement et durablement. La raison est simple : on estime une dépense calorique à 600 kcal par heure de pratique. Faire du rameur permet de brûler des calories et ainsi perdre du poids de manière globale sur l'ensemble de la silhouette.
+Les sportifs s'orientant vers une sèche ou un régime ont donc tout intérêt à intégrer le rameur dans leur programme d'entraînement. Pour y arriver :
+1/ Soyez régulier ! Pratiquer le rameur, en moyenne, 3 fois par semaine vous permettra d'identifier des résultats concrets et visibles sur votre silhouette.
+2/ Misez sur l'endurance fondamentale ! Faire du rameur durant 45 min à 60 min à 70 % de sa fréquence cardiaque maximale (Fc max) est une excellente stratégie. Cette intensité permet de brûler efficacement les graisses à l'effort
+3/ Sortez de votre zone de confort ! Intégrez un entraînement HIIT à minima 1 fois par semaine pour casser la routine et se surpasser. Ceci consiste à alterner des efforts courts et intenses suivis d'une récupération incomplète durant 20 min environ. Référez-vous au moniteur de votre rameur à écran LCD pour démarrer cette séance de sport intense mais efficace.
+Quels sont les bienfaits d'un rameur ?
+Le rameur est bénéfique pour tous les sportifs comme les personnes sédentaires souhaitant se remettre au sport.
+Idéal pour en finir avec les douleurs de dos et renforcer ses dorsaux, cet appareil de fitness permet un renforcement musculaire de qualité. Une bonne technique permettra ainsi d'améliorer sa posture.
+De plus, grâce à une haute dépense calorique, le rameur aide à la perte de poids.
+Enfin, au regard du mouvement et de l'intensité déployée, le rameur améliore votre condition physique générale ainsi que votre santé au quotidien.
+Le rameur à tirage central est le plus vendu au monde. Ce type de tirage permet à tous de pratiquer, quel que soit votre taille, votre niveau ou votre budget. Les petits comme les grands gabarits pourront atteindre leurs objectifs. Sa structure permet de viser une perte de poids, une tonification ainsi qu'une amélioration globale de sa condition physique. Il est apprécié pour sa polyvalence.
+D'autres types de tirage comme le rameur latin se rapprochant du mouvement de l'aviron ou le rameur scandinave pour un mouvement entièrement guidé viennent compléter le panel. Ce dernier, utilisé en rééducation, notamment pour le haut du corps est apprécié des personnes âgées.

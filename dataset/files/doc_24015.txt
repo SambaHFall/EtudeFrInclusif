@@ -1,0 +1,114 @@
+15 ans… Le temps passe vite, et cela fait maintenant 15 ans que la quatrième génération de Pokémon est sortie, mais c’est aussi les 25 ans de Pokémon. Premiers opus sortis sur DS, Pokémon Perle et Diamant ont introduit le Pokémon préféré de tout le monde (enfin… surtout chez nous), Tiplouf ! Pour fêter ça, Gamefreak a confié à ILCA, Inc le développement d’un remake. Alors, enfilez vos baskets qui vous font courir le plus vite et préparez votre plus belle Pokémontre : c’est parti pour Pokémon DE/PS !
+Nous utiliserons dans ce test les abréviations des jeux Pokémon suivantes : D/P pour Diamant / Perle | DE/PS pour Diamant Etincelant / Perle Scintillante | E/B pour Epée / Bouclier
+Bienvenue à Sinnoh
+Grand chambardement dans l’univers de Pokémon, vous ne commencez pas dans un bourg ! Votre aventure va alors être radicalement différente… Bon OK, non. Vous avez le choix entre être un homme ou une femme. Plusieurs choix de personnages sont disponibles, mais vous n’aurez pas le droit à une personnalisation unique, juste le choix de personnages pré-proposés. Comme d’habitude, vous aurez le choix de votre nom et de celui de votre Rival.
+Vous allez vous aventurer avec votre ami-rival dans les hautes herbes ; vous vous retrouvez entouré d’Etourmi et vous allez alors piquer un Pokémon dans la mallette du Professeur Sorbier. Au choix : Tortipouss, Ouisticram ou Tiplouf. Forcément, votre ami-rival choisira le type qui est le plus fort contre vous. Quand vous revenez vers votre village, le professeur vous croise et vous demande d’aller à Littorella, ville où se situe son labo, dans lequel il vous confiera le fameux Pokédex. Vous allez alors avoir votre mission la plus importante : capturer tous les Pokémons (ou au moins, les croiser).
+Votre aventure va alors consister à parcourir toute la région de Sinnoh, passer de ville en ville pour découvrir le plus de Pokémons possible, de vaincre les maîtres d’arènes pour obtenir les 8 badges, et vaincre la Ligue Pokémon. Au cours de ce long voyage, vous allez tomber sur la Team Galaxie, qui va vous mettre des bâtons dans les roues, mais une autre histoire sera aussi de la partie : celle de Dialga ou Palkia (en fonction de la version du jeu que vous avez).
+De l’amélioration à la simplification
+Techniquement et sur le papier, Pokémon DE/PS est un remake presque exact des versions Pokémons Diamant et Perle originales. Des changements ont été faits principalement sur l’ergonomie, l’adaptation à la Switch, et surtout, donner un coup de jeune à un jeu qui a 15 ans.
+La Pokémontre, outil marquant de la version DS, utilisait l’écran du bas (tactile). Alors sur Switch c’est problématique ; nous n’avons pas deux écrans, l’outil est donc devenu une petite fenêtre flottante en haut à droite. À l’aide de la touche « L », vous pouvez l’agrandir et le rétrécir, et si vous restez appuyé longtemps sur « L », vous le fermerez. Elle contient plus ou moins les mêmes fonctionnalités qu’avant : voir son équipe, voir le nombre de pas, une calculatrice (nous cherchons toujours, même après 15 ans, son utilité), l’amitié de vos Pokémons, et de nouvelles fonctionnalités qui s’ajouteront avec le temps.
+Rappelez-vous, les CT/CS. Les premières sont les Capsules Techniques à usage unique, et les autres sont des Capsules Secrètes qui sont illimitées à l’utilisation, et surtout qui permettent de débloquer des pouvoirs utilisables en dehors des combats. Un peu comme dans un Metroid, ces techniques vont vous permettre d’avancer et de découvrir de nouvelles zones. Les maîtres d’arènes, qui aimaient vous donner une CT en cas de victoire, vont maintenant vous donner plusieurs exemplaires de ces CT. Mais surtout, les CS n’existent plus, elles deviennent des CT et des fonctionnalités de Pokémontre. Vous n’êtes donc plus obligés d’avoir un Pokémon à CS (adieu Zigzaton).
+Un système de sauvegarde automatique est disponible, très pratique pour les plus jeunes qui oublieraient de sauvegarder régulièrement. Cette option est désactivable, mais elle est activée par défaut. Les chaussures de sport sont aussi de la partie. Là où il fallait rester appuyé sur « B » dans la version précédente, il suffit maintenant de juste se déplacer. C’est un ajout quand même fortement pratique, car personne ne se déplace lentement. Le jeu est d’ailleurs très fluide à ce niveau-là, et nous parcourons l’univers à une vitesse très agréable ; nous n’avons plus cette impression de lenteur.
+La simplification passe aussi par la non-possibilité de se perdre, on s’explique. Auparavant, il fallait être un peu au taquet de l’histoire. Si jamais vous zappiez tous les dialogues, vous auriez pu rater la zone dans laquelle on vous demandait d’aller. Mais maintenant dans le menu (touche « + »), vous allez avoir un message qui vous rappelle ce que vous devez faire, tout comme la carte qui possède un drapeau de l’endroit où vous devez aller.
+Comme toujours, lors de la capture d’un Pokémon, si votre équipe est pleine alors le Pokémon est transféré dans l’ordinateur. Eh bien, cet ordinateur, comme dans E/B, est accessible depuis n’importe où. Plus besoin d’aller faire un tour dans un centre Pokémon, c’est quand même bien pratique !
+Autre point qui peut paraître anecdotique au passage, mais le poison n’inflige plus de dégâts quand nous nous déplaçons hors combats… Nous perdons quand même une fonctionnalité qui donnait un peu de stress.
+De la baston et des souterrains
+Pokémon, c’est de la capture, de la collection, mais surtout de la bagarre ! Les combats sont un élément essentiel au jeu, et des ajouts sont arrivés dans cet opus par rapport à l’original. Depuis quelques années, Pokémon s’est simplifié, ce qui n’est clairement pas pour nous déplaire tant ces ajouts sont pratiques.
+Nous retrouvons l’ajout sur les attaques qui nous indique si notre attaque est efficace, pas efficace, très efficace. Plus besoin de se souvenir de tous les types de tous les Pokémons et de leurs faiblesses/résistances. Alors ce n’est pas non plus extrêmement simplifié, il faut avoir déjà affronté le Pokémon au moins une fois pour que ces indications apparaissent. Il y a la possibilité de savoir à tout moment les dégâts de notre attaque, et les effets associés à tout moment aussi en appuyant sur une touche. Ces informations peuvent apparaître/disparaître à votre volonté.
+Comme précédemment, nous avons la possibilité d’affronter de nouveau certains ennemis, fonction qui se débloque en avançant dans le jeu. Nous avons aussi des matchs à 2v2, il faut alors faire attention aux attaques qui touchent tout le monde.
+L’une des plus grandes simplifications concerne le gain d’XP. Dès le tout début du jeu, vos Pokémons se partagent l’expérience gagnée en combats, ou plutôt, tous gagnent de l’expérience en combats, pas seulement le Pokémon attaquant. Contrairement aux autres jeux de la licence, ce n’est pas un objet « Multi-Exp », c’est une option par défaut et non négociable, nous ne pouvons pas la changer. C’est à la fois positif et négatif ; c’est positif car le farm est toujours un peu ennuyeux dans Pokémon, même si la possibilité de refaire des combats de dresseurs rajoute du confort dans le farm. Négatif, car du coup le jeu perd énormément en difficulté, votre Pokémon attaquant principalement gagne plus d’expérience. Par exemple, à un moment nous avions notre Chimpenfeu niveau 30 et tout le reste de notre équipe autour du niveau 25, quand les adversaires avaient des Pokémons de niveau 15-18. Nous roulons donc assez facilement sur le jeu, nous n’avons par exemple presque jamais eu besoin de changer notre Pokémon de départ en combat et il n’est jamais mort.
+Les souterrains apportent une belle évolution à cette fonctionnalité déjà existante, nous allons pouvoir nous balader comme avant, des zones vont contenir des Pokémons visibles à la manière des terres sauvages, avec certains Pokémon agressifs qui fonceront sur vous s’ils ont le malheur de vous voir. Plein de fonctionnalités sont toujours présentes pour placer des pièges, récupérer des objets, des trésors, créer votre propre base secrète… Mais nous vous laissons le bonheur de découvrir tout ça par vous-mêmes.
+Il ne faut pas oublier le célèbre Concours Pokémon ! Vous allez pouvoir envoyer votre Pokémon favori concourir pour obtenir des médailles, il faut alors bien nourrir votre Pokémon avec des Poffins (des muffins Pokémon quoi). Au menu : choix d’une catégorie, décorations de votre Pokéball à l’aide des sceaux, choix de l’attaque qui impressionnera le jury, et surtout, mini-jeu de rythme pendant lequel il faudra appuyer sur A au bon moment. Bon, c’est finalement assez anecdotique, mais ça a le mérite d’être présent et de rajouter encore du contenu pour tout boucler. Nous aurions quand même souhaité peut-être plusieurs mini-jeux ?
+Visuellement nous sommes sceptiques
+En haut : DE/PS – En bas : E/B
+Le point qui a été le plus décrié lors de l’annonce, c’est la partie graphique de ce jeu. En bon professionnels, nous avons ressorti notre cartouche de Pokémon Diamant et nous nous sommes amusés à rejouer une petite heure. Eh bien, force est de constater qu’il a bien vieilli visuellement. Il est, malheureusement, plus agréable que la nouvelle version, nous allons aller un peu plus loin dans ce jugement.
+Pour commencer, il n’est pas moche, loin de là, le côté chibi n’est finalement pas totalement déconnant avec l’aspect qu’avait le jeu précédemment. C’est vrai qu’avec Épée/Bouclier, nous nous sommes vite habitués à voir notre héros dans un aspect normal, mais cela aurait forcément demandé bien plus de travail, car il n’aurait pas fallu bosser que sur les personnages mais sur la totalité du jeu pour que tout soit maintenant à l’échelle du personnage.
+Cependant, nous regretterons quand même énormément ce flou volontaire qu’ils ont ajouté. Pour donner un effet « profondeur » ils ont abusé dessus, et tout le haut de l’écran est toujours flou sur la bande horizontale. Si dans le déplacement en ville cela n’est pas choquant, dans tout ce qui est grottes ou forêts c’est vraiment dérangeant, comme si nos yeux n’arrivaient pas à faire le point.
+Les modèles 3D sont aussi plutôt faiblards, le jeu reprend certes le moteur d’E/B mais ne récupère pas les modèles exacts. Là où dans E/B nous avions un p’tit effet cel-shading avec des traits noirs assez épais, dans DE/PS nous sommes plutôt sur du modèle 3D très classique et pas forcément hypant. Si nous regardons un peu du côté des flammes, le jeu est vraiment faible, nous avons une tache rouge-jaune-orange en plein visage lors de notre utilisation de Chimpenfeu. Ponyta est aussi assez effrayant. Alors ce n’est pas moche ! Attention ne nous faites pas dire ce que nous ne disons pas, mais c’est moins beau que E/B.
+En combats, c’est pareil, de bonnes et de mauvaises idées. Avez-vous ce souvenir des premiers Pokémons, quand nous lancions un combat, les adversaires arrivaient par translation dans une pose fixe ? Eh bien, ils ont gardé ça… Mais en 3D. C’est très malaisant, et surtout ça choque car dès que vous avez passé le premier dialogue, ils bougent, mais pas depuis leurs positions fixes, du coup ce n’est vraiment pas fluide et ce n’est pas très logique. Cependant, ensuite les dresseurs sont animés, ils vont faire un geste lors du lancement de l’attaque d’un Pokémon. Il faut aussi dire que les animations d’attaques sont cool, mais toujours moins que E/B, surtout si nous attendons un peu lors du choix d’attaque par exemple, il y a la caméra qui se déplace et c’est du plus bel effet.
+Pokémon Diamant Etincelant (Nintendo Switch)
+Pokémon Perle Scintillante (Nintendo Switch)
+Pack Duo Pokémon Diamant Etincelant & Pokémon Perle Scintillante (Nintendo Switch)
+Partager :
+Cliquez pour partager sur Twitter(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur WhatsApp(ouvre dans une nouvelle fenêtre)
+Cliquez pour envoyer par e-mail à un ami(ouvre dans une nouvelle fenêtre)
+Plus
+Cliquez pour partager sur Tumblr(ouvre dans une nouvelle fenêtre)
+Cliquer pour imprimer(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Pocket(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Pinterest(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Telegram(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Skype(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur Reddit(ouvre dans une nouvelle fenêtre)
+Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+Conclusion
+Vous l’aurez compris, Pokémon Diamant Étincelant et Perle Scintillante se destinent surtout aux nouveaux joueurs de Pokémon. Plus modernes, moins contraignants, plus accessibles et simples, ils continuent de suivre leurs visions. ILCA a fait un beau travail, nous regrettererons juste que le jeu soit moins propre et fin que E/B qui du coup sont sortis avant. En dehors de ce parti pris graphique, nous retrouvons toute l’aventure d’origine avec des améliorations à droite et à gauche, comme le souterrain et le concours, qui sont encore plus intéressantes qu’avant. Jusqu’à aujourd’hui, nous avions tendance à conseiller Let’s Go pour commencer l’aventure Pokémon, mais DE/PS, eux, volent sa place et permettent vraiment à des jeunes joueurs de rentrer dans la licence facilement et sans soucis.	
+Points positifs
+Un Pokémon très accessible et simplifié…
+Une refonte visuelle de qualité…
+Des améliorations un peu partout qui, pour la plupart, ne dénaturent pas le jeu…
+Fluide et rapide dans ses déplacements
+Tiplouf
+Points négatifs
+… Mais peut-être un peu trop pour les fans de longue date.
+… Mais qui aurait peut-être dû piocher un peu plus du côté de Épée/Bouclier.
+… Sauf peut être le multi-exp par défaut non désactivable.
+Ce flou imposé en haut d’écran
+Tiplouf
+8.8	
+Génial
+Graphismes - 8
+Gameplay - 10
+Musiques - 10
+Intérêt du Remake - 7
+Ecrit par
+Lordo
+Fan de comics et de jeux vidéos, j'aime partager mon avis et débattre autours de mes deux passions.	
+5 commentaires
+jujugoffer	 17 novembre 2021, 15 h 45 min	
+La réf a Léa mdr 😉
+Répondre
+Dante_durden	 17 novembre 2021, 18 h 24 min	
+Tiplouf a encore frappé
+Répondre
+Atooh	 18 novembre 2021, 22 h 02 min	
+Je me permets de vous corriger au lieu de E/B il faudrait écrire D/P non ?
+Je ne comprends pas pourquoi vous notez le jeu 8.8 alors que l’article nous laisse penser que ce jeu ne vaut pas le coup.
+Répondre
+fire_akuma	 19 novembre 2021, 10 h 44 min	
+E/B = Epee / Bouclier
+D/P = Diamant / Perle
+Répondre
+Lordo	 19 novembre 2021, 10 h 59 min	
+C’est bien ça E/B = Épée / Bouclier, DE/PS = Diamant Etincelant / Perle scintillante, D/P = Diamant / Perle.
+Le jeu vaut le coup, pour de nouveaux joueurs et les fans de Pokémon, ceux qui aiment juste faire les histoires et qui ont déjà fait D/P n’auront pas de réelle nouveauté qui mérite l’achat. Le jeu a été noté en fonction du jeu en lui-même, donc de sa valeur en tant que jeu, pas en tant que remake.
+Le test en revanche, reviens sur les points de ce remake pour que ceux qui ont déjà fait les jeux sachent à l’avance dans quoi il se lance, tout en essayant de ne pas spoiler et essayer d’être le plus exhaustif sur ce qu’apporte ce jeu.
+Si vous préféré pour résumé vous avez la conclusion, pour un nouveau joueur de Pokémon, pour une personne qui n’a jamais fait Diamant ou Perle il y a 15 ans, c’est toujours (comme à l’époque) un très bon jeu, modernisé certes mais toujours un très bon jeu. Si vous avez déjà saigné les jeux il y a 15 ans il n’apporte pas de réelle nouveauté en dehors de la nostalgie.
+Répondre
+Poster un commentaire Cancel Reply
+Your email address will not be published. Required fields are marked *
+Commentaire *
+You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong>
+Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour mon prochain commentaire.
+Prévenez-moi de tous les nouveaux commentaires par e-mail.
+Prévenez-moi de tous les nouveaux articles par e-mail.
+Δ
+Copyright Nintendo-Town.fr pour des siècles et des siècles
+L’équipe
+Contact
+Boutique
+N'hésitez pas à visitez le site de notre partenaire Eneba
+Abonnez-vous à Nintendo-Town par e-mail.
+Saisissez votre adresse e-mail pour vous abonner à Nintendo-Town et recevoir une notification de chaque nouvel article par email.
+Rejoignez les 11 671 autres abonnés	
+Adresse e-mail
+Abonnez-vous
+Nintendo-Town
+Suivre @nintendotown
+Se connecter
+Se souvenir de moi
+Créer un compte Mot de passe perdu
+Mot de passe perdu
+Please enter your username or email address. You will receive a link to create a new password via email.

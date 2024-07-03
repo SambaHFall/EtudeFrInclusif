@@ -157,19 +157,23 @@ def detect_fem(wd : str):
 tokens : a list of Tokens (from a spacy model)
 output : a boolean indicating whether tks contains a coordination process
 """
-def detect_coord(tks):
-	for i in range(0, len(tks)):
-		for j in range(i+1, len(tks)):
+def detect_coord(tks, start, end):
+	for i in range(start, end):
+		for j in range(i+1, end):
 			itk = tks[i]
 			jtk = tks[j]
-			remain = [tks[k] for k in range(0, len(tks)) if k not in [i,j] ]
+			remain = [tks[k] for k in range(start, end) if k not in [i,j] ]
 			if 'CCONJ' in [item.pos_ for item in remain] or 'PUNCT' in [item.pos_ for item in remain]:
 				tA = unicoordrulesregex.match(itk.text + jtk.text)
 				if tA is not None:
-					return Ann(itk.idx, jtk.idx + len(jtk.text), metadata={"category" : ["coo"]} )
+					k = min(max(0, i - (j-i-1-1)),i)
+					ktk = tks[k]
+					return Ann(ktk.idx, jtk.idx + len(jtk.text), text=tks[ktk.idx : jtk.idx + len(jtk.text)] ,metadata={"category" : ["coo"]} )
 				tB = unicoordrulesregex.match(jtk.text + itk.text)
 				if tB is not None:
-					return Ann(itk.idx, jtk.idx + len(jtk.text), metadata={"category" : ["coo"]})
+					k = min(max(0, i - (j-i-1-1)),i)
+					ktk = tks[k]
+					return Ann(ktk.idx, jtk.idx + len(jtk.text), text=tks[ktk.idx : jtk.idx + len(jtk.text)] , metadata={"category" : ["coo"]} )
 	return None
 
 """
@@ -181,9 +185,9 @@ output : a list of Ann (annotations in the document)
 def detect_inc(doc, coord_range=4, proc=['fle', 'neu', 'fem', 'epi', 'coo']):
 	res = []
 	if 'coo' in proc :
-		tks_grps = group([tk for tk in doc], coord_range)
-		for gr in tks_grps:
-			tmp = detect_coord(gr)
+		ind_grps = group(list( range(0, len(doc)) ), coord_range)
+		for gr in ind_grps:
+			tmp = detect_coord(doc, gr[0], gr[-1] + 1)
 			if tmp is not None :
 				res.append([tmp])
 	for tk in doc :

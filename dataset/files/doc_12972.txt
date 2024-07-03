@@ -1,0 +1,125 @@
+Idée: un réseau-social consommateurs de comparaison des prix alimentaires des supermarchés - Un article de Do you miaouw ? Labs
+Do you miaouw ? Labs beta
+Laboratoire d’idées
+à...
+partager,
+critiquer,
+expérimenter.
+Accueil |
+Partager une idée |
+Labo |
+Tags |
+Archives |
+Liens à voir |
+Flux |
+A propos
+« Mise à jour de mYLastRSS pour les serveurs trés sollicités
+Fermeture prochaine de ce blog »
+Idée: un réseau-social consommateurs de comparaison des prix alimentaires des supermarchés
+Le domaine des cybermarchés explose, et les groupes de supermarchés s’y consacre. D’un autre coté les moteurs de comparaison de prix font l’impasse des produits alimentaires autant pour les cybermarchés que pour les supermarchés “classiques”…
+PREAMBULE:
+Je fréquente 3-4 supermarchés (ou superettes). Et depuis quelques mois je note dans un fichier les prix des produits alimentaires (de marque ou en commun) que j’achète fréquemment. Le but étant de savoir lequel de ces magasins les propose au meilleur prix, et d’observer les tendances à la hausse ou à la baisse.
+C’est relativement facile de faire la comparaison pour des produits de “marques”. Et, on peut le faire également pour des produits classiques au label du supermarché qui sont très souvent issus du même fabriquant (c’est flagrant dans les détails de l’étiquette) même quand ce n’est pas le même groupe (notamment par rapport aux hard-discount).
+Par contre, le plus dur est de se souvenir de ces informations au moment de faire ses courses dans l’un de mes supermarchés (ou supérettes) préférés…
+La comparaison de prix de l’alimentaire est-elle “réellement” difficile ?
+Enfin, j’ai remarqué que les prix changent rarement. Ce qui exclue que se soit une difficulté technique que les moteurs de comparaison incluent le domaine de l’alimentaire. Alors, pourquoi Kelkoo & Co ne proposent pas ce service aux consommateurs au moins pour les cybermarchés ? N’y aurait-il pas une collusion (voir même des pressions) entre les groupes pour ne pas se mettre en concurrence avec transparence ?
+Les consommateurs devront faire le premier pas !
+Mon point de vue est que il faudra que ce soit les consommateurs (et les associations de défense des consommateurs) qui devront faire le premier pas pour obtenir une mise en concurrence “transparente” de la consommation alimentaire. D’autant que les consommateurs commencent à se préoccuper et à surveiller les abus de “marges” entre producteurs et distributeurs.
+Concept du portail consommateurs de comparaison des prix alimentaires :
+Ce sont les internautes qui indiqueront les supermarchés, produits, et prix qu’ils auront eux-même constaté.
+Les supermarchés seront indexés individuellement. Les produits et leurs prix seront associés à ceux-ci. Pas de tarification nationale tous magasins confondus.
+Les prix sont associés aux internautes qui l’auront indiqués, et avec un historique daté de leurs modifications.
+L’internaute pourra préciser si le prix qu’il indique a fait l’objet d’une réduction (notamment une promotion).
+Les gérants du portail pourront attribués des statuts “consommateurs de confiance” pour mettre en évidence les internautes qui indiquent les prix avec sérieux. Et on peut envisager un statut particulier si des responsables de supermarchés participent.
+Surtout, je pense que les internautes - joueront le jeu - grâce et à cause des services qui pourraient leur être offerts ;
+Retrouver sur son PC ou son téléphone mobile la liste des prix que l’internaute avait saisi pour l’un de ses supermarchés en comparant avec les prix des autres supermarchés. Pour établir une liste blanche (ou noire) des produits à acheter (ou pas) dans le supermarché où il se trouverait.
+Trouver depuis un PC ou mobile, en complétant avec les autres internautes, le meilleur prix pour un produit selon la liste de supermarchés qu’il aura choisi.
+Enfin, en renseignant un panier d’achats habituels, lui indiquer le supermarché où il aura la meilleure facture globale.
+Pour inciter l’internaute à - jouer le jeu -, le portail utiliserait toujours les prix que l’internaute a saisi lui-même avant d’essayer de compléter avec ceux des autres internautes. Et, il est indispensable qu’un tel portail soit disponible sur un téléphone mobile pour que les internautes y trouvent un intérêt concret au moment de leurs achats.
+En conclusion, même si je pense que un tel projet pourrait se contenter uniquement de la participation des internautes, il devrait rester ouvert à une participation officielle des supermarchés qui pourraient justement contribuer au modèle économique du portail via une régie publicitaire taillée sur-mesure pour leur permettre d’annoncer leurs promotions ou nouveautés avec un ciblage “anonyme”* très pertinent (du fait que le site connaitra les habitudes alimentaires des internautes).
+(*) l’annonceur ignorerait l’identité des internautes ciblés.
+Article publié par Olivier D. alias ze kat le Dimanche 12 juillet 2009 à 14:17. Cet article est classé dans Idées, Gastronomie, Mobiles, Vie quotidienne, WAP / XHTML MP, Téléphones, Moteurs de recherche, Réseau social, Kelkoo. Vous pouvez suivre les commentaires reçues par cet article grâce au flux . Vous pouvez laisser un commentaire, ou faire un trackback depuis votre site.
+8 commentaires à “Idée: un réseau-social consommateurs de comparaison des prix alimentaires des supermarchés”
+kjrprod a dit :
+Le Dimanche 19 juillet 2009 à 10:14
+Bonjour Olivier,
+Coïncidence heureuse… je suis depuis quelques semaines en train de développer un site très similaire à vos propos de cet article exclusivement orienté vers les produits de consommation courante que l’on trouve dans les supermarchés. Les prix des pâtes, riz, lessive, coca, sucre… peuvent désormais être comparés dans les magasins du choix de l’internaute.
+www.prixing.fr
+Si le coeur vous en dit, faites moi part de vos commentaires.
+Cordialement
+kjrprod a dit :
+Le Mardi 21 juillet 2009 à 10:28
+Bonjour,
+J’ai reçu dernièrement un message d’un internaute m’indiquant qu’il n’était pas parvenu à s’inscrire sur mon site www.prixing.fr
+Suite à une erreur dans mon code (réglé dès à présent) je n’ai pas recu son adresse email de contact pour lui répondre.
+J’ose croire qu’il s’agit de vous, et si tel est le cas, je vous invite à me contacter à nouveau via http://www.prixing.fr/contact.php3
+Bien cordialement
+Olivier D. alias ze kat a dit :
+Le Mercredi 22 juillet 2009 à 0:15
+Heu, désolé, bien que j’ai rapidement jeté un coup d’oeil, je n’ai pas pris le temps d’essayer de m’inscrire.
+Perso, j’trouve que la comparaison de prix devrait être affichée sans qu’il soit nécessaire de s’inscrire. Faute de quoi, le site ne donnerait pas de raison de revenir le voir…
+En effet, un internaute s’inscrit rarement dés la première visite surtout si il connait pas ;o)
+Fanfreluche a dit :
+Le Vendredi 7 août 2009 à 18:48
+J’ai découvert récemment un comparateur de prix alimentaire collaboratif, qui répond à peu près aux exigences énoncées dans votre article: http://achetons-malin.com/
+Je l’utilise un peu, et je trouve qu’il est assez facile d’utilisation et assez clair. Dommage que la communauté ne soit pas encore très développée, voire inexistante. Il faudrait booster un peu tout ça.
+Néanmoins, si vous-même ajoutez les prix que vous relevez de temps en temps, ça pourrait y mettre un peu de peps ? :)
+J’ai aussi testé prixing.fr, mais je trouve dommage qu’on soit limité à 4 magasins et qu’il n’y ait pas de comparaison locale avec une carte comme sur achetons-malin.
+Un 3eme comparateur à mentionner: http://ouclemoinscher.com/. Pareil, je préfère achetons-malin, plus ergonomique.
+Marché Provençal a dit :
+Le Jeudi 10 septembre 2009 à 18:01
+Bonjour,pour ce qui ça interesse j’ai découvert la naissance d’une enseigne Marché Provençal pour vos courses en ligne,la livraison est gratuite et la qualitée des produits frais est exceptionnelle et compléte,les rayons ne sont pas complets mais celà arrivent.J’ai récupérer un bon d’achat N°: 13160 a mettre lors de l’achat d’une valeur de 5 Euro Cette enseigne a du mérite par la qualitée des ses services.Le site est agréable et pratique.http://www.livraison-des-courses.fr/
+Traiteur Reception a dit :
+Le Mardi 19 octobre 2010 à 19:35
+Comparez votre traiteur pour l’organisation de votre reception et découvrez tout ce dont il faut pour organiser un buffet froid,un menu,un cocktail à un prix trés compétitif
+CoursesPasCher.com a dit :
+Le Mardi 24 janvier 2012 à 5:58
+Bonjour,
+CoursesPasCher.com a lancé un comparateur de prix alimentaire indépendant, qui permet de comparer en temps réel le prix des produits et de vos paniers dans les supermarchés; ce qui correspond avos problematiques:
+http://www.coursespascher.com
+Les courses livrées à domicile présentent de nombreux avantages :
+- les prix des produits ainsi que les offres commerciales sont les mêmes qu’en magasin ;
+- il est possible de se faire livrer le jour même ou le lendemain ;
+- les plages horaires s’étalent de tôt le matin à tard le soir ;
+- les politiques de substitution sont personnalisables ;
+- le nombre de portions de fruit et légumes présentes dans le panier virtuel est indiqué. Or, c’est bien au moment de faire ses courses qu’il faut veiller à son équilibre alimentaire ;
+- les offres commerciales sont beaucoup plus nombreuses et importantes. - des produits équivalents mais moins chers sont proposés au consommateur ;
+- le catalgoue produit des supermarchés en ligne est inclus dans le comparateur.
+Plus vous comparez, plus vous economisez: www.coursespascher.com
+Webmaster a dit :
+Le Mercredi 25 janvier 2012 à 12:47
+En ces temps de crise, la stricte comparaison de prix n’est pas l’unique priorité…
+Exemple:
+Si au Carrefour de Anzin, où je vais le plus souvent, les prix sont plus bas que au Match de Valenciennes, dans ce dernier on trouve des produits régionaux de France ou étrangers (Italie, Pologne, Asie, Maghreb, etc), et le Carrefour Market est le seul à proposer des pots de glaces délicieuses (et moins chers que HaagenDass). Enfin le Marché Plus de St-Amand propose souvent des grosses promos pour produits bientôt périmés, ce qui incite à s’y rendre.
+Tous les comparateurs comparent uniquement les produits basiques et nationaux ou internationaux. Cà peut servir à trouver l’enseigne la moins chers globalement, mais ça n’aide pas au - niveau local et hyperlocal - à trouver des produits rares ou des promos.
+Laisser un commentaire
+Vous devez être connecté pour laisser un commentaire.
+Tags des articles
+Conseils Développement Web Idées Internet LiFE-LiNE Lifestream Mobiles RSS Suggestions Vie quotidienne Yahoo!
+Articles connexes
+Quelle sera la vocation du réseau miaouw.net ?!
+J'ai créé cet espace pour héberger quelques pro...
+Quelques idées en vrac ; social-scoring, RSS daily-digest, formulaires sérialisés… Votez !
+Je suis un peu trop occupé pour rédiger des arti...
+Mon frigo a dit : ” vous devriez manger du saumon avec du riz thaï “… (ou le RFID au service du consommateur)
+Derrière ce monologue, - à la Kubrick -, se cach...
+Archives des articles
+février 2015
+juillet 2009
+juin 2009
+janvier 2009
+août 2008
+juin 2008
+Enregistrer cette page dans
+del.icio.us
+Yahoo! Mon Web / Favoris
+Citer cette page avec
+Yahoo! 360°
+Méta
+Connexion
+Valid XHTML valide
+XFN
+WordPress
+WordPress France
+Articles et commentaires
+Sauf mentions contraires, les idées, concepts, et ressources (textes, images, sources) proposées sur ce site sont la propriété de leurs auteur respectif. Tous droits réservés.	

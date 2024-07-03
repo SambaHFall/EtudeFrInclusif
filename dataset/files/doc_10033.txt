@@ -1,0 +1,242 @@
+Vous souhaitez réagir à ce message ? Créez un compte en quelques clics ou connectez-vous pour continuer.
+Forum Renault 5 Turbo
+Le forum de la renault 5 turbo
+-21%
+Le deal à ne pas rater :
+Console Nintendo Switch + Mario Kart 8 Deluxe + Abonnement 3 mois ...
+267 € 337 €
+Voir le deal
+Forum Renault 5 Turbo :: Renault 5 Turbo :: Discussion
+Carter sec
++5
+jean-philippe
+frt concept
+YannGTT
+le quinquin63
+franki
+9 participants
+Aller à la page : 1, 2
+Auteur
+Message
+franki
+Maitre Yoda
+Sujet: Carter sec Mar 21 Juil - 18:59
+Bon voila cela me trotte derrière la tête depuis une bonne dizaine d années refaire un montage carter sec
+mais voila rien a vendre en neuf comme occas et pas de cotes
+alors je lance un appelle a qui aurais un modèle pour numérisé ou prendre les cotes pour en refaire certainement en mécano soudé car je n ai pas 8000€ a mettre la dedans
+amis tubistes bonne soirée
+Dernière édition par franki le Jeu 30 Juil - 8:17, édité 1 fois
+J'aime
+Je n'aime pas
+le quinquin63
+Membre d'Or
+Sujet: Re: Carter sec Mar 21 Juil - 19:56
+Franki si j'avais ces pièces je te les aurais passer sans soucis , mais la pas sa sous la main !!!!!
+Q1Q1
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Mar 21 Juil - 23:09
+Je suis entrain de voir aussi Franki. Greg73 a tous sa Jattend qu'il rentre de Vacances pour recup les brides et les plans
+Par contre jai regardé sur les diverse MR et NT mais pas facile d'avoir un schema clair du circuit d'huile . Et pour le choix de la pompe pareil la je nage .
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Mer 22 Juil - 9:25
+la pompe est DC2000 3 étages 2X 0.68 en aspi et 1.10 en refoulement Hp de chez prace products
+a environ 800€ le morceau pour 13L / 1000 tours /mn
+pour le schémas de raccordement simple regarde le PR de la TDC planche 022 dans les docs d forum
+deux sortie carter une avant une arrière direction les deux pompes d asséchement sortie vers radiateur après direction bâche a huile et en bas de la bâche retour pompe Haute pression et une fois en HP direction le bloc moteur .
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Mer 22 Juil - 15:19
+Impec ! merci
+Donc pompe CD2000 chez PACE product 552Livres sterling en 3 etage .
+par contre jai pas trouver en 2*0.68 et 1*1.10.
+Bon faudra que je regarde un truc primordial c'est la place que jai derriere le bloc entre bloc et longeron car sa passe fin ....
+Tu aurais la largeur de la poulie sur la pompe a tout hazard ? Merci
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Mer 22 Juil - 17:11
+15 mm suffit la chose a savoir c est le ratio vilo pompe qui est sensiblement celui de la distribution
+je vous laisse chercher un peu .
+J'aime
+Je n'aime pas
+frt concept
+Habitué Turbistes
+Sujet: Re: Carter sec Mer 22 Juil - 21:20
+lol
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Jeu 23 Juil - 14:22
+donc 2 tour vilo pour 1 tour de pompe?
+J'aime
+Je n'aime pas
+frt concept
+Habitué Turbistes
+Sujet: Re: Carter sec Jeu 23 Juil - 14:59
+oui, comme à l'origine
+J'aime
+Je n'aime pas
+jean-philippe
+Pilotes turbistes
+Sujet: Re: Carter sec Jeu 23 Juil - 17:10
+merde Franki, il y a 3 mois, j'avais tout ça en pièces détachées sur l'établi....
+jp
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Jeu 23 Juil - 17:24
+et bah oui comme comme quoi la nécessité provoque l envie
+a force de voir des pièces comme les tiennent au bout d un moment et bein on craque !!!
+je dirais donc a mon épouse que c est de ta faute si je craque Nah ..........
+trêve de plaisanterie il y a du monde qui aimerais passé a cette modif afin de fiabilisé la mécanique , qui devient rare et cher
+quant tu investis 5 voir 9000 € dans un moteur et les périphériques et le cassé pour un dé jaugeage cela fait mal au coeur ...
+J ai pris le contre peid en disant pendant 20 ans il n y en pas besoin , mais avec le retour d'expérience et comparaison c est un vrai gage de fiabilité .
+comme quoi il n y a que les imbéciles qui ne change pas d avis
+a tout ce que nous sommes il doit bien y avoir moyen de trouvé une solution tout de même.
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Jeu 23 Juil - 17:57
+Entre les chaudronniers et les usineurs présents si on y arrive pas c'est de la mauvaise volonté
+Donc pour la saison 2016 si jai tout suivi la Yoda mobile pourrai recevoir un 1600 en carter sec et injection électronique Tu compte imprimer le dossier photo de Jean-Philippe pour arrondir les angles avec la patronne
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Ven 24 Juil - 15:37
+D'origine sur les grosses TC et les MAXI l'entrainement de la pompe se faisait par chaine avec un pignon double en bout de vilo ( surement le meme que les 5 AT ).
+Du coup je parlé de courroie mais finalement la chaine est mieu non ?
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Ven 24 Juil - 16:22
+oui !!!!!!! plus sur et plus petit
+J'aime
+Je n'aime pas
+jean-philippe
+Pilotes turbistes
+Sujet: Re: Carter sec Ven 24 Juil - 17:54
+c'est impensable de faire faire un moule des 2 carters et une petite série de 10 ou 20 ?
+je verrai bien turboman1397 dans ce genre d'aventure...moi je dis ça, je dis rien
+Maintenant avec un scan 3D, ça ne doit pas être si cher de faire un moule...personne ne connait un gars qui sait faire ça ?
+Au salon de l'aéronautique de Paris, j'ai vu voici 2 ans, un scanner qui numérise une hélice, le programme est envoyé à une imprimante 3d qui peux faire au choix la reproduction de l'hélice ou le moule en plusieurs parties à assembler, le tout grace à une fraise ronde qui tourne au bout d'un bras de robot...et une hélice, c'est sacrément plus compliqué que nos 2 carters !!
+jp
+J'aime
+Je n'aime pas
+Turboman1397
+Pilotes turbistes
+Sujet: Re: Carter sec Sam 25 Juil - 1:43
+Bonsoir à tous,
+Jean-Philippe, on dirait que tu es omniscient... ou alors c'est qu'on a dû en parler au téléphone!! Bref, les gars, ne soyez pas trop pressés, mes journées ne font que 24 heures (comme les vôtres, je suppose??!!... ou alors, on m'aurait menti!! )... mais je suis sur le coup. J'ai les originaux Renault Sport (carter sec, carter de distribution, entretoise porte-pompe à huile, plénum, boîtier-papillon, bâche à huile TDC, bâche à huile Maxi et pis, je crois que c'est tout, mais c'est déjà un bon début!!), le scanner 3D... mais encore une fois, c'est le temps qui me manque un peu. Avec Franki, on vous en dira un peu plus d'ici quelque temps j'espère. En fait, ce qu'il faut que vous reteniez, c'est que, on peut aller plus vite en faisant tout faire, mais le prix ne sera plus le même (surtout lorsqu'il s'agit d’ingénierie), et je sais que comme chacun d'entre nous, vous n'êtes pas prêts à mettre une fortune dans ce genre de montage, qui aura de toute façon un certain prix. Tiens, encore une petite confidence, on bosse actuellement sur deux culbuteurs de Maxi (spécifiques) qui sont déjà scannés et en reconstruction 3D, mais là aussi, ça ne se fait pas en un claquement de doigt. Bon, je ne vous en dis pas plus sinon, vous allez me harceler!
+Cordialement,
+Turboman1397
+J'aime
+Je n'aime pas
+jean-philippe
+Pilotes turbistes
+Sujet: Re: Carter sec Sam 25 Juil - 9:52
+ah, je me disais...
+nous n'en n'avons pas parlé Lionel, mais je me doute bien que cela titille ton esprit vu que l'ensemble carter sec est
+1) indispensable pour aller chercher des chevaux fiables (et vu le manque de pièce avec le temps qui passe...)
+2) finalement difficile à reproduire surtout à moindre coût
+j'ai en projet l'intention de monter un gros tour TDC et je ne bute que sur le carter sec...
+jp
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Sam 25 Juil - 10:42
+Comme je le disais a Lionel pour ma part je bosse chez Phenix system filiale de 3D System.
+Nous fabriquons les imprimante 3D qui realisent les pièces en métal ( alu , inox titane, cobalt etc...).
+Cela n'est d'ailleur pas vraiment de l'impression mais du fritage lazer.
+Avec une tel machine il n'y a quasi aucunes limites en terme de fabrication si ce n'est la dimension des pieces qui reste contenu pour le moment . Mais niveau complexité de forme la c'est zero limite! J'ai recemment eu a réaliser pour un client une piece assez singulière > un coeur humain . Tout absolument tout les element du coeur sont ressorti et cela reste vraiment impressionant . On fais beaucoup de pieces comme des roue de turbine ou protese de chirurgie etc....
+Il suffit d'avoir un model numérique 3D de la pièce pour lance une fabrication. Et c'est sur cette étape complexe et couteuse que se demene Lionel actuellement . J'essaie de voir de mon coté au boulot avec les ingé mais leurs temps libre et assez restreint...
+Apres la fabrication des carter en fritage lazer meme si c'est facilement faisable ne serai pas la solution a retenir pour une raison simple , le temp de realisation d'une pièce est extrement long a raison de couche de 3/100 d'epaisseur a chaque passe du lazer je vous laisse le calcul sur la hauteur d'un carter ...
+Cette technologie est vraiment destiné au prototypage meme si on devellope sans cesse le procédé pour gagner en temp de fab.
+Je reste convaincu que le moin couteux sera la fonderie du moment qu'on arrive a bloquer un nombre de piece minimum ( 20/30 je pense serai pas mal mais sa c'est le domaine de Lionel )
+Après les faire en usinage dans la masse comme 3S faudrai voir mais ya interet de trouver un usineur tres tres compréhensif Ceci dis sur une petite série de 5 a 10 pièces cela serai moin cher qu'une fonderie je pense.
+J'aime
+Je n'aime pas
+jean-philippe
+Pilotes turbistes
+Sujet: Re: Carter sec Sam 25 Juil - 18:23
+pour le look final, il n'y a pas photo, la fonderie l'emporte...
+mais je suis aussi partant pour un usinage dans la masse
+dans quelques temps, yangtt, on pourra peut-être fritter une r5t complète ou à monter soi-même en fonction de ce que veut le client...ok,
+jp
+J'aime
+Je n'aime pas
+nartai21
+Turbistes
+Sujet: Re: Carter sec Dim 26 Juil - 18:44
+pour la fonderie il y en a une du cote de dijon le boss est sympa j'ai projet de refaire des portes moyeux de monoplaces il ma dit qu'avec une pièce existante faire un moule n’était pas compliqué il travaille pour alpine signatec gage qu'il sait de quoi il parle ,donc messieurs si je peux rendre service ....
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Lun 27 Juil - 8:36
+Turboman1397 a écrit:
+Bonsoir à tous,
+Jean-Philippe, on dirait que tu es omniscient... ou alors c'est qu'on a dû en parler au téléphone!! Bref, les gars, ne soyez pas trop pressés, mes journées ne font que 24 heures (comme les vôtres, je suppose??!!... ou alors, on m'aurait menti!! )... mais je suis sur le coup. J'ai les originaux Renault Sport (carter sec, carter de distribution, entretoise porte-pompe à huile, plénum, boîtier-papillon, bâche à huile TDC, bâche à huile Maxi et pis, je crois que c'est tout, mais c'est déjà un bon début!!), le scanner 3D... mais encore une fois, c'est le temps qui me manque un peu. Avec Franki, on vous en dira un peu plus d'ici quelque temps j'espère. En fait, ce qu'il faut que vous reteniez, c'est que, on peut aller plus vite en faisant tout faire, mais le prix ne sera plus le même (surtout lorsqu'il s'agit d’ingénierie), et je sais que comme chacun d'entre nous, vous n'êtes pas prêts à mettre une fortune dans ce genre de montage, qui aura de toute façon un certain prix. Tiens, encore une petite confidence, on bosse actuellement sur deux culbuteurs de Maxi (spécifiques) qui sont déjà scannés et en reconstruction 3D, mais là aussi, ça ne se fait pas en un claquement de doigt. Bon, je ne vous en dis pas plus sinon, vous allez me harceler!
+Cordialement,
+Turboman1397
+Moi j ai rien dit a personne parce que je suis comme st THOMAS je crois se que je vois ,quant une pièce sort de la machine et conforme .... la encore
+d’abord il faut ,s’instruire http://www.aviaid.com/ ou http://www.paceproducts.co.uk/pumps-and-dry-sumps/standard-pumps/cd-2000-pumps
+http://www.paceproducts.co.uk/download.php/CD2000%203%20Stage%20(PDF)
+perso l entrée pression sur le carter Renault bof je suis plus sur une entrée filtre a huile déporté et bouchage du bloc en bas ....
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Lun 27 Juil - 22:22
+En discutant avec un collegue qui a voulu posé un F7R à carter sec dans son GTT il m'a expliqué que la pompe ne passer pas a cause du cardan... En regardant les photos effectivement je pense que en l'etat j'aurais le meme probleme.
+Ma question > est ce que cela pose un probleme si je change la position de la pompe sur la plaque afin quelle soit plus haute ( dans la limite de la proximité avec le collecteur echappement bien sur ) ?
+Ou faut il absolument que la pompe soit a hauteur du carter pour avoir un bonne aspiration ? Au quel cas je suis dans un mur
+J'aime
+Je n'aime pas
+1600 ti
+Membre de Bronze
+Sujet: Re: Carter sec Lun 27 Juil - 22:55
+j'en avais monté un sur une donkervoort et dans mes souvenirs la pompe n'était pas si basse.
+J'aime
+Je n'aime pas
+YannGTT
+Super pilotes Turbistes
+Sujet: Re: Carter sec Lun 27 Juil - 23:41
+En refléchissant je pense pas que cela pose un soucis quelle soit plus haute .Si on regarde un montage de Direction assisté a pompe electrique on peu posé la pompe n'importe ou du moment quelle est plus basse que son reseervoir huile.
+J'aime
+Je n'aime pas
+franki
+Maitre Yoda
+Sujet: Re: Carter sec Mar 28 Juil - 7:57
+non pas de soucis
+J'aime
+Je n'aime pas
+Contenu sponsorisé
+Sujet: Re: Carter sec
+Carter sec
+Page 1 sur 2 Aller à la page : 1, 2
+Sujets similaires
+Sujets similaires
+» bouché une micro fissure dans un carter en magnésium
+» Joint de carter gauche qui pisse....
+» Cymbidium Maureen Carter 'China's Dragon'
+» joint du carter stator
+» Amélioration d'un carter de toupie Felder !!
+Permission de ce forum: Vous ne pouvez pas répondre aux sujets dans ce forum
+Forum Renault 5 Turbo :: Renault 5 Turbo :: Discussion
+Forum Renault 5 Turbo :: Renault 5 Turbo :: Discussion
+Sauter vers: Sélectionner un forum||--Infos| |--Réglement| |--Nous, nos autos, notre passion.....| |--La Présentation des membres du forum| |--La Présentation-Restauration-Rénovation etc... de Renault 5 Turbo| |--La Présentation-Restauration-Rénovation etc... de vos sportives| |--Renault 5 Turbo| |--Discussion| |--Documentation| |--Liens| |--Photos| |--Vidéos| |--Miniatures| |--Divers| |--Bistrot| |--Les Autres sportives| |--Vidéos autos diverses| |--Humour| |--Rassemblements| |--Agenda Turbistes| |--Techniques| |--Comment ça marche ?| |--Entretien courant| |--Astuces| |--Carrosserie, Peinture et Démontage de Pièces| |--"L'ATELIER" mécanique ou électrique| | |--MOTEUR| | | |--culasse| | | |--bas moteur| | | |--turbo| | | |--refroidissement| | | |--lubrification| | | | | |--EMBRAYAGE| | |--INJECTION| | | |--materiels bosch| | | |--reglages| | | | | |--ELECTRIQUE| | | |--allumage| | | |--demarreur| | | |--alternateur| | | |--faisceau+relais| | | | | |--TRAIN ROULANT et FREINAGE| | |--freinage| | |--suspension| | |--train roulant| | | |--Manuels de réparation + Manuels de Piéces de Rechange| |--Annonces| |--Petites annonces R5 Turbo PIECES DETACHEES| |--Petites annonces diverses| |--Vehicules, pieces auto| |--Autres| |--Miniatures| |--Aides problèmes| |--Partenariat| | |--Mes pièces Auto| | |--3S Développement| | |--Garat Motorisation Sportive| | |--Mecaparts| | |--Oscaro| | |--Club Renault-5.net| | | |--Problémes liés au forum| |--Aides & Infos| |--Suggestions| |--Poubelle |--Poubelle

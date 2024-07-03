@@ -1,0 +1,17 @@
+Avec plus de 15 ans d'expérience sur les progiciels et outils de comptabilité, ASP Sourcing propose une solution 100% dédiée aux cabinets d'expertise comptable, de commissariat aux comptes et d'audit.
+La mise à disposition des applications la plus rapide, quel que soit l'utilisateur et l'endroit où il se trouve. Le standard de facto de la mise à disposition des applications Windows partout, au moindre coût. Une protection renforcée des données sensibles. D'excellentes performances quelle que soit la connexion utilisée, réseau local, wi-fi ou bien 3G/4G.
+Une parfaite maîtrise de vos applications, hébergeur indépendant
+Quel que soit l'éditeur de vos outils de productions comptable, nous en assurons l'installation et la maintenance. Mises à jour des applications en dehors des horaires d'ouverture ou de production. Toutes vos applications sur un seul et même portail.
+Mise à disposition des applications du type ATAWAD
+AnyTime, AnyWhere, AnyDevice : Plus besoin d'installer les applications sur les portables ou les postes de travail. A l'aide d'un simple navigateur et un token RSA, le collaborateur se connecte à ses applications hébergées et sécurisées dans nos datacenters.
+Sécurité et confidentialité des données
+Datacenter de type Tiers 3+, hautement sécurisé, contrôle d'accès, surveillance 24/7.
+Certification datacenter France, Paris : ISO 14001, ISO 27001 et ISO 900.
+Accès aux applications 100% sécurisé avec le protocole TLS SHA-256.
+Authentification double facteur RSA SecurID afin de garantir la confidentialité des accès.
+Sauvegarde redondante et glissante sur 4 semaines, rétention mensuelle de 1 an.
+Une architecture adaptée à vos besoins
+ASP Sourcing adapte "on-demand" son architecture serveurs en fonction de vos besoins. Que vous soyez 5 ou 200 utilisateurs, mono-site ou multi-sites, nous mettons en place une configuration adaptée et calibrée afin de proposer des tarifs attractifs et cohérents. L'hébergement devient accessible grâce à la virtualisation et la consolidation des serveurs. ASP Sourcing mutualise son coeur de réseau, sa bande passante et certains services nécessaires au bon fonctionnement de vos applications afin de réduire les coûts et offrir ainsi des solutions performantes et innovantes.
+Des partenaires performants et fiables
+ASP Sourcing s'est entouré des meilleurs partenaires afin de vous proposer des solutions d'hébergement et de centralisation performantes et innovantes, conformes aux exigences de la consolidation des systèmes d'information.
+Notre datacenter principal est situé dans une salle blanche chez Colt Telecom à Paris, leader dans les solutions data et hosting. Ce choix nous offre un niveau de sécurité extrêmement élevé quant à la disponibilité de la plateforme. Les datacenters d'Ivry-sur-Seine et de Barcelone nous permettent de maintenir un niveau de redondance important en répliquant les services critiques de notre infrastructure.
