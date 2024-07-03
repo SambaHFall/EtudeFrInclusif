@@ -1,4 +1,0 @@
-Licence professionnelle mention Domotique, parcours Services et produits pour l'habitat : conseil, vente, intégration
-Ce parcours type forme des professionnels qui vendent, conseillent, installent et assurent la maintenance des solutions et services du secteur domotique-immotique. À l’issue de cette licence professionnelle, les étudiants ont acquis des com (...)
-Diplôme d’Université - Développeur expert en sécurité
-Formation à destination des professionnel·le·s pour une sensibilisation aux bonnes pratiques de développement afin de créer des systèmes à logiciels prépondérants plus sûrs (moins propices aux failles de sécurité).

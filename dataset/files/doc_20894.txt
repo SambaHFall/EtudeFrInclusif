@@ -1,7 +1,0 @@
-Il y a trois types de montages selon le rail de la carabine, celles ci pouvent �tre de rail 11mm, ce sont le plus souvent, il y a tr�s rarement rail de 13mm(quelques
-carabines de l'Est Europ�en) et le rail Weaver, la r�f�rence de montage commence par "W"
-Pour le montage de 13mm, nous avons que celles de la marque BSA, tous les autres sont pour de raill11mm et
-Weaver.
-Ensuite, il faudra tenir compte la mesure du tube du viseur, il y a des lunettes qui le tube mesure une pouce(25,4mm) ou autres qui mesure 30mm; pour ceux d'une pouce la r�f�rence commencent par 26 (e.j.: 26/1/H) et pour ceux de 30mm la r�f�rence commence par 30 (e.j.: 30/2/M)
-Aussi il faut conna�tre le diam�tre ext�rieur d'objectif de la lunette a fin de d�terminer la hauteur n�cessaire de votre montage car il existe trois hauteur bas, medium, haut, neamoins nous traivallons que avec medium et haut (M/H)
-Dans notre web vous pourrez lire le d�taille de l'objectif de la lunette et aussi vous pourrez voir la hauteur maximal qu'admit chaque montage.
