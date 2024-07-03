@@ -1,6 +1,5 @@
 from ._utils import AnnPredModel, Ann, Trie, group, merge_sort
 import os
-import Levenshtein
 from unidecode import unidecode
 import re
 
