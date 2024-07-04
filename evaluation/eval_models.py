@@ -21,8 +21,9 @@ from tqdm import tqdm
 Run every detection model on the corpus français inclusif database and compute their results and performances into the res directory
 """
 
-if not os.path.exists(script_dir + '/res') :
+if not os.path.exists(script_dir + '/res'):
 	os.makedirs(script_dir + '/res')
+
 
 
 x, y = get_fr_inclusif_data()
@@ -38,8 +39,8 @@ models_list.append(modelARB)
 
 preds = modelARB.predict(test_x)
 
-print("Métriques pour rule-based adv :")
-print(modelARB.metric(test_x, test_y, preds))
+with open(script_dir + '/res/perf.txt', 'w') as f :
+	f.write(f"Métriques pour rule-based adv :\n{modelARB.metric(test_x, test_y, preds)}")
 weights_list.append(modelARB.metric(test_x, test_y, preds)["precision"])
 
 modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/arb_preds.csv")
@@ -51,8 +52,9 @@ models_list.append(modelNRB)
 
 preds = modelNRB.predict(test_x)
 
-print("Métriques pour rule-based naïf :")
-print(modelNRB.metric(test_x, test_y, preds))
+with open(script_dir + '/res/perf.txt', 'a') as f :
+	f.write(f"Métriques pour rule-based naïf :\n{modelNRB.metric(test_x, test_y, preds)}")
+
 weights_list.append(modelNRB.metric(test_x, test_y, preds)["precision"])
 
 modelNRB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/nrb_preds.csv")
@@ -63,8 +65,8 @@ modelCRF.fit(train_x, train_y)
 
 preds = modelCRF.predict(test_x)
 
-print("Métriques pour CRF :")
-print(modelCRF.metric(test_x, test_y, preds))
+with open(script_dir + '/res/perf.txt', 'a') as f :
+	f.write(f"Métriques pour CRF :\n{modelCRF.metric(test_x, test_y, preds)}")
 
 modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/crf_preds.csv")
 
@@ -73,8 +75,9 @@ models_list.append(modelINC)
 
 preds = modelINC.predict(test_x)
 
-print("Métriques pour Inclure :")
-print(modelINC.metric(test_x, test_y, preds))
+with open(script_dir + '/res/perf.txt', 'a') as f :
+	f.write(f"Métriques pour Inclure :\n{modelINC.metric(test_x, test_y, preds)}")
+	
 weights_list.append(modelINC.metric(test_x, test_y, preds)["precision"])
 
 modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/inclure_preds.csv")
