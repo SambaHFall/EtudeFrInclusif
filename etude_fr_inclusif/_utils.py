@@ -3,6 +3,7 @@ import pandas as pd
 import spacy
 from spacy.tokenizer import Tokenizer
 from spacy.util import compile_infix_regex, compile_suffix_regex
+import os
 
 
 """
@@ -52,7 +53,7 @@ def retokenization(doc) :
 output : training data load from "corpus français inclusif" in form of : list[str], list[list[Ann]]  
 """
 def get_fr_inclusif_data():
-	df = pd.read_csv("data/fr_inclusif.csv")
+	df = pd.read_csv(os.path.dirname(os.path.abspath(__file__) ) + "/data/fr_inclusif.csv")
 	return [item for item in df["Text"]], [ [Ann(item["beg"], item["end"], text=item["text"], metadata=item["metadata"]) for item in eval(jtem)] for jtem in df["Annotations"]  ]
 
 
