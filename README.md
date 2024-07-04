@@ -56,6 +56,6 @@ print(model.predict(text))
 
 ```
 
-# Script for evaluate
+# Script for evaluation
 
 The programme evaluation/eval_models.py performs an evaluation of each model's performances, and store the results of its analysis in several files, which are supposed to be located in a directory called "res". Therefore, you need to create a "res" directory where the source code file is located for this programm to run correctly.
