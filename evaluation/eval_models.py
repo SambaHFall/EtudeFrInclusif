@@ -21,6 +21,10 @@ from tqdm import tqdm
 Run every detection model on the corpus français inclusif database and compute their results and performances into the res directory
 """
 
+if not os.path.exists(script_dir + '/res') :
+	os.makedirs(script_dir + '/res')
+
+
 x, y = get_fr_inclusif_data()
 
 train_x, test_x, train_y, test_y = train_test_splitter(x,y, test_size=0.2)
@@ -79,7 +83,7 @@ modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(scr
 gran = 0.05
 x_axis = [ item for item in np.arange(0, 1+gran, gran) ]
 y_axes = {"precision" : [], "recall" : [], "f1-score" : []}
-for j in range(0,len(x_axis)) :
+for j in range(0,len(x_axis)):
 	x_val = x_axis[j]
 	modelSUPER = SuperAnnModel(models = models_list, weights = weights_list, tol= x_val)
 	preds = modelSUPER.predict(test_x)
@@ -98,7 +102,7 @@ ax.set_ylabel("score")
 best_ind = np.argmax([.0 if item is None else item for item in y_axes["f1-score"]])
 best_x = x_axis[best_ind]
 
-ax.text(best_x, 0.95, 
+ax.text(best_x, 0.95,
 	'Meilleur f1-score : \n tol=' + str(round(best_x,2)) + '\n precision=' + str(round(y_axes['precision'][best_ind], 4)) + '\n recall=' + str( round(y_axes['recall'][best_ind],4) ) + '\n f1-score=' + str(round(y_axes['f1-score'][best_ind], 4) ),
 	bbox = {'facecolor' : 'white', 'alpha' : 0.4, 'pad' : 10} )
 
