@@ -5,7 +5,7 @@ import pandas as pd
 import re
 
 import spacy
-from spacy.lang.fr import French
+# from spacy.lang.fr import French
 
 from .common import SEP, preproc, LETTER #, Path, CLI
 
