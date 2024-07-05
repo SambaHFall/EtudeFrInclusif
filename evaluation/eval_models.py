@@ -1,35 +1,31 @@
 import sys
 import os
-script_dir = os.path.dirname( os.path.abspath(__file__) )
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
 sur_script_dir = os.path.dirname(script_dir)
 sys.path.append(sur_script_dir)
 
-from etude_fr_inclusif._utils import AnnPredModel, get_fr_inclusif_data
+from etude_fr_inclusif._utils import get_fr_inclusif_data
 from etude_fr_inclusif.splitter import train_test_splitter
 from etude_fr_inclusif.naive_rule_based import NaiveRBModel
 from etude_fr_inclusif.crf import CRFModel
 from etude_fr_inclusif.inclure import InclureModel
 from etude_fr_inclusif.adv_rule_based import AdvRBModel
 from etude_fr_inclusif.super_model import SuperAnnModel
-
 import matplotlib.pyplot as plt
 import numpy as np
-from tqdm import tqdm
-
 
 """
-Run every detection model on the corpus français inclusif database and compute their results and performances into the res directory
+Run every detection model on the corpus français inclusif database and
+compute their results and performances into the res directory
 """
 
 if not os.path.exists(script_dir + '/res'):
-	os.makedirs(script_dir + '/res')
-
+    os.makedirs(script_dir + '/res')
 
 
 x, y = get_fr_inclusif_data()
-
-train_x, test_x, train_y, test_y = train_test_splitter(x,y, test_size=0.2)
-
+train_x, test_x, train_y, test_y = train_test_splitter(x, y, test_size=0.2)
 models_list = []
 weights_list = []
 
@@ -39,12 +35,12 @@ models_list.append(modelARB)
 
 preds = modelARB.predict(test_x)
 
-with open(script_dir + '/res/perf.txt', 'w') as f :
-	f.write(f"Métriques pour rule-based adv :\n{modelARB.metric(test_x, test_y, preds)}")
+with open(script_dir + '/res/perf.txt', 'w') as f:
+    f.write(f"Métriques pour rule-based adv :\n{modelARB.metric(test_x, test_y, preds)}\n")
 weights_list.append(modelARB.metric(test_x, test_y, preds)["precision"])
 
-modelARB.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/arb_preds.csv")
-modelARB.annotation_layout(test_x, test_y ,iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/obs.csv")
+modelARB.annotation_layout(test_x, preds, iddoc=range(0, len(test_x))).to_csv(script_dir + "/res/arb_preds.csv")
+modelARB.annotation_layout(test_x, test_y, iddoc=range(0, len(test_x))).to_csv(script_dir + "/res/obs.csv")
 
 
 modelNRB = NaiveRBModel()
@@ -52,8 +48,8 @@ models_list.append(modelNRB)
 
 preds = modelNRB.predict(test_x)
 
-with open(script_dir + '/res/perf.txt', 'a') as f :
-	f.write(f"Métriques pour rule-based naïf :\n{modelNRB.metric(test_x, test_y, preds)}")
+with open(script_dir + '/res/perf.txt', 'a') as f:
+    f.write(f"Métriques pour rule-based naïf :\n{modelNRB.metric(test_x, test_y, preds)}\n")
 
 weights_list.append(modelNRB.metric(test_x, test_y, preds)["precision"])
 
@@ -65,38 +61,37 @@ modelCRF.fit(train_x, train_y)
 
 preds = modelCRF.predict(test_x)
 
-with open(script_dir + '/res/perf.txt', 'a') as f :
-	f.write(f"Métriques pour CRF :\n{modelCRF.metric(test_x, test_y, preds)}")
+with open(script_dir + '/res/perf.txt', 'a') as f:
+    f.write(f"Métriques pour CRF :\n{modelCRF.metric(test_x, test_y, preds)}\n")
 
-modelCRF.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/crf_preds.csv")
+modelCRF.annotation_layout(test_x, preds, iddoc=range(0, len(test_x))).to_csv(f"{script_dir}/res/crf_preds.csv")
 
 modelINC = InclureModel()
 models_list.append(modelINC)
 
 preds = modelINC.predict(test_x)
 
-with open(script_dir + '/res/perf.txt', 'a') as f :
-	f.write(f"Métriques pour Inclure :\n{modelINC.metric(test_x, test_y, preds)}")
-	
+with open(script_dir + '/res/perf.txt', 'a') as f:
+    f.write(f"Métriques pour Inclure :\n{modelINC.metric(test_x, test_y, preds)}\n")
 weights_list.append(modelINC.metric(test_x, test_y, preds)["precision"])
 
-modelINC.annotation_layout(test_x, preds, iddoc=range(0,len(test_x))).to_csv(script_dir + "/res/inclure_preds.csv")
+modelINC.annotation_layout(test_x, preds, iddoc=range(0, len(test_x))).to_csv(f"{script_dir}/res/inclure_preds.csv")
 
 
 gran = 0.05
-x_axis = [ item for item in np.arange(0, 1+gran, gran) ]
-y_axes = {"precision" : [], "recall" : [], "f1-score" : []}
-for j in range(0,len(x_axis)):
-	x_val = x_axis[j]
-	modelSUPER = SuperAnnModel(models = models_list, weights = weights_list, tol= x_val)
-	preds = modelSUPER.predict(test_x)
-	for key in y_axes :
-		y_axes[key].append(modelSUPER.metric(test_x,test_y,preds)[key])
+x_axis = [item for item in np.arange(0, 1 + gran, gran)]
+y_axes = {"precision": [], "recall": [], "f1-score": []}
+for j in range(0, len(x_axis)):
+    x_val = x_axis[j]
+    modelSUPER = SuperAnnModel(models=models_list, weights=weights_list, tol=x_val)
+    preds = modelSUPER.predict(test_x)
+    for key in y_axes:
+        y_axes[key].append(modelSUPER.metric(test_x, test_y, preds)[key])
 
 fig, ax = plt.subplots()
 
-for key in y_axes :
-	ax.plot(x_axis, y_axes[key])
+for key in y_axes:
+    ax.plot(x_axis, y_axes[key])
 
 
 ax.set_xlabel("tolerance")
@@ -106,8 +101,8 @@ best_ind = np.argmax([.0 if item is None else item for item in y_axes["f1-score"
 best_x = x_axis[best_ind]
 
 ax.text(best_x, 0.95,
-	'Meilleur f1-score : \n tol=' + str(round(best_x,2)) + '\n precision=' + str(round(y_axes['precision'][best_ind], 4)) + '\n recall=' + str( round(y_axes['recall'][best_ind],4) ) + '\n f1-score=' + str(round(y_axes['f1-score'][best_ind], 4) ),
-	bbox = {'facecolor' : 'white', 'alpha' : 0.4, 'pad' : 10} )
+    'Meilleur f1-score : \n tol=' + str(round(best_x,2)) + '\n precision=' + str(round(y_axes['precision'][best_ind], 4)) + '\n recall=' + str(round(y_axes['recall'][best_ind],4) ) + '\n f1-score=' + str(round(y_axes['f1-score'][best_ind], 4) ),
+    bbox = {'facecolor': 'white', 'alpha': 0.4, 'pad': 10})
 
 ax.legend(labels=y_axes.keys())
 
