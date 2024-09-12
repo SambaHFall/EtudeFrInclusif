@@ -41,7 +41,7 @@ python3 -m spacy download fr_dep_news_trf
 ```
 
 
-# Script for testing
+# Script for testing the code
 
 ```python
 from etude_fr_inclusif.super_model import SuperAnnModel
